@@ -1,0 +1,164 @@
+---
+decision_id: "ti_gerichte_INC.2000.46303"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.46303"
+decided: "2000-11-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=57089&nX40_KEY=4711459&nTrefferzeile=2&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md"]
+---
+
+# TI Gerichte INC.2000.46303
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.11.2000 INC.2000.46303
+Tessin Il Giudice dell'istruzione e dell'arresto 23.11.2000 INC.2000.46303
+Ticino Il Giudice dell'istruzione e dell'arresto 23.11.2000 INC.2000.46303
+
+Sentenza o decisione senza scheda
+
+N. 463.2000.3 L                                                         Lugano,
+23 novembre 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 15 novembre 2000 da
+__________
+, attualmente presso l'Ospedale __________
+(patrocinato dall'avv.
+__________)
+qui trasmessa il 20/21 novembre
+2000 con preavviso negativo dal
+Procuratore pubblico straordinario
+dott.
+__________;
+viste le osservazioni 22 novembre
+2000 di __________, che conferma contenuti e conclusioni dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e
+considerato:
+che
+-
+__________, già privato della libertà personale a __________ per
+pendente procedura estradizionale promossa dalla competente Autorità penale
+italiana, venne arrestato il 6 agosto 2000 per ordine del Procuratore pubblico
+straordinario, con promozione dell'accusa per titolo di corruzione attiva:
+questo giudice ebbe a confermare il provvedimento all'udienza del 7 agosto
+2000;
+-
+l'accusato si trova presentemente ricoverato presso l'Ospedale regionale
+di __________ per necessarie indagini cliniche, il suo stato di salute peraltro
+non essendo "
+compatibile con la carcerazione fino a data da stabilire a
+seconda dei risultati degli accertamenti
+", come al certificato medico
+14 novembre 2000 dell'assistente di medicina dr.essa __________;
+-
+a ragione di questa situazione, con istanza 15 novembre 2000, __________
+ha chiesto al magistrato inquirente di essere messo in libertà, appunto "
+per
+motivi di salute, in ragione della sua non carcerabilità
+", con
+autorizzazione di permanenza in Svizzera, "
+in deroga al divieto di
+entrata, e ciò fino alla fine del procedimento a suo carico
+";
+-
+il Procuratore pubblico straordinario esprime preavviso negativo,
+costatando che l'accusato non è astretto in un carcere, ma ricoverato in camera
+ospedaliera di sicurezza: allora "
+gli invocati motivi di salute non
+sussistono
+", in quanto "
+per carcerabilità deve intendersi
+infatti la custodia in un carcere chiuso e non in ospedale
+";
+-
+le osservazioni dell'accusato al preavviso negativo sottolineano come la
+permanenza dello stato di carcerazione, sia pure in cella ospedaliera, è tale
+da ridurre tempestività ed efficacia delle cura, con influsso negativo
+sull'aspetto psicologico a danno della necessità di "
+concentrarsi in
+modo esclusivo sulle cure
+": viene aggiunto che __________ ha
+pienamente chiarito le sue responsabilità e che non vi è nessun pericolo di
+fuga (anche perché "
+rimarrebbe comunque in stato di detenzione
+nell'ambito della procedura estradizionale
+");
+-
+come noto arresto e carcere preventivo sono legittimi in presenza di
+gravi e concreti indizi di colpabilità per un crimine o un delitto e
+contemporaneamente di motivi di interesse pubblico, quale è nel presente
+contesto il pericolo di fuga (art. 95 cpv. 2 CPP);
+-
+l'istanza non ha posto in discussione, per negarne il ricorrere, questi
+presupposti: sono le osservazioni al preavviso negativo a parlare
+implicitamente di assenza di bisogni dell'istruttoria e specificamente di
+esclusione di pericolo di fuga, per cui ne sembra scossa la ricevibilità per il
+mancato rispetto del doppio grado di giurisdizione;
+-
+in ogni caso, anche attraverso sommario esame d'ufficio, vi sono da un
+lato sufficienti indizi di reato, __________ avendo ammesso di aver fatto da
+tramite tra l'allora giudice __________ e __________ per favorire la rimessa al
+primo di un importante somma di denaro da dissequestrare nel contesto di un
+procedimento di confisca nella competenza dello stesso giudice __________ (v.
+verbale __________ dell'11 agosto 2000, pag. 6 ss.; confronto __________ /
+__________ del 17 agosto 2000 e verbale 13 ottobre 2000 di __________), e
+dall'altro vi è palese pericolo di fuga, anche solo pensando agli esiti della
+tuttora pendente procedura di estradizione (per contro non ricorrono
+obbiettivamente bisogni dell'istruzione);
+-
+ora il problema della carcerabilità per ragioni di salute sfugge del
+tutto alla competenza dell'autorità giudiziaria per rimanere in quella
+esclusiva del medico, come in pratica nel presente caso è avvenuto con il
+trasferimento e la degenza in consono ambiente ospedaliero, con le sole
+restrizioni al contempo necessarie alle cure ed alla garanzia della privazione
+della libertà personale: in contrario senso nulla è detto dai responsabili
+clinici (che inoltre neppure indicano come definitiva questa presente
+conclusione di incarcerabilità);
+-
+per la grave malattia diagnosticata, è comprensibile che __________
+patisca riscontri di preoccupazione e di sofferenza psicologica, ma ciò non muterebbe
+con una comunque problematica libertà provvisoria, altresì sempre confrontata
+con il procedimento penale (tanto più che, come riconosciuto dall'accusato egli
+rimarrebbe "
+in stato di detenzione nell'ambito della procedura
+estradizionale
+", di pratico impatto identico all'attuale forma di
+esecuzione del carcere preventivo): e va respinta la men che provata e quindi
+gratuita illazione di ritardi di cure ed interventi per la sola circostanza
+della privazione della libertà;
+-
+l'istanza si avvera ai limiti della ricevibilità ed è in ogni modo
+infondata e come tale va respinta, senza pronuncia di spese giudiziarie e
+riservato il diritto di ricorso alla Camera dei ricorsi penali a norma di
+legge;
+visti gli art. 95 ss. e 284 cpv.
+1 lett. a CPP,
+decide:
+1.
+In quanto ricevibile, l'istanza è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso entro dieci giorni
+dall'intimazione alla Camera dei ricorsi penali.
+4.
+Intimazione:
+-
+avv. __________, per sé e per l'accusato istante;
+-
+Procuratore pubblico straordinario dott. __________ (con copia
+delle osservazioni al preavviso negativo).
+giudice
+__________
