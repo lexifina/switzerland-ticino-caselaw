@@ -1,0 +1,700 @@
+---
+decision_id: "ti_gerichte_INC.1996.59102"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1996.59102"
+decided: "2004-06-22"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=64663&nX40_KEY=4711302&nTrefferzeile=38&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/312.0/art-060.md", "switzerland/bund/acts/312.0/art-176.md", "switzerland/bund/acts/312.0/art-184.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-193.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.1996.59102
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 22.06.2004 INC.1996.59102
+Tessin Il Giudice dell'istruzione e dell'arresto 22.06.2004 INC.1996.59102
+Ticino Il Giudice dell'istruzione e dell'arresto 22.06.2004 INC.1996.59102
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.1996.59102
+Lugano
+22 giugno 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire sul
+reclamo presentato l'1/2 settembre 2003 da
+__________
+, __________ (rappr. dall'avv. __________)
+contro
+la decisione 21 agosto 2003
+del Procuratore pubblico Giuseppe Muschietti che rifiuta i complementi
+istruttori proposti dal reclamante nell'ambito del procedimento di cui
+all'inc. MP __________;
+viste
+le osservazioni del magistrato inquirente (4 settembre 2003) e quelle della
+parte civile __________ (15/16 settembre 2003), nonché lo scritto del
+patrocinatore della parte civile __________ (11/15 settembre 2003);
+visto
+l'incarto MP __________ (i cui atti non sono singolarmente numerati con
+conseguente difficoltà di citazione/rimando);
+ritenuto
+in fatto
+A.
+I
+fatti oggetto d'inchiesta (e le relative ipotesi di reato), non sono
+minimamente menzionati o richiamati né nel reclamo né nelle osservazioni del
+magistrato inquirente, sebbene siano di ovvia importanza per la valutazione
+della rilevanza e della pertinenza delle prove. Solo la __________ si premura
+di, brevemente, ricordarli (Osservazioni 15 settembre 2003, pag. 4).
+Di
+poca utilità, per la comprensione dei fatti oggetto d'indagine, sono la
+promozione dell'accusa del 2 settembre 1996, che si limita a menzionare i
+titoli di reato ipotizzati, ma non i fatti, e il deposito atti del 28 maggio
+2003, che coinvolge altra persona e accomuna il deposito atti (196 CPP) a un
+generico "esame atti".
+B.
+Con
+denuncia del 30 agosto 1996, la __________ segnala che __________ avrebbe
+"
+distolto in suo favore fondi depositati da 12 clienti, per un totale
+di FRS 1'120'392,70
+", fatti che avrebbero causato anche danni
+aggiuntivi (ancora) da quantificare. Il reclamante, nel suo primo verbale (2
+settembre 1996), afferma di aver costituito (o acquistato) delle società
+immobiliari per "trasformare" delle somme di sua pertinenza non
+dichiarate al fisco in importi dichiarati e che (sic!) "
+Queste società
+ricevevano dei fondi dalla __________, fondi che erano stati depositati da
+clienti, i quali volevano un investimento più redditizio rispetto all'usuale. A
+tal fine consegnavo a questi clienti dei certificati a nome della __________
+dal quale risultava che avevano depositato determinate somme per un determinato
+periodo e per un determinato tasso. Aggiungo che questi clienti operavano in
+questo modo perché avevano fiducia nella mia persona. Questi clienti di solito
+non chiedevano il rimborso ma rinnovavano alla scadenza
+". Sempre nel
+verbale citato si afferma che il denaro a favore della società veniva
+depositato su di un libretto intestato alla stessa (verbale menzionato, pag.
+2).
+C.
+Questo
+ufficio ha già avuto modo di occuparsi della fattispecie oggetto dell'incarto
+MP __________ in una sentenza relativa al sequestro di una relazione bancaria
+intestata alla convivente, nonché presunta correa (cfr. Ordine d'arresto del 5
+settembre 1996), del qui reclamante. In quella decisione, i fatti alla base del
+procedimento erano stati riassunti nel modo seguente:
+"1.
+Il 2 settembre 1996 é stato arrestato a Bellinzona __________
+siccome prevenuto colpevole di truffa, appropriazione indebita, falsità in
+documenti ed amministrazione infedele. I fatti imputati all’accusato sono
+riferiti alla sua attività di gerente della banca __________, attività svolta
+da __________ sino a poco prima dell’arresto.
+Al momento dell’emanazione del provvedimento
+restrittivo della libertà il magistrato d’accusa incaricato delle indagini ha
+emanato pure ordini di perquisizione e sequestro da eseguirsi presso la
+residenza primaria e quella secondaria dell'accusato nonché presso la società __________
+di __________.
+… omissis …
+Il procedimento di cui si tratta trae spunto dalla scoperta,
+presso la __________, di malversazioni per complessivi fr. 1’120’390,70 (come
+alla denuncia 30 agosto 1996 della Banca). __________ avrebbe incassato ed
+intascato danari di clienti destinati ad investimenti a termine rispettivamente
+avrebbe operato su conti di clienti. Il provento di tali attività illecite,
+almeno in parte, sarebbe andato a favore della __________.
+… omissis…
+4.
+… omissis …
+In sostanza beni provenienti dal patrimonio delle
+vittime sono entrati sul conto della SA …"
+(sentenza 10 dicembre 1996, GIAR 598.96.3)
+Ulteriori
+elementi sono riscontrabili nel verbale __________ del 12 settembre 1996, nel
+quale il qui reclamante parla di "malversazioni" da lui commesse
+nella forma della "sottrazione" di fondi di pertinenza di clienti
+della Banca (di cui era gerente) per ca. FRS 1,43 milioni. Verbali successivi
+concernono i singoli clienti (cfr. lista allegata al verbale 17 settembre 1996
+e verbali successivi).
+D.
+Nel
+verbale 31 marzo 2000, al qui reclamante vengono contestate due ulteriori denunce
+(dichiarate del 18, rispettivamente 20, maggio 1998 - cf. verbale citato) di
+cui non è stata trovata traccia nell'elenco atti prodotto dal Ministero
+pubblico (cfr. "indice elenco atti", punto 5, dove è classata la
+denuncia del 1996).
+In
+relazione a queste due denunce non è stata trovata la (eventuale) estensione
+dell'accusa (cfr. "indice elenco atti", punto 1 in particolare), che
+non risulta neppure dai verbali. Forse questa circostanza (assenza di
+estensione dell'accusa) spiega il motivo della duplice indicazione nella
+notifica del 28 maggio 2003 effettuata dal Procuratore pubblico alle parti
+(deposito atti ed esame atti), a meno che la stessa non sia da porre in
+relazione con l'altro nominativo menzionato sul documento e nei confronti del
+quale non risultano (sempre in base agli atti prodotti - cfr. "indice
+elenco atti" punto 1, nonché verbali 25 luglio 2000 e 20 febbraio 2001)
+promozioni d'accusa.
+È
+opportuno, a questo punto, ricordare che la fattispecie oggetto d'inchiesta e
+le ipotesi di reato indagate debbono emergere dall'incarto e possono essere
+solo il frutto del rapporto istituzionale tra il magistrato inquirente e le
+parti. Non è compito di questo giudice formulare ipotesi sulla base degli atti
+che gli vengono prodotti.
+E.
+A
+seguito della comunicazione di "deposito atti" ed "esame
+atti", __________ ha presentato istanza di complementi istruttori con
+scritto del 14 agosto 2003. In sostanza ha prodotto un documento, ne ha
+richiamati ventidue da varie persone e enti ed ha chiesto l'audizione di 11
+persone (cfr. Istanza citata, punti A., B., C.). Sulle motivazioni si dirà nei
+considerandi di diritto.
+Il
+magistrato inquirente, con decisione del 21 agosto 2003, ha respinto tutte le
+richieste di complemento in quanto non sufficientemente motivate in relazione
+alla loro rilevanza e pertinenza (abbondanzialmente negata) per le conclusioni
+di sua competenza e/o per carenza del requisito della novità.
+Per
+completezza si precisa che analogo destino è stato riservato alla richiesta di
+complementi presentata dalla parte civile _________, con decisione anch'essa
+del 21 agosto 2003 ("indice elenco atti", punto 1).
+È
+scorrendo questa decisione che si comprende come le denunce 18 e 20 maggio 1998
+alle quali si è accennato nel considerando D. della presente, sarebbero oggetto
+di un altro procedimento ed incarto (il __________) non trasmesso a questo
+ufficio (cfr. Osservazioni PP 4 settembre 2003) e non oggetto del deposito atti
+del 28 maggio 2003 (cfr. intestazione dell'atto di notifica).
+F.
+Con
+il reclamo qui in esame, __________ contesta la decisione del magistrato
+inquirente e ribadisce le richieste di prova, così come proposte con l'istanza
+del 14 agosto 2003, con la sola eccezione di un richiamo di documento e di un
+teste (cfr. Reclamo punti 3. B/21 e 3. C/10). Dopo una premessa sul concetto di
+sufficiente motivazione (che non deve costituire formalismo eccessivo) e di
+novità (che si confonde con la conoscenza della sua rilevanza e pertinenza e
+non con la sua semplice esistenza), il reclamante passa in rassegna le prove
+proposte sostenendo sufficiente motivazione dell'istanza originaria ed
+aggiungendo, per ognuna, alcune ulteriori (stringate) considerazioni.
+Il
+magistrato inquirente, con le osservazioni del 4 settembre 2003, ribadisce la
+sua decisione, per ognuna delle prove proposte. In conclusione chiede il
+respingimento del reclamo.
+La
+parte civile __________ chiede il rigetto del reclamo e la conferma della
+decisione impugnata (Osservazioni 15 settembre 2003). A mente della resistente
+le prove proposte non sostenute da sufficienti motivazioni, sono irrilevanti,
+prive di pertinenza e in alcuni casi difettano pure del requisito di novità.
+La
+parte civile __________, dal canto suo, ha comunicato di non opporsi alle
+richieste, pur non comprendendone l'utilità per tutte (Scritto parte civile __________
+11 settembre 2003).
+Delle
+altre argomentazioni/osservazioni delle parti, si dirà, se necessario, nei
+considerandi che seguono.
+Considerato
+in diritto
+1.
+Il
+reclamo, presentato tempestivamente dall'accusato contro una decisione a lui
+intimata, è ricevibile in ordine.
+L'istanza
+di complemento istruttorio è stata respinta, sostanzialmente, per insufficiente
+motivazione. La totale carenza di motivazione può giustificare la reiezione in
+ordine del reclamo (sentenza 13 marzo 2001, GIAR 463.2000.6). Nel caso in esame
+è difficile affermare carenza totale di motivazione per tutte le richieste,
+quindi si verificherà la sufficiente o insufficiente motivazione nell'ambito
+dell'analisi di merito di ogni singola richiesta.
+2.
+I
+principi in base ai quali si deve determinare se la prova debba essere assunta
+(identici sia che la decisione avvenga in corso d'istruttoria, sia che avvenga
+alla conclusione della stessa e nel termine del deposito degli atti), seppur
+noti al magistrato ed ai patrocinatori delle parti, possono essere così
+riassunti:
+"Per meritare di essere assunte, le prove
+proposte dalle parti contestualmente al deposito atti (art. 196 CPP), o in
+altro momento dell’istruttoria (artt. 60 cpv. 1 e 79 cpv. 1 CPP), devono
+rispettare tre concorrenti ordini di considerazione: esse devono essere
+motivate per quanto attiene al loro oggetto ed al loro scopo in diretta
+connessione con la fattispecie inquisita; tali mezzi di prova devono avere i
+requisiti della novità, della rilevanza e della pertinenza alle successive
+conclusioni di competenza del Procuratore Pubblico, dapprima per decidere se
+promuovere l’accusa oppure non far luogo al procedimento e poi (dopo
+conclusione dell’istruzione formale) se decretare messa in stato d'accusa o
+abbandono, sino se del caso a quelle del giudice di merito; per quest’ultima
+evenienza, le stesse prove devono essere di difficile produzione al
+dibattimento, avute presenti le finalità dell’art. 189 CPP, inteso appunto tra
+l’altro ad assicurarne la non interrotta assunzione (v. sentenza 24 gennaio
+1990, inc. CRP 337/89; v. decisioni 17 febbraio 1993 in re L.P., inc. GIAR
+135.93.1; 3 novembre 1993 in re G.G., inc. GIAR 862.93.1, e 14 giugno 1995 in
+re F.M., inc. GIAR 1093.93.5). Se, in particolare per l’accusato, la facoltà di
+proporre mezzi di prova è espressione del diritto di essere sentito ai sensi
+dell’art. 4 Cost. fed. (ora, art. 8 cpv. 1 della nuova Cost. fed.; v., da
+ultimo, DTF 124 I 49, consid. 3a p. 51; DTF 121 I 306, consid. 1b p. 308) e del
+“fair trial” ai sensi dell’art. 6 CEDU (v. Frowein/Peukert, EMRK-Kommentar, 2.
+Aufl. Kehl/Strassburg/ Arlington 1996, nota 99 ad art. 6 CEDU), il giudice del
+merito (ed il magistrato inquirente) è tenuto, in applicazione delle norme
+procedurali corrispondenti, a considerare rispettivamente ammettere soltanto
+quei mezzi di
+prova che “nach
+seinem richterlichen Ermessen entscheidungserheblich sind” (Frowein/Peukert,
+loc. cit. p. 231). Con riferimento specifico all’audizione di testi, il
+magistrato può rifiutare la prova proposta “wenn er die zu erwartende Antwort
+bzw. Aussage nach seiner freien Ermessensentscheidung für die Wahrheitsfindung
+nicht für beachtlich hält” (Frowein/Peukert, loc. cit., nota 202 ad art. 6
+CEDU, con rinvii), nelle parole di Niklaus Schmid (Strafprozessrecht, 3.
+Aufl. Zürich 1997, margin. 270, con rinvii
+a DTF 103 Ia 491 et al. in nota 321) “wenn sie den rechtlich relevanten
+Sachverhalt als genügend geklärt erachten”.
+Di conseguenza, non è data violazione dell’art. 6 CEDU
+se il giudice del merito rifiuta un mezzo di prova dopo averne esaminato la
+pertinenza (v. Frowein/Peukert, loc. cit., nota 203 ad art. 6 CEDU, con rinvio
+al noto caso Vidal; come qui, v. decisione 17 giugno 1998 in re F.F., inc. GIAR
+55.98.1 consid. 1). .Non va, inoltre, dimenticato che la fase in cui si colloca
+la presente discussione del complemento probatorio in questione è quella
+predibattimentale, finalizzata in primo luogo a permettere alla pubblica accusa
+di determinarsi sulle questioni se promuovere l’accusa o meno, indi se deferire
+l’accusato alla Corte competente oppure se pronunciare l’abbandono del
+procedimento (art. 184 cpv. 1 CPP, rispettivamente artt. 196 cpv. 1 e 198 cpv.
+1 CPP combinati). Per costante dottrina e giurisprudenza, invece, l’eventuale
+utilità o opportunità della prova proposta nell’ottica del giudice del merito è
+elemento a favore della sua assunzione già nella fase predibattimentale
+unicamente qualora l’amministrazione di tale prova in sede dibattimentale sia
+impossibile, o vi sia concreto rischio che lo diventi."
+(GIAR
+21 giugno 2001 in re C.)
+3.
+a)
+In
+sede di reclamo, prima di sottolineare sufficiente motivazione delle sue
+richieste, nonché presenza delle condizioni di novità, pertinenza, rilevanza e
+non rinviabilità al dibattimento, __________ propone alcune considerazioni
+interpretative, in relazione ai concetti che, appunto, presiedono l'assunzione
+delle prove.
+È
+opportuno prendere posizione, preliminarmente, in merito a tali considerazioni.
+b)
+Il
+concetto di novità della prova proposta così come esposto dal reclamante, cioè
+legato alla "
+conoscenza della sua rilevanza e pertinenza
+" è
+certamente condivisibile ma comporta, laddove l'elemento di prova era noto e
+poteva essere assunto in precedenza, un maggior onere di motivazione. Infatti,
+sebbene si operi in una procedura che vuole in magistrato inquirente quale
+unico dominus (art. 193 CPP), con facoltà di liberamente assumere le prove che
+ritiene necessarie (pur nel rispetto del principio sancito dall'art. 176 cpv. 1
+CPP) e con quella di decidere sulle prove richieste (dalle parti) solo in sede
+di deposito atti (REP 1997 n. 97), dottrina e giurisprudenza hanno ritenuto che
+laddove possibile, ed in applicazione degli artt. 58 e 60 CPP, le parti
+notifichino indilatamente (ed in base al principio della buona fede
+processuale) le prove che ritengono necessario assumere senza attendere il
+deposito degli atti (L. Marazzi, Le prove nell'istruttoria predibattimentale,
+in REP 2000, pag. 39 ss., in particolare capitolo IV paragrafo 2.2 e
+citazioni). Pertanto, se non basta, per negare il carattere di novità di una
+prova, il fatto che l'assunzione avrebbe potuto essere richiesta in precedenza,
+neppure basta per conferirle tale carattere il semplice fatto che non sia stata
+ancora assunta e sia ritenuta rilevante da una parte o necessaria per il
+rispetto del principio del contraddittorio.
+c)
+Altrettanto
+condivisibile è la sottolineatura di (maggior) rigidità nella determinazione di
+pertinenza e rilevanza. Tuttavia, anche in questo caso la corretta verifica di
+tali pressupposti presuppone una motivazione non sommaria e la profonda
+conoscenza dell'incarto (che il reclamante pone come condizione per
+l'applicazione rigida dei criteri indicati - Reclamo, punto 2, pag. 3) non può limitarsi
+ad una presunzione per terzi, ma deve concretizzarsi nella motivazione delle
+richieste.
+d)
+Per
+quanto concerne la questione della possibilità di produrre la prova al pubblico
+dibattimento, quale elemento a sfavore dell'assunzione già nella fase predibattimentale,
+va detto che l'applicazione restrittiva (di tale rinvio) sostenuta dal
+reclamante non pare essere condivisa dall'attuale dottrina e giurisprudenza.
+Ciò ha condotto questo ufficio ad affermare che:
+"Da
+un lato, va rammentato che la fase in cui si colloca la presente discussione
+del complemento probatorio in questione è quella dell’istruttoria
+predibattimentale, finalizzata in primo luogo a permettere alla pubblica accusa
+di determinarsi sulle questioni se promuovere l’accusa o meno, indi se deferire
+l’accusato alla Corte competente oppure se pronunciare l’abbandono del
+procedimento (art. 184 cpv. 1 CPP, rispettivamente artt. 196 cpv. 1 e 198 cpv.
+1 CPP combinati).
+Per
+costante dottrina e giurisprudenza, invece, l’eventuale utilità o opportunità
+della prova proposta nell’ottica del giudice del merito è elemento a favore
+della sua assunzione già nella fase predibattimentale unicamente qualora
+l’amministrazione di tale prova in sede dibattimentale sia impossibile. Che ciò
+sia disagevole al punto da costringere ad un’interruzione del pubblico
+dibattimento (che deve restare un’eccezione, come si evince dagli artt. 237 s.
+CPP), non basta: il Tribunale federale, discutendo di una perizia psichiatrica
+e dichiaratamente consapevole che l’assunzione di una tale prova in sede
+dibattimentale implichi inevitabilmente la sospensione del dibattimento, ha
+stabilito che non vi sono di principio prove che non possano essere assunte in
+sede dibattimentale (v. sentenza 13 ottobre 1998 della Corte di cassazione e
+revisione penale in re G.V. [6S.559/1998], consid. 1/c/bb p. 5-6)."
+(sentenza 15 settembre 2000 in re
+W., GIAR 260.2000.1)
+Cionondimeno, e
+sebbene la facoltà per la difesa di proporre prove (già nella fase
+predibattimentale - art. 60 CPP) non costituisca diritto assoluto alla loro
+assunzione (DTF 106 Ia 162; DTF 115 Ia 101; DTF 106 IV 85), questo giudice è
+dell'opinione che occorra prestare attenzione a che questa limitazione non
+conduca allo "svuotamento" del principio (nonché della norma di cui
+all'art. 60 CPP che in parte lo concretizza) in presenza di un sistema
+processuale che, di fatto, conferisce un ruolo molto importante agli
+accertamenti in fase istruttoria (M. Rusca, L'influenza della CEDU sulla
+riforma dell'ordinamento penale ticinese, RDAT II 1992, p. 469 ss e 476; CEDU
+24 maggio 1991 in re Q., Serie A no. 205), rispettivamente allorquando il
+rinvio della prova alla fase dibattimentale appare aleatorio.
+4.
+a)
+Quanto
+espresso al considerando che precede evidenzia l'importanza di una corretta e
+sufficiente motivazione della richiesta di complemento, in relazione ad ogni
+prova proposta.
+È
+quindi opportuno ricordare che l'obbligo di sufficiente motivazione (sia in
+fatto che in diritto, senza limitarsi a dichiarazioni di principio; CRP 76/93
+in re V. Stiftung e altri) non concerne unicamente le decisioni dell'autorità,
+ma anche le istanze ed i gravami e serve a consentire alle controparti e
+all'autorità di prendere adeguata posizione, rispettivamente decisione
+(sentenza 20 luglio 1994 della Camera dei ricorsi penali in re D.T., CRP
+249/94).
+b)
+In materia di prove, occorre spiegarne l'oggetto e lo
+scopo perseguito, ai fini della determinazione di effettiva rilevanza e
+pertinenza per le successive conclusioni del Procuratore pubblico, non bastando
+che una prova proposta sia "nuova" e in qualche modo connessa con
+l'inchiesta per meritare di essere assunta (REP 1998 n. 122). La motivazione
+non può essere "sottointesa", o "ovvia"; in materia di
+richiesta di prove, durante l'inchiesta come in sede di complementi, la
+motivazione deve estendersi ai requisiti indicati al considerando 2. della
+presente (sentenza 30 giugno 2003 in re W., GIAR 54.2002.11). A titolo
+esemplificativo si dirà che non é sufficiente indicare che il testimone, di cui
+si chiede l'audizione "dovrebbe essere" a conoscenza di un fatto
+(decisione 9 maggio 1994 in re R.A., GIAR 336.94.1).
+c)
+Inoltre,
+in fattispecie di una certa complessità è alquanto rischioso, nell'ottica della
+sufficiente motivazione, omettere di "
+riassumere anche solo brevemente
+i fatti oggetto d'inchiesta, rispettivamente di far riferimento, a sostegno
+delle richieste e/o affermazioni, ad atti istruttori o accertamenti specifici
+agli atti, se non in modo alquanto generico o con riferimento ad alcune singole
+prove, dimenticando che non spetta al giudice del reclamo ricostruire la
+fondatezza delle tesi esposte sulla base di semplici asserzioni, neppure se si
+ha a disposizione l'intero incarto (CRP 5 dicembre 1997 in re P. e G. Est.;
+GIAR 17 giugno 1997 in re S.E.I.M.I.S. SA e S.ET.IM.M. Est.)."
+(sentenza
+4 settembre 2003 in re G., GIAR 39.2002.8).
+Da
+ultimo, sempre in materia di prove, è possibile che l'obbligo di motivazione
+(meglio la sua estensione) possa anche essere valutato diversamente per
+l'istanza (diretta al magistrato inquirente che conosce e gestisce l'inchiesta
+ed il relativo incarto) e per il reclamo (diretto a autorità "terza"
+per rapporto all'istruttoria come tale).
+5.
+Nel
+caso in esame, l'istanza di complemento è suddivisa in tre capitoli (A., B.,
+C.), ognuno relativo ad un "tipo" di prova. In ogni capitolo le prove
+proposte sono indicate con un breve commento (a volte alla singola prova, altre
+ad un "gruppo" di prove) che cerca di spiegarne la finalità. Sono
+questi commenti che il magistrato inquirente ha ritenuto insufficienti a
+motivare le richieste. Abbondanzialmente, e per ogni prova indicata, il
+magistrato ne ha pure contestato, a seconda dei casi e delle circostanze,
+novità, pertinenza e rilevanza per le finalità dell'istruttoria
+predibattimentale. In sede di reclamo, come già detto nei considerandi sui
+fatti, __________ contesta l'applicazione restrittiva dei concetti di novità e
+possibilità di produzione al dibattimento alle prove proposte. Nel particolare,
+e per ognuna delle prove proposte, sostiene sufficiente motivazione,
+aggiungendo qualche considerazione in particolare quo alla loro rilevanza e
+pertinenza.
+È
+quindi opportuno che l'analisi della sufficiente motivazione delle prove
+(rispettivamente della loro novità, rilevanza e pertinenza) avvenga sui
+"gruppi" di prove aventi, nell'ottica del reclamante, analoga
+finalità.
+Per
+comodità (in particolare per evitare ripetizioni) e chiarezza, si farà
+riferimento alla numerazione proposta nell'istanza, ripresa in sede di reclamo,
+e utilizzata anche dal magistrato inquirente nella decisione negativa e nelle
+osservazioni (così come dalla parte civile __________).
+6.
+A.1.
+Il
+documento non risulta restituito con la decisione negativa, né tale
+restituzione risulta essere prevista con la "crescita in giudicato"
+della decisione impugnata; quindi, di fatto il documento è agli atti ed il
+reclamo, su questo punto, è privo d'oggetto.
+B.1.
+a B.6.
+Le
+richieste di edizione dalla banca di una serie di documenti/dichiarazioni
+relative al 1981 e al 1995 (comprensive della data di nascita dei consiglieri
+d'amministrazione) sono motivate con la volontà dimostrare le condizioni nelle
+quali si è svolta l'attività del reclamante, i risultati ottenuti ed il grado
+di sorveglianza da parte della banca. Nulla è detto circa la relazione tra
+queste condizioni ed i reati imputati, tantomeno circa l'importanza e la
+possibilità di effettivamente determinarle mediante i documenti richiesti che,
+per la loro genericità e collocazione temporale, neppure sembrano atti
+dimostrare quanto preteso.
+B.7.
+a B.12.
+I
+documenti e le attestazioni richieste tenderebbero a dimostrare i rapporti tra
+l'accusato "
+con la banca e con la società __________
+" ed i
+vantaggi "
+ritratti
+" dalle parti a questo rapporto e "
+da
+__________
+".
+A
+giusta ragione, il magistrato inquirente ha ritenuto non motivata la richiesta
+di acquisire il libretto "in originale", tutta la documentazione
+relativa essendo comunque presente. Le argomentazioni formulate in sede di
+reclamo non aggiungono nulla alla questione della richiesta dell'originale.
+Per
+il resto, non una parola è spesa per indicare il rapporto, e la rilevanza, di
+tali elementi in relazione alle imputazioni e agli accertamenti sin qui
+effettuati.
+Nella
+decisione impugnata, il magistrato inquirente indica come la documentazione
+relativa al conto __________ sia già agli atti (cubo n. 5, cubo ricostruzioni
+n. 1, classificatore 4). In sede di reclamo, __________ afferma che dal
+controllo da lui effettuato "non è apparso l'intero movimento", ma
+non dice una parola su cosa mancherebbe, così da permettere sia al magistrato
+inquirente di prendere adeguata posizione, sia allo scrivente giudice di
+verificare il tutto.
+Anche
+queste richieste, quindi, difettano di motivazione (laddove non sono
+addirittura prive d'oggetto).
+B.13.
+La
+richiesta è motivata con la volontà di documentare la fiducia che __________
+poteva concedere a tale __________.
+Anche
+qui nessuna indicazione circa gli accertamenti effettuati sul ruolo di questa
+persona, rispettivamente sulla relazione tra questa (pretesa) fiducia che egli
+poteva riporre in questa persona e le malversazioni a lui (il reclamante)
+imputate. A mente di questo giudice la rilevanza della prova richiesta potrebbe
+rivelarsi ben diversa a dipendenza dei fatti che possono essere posti in
+relazione con tale rapporto di fiducia e le conseguenti imputazioni (per
+esempio amministrazione infedele o appropriazione indebita). La carenza di
+motivazione non è risolta neppure in sede di reclamo, cioè dopo che il
+magistrato inquirente ha chiaramente affermato che __________ è accusato di
+aver malversato a danno dei clienti della banca a profitto proprio o di terzi,
+indipendentemente dalla fiducia che poteva riporre in __________.
+Di
+transenna si segnala come nessuno, tantomeno il reclamante, si preoccupi di
+indicare concretamente quale sia il ruolo di __________ nella vicenda che vede __________
+quale accusato, quali fatti coinvolgerebbero entrambi o anche solo quali atti
+istruttori forniscano indicazioni in merito.
+B.14.
+e B.15.
+Vale,
+mutatis mutandis (cubo n. 5, cubo ricostruzioni n.1, classificatore 2), quanto
+detto in relazione alle richieste da B.7. a B.12. Anche per queste due
+richieste il magistrato inquirente afferma che la documentazione è già agli
+atti (Decisione, pag. 5) ed il reclamante non lo contesta (e qui neppure ne
+afferma incompletezza generica - cfr. Reclamo, pag. 7 e 8).
+B.16.
+Nessuna
+indicazione di connessione tra l'operazione indicata (di cui si chiede
+l'acquisizione della documentazione) e i fatti imputati a __________. Si
+afferma, genericamente (e apoditticamente), che la documentazione
+"attesta" che la Banca avrebbe dovuto accorgersi di quanto succedeva
+nel suo ambito. Nella decisione impugnata, il magistrato inquirente afferma che
+la documentazione in questione è irrilevante già per il solo fatto che
+l'operazione non vede coinvolti né l'accusato né la banca; tale affermazione
+non è contestata (in sede di reclamo) dall'accusato.
+Rilevanza
+e pertinenza della prova richiesta non solo non sono rese verosimili, ma
+neppure sono indicate (in relazione ai fatti oggetti d'inchiesta e agli
+accertamenti istruttori).
+B.17.
+Mal
+si comprende, né il reclamante lo spiega, come l'incarto relativo al fallimento
+(decretato nel 1999) di una SA che perlomeno tra il 4.03.1993 ed il 28.06.1996
+sarebbe stata beneficiata di "iniezioni di liquidità" (provenienti da
+malversazioni) con una certa regolarità (oltre una ventina di operazioni per un
+totale di ca. 900'000.-- FRS - cfr. Verbale __________ 8 novembre 2000, pag.
+8), possa dimostrare le "
+potenzialità
+" (della società stessa),
+che avrebbero permesso di rimborsare la banca "
+in un periodo
+ragionevole
+", allorquando tali potenzialità non risultano essersi
+manifestate nel periodo 1993/1996.
+In
+sede di reclamo la motivazione della richiesta sembra essere addirittura
+un'altra (cioè l'accertamento dei motivi a delinquere) ciò che non giova alla
+comprensione della richiesta di complemento che risulta, di conseguenza, priva
+di sufficiente motivazione in merito alla sua pertinenza e rilevanza per le prossime
+decisioni del magistrato inquirente.
+B.18.
+Non
+c'è bisogno di disquisire più di tanto per confermare, in relazione alla
+richiesta in questione, la totale assenza di motivazione (con la decisione del
+magistrato inquirente che fa riferimento ad altro incarto - cfr. Decisione pag.
+6), carenza per nulla "sanata" nel reclamo e che non permette a
+questo giudice (neppure per intuizione) di comprenderne la (eventuale)
+pertinenza e rilevanza.
+B.19.
+Anche
+in questo caso, le motivazioni menzionate nell'istanza e nel reclamo sono
+troppo generici, nonché privi di riferimento ai fatti oggetto d'inchieste ed
+agli accertamenti sin qui esperiti, per permettere a questo giudice una
+valutazione. Ha gioco facile il magistrato inquirente ad affermare
+(forzatamente altrettanto genericamente) assenza di pertinenza e rilevanza
+della prova richiesta in quanto i metodi usati da __________ per ottenere
+crediti non sono in alcun modo utili al chiarimento dei reati commessi dal
+reclamante. Affermazioni che __________, in sede di reclamo, si limita a
+controbattere asserendo che i rapporti __________ /__________ sono determinanti
+(per cosa?) in tutta la vicenda.
+Questo
+giudice può avere il dubbio che alcuni (non meglio precisati) crediti siano
+stati concessi da __________, quale responsabile della Banca __________, a __________
+o a sue società e che l'erogazione di questi crediti sia oggetto di un'ipotesi
+di amministrazione infedele (imputazione che in diritto - ma senza alcun
+riferimento ai fatti - figura sia sull'ordine d'arresto che sul deposito atti).
+Dopo aver avuto questo dubbio, sempre questo giudice, può ipotizzare che la
+documentazione relativa all'"asserito credito" possa servire a
+determinare o suffragare che nell'agire di __________, per rapporto agli
+ipotizzati crediti, non vi fosse intento di danneggiare la Banca,
+rispettivamente vi fosse convinzione che nessun danno ne sarebbe derivato.
+Tuttavia, il compito di questo giudice non è né quello formulare ipotesi sui
+fatti effettivamente oggetto d'indagine o/e sulle tesi difensive/accusatorie
+delle parti, né analizzare autonomamente tutto l'incarto per trarne indicazioni
+di fatto e di diritto che competono al giudice del merito (che, comunque, ha a
+disposizione perlomeno l'atto d'accusa che contiene indicazioni precise sui
+fatti e sulle imputazioni ritenute realizzate).
+Abbondanzialmente
+si rileva come dai verbali 8 novembre 2000, 20 febbraio 2001 e 16 marzo 2001
+(tutti dell'accusato e con contestazioni/confronto con le affermazioni di __________),
+non emerga nulla che renda evidente la necessità di acquisire la documentazione
+in questione.
+B.20.
+Il
+documento (del 1995), di cui è chiesta l'acquisizione dalla Scuola cantonale
+propedeutica, dovrebbe servire a determinare "
+a chi apparteneva la __________
+"
+(Istanza, pag. 4). Ora, dagli atti risulta che la __________
+apparteneva a tale __________ (verbale __________ 20.06.2000, pag. 1).
+Così
+come presentata e motivata, la richiesta è priva di rilevanza e pertinenza
+perché il fatto che si vuole dimostrare non è contestato. Se si vuole
+dimostrare altro, la motivazione è insufficiente.
+B.21.
+La
+richiesta è stata ritirata (cfr. Reclamo, pag. 9).
+B.22.
+la
+richiesta è assolutamente priva di sufficiente motivazione, in particolare per
+quanto concerne la relazione tra la società __________ e le malversazioni (ai
+danni dei clienti della Banca __________, rispettivamente della banca stessa)
+oggetto d'inchiesta.
+C.
+Le
+richieste di audizione testi (a prescindere dal fatto che alcune delle persone
+menzionate sembrano avere altri ruoli procedurali), appaiono d'acchito come
+poco o punto motivate in sede di richiesta di complemento; ciò giustifica
+respingimento delle richieste per insufficiente motivazione, come fatto dal
+magistrato inqirente, in applicazione (per nulla costitutiva di eccesso di
+formalismo) della giurisprudenza citata al considerando 4 b. della presente
+(decisione 9 maggio 1994 in re R.A., GIAR 336.94.1).
+Anche
+in sede di reclamo non vengono sempre specificati i rapporti dei testi indicati
+con l'oggetto dell'accertamento voluto e/o (rispettivamente, di questo con) i
+fatti oggetto d'imputazione.
+Tutte
+le richieste sono carenti di motivazione e vanno respinte (e la decisione del
+magistrato va confermata) già per questo solo motivo.
+Inoltre:
+C.1. e 2.
+Non é indicato come (per quale motivo ed in base a
+quali conoscenze) i testi possano attestare l'esistenza di un "nero"
+derivante da operazioni immobiliari. Soprattutto non è chiaro, né indicato
+(neppure in sede di reclamo), perché tale accertamento sia utile alle decisioni
+che il magistrato inquirente è chiamato a prendere al termine dell'istruttoria.
+C.3.
+La motivazione è carente (se si preferisce assente)
+sia nell'istanza che nel reclamo (dove si rinvia, genericamente e senza
+indicarli, agli atti e alla "nota" conoscenza dell'incarto - sic! -).
+Inoltre, vale qui anche quanto detto sub B.22.
+C.4.
+Visto il rinvio alla richiesta B.13 operato
+dall'istante/reclamante, si rinvia (anche in questa sede) a quanto affermato in
+relazione a tale richiesta.
+C.5.
+Vale, mutatis mutandis, quanto detto sub C.1.
+Inoltre, quanto il teste dovrebbe
+"confermare" risulta essere l'esistenza di un reato da imputare a
+persona che risulta sotto inchiesta almeno dal 2000 (cfr. verbale PP M. __________
+20.6.2000 da inc. __________).
+C.6. C.7. C.8. C.9. C.11.
+Vale,
+mutatis mutandis
+, quanto detto sub C.1.
+C.10.
+La richiesta è caduta/ritirata (Reclamo, pag. 11).
+7.
+In conclusione, il reclamo deve essere integralmente
+respinto.
+Le numerose richieste di complemento non sono
+sufficientemente motivate quo alla loro novità, rilevanza e pertinenza in
+relazione alle imputazioni oggetto dell'inchiesta ed alle conclusioni che dovrà
+assumere il magistrato inquirente. La motivazione è pure carente in merito alla
+necessità di procedere all'assunzione delle prove indicate ancora in sede di
+istruttoria dibattimentale. In alcuni casi la motivazione è addirittura
+assente.
+La totale assenza di riferimenti ai fatti oggetto di
+inchiesta (perché l'incarto sarebbe noto) ed agli atti d'inchiesta, quelli sin
+qui effettuati, non solo nell'istanza ma anche in sede di reclamo, impediscono
+di principio (prima al magistrato inquirente di esprimersi con totale e chiara
+cognizione, poi a questo giudice di verificare) l'analisi della fondatezza e
+dell'effettiva necessità (di merito) delle prove proposte.
+Laddove un minimo d'analisi, sulla base delle
+motivazioni ipotizzate e degli atti individuati da questo giudice, è stata
+possibile, si è dovuto constatare che la motivazione era carente anche circa il
+dettaglio dell'utilità (pertinenza e rilevanza) della prova. A volte è
+risultato che queste condizioni non sono manifestamente presenti.
+Il respingimento integrale del reclamo, con la
+presente sentenza definitiva a livello cantonale, comporta accollamento della
+tassa di giustizia, delle spese e delle ripetibili per chi ha presentato
+osservazioni, a carico del reclamante.
+P.Q.M
+viste le norme applicabili, in particolare gli artt.
+138, 146, 258, 251 CP, 1 ss, 58, 60, 173 ss., 188 ss., 196, 280, 284 e
+contrario CPP,
+decide
+1.
+Il
+reclamo è integralmente respinto.
+2.
+La
+tassa di giustizia fissata in FRS 900.- e le spese, FRS 150.-, sono a carico
+del     reclamante il quale rifonderà alla parte civile __________, la somma di
+FRS 800.- a titolo di ripetibili.
+3.
+La
+presente decisione è definitiva.
+4.
+Intimazione:
+giudice
+Edy Meli
