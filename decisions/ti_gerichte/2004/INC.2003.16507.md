@@ -1,0 +1,148 @@
+---
+decision_id: "ti_gerichte_INC.2003.16507"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.16507"
+decided: "2004-03-22"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59380&nX40_KEY=4711308&nTrefferzeile=69&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2003.16507
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 22.03.2004 INC.2003.16507
+Tessin Il Giudice dell'istruzione e dell'arresto 22.03.2004 INC.2003.16507
+Ticino Il Giudice dell'istruzione e dell'arresto 22.03.2004 INC.2003.16507
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.16507
+Lugano
+22 marzo 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Franco Lardelli
+sedente per statuire sull’istanza presentata il 16/18
+marzo 2004 da
+__________
+, __________, cittadina rumena,
+residente a __________ (Germania)
+patrocinata dall’avv. __________, Lugano
+intesa ad ottenere il
+dissequestro parziale del conto bancario intestato a lei e al marito __________
+presso __________ SA, Lugano, sequestrato nell’ambito del procedimento penale
+aperto a suo carico per complicità in assassinio mancato e tentato di cui __________
+del Procuratore pubblico Arturo Garzoni;
+viste le
+osservazioni 22 marzo 2004 del magistrato inquirente;
+letti ed esaminati
+gli atti dell’inc. __________ messi a disposizione di questo giudice;
+ritenuto e
+considerato
+in
+fatto e in diritto:
+che:
+-
+nell’ambito del procedimento a carico di __________, per titolo di
+complicità in assassinio mancato e tentato, il Procuratore pubblico Arturo
+Garzoni ha ordinato il sequestro, tra le altre cose, della relazione bancaria
+n. __________, intestata a __________ e/o __________ presso __________ SA,
+Lugano, relativo ad un investimento azionario del valore di FRS. 71'462.- valuta
+06.12.2002;
+-
+con istanza 16/18 marzo 2004, __________ chiede nuovamente il
+dissequestro della suddetta relazione bancaria nella misura di FRS. 1’500.-,
+ciò per far fronte, in occasione del processo che verrà celebrato a suo carico
+tra il 23 marzo 2004 e il 6 aprile 2004 davanti alla Corte delle Assise
+Criminali di Lugano, alle spese “di custodia dei figli”, ritenuto che “la
+suocera non vuole, nè può tenere” i suoi figlioletti;
+-
+con osservazioni 22 marzo 2004, il Procuratore pubblico dichiara di non
+opporsi di principio al dissequestro, ma chiede che vengano “preliminarmente
+verificati i costi effettivi per i figli (a mano di pezze giustificative)”;
+-
+l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il
+sequestro di tutti gli oggetti che possono avere importanza per l’istruzione
+del processo, alternativamente o cumulativamente come mezzi di prova o in
+quanto passibili di confisca o devoluzione allo Stato. Il sequestro, per la sua
+qualità di provvedimento eminentemente cautelare, ha lo scopo di acquisire e
+conservare gli oggetti di cui sopra al seguito della procedura e quindi per le
+necessità dell’istruzione preliminare, per decisioni del magistrato requirente
+e quelle del giudice del merito, come evidenziato nella duplice prospettiva -
+alternativa o cumulativa - della produzione e valutazione delle prove
+(sequestro probatorio) e delle decisioni di confisca, restituzione o
+devoluzione (sequestro confiscatorio) (v. decisione 8 maggio 1998, inc.
+GIAR 516.97.3, in: Rep. 131 [1998] nr. 117, consid.
+1a p.
+359);
+-
+un ordine di perquisizione e sequestro bancario rappresenta un attentato
+ai diritti personali: come ogni misura d’inchiesta, pertanto, deve poggiare
+sull’esistenza di gravi indizi di colpevolezza, deve apparire necessario per il
+giudizio di merito (nel senso che deve essere connesso con l’oggetto che
+occorre salvaguardare agli incombenti processuali e di giudizio, v. decisione
+17 agosto 1998 in re E.F., inc. GIAR 501.98.2 consid. 2), infine deve essere
+rispettoso del principio di proporzionalità (v. Gérard Piquerez, Précis de
+procédure pénale suisse, 2. éd. Lausanne 1994, margin. 1441, 1454 e 1469, con
+rinvii; Rep. 131 [1998] nr. 117, consid. 1a p. 360; decisione 31 marzo 2000 in
+re banche X e Y, inc. GIAR 386/387.99.15, consid. 2b p. 6);
+-
+in materia di sequestro, nel lasso di tempo che intercorre tra
+l’emanazione dell’atto di accusa e l’apertura del dibattimento, la CRP
+(30.7.2002 in re B, inc. 60.2002.00174) ha constatato un “vuoto legislativo” e
+l’ha colmato assegnando tale competenza al GIAR. Non v’è ragione perché quanto
+detto dalla CRP nella sentenza citata non valga anche in tema di dissequestro.
+Di conseguenza questo giudice ha riconosciuto la sua competenza per decidere (comunque
+e sempre in via incidentale) istanze di dissequestro presentate dopo
+l’emanazione dell’atto d’accusa e prima dell’apertura del dibattimento (un
+chiarimento tra le varie autorità coinvolte ha confermato questa conclusione;
+cfr. decisione 14 ottobre 2003, doc. 12, inc. GIAR 268.1997.2);
+-
+questo giudice è dunque competente ad esaminare l’istanza 16/18 marzo
+2004, trattandosi di istanza giunta dopo l’emanazione dell’atto d’accusa;
+-
+gli averi sequestrati non sono provento di reato; entra dunque, in
+questo caso in considerazione il sequestro risarcitorio. Il magistrato inquirente,
+pur non opponendosi di principio al dissequestro chiede una verifica dei costi
+di custodia dei figli, sulla base di pezze giustificative;
+-
+non essendo state prodotte le suddette pezze giustificative e,
+nell’imminenza del processo che inizia domani mattina, essendo impossibile la
+verifica chiesta dal magistrato inquirente, l’istanza di dissequestro va
+respinta;
+-
+va qui ribadito che, trattandosi di un importo destinato a coprire spese
+connesse allo svolgimento del processo, impregiudicato in questa sede il
+giudizio sull’indigenza dell’accusata, eventuali ulteriori dissequestri
+potranno, se del caso, essere decisi dalla Corte delle Assise criminali in sede
+di giudizio di merito.
+Per questi motivi,
+visti i citati articoli di legge,
+decide:
+1.
+L’istanza
+è respinta.
+2.
+Non
+si prelevano nè tassa nè spese di giustizia.
+3.
+Contro
+la presente decisione è dato ricorso alla Camera dei ricorsi penali entro dieci
+giorni dall’intimazione.
+4.
+Intimazione
+(anticipata via fax e per raccomandata):
+giudice
+Franco Lardelli
