@@ -1,0 +1,529 @@
+---
+decision_id: "ti_gerichte_INC.2003.23702"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.23702"
+decided: "2003-06-20"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59514&nX40_KEY=4711336&nTrefferzeile=82&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2003.23702
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 20.06.2003 INC.2003.23702
+Tessin Il Giudice dell'istruzione e dell'arresto 20.06.2003 INC.2003.23702
+Ticino Il Giudice dell'istruzione e dell'arresto 20.06.2003 INC.2003.23702
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.23702
+.
+Lugano
+20 giugno 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+__________
+sedente per statuire sull'istanza di libertà provvisoria
+presentata il 13 giugno 2003 da
+__________
+, attualmente detenuto al PCT,
+6904 Lugano-Cadro
+(rappr. dall'avv. __________)
+e qui trasmessa con preavviso negativo del 16/17 giugno
+2003 dal
+Procuratore pubblico
+avv. __________
+viste le osservazioni, al
+preavviso negativo, presentate dalla difesa il 18 giugno 2003;
+visto l'incarto MP __________;
+ritenuto
+in fatto
+A.
+__________ è stato arrestato il
+16 aprile 2003, con contestuale promozione dell'accusa per le ipotesi di reato
+di appropriazione indebita qualificata, subordinatamente semplice,
+amministrazione infedele qualificata, subordinatamente semplice, mancato
+assassinio, subordinatamente mancato omicidio (doc._ inc. GIAR __________).
+L'arresto è stato confermato, da
+questo giudice lo stesso giorno, ritenuta la presenza di gravi indizi di
+colpevolezza (in modo evidente, date le ammissioni, per i reati finanziari) e
+necessità istruttorie (doc. _ inc. GIAR __________).
+B.
+Due sono le fattispecie oggetto
+d'inchiesta. In sintesi: da un lato __________ è accusato di essersi
+appropriato, rispettivamente di aver amministrato infedelmente, di denaro di
+proprietà di __________ che era stato depositato su relazioni bancarie delle
+quali egli __________ era procuratore, e ciò per ca. 3 milioni di FRS. D'altro,
+ed in relazione al ferimento al volto di __________ avvenuto a __________ il 24
+febbraio 2003 in circostanze poco chiare, egli è accusato di aver agito
+intenzionalmente e con l'intenzione di uccidere.
+C.
+Con l'istanza qui in discussione,
+__________ chiede di essere posto in libertà provvisoria.
+Nei due mesi dall'arresto
+l'istruttoria si è, a suo dire, concentrata sugli ipotizzati reati contro la
+persona. In relazione ai reati finanziari, ammessi nel principio, è stata
+prospettata l'assunzione di nuovi atti (sostanzialmente interrogatori) a breve
+termine (Istanza 13 giugno 2003, p. 2 terzo paragrafo).
+L'accusato esclude che, allo
+stadio attuale, vi siano concreti rischi di compromissione delle risultanze
+istruttorie finora assunte (ibidem, p. 2 quarto paragrafo) e si dichiara
+disponibile a sottostare a determinate misure a salvaguardia dell'inchiesta
+(deposito documenti, presenza giornaliera in polizia, impegno a non contattare
+chichessia).
+A giudizio dell'istante, gli
+accertamenti concernenti i reati finanziari (ammessi e riscontrabili tramite
+documenti bancari) non possono essere compromessi neppure volendo, quelli
+relativi all'ipotesi di reato contro la persona, nella misura in cui già
+acquisiti, non possono subire modifiche di sorta a seguito di qualsivoglia sua
+attività.
+D.
+Con il preavviso negativo (16
+giugno 2003) il Procuratore pubblico si oppone alla messa in libertà
+provvisoria dell'istante.
+Con prolisse argomentazioni (che
+spesso travalicano quanto necessario per il presente giudizio ed interessano,
+se del caso, il giudice del merito), il magistrato inquirente indica nelle
+ammissioni dell'accusato i gravi indizi di reato per quanto concerne le ipotesi
+accusatorie relative ai reati finanziari e nel movente egoistico, in uno con le
+differenti versioni sulla dinamica dei fatti fornite da accusato e vittima,
+quelli relativi alle ipotesi di reato contro la persona.
+Non vi sono dubbi, sempre secondo
+il magistrato inquirente, sullo "svuotamento" da parte dell'accusato
+del conto intestato a __________ (ca. 3 mio FRS), come peraltro ammesso dallo
+stesso accusato. Rimane da accertare il destino dato alle somme prelevate. Su
+questo punto __________ ha fornito, inizialmente, una versione poi dichiarata
+fasulla e sostituita da altra a sostegno della quale avrebbe, però, fornito
+documentazione incompleta (Preavviso 16 giugno 2003, p. 2).
+Quanto al ferimento di
+__________, la versione dell'incidente fornita dall'accusato si scontra sia con
+le contraddizioni e la poca credibilità della  dinamica dei fatti così come
+ricostruita dallo stesso __________ (dimenticanza casuale sulla scrivania dello
+studio, per tre giorni, di una SIG 210 con colpo in canna e cane armato;
+assenza di spiegazioni in relazione alla "preparazione" dell'arma
+pronta al fuoco; assenza di credibilità sugli effetti - presenza dell'arma
+carica - delle minacce ricevute; percorso illogico per raggiungere lo
+__________ e mostrargli l'arma in questione - Preavviso, punti 2 c., d., e.,),
+sia con la diversa ricostruzione dei fatti fornita dallo __________
+(nessun'arma sulla scrivania; indicazioni diverse sul percorso effettuato da
+__________ per raggiungerlo prima dell'"incidente"- Preavviso, punti
+2 b., g., h.). A ciò si aggiunge, sempre a dire del Procuratore pubblico, la
+presenza di un movente (in relazione allo svuotamento del conto bancario -
+Preavviso punto 2 a.) e la relativa inusualità dell'invito ad entrare in casa
+(Preavviso, punti  2 i. e j.).
+Dovendosi ancora determinare (o
+ricostruire) il destino effettivo delle somme sottratte e completare gli
+accertamenti relativi alla ricostruzione della dinamica del ferimento (oltre
+che eseguire una perizia psichiatrica), il magistrato inquirente ritiene che
+questi ulteriori accertamenti, ed il consolidamento di quelli già acquisiti,
+debbano avvenire senza rischio che l'accusato possa in qualche modo
+intralciarli. Concreti indizi in tal senso vengono individuati
+nell'atteggiamento di __________ in relazione al destino delle somme prelevate
+indebitamente e nel tentativo già posto in atto di influenzare possibili
+testimoni (Preavviso, p. 3 e p. 7/8).
+Quasi abbondanzialmente, il
+magistrato inquirente segnala che la pena, in caso di condanna per tutti i
+reati ascritti, sarebbe importante. Ciò fa sì che un pericolo di fuga non può
+essere escluso (Preavviso, p.8).
+E.
+Con le osservazioni del 18 giugno
+2003, la difesa riprende e contesta i singoli punti del preavviso negativo.
+In merito ai reati finanziari e
+relativi accertamenti ancora da esperire, afferma che la versione fornita
+inizialmente circa la destinazione delle somme prelevate era conseguente alla
+necessità di concordare con il patrocinatore la linea difensiva. Quanto alla
+documentazione, relativa alle spese per la casa, la difesa afferma che della
+sua incompletezza era stato informato (a voce) l'agente di polizia presente
+alla perquisizione. Da ultimo, gli accertamenti ancora da esperire (verifiche
+delle fatture presso gli artigiani) non paiono in alcun modo influenzabili
+dall'accusato (Osservazioni 18 giugno 2003, p. da 3 a 7).
+In merito alle ipotesi di reato
+contro la persona, secondo la difesa, la questione del movente non tiene (la
+eventuale morte di __________ avrebbe fatto emergere il conto a lui intestato -
+Osservazioni p.8) e il fatto che __________ non abbia visto la SIG 210 sulla
+scrivania è irrilevante, visto il suo percorso per avvicinarsi a questa e la
+posizione della pistola (Osservazioni, p. 9). La credibilità dell'istante nulla
+ha a che vedere con l'inquinabilità delle prove (Osservazioni, p. 10) e la
+versione di __________ sul percorso effettuato da __________ per avvicinarlo è
+un'ipotesi, non una dichiarazione su quanto constatato (Osservazioni, p. 11).
+Le osservazioni ribadiscono,
+inoltre, la non inquinabilità delle prove già raccolte (come di quelle ancora
+da assumere) e ribadisce volontà di accettare misure sostitutive a salvaguardia
+dell'inchiesta.
+L'episodio del contatto con la
+moglie (con inviti vari) è, sempre secondo la difesa, poco indicativo di un
+concreto pericolo di collusione; trattasi di un episodio legato a rapporti
+personali tra i coniugi, ora compromessi (Osservazioni, p. 13).
+Da ultimo, ed in merito al
+paventato pericolo di fuga, la difesa afferma che la motivazione addotta
+(rischio di pena elevata) è manifestamente insufficiente a giustificare il
+perdurare della detenzione.
+Delle altre osservazioni e/o
+argomentazioni delle parti si dirà, se del caso, nei considerandi che seguono.
+Considerato
+in diritto
+1.
+__________, accusato e detenuto,
+è certamente legittimato alla presentazione dell'istanza di libertà
+provvisoria, che è stata trasmessa a questo ufficio nei termini di legge. Il
+termine per decidere scade il 19 giugno 2003 e, essendo (quest'ultimo) giorno
+festivo, è protratto al 20 giugno 2003 (art.20 cpv. 3 CPP).
+2.
+I principi che reggono la materia, pur se noti alle
+parti, vengono qui riproposti:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto pubblico
+del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si aggiunge,
+sempre con riferimento al caso in esame, che l’elenco dei motivi di interesse
+pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio aggiuntivo del 20
+marzo 1991 concernente la revisione del CPP, ad art. 27, pag. 32, nota 3), tra
+altri possibili, essendovi quello della tutela dell’ordine pubblico (REP 1998
+n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc.
+520.2001.5)
+3.
+a)
+Gravi e concreti indizi di reato
+sono presenti nel caso in esame, sia per i reati di carattere patrimoniale, sia
+quelli contro la persona.
+b)
+Non occorre qui spendere molte
+parole in relazione alle ipotesi di reati patrimoniali. Gli elementi in tal
+senso, già emersi nei contatti tra le due parti prima dell'avvio del
+procedimento penale, sono stati ammessi dall'accusato fin dal suo primo verbale
+davanti al Procuratore pubblico:
+"
+Io voglio qui precisare
+che lunedì mattina, 14.4.2003, ho avuto un incontro presso gli uffici della
+__________ con il mio avvocato, __________ e l'Avv. __________. In tale
+incontro, l'avv. __________ mi ha rimproverato di aver effettuato dei
+prelevamenti sul conto di __________ per complessivi 3 milioni di frs. Io in quella
+sede ho detto, e lo riconfermo, che ho indebitamente prelevato dei fondi dal
+conto __________ di pertinenza di __________. Per semplicità quando nel
+presente parlo del conto __________ di pertinenza di __________ mi riferisco
+alla relazione bancaria aperta a suo tempo presso __________, ricordo a memoria
+il numero di base cioé __________
+." (Verbale PP 16 aprile 2003 p.3)
+La sostanza di queste ammissioni,
+peraltro conformi con quanto risulta dalla documentazione già acquisita (cfr.
+Verbale PP __________ 14 aprile 2003 e relativi allegati), è stata recentemente
+ribadita dall'accusato (Verbale PP 3 giugno 2003, p. 1).
+Quanto sopra basta a configurare
+gravi indizi di reato, anche a prescindere da questioni relative all'ammontare
+preciso dei prelievi, all'entità di eventuali "riversamenti", alla
+tipologia della gestione concordata e alle informazioni fornite a __________
+circa lo scopo e le caratteristiche della procura (Verbale PP 3 giugno 2003, p.
+1; Verbale PP 16 aprile 2003, pp. 3 e 4).
+c)
+Per ciò che attiene le ipotesi di
+reato contro la persona, numerosi sono gli aspetti non chiari (o non ancora
+chiariti) in merito alla dinamica dei fatti, dinamica non priva d'importanza
+(per non dire determinante) per l'accertamento dell'esistenza o meno dei reati indicati
+nella promozione d'accusa.
+Innanzitutto, non sono chiari i
+motivi per i quali __________ è stato invitato ad entrare in casa ed in studio.
+L'accusato, quando era ancora indiziato per lesioni colpose, fa riferimento al
+fatto che __________ poteva mostrargli come si fa a smontare una
+"parabellum" (Verbale PP __________ 25 febbraio 2003 p. 3).
+__________, che ha si riferito della richiesta relativa allo smontaggio della
+"parabellum" (Verbale PP 27 febbraio 2003, p. 2), ha poi precisato
+che il motivo principale stava nel fatto che __________ doveva mostrargli i
+conti (Verbali PP __________ 14 aprile 2003, p. 8 e 22 aprile 2003, p. 5) ed ha
+parlato di un disinteresse dell'accusato per l'operazione di smontaggio
+dell'arma (ibidem).
+Pure non chiara è la situazione
+(localizzazione) dell'arma, che ha ferito __________, al momento in cui i due
+sono entrati in casa, rispettivamente nello studio. Per __________ si trovava
+sulla scrivania, carica, disassicurata e con il cane alzato, e ciò da tre
+giorni (Verbali PP __________ 25 febbraio 2003, p. 4 e 9 maggio 2003 p. 10),
+mentre __________, che alla scrivania si è seduto per smontare la
+"parabellum", non l'ha vista (Verbale PP __________ 27 febbraio 2003,
+p.2, 14 aprile 2003 p.8, 22 aprile p.5). Inoltre, __________ si dice sicuro che
+prima dello sparo __________, che era uscito dallo studio per orinare, è
+rientrato dirigendosi direttamente verso di lui (Verbale PP __________ 22
+aprile 2003, p. 5), quindi senza "passare" dalla scrivania come
+afferma, invece, l'accusato (Verbale PP __________ 10 maggio 2003, p. 5). Da
+qui l'incertezza sulla posizione dell'arma, con conseguenze sul momento ed il
+motivo per cui l'accusato l'ha presa in mano. Ora, se è vero che __________ non
+stava guardando __________, al momento in cui questi rientrava nello studio, è
+altrettanto vero che in un locale relativamente piccolo lo spostamento di una
+persona, e la sua voce, possono fornire indicazioni circa la sua posizione e/o
+il suo spostarsi.
+D'altro canto l'accusato non ha
+spiegato come e perché l'arma carica e pronta al tiro si trovasse da qualche
+giorno in quel locale (praticamente incustodita), perché era stata preparata al
+tiro (con cane alzato), quale fosse lo scopo di mostrarla a __________ senza
+nulla accennargli in merito prima che partisse il colpo (cfr. Verbali PP
+__________ 25 febbraio 2003, p. 4/5, 9 maggio 2003, p. 3 e 9, __________ 22
+aprile 2003, p. 4). Soprattutto, l'accusato non fornisce spiegazione alcune sul
+perché egli, collezionista ed appassionato d'armi, dopo aver preso in mano la
+SIG 210, per avvicinarsi all'amico e mostrargliela, non si sia accorto dello
+stato dell'arma e non abbia provveduto  renderla inoffensiva (Verbale PP
+__________ 25 febbraio 2003, p. 5, 9 maggio 2003 p. 3, 10 maggio 2003, p. 4/5).
+Non da ultimo (eufemisticamente
+parlando), la posizione delle due persone al momento in cui il proiettile è
+partito (entrambi si trovavano in piedi, __________ dietro __________) e le
+modalità d'impugnazione dell'arma da parte dell'accusato (all'altezza delle
+spalle e puntata verso __________ -Verbale __________ 25 febbraio 2003, p. 5)
+con __________ che viene colpito al volto, destano ulteriori perplessità (che
+si aggiungono a quanto si è appena detto) sulla dinamica dei fatti così come
+indicata dall'accusato.
+Quanto al movente, a prescindere
+dal fatto che ancora recentemente lo svuotamento di un conto bancario è stato
+ritenuto quale movente di un mancato omicidio (Assise criminali Lugano 17
+maggio 2002), la sua esistenza (così come indicato dal magistrato inquirente) non
+può essere esclusa nel caso in esame (e non lo sarebbe neppure se fosse
+accertato che l'esistenza del conto depauperato sarebbe comunque venuto a
+galla, anche solo per il fatto che le eventuali spiegazioni che l'accusato
+poteva fornire non avrebbero potuto essere contraddette da __________).
+Alla luce di tutto quanto
+esposto, anche per le ipotesi di reato contro la persona sono dati (a questo
+stadio dell'inchiesta e senza voler minimamente anticipare giudizi di merito
+che non sono nella competenza di questo giudice) sufficienti indizi di reato.
+4.
+a)
+In relazione alle necessità
+istruttorie atte a giustificare la misura cautelare di privazione della
+libertà, non è inutile ricordare i seguenti principi:
+"
+-
+In relazione ai bisogni istruttori,
+atti a giustificare la misura restrittiva della libertà personale, occorre
+ricordare che questi non s'identificano semplicemente con gli atti istruttori
+in quanto tali, o con gli accertamenti            (ancora) da effettuare, bensì
+con il pericolo di collusione o d'inquinamento delle prove che (eventualmente)
+espone a rischio la corretta raccolta (o conservazione) di tali atti (G.
+Piquerez, Procédure pénale suisse, ZH 2000, nos. 2344 ss.; N. Schmid,
+Strafprozessrecht, ZH 1997, nos. 697 ss.; RDAT 1988 no. 24). In quest'ottica il
+fatto che l'inchiesta sia tuttora in corso non è, di per sé, decisivo, in
+quanto "
+Die Tatsache allein, dass noch nicht alle Beweise erhoben bzw.
+die Mitverdächtigen dingfest gemacht werden konnten oder dass der
+Angeschuldigte die Aussage verweigert, genügt nicht
+" (N. Schmid, op.
+cit., no. 701a). Occorre che l'indagato, se posto in libertà, possa
+pregiudicarne (o comprometterne) il corretto svolgimento e, conseguentemente,
+l'esito.
+-
+E', inoltre, necessario che questa
+possibilità di pregiudicare la raccolta di elementi di prova si fondi su
+elementi concreti: "
+Jedoch genügt nach der Rechtsprechung des
+Bundesgerichtes die theoretische Möglichhkeit, dass der Angeschuldigte in
+Freheit kolludieren könnte, nicht, um die Fortsetzung der Haft oder               die
+Nichtgewährung von Urlauben unter diesem Titel zu rechtfertigen. Es mussen
+vielmehr konktrete Indizien für eine solche Gefahr sprechen
+." (DTF 117
+Ia 257, cons. 4 c.).
+-
+Gli elementi di concretezza del
+pericolo vanno individuati, di volta in volta, quantomeno nella specifica prova
+da assumere e nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo
+di prova. Ad esempio, trattandosi di audizione testimoniale, il pericolo di
+collusione non può essere invocato in modo astratto a giustificazione del
+mantenimento della misura cautelare, occorre che un'influenza (dell'accusato
+nei confronti del teste) sia possibile, rispettivamente che vi sia una
+possibile convergenza d'interessi (tra i due) in relazione al contenuto della
+deposizione (SJ 1990 p. 438; DTF 117 Ia 257; ZR 72 no. 77 p.19). Il semplice
+atteggiamento di diniego dell’accusato, in sé, non costituisce indice in tal
+senso (DTF 90 IV 66; Hauser/Schweri, Schweizerisches Strafprozessrecht, BS
+1999, § 68 no 13).
+(GIAR 23 settembre 2002 in re Y.)
+Va da sé che i criteri
+sopra esposti richiedono applicazione  più restrittiva allorquando l'inchiesta
+(e la detenzione) é in corso da un certo tempo.
+b)
+Si ha allora che
+la parte dell'inchiesta inerente i reati patrimoniali non è ancora conclusa, in
+particolare resta da determinare l'effettivo destino delle somme prelevate.
+Su questa
+questione l'accusato ha dato, di fatto, versioni divergenti. In un primo tempo
+ha indicato, con dovizia di particolari, la consegna a terzi (per
+esportazione/compensazione) per successivo deposito, sul conto di una SIM, in
+banca estera con filiale in Svizzera (Verbale PP __________ 16 aprile 2003,
+p.7), rifiutandosi di fornire indicazioni atte ad identificare il corriere e la
+banca. Successivamente ha indicato il nome della SIM, poi risultata inesistente
+o comunque non situata dove indicato (Verbale GIAR __________ 16 aprile 2003,
+p. 3). Nei successivi verbali ha, invece, indicato, quale destinazione delle
+somme, la costruenda casa di __________. Poco importa che ciò sia dovuto alla
+volontà di discutere una linea di difesa, come egli sostiene. Non è privo di
+significato il fatto che tale necessità (che non si è esplicata con il semplice
+silenzio) sia sorta solo in relazione alla destinazione delle somme.
+L'accertamento
+del destino di queste ultime non è importante solo per la qualifica giuridica
+del reato (appropriazione indebita o amministrazione infedele, fine di lucro) e
+per la determinazione dell'eventuale pena (ex art. 63, motivi a delinquere -
+cfr. DTF 116 IV  288) ma anche per l'eventuale recupero delle stesse e la
+conseguente applicazione dell'art.59 CP. Trattasi di uno specifico elemento
+probatorio (provento di reato).
+Vi è pertanto la
+necessità di accertare se non vi siano somme ancora nella disponibilità
+dell'accusato (non necessariamente solo in Ticino o in Svizzera) prima che egli
+possa (se del caso ulteriormente) sottrarle al (eventuale) recupero da parte
+degli inquirenti. Le versioni diverse fornite dall'accusato costituiscono, di
+fatto, serio indizio di un concreto pericolo di inquinamento (nella forma di un
+ulteriore spostamento delle somme in questione, rispettivamente, laddove
+possibile, nella forma della cancellazione di "tracce") delle prove
+(GIAR 9 agosto 2001 in re G.C.; REP 1980 p.45) quo alla reale destinazione dei
+fondi. La necessità di portare a termine la ricostruzione di tale destino,
+anche sulla base delle recenti indicazioni fornite dall'accusato, senza che
+quest'ultimo possa in qualche modo intervenire a modificare la situazione di
+fatto, è esigenza che deve essere salvaguardata.
+Non si dimentichi
+che, secondo le dichiarazioni di __________ stesso, la casa è costata ca. 2
+milioni (di cui solo una parte in nero), mentre gli importi sottratti sono
+stimati globalmente attorno ai 3 milioni di franchi (Verbali PP __________ 16
+aprile 2003 e 3 giugno 2003; verbale PP __________ 14 aprile 2003).
+Meno concreto,
+ancorché non totalmente assente, appare il pericolo di collusione con gli
+artigiani che, qualora avessero ricevuto pagamenti in nero, potrebbero avere
+interessi divergenti ad una corretta ricostruzione da quelli dell'accusato e,
+quindi, essere poco influenzabili da quest'ultimo.
+c)
+Anche la parte
+d'inchiesta relativa alle ipotesi di reato contro la persona, non è ancora
+conclusa, accertamenti di tipo tecnico sono ancora in corso e le versioni
+dell'accusato e di __________ debbono (ancora) essere approfondite, se del caso
+consolidate, e poste a confronto. Lo stesso dicasi di altre circostanze, di
+carattere più circostanziale (motivazioni circa la presenza dell'arma carica in
+casa, le minacce ricevute, le paure della o per la moglie, ecc. - cfr. Verbale
+PP __________ 9 maggio 2003, p. da 4 a 9) sulle quali la moglie dell'accusato è
+teste non di marginale importanza.
+Anche queste
+necessità istruttorie debbono essere salvaguardate da possibili interventi
+dell'accusato.
+La gravità del
+reato ipotizzato, ed il carattere indiziario dell'inchiesta, rendono di
+particolare importanza anche la raccolta di indizi minimi, rispettivamente di
+elementi circostanziali; i particolari rapporti con la vittima (nonché con
+testimoni come la moglie) inducono a maggior rigore nella protezione della
+raccolta degli elementi, quindi nell'approfondimento e nella verifica delle
+versioni della vittima e dei testi.
+Ne consegue che i
+contatti che __________ ha cercato di avere (passando un biglietto al fratello
+durante una visita) con la moglie, fornendogli anche indicazioni sul come
+comportarsi in caso di interrogatorio (cfr. verbale PP __________ 28 maggio
+2003, p.2), non possono assolutamente essere sottovalutati, come sembra fare la
+difesa (Osservazioni 18 giugno 2003, p. 12  ).Anzi, debbono essere letti in uno
+con altri atteggiamenti, per certi versi analoghi, che __________ ha assunto
+nei confronti di __________, dopo i fatti e prima dell'arresto, cercando di
+incontrarlo nonostante questi non lo desiderasse (Verbale PP __________ 15
+aprile 2003 ed allegati).
+Queste
+circostanze non sono semplici atteggiamenti di diniego da parte dell'accusato
+(in sé non sufficiente a fondare pericolo di collusione e/o d'inquinamento
+delle prove - SJ 1990 p. 438; DTF 117 Ia 257), bensì elementi concreti
+(oggettivi e soggettivi) che permettono di ritenere che egli, se posto in
+libertà, potrebbe cercare di indurre vittima e testi a modificare (edulcorare o
+rendere dubitative) le dichiarazioni già rese. Si ricorda che si tratta di
+testi con i quali l'accusato intrattiene (o, perlomeno ha intrattenuto)
+relazioni personali e che in simili casi determinati atteggiamenti di un
+accusato nei confronti dell'inchiesta possono anche giungere a giustificare
+persistenza del pericolo di collusione fino al dibattimento (sul principio: DTF
+95 I 242).
+d)
+Da tutto quanto
+sopra (punto c.), si desume un concreto pericolo di collusione in merito agli
+accertamenti necessari al chiarimento di aspetti non secondari della
+fattispecie (per analogia: Rep 1980 p.45, SJ 1981 p. 379/380). L’istruttoria è
+in corso da circa due mesi e si è proceduto agli accertamenti immediatamente
+possibili in modo celere. E’ vero che è stata data priorità ad alcuni atti
+d'inchiesta per rapporto ad altri, tuttavia non si può pretendere che tutto
+venga fatto in contemporanea dal primo giorno e occorre considerare che  vi
+sono prove la cui assunzione, con il trascorrere del tempo, diviene
+maggiormente a rischio.
+Va da sé, invece,
+che non è sugli esiti delle perizie psichiatriche che si concretizza pericolo
+di collusione o inquinamento delle prove ( GIAR 28 febbraio 2002 in re P., inc.
+492.2001.3).
+Quanto alle
+misure sostitutive indicate dalla difesa, si deve considerare che le stesse
+sono atte a limitare il pericolo di fuga ma poco idonee a scongiurare quello di
+collusione e/o inquinamento (ciò vale anche per  il "divieto di contattare
+terzi"). Pacifico che a poco valgono, a questo proposito, le semplici
+dichiarazioni d'intenti dell'accusato stesso.
+5.
+Il pericolo di fuga, per
+giustificare carcerazione preventiva, deve essere concreto e rivestire di una
+certa probabilità: in altri termini lo si ammette quando l’accusato, se posto
+in libertà, si sottrarrebbe con una certa verosimiglianza al perseguimento
+penale ed alla (eventuale) esecuzione della pena. La gravità della pena
+presumibile non basta, da sola, a motivare la carcerazione; occorre valutare
+l’insieme delle circostanze, tra cui il carattere dell’accusato, la sua morale,
+i legami famigliari, il domicilio, la professione, la situazione economica e
+tutti quegli elementi che rendono la fuga non solo possibile ma probabile (DTF
+19 gennaio 1999 in re G.S.; DTF 117 Ia 69; N. Schmid, Strafprozessrecht, ZH
+1997, no. 701). Il preavviso negativo, su questo punto, si limita a parlare
+della pena presumibile. Ne consegue che non sono indicati (né immediatamente
+deducibili dall'incarto) sufficienti elementi atti a fondare concreto pericolo
+di fuga.
+6.
+Il carcere preventivo sin qui
+sofferto, e quello ancora ragionevolmente prevedibile, da __________ è, alla
+luce della complessità dei fatti, della gravità oggettiva dei reati ascritti e
+delle pene ipotizzabili in caso di condanna, ancora rispettoso del principio di
+proporzionalità.
+Non si pone, nel caso in esame (e
+come visto più sopra al considerando 3) il problema della proporzionalità della
+misura cautelare non tanto in termini generali e per rapporto al comminatoria
+di pena, bensì nell'ambito del rapporto tra durata del carcere e gravità degli
+indizi (cfr. anche G. Piquerez, op. cit., no. 2333; REP 1988 416).
+Il presente giudizio, relativo a
+libertà personale, è esente da tasse e spese.
+P.Q.M.
+Visti gli artt. 95 ss. CPP, 9,
+10, 31 CF,  138, 158, 111, 112 CPS;
+decide:
+1.
+L’istanza di
+libertà provvisoria presentata da __________ è respinta.
+2.
+Non si prelevano
+tasse e spese.
+3.
+Contro la presente decisione è dato ricorso alla Camera
+dei Ricorsi Penali, Lugano, entro dieci giorni dall’intimazione.
+4.
+Intimazione a:
+-    avv. __________ per sé e per l'accusato;
+-    Procuratore pubblico avv. __________;
+(con copia delle
+osservazioni e con l'incarto MP __________ di ritorno);
+-    Direzione PCT, 6904
+Lugano-Cadro.
+giudice
+__________
