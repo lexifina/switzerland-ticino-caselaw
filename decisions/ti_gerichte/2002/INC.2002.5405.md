@@ -1,0 +1,205 @@
+---
+decision_id: "ti_gerichte_INC.2002.5405"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.5405"
+decided: "2002-09-26"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59604&nX40_KEY=4711363&nTrefferzeile=90&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-007.md", "switzerland/bund/acts/312.0/art-048.md", "switzerland/bund/acts/312.0/art-104.md"]
+---
+
+# TI Gerichte INC.2002.5405
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 26.09.2002 INC.2002.5405
+Tessin Il Giudice dell'istruzione e dell'arresto 26.09.2002 INC.2002.5405
+Ticino Il Giudice dell'istruzione e dell'arresto 26.09.2002 INC.2002.5405
+
+Sentenza o decisione senza scheda
+
+N. 54.2002.5                                                               Lugano,
+26 settembre 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+14/16 agosto 2002 presentato da
+__________
+, c/o
+PCT, Cadro,
+(patrocinato dall'Avv.
+__________)
+contro la decisione del
+Procuratore pubblico (datata 26 luglio 2002) di "
+costringere il
+ricorrente in condizioni di detenzione sproporzionate dal punto di vista
+dell'isolamento
+",
+viste le osservazioni del
+procuratore pubblico (28 agosto 2002);
+visionato, per quanto necessario
+e presso il Ministero Pubblico, l'inc. MP __________;
+ritenuto e considerato
+in fatto ed in
+diritto
+che:
+-
+con scritto del 26 luglio 2002, il Procuratore pubblico ha
+ordinato/autorizzato il trasferimento di ____________ dalle carceri pretoriali
+di Bellinzona al PCT (doc. 2 del'incarto GIAR 54.2002.5);
+-
+la decisione fa seguito a quella del 24 luglio 2002 di questo
+giudice, che ha ritenuto non (più) rispettoso del principio di proporzionalità
+il mantenimento dell'accusato (dall'arresto avvenuto il 31 gennaio 2002) presso
+le carceri pretoriali;
+-
+l'ordine/autorizzazione del 26 luglio 2002, contiene alcune
+condizioni relative al regime carcerario a cui è sottoposto ____________:
+colloqui e corrispondenza liberi con il solo difensore, proibizione di contatti
+diretti ed indiretti con il detenuto __________, con conseguente non
+concessione di attività lavorativa e beneficio dell'ora d'aria in tempi e modi
+che impediscano i contatti con quest'ultimo;
+-
+mediante il presente reclamo, ____________ afferma che le misure
+disposte dal magistrato (e che accompagnano il trasferimento) lo costringono ad
+un totale isolamento/segregazione, sproporzionato  per rapporto al grado di
+effettiva concretezza del pericolo di collusione con __________ (con
+riferimento alla sentenza del 24 luglio 2002 di questo giudice); chiede,
+quindi, l'annullamento delle misure;
+-
+il Procuratore pubblico chiede reiezione del gravame, sostenendo
+che, nella decisione del 24 luglio, questo giudice non aveva escluso
+l'esistenza di un pericolo di collusione, pur ritenendolo insufficientemente
+concreto per giustificare (nel rispetto del principio di proporzionalità)
+permanenza presso le carceri pretoriali; lo stesso GIAR, sempre a dire del Procuratore
+pubblico, aveva rammentato la facoltà di adottare misure relative al regime
+carcerario, a garanzia dell'inchiesta, e quelle poste in atto ossequiano tale
+decisione;
+-
+il Procuratore pubblico è legittimato ad adottare misure relative
+al regime carcerario delle persone in detenzione preventiva per
+"assicurare
+lo scopo dell'arresto"
+(art. 104 cpv. 3 CPP, artt. 4 cpv. 1 lett. a,
+11 LEPMS, artt. 2 cpv. 1 lett. c, 39 ss. REPMS);
+-
+____________, accusato e "destinatario" delle misure
+emanate dal magistrato inquirente, relative al suo regime carcerario, è
+certamente legittimato ad interporre reclamo (Rusca/Salmina/Verda, Commento del
+Codice di Procedura penale ticinese, no. 12 ad art. 104);
+-
+la tempestività del reclamo, contestata dal Procuratore pubblico,
+non può essere correttamente verificata; la comunicazione al difensore non è
+avvenuta per mezzo di invio raccomandato (art. 7 CPP e 124 CPC) e
+l'affermazione del difensore del reclamante, secondo cui la ricezione sarebbe
+avvenuta solo il 5 agosto 2002, non può essere smentita; d'altro canto, la CRP
+e questo ufficio hanno già avuto modo di affermare che in determinati casi
+(misure processuali destinate a durare nel tempo) il reclamo tardivo può essere
+considerato quale istanza di levata della misura, proponibile in ogni tempo
+(CRP 7 dicembre 1993, inc. 225/93; GIAR 16 marzo 2001, inc. 528.2000.1);
+-
+il reclamo è pertanto ricevibile in ordine;
+-
+la persona in stato di detenzione preventiva fruisce dei diritti
+fondamentali, compreso quello della libertà personale (ancorché non per tutte
+le sue componenti, per ovvia sottomissione alle restrizioni che derivano dallo
+stato di detenzione stesso - per. es. la libertà di movimento in quanto tale);
+le restrizioni imposte da regime carcerario, qualora intacchino ulteriormente
+la libertà personale, debbono essere limitate a quanto necessario per garantire
+lo scopo della detenzione ed il normale funzionamento del carcere (DTF 95 I 45;
+DTF 113 Ia 325; W. Haller in Commentaire de la Constitution fédérale, Liberté personnelle
+no. 13 e 66);
+-
+il reclamante lamenta il totale isolamento/segregazione (a suo
+dire analogo a quello vissuto presso le pretoriali) cui è astretto, di fatto,
+dall'ordine del procuratore pubblico che, imponendo di evitare ogni contatto
+diretto od indiretto con il detenuto ___________, si concretizza, per quanto
+emerge dal reclamo, nel dover rimanere in cella, salvo che per il periodo
+giornaliero d'aria;
+-
+il fatto che una persona in detenzione preventiva debba rimanere
+in cella per la maggior parte del tempo non appare, in sé, una costrizione
+particolare ed ulteriore per rapporto all'inevitabile conseguenza della misura
+dell'arresto; non esiste un diritto a circolare liberamente per lo stabilimento
+carcerario (fatta salva la garanzia di un periodo d'aria giornaliero), così
+come non esiste un diritto ad intrattenere relazioni con altri detenuti (Donatsch/Schmid,
+Kommentar zur Stpo des Kantons Zürich, nos. 10, 11, 43, 44 ad art. 71; DTF 122
+II 299);
+-
+le persone in stato di detenzione preventiva, di principio, sono
+assegnate alla sezione del penitenziario denominata carcere giudiziario
+cantonale, di cui le carceri pretoriali sono delle sezioni (art. 4 cpv. 1 lett
+a. LEPMS), ospitati in celle individuali e separati dai detenuti in espiazione
+di pena (art. 40 cpv. 3 REPMS; art. 48 PPF); la permanenza in cella è la norma
+e la garanzia della libertà personale, nella forma della libertà di movimento,
+è rispettata quando al detenuto è garantito un periodo giornaliero d'aria e di
+movimento fuori dalla cella (CRP 19 agosto 2002 in re S.; G. Piquerez, Procédure
+pénale suisse, Zurigo 2000, nos. 2410 a 2412);
+-
+in virtù dei principi e delle disposizioni di legge esposti nei
+paragrafi precedenti, nel caso specifico il fatto di dover rimanere la maggior
+parte del tempo in cella e di non avere contatti giornalieri con altri
+detenuti, non costituisce limitazione della libertà personale che va oltre le
+normali conseguenze della detenzione preventiva (legale), né costituisce una
+forma di isolamento/segregazione;
+-
+equivoca il reclamante con il suo riferimento alla sentenza 24
+luglio 2002 ed al concetto di isolamento/segregazione in esso contenuto; in
+quella decisione, il concetto è, ovviamente, da ricondurre alla situazione
+delle carceri pretoriali che in conseguenza alle specifiche condizioni
+(logistiche ed organizzative) fanno si che con il trascorrere del tempo la
+detenzione tenda ad avvicinarsi sempre più ad una forma di
+isolamento/segregazione nel senso della "mise au secret" prevista da
+alcuni codici romandi (cfr., per gli aspetti concreti, DTF 101 Ia 46);
+-
+presso la sezione denominata carcere giudiziario cantonale del
+penitenziario, le condizioni sia logistiche che organizzative sono diverse e
+tali da permettere concretamente un regime che non comporti restrizioni ulteriori
+per rapporto a quelle direttamente conseguenti allo statuto di detenuto
+preventivo e necessarie ai fini di salvaguardare lo scopo dell'arresto ed il
+normale funzionamento del carcere (passeggiata,
+visite, occupazione in cella, accesso ai media ed a quanto previsto dalle
+strutture d'appoggio carcerarie - cfr. G. Piquerez, op. cit., no. 2410 e ss; Donatsch/Schmid,
+op. cit., no. 23 e ss. ad art. 71); il reclamo nulla eccepisce su questi punti;
+-
+in conclusione, la decisione del Procuratore pubblico che, in uno
+con il trasferimento al PCT, vieta ogni contatto diretto ed indiretto con
+__________ non è, in sé, lesiva della libertà personale del reclamante, di
+altro suo diritto costituzionale garantito né di disposizioni legali specifiche
+(federali o cantonali), nella misura in cui egli (quale persona legalmente
+detenuta - cfr. DTF 113 Ia 325) può prevalersene; neppure l'applicazione
+concreta dell'ordine, in quanto direttamente correlata e dipendente dallo
+stesso e non da disposizioni regolamentari dell'istituto carcerario, appare
+lesiva di quegli aspetti dei diritti costituzionali di cui si è appena detto;
+La presente decisione, in quanto
+relativa alla libertà personale, è esente da tasse e spese, nonché (a giudizio
+dello scrivente) suscettibile d'impugnazione davanti alla CRP;
+P.Q.M.
+Viste le norme applicabili, in
+particolare gli artt. 104 cpv. 3 CPP, 4 LEPMS e relativo regolamento, 8, 10,
+31, 35, 36 CF,
+decide
+1.
+Nella misura in cui è ricevibile il reclamo è respinto.
+2.
+Non si prelevano tasse e spese.
+3.
+Contro la presente è dato reclamo alla CRP, Lugano, entro 10 giorni
+dall'intimazione della presente.
+4.
+Intimazione:
+-
+Avv. __________, per sé e per ____________ con copia delle
+osservazioni del PP;
+-
+-Procuratore pubblico __________.
+giudice
+__________
