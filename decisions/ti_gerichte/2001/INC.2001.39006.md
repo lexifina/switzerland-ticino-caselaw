@@ -1,0 +1,221 @@
+---
+decision_id: "ti_gerichte_INC.2001.39006"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.39006"
+decided: "2001-09-24"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=101599&nX40_KEY=4711576&nTrefferzeile=6&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-283.md"]
+---
+
+# TI Gerichte INC.2001.39006
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 24.09.2001 INC.2001.39006
+Tessin Il Giudice dell'istruzione e dell'arresto 24.09.2001 INC.2001.39006
+Ticino Il Giudice dell'istruzione e dell'arresto 24.09.2001 INC.2001.39006
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+390.2001.5/6/7 M
+Lugano
+24 settembre 2001
+In nome
+della Repubblica e Cantone
+del Ticino
+Verbale di udienza
+Avanti il giudice Luca Marazzi, sedente in udienza
+ex art. 283 CPP per giudicare i reclami inoltrati in data 29 e 31 agosto 2001
+da
+__________
+(avv. __________)
+in tema di trasferimento al PCT La Stampa ed accesso agli
+atti
+aperta l’udienza alle ore 14.30;
+constatata la presenza dell’avv. __________, per
+conto del reclamante, e del
+Procuratore Pubblico
+avv. Arturo Garzoni,
+Lugano;
+il giudice
+riassume il contenuto dei tre reclami (29 agosto 2001, inc. Giar 390.2001.5
+doc. 1; 31 agosto 2001, inc. Giar 390.2001.6 doc. 1; 17 settembre 2001, inc.
+Giar 390.2001.7), constatando preliminarmente che il postulato trasferimento
+del reclamante al PCT La Stampa è nel frattempo avvenuto, ciò che rende il
+rispettivo gravame privo d’oggetto;
+rileva poi che, con
+decisione 29 agosto 2001 (inc. Giar 390.2001.5 doc. 6), il Procuratore Pubblico
+ha accolto la richiesta di concedere un diritto di visita del fratello
+dell’accusato, __________, da esercitarsi durante il fine-settimana. Il
+relativo permesso (libero) verrà rilasciato dal magistrato inquirente non
+appena gli saranno comunicate le esatte generalità dell’interessato. Tale
+decisione permette di ritenere pure questo gravame siccome divenuto privo
+d’oggetto; parimenti privo d’oggetto diventa anche il reclamo 17 settembre 2001
+(v. inc. Giar 390.2001.7 doc. 1 p. 2), con il quale era stato genericamente
+postulato il colloquio del reclamante con i parenti;
+rileva poi che in tema
+di accesso agli atti, il Procuratore Pubblico ha disposto, sempre con la citata
+decisione 29 agosto 2001, la concessione della visione parziale degli atti,
+segnatamente la consegna al difensore di copia dei verbali di __________.
+Questa decisione, tuttavia, non permette di risolvere i reclami in oggetto,
+nella misura in cui entrambi i rimedi di diritto postulano la concessione
+dell’accesso ad altra documentazione: il primo reclamo fa riferimento a
+documentazione già utilizzata in sede di giudizio di questo Ufficio sulla prima
+istanza di libertà provvisoria inoltrata
+dall’accusato (v.
+reclamo 29 agosto 2001, inc. Giar 390.2001.5 doc. 1 p. 2), mentre il secondo
+reclamo pretende l’accesso integrale all’incarto (v. reclamo 31 agosto 2001,
+inc. Giar 390.2001.6 doc. 1 p. 1);
+il giudice riassume indi
+le osservazioni 10 settembre 2001 del magistrato inquirente in tema di accesso
+agli atti, rilevando che la motivazione fornita a sostegno del diniego è
+genericamente quella della preventiva necessità di eseguire “i confronti e le
+contestazioni delle altre emergenze processuali (in parte non ancora
+disponibili), in virtù del principio dell’immediatezza” (v. osservazioni, inc.
+Giar 390.2001.5 doc. 5 [risp. inc. 390.2001.6 doc. 4], pto. 1.2 p. 2);
+il giudice, constatata
+l’ambiguità delle argomentazioni difensive, che non distinguono la richiesta di
+accesso ai documenti menzionati in sede di primo reclamo da quella, più ampia,
+riferita all’intero incarto, chiede all’avv. __________ di precisare il proprio
+pensiero: quali sono, in definitiva, i documenti ai quali vuole avere accesso?
+l’avv. __________ spiega
+che desidera avere accesso a tutti i verbali di __________, atteso che nel
+frattempo il verbale di confronto è già avvenuto. Chiede pure quelli di __________,
+visto che le sue affermazioni sono di estrema importanza per la difesa, e visto
+anche che in ogni caso __________ potrebbe anche conferire con __________
+liberamente, per cui si impone di sapere cosa __________ abbia detto prima di
+eventuali contatti con __________. Da ultimo desidera i verbali di __________ e
+__________, ritenuto che essi trattano verosimilmente solo di questioni
+tecniche, che l’accusato non è in ogni caso in grado di influenzare. Da ultimo,
+chiede accesso alla documentazione bancaria relativa al conto __________
+(diritti di firma, prelevamenti ecc.), per vedere chi tirava i fili formalmente
+e realmente. Il reclamante invece non insiste per avere i verbali della
+coaccusata __________;
+il giudice, constatata
+d’altra parte la genericità del motivo di diniego dell’accesso agli atti, così
+come descritto dal magistrato inquirente in sede di osservazioni (loc. cit.),
+invita il magistrato inquirente a rispondere al reclamante in termini puntuali,
+ovvero con riferimento prima alla documentazione oggetto del primo reclamo 29
+agosto 2001, indi agli ulteriori atti formanti l’inc. MP, semmai con la riserva
+dei verbali della coaccusata __________ (ai quali il reclamante sarebbe
+momentaneamente disposto a rinunciare, v. reclamo 31 agosto 2001, p. 2 e p. 3);
+il
+Procuratore
+Pubblico
+premette che entrambi gli accusati sono attualmente al PCT, e
+quindi possono parlarsi. Inoltre, i due legali hanno i colloqui liberi con i
+rispettivi clienti. Dunque, esiste un chiaro pericolo di collusione. È vero che
+è stato fatto il confronto __________-__________, ma non ancora quello fra __________
+e la __________. Lo stesso vale per i verbali di __________, __________ e __________:
+non sono ancora stati effettuati i confronti fra loro e __________. I confronti
+riprendono il 1° ottobre 2001. È appena giunta la documentazione __________ al
+MP, e deve essere ancora esaminata dalla Efin: prima di darla alle parti,
+desidera esaminarla ed eventualmente contestarla agli accusati. Il PP conferma
+comunque la propria disponibilità a consegnare al difensore di __________ i
+verbali di polizia già confermati avanti al PP, ossia quelli del 14 e del 16
+agosto 2001; non invece quelli eventualmente ancora da chiarificare;
+il
+Procuratore
+Pubblico
+ribadisce il proprio diniego di concedere alla difesa di __________
+la visione dei verbali __________, nella preoccupazione di garantirsi
+l’immediatezza delle dichiarazioni della coaccusata __________. Lascia la
+decisione a questo giudice;
+a maggior ragione il
+magistrato inquirente ribadisce il proprio diniego a che venga concesso a __________
+l’accesso ai verbali __________, __________ e __________, in attesa dei
+confronti di queste persone con __________;
+quanto alla
+documentazione __________, il Procuratore Pubblico chiede di non concederla in
+visione a __________ prima che sia stata esaminata dall’Equipe finanziaria del
+MP e poi contestata all’accusato;
+viene da ultimo
+sollevata la richiesta di dissequestro degli oggetti personali sotto sequestro,
+nonché del denaro rinvenuto sull’accusato al momento del fermo. Il
+Procuratore
+Pubblico
+si dice d’accordo di riconsegnare a __________ gli occhiali e la
+calcolatrice, non invece gli altri oggetti, ed in specie le agendine ed altra
+documentazione, che devono essere ancora visionate e, semmai, contestate. Il
+Procuratore Pubblico si impegna ad invitare gli inquirenti di polizia a
+procedere immediatamente all’esame dell’agendina, semmai contestandone il
+contenuto all’accusato. Idem per il portafogli e gli altri documenti custoditi
+nella valigetta. Si dice anche d’accordo per la liberazione del saldo dei
+Franchi svizzeri in contanti ancora bloccati e a suo tempo rinvenuti in
+possesso all’accusato (salvo errore, circa Fr. 1'200.--);
+su espressa richiesta
+dell’avv. __________, il Procuratore Pubblico concede espressamente al
+difensore la facoltà di conferire liberamente per telefono con l’assistito,
+previa verifica da parte del personale di custodia dell’identità
+dell’interlocutore destinatario della telefonata;
+l’avv. __________, dopo
+lunga discussione, preso atto della dichiarata intenzione del magistrato
+inquirente di procedere al più presto (non appena terminato il proprio
+picchetto, ovvero a partire dal 1° ottobre prossimo) alle contestazioni a __________
+delle dichiarazioni di __________, __________ e __________ (eventualmente poi
+in contraddittorio), si dice d’accordo di temporaneamente ritirare la propria
+domanda di accesso ai verbali delle persone succitate, riservata la facoltà di
+reclamare per ritardata giustizia qualora i tempi si allungassero oltremodo.
+Del pari rinuncia provvisoriamente ad una preventiva visione della
+documentazione __________, poiché appena giunta nelle mani del MP e dunque
+bisognosa di preventivo esame da parte degli inquirenti;
+richiamato, in diritto,
+il principio di cui all’art. 58 cpv. 1 risp. 60 cpv. 2 CPP, in virtù del quale
+le parti hanno libero accesso agli atti, limitatamente tuttavia a quanto
+necessario per il patrocinio e fatte salve contrarie esigenze d’inchiesta;
+richiamata la ricca
+giurisprudenza cantonale in proposito (sommariamente riassunta in: Il Giar,
+CFPG Collana gialla vol. 1, Lugano 2001, § 3.II.2 pp. 21-25), ed in particolare
+l’importanza che viene riconosciuta da un lato alla tutela dell’immediatezza
+delle dichiarazioni dell’accusato (loc. cit., § 3.II.2.1 p. 22), e dall’altro
+ai tempi d’inchiesta, con l’obbligo di progressivo allentamento della
+limitazione dell’accesso agli atti man mano che l’istruttoria avanza e che le
+prove vengono assicurate, in particolare tramite il chiarimento di deposizioni
+effettuate in polizia avanti al magistrato inquirente (loc. cit., § 3.II.2.6 p.
+24-25);
+atteso, nel caso di
+specie, che resta conteso unicamente l’accesso ai verbali MP __________, sugli
+altri punti avendo accusa e difesa raggiunto i succitati accordi, e ritenuto da
+parte di questo giudice che all’accusato __________, i verbali __________ sono
+già stati prospettati estensivamente, addirittura con verbale a confronto
+effettuato lo scorso 17 settembre 2001, da cui discende che non si può ritenere
+che vi siano ancora dichiarazioni di __________ che non siano già state
+contestate;
+constatato, in
+conclusione, che la questione dell’accesso ai verbali __________ appare
+sufficientemente chiara e liquida da permettere immediata decisione con nota al
+presente verbale, mentre che per le ulteriori tematiche originariamente
+sollevate dal reclamante può essere in questa sede constatato che esse sono
+divenute prive d’oggetto;
+[verbale terminato alle ore 16.15]
+viste le norme menzionate nonché l’art.
+283 cpv. 2 CPP
+d e c i d e :
+1.
+Il reclamo inoltrato in data 31 agosto 2001 da __________ è parzialmente
+accolto.
+Pertanto, all’accusato reclamante è concesso
+l’accesso ai verbali MP di __________.
+2.
+Per il resto, i reclami inoltrati da __________ in data 29 agosto 2001,
+31 agosto 2001 e 17 settembre 2001 vengono stralciati dai ruoli, siccome evasi
+a seguito degli accordi intervenuti fra pubblica accusa e difesa in occasione
+dell’odierno verbale.
+3.
+Non
+si prelevano tassa né spese di giustizia, e non vengono assegnate ripetibili.
+4.
+La
+presente decisione è definitiva.
+5.
+Intimazione
+seduta stante a:
+giudice Luca Marazzi
