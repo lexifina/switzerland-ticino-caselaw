@@ -1,0 +1,96 @@
+---
+decision_id: "ti_gerichte_INC.2001.11103"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.11103"
+decided: "2001-10-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59633&nX40_KEY=4711439&nTrefferzeile=54&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-009.md", "switzerland/bund/acts/312.0/art-052.md", "switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-281.md"]
+---
+
+# TI Gerichte INC.2001.11103
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.10.2001 INC.2001.11103
+Tessin Il Giudice dell'istruzione e dell'arresto 23.10.2001 INC.2001.11103
+Ticino Il Giudice dell'istruzione e dell'arresto 23.10.2001 INC.2001.11103
+
+Sentenza o decisione senza scheda
+
+N. 111.2001.3 L                                                         Lugano,
+23 ottobre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato l'8/10 ottobre 2001 da
+__________
+(patrocinato dall'avv. __________)
+contro la decisione 27 settembre
+2001 del
+Procuratore pubblico
+avv. __________, che ha respinto
+complementi di prova nel procedimento pendente contro il reclamante per titolo
+di atti sessuali con fanciulli e pornografia;
+viste le osservazioni 15 ottobre
+2001 della parte civile __________ (patrocinata dall'avv. __________), che
+postula la reiezione del reclamo;
+preso atto della comunicazione 22
+ottobre 2001 del magistrato requirente, con l'accertamento della tardività del
+reclamo, di cui viene conseguentemente chiesta la reiezione in ordine,
+costatato in effetti che:
+-
+la decisione impugnata, datata 27 settembre 2001, è stata spedita lo
+stesso giorno al patrocinatore del reclamante, per raccomandata da __________
+con il numero di impostazione __________;
+-
+accertamenti presso l'Ufficio di distribuzione di __________, danno
+quell'invio siccome ritirato il 28 settembre 2001, giorno e data quindi
+dell'intimazione a norma di legge, quale conoscenza del provvedimento,
+impugnabile entro i successivi dieci giorni, come al rimedio di diritto
+correttamente indicato in calce alla menzionata decisione (art. 280 ss. CPP);
+-
+lo stesso reclamo ricorda che "
+la decisione qui impugnata è
+stata emanata in data 27 settembre 2001 e intimata il giorno successivo
+";
+-
+il gravame porta la data dell'8 ottobre 2001, decimo e ultimo giorno
+utile per presentarlo (art. 281 cpv. 1 CPP), ma è stato consegnato alla posta
+due giorni dopo e cioè il 10 ottobre 2001, quindi tardivamente;
+per cui in diritto:
+-
+non può che conseguirne decisione di irricevibilità (definitiva: art.
+284 cpv. 1 lett. a CPP, e contrario), con carico di spese giudiziarie,
+anticipate dallo Stato per il beneficio del gratuito patrocinio (art. 52 cpv. 4
+CPP), e di onere di ripetibili a favore della controparte, commisurate al
+ridotto impegno di quest'ultima (art. 9 cpv. 6 CPP) e pertanto nelle
+possibilità finanziarie del reclamante soccombente;
+visti i citati articoli di legge,
+decide:
+1.
+Il reclamo è irricevibile per tardività.
+2.
+La tassa di giustizia di fr. 50.- e le spese di fr. 20.-, anticipate
+dallo Stato, sono a carico del reclamante.
+3.
+__________ pagherà alla parte civile __________ l'importo di fr. 60.- a
+titolo di ripetibili.
+4.
+Intimazione:
+-
+avv. __________, per sé e per il reclamante;
+-
+avv. __________, per sé e per la parte civile;
+-
+Procuratore pubblico avv. __________.
+giudice
+__________
