@@ -1,0 +1,70 @@
+---
+decision_id: "ti_gerichte_INC.2004.61605"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.61605"
+decided: "2005-02-14"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59192&nX40_KEY=4711182&nTrefferzeile=15&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2004.61605
+
+## Regeste
+
+Ordine di perquisizione e sequestro
+Stralcio per revoca decisione PP
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 14.02.2005 INC.2004.61605
+Tessin Il Giudice dell'istruzione e dell'arresto 14.02.2005 INC.2004.61605
+Ticino Il Giudice dell'istruzione e dell'arresto 14.02.2005 INC.2004.61605
+
+Ordine di perquisizione e sequestro
+Stralcio per revoca decisione PP
+
+Incarto n.
+INC.2004.61605
+Lugano
+14 febbraio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Edy Meli
+Visto il reclamo 21/24 gennaio 2005 presentato da
+_RECL1 __________
+contro
+la decisione 10 gennaio 2005 del Procuratore pubblico
+Maria Galliani nell'ambito del procedimento di cui all'inc. MP __________;
+ritenuto che con scritto del 3
+febbraio 2005 il magistrato inquirente ha comunicato (in luogo e vece della
+presentazione delle osservazioni) di aver revocato la decisione
+impugnata;
+alla luce di quanto sopra, il
+reclamo è divenuto privo d'oggetto e può essere stralciato dai ruoli con la
+presente decisione, esente da tassa di giustizia ma con assegnazione di
+ripetibili (visto il motivo della revoca della decisione) ai reclamanti che le
+hanno protestate.
+PQM
+viste le norme applicabili ed in particolare gli artt. 9,
+157ss, 280ss, 284 CPP;
+decide
+1.
+Il reclamo è stralciato dai ruoli in quanto
+divenuto privo d'oggetto.
+2.
+Non
+si prelevano tasse di giustizia e spese, lo Stato verserà ai reclamanti
+rappresentati dall'avv. __________ FRS 500.-- (cinquecento) a titolo di
+ripetibili.
+3.
+Contro la presente decisione è dato reclamo
+alla CRP entro 10 (dieci) giorni.
+4.
+Intimazione (con copia delle osservazioni
+delle parti):
+giudice
+Edy Meli
