@@ -1,0 +1,141 @@
+---
+decision_id: "ti_gerichte_INC.2002.5414"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.5414"
+decided: "2004-03-08"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59371&nX40_KEY=4711309&nTrefferzeile=87&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2002.5414
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 08.03.2004 INC.2002.5414
+Tessin Il Giudice dell'istruzione e dell'arresto 08.03.2004 INC.2002.5414
+Ticino Il Giudice dell'istruzione e dell'arresto 08.03.2004 INC.2002.5414
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2002.5414
+Lugano
+8 marzo 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+__________
+sedente per statuire sull'istanza di dissequestro
+presentata il 13 febbraio 2004 da
+__________,
+detenuto c/o PCT La Stampa, Lugano-Cadro
+rappr. dall'avv. __________
+in materia di dissequestro;
+viste le osservazioni del
+Procuratore generale (1. marzo 2004);
+potendosi prescindere dalla
+visione dell'intero incarto MP;
+ritenuto e considerato:
+in fatto ed in diritto
+che:
+-
+__________ è stato arrestato il 31 gennaio 2002 (quando si
+trovava, in espiazione pena e regime di semilibertà, presso il carcere di Regensdorf/ZH)
+con l'accusa di aver organizzato, con terzi, un importante traffico di
+stupefacenti tra il Sudamerica e l'Europa, nel corso del 2001 (oltre 200 Kg di
+cocaina, sequestrati ad Atene l'8 gennaio 2002: cfr. doc. 2 inc. GIAR
+54.2001.1), nonché di aver riciclato la somma di USD 400'000.- consegnatagli da
+persone implicate nel traffico in questione, membri (secondo l'accusa) di
+un'organizzazione criminale (inc. GIAR 54.2002.1, doc. 1);
+-
+il carcere preventivo, cui è astretto __________, perdura tutt'ora
+e nei suoi confronti è stato emesso l'atto di rinvio a giudizio;
+-
+con l'istanza qui in discussione, __________ chiede il
+dissequestro della somma di FRS 2'874,00 (subordinatamente di una inferiore)
+per l'acquisto di capi d'abbigliamento, che nessuno potrebbe acquistare per
+lui, individuati tramite catalogo;
+-
+il magistrato inquirente ricorda i principi che reggono il
+sequestro ai fini di confisca, nonché il fatto che la misura può servire anche
+a garantire spese giudiziarie e multa; a suo dire, solo motivi di stretta
+necessità permettono di diminuire la "garanzia dello Stato" e, nel
+caso in esame, tali motivi sarebbero dati ma solo per un importo minore a
+quello richiesto;
+-
+trattandosi di richiesta avanzata nel lasso di tempo che segue
+l'atto d'accusa e precede il dibattimento, questo giudice è competente per
+determinarsi sulla richiesta (cfr. decisione 17 febbraio 2004, doc. 2 inc. GIAR
+54.2002.14);
+-
+in diritto occorre far riferimento all'art. 59 cifra 2 cpv. 2
+CPP, ritenuto che non è sostenuta provenienza illecita degli averi sotto
+sequestro;
+-
+il magistrato inquirente non contesta che determinate spese
+relative al fabbisogno personale possano, nel caso in esame, essere
+riconosciute e aderisce all'istanza ma per un importo inferiore, il cui
+ammontare è lasciato alla determinazione di questo giudice;
+-
+prima facie, la richiesta così come formulata, appare
+effettivamente eccessiva (anche alla luce del numero di capi d'abbigliamento
+figuranti nella lista allegata all'istanza); lo stesso istante presenta una
+richiesta subordinata per un importo inferiore, senza quantificarlo;
+-
+ne consegue che, nel suo principio, l'istanza non è contestata
+dall'autorità inquirente (e non vi sono parti civili); solo deve essere
+determinato l'importo da dissequestrare;
+-
+di principio non spetterebbe a questo giudice determinare
+l'importo oggetto della subordinata in assenza di indicazioni (e motivazioni)
+delle parti; tra l'altro, la lista di articoli allegata all'istanza non indica
+i prezzi dei singoli articoli, né risulta sempre possibile individuarne
+tipologia (e, quindi, necessità);
+-
+comunque, vista l'entità della questione e la concordanza delle
+parti quo ad un dissequestro, una irricevibilità dell'istanza per carenza di
+motivazione della subordinata risulterebbe contrario all'economia di giudizio;
+-
+in conclusione, la richiesta subordinata può essere accolta nella
+misura di FRS 1000.-, somma che in assenza di precisazioni si reputa
+sufficiente per l'acquisto di uno o due paia di scarpe, alcune calze, qualche
+pantalone ed alcune magliette (capi che risulterebbero dalla lista allegata
+all'istanza).
+P.Q.M
+visti gli artt. 59 CP, 161 ss.
+CPP, 280 ss. , 284 CPP,
+decide
+1.
+L'istanza è
+accolta nella sua formulazione subordinata.
+§.
+Di conseguenza
+è dissequestrata a favore di __________, la somma di FRS 1'000.-.
+2.
+Non si prelevano
+tasse di giudizio, né spese; non si assegnano ripetibili.
+3.
+Contro la presente
+è dato reclamo alla CRP, entro 10 (dieci) giorni dalla notifica.
+4.
+Intimazione:
+-    PG __________, Via
+Pretorio 16, 6900 Lugano;
+-    avv. __________,
+per sé e per il reclamante
+(con copia delle
+osservazioni 1. marzo 2004 del magistrato inquirente);
+-    Presidente della
+Corte delle assise criminali, Via Pretorio 16, 6900 Lugano
+(con copia delle
+osservazioni 1. marzo 200 del magistrato inquirente).
+giudice
+___________
