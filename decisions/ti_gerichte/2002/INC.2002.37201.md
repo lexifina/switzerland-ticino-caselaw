@@ -1,0 +1,124 @@
+---
+decision_id: "ti_gerichte_INC.2002.37201"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.37201"
+decided: "2002-12-13"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59636&nX40_KEY=4711357&nTrefferzeile=50&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-057.md"]
+---
+
+# TI Gerichte INC.2002.37201
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 13.12.2002 INC.2002.37201
+Tessin Il Giudice dell'istruzione e dell'arresto 13.12.2002 INC.2002.37201
+Ticino Il Giudice dell'istruzione e dell'arresto 13.12.2002 INC.2002.37201
+
+Sentenza o decisione senza scheda
+
+N. 372.2002.1 L                                                         Lugano,
+13 dicembre 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sulla
+domanda presentata il 1. luglio 2002 da
+__________
+,
+intesa ad ottenere la prestazione
+di cauzione preventiva a norma dell'art. 57 CP per la cessazione di reati
+contro l'onore a mezzo stampa in danno dell'istante  commessi da parte di
+__________, su "__________";
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+sul settimanale "__________" del 28 aprile 2002 è apparso un
+articolo, firmato da __________, che si rivolge "
+agli amministratori
+della __________.
+" di __________, con espressioni ritenute
+dall'istante lesive del suo onore, ricordato che egli è vicepresidente della
+Società __________ e del __________: l'avv. __________ chiede quindi
+l'intervento di
+questo giudice per i provvedimenti disposti dall'art. 57 CP, a garanzia della
+cessazione del vituperio, richiamate le numerose precedenti querele per
+atteggiamenti analoghi con seguito di condanna penale e ed i giudizi civili che
+già ebbero a diffidare __________ dal persistere in tale suo intollerabile
+comportamento;
+-
+l'art. 57 cpv. 1 CP dispone che "
+se vi è ragione di temere che
+chi ha proferito la minaccia di commettere un crimine o un delitto lo compia
+effettivamente, o se chi è già stato condannato per un crimine o un delitto
+manifesta l'intenzione determinata di ripeterlo, il giudice, a richiesta della
+persona minacciata, può esigere da lui la promessa di non commetterla e
+obbligarlo a prestare adeguata cauzione
+";
+-
+richiamando il giudizio in REP 1997 n. 88, l'applicazione di questo
+istituto desta perlomeno delle perplessità (decisione 6 aprile 1994 in re C. c/
+B., GIAR 24.93.1; v. anche decisione 1. febbraio 1995 in re G. c/ B., GIAR
+204.94.10), come ai cenni rilevabili nella dottrina e meglio secondo Logoz
+"...
+des doutes ont été émis au sujet de l'utilité que de telles mesures
+peuvent avoir aujourd'hui en Suisse
+" (Commentaire du CPS, 1976, ad
+art. 57 nota 8); Schultz "...
+die Massnahme wird ausserordentlich selten
+verhängt
+" (Einführung in den allg. Teil des Strafrechts, 1982, pag.
+200); Stratenwerth "
+...der Schutz, der sich auf solche Weise vermitteln
+lässt, ist jedoch sehr begrenzt...Es überrascht daher nicht, dass die
+Friedensbürgschaft fast ganz ausser Gebrauch gekommen ist...
+" ( Schw.
+Strafrecht, AT II, 1989, pag. 477), e riflesso di questi apprezzamenti è la
+quasi nulla giurisprudenza pubblicata del Tribunale federale (v. l'esempio in
+DTF 71 IV 72);
+-
+come noto all'istante, prima di decidere questo giudice ha inteso
+esaminare atti ed interventi istruttori sulla querela contemporaneamente
+presentata per la stessa fattispecie oggetto della presente pendenza: ora il
+corrispondente inc. MP __________/2002 contiene solo l'atto di querela, le
+richieste di questo giudice di sua produzione ed una sollecitatoria del
+querelante, per cui non è dato di trarre verifica sulla portata e sulla
+valutazione dei fatti in sede di inquirenza;
+-
+in ogni modo si costata che lo scritto ritenuto offensivo costituisce,
+dopo alcuni anni trascorsi dai precedenti interventi giudiziari nei confronti
+di __________ e attivati dall'avv. __________, una pubblicazione isolata,
+soprattutto senza seguito o reiterazione nelle successive edizioni del
+settimanale "__________": non si è conseguentemente in una
+situazione di continuato, inaccettabile e pericoloso comportamento, tale da
+fondare l'applicazione delle disposizioni dell'art. 57 CP;
+-
+per queste ragioni l'istanza è respinta con la decisione definitiva
+(art. 284 cpv. 1 lett. a CPP e contrario: v. REP 1995 n. 96), senza carico di
+spese giudiziarie;
+visti i citati articoli di legge,
+decide:
+1.
+La domanda di cauzione preventiva è respinta.
+2.
+Non si percepiscono spese giudiziarie.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione all'avv. __________.
+5.
+Comunicazione alla Procuratrice pubblica avv. __________, sede (con
+l'inc. MP __________ di ritorno).
+giudice
+__________
