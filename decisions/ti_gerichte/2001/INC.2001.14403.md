@@ -1,0 +1,132 @@
+---
+decision_id: "ti_gerichte_INC.2001.14403"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.14403"
+decided: "2001-08-22"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59712&nX40_KEY=4711443&nTrefferzeile=60&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2001.14403
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 22.08.2001 INC.2001.14403
+Tessin Il Giudice dell'istruzione e dell'arresto 22.08.2001 INC.2001.14403
+Ticino Il Giudice dell'istruzione e dell'arresto 22.08.2001 INC.2001.14403
+
+Sentenza o decisione senza scheda
+
+N. 144.2001.3 L                                                         Lugano,
+22 agosto 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull’istanza
+presentata il 17 agosto 2001 dalla
+Procuratrice pubblica
+avv. __________,
+intesa ad ottenere la proroga di
+tre mesi del carcere preventivo cui è astretto
+__________
+,                   __________, attualmente
+presso il Penitenziario cantonale
+(patrocinato
+dall’avv. __________)
+nel procedimento pendente contro
+quest’ultimo per titolo di truffa;
+preso atto della comunicazione 20
+agosto 2001 dell'avv. __________, il quale "
+in nome proprio e per conto
+del detenuto
+" dichiara "
+di aderire
+" alla richiesta
+proroga, "
+ritenendola giustificata
+";
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+__________ è stato arrestato il 20 novembre 2000 in Germania ed
+estradato a disposizione dell'Autorità penale che è in Lugano, il 9 marzo 2001,
+con conferma lo stesso giorno del provvedimento privativo della sua libertà in
+connessione con promozione dell'accusa nei suoi confronti per titolo di truffa:
+la fattispecie inquisita si riferisce alla malversazione di fr. 3'900'000.- ,
+depositati in cassette di sicurezza di istituti bancari di Lugano da cittadini
+italiani al preteso scopo di aumentare il capitale sociale di una ditta di loro
+pertinenza e poi sottratti dall'accusato in grazia del doppio delle
+corrispondenti chiavi di accesso da lui subdolamente trattenuto (circostanze
+negate da __________);
+-
+lo stesso accusato era già stato qui in arresto dal 7 ottobre al 24
+dicembre 1998 per altra fattispecie di truffa, per un importo di Lit.
+2'685'000'000, sfociata nell'atto di accusa 8 ottobre 1999, non ancora discusso
+in pubblico dibattimento;
+-
+la circostanziata esposizione della Procuratrice pubblica, a sostegno
+della postulata proroga, non ha sollevato né obiezioni né contestazioni da
+parte della difesa, la quale si è sostanzialmente associata perlomeno ed
+esplicitamente alle conclusioni della magistrata inquirente;
+-
+come noto, l'art. 95 CPP - corrispondente all’art. 33 scaturito dalla
+revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo evidenza al cpv.
+1 del principio secondo cui l'accusato si trova di regola in libertà, consente
+al cpv. 2 arresto, perdurare e proroga del carcere preventivo a' sensi
+dell'art. 103 CPP, quando esistono a carico dello stesso accusato gravi e
+concreti indizi di colpabilità per un crimine o un delitto e nel contempo sono
+presenti preminenti motivi di interesse pubblico, quali - per quanto qui
+concerne - i bisogni dell’istruzione, con pericolo di collusione e di
+inquinamento delle prove, quello di recidiva e quello di fuga (REP 1998 n.
+103): né va dimenticato che l’arresto, quale misura processuale cautelativa,
+non serve unicamente alla fase predibattimentale, ma anche ad assicurare la
+presenza dell’accusato al processo e a garantire l’eventuale espiazione della
+pena (DTF 109 Ia 323 consid c, e riferimenti; sentenza 16 novembre 1993 del
+Tribunale federale in re A.H., 1P.477/1993, consid. 3);
+-
+nonostante il silenzio dell'accusato e la sua adesione alla proroga,
+l'esistenza dei presupposti di legge va verificata d'ufficio: nel presente caso
+ciò si ha con rinvio all'esposto della Procuratrice pubblica, completo,
+puntuale e con riscontro nelle emergenze degli atti istruttori, qui esaminate,
+per cui è superflua ripetizione, anche per evitare possibilità di pregiudizio
+all'accusato nel seguito processuale;
+-
+il carcere preventivo sin qui sofferto e prevedibile sino alla
+conclusione del procedimento è d'altro canto rispettoso del principio di
+proporzionalità, avuto riguardo alla consistenza ed all’ampiezza dei fatti
+rimproverati e da verificare, in un’inchiesta sicuramente complessa per la
+gravità dei fatti inquisiti, per il numero di persone interessate in varie
+vesti e per l'atteggiamento poco collaborante dell'accusato;
+-
+di conseguenza l’istanza di proroga del carcere preventivo è accolta
+come proposta dalla magistrata inquirente, con la presente decisione, esente da
+tassa e spese giudiziarie (art. 39 lett. f TG e contrario), e suscettibile di
+impugnazione alla Camera dei ricorsi penali (art. 284 cpv. 1 lett. a CPP);
+per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.      L’istanza è accolta.
+Di conseguenza il carcere preventivo cui è astretto
+__________ è prorogato sino all'8 dicembre 2001, compreso.
+2.      Non si percepiscono né tassa né spese giudiziarie.
+3.      Contro la presente decisione è dato ricorso alla Camera dei
+ricorsi penali entro dieci giorni dall’intimazione.
+4.      Intimazione:
+-    avv. __________, per sé e per l’accusato;
+-    Procuratrice pubblica avv. __________, sede (con copia della
+comunicazione dell’accusato e con l'incarto MP __________ di ritorno);
+-    Direzione del Penitenziario cantonale, Lugano-Cadro.
+giudice
+__________
