@@ -1,0 +1,74 @@
+---
+decision_id: "ti_gerichte_INC.2001.2310"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.2310"
+decided: "2001-11-16"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59620&nX40_KEY=4711437&nTrefferzeile=100&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2001.2310
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 16.11.2001 INC.2001.2310
+Tessin Il Giudice dell'istruzione e dell'arresto 16.11.2001 INC.2001.2310
+Ticino Il Giudice dell'istruzione e dell'arresto 16.11.2001 INC.2001.2310
+
+Sentenza o decisione senza scheda
+
+N. 23.2001.10 M                                                        Lugano,
+16 novembre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo inoltrato in data 24
+settembre 2001 da
+__________
+,            __________
+(difeso di fiducia dall’avv. dott.
+__________)
+avverso la
+decisione 13 settembre 2001, tramite la quale il Procuratore Pubblico avv.
+__________ ha parzialmente rifiutato il complemento istruttorio proposto
+dall’accusato reclamante;
+preso atto
+che nel frattempo il magistrato inquirente ha sostanzialmente assunto il
+complemento previamente rifiutato, da cui la decisione del reclamante di
+ritirare il gravame in oggetto (v. scritto 17 [recte:15] novembre 2001, inc.
+Giar __________ doc. _), ciò che va constatato con la presente decisione,
+definitiva ed ovviamente senza carico di tassa né spese di giustizia;
+considerato
+l’esito sostanzialmente positivo del reclamo, si giustifica attribuzione di
+ripetibili a carico dello Stato e commisurate all’impegno profuso nella stesura
+del medesimo;
+per i quali
+motivi,
+in
+applicazione degli artt. 196, 280 ss. e 284 cpv. 1 lit. a
+e contrario
+CPP
+d e c i d e :
+1.
+Il
+reclamo in oggetto è stralciato dai ruoli a seguito del suo ritiro.
+2.
+Non
+si prelevano tassa né spese giudiziarie. Lo Stato del Cantone Ticino verserà al
+reclamante l’importo di fr. 350.— a titolo di ripetibili.
+3.
+La
+presente decisione è definitiva.
+4.
+Intimazione:
+-    avv. dott. __________, per sé e per l’accusato reclamante;
+-    Procuratore
+Pubblico avv. __________.
+giudice __________
