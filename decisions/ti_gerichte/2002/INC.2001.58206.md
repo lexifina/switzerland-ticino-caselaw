@@ -1,0 +1,81 @@
+---
+decision_id: "ti_gerichte_INC.2001.58206"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.58206"
+decided: "2002-11-08"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59619&nX40_KEY=4711359&nTrefferzeile=98&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-283.md"]
+---
+
+# TI Gerichte INC.2001.58206
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 08.11.2002 INC.2001.58206
+Tessin Il Giudice dell'istruzione e dell'arresto 08.11.2002 INC.2001.58206
+Ticino Il Giudice dell'istruzione e dell'arresto 08.11.2002 INC.2001.58206
+
+Sentenza o decisione senza scheda
+
+N. 582.2001.6 LM                                                      Lugano,
+8 novembre 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per
+statuire sul reclamo inoltrato in data 30 settembre / 2 ottobre 2002 da
+__________
+,
+(difeso
+di fiducia dallo studio legale avv. __________)
+avverso la
+decisione 24 settembre 2002, con la quale il
+Procuratore Pubblico
+ha
+respinto alcuni quesiti formulati con la richiesta di delucidazione scritta
+della perizia di credibilità sulle vittime, nell’ambito del procedimento penale
+condotto nei suoi confronti per titolo di atti sessuali con fanciulli e con
+persone incapaci di discernimento o inette a resistere, coazione sessuale,
+violazione del dovere di assistenza o educazione;
+viste le
+osservazioni 11 ottobre 2002 del magistrato inquirente, e preso atto che egli
+postula la reiezione del gravame;
+letti ed
+esaminati gli atti formanti l’inc. MP __________/BA/mg;
+sentite le parti, in applicazione dell’art. 283 CPP,
+all’udienza 18 ottobre 2002, e preso atto che è stato trovato un accordo sulla
+formulazione delle domande contestate;
+atteso che, allora, il reclamo in oggetto è da ritenersi
+evaso, ciò che va constatato con la presente decisione definitiva, senza accollamento
+di tassa e spese di giustizia, come pure senza attribuzione di ripetibili,
+semmai compensate;
+in applicazione degli artt. 148 e 280 ss. CPP
+d e c i d e :
+1.
+Il reclamo è stralciato dai ruoli a seguito dell’accordo intervenuto tra
+le parti in sede di udienza 18 ottobre 2002.
+2.
+Non si prelevano tassa né spese giudiziarie, e non si attribuiscono
+ripetibili.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+-
+avv. __________, per sé e per l’accusato reclamante, con copia
+delle osservazioni del Procuratore Pubblico;
+-
+avv. __________, per sé e per le parti civili, con copia delle
+osservazioni del Procuratore Pubblico;
+-
+Procuratore Pubblico avv. __________, Lugano, con l’inc. MP
+__________/2001/BA/mg di ritorno.
+giudice __________
