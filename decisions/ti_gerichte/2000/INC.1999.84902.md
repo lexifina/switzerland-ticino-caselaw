@@ -1,0 +1,491 @@
+---
+decision_id: "ti_gerichte_INC.1999.84902"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.84902"
+decided: "2000-09-13"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=97633&nX40_KEY=4711463&nTrefferzeile=41&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/312.0/art-009.md", "switzerland/bund/acts/312.0/art-036.md", "switzerland/bund/acts/312.0/art-060.md", "switzerland/bund/acts/312.0/art-062.md", "switzerland/bund/acts/312.0/art-079.md", "switzerland/bund/acts/312.0/art-164.md", "switzerland/bund/acts/312.0/art-193.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.1999.84902
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 13.09.2000 INC.1999.84902
+Tessin Il Giudice dell'istruzione e dell'arresto 13.09.2000 INC.1999.84902
+Ticino Il Giudice dell'istruzione e dell'arresto 13.09.2000 INC.1999.84902
+
+Sentenza o decisione senza scheda
+
+N. 849.99.2 M                                                             Lugano,
+13 settembre 2000
+N. 103.2000.1 M
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Luca Marazzi
+sedente per statuire sul reclamo congiuntamente inoltrato
+in data 22 febbraio 2000 da
+____________________
+(tutti patrocinati di
+fiducia dall’avv. __________)
+per ripetute
+omissioni del
+Procuratore Pubblico
+avv. Claudia Solcà, Lugano,
+nell’ambito del procedimento penale pendente contro il reclamante __________
+per titolo di appropriazione indebita, amministrazione infedele, falsità in
+documenti e riciclaggio, e contro __________ per i medesimi titoli di reato;
+viste le
+osservazioni 6 marzo 2000 del magistrato inquirente, postulanti la reiezione
+del reclamo;
+letti ed
+esaminati gli atti formanti l’inc. MP __________;
+ritenuto
+in fatto:
+A.
+Dall’autunno
+1997 è condotto un procedimento penale nei confronti dell’accusato qui
+reclamante __________, sospetto autore di malversazioni ai danni di __________.
+L’inchiesta, condotta dall’inizio del 1998 dall’attuale Procuratore Pubblico
+incaricato, dopo aver inizialmente permesso l’acquisizione di una prima serie
+di documentazione bancaria e l’audizione di personaggi coinvolti in diversi
+ruoli, sta vivendo un momento di stasi a seguito di reclami inoltrati dal reclamante
+e da funzionario di banca, sospettato di avere aiutato il primo (v. incc. GIAR
+849.99.1, 849.99.2 e 103.2000.1). Con decisione 2 marzo 2000, il magistrato
+inquirente ha promosso formalmente l’accusa nei confronti di __________ e di __________,
+dimostrando in tal modo di ritenere di disporre di elementi sufficienti a
+suffragio dell’ipotesi accusatoria (un reclamo contro la promozione dell’accusa
+è stato respinto in ordine da questo giudice, v. inc. GIAR 103.2000.2, doc. 3).
+B.
+Dopo essersi
+opposti, con reclamo 22 dicembre 1999 evaso separatamente (inc. GIAR 849.99.1,
+decisione 8 settembre 2000), all’acquisizione della documentazione bancaria
+relativa alle loro relazioni presso la Banca __________ (__________ e/o __________),
+__________ ed i figli __________ e __________ adiscono nuovamente questo
+Ufficio rimproverando al magistrato inquirente svariate omissioni, segnatamente
+di non aver congiunto i procedimenti penali riguardanti __________ ed il
+funzionario di banca __________, sospettato di correità col primo (v. reclamo
+22 febbraio 2000, inc. GIAR 849.99.2 doc. 1 pto. B p. 3-4); di non avere evaso
+le istanze dei reclamanti volte ad evitare l’accesso agli atti da parte della
+parte civile (loc. cit., pto. C p. 4-6) e la loro partecipazione agli atti istruttori
+(loc. cit., pto. D p. 6-7); di non aver revocato il sequestro 29 ottobre 1999
+relativo a relazioni bancarie in essere presso la__________ (loc. cit., pto. E
+p. 7-9); di non aver ancora proceduto all’interrogatorio della parte civile
+(loc. cit., pto. F p. 9), alla promozione dell’accusa nei confronti del
+reclamante __________ (loc. cit., pto. G p. 10); di non aver tenuto conto di
+proprie istanze di complemento probatorio nell’ambito di prevista rogatoria
+alle __________ (loc. cit., pto. H p. 10-12); e di non avere, infine,
+confermato ai reclamanti di avere vietato alla parte civile l’accesso agli atti
+acquisiti dal dr.__________, estensore della perizia di parte (loc. cit., pto.
+I p. 12-13). Il postulato effetto sospensivo (loc. cit., pto. L p. 13-14) è
+stato negato da questo giudice con decisione incidentale 24 febbraio 2000 (inc.
+GIAR 849.99.2 doc. 4).
+C.
+Il magistrato
+inquirente postula la reiezione del reclamo. Osserva (v. inc. GIAR 849.99.2
+doc. 6) che “
+i procedimenti penali contro __________ e __________ sono
+connessi ai sensi dell’art. 36 CPPTI
+”, e che il mancato coinvolgimento
+dell’accusato __________ alle audizioni del coaccusato __________, così come la
+mancata consegna dei relativi verbali, è dovuta a preminenti necessità
+d’inchiesta (loc. cit., ad B p. 1); che mai documentazione bancaria attinente
+relazioni facenti capo ai reclamanti sarebbe stata messa a disposizione della
+parte civile (loc. cit., ad C p. 1-2); che in considerazione dei fatti
+inquisiti, “
+non esaminare questi conti
+[i
+conti di __________ a __________ n.d.r.]
+e non parlarne a verbale
+sarebbe semplicemente assurdo
+” (loc. cit., ad D p. 2); che il proprio
+scritto 29 ottobre 1999 “
+non faceva che confermare [...] l’esistenza del
+blocco integrale degli averi dei __________ presso la __________
+” (loc.
+cit., ad E p. 2); che la parte civile è già stata sentita, e lo sarà semmai
+ancora a confronto con l’accusato __________ (loc. cit., ad F p. 2), contro il
+quale è stata nel frattempo promossa l’accusa (loc. cit., ad G p. 3); che non
+esiste un diritto delle parti ad essere informate dell’intenzione del
+magistrato inquirente di inoltrare una richiesta di assistenza giudiziaria
+internazionale, allegando i termini di ricorso (loc. cit., ad H p. 3); ed
+infine che la documentazione originariamente affidata al perito dr. __________
+è stata posta sotto sequestro con decisione 15 gennaio 1999, rimasta
+inoppugnata e cresciuta in giudicato (loc. cit., ad I p. 3).
+Considerato
+in diritto:
+1.
+In diritto è
+dato un ingiustificato ritardo, e quindi ritardata o denegata giustizia,
+quando, in violazione dell’art. 4 Cost. fed. (vecchia; v. art. 8 cpv. 1 della
+nuova Cost. fed.), l’autorità cui compete l’emanazione di una decisione non vi
+pone mano oppure, pur dimostrandosi pronta a statuire, non lo fa tempestivamente
+e in modo adeguato alla natura delle cose e delle circostanze (v. decisione 18
+marzo 1998 in re E., inc. GIAR 755.97.2, in: Rep. 131 [1998], nr. 108; v.
+inoltre decisione 2 ottobre 1998 in re J.K., inc. GIAR 205.93.2 consid. 5;
+decisione 27 luglio 1999 in re F.B. e G.C., inc. GIAR 489.99.1-2 p. 2).
+2.
+Non è chiaro
+cosa i reclamanti vogliano criticare con le loro affermazioni al punto di
+reclamo II.B (v. reclamo, cit., p. 3-4): è manifesto che, seppur con ruoli ed
+interessi diversi, __________ e __________ siano sotto inchiesta penale per le
+medesime fattispecie. La questione a sapere se si tratti di connessione
+ex
+lege
+(art. 36 cpv. 1 CPP) oppure se la medesima debba essere espressamente
+dichiarata (art. 36 cpv. 2 CPP) è comunque superata dall’esplicita ammissione
+formulata dal Procuratore Pubblico (v. osservazioni, cit., ad B p. 1). In ogni
+caso, anche un esplicito riconoscimento della connessione dei procedimenti
+contro __________ e contro __________ garantisce al primo la facoltà di
+partecipare agli atti istruttori relativi al secondo unicamente nei limiti
+dell’art. 62 cpv. 1 CPP: è qui superfluo pronunciarsi sulle ragioni che adduce
+il magistrato inquirente contro un coinvolgimento di __________ negli
+interrogatori altrui, ritenuto che lo stesso __________ non eleva la questione
+a tema del suo reclamo.
+Su questo
+punto, il reclamo deve essere dichiarato irricevibile.
+3.
+Notoriamente,
+“
+il Procuratore pubblico dirige l’istruzione formale, raccogliendo le prove
+nel rispetto dei diritti delle parti
+” (art. 193 CPP): segnatamente è lui a
+decidere quando interrogare chi. L’accusato ha la facoltà, tramite il proprio
+difensore, di proporre semmai prove proprie (art. 60 cpv. 1 CPP), sulla cui
+assunzione il magistrato inquirente decide al più tardi in sede di deposito
+degli atti (art. 196 cpv. 1 CPP; come qui, più in esteso, v. decisione 18
+gennaio 2000 in re S.B., inc. GIAR 803.99.1 consid. 2c p. 5 [destinata a
+pubblicazione]).
+Nel caso di
+specie, la questione a sapere quando interrogare la parte civile – e se,
+eventualmente, ciò debba avvenire (anche) in contraddittorio con l’accusato – è
+di esclusiva pertinenza del Procuratore Pubblico: egli è tenuto ad evadere la
+corrispondente richiesta dei reclamanti, formulata in data 22 dicembre 1999, al
+più tardi contestualmente al deposito degli atti. Di conseguenza, la
+constatazione che ciò non è ancora avvenuto non può configurare diniego di
+giustizia. Abbondanzialmente, si dà atto che __________ è nel frattempo già
+stata interrogata (v. verbali 6 novembre 1997 [inc. MP, classatore verbali,
+doc. A.3], 14 dicembre 1999 [inc. MP, classatore verbali, doc. A.5] e verbale
+14 marzo 2000 [inc. MP, classatore verbali, doc. A.9]).
+Su questo
+punto, il reclamo va allora respinto in ordine.
+4.
+Dal testé
+discusso principio della conduzione formale dell’inchiesta da parte del
+Procuratore Pubblico deriva anche l’assoluta libertà del magistrato inquirente
+in merito all’opportunità ed ai tempi di un’eventuale promozione dell’accusa:
+essa non è altro che la manifestazione esteriore del maturato convincimento, da
+parte del Procuratore Pubblico, che gli elementi raccolti giustificano un
+preventivo esame delle accuse mosse contro una determinata persona (artt. 184
+cpv. 1 e 189 CPP combinati; come qui, più in esteso, v. decisione 18 gennaio
+2000 in re S.B., inc. GIAR 803.99.1 consid. 2b p. 4 [destinata a
+pubblicazione]). Scaturendo, come detto, dal convincimento del solo magistrato
+inquirente e non dell’accusato medesimo, quest’ultimo non ha facoltà alcuna di
+esigere la promozione dell’accusa nei propri confronti, a maggior ragione se
+egli è stato posto a beneficio (anticipato) dei diritti della difesa
+formalmente riservati all’accusato (come è stato manifestamente il caso qui,
+ciò che i reclamanti neppure pongono in dubbio).
+Anche su
+questo punto, il reclamo va allora respinto in ordine.
+5.
+a)        Per il resto, è manifestamente vero che il reclamante __________
+ha ripetutamente inoltrato diverse richieste al Procuratore Pubblico. Egli ne
+allega quattro al proprio reclamo: la prima, datata 26 novembre 1999 (all. 1 al
+reclamo, cit. = inc. MP doc. 64) e intesa ad ottenere l’assicurazione che la
+documentazione raccolta presso il perito dr. __________ non sarà messa a
+disposizione della parte civile giusta l’art. 79 cpv. 2 CPP, è stata poi
+ribadita con scritto 13 dicembre 1999 (all. 2 al reclamo, cit. = inc. MP doc.
+73); vi è poi – ed è questo il documento più importante ed articolato –
+l’istanza 22 dicembre 1999 (all. 3 al reclamo, cit. = inc. MP doc. 76), che
+formalizza le già citate richieste antecedenti, e ne formula di nuove; e da
+ultimo, vi è l’istanza 7 febbraio 2000 (all. 4 al reclamo, cit. = inc. MP doc.
+84), con la quale viene sollecitata l’evasione delle istanze precedenti, la
+conferma del divieto d’accesso per quanto riguarda la documentazione bancaria
+alla parte civile, alla quale deve essere negata la partecipazione a tutti gli
+interrogatori dove si discuta dei conti menzionati, infine l’intimazione al
+legale dei reclamanti di “
+ogni istanza, corrispondenza o verbale effettuati
+nei procedimenti suddetti dal 1. novembre 1999
+” (loc. cit., p. 2 pto. 4).
+b)        Da parte sua, il magistrato inquirente ha indirizzato al
+difensore di __________ un unico scritto, quello datato 24 novembre 1999 (inc.
+MP doc. 61), nel quale comunica principalmente che non si opporrà ad un
+differimento dell’audizione dell’accusato __________, aggiungendo in chiusura
+che “
+la sua richiesta di contraddittorio tra denunciata [recte: denunciante]
+e denunciato [...] verrà presa in considerazione dopo l’interrogatorio del suo
+cliente
+”. Non emergono dagli atti altri scritti indirizzati ai reclamanti,
+nei quali siano state affrontate le tematiche da loro sollevate. Sono stati
+effettuati nel frattempo, invece, numerosi altri atti istruttori: sei verbali
+del coaccusato __________, due della denunciante __________ ed un verbale di
+teste (inc. MP, classatore “verbali” doc. A.5 a A.13), ed ancora l’ordine di
+perquisizione e sequestro bancario (inc. MP, doc. 74) impugnato ed evaso con
+parallelo reclamo.
+c)         La puntuale ed esaustiva evasione di richieste di parte è
+una condizione indispensabile per una corretta e serena gestione di ogni
+incarto. Ogni risposta del Procuratore Pubblico è, oltre che questione di
+forma, anche espressione della sua considerazione per le esigenze delle parti,
+indipendentemente dal fatto che siano giustificate o meno. E per tutte le
+parti, compreso il magistrato inquirente, richieste e relative risposte
+permettono di fare il punto processuale sull’incarto, e di meglio indirizzarne
+l’ulteriore gestione.
+d)        Nel caso di specie, l’unica richiesta per la quale si
+potrebbe anche ritenere che essa sia stata evasa dal Procuratore Pubblico è
+quella relativa al contraddittorio fra denunciante ed accusato __________ (v.
+richiesta 22 novembre 1999, inc. MP doc. 60, evasa con scritto 24 novembre
+1999, inc. MP doc. 61). Ma, come già detto, la risposta appare laterale per
+rapporto al nocciolo dello scritto. Ed in ogni caso, in almeno apparente
+accordo con quanto scritto dal magistrato inquirente, l’accusato ha riproposto
+la medesima richiesta in sede d’istanza 22 dicembre 1999 (cit.,
+petitum
+pto. 4), dopo che la denunciante era stata sentita il precedente 14 dicembre
+1999 (inc. MP, classatore “verbali” doc. A.5). Per il resto, il Procuratore
+Pubblico non si è assolutamente espresso, e non ha neppure ritenuto di
+spiegare, in sede di osservazioni, l’assenza di formale presa di posizione
+sulle richieste dei reclamanti, limitandosi a discuterne la fondatezza. Ad
+esempio circa il postulato divieto alla parte civile di accedere alla documentazione
+bancaria relativa ai conti __________, fornita dal dr. __________ a seguito
+dell’ordine di sequestro 15 gennaio 1999, l’atteggiamento del magistrato
+inquirente ha lasciato senza ragione nell’incertezza i reclamanti. Il fatto che
+il Procuratore Pubblico non abbia nel frattempo dato accesso alla
+documentazione in oggetto (v. osservazioni, cit., ad C p. 1) nulla cambia a
+quanto constatato. Neppure l’implicita reiezione della richiesta di divieto di
+integrale accesso agli atti, formulata dal Procuratore Pubblico in sede di
+osservazioni (ibid.), è di pregio alcuno: per garantire ai reclamanti il
+diritto di essere sentiti, l’istanza 22 dicembre 1999 dovrà essere formalmente
+evasa. Per quanto qui di rilievo, dovrà essere spiegato perché la presa di
+conoscenza della documentazione in questione da parte della denunciante “
+appaia
+necessaria all’esercizio dei suoi diritti
+” (art. 79 cpv. 2 CPP), e se a
+tale esigenza si oppongano “
+contrarie esigenze d’inchiesta
+” (ibid.)
+oppure “
+contrari interessi preminenti dell’accusato o di terzi
+” (ibid.).
+e)        Constatato, in conclusione, che numerose sono state le
+istanze inoltrate dai reclamanti, che nessuna di queste (a parte quelle già
+trattate ai considd. 2 a 4
+supra
+) ha ricevuto adeguata risposta, infine
+che il magistrato inquirente non ha ritenuto di spiegare – nemmeno in sede di
+osservazioni al presente reclamo – la mancata evasione delle richieste dei
+reclamanti, il reclamo non può che essere accolto ai sensi del presente
+considerando.
+6.
+a)        In sede di osservazioni al reclamo, il magistrato inquirente
+si limita ad affermare l’infondatezza delle richieste dei reclamanti.
+Nell’ottica ristretta del gravame qui discusso, inoltrato contro asserite
+omissioni del magistrato inquirente, fondatezza o infondatezza delle richieste
+avanzate dalle parti non sono di interesse alcuno: unico criterio è determinare
+se l’autorità cui compete l’emanazione di una decisione non vi pone mano
+oppure, pur dimostrandosi pronta a statuire, non lo fa tempestivamente e in
+modo adeguato alla natura delle cose e delle circostanze (
+supra
+, consid.
+1). Qui, come detto, il Procuratore Pubblico ha portato avanti l’istruttoria
+non solo senza evadere le istanze pendente, bensì contravvenendo di fatto a
+talune delle richieste formulate (segnatamente quella di vietare alla
+denunciante ogni e qualsiasi partecipazione ad audizioni degli accusati); in
+assenza di giustificazione alcuna, ciò basta per accogliere il reclamo.
+Per due
+ragioni, tuttavia, è nondimeno utile sfiorare, quand’anche solo
+superficialmente, l’argomento della fondatezza sostanziale delle richieste dei
+reclamanti. Da un lato, ciò potrebbe evitare ulteriori reclami nel merito,
+successivi ad una decisione formale del magistrato inquirente, come tale
+impugnabile, con apprezzabile guadagno di tempo in un incarto che non è stato
+gestito con particolare celerità. D’altro canto, l’accertamento di un’eventuale
+infondatezza (o addirittura temerarietà) di alcune (o di tutte) le richieste
+avanzate dai reclamanti potrebbe legittimamente far nascere il sospetto che esse
+siano state proposte a fini dilatori, e comunque sminuire la gravità delle
+omissioni qui accertate; perché, pur ribadendo il principio in virtù del quale
+ogni richiesta di parte merita tempestiva ed esauriente risposta, ci si
+potrebbe anche chiedere fino a quale punto una parte abbia il diritto di
+rallentare un procedimento penale inondando gli inquirenti di richieste
+infondate – o perlomeno, senza giungere a tali estremi atti a configurare
+l’abuso di diritto, si potrebbe far dipendere se non l’accoglimento di
+principio del reclamo, almeno il giudizio sulle spese dalla fondatezza delle
+richieste non evase.
+b)        Circa la richiesta di vietare alla parte civile ogni accesso
+alla documentazione bancaria relativa ai conti __________, fornita dal dr. __________
+a seguito dell’ordine di sequestro 15 gennaio 1999 (v. soprattutto istanza 22
+dicembre 1999, allegato 4 al reclamo, cit.,
+petitum
+pto. 6), questo
+giudice rileva che mal si vede come, in una fattispecie sul genere di quella
+qui discussa, possa essere vietata alla parte civile, integralmente ed a tempo
+indeterminato, ogni e qualsiasi presa di conoscenza della documentazione
+bancaria relativa a quei conti (di titolarità di terzi) sui quali sono
+incontestatamente affluiti capitali di sua pertinenza; ma, nel rispetto della
+libertà del Procuratore Pubblico di gestire l’incarto come meglio crede, starà
+a lui definire la questione, semmai ponendo quei limiti e quelle condizioni che
+riterrà opportune.
+c)         Del pari, anche la richiesta di totale esclusione delle
+medesime parti civili dagli interrogatori degli accusati (v. reclamo, cit.,
+pto. II.D p. 6-7) non appare seriamente proponibile. In primo luogo, essa
+appare di dubbia ricevibilità in ordine, nella misura in cui l’obiezione trae
+spunto dall’avvenuta partecipazione della denunciante (e di un figlio di lei)
+all’audizione non dell’accusato reclamante, bensì del coaccusato __________.
+Abbondanzialmente, nel merito, la pretesa natura esclusivamente civilistica
+della vertenza, affermata con veemenza dai reclamanti (v. reclamo, cit., pto.
+II.A p. 3), non appare da essi suffragata con alcun argomento di pregio. Nel
+caso di specie, un esame
+prima facie
+dei fatti porta piuttosto a
+ritenere che l’accusato __________ abbia unilateralmente disposto di fondi di
+altrui pertinenza, senza l’accordo o addirittura contro la volontà della
+denunciante __________; inoltre, non solo l’accusato non ha ancora fornito le
+benché minime spiegazioni sulle movimentazioni dei conti da lui operate, ma
+neppure ha abbozzato delle spiegazioni appena sostenibili a suffragio delle
+proprie pretese di titolarità dei beni. Fino a quando ciò non sarà avvenuto,
+l’eccezione della presunta natura esclusivamente civilistica della vertenza
+deve cedere il passo alla ben più solida ipotesi di reato sostenuta dalla pubblica
+accusa e dalla parte civile.
+Ciò premesso,
+dovendosi pertanto dar credito all’ipotesi accusatoria almeno nella misura in
+cui essa giustifica la conduzione di un’istruttoria formale contro __________,
+appare assolutamente lapalissiano che non si possa vietare alla parte civile di
+prender parte agli interrogatori degli accusati, essendo quella proprio la sede
+nella quale circostanziare e semmai verificare le accuse espresse in sede di
+denuncia. Altrettanto ovvio è che in tali circostanze vengano discusse le
+transazioni finanziarie operate da __________ e figli: ma, trattandosi di
+transazioni operate verosimilmente con denaro della denunciante, opporre alla
+partecipazione di quest’ultima all’istruttoria preminenti interessi dei
+reclamanti è obiezione a dir poco pretestuosa.
+d)        In merito al sequestro delle relazioni bancarie intrattenute
+da __________ con la __________ di__________, di cui i reclamanti postulano la
+revoca (v. reclamo, cit., pto. II.E p. 7-9), va puntualizzato che i reclamanti
+non sono senz’altro più abilitati a discuterne la fondatezza nel merito: sia il
+decreto 11 settembre 1997 dell’allora Procuratore Pubblico dott. Eggenschwiler,
+sia lo scritto 29 ottobre 1999 dell’attuale magistrato inquirente (nella misura
+in cui lo si possa ritenere decreto impugnabile, ciò che il Procuratore
+Pubblico, non senza ragioni, pone in dubbio nelle proprie osservazioni [cit.,
+ad E p. 2]) sono ampiamente cresciuti in giudicato. L’istanza 22 dicembre 1999
+dei reclamanti dovrà allora essere esaminata per quello che è, ossia una nuova
+richiesta che può avere effetto solo dal momento in cui è stata inoltrata, e
+semmai dovrà essere formalmente respinta.
+e)        Il Giudice dell’istruzione e dell’arresto ha ammesso la
+ricevibilità in ordine di un reclamo contro una decisione del magistrato
+inquirente di acquisire una prova, anche se tale acquisizione debba avvenire
+per via rogatoriale: “
+nella misura in cui il PP, nella sua Commissione
+rogatoria, decide formalmente, o comunque sostanzialmente, per l’acquisizione
+di una determinata prova, tale decisione è presa nell’ambito del procedimento
+penale in corso nel territorio ticinese e deve quindi poter essere impugnata
+nelle forme previste dal CPP
+” (decisione 22 maggio 1998 in re K. et al.,
+inc. GIAR 119.93.23,
+consid. 7 p. 11). Da ciò è tuttavia inammissibile
+dedurre che al Procuratore Pubblico corra l’obbligo di informare
+preventivamente le parti circa le prove che intende assumere (v. reclamo, cit.,
+pto. II.H.21 p. 11): ritenuto che lo scopo primo del reclamo contro l’acquisizione
+di una prova consiste nell’evitare, appunto, l’acquisizione agli atti del mezzo
+di prova in discussione, appare più che sufficiente che il reclamo venga
+inoltrato non appena saputo della commissione rogatoria, esattamente come fu il
+caso discusso nella decisione 22 maggio 1998.Inoltre, è manifesto che
+l’esecuzione di determinati passi istruttori quali perquisizioni e sequestri
+non può essere preannunciata alle parti, pena l’elusione del loro scopo primo,
+ovvero quello di rinvenire oggetti e fondi che l’accusato o indiziato ha
+occultato.
+f)          Da ultimo, va detto che la documentazione bancaria messa
+dalle parti a suo tempo a disposizione del perito dr. __________ è stata
+acquisita agli atti mediante decreto 15 gennaio 1999 del Procuratore Pubblico,
+rimasto inoppugnato e cresciuto in giudicato. Vista la riluttanza del dr. __________,
+la consegna della documentazione è stata nuovamente sollecitata con scritto 25
+novembre 1999 (inc. MP doc. 62). Solo a questo momento i qui reclamanti hanno
+reagito, e non chiedendo la messa sotto suggello di detta documentazione ai
+sensi dell’art. 164 CPP, ma unicamente chiedendo che essa non venisse messa a
+disposizione della denunciante (v. scritto 26 novembre 1999, inc. MP doc. 64).
+Sicuramente non può essere considerata valida istanza di messa sotto suggello
+il vago scritto 2 febbraio 1999 del patrocinatore dei qui reclamanti (inc. MP
+doc. 44).
+Va allora
+opportunamente precisato che la documentazione già in mano al dr. __________
+non è sotto suggello: non venne formulata richiesta in tal senso al momento del
+sue sequestro, né la richiesta 26 novembre 1999 (comunque non basata su un
+ordine di sequestro) venne tempestivamente accompagnata da un reclamo a
+sostanziare l’opposizione al sequestro (v. decisione 24 settembre 1999 in re Banca
+X, inc. GIAR 386.99.12, p. 2). Anche lo scritto 1° dicembre 1999, tramite il
+quale il reclamante __________ “
+si oppone all’acquisizione della
+documentazione prodotta da parte del dott. __________, salvo nel caso in cui
+l’acquisizione avvenga all’esplicita condizione del divieto di accesso da parte
+della denunciante
+” (inc. MP, doc. 68), è privo di qualsiasi valenza
+giuridica, come lo è la contestuale reiterazione della richiesta 26 novembre
+1999: detta documentazione è ormai definitivamente ed incondizionatamente
+acquisita all’incarto. Al Procuratore Pubblico non resta che formalizzare tale
+constatazione, respingendo (semmai in ordine siccome tardiva) la richiesta di
+messa sotto suggello, oppure decretando un espresso divieto d’accesso a carico
+della denunciante (ma v. qui
+supra
+, consid. 6b).
+7.
+In
+conclusione, non resta che constatare che almeno alcune delle istanze inoltrate
+dai reclamanti sono rimaste ingiustificatamente inevase. Il reclamo qui
+discusso merita allora corrispondente, parziale accoglimento ai sensi del
+petitum
+subordinato III.2 (le domande principali e la subordinata III.1 non essendo
+ricevibili, poiché intese ad ottenere da questo giudice decisioni di prima
+istanza che competono esclusivamente al Procuratore Pubblico), con pressante invito
+al magistrato inquirente affinché abbia ad evadere celermente le istanze ancora
+pendenti (
+supra
+, consid. 5). Respinto in ordine deve comunque essere il
+reclamo, laddove chiede la censura di omissioni che tali, per legge, non sono (
+supra
+,
+considd. 2-4).
+Visto l’esito
+del reclamo, non appare proponibile porre le spese e la tassa di giustizia a
+carico dei reclamanti: l’art. 9 cpv. 5 CPP, che pure lo permetterebbe in caso
+di dolo o negligenza grave del denunciante, del querelante o della parte
+civile, deve essere applicato con cautela e limitato ai casi flagranti (v. come
+qui decisione 29 dicembre 1998 in re C.B. e M.D.A., inc. GIAR 797.97.1
+bis
+consid. 7 p. 14, con rinvio a
+Cocchi/Trezzini
+, CPC annotato, Lugano
+1993, nota 1 all’analogo art. 148 CPC;
+Piquerez
+, Précis de procédure
+pénale suisse, 2ème éd. Lausanne 1994, margin. 2135). Constatato tuttavia (per
+quanto qui di rilievo ed impregiudicata ogni e qualsiasi valutazione da parte
+del magistrato inquirente) come le istanze ancora pendenti appaiano tendenzialmente
+infondate, e ricordata l’irricevibilità di alcune censure, delle domande
+principali e della prima subordinata, ai reclamanti non vengono attribuite
+ripetibili (art. 9 cpv. 6 CPP).
+Per i quali motivi,
+viste le
+norme menzionate e gli artt. 280 ss., 284 cpv. 1 lit. a CPP e, per le spese,
+dell’art. 9 CPP
+d e c i d e :
+1.
+In
+quanto ricevibile, il reclamo 22 febbraio 2000 è accolto.
+§   Di conseguenza, è
+fatto obbligo al Procuratore Pubblico di evadere le istanze formulate dai
+reclamanti a tutt’oggi pendenti.
+2.
+Non
+si percepiscono né spese né tassa di giustizia.
+3.
+Non
+si attribuiscono ripetibili.
+4.
+La
+presente decisione è definitiva.
+-
+Intimazione:
+giudice Luca Marazzi
