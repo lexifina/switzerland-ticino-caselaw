@@ -1,0 +1,516 @@
+---
+decision_id: "ti_gerichte_INC.2000.29901"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.29901"
+decided: "2000-09-21"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=95284&nX40_KEY=4711463&nTrefferzeile=11&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/312.0/art-009.md", "switzerland/bund/acts/312.0/art-113.md", "switzerland/bund/acts/312.0/art-119.md", "switzerland/bund/acts/312.0/art-157.md", "switzerland/bund/acts/312.0/art-158.md", "switzerland/bund/acts/312.0/art-159.md", "switzerland/bund/acts/312.0/art-160.md", "switzerland/bund/acts/312.0/art-161.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2000.29901
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 21.09.2000 INC.2000.29901
+Tessin Il Giudice dell'istruzione e dell'arresto 21.09.2000 INC.2000.29901
+Ticino Il Giudice dell'istruzione e dell'arresto 21.09.2000 INC.2000.29901
+
+Sentenza o decisione senza scheda
+
+N. 299.2000.1 M                                                        Lugano,
+21 settembre 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Luca Marazzi
+sedente per statuire sul reclamo inoltrato in data 12/15
+maggio 2000 da
+__________
+__________(difeso
+di fiducia dall’__________)
+avverso la
+perquisizione ed il sequestro eseguiti presso il negozio “__________” in data
+11 maggio 2000 ed ordinati dal
+Procuratore Pubblico
+avv. Bruno Balestra
+nell’ambito di un procedimento penale contro __________;
+viste le
+osservazioni 17 maggio 2000 del magistrato inquirente, che postula la reiezione
+del gravame;
+letti ed
+esaminati gli atti formanti l’inc. MP __________;
+ritenuto
+in fatto:
+A.
+In data 11
+maggio 2000, nell’ambito di un procedimento penale contro __________ per titolo
+di violazione della LFStup. la Polizia cantonale procedeva alla perquisizione
+di un canapaio sito in __________ a __________, di cui l’accusato risultava
+essere il titolare. Al momento di effettuare la perquisizione, gli inquirenti
+apprendevano che nuovo titolare del negozio era il qui reclamante, e che il
+negozio non si chiamava più “__________”, bensì “__________”. Cionondimeno, la
+perquisizione veniva effettuata, e veniva rinvenuta sostanza stupefacente sotto
+forma di alcuni sacchetti ed alcune piantine di marijuana (v. verbale di
+sequestro, inc. GIAR doc. 3). Il giovane incontrato dalla Polizia all’interno
+del negozio, tale __________, subito sentito dagli inquirenti, confermava di
+aiutare saltuariamente il nuovo titolare del negozio, e che durante il mese di
+aprile 2000 aveva venduto circa una decina di “
+sacchettini di canapa [...] a
+scopo terapeutico
+”, oltre ad altri derivati di quella pianta (v. verbale di
+polizia 11 maggio 2000, ore 13.11, all’inc. MP s. n., p. 2). Il reclamante,
+sopraggiunto nel frattempo, dichiarava a verbale di aver ripreso il negozio da __________
+all’inizio del mese di aprile, e di aver venduto nel frattempo circa un
+chilogrammo di fiori secchi di canapa (v. verbale di polizia 11 maggio 2000,
+ore 14.27, agli atti MP s. n., p. 3), istruendo gli acquirenti sulle
+conseguenze penali in cui sarebbero potuti incorrere utilizzando in modo
+improprio il contenuto dei sacchetti (loc. cit., R02 p. 3 e R08 p. 4 combin.).
+B.
+Con il
+presente reclamo, inoltrato il giorno successivo al sequestro (inc. GIAR doc.
+1), __________ contesta la legittimità dell’intervento della Polizia: non gli
+sarebbe stata rilasciata copia dell’ordine del Procuratore Pubblico, da cui
+discenderebbe che l’ordine sarebbe inesistente e nullo (poiché non intimato),
+ed inoltre lesivo del diritto di essere sentito (loc. cit., pti. B.2.a-c p. 2).
+In quanto rivolto contro un’altra persona (__________), poi, l’ordine “
+procederebbe
+da un manifesto errore di persona e sarebbe pertanto chiaramente arbitrario nel
+merito
+” (loc. cit., pto. B.3 p. 2).
+C.
+Nelle proprie
+osservazioni (inc. GIAR doc. 6), il Procuratore Pubblico difende la legittimità
+dell’operato della Polizia facendo presente che il reclamante (e l’altra
+persona trovata all’interno del negozio) ha ammesso la detenzione e la vendita
+di prodotti derivati della canapa, segnatamente fiori secchi (loc. cit., p. 1);
+e che il rinvenimento di detta sostanza stupefacente nei locali perquisendi ne
+imponeva il sequestro, in quanto oggetto di reato (loc. cit., p. 2).
+Considerato
+in diritto:
+1.
+a)        L’art. 161 CPP impone al Procuratore Pubblico di ordinare il
+sequestro di tutti gli oggetti che possono avere qualche importanza per
+l’istruzione del processo, sia come mezzi di prova o perché soggetti a
+confisca. Il sequestro, quale provvedimento eminentemente cautelare, ha lo
+scopo di acquisire e conservare gli oggetti per il dispiegamento della
+procedura, e quindi per le necessità dell’istruzione formale, per le decisioni
+del magistrato inquirente e per quelle del giudice del merito nella duplice
+prospettiva – alternativa o cumulativa – della produzione e valutazione delle
+prove (sequestro probatorio) e della decisione di confisca, restituzione o
+devoluzione, come agli artt. 58 CPS e 165, 270-271 CPP (sequestro
+confiscatorio) (come qui,
+verbatim
+sentenza 19 maggio 2000 in re C.J.,
+inc. CRP 60.2000.00042, consid. 1 p. 4-5).
+b)        Un ordine di sequestro può rappresentare un attentato ai
+diritti personali, o causarne un pregiudizio. Come ogni misura d’inchiesta,
+pertanto, deve soddisfare tre presupposti sostanziali: deve poggiare
+sull’esistenza di gravi indizi di colpevolezza, deve apparire necessario per il
+giudizio di merito (nel senso che deve essere connesso con l’oggetto che
+occorre salvaguardare agli incombenti processuali e di giudizio, v. decisione
+17 agosto 1998 in re E.F., inc. GIAR 501.98.2 consid. 2), infine deve essere
+rispettoso del principio di proporzionalità (v.
+Gérard Piquerez
+, Précis
+de procédure pénale suisse, 2. éd. Lausanne 1994, margin. 1441, 1454 e 1469,
+con rinvii). La verifica della fondatezza di questi presupposti, per il
+doveroso scrupolo di rispetto dei diritti individuali, deve essere costante
+negli incombenti dell’autorità inquirente e requirente, con sempre accresciuta
+esigenza probatoria indiziante approssimantesi alla verità materiale, a partire
+dal sospetto all’apertura del procedimento, che va in seguito ed indilatamente
+approfondito con gli accertamenti probatori del caso (v., in contesto più
+generale,
+Piquerez
+, cit., margin. 1116 ss.; sentenza CRP cit., p. 5).
+2.
+a)        Il sequestro di un oggetto viene usualmente citato assieme
+alla perquisizione che lo precede temporalmente, ossia a quella misura
+d’inchiesta per mezzo della quale gli inquirenti prendono dettagliatamente
+conoscenza del contenuto di locali (perquisizione domiciliare), degli indumenti
+di una persona e dei suoi effetti personali, infine del corpo di una persona
+(perquisizione personale; sulla suddivisione v.
+Hauser/Schweri
+,
+Schweizerisches Strafprozessrecht, 4. Aufl. Basel/Genf/München 1999, § 70
+margin. 6 ss.). La perquisizione è dunque di regola l’atto che permette di
+rinvenire oggetti passibili di sequestro (
+Hauser/Schweri
+, loc. cit.,
+margin. 6), e la correlazione delle due azioni è scontata al punto che il
+Procuratore Pubblico è solito emanare un unico ordine onnicomprensivo. E di
+regola, se vi sono recriminazioni da parte del detentore di beni oggetto di un
+sequestro, esse riguardano essenzialmente l’impossibilità, per questa persona,
+di gioire del possesso dell’oggetto sequestrato; rarissime, invece, sono le
+occasioni in cui viene criticato l’operato degli inquirenti che ha portato al
+rinvenimento di oggetti poi sequestrati.
+b)        Perquisizione e sequestro, tuttavia, possono e devono essere
+concettualmente ben distinti – perché sono due azioni diverse, ma anche perché
+potenzialmente lesive di diritti diversi: se il sequestro intacca il diritto
+costituzionalmente protetto della proprietà, la perquisizione è atto
+suscettibile di violare in modo molto grave il diritto alla protezione della
+sfera privata, o addirittura il diritto all’integrità della persona (si pensi
+alla perquisizione personale, v.
+Hauser/Schweri
+, loc. cit., margin. 17).
+E che sia possibile distinguere queste due fasi d’inchiesta, lo dimostra il
+codice di rito. Esso le tratta entrambe al Capitolo VI del Titolo V, ma la
+perquisizione sub A (artt. 157-160 CPP) ed il sequestro sub B (artt. 161-165
+CPP).
+c)         Per quanto riguarda la perquisizione, il principio
+riaffermato dal CPP è quello dell’inviolabilità del domicilio (art. 157 cpv. 1
+prima frase CPP): la perquisizione è allora l’eccezione, giustificata
+unicamente in presenza di “
+gravi indizi [...] che vi
+[nei luoghi perquisiti, ndr.]
+si possano
+rinvenire elementi di prova o tracce del reato
+” (art. 157 cpv. 1 CPP). Alle
+medesime condizioni può essere effettuata la perquisizione di una persona
+sospetta di reato, rispettivamente di una persona verosimilmente in possesso di
+oggetti sequestrabili (loc. cit., cpv. 2). Da un punto di vista formale, la
+perquisizione può essere effettuata “
+solo per ordine scritto del magistrato,
+oppure con il consenso scritto della persona interessata
+” (art. 159 CPP):
+ciò è detto in chiare lettere per la perquisizione domiciliare, ma dovrebbe
+valere per analogia anche per la perquisizione personale, che rappresenta senza
+dubbio un attentato ai diritti dell’individuo almeno altrettanto grave (se non
+più grave) di quanto sia la perquisizione domiciliare. Senza ordine scritto del
+magistrato inquirente, e senza espresso consenso scritto della persona
+interessata, la perquisizione domiciliare può essere effettuata solo a scopo di
+arresto, “
+esibendo l’ordine di arresto
+” (art. 158 cpv. 1 CPP e relativo
+marginale); si può, infine, rinunciare anche a quest’ultimo “
+in caso di
+flagrante o quasi flagrante reato
+” (art. 158 cpv. 2 CPP; altri codici di
+rito, ad es. Zurigo § 88 StPO, esigono l’esecuzione da parte del procuratore
+distrettuale oppure l’emanazione di un ordine scritto da parte sua, salvo in
+caso di urgenza, v.
+Niklaus
+Schmid
+, Strafprozessrecht, 3. Aufl.,
+Zürich 1997, margin. 738). In ogni caso deve essere presente alla perquisizione
+“
+la persona la cui abitazione viene perquisita
+” (art. 159 cpv. 3 CPP),
+oppure una persona da lei designata, un membro adulto della famiglia o un
+rappresentante dell’autorità comunale (ibid.; secondo
+Hauser/Schweri
+,
+loc. cit., margin. 14;
+Schmid
+, loc. cit., margin. 738 in fine e nota 146
+ibid., entrambi con rinvio a DTF 96 I 441 e 109 Ia 244, si tratterebbe di una
+norma d’ordine).
+3.
+a)        Nel caso di specie, è
+accertato ed incontestato che la perquisizione dei locali in cui ha sede il
+negozio “__________”, di cui è titolare il reclamante, è avvenuta in dispregio
+dei requisiti appena enunciati. Sulla scorta delle osservazioni del Procuratore
+Pubblico (inc. GIAR doc. 6, p. 1) – che sole devono fare fede, visto che
+neppure allo scrivente giudice è stata concessa visione dell’ordine di
+perquisizione e sequestro in oggetto, non all’incarto MP – la perquisizione del
+negozio in __________ a __________ era misura nell’ambito dell’inchiesta contro
+__________: quest’ultima era la persona i cui locali dovevano essere
+perquisiti, rispettivamente “__________” era il negozio che voleva essere
+perquisito – poiché sebbene la legge parli unicamente di “abitazione” (art. 160
+cpv. 3 CPP), sotto questo termine devono ovviamente intendersi anche locali
+commerciali (v.
+Hauser/Schweri
+, loc. cit., margin. 10;
+Schmid
+,
+loc. cit., margin. 737, il quale sottolinea il parallelismo del concetto qui
+espresso con il bene protetto dall’art. 186 CPS). Dunque, l’ordine del
+Procuratore Pubblico sulla base del quale venne effettuata la perquisizione –
+siccome rivolto contro altra persona – non rappresentava certamente base legale
+valida (art. 159 CPP) per la medesima.
+b)        Ancora più importante è sottolineare che il reclamante aveva
+sì ripreso l’attività commerciale di __________ – la persona contro la quale
+era stato emanato l’ordine di perquisizione e sequestro – per continuare, fra
+l’altro, con la vendita di fiori secchi di canapa. Tuttavia, va rilevato come
+prima della perquisizione non vi era indizio alcuno che __________ avesse
+violato la LFStup.: dagli atti non emerge in alcun modo che egli fosse stato
+segnalato come importante venditore di sostanze stupefacenti, magari anche a
+minorenni – come invece era stato il caso per gli altri gestori di canapai
+finiti sotto inchiesta. Se ne deve allora dedurre, senza forzatura, che la
+perquisizione qui discussa sia illecita già per l’assenza di sufficienti indizi
+di reato (“
+fishing expedition
+”, v.
+Schmid
+, loc. cit., margin. 725
+e nota 106 ibid.), ed i mezzi di prova da essa scaturenti, privi di valore
+alcuno (v.
+Schmid
+, loc. cit., margin. 685 e nota 3 ibid., con rinvii
+alla giurisprudenza del Tribunale federale).
+c)         Inoltre, per riprendere l’esame dei requisiti formali
+dell’ordine in discussione, è pacificamente ammesso dal Procuratore Pubblico
+che “
+all’arrivo
+[in negozio degli
+inquirenti, ndr.
+] era presente tale signor __________ [...].
+Successivamente arrivò il reclamante [...]
+” (osservazioni, cit., p. 1); il
+reclamante, a verbale di polizia 11 maggio 2000 (ore 14.27, all’inc. MP s.n.,
+p. 1), ha precisato che “
+al mio giungere in negozio, ho trovato all’interno
+dello stesso alcuni agenti di polizia in borghese. Gli stessi avevano già
+effettuato una perquisizione del locale in presenza di un mio amico [...]
+”.
+Se ne deve dedurre che pure la norma relativa alla partecipazione
+dell’interessato alla perquisizione dei locali di sua pertinenza (art. 160 cpv.
+3 CPP) è stata disattesa: i funzionari di polizia non hanno atteso, come invece
+avrebbero dovuto, l’arrivo del titolare del negozio, né risulta che si siano
+attivati al fine di convocarlo di persona o almeno di dargli la possibilità di
+designare qualcuno in sua vece, ed ancora meno risulta che abbiano invitato
+alla perquisizione famigliari o membri dell’autorità comunale. Ed anche se la
+natura di questa norma è unicamente d’ordine (v.
+supra
+, consid. 2.c in
+fine), e di per se stessa non giustificherebbe lo stralcio delle prove
+acquisite in sua violazione, essa va ad aggiungersi ad altre carenze formali
+dell’ordine impugnato.
+d)        Sulla scorta dei carenti atti a disposizione, infine, non è
+possibile stabilire con certezza se il reclamante si sia o meno opposto alla
+perquisizione. A mente di chi scrive, comunque, è azzardato affermare “
+che
+non è vero che il reclamante si è opposto alla perquisizione [...]
+”
+(osservazioni del Procuratore Pubblico, cit., p. 2): è un dato di fatto che la
+perquisizione era già abbondantemente in corso quando il reclamante è giunto
+nel suo negozio. Dunque, egli non ha semplicemente avuto la possibilità di
+esprimersi prima della perquisizione medesima.
+e)        Ne discende, in conclusione, che nell’evenienza concreta i
+requisiti di legge per un valido ordine di perquisizione non sono state
+rispettati: in particolare, l’ordine non era valido poiché rivolto non contro
+il reclamante ed il suo negozio, bensì contro altra persona. E visto che contro
+il qui reclamante, a quel momento, non sussisteva il benché minimo indizio di
+reato, la perquisizione ed il sequestro che ne è derivato rappresentano un
+classico esempio di “
+fishing expedition
+”: le prove in tal modo assunte
+sono prive di valore alcuno.
+4.
+Come qui di seguito si vuole dimostrare, a titolo
+abbondanziale, si giungerebbe alla medesima conclusione anche qualora si
+volesse ammettere l’esistenza di indizi di reato a carico di __________,
+derivanti
+eo ipso
+dalla conduzione del negozio “__________”.
+a)        Accertata comunque l’illiceità della perquisizione, dovuta al
+mancato rispetto dei requisiti formali, rimane da chiedersi se il sequestro che
+ne è derivato sia pure esso illecito, e dunque nell’incarto contro il
+reclamante da considerarsi nullo e/o inesistente, oppure se esso possa essere
+confermato nonostante il peccato a monte. Benché il reclamante si limiti a
+postulare l’annullamento dell’avversato ordine di perquisizione (v. reclamo,
+cit.,
+petitum
+p. 3), appare opportuno affrontare anche questa questione:
+perché è la conseguenza naturale della constatazione dell’illiceità della
+perquisizione a monte, perché il Procuratore Pubblico la affronta nelle proprie
+osservazioni, ed infine perché se non venisse trattata qui, essa dovrebbe
+formare l’oggetto di nuova, separata decisione del magistrato inquirente, a sua
+volta impugnabile avanti a questo giudice.
+b)        La domanda riguarda, in termini generali, la possibilità di
+utilizzare in un incarto penale anche mezzi di prova acquisiti illecitamente.
+Nel caso specifico, essa si traduce nella domanda se sia data nullità del
+sequestro in questione, oppure se le irrite modalità della perquisizione che ha
+portato al sequestro non ne impediscano la sua ulteriore considerazione in
+prosieguo di procedura (“
+Verwertbarkeit
+”). Vi sono norme, nel codice di
+rito, che regolamentano esplicitamente gli effetti di una loro violazione per
+rapporto alla successiva utilizzazione del mezzo di prova così acquisito: è il
+caso dell’art. 119 CPP, relativo al divieto di mezzi coercitivi
+nell’interrogatorio dell’accusato, e che prevede la nullità di deposizioni
+ottenute in deroga a questo divieto (ibid., cpv. 2). Quando ciò non avviene, la
+dottrina esige che si analizzi la norma violata e si stabilisca se essa
+rappresenti una prescrizione d’ordine oppure un requisito di validità: per la
+dottrina dominante, la prova in questione può essere validamente utilizzata se
+sarebbe potuta essere acquisita anche in ossequio alla norma violata (v.
+Schmid
+,
+loc. cit., margin. 608, con rinvii). In caso contrario, la norma violata
+rappresenta un requisito di validità della prova assunta (caso scolastico,
+l’audizione di un teste senza preventivo richiamo dell’eventuale diritto di
+rifiutare la testimonianza, v.
+Schmid
+ibid.). Lo stesso autore propone
+invece di esaminare se la norma violata intenda proteggere degli interessi
+dell’accusato (o di terzi) di portata tale da esigere la nullità di tutto
+quanto ottenuto in dispregio della norma medesima (loc. cit., margin. 609). Il
+codice di rito ticinese si rifà proprio a questo principio; l’art. 113 cpv. 1
+recita infatti: “
+Non hanno valore le prove conseguite illecitamente, salvo i
+casi in cui la ponderazione degli interessi imponga una diversa conclusione
+”
+(come qui,
+verbatim
+, decisione 22 ottobre 1997 in re S.R., inc. GIAR
+360.97.1, consid. 4 p. 9).
+5.
+a)        Diversi sono i fattori di cui, nell’ambito di questa
+ponderazione degli interessi, si deve tenere conto.
+Dato atto che
+__________ aveva ripreso l’attività commerciale di __________ – la persona
+contro la quale era stato emanato l’ordine di perquisizione e sequestro – per
+continuare, fra l’altro, con la vendita di fiori secchi di canapa, e volendo
+ammettere che le giustificazioni addotte dal reclamante in sede di verbale
+(loc. cit., R02, R07 e R08, p. 3-4), già udite innumerevoli volte da altri
+accusati nella medesima situazione, non appaiono forse tali da inficiare
+prima
+facie
+ogni sospetto di reato nei suoi confronti, vi è ancora da chiedersi
+se tali generiche ipotesi di reato potevano a quel momento giustificare – al di
+là, semmai, dell’avvio della raccolta di informazioni preliminari nei suoi
+confronti – anche l’immediata effettuazione di un’approfondita perquisizione del
+negozio “__________”, rispettivamente il sequestro della canapa rinvenutavi. In
+un’ottica di proporzionalità, si deve fortemente dubitarne, sia in ragione
+dell’esigua quantità sequestrata (117,5 g, un sacchetto da fr. 50.— e 30
+piantine, v. verbale di sequestro, agli atti MP s.n.), sia con riferimento ad
+altre operazioni di polizia contro canapai, operazioni che sono sfociate in
+interventi così incisivi solo sulla base di segnalazioni che indicavano i
+perquisendi negozi siccome dediti ad ampio commercio, anche con minorenni.
+In altri termini: vista l’ampiezza relativamente modesta
+dell’attività del reclamante, tra l’altro emersa dall’interrogatorio di lui e
+non già nota agli inquirenti, e visto il trattamento riservato ad altri gestori
+di canapai, è più che dubbio che il Procuratore Pubblico avrebbe conferito
+priorità alla perquisizione del negozio “__________” – ed è ancora più dubbio
+che, se investito con un reclamo, questo giudice avrebbe confermato l’ordine di
+perquisizione.
+b)        Ma il vero motivo per
+il quale, dopo attenta ponderazione degli interessi in gioco, si deve comunque
+giungere ad accogliere il reclamo, con conseguente dichiarazione di nullità del
+sequestro derivato dalla discussa perquisizione, è da ricercarsi nella facilità
+che gli inquirenti avrebbero avuto ad ovviare alle manifeste carenze formali
+dell’ordine di perquisizione. Risulta dagli atti che gli agenti di polizia, non
+appena giunti sul posto, siano stati informati dal giovane che vi si trovava
+che il negozio non era più "__________”, e che __________ – colui contro
+il quale era condotta l’inchiesta nel cui ambito doveva essere effettuata la
+perquisizione – non ne era più il titolare. Gli agenti, a quel momento, non
+dovevano fare altro che prendere il telefono, informare il Procuratore Pubblico
+di quanto appreso, e lasciare a quest’ultimo la decisione se effettuare
+nondimeno la perquisizione (sulla scorta, ovviamente, di un nuovo e pertinente
+ordine, rispettoso anche dei requisiti formali), oppure se rinunciarvi
+(limitandosi, ad esempio, ad una verbalizzazione delle persone incontrate sui
+luoghi). Non si vede come l’inchiesta – segnatamente quella contro __________,
+l’unica aperta in quel momento – avrebbe potuto trarne nocumento.
+c)         Questa valutazione si impone in considerazione della ragguardevole
+portata dei diritti fondamentali potenzialmente lesi da un’illecita
+perquisizione e conseguente sequestro (
+supra
+, consid. 2b): è d’uopo
+allora richiamare con vigore il principio secondo il quale solo il Procuratore
+Pubblico può ordinare perquisizione e sequestro, ed interpretare eccezioni a
+questo principio in termini restrittivi. D’altra parte non si fa altro, qui, se
+non ribadire il testo di legge, in virtù del quale, come già detto (v.
+supra
+,
+consid. 2c), una perquisizione senza ordine del magistrato inquirente è
+autorizzata unicamente a scopo di arresto, ma allora con corrispondente ordine
+del medesimo magistrato oppure in caso di flagranza.
+d)        Anche il magistrato inquirente ha sollevato l’argomento della
+flagranza: “
+[...] la presenza di sostanza stupefacente ne imponeva il
+sequestro per evitarne la vendita già ammessa. È stato quindi sequestro deciso
+sul posto per flagranza di reato
+” (osservazioni, cit., p. 2). Si potrebbe
+obiettare che la flagranza di reato, qui, appare assai dubbia, ritenuto che le
+audizioni del reclamante e dell’amico __________ – dalle quali sono emerse le
+ammissioni di vendita dei fiori secchi di canapa, seppur non quale stupefacente
+– sono ampiamente successive all’operazione di perquisizione e sequestro, e che
+prima di quel momento nessuno sembra aver disposto di alcun elemento di
+sospetto nei confronti del reclamante e dell’amico. Si potrebbe anche
+disquisire sul fatto che, semmai, un’eventuale flagranza di reato avrebbe
+giustificato sì il sequestro della sostanza stupefacente, ma non di altri
+oggetti, e tanto meno la perquisizione effettuata.
+Ma anche qui, il motivo principale per il quale si impone
+una restrittiva interpretazione del concetto di flagranza, e dunque in ogni
+caso il rigetto dell’eccezione sollevata dal Procuratore Pubblico, è che il
+disagio che sarebbe derivato agli inquirenti dalla necessità di rispettare
+scrupolosamente le formalità di legge prima di porre in atto la perquisizione,
+era limitato ad una breve telefonata al magistrato inquirente, tutt’al più ad
+un breve ritorno in sede per prendere in consegna un pertinente ordine del
+magistrato. Si ribadisce, ancora una volta, che l’inchiesta non ne avrebbe
+subito un aggravio degno di nota.
+e)        Decidere diversamente avrebbe, al contrario, conseguenze di
+ampia portata: significherebbe che ogni agente di polizia, avvalendosi del
+sospetto di flagranza, potrebbe – senza corrispondente mandato del magistrato
+inquirente – intervenire in ogni canapaio, perquisirlo e sequestrare quanto
+egli ritenesse utile per l’inchiesta rispettivamente passibile di confisca. A
+giudizio di chi scrive, non è certo questa la
+ratio
+della legge: anzi,
+le norme del CPP relative alla perquisizione, di cui è stata qui accertata
+l’avvenuta violazione, intendono proteggere degli interessi dell’accusato/indiziato
+(o di terzi) di portata tale da esigere, in applicazione dell’art. 113 CPP, la
+nullità di tutto quanto ottenuto in dispregio delle norme medesime (v.
+supra
+,
+consid. 4b;
+Schmid
+, loc. cit., margin. 609).
+6.
+In
+conclusione, accertata preliminarmente l’assenza di indizi di reato a carico
+del reclamante al momento della perquisizione, la medesima va dichiarata nulla,
+e le prove derivatene senza valore alcuno (
+supra
+, consid. 3b).
+Abbondanzialmente, volendosi ammettere l’esistenza di sufficienti indizi di
+reato, resterebbe comunque accertata l’illiceità dell’avvenuta perquisizione
+del negozio “__________” (
+supra
+, consid. 3a, 3c, 3d, 3e): soppesati,
+allora, gli interessi della pubblica accusa e del reclamante circa la conferma
+del successivo sequestro, questo giudice ritiene di dover accogliere il
+reclamo, dichiarando nel contempo nullo il sequestro in oggetto (
+supra
+,
+consid. 5,
+passim
+).
+Limitatamente
+al sequestro qui discusso, contro la presente decisione è dato il rimedio del
+ricorso alla Camera dei ricorsi penali del Tribunale di appello entro dieci
+giorni dall’intimazione (art. 284 cpv. 1 lit. a CPP). Non si prelevano tassa né
+spese di giustizia; lo Stato del Cantone Ticino verserà al reclamante l’importo
+di fr. 300.— a titolo di ripetibili (art. 9 cpv. 6 CPP per il principio e – in
+assenza di specifica norma d’attuazione – in applicazione per analogia
+dell’art. 150 CPC, v. ad es. sentenza 19 febbraio 1998 in re A.L., inc. CRP
+60.96.407).
+Per i quali
+motivi,
+richiamati i
+citati articoli di legge e gli artt. 280 ss. CPP
+d e c i d e :
+1.
+Il
+reclamo inoltrato in data 12/15 maggio 2000 da __________ è accolto.
+§   Di conseguenza, è
+accertato che la perquisizione ed il sequestro 11 maggio 2000 presso il negozio
+“__________” di __________ sono stati effettuati illecitamente; le prove così
+conseguite non hanno valore.
+2.
+Non
+si prelevano tassa né spese di giustizia. Lo Stato del Cantone Ticino verserà
+al reclamante l’importo di fr. 300.— a titolo di ripetibili.
+3.
+Contro
+la presente decisione è dato il rimedio del ricorso alla Camera dei ricorsi
+penali del Tribunale di appello entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+giudice Luca Marazzi
