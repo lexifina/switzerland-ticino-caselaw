@@ -1,0 +1,184 @@
+---
+decision_id: "ti_gerichte_INC.2001.58209"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.58209"
+decided: "2002-12-12"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59635&nX40_KEY=4711357&nTrefferzeile=57&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2001.58209
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 12.12.2002 INC.2001.58209
+Tessin Il Giudice dell'istruzione e dell'arresto 12.12.2002 INC.2001.58209
+Ticino Il Giudice dell'istruzione e dell'arresto 12.12.2002 INC.2001.58209
+
+Sentenza o decisione senza scheda
+
+N. 582.2001.9 LM                                                      Lugano,
+12 dicembre 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per
+statuire sull’istanza 4 dicembre 2002 inoltrata dal
+Procuratore Pubblico
+avv.
+__________
+e volta ad
+ottenere la proroga di 11 settimane, e meglio sino al 28 febbraio 2003
+compreso, della carcerazione preventiva cui è astretto
+__________
+,
+(difeso di fiducia dallo studio legale avv. __________)
+nel
+procedimento penale a suo carico per titolo di atti sessuali con fanciulli e
+con persone incapaci di discernimento o inette a resistere, coazione sessuale,
+violazione del dovere di assistenza o educazione;
+assegnato all’accusato, con ordinanza 4 dicembre 2002, un
+termine per presentare eventuali osservazioni all’istanza di proroga, e preso
+atto che con scritto 11 dicembre 2002, l’accusato ha comunicato di non opporsi
+alla proroga richiesta;
+avuti a
+disposizione gli atti formanti l’inc. MP __________/2001/BA/mg;
+ritenuto e
+considerato
+in fatto e in
+diritto:
+che:
+-
+____________, in
+arresto dal 24 ottobre 2001 in quanto sospetto autore di abusi sessuali ai
+danni dei figli suoi e della sua precedente convivente (v. rapporto d'arresto,
+inc. Giar 582.2001.1, doc. 2), ha già fatto oggetto di numerose decisioni in
+tema di libertà personale, da ultimo in occasione della decisione di proroga 22
+ottobre 2002 (inc. Giar 582.2001.8; per l’istoriato v.
+ibidem
+, considd.
+A a C, p. 2-3), alla quale può essere fatto qui integrale riferimento;
+-
+all’approssimarsi dello scadere della terza proroga, il
+Procuratore Pubblico postula un’ulteriore protrazione della detenzione
+preventiva di ____________, al fine di permettere che sull’accusato venga
+effettuata una nuova perizia psichiatrica, conformemente a quanto deciso da
+questo medesimo Giudice (v. decisione 8 novembre 2002, inc. Giar 582.2001.7);
+-
+____________ ha dichiarato di non opporsi alla proroga richiesta
+“per consentire l’allestimento della perizia” (scritti 4 dicembre 2002 al
+Procuratore Pubblico, inc. Giar 582.2001.9 doc. 3, e 10 dicembre 2002 a questo
+Ufficio, inc. Giar cit. doc. 5);
+-
+l'art. 95 CPP, dopo evidenza al cpv. 1 del principio secondo cui
+l'accusato si trova di regola in libertà, consente al cpv. 2 arresto, perdurare
+e - segnatamente come nel caso in discussione - proroga del carcere preventivo
+a norma dell'art. 103 CPP, quando esistono a carico dello stesso accusato gravi
+e concreti indizi di colpabilità per un crimine o un delitto e nel contempo
+sono presenti preminenti motivi di interesse pubblico, quali - per quanto qui concerne
+- segnatamente i bisogni dell’istruzione ed un certo pericolo di recidiva
+(senza dimenticare che l’arresto, quale misura processuale cautelativa, non
+serve unicamente ai bisogni dell’istruttoria, ma anche ad assicurare la
+presenza dell’accusato al processo e a garantire l’eventuale espiazione della
+pena: DTF 109 Ia 323 consid. c, e riferimenti; sentenza 16 novembre 1993 del
+Tribunale federale in re A.H., 1P.477/1993, consid. 3; Rep. 132 [1999] n. 116),
+e ritenuto implicito il rispetto della proporzionalità (Rep. 1980 pag. 44; 1986
+pag. 158; 1988 pag. 413; DTF 102 Ia 381);
+-
+i menzionati presupposti vanno approfonditi con maggior rigore
+nella loro valutazione, quanto più si è protratta la restrizione della libertà
+e quanto più si avvicina la conclusione delle indagini (Rep. 1988 pag. 416;
+1989 pag. 287 ss.). Ed anche questo giudice, come già la Camera dei ricorsi
+penali, non restringe la sua cognizione all'arbitrio (Rep. 1980 pag. 128);
+-
+la legittimità dell’arresto va esaminata d’ufficio, perlomeno
+sommariamente, anche in assenza di espressa opposizione da parte dell’accusato;
+-
+si deve allora constatare che sufficienti presupposti di legge,
+come anche esplicitati dalla dottrina e dalla giurisprudenza, sono presenti
+nella situazione personale e processuale di ____________ a legittimare e
+giustificare il perdurare della cautelare privazione della sua libertà oltre il
+termine legale disposto dall’art. 102 cpv. 2 CPP;
+-
+in punto all’esistenza di sufficienti indizi di colpevolezza, può
+bastare generico rinvio a quanto già detto in occasione delle precedenti
+decisioni di proroga, in particolare quella del 22 ottobre scorso (cit.,
+consid. 2 p. 4-5);
+-
+indubbiamente, l’effettuazione della nuova perizia psichiatrica
+sull’accusato rappresenta atto istruttorio imprescindibile, in quanto chiesto
+dall’accusato ed ordinato da questo Giudice. Ed è la legge medesima a prevedere
+l’ulteriore decorso dell’istruttoria formale, segnatamente l’obbligo di
+procedere ad un ulteriore deposito degli atti in caso di avvenuta assunzione di
+un complemento di prova proposto da una delle parti (art. 196 cpv. 4 CPP);
+-
+è, pertanto, manifestamente impossibile chiudere l’istruttoria
+formale entro la scadenza della detenzione preventiva dell’accusato;
+-
+si impone, allora, l’accoglimento della richiesta di proroga
+formulata dalla pubblica accusa, giustificata dalla necessità di completare
+l’istruttoria formale, mantenendo l’accusato in detenzione preventiva al fine
+di ovviare ai gravi pericoli di recidiva (v. decisione di proroga 22 ottobre
+2002, inc. Giar 582.2001.8 consid. 2c p. 5, non inficiata dalla decisione di
+ordinare una nuova perizia giudiziaria) e di collusione (v. decisione cit.,
+consid. 3 p. 5-7) attestati nei suoi confronti. Anche con questa proroga,
+comunque, la – in termini assoluti pur assai lunga – detenzione preventiva
+subita da e prospettabile nei confronti di ____________ resta rispettosa del
+principio di proporzionalità, sia con riferimento all’esigenza istruttoria
+ancora da evadere, sia nella prospettiva della pena cui egli va incontro per i
+fatti attribuitigli;
+-
+resta ovviamente impregiudicato l’obbligo del magistrato
+inquirente di procedere alla completazione dell’istruttoria formale ed
+all’emanazione dell’atto d’accusa con la massima celerità possibile (artt. 102
+e 176 cpv. 3 CPP);
+-
+in conclusione, l’istanza di proroga appare di principio
+giustificata in considerazione delle incombenze ancora da evadere, nonché di
+sufficientemente concreti pericoli di recidiva e collusione. Pure la durata
+postulata – circa 11 settimane (v. istanza, cit., p. 3) – appare adeguata.
+L’istanza può pertanto essere accolta integralmente, con la presente decisione
+esente da tassa e spese di giudizio (art. 39 lit. f TG
+e contrario
+) e
+suscettibile di impugnazione entro 10 (dieci) giorni alla Camera dei ricorsi
+penali del Tribunale di appello (art. 284 cpv. 1 lit. a CPP).
+*   *   *
+Per i quali
+motivi,
+richiamate le
+norme menzionate e visti gli artt. 103, 280 ss. e 284 CPP
+d e c i d e :
+1.
+L’istanza 4 dicembre
+2002 di proroga del carcere preventivo cui è astretto ____________ è accolta.
+§     Di
+conseguenza, la detenzione preventiva cui è astretto l’accusato viene prorogata
+sino al prossimo
+28 febbraio 2003
+compreso.
+2.
+Non si percepiscono né
+tassa né spese giudiziarie.
+3.
+Contro la presente
+decisione è data facoltà di ricorso alla Camera dei ricorsi penali del
+Tribunale di appello entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+-
+avv. __________, per sé e per l’accusato;
+-
+Procuratore Pubblico avv. __________, con copia dello scritto 10
+dicembre 2002 dell’accusato;
+-
+Direzione del Penitenziario cantonale La Stampa, Cadro.
+giudice __________
