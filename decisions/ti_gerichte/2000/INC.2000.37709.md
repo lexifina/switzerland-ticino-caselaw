@@ -1,0 +1,282 @@
+---
+decision_id: "ti_gerichte_INC.2000.37709"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.37709"
+decided: "2000-11-24"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=57091&nX40_KEY=4711458&nTrefferzeile=92&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-013.md", "switzerland/bund/acts/311.0/art-024.md", "switzerland/bund/acts/311.0/art-305.md", "switzerland/bund/acts/311.0/art-320.md", "switzerland/bund/acts/311.0/art-322quater.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2000.37709
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 24.11.2000 INC.2000.37709
+Tessin Il Giudice dell'istruzione e dell'arresto 24.11.2000 INC.2000.37709
+Ticino Il Giudice dell'istruzione e dell'arresto 24.11.2000 INC.2000.37709
+
+Sentenza o decisione senza scheda
+
+N. 377.2000.9 L                                                         Lugano,
+24 novembre 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato il 6 novembre 2000 da
+__________
+(patrocinato dall'avv. __________)
+contro la decisione 26 ottobre
+2000 del
+Procuratore pubblico straordinario
+dott. __________, che ha
+respinto quesiti complementari per l'ordinata perizia medica, nel procedimento
+pendente contro il reclamante per titolo di corruzione passiva ed altri reati;
+viste le osservazioni 16 novembre
+2000 del magistrato inquirente, che postula la reiezione del reclamo;
+letti ed esaminati gli atti;
+ritenuto
+in fatto:
+A.
+Il Procuratore pubblico
+straordinario procede contro __________, come a promozione dell'accusa
+precisata ed estesa a conclusione del verbale di interrogatorio del 4 agosto
+2000, per titolo di corruzione passiva (art. 315 CP, dal 1. maggio 2000 art.
+322 quater CP), ripetuta violazione del segreto d'ufficio (art. 320 CP),
+istigazione a violazione del segreto d'ufficio (art. 320 CP, in relazione
+all'art. 24 CP) e favoreggiamento (art. 305 CP).
+La fattispecie si riferisce alla
+conoscenza e frequentazione dell'accusato con __________, che erogò somme di
+denaro quali asseriti prestiti all'avv. __________, già compagna ed ora moglie
+di __________, e che fece da tramite per ottenere da __________ ed a favore
+dell'accusato parte di denaro dissequestrato nel contesto di un procedimento di
+confisca, presieduto dall'allora giudice __________, con ricorrenti
+informazioni da parte di quest'ultimo sullo svolgimento degli incombenti, in
+urto al dovere del segreto d'ufficio.
+B.
+Con istanza 8 agosto 2000 al
+Procuratore pubblico straordinario, __________ ha chiesto di essere sottoposto
+a perizia psichiatrica, per l'applicazione degli art. 10 e 11 CP,
+apparentemente - secondo lo stringato testo - "
+allo scopo di chiarire
+la natura dei suoi ripetuti vuoti di memoria
+", da ultimo ancora
+dinnanzi a questo giudice all'udienza di conferma dell'arresto del 5 agosto
+2000, trattandosi quindi di stato "
+in relazione con la sua grave
+malattia e le terapie che gli vengono somministrate
+". Solo, per così
+dire, di transenna e senza verun concreto riferimento, l'accusato ha fatto
+valere "
+il suo stato valetudinario gravemente compromesso sia fisico
+sia psichico al momento dei fatti
+".
+Il Procuratore pubblico
+straordinario ha respinto questa istanza e nel contempo ha ordinato l'erezione
+di una perizia strettamente medica (affidata al prof. __________, specialista
+in oncologia), con decreto 4 settembre 2000, ritenuto da un lato che
+manifestamente non vi sono dubbi sullo stato mentale dell'accusato al momento
+dei fatti (vuoi per la sua normale attività di funzione, vuoi per essersi
+affidato alle cure di uno psichiatra solo dopo l'apertura del procedimento), e
+dall'altro che appare "
+opportuno accertare se e quali sono stati gli
+effetti delle terapie applicate all'istante nel periodo successivo
+all'intervento operatorio 19.10.1998 eseguito all'__________ per tumore maligno
+".
+Questo decreto non è stato impugnato.
+C.
+Il 4 ottobre 2000, costatata la
+crescita in giudicato del menzionato decreto, il Procuratore pubblico
+straordinario ha provveduto alla posa dei quesiti peritali, avvertendo
+l'accusato del suo diritto di proporre propri quesiti. __________ ha fatto uso
+di questa facoltà, formulando appunto una serie di suoi quesiti il 20 ottobre
+2000.
+Con decisione 26 ottobre 2000 il
+magistrato inquirente ha respinto una parte di
+questi nuovi quesiti (dei quali meglio si dirà in seguito, se necessario), in
+quanto esorbitanti nel campo propriamente psichiatrico e ciò in contrasto con
+quanto già consegnato nella decisione del 4 settembre 2000, "
+cresciuta
+in giudicato, per cui è escluso che al perito (oncologo) possono essere sottoposti
+quesiti di pertinenza di una perizia psichiatrica
+".
+Il reclamo in discussione
+ripropone i reietti quesiti, essendo di principio escluso che una decisione del
+magistrato inquirente sull'assunzione di "
+una prova validamente offerta
+"
+possa crescere in giudicato e pregiudicare i diritti della difesa, in
+particolare riconosciuti dall'art. 196 CPP. I quesiti sono poi pertinenti
+rispetto a quelli "
+volutamente troppo vaghi
+" posti dal
+Procuratore pubblico straordinario e vogliono precisamente "
+far
+accertare se e in quale misura la malattia e le terapie somministrate hanno
+avuto effetti sulla psiche dell'accusato e ne hanno condizionato i
+comportamenti risp. alterato la personalità
+", atteso che una malattia
+oncologica ha conseguenze anche d'ordine psichiatrico, con alterazione della
+personalità. Il perito designato potrà semmai fare ricorso a periti ausiliari.
+Il Procuratore pubblico
+straordinario chiede la reiezione del reclamo, in quanto l'area dell'ordinata
+perizia non lascia spazio a quesiti di natura psichiatrica, come quelli
+proposti dall'accusato, che pertanto non vanno ammessi, siccome manifestamente
+invadenti quest'ultimo campo, già escluso con il decreto del 4 settembre 2000,
+non impugnato. Di fatto i quesiti proposti dall'accusato sono finalizzati a sostituire
+una perizia psichiatrica, "
+le cui premesse non sono date, dovendosi
+stabilire lo stato dell'accusato al momento dei fatti e non nel corso della
+presente istruttoria
+", né __________ ebbe in allora manifestazioni o
+squilibri, "
+che pongono dubbi gravi sullo stato mentale tale da rendere
+necessaria una perizia psichiatrica
+", con riferimento alla sua
+ineccepibile attività di funzione ed ai suoi mirati interessamenti per
+__________ e per la futura moglie, senza nessun fatto nuovo in contrario senso.
+e considerando
+in diritto:
+1.
+__________, in quanto parte nella
+veste di accusato, è pacificamente legittimato al reclamo, peraltro tempestivo
+a norma di legge, per cui è data di massima ricevibilità in ordine (art. 280
+ss. CPP).
+2.
+Altro è però il discorso sulla
+riproponibilità di identiche prove nel corso del procedimento, avuti qui
+presenti la reiezione dell'esperimento di una perizia psichiatrica, con la
+decisione 4 settembre 2000 del Procuratore pubblico straordinario, ed i quesiti
+peritali di parte in discussione di chiaro indirizzo psichiatrico.
+2.1
+La giurisprudenza ha riconosciuto
+la facoltà per le parti di proporre l'assunzione di prove in ogni tempo (art.
+58 cpv. 1 e 60 cpv. 1 CPP, per quanto concerne l'accusato) durante il procedimento
+di istruzione (e financo nell'ambito delle informazioni preliminari quando
+ricorrano gli estremi per una anticipata applicazione delle norme procedurali
+relative alla garanzia dei diritti della difesa: v. tra tante la decisione 22
+maggio 1997 in re D.C., GIAR 832.96.2, e riferimenti). Il Procuratore pubblico
+è comunque tenuto a pronunciarsi in merito solo a conclusione dell'istruzione
+formale (loc. cit.; Messaggio aggiuntivo del 20 marzo 1991 concernente la
+revisione totale del CPP, pag. 81 nota 2 in fine), con la riserva che eccezione
+a tale principio potrebbe essere costituita dall'eventualità di pericolo nel
+ritardo, ad esempio per l'età avanzata e la salute cagionevole di persona da
+interrogare.
+Non potranno però più trovare
+udienza nel seguito della fase predibattimentale - ed in particolare in sede di
+deposito degli atti - complementi di prova in precedenza anticipatamente già
+proposti, decisi e respinti, per quanto concerneva necessità e contenuti
+dell'inchiesta preparatoria. Anche qui è comunque di pregio l'eccezione
+costituita dall'emergenza di nuove acquisizione di elementi probatori che
+rendono utile e pertinente la prova in precedenza non ammessa. Mentre
+l'evenienza di questa eccezione sarà esaminata di seguito, questa
+giurisprudenza non consente di ammettere la premessa del reclamo sulla
+possibilità di poter validamente riproporre mezzi di prova sino al deposito
+degli atti a norma dell'art. 196 CPP: i diritti dell'accusato in proposito sono
+propriamente ed ampiamente salvaguardati dal diritto di presentare o
+ripresentare prove dinnanzi alla Corte del merito e sino alla chiusura
+dell'istruttoria dibattimentale (art. 227 e 228 CPP), non esclusa quella
+peritale psichiatrica (sentenza 13 ottobre 1998 del Tribunale federale in re
+G.V.), mentre in sede di istruttoria formale al magistrato competente è
+riservato il potere di apprezzamento sull'opportunità di tale prova (sentenza
+24 febbraio 2000 del Tribunale federale in re C.B.).
+2.2
+Il Procuratore pubblico
+straordinario, ad istanza dell'accusato, ha affrontato l'eventualità
+dell'esperimento di una perizia psichiatrica, con motivata decisione negativa
+del 4 settembre 2000, che non è stata impugnata in questa sede, come già
+evidenziato sopra nei fatti.
+Ora __________ intende, con
+domanda del 20 ottobre 2000, far rientrare nel contesto della disposta perizia
+medica quesiti chiaramente di carattere psichiatrico, quando vuole risposte ad
+interrogativi quali "
+le conseguenze e gli effetti collaterali
+transitori e permanenti dal lato fisico, da quello psichico e da quello
+psiconeurologico
+" (quesito 3.1), la possibilità della "
+farmacoterapia…di
+alterare le facoltà mentali
+" (quesito 3.2), quella di "
+alterazioni
+della personalità
+" per l'impatto psicologico di diagnosi e decorso
+(quesito n. 4.3) e quella di alterazione dei "
+parametri di valutazione
+e di giudizio nell'ambito dei rapporti personali, relazionali e umani
+"
+(quesito n. 6). Ricordato che la prima istanza dell'8 agosto 2000 era fondata
+solo su pretesi "
+ripetuti vuoti di memoria
+" in corso di istruzione,
+e rilevato che quella del 20 ottobre 2000 non è assistita da motivazione, è con
+il reclamo in oggetto che viene avanzata una connessione tra la grave malattia
+oncologica patita da __________ ed i suoi comportamenti sfociati nell'inchiesta
+penale, ma semplicemente con affermazioni generiche  ed ipotetiche, senza
+precisi riscontri e soprattutto senza tentativo di dimostrazione di sostanziale
+mutamento delle acquisizioni istruttorie dopo l'8 agosto rispettivamente il 4
+settembre 2000. In quest'ultima data il magistrato inquirente ha affermato -
+nel contesto dell'art. 13 CP - di non avere dubbio sullo stato mentale
+dell'accusato al momento dei fatti, atteso che:
+"
+risulta
+dagli atti istruttori che l'accusato ha presieduto e padroneggiato normalmente
+oltre una cinquantina di dibattimenti, in processi penali anche complessi, con
+conseguenti motivazioni; ha coordinato l'attività del Tribunale penale quale
+Presidente, esercitando le mansioni attribuitegli dal CPP (art. 39a LOG); la
+prima consultazione del dr. __________, specialista in psichiatria, è
+posteriore al 6 giugno 2000, data della notifica all'istante del presente
+procedimento
+".
+Il reclamante non ha minimamente
+preso posizione su questi oggettivi riscontri, riproposti come segue nelle
+osservazioni al reclamo:
+"
+l'accusato
+non ha dato segni di squilibrio mentale nei numerosi dibattimenti celebrati e
+sanzionati da sentenze da lui redatte, nel Consiglio di vigilanza, in sedute di
+lavoro con il Consiglio di Stato, nella consulenza giuridica svolta per __________
+in Svizzera e all'estero, in conferenze con direttori di banca, nella
+discussione con il dott. __________ relativa a
+problemi delle __________, nella stipulazione del rogito di compravendita di un
+appartamento di __________ e nella successiva collocazione bancaria del
+provento, ecc.
+".
+Queste costatazioni traggono
+conforto dalle risultanze dell'istruttoria e dalla nota attività professionale
+dell'allora giudice __________, non solo nella presidenza di Corti d'Assise, ma
+anche - tra altro - nei ricorrenti gagliardi interventi per il potenziamento
+del Tribunale penale cantonale, sia al cospetto delle Autorità costituite, sia
+con interviste sui media.
+3.
+Il reclamo appare quindi
+irricevibile e comunque destituito di fondamento, per cui è respinto con la
+presente decisione definitiva (art. 284 cpv. 1 lett. a CPP, e contrario), le
+spese giudiziarie andando conseguentemente a carico del reclamante soccombente.
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+In quanto ricevibile, il reclamo è respinto.
+2.
+La tassa di giustizia di fr. 300.- e le spese di fr. 20.- sono a carico
+del reclamante.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+-
+avv. __________, per sé e per il reclamante (con copia delle
+osservazioni del magistrato inquirente);
+-
+Procuratore pubblico straordinario dott. __________.
+giudice
+__________
