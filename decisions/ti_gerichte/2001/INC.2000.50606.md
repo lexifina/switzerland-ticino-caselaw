@@ -1,0 +1,321 @@
+---
+decision_id: "ti_gerichte_INC.2000.50606"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.50606"
+decided: "2001-11-20"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59618&nX40_KEY=4711437&nTrefferzeile=83&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-024.md", "switzerland/bund/acts/311.0/art-260ter.md", "switzerland/bund/acts/311.0/art-317.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-107.md"]
+---
+
+# TI Gerichte INC.2000.50606
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 20.11.2001 INC.2000.50606
+Tessin Il Giudice dell'istruzione e dell'arresto 20.11.2001 INC.2000.50606
+Ticino Il Giudice dell'istruzione e dell'arresto 20.11.2001 INC.2000.50606
+
+Sentenza o decisione senza scheda
+
+N. 506.2000.6 L                                                         Lugano,
+20 novembre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull’istanza
+presentata l'8 novembre 2001 dal
+Procuratore pubblico
+avv. __________
+intesa ad ottenere una terza
+proroga della durata di sei mesi del carcere preventivo cui è astretto
+__________
+,              __________, attualmente presso
+il Penitenziario cantonale
+(patrocinato dall'avv.
+__________)
+nel procedimento pendente contro
+quest’ultimo per titolo di truffa e altri reati;
+viste le osservazioni 16 novembre
+2001 dell'accusato, che si oppone all'istanza, consentendo con misure
+sostitutive dell'arresto;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+Come noto, __________, avvocato
+con studio proprio a __________, venne arrestato il 24 agosto 2000, con
+contestuale promozione dell'accusa nei suoi confronti per titolo di truffa,
+estorsione, corruzione attiva e riciclaggio di denaro: il carcere preventivo
+già è stato prorogato una prima volta di tre mesi e cioè sino al 23 maggio
+2001, compreso (v. decisione 19 febbraio 2001, inc. GIAR __________), ed una
+seconda volta per altri sei mesi e quindi sino al 22 novembre 2001, compreso
+(v. decisione 21 maggio 2001, inc. GIAR __________)
+Riassuntivamente l'accusato è
+imputato dell'ottenimento indebito di consulenze e favori dal funzionario
+statale __________, con il quale ha pure fraudolentemente incassato da terzi
+denaro asseritamente destinato a manovre corruttive, ed in altro più ampio
+contesto di riciclaggio di importanti somme di denaro connesse con traffici di
+stupefacenti, attraverso diverse operazioni via via illustrate in corso di
+istruttoria, con conseguente estensione dell'accusa all'ipotesi di
+organizzazione criminale secondo l'art. 260 ter CP (verbale 21 dicembre 2000
+dinnanzi al magistrato inquirente, pag. 3). Nell'ambito di queste sue attività
+avendo __________ chiesto ad un notaio di autenticare una firma con brevetto
+antidatato, si è pure arrivati all'accusa di istigazione a falsità in atti
+formati da pubblici ufficiali o funzionari, di cui all'art. 317 CP, in
+relazione all'art. 24 CP (verbale 13 agosto 2001 dinnanzi al magistrato
+inquirente, pag. 4).
+2.
+Il Procuratore pubblico, ritenuti
+presenti pericolo di collusione e pericolo di fuga, chiede un'ulteriore proroga
+di sei mesi del carcere preventivo cui è astretto __________ con circostanziato
+esposto che poggia principalmente sulle necessità istruttorie, anche al
+cospetto dell'atteggiamento dell'accusato, fatto di ritrattazioni, di silenzi e
+di rinvio della sua definitiva presa di posizione ad un verbale conclusivo
+__________ si oppone alla
+concessione della nuova proroga, per il privilegio della libertà personale per
+l'assenza di sufficienti necessità istruttorie in indagini correnti da più anni
+(ferma restando la legittimità di rinviare il suo
+esposto ad un verbale conclusivo, per evitare il ripetersi di confusione, come
+in precedenti verbali), essendo d'altra parte escluso pericolo di fuga, il
+centro dei suoi interessi essendo in Ticino.
+3.
+Per le premesse giuridiche e
+giurisprudenziali, vale ovviamente quanto già indicato in precedenza (v.
+decisione 21 maggio 2001, consid. 3):
+L'art. 95 CPP - corrispondente all’art. 33 scaturito
+dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo evidenza al
+cpv. 1 del principio secondo cui l'accusato si trova di regola in libertà,
+consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo a' sensi
+dell'art. 103 CPP, quando esistono a carico dello stesso accusato gravi e
+concreti indizi di colpabilità per un crimine o un delitto e nel contempo sono
+presenti preminenti motivi di interesse pubblico, quali - per quanto qui
+concerne - i bisogni dell’istruzione, segnatamente per evitare collusione, ed
+il pericolo di fuga (senza dimenticare che l’arresto, quale misura processuale
+cautelativa, non serve unicamente ai bisogni dell’istruttoria, ma anche ad
+assicurare la presenza dell’accusato al processo e a garantire l’eventuale
+espiazione della pena: DTF 109 Ia 323 consid. c, e riferimenti; sentenza 16
+novembre 1993 del Tribunale federale in re A.H., 1P.477/1993, consid. 3).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128).
+4.
+Ancora oggi, sufficienti
+presupposti di legge, come ricordato nel considerando precedente, sono presenti
+nella situazione personale e processuale di __________ a legittimare e
+giustificare il perdurare della cautelare privazione della sua libertà,
+eventualmente sino al dibattimento processuale.
+4.1
+In proposito nelle precedente
+citata decisione, fu costatato sul primo fondamentale presupposto per
+legittimare cautelare privazione della libertà:
+Anche se non è stata esplicitamente posta in
+discussione l'esistenza di adeguati indizi di colpevolezza, occorre esaminarne
+d'ufficio gli estremi, trattandosi della condizione preliminare e di base per
+consentire privazione della libertà. In ogni modo, per non pregiudicare il
+discorso di merito, è sufficiente far riferimento a quanto riassunto nell'istanza,
+che corrisponde alle dichiarazioni dell'accusato ed agli accertamenti in atto,
+a giusta ragione senza contestazione in questa sede. A parte le fattispecie
+consumate con __________, emerge un importante coinvolgimento in operazioni di
+riciclaggio, con partecipazione ad organizzazioni criminali, sia pure - al dire
+di __________ - quale "
+piccolo anello
+" (verbale di polizia 25
+aprile 2001, pag. 6), ma - va qui costatato - essenziale nella movimentazione
+attraverso il territorio svizzero di importi per svariati milioni di franchi,
+ed a questo riguardo basta la seguente ammissione dell'accusato (dopo
+persistenti fantasiose versioni):
+"
+Tutta l'operazione doveva aggirarsi sui
+60
+miliardi di lire italiane
+, di cui 55 circa sono stati da me movimentati per
+i cambi LIT / CHF - CHF / US$.
+Confermo che i CHF 11'949'160.- rinvenuti e
+sequestrati nel mio studio, nonché l'equivalente delle commissioni depositate
+in banca, fanno parte di questa operazione denominata "__________".
+Ovvero trattasi di denaro consegnatomi da questa organizzazione calabrese,
+provento dal traffico di droga.
+"
+(verbale di polizia 19 aprile 2001, pag. 8)
+Sino a quando - come si vedrà -
+l'accusato si è volontariamente astenuto da attiva collaborazione, nei numerosi
+verbali di polizia che si sono susseguiti, __________ è stato confrontato con i
+particolari degli addebiti, poi ripresi in puntuali interrogatori dinnanzi al
+magistrato inquirente, anche con sostanziale aggravamento della sua posizione
+processuale.
+4.2
+L'approccio dell'accusato alle
+operazioni istruttorie per un certo tempo ha confermato mancanza di
+collaborazione con persistente reticenza, come già ricordato nel precedente
+analogo giudizio:
+Anche se "
+quantomeno molto avanzata
+",
+al dire dell'accusato, l'inchiesta non è ancora completa, sia per la sua
+complessità e per la necessità di accertamenti in via rogatoria, sia per il
+comportamento dello stesso __________, che al proposito ha significativamente
+affermato:
+"
+Alle ore 12.00 la discussione veniva
+interrotta per permettermi di riflettere e in questo frangente, sempre stando
+ai verbalizzanti, avevo affermato che fino ad oggi ho dichiarato il 70 % della
+verità. Fatto che confermo.
+"
+(verbale di polizia 25 aprile 2001, pag. 6)
+"
+Voglio ribadire che dopo aver raccontato
+anche delle bugie o delle verità parziali, nel mio verbale del 19 aprile 2001
+ho raccontato la verità o almeno più verità di quanto abbia mai detto in
+precedenza.
+"
+(verbale 26 aprile 2001, pag. 1, dinnanzi al
+magistrato inquirente)
+Basta ora ricordare che proprio
+nell'ultimo verbale menzionato, __________ aveva indicato certo __________
+quale suo referente per un'operazione di complessivi circa 60 miliardi di lire,
+con dovizia di particolari sui ripetuti contatti, ma poi:
+"__________
+non esiste. E' stata una mia invenzione nella sola speranza di porre fine
+all'inchiesta. Pensavo che questo personaggio inesistente il cui nome è stato
+preso da quello di un mio amico d'infanzia, di professione dentista, e
+collegandolo stupidamente alla faccenda , si ponesse fine
+all'inchiesta per la quale mi sentivo enormemente stanco. Anche i riferimenti
+dei luoghi di incontro, pure se reali, sono stati inventati."
+(verbale di polizia 13 luglio 2001, pag. 1)
+e quindi:
+"
+Nel
+mio verbale del 13 luglio ritratto la mia precedente resa al PP …
+…
+Nego quindi
+di aver conosciuto l'__________ …
+"
+(verbale 13 agosto 2001, pag. 1, dinnanzi al
+magistrato inquirente)
+A partire dal 23 agosto 2001,
+come risulta da corrispondente verbale dinnanzi alla polizia, __________
+rifiuta di continuare con gli interrogatori, rinviati a:
+"…
+dopo
+avere conferito una volta per tutte con il mio legale, avv. __________, per
+fare il punto della situazione fino ad oggi, data la grande confusione che ho
+in testa
+",
+con il seguente cenno in coda
+allo stesso verbale:
+"
+Il
+verbalizzante mi fa rilevare che agli inquirenti di polizia , dopo il verbale
+del 14.8.2001 ho loro dichiarato, tra le altre cose, che in questa indagine
+<
+ho mentito e mento tutt'oggi per paura
+>. Vorrei precisare che
+nella foga del discorso, ho detto non solo che ho mentito per paura ma che ho
+detto anche delle verità
+".
+Seguono altri verbali di polizia,
+in cui l'accusato ha dettato le stesse conclusioni, sino a quello del 7
+novembre 2001, con l'illustrazione da parte del Procuratore pubblico della
+situazione e l'esortazione a mutare atteggiamento, con le seguenti lapidarie
+conclusioni dell'accusato:
+"
+Prendo
+atto che il mio difensore vorrà che io rifletta su ciò di cui il PP mi ha reso
+attento.
+Per il
+momento confermo la mia intenzione di avvalermi della facoltà di non
+rispondere, così come stabilito d'intesa con il mio difensore
+",
+come peraltro risultante da
+precedenti scambi di corrispondenza tra patrocinatore e magistrato inquirente.
+Questo quadro - pur nel pieno
+rispetto dell'accusato di non rispondere, ma di fronte alla mole di fatti,
+contatti, flussi di denaro e persone coinvolte - porta ineluttabilmente a
+concretezza di pericolo di collusione.
+4.3
+Ancora il descritto
+comportamento, inteso vuoi a mascherare le proprie azioni, vuoi a tutelare
+terzi compartecipi, permette di considerare alquanto evidente il pericolo di
+fuga, come concluso in precedenza:
+Per quanto concerne il pericolo di fuga, si ricorda
+che i criteri determinanti per stabilire se questo presupposto sia dato o meno
+sono il carattere del prevenuto, il suo domicilio, la sua professione, la sua
+situazione famigliare e i suoi legami con lo Stato in cui egli é inquisito (SJ
+103/1981, 135; sentenza 31 marzo 1992 in re S.C. del Tribunale federale;
+sentenza 20 ottobre 1994 in re M.A., CRP 314/94). L'apprezzamento di tutte le
+circostanze, per invocare appunto un rischio di fuga, deve lasciar presumere
+che le conseguenze di una fuga appaiano per l’accusato come un male minore
+rispetto a quello derivante per lui dall'ulteriore carcerazione, con maggior
+forza quanto più i reati imputati comportino pene edittali od eventualità di
+pena concreta importanti (in questo senso Mario
+Luvini
+; in REP 1989, pag. 292, con i riferimenti ivi
+indicati; sentenza
+14 novembre 1994 in re S.V., CRP 341/94).
+Come già considerato nella precedente richiamata
+decisione, la situazione personale di __________, che intrattiene una relazione
+sentimentale con una cittadina ceca e che si vede annullata la possibilità di
+esercitare la sua professione in Svizzera, i suoi rapporti con l'estero e
+meglio le passate connivenze, con interesse collusivo e con verosimili
+disponibilità anche finanziarie, e la prospettiva di una condanna di rilievo
+fanno più che concreta l'eventualità della scelta di latitanza. Né vale
+ricordare che non si sottrasse all'arresto, quando poteva ritenere scarsi gli
+elementi a suo carico, tanto da negare fermamente e raccontare frottole nelle
+viste di un rapido rilascio.
+5.
+Anche il giudizio finale non può
+che corrispondere a quello reggente l'attuale periodo di proroga:
+Il carcere preventivo sin qui sofferto e ipotizzabile
+sino al deferimento al giudice del merito, in un procedimento che risulta
+essere condotto con coerente sollecitudine
+nonostante l’atteggiamento sicuramente defatigatorio dell’accusato, è
+pienamente rispettoso del principio di proporzionalità, tenuto anche conto del
+complesso dei fatti da accertare e delle persone coinvolte e residenti
+all'estero, nonché della prevedibile pena privativa della libertà, verosimilmente
+da espiare.
+Di conseguenza l’istanza di proroga del carcere
+preventivo è accolta come proposta dal magistrato inquirente, con la presente
+decisione, esente da tassa e spese giudiziarie (art. 39 lett. f TG e
+contrario), e suscettibile di impugnazione alla Camera dei ricorsi penali (art.
+284 cpv. 1 lett. a CPP). Il Procuratore pubblico sa dell'obbligo di celerità
+(art. 102 cpv. 1 e 176 cpv. 3 CPP) ed all'accusato rimane garantita la
+procedura intesa ad ottenere la libertà provvisoria (art. 107 ss CPP), per cui
+e per le ragioni sviluppate sopra non ha senso di fissare un termine inferiore.
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.      L’istanza è accolta.
+Di conseguenza il carcere preventivo cui è astretto
+__________ è prorogato sino al 21 maggio 2002, compreso.
+2.      Non si percepiscono né tassa né spese giudiziarie.
+3.      Contro la presente decisione è dato ricorso alla Camera dei
+ricorsi penali entro dieci giorni dall’intimazione.
+4.      Intimazione:
+-    avv. __________, per sé e per l'accusato;
+-    Procuratore pubblico avv. __________, sede (con copia delle
+osservazioni
+dell’accusato e con atti dell'incarto MP __________ di ritorno);
+-    Direzione del Penitenziario cantonale, Lugano-Cadro.
+giudice
+__________
