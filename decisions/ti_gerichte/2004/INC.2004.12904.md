@@ -1,0 +1,108 @@
+---
+decision_id: "ti_gerichte_INC.2004.12904"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.12904"
+decided: "2004-06-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59427&nX40_KEY=4711302&nTrefferzeile=22&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2004.12904
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.06.2004 INC.2004.12904
+Tessin Il Giudice dell'istruzione e dell'arresto 23.06.2004 INC.2004.12904
+Ticino Il Giudice dell'istruzione e dell'arresto 23.06.2004 INC.2004.12904
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2004.12904
+Lugano
+23 giugno 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+__________
+sedente per statuire sull'istanza di proroga della
+carcerazione di
+__________
+alias __________
+alias __________
+alias __________
+presentata in data 22 giugno 2004
+dalla Sezione dei permessi e dell'immigrazione del Dipartimento delle
+istituzioni, Bellinzona e ricevuta il 23 giugno 2004;
+ritenuto e considerato:
+-
+con decisione 17 marzo 2004, notificata il 22 marzo 2004, il
+Dipartimento delle istituzioni provvedeva alla carcerazione in vista di
+allontanamento del sedicente __________, cittadino palestinese, alias
+__________, cittadino algerino, ciò ai sensi dell'art. 13b LDDS;
+-
+la suddetta decisione dipartimentale veniva confermata da questo
+giudice in data 23 marzo 2004, previa audizione dell'incarcerato;
+-
+con istanza 22 giugno 2004, ricevuta da questo giudice il 23
+giugno 2004, la Sezione dei permessi e dell'immigrazione del Dipartimento delle
+istituzioni postula la proroga di tre mesi della carcerazione in vista di
+allontanamento di __________, alias __________, __________ e __________;
+-
+la carcerazione in vista di allontanamento di __________, alias
+__________, __________ e __________, giungeva a scadenza in data 22 giugno
+2004, ciò in considerazione del termine di tre mesi al massimo fissato
+dall'art. 13b cpv. 2 LDDS; l'istanza di proroga giunta a questo giudice in data
+23 giugno 2004 appare pertanto irricevibile essendo la carcerazione già scaduta;
+-
+l'art. 29 della legge cantonale di applicazione alla legge
+federale concernente le misure coercitive in materia di diritto degli stranieri
+dispone del resto che la richiesta di proroga della carcerazione deve essere
+motivata ed inoltrata al Giudice al più tardi sette giorni prima della scadenza
+della carcerazione; questa norma è stata prevista dal legislatore ticinese per
+mettere l'autorità giudiziaria in condizione di vagliare con la massima
+cognizione la legalità e l'adeguatezza dell'istanza (cfr. Messaggio 22.11.1996
+relativo alla legge d'applicazione alla legge federale concernente le misure
+coercitive in materia di diritto degli stranieri, ad art. 29). Anche per questo
+motivo l'istanza di proroga della carcerazione appare palesemente intempestiva;
+-
+a titolo abbondanziale va anche rilevato che l'autorità istante
+neppure si è premurata di predisporre per tempo il trasferimento in Ticino
+dell'incarcerato, attualmente detenuto presso il carcere Ausschaffungsgefängnis
+di Basilea, rendendo impossibile la tempestiva audizione personale
+dell'incarcerato prevista dall'art. 27 della già citata legge cantonale
+d'applicazione;
+-
+alla luce di quanto sopra la proroga della carcerazione non può
+dunque essere concessa;
+richiamata la legge federale
+sulla dimora e il domicilio degli stranieri, segnatamente gli art. 13b e 13c
+LDDS, come pure la legge cantonale d'applicazione,
+decide
+1.
+La proroga della carcerazione di __________, alias __________,
+__________
+e __________, non è concessa.
+2.
+Di conseguenza è ordinata l'immediata scarcerazione di __________,
+alias __________, __________ e __________,
+3.
+Intimazione (per fax e raccomandata):
+-   allo
+straniero attualmente c/o Carcere            Ausschaffungsgefängnis di Basilea;
+-    avv.
+__________;
+-   Comando
+della polizia cantonale, Bellinzona;
+-   Dipartimento
+delle istituzioni, Sezione dei permessi e dell'immigrazione, Bellinzona (Ris.
+N. 1/PROR-BE).
+giudice
+__________
