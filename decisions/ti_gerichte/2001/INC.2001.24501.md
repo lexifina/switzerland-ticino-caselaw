@@ -1,0 +1,152 @@
+---
+decision_id: "ti_gerichte_INC.2001.24501"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.24501"
+decided: "2001-08-27"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59710&nX40_KEY=4711443&nTrefferzeile=30&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2001.24501
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 27.08.2001 INC.2001.24501
+Tessin Il Giudice dell'istruzione e dell'arresto 27.08.2001 INC.2001.24501
+Ticino Il Giudice dell'istruzione e dell'arresto 27.08.2001 INC.2001.24501
+
+Sentenza o decisione senza scheda
+
+N. 245.2001.1 L                                                         Lugano,
+27 agosto 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul ricorso
+presentato il 9 maggio 2001 da
+__________
+,
+sedicente cittadino della Mauritania,
+contro la decisione 24 aprile
+2001 del Dipartimento delle istituzioni (intimata il 5 maggio 2001), che ha
+fatto divieto al ricorrente di abbandonare il territorio dei Comuni di
+__________ , in applicazione dell’art. 13 e cpv. 1 LDDS;
+viste le osservazioni 16 maggio
+2001 dell'Ufficio giuridico della Sezione dei permessi e dell'immigrazione,
+concludenti per la reiezione del gravame;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che
+-
+__________ ha chiesto asilo in Svizzera nel luglio dello scorso anno:
+con decisione 3 novembre 2000, l'Ufficio federale dei rifugiati non è entrato
+nel merito della domanda, per le inverosimili ed inveritiere affermazioni del
+richiedente, con ordine di partenza immediata, sotto comminatoria di misure
+coercitive, ad eventuale ricorso non essendo riconosciuto effetto sospensivo;
+-
+a mente del Dipartimento delle istituzioni, __________ non ha affatto
+collaborato per ottenere i documenti di viaggio, per cui si è imposta la
+decisione impugnata, quale misura per garantire il suo allontanamento;
+-
+il ricorso contesta rifiuto di collaborazione, quando gli è stato negato
+il permesso di recarsi a Ginevra per contattare l'ambasciata del suo paese
+d'origine, e fa valere l'assenza di indizi concreti di sua intenzione di
+sottrarsi all'allontanamento, non essendosi egli dato alla clandestinità
+nonostante la consapevolezza della possibilità di questo provvedimento;
+-
+l'Ufficio giuridico della Sezione dei permessi e dell'immigrazione
+postula la reiezione del ricorso, sottolineando la permanenza irregolare di più
+mesi di __________ senza nessun passo concreto per preparare le sua partenza;
+-
+per l'art. 13 e LDDS, "
+allo straniero privo di permesso di
+dimora o di domicilio che disturba o mette in pericolo la sicurezza e l'ordine
+pubblico l'autorità cantonale competente può imporre di non abbandonare o di
+non accedere a un dato territorio …
+";
+-
+secondo il Messaggio del 22 dicembre 1993 sulla legge federale
+concernente misure coercitive in materia di diritto degli stranieri sul tema
+qui in discussione (FF n. 5 Vol. I 8 febbraio 1994, pag. 298), il provvedimento
+in discussione "
+costituisce un intervento relativamente lieve nella
+libertà personale dello straniero
+", per cui "
+la soglia perché
+possa essere ordinata la misura non è stata fissata molto alta
+", così
+che "
+non entra quindi in linea di conto soltanto un comportamento
+delittuoso quali le minacce contro il responsabile dello stabilimento …
+",
+ma "
+… anche un comportamento renitente o dissociale …
+";
+-
+le conoscenze del comportamento del ricorrente sino al momento
+dell'emanazione della decisione impugnata non l'avrebbero giustificata, non
+essendosi __________ manifestato in concreto insofferente od irrispettoso
+dell'ospitalità implicitamente concessagli: d'altro canto la sua affermazione
+di impedimento a contatto diretto con le autorità consolari del suo paese non
+ha trovato comprovata smentita;
+-
+interrogato il 16 maggio 2001 dalla Polizia cantonale, __________ ha
+assicurato di fare il possibile per farsi inviare la propria carta di identità,
+lasciata a casa al momento della partenza, ed anche per questo di prendere
+contatto con il console onorario della Mauritania a Ginevra: a parte il
+comprensibile rimprovero non essersi attivato con maggior tempestività, anche
+questo contesto non rivela un atteggiamento di disturbo o comunque pericoloso;
+-
+ora __________ è stato arrestato il 21 agosto 2001, nei suoi confronti
+essendo emerse concrete prove di traffico di cocaina sulla
+piazza
+di
+__________, anche se da lui negato, ed anche di essersi recato a Losanna per
+pretesi (ma minimamente resi verosimili) affari di compra-vendita di capi di
+abbigliamento, quando già sapeva di non potersi allontanare da __________ (né
+ha pensato di approfittare dell'occasione per un breve salto a Ginevra a
+procurarsi documenti di identità): questa nuova situazione, in quanto
+__________ possa ritrovare la libertà prima dell'allontanamento, giustifica il
+provvedimento in discussione a tutela proprio della sicurezza e dell'ordine
+pubblico;
+-
+la presente decisione va esente da tassa e spese giudiziarie, a ragione
+della situazione economica del ricorrente, in ogni modo essendo riservato il
+ricorso al Tribunale cantonale amministrativo (art. 32 cpv. 2 della legge
+cantonale di applicazione alla LF concernente le misure coercitive in materia
+di diritto degli stranieri);
+visti i citati articoli di legge,
+decide:
+1.    Il ricorso è respinto.
+2.    Non si percepiscono né
+tassa né spese giudiziarie.
+3.    Contro la presente decisione è dato ricorso entro quindici
+giorni al Tribunale cantonale amministrativo, Tribunale di appello, Lugano.
+4.    Intimazione:
+-
+__________;
+-
+lic. iur. __________;
+-
+Procuratore pubblico avv. __________, sede
+-     Gendarmeria sottoceneri, __________;
+-     Sezione esecuzione pene e misure, CP 238, Taverne;
+-     Comando della Polizia cantonale, Bellinzona;
+-
+Ufficio del sostegno sociale e dell'inserimento, Bellinzona;
+-
+Ufficio federale dei rifugiati, Divisione rimpatrio, Berna-Wabern
+(n. 398 108);
+-     Ufficio giuridico della Sezione dei Permessi e
+dell'Immigrazione, Bellinzona.
+giudice
+__________
