@@ -1,0 +1,214 @@
+---
+decision_id: "ti_gerichte_INC.1999.69002"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.69002"
+decided: "2000-01-31"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56858&nX40_KEY=4711476&nTrefferzeile=7&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-058.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.1999.69002
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 31.01.2000 INC.1999.69002
+Tessin Il Giudice dell'istruzione e dell'arresto 31.01.2000 INC.1999.69002
+Ticino Il Giudice dell'istruzione e dell'arresto 31.01.2000 INC.1999.69002
+
+Sentenza o decisione senza scheda
+
+N. 690.99.2 M                                                             Lugano,
+31 gennaio 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per
+statuire sul reclamo inoltrato in data 5/8 novembre 1999 da
+__________
+,            1959,
+__________
+(difeso di fiducia
+dall’avv. __________)
+avverso gli
+ordini di perquisizione e sequestro 25/26 ottobre 1999, emanati dal
+Procuratore
+Pubblico
+avv. __________, nell’ambito del procedimento penale promosso
+contro il reclamante per titolo di infrazione aggravata, sub. semplice, alla
+LFStup.;
+viste le osservazioni 9 novembre 1999 del magistrato
+inquirente, tendenti alla reiezione del gravame;
+letti ed
+esaminati gli atti formanti l’inc. MP 6548/99/PE;
+ritenuto e considerato
+in fatto e in
+diritto:
+che
+-
+__________ è stato tratto in arresto lo scorso 22 ottobre 1999 su
+ordine del competente Procuratore Pubblico, poiché sospetto autore dei reati
+menzionati in ingresso nella sua qualità di titolare e gerente del negozio
+__________ (v. rapporto d’arresto 22 ottobre 1999, inc. MP doc. _). Il giorno
+successivo, questo giudice ha confermato l’arresto, con contestuale intimazione
+della promozione dell’accusa (v. inc. MP, doc. _);
+-
+l’accusa nei suoi confronti è di avere venduto canapa, fra
+l’altro anche a minorenni, nella consapevolezza che era destinata ad essere
+fumata – accusa che il reclamante confuta affermando che detta sostanza aveva “
+scopi
+prettamente cosmetici o deodoranti
+” (v. verbale MP 28 ottobre 1999, inc. MP
+doc. _, p. 1), salvo poi dover ammettere più avanti (loc. cit., p. 3) di aver
+venduto pure marijuana;
+-
+con ordini 25 ottobre 1999, il Procuratore Pubblico – previa
+visione della documentazione sequestrata nel negozio del reclamante – ha
+ordinato il sequestro di due relazioni bancarie da quest’ultimo detenute presso
+la Banca __________ e la __________ (v. inc. MP doc. _);
+-
+avverso quest’ordine insorge il reclamante con il gravame qui in
+discussione (inc. GIAR 690.99.2 doc. _), essenzialmente contestando l’esistenza
+di sufficienti indizi di colpevolezza a suo carico (loc. cit., pto. 5 p. 3), ed
+inoltre affermando che non vi sarebbero attivi sul conto presso la __________,
+mentre sul conto presso la Banca __________ si troverebbe unicamente il residuo
+dell’indennità di partenza versatagli dal precedente datore di lavoro __________
+(loc. cit., pto. 6 p. 4-5), ovvero denaro senza connessione alcuna con
+l’attività oggetto della promozione dell’accusa;
+-
+da parte sua il Procuratore Pubblico, nelle proprie osservazioni
+(inc. GIAR 690.99.2 doc. _), chiede la reiezione del gravame, atteso che la
+consistenza degli indizi di colpevolezza a carico del reclamante emergerebbero,
+non da ultimo, dal verbale di lui avanti al magistrato inquirente (v. verbale
+MP 28 ottobre 1999, cit.; osservazioni, cit., p. 2), e che il sequestro sarebbe
+circoscritto alle relazioni bancarie emerse dal vaglio delle carte rinvenute
+negli uffici dell’accusato (loc. cit., p. 1);
+-
+pur nella rinnovata forma in vigore dal 1° agosto 1994, le norme
+sulla confisca penale (artt. 58 ss. CPS) ribadiscono l’obbligo di confisca di
+ogni e qualsiasi vantaggio patrimoniale ottenuto in maniera illecita: la
+definizione dei valori patrimoniali di cui all’art. 59 cfr. 1 cpv. 1 CPS
+riprende le previgenti dottrina e giurisprudenza (v.
+Niklaus Schmid
+, Das
+neue Einziehungsrecht nach Art. 58 ff. StGB, in: RPS 113 [1995], p. 321 ss.,
+pto. 4.2.1 p. 331 e nota 45, con rinvii). Sottostanno a tale tipo di confisca
+ai sensi dell’art. 59 cfr. 1 cpv. 1 CPS anche cosiddetti valori sostitutivi
+(“Surrogate”, v.
+Schmid
+, cit., pto. 4.3.2, p. 334 ss.). Completamente
+rivisto è l’istituto della confisca risarcitoria ai sensi dell’art. 59 cfr. 2
+cpv. 1 CPS: essa permette al giudice (di merito) di ordinare un risarcimento in
+favore dello Stato (con eventuale successiva assegnazione alla parte lesa in
+applicazione dell’art. 60 CPS), se - pur essendo dati i presupposti per una
+confisca ex art. 59 cfr. 1 cpv. 1 CPS - i valori patrimoniali di cui all’art.
+59 cfr. 1 cpv. 1 CPS non siano più reperibili (v.
+Schmid
+, cit., pto.
+4.3.1, p. 333 s.; pto. 4.3.2, p. 336) oppure debbano venir attribuiti
+direttamente alla parte lesa in applicazione dell’art. 59 cfr. 1 cpv. 1 ultima
+frase CPS (v.
+Schmid
+, cit., pto. 4.4.1, p. 339). Infine, la misura può
+essere ordinata non solo nei confronti dell’autore, bensì anche di terzi che
+abbiano beneficiato dei proventi del reato, a meno che non trovino applicazione
+le eccezioni contemplate all’art. 59 cfr. 1 cpv. 2 CPS (art. 59 cfr. 2 cpv. 1
+ultima frase CPS; v.
+Schmid
+, cit., pto. 4.3.3, p. 336 ss.). Per non
+vanificare la portata di questa norma, il magistrato inquirente può ordinare il
+sequestro di tali beni a titolo probatorio, confiscatorio (art. 161 cpv. 1 e 2
+lit. b CPP; v.
+Schmid
+, cit., pto. 6.3, p. 362) oppure risarcitorio (art.
+59 cfr. 2 cpv. 3 CPS);
+-
+un ordine di perquisizione e sequestro bancario può rappresentare
+un attentato ai diritti personali, o causarne un pregiudizio. Come ogni misura
+d’inchiesta, pertanto, deve soddisfare tre presupposti sostanziali: deve
+poggiare sull’esistenza di gravi indizi di colpevolezza, deve apparire necessario
+per il giudizio di merito (nel senso che deve essere connesso con l’oggetto che
+occorre salvaguardare agli incombenti processuali e di giudizio, v. decisione
+17 agosto 1998 in re E.F., inc. GIAR 501.98.2 consid. 2), infine deve essere
+rispettoso del principio di proporzionalità (v.
+Gérard Piquerez
+, Précis
+de procédure pénale suisse, 2. éd. Lausanne 1994, margin. 1441, 1454 e 1469,
+con rinvii). La verifica della fondatezza di questi presupposti, per il
+doveroso scrupolo di rispetto dei diritti individuali, deve essere costante
+negli incombenti dell’autorità inquirente e requirente, con sempre accresciuta
+esigenza probatoria indiziante approssimantesi alla verità materiale, a partire
+dal sospetto all’apertura del procedimento, che va in seguito ed indilatamente
+approfondito con gli accertamenti probatori del caso (v., in contesto più
+generale,
+Piquerez
+, cit., margin. 1116 ss.);
+-
+nel caso di specie, la professione d’innocenza dell’accusato
+reclamante – al di là dei dubbi che egli esprime in altra sede (v. istanza di
+libertà provvisoria, inc. MP doc. _, pto. 4 p. 2) sulla giurisprudenza relativa
+al comportamento da lui tenuto –, fondata sul preteso uso al quale era
+destinata la canapa da lui venduta, appare del tutto inverosimile ed
+assolutamente inconciliabile con il comune buon senso e con l’esperienza fatta
+dagli inquirenti in inchieste analoghe condotte recentemente (tant’è che in
+sede di verbale MP l’accusato reclamante ha assunto atteggiamento più sfumato
+in proposito). Comunque, la presenza di convergenti dichiarazioni a carico di
+lui, per quanto contestate nel merito (v. reclamo, cit., pto. 5 p. 3-4; la
+valutazione delle obiezioni mosse alla credibilità delle testimonianze a carico
+del qui accusato compete tuttavia alla sola Corte di merito), basta ed avanza
+per giustificare l’istruzione aperta nei suoi confronti;
+-
+parimenti ineccepibili appaiono gli ordini qui avversati, in
+quanto giustificati dalla necessità di verificare un eventuale flusso di denaro
+riconducibile all’attività illecita dell’accusato reclamante, e opportunamente
+limitati a conti menzionati nella documentazione rinvenuta presso il negozio da
+lui gestito. L’apodittica affermazione di lui, secondo la quale sui conti
+sequestrati non vi sarebbe denaro provento di reato (rispettivamente non vi sarebbe
+saldo attivo degno di nota, v. reclamo, cit., pto. 6 p. 4-5), al momento
+dell’inoltro del gravame non era suffragata da documentazione alcuna (né sembra
+che tale documentazione sia stata inoltrata successivamente), ed ha a tutt’oggi
+unicamente valore di affermazione di parte;
+-
+conseguentemente, la richiesta del reclamante di procedere alla
+revoca degli avversati ordini di perquisizione e sequestro bancari appariva, al
+momento dell’inoltro del reclamo, perlomeno prematura, ed appare ancora oggi –
+quando la documentazione bancaria raccolta non appare essere ancora stata
+discussa – infondata, ciò che deve condurre alla reiezione del reclamo con la
+presente decisione, impugnabile entro 10 giorni alla Camera dei ricorsi penali
+del Tribunale di appello (art. 284 cpv. 1 lit. a CPP), e con conseguenza di
+tassa e spese a carico del reclamante soccombente;
+-
+resta ovviamente impregiudicata una nuova richiesta di
+dissequestro, fondata su eventuali nuovi elementi di fatto e valutata
+nell’ottica dello stato d’avanzamento dell’inchiesta.
+Per i quali motivi
+richiamati i
+citati articoli di legge e gli artt. 280 ss. CPP
+decide:
+1.
+Il reclamo 5/8
+novembre 1999 di __________ contro gli ordini di perquisizione e sequestro
+bancari 25 ottobre 1999 è respinto.
+2.
+La tassa di giustizia
+di fr. 200.-- e le spese di fr. 50.--, in tutto fr. 250.--, sono poste a carico
+del reclamante soccombente.
+3.
+Contro la presente
+decisione è dato il rimedio del ricorso alla Camera dei ricorsi penali del
+Tribunale di appello entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+-      avv.
+__________, per sé e per il reclamante, con copia delle osservazioni del
+magistrato inquirente;
+-      Procuratore Pubblico avv. __________, con l’inc. MP 6548/99/PE
+di ritorno.
+giudice __________
