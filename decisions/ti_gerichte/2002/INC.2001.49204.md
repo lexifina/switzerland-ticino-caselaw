@@ -1,0 +1,420 @@
+---
+decision_id: "ti_gerichte_INC.2001.49204"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.49204"
+decided: "2002-05-02"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59537&nX40_KEY=4711427&nTrefferzeile=61&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2001.49204
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 02.05.2002 INC.2001.49204
+Tessin Il Giudice dell'istruzione e dell'arresto 02.05.2002 INC.2001.49204
+Ticino Il Giudice dell'istruzione e dell'arresto 02.05.2002 INC.2001.49204
+
+Sentenza o decisione senza scheda
+
+N. 492.2001.4                                                            Lugano,
+2 maggio 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza 15 aprile 2002 presentata
+dal
+Procuratore pubblico __________, Ministero pubblico di
+Lugano,
+e volta ad ottenere una (ulteriore) proroga di un mese
+(ovvero sino al 6 giugno 2002) del carcere preventivo cui è astretto
+___________
+,
+(patrocinato dall'avv. dott. __________)
+accusato dei reati di cui agli artt.
+187, 190, 191, 219 CP;
+viste le osservazioni presentate
+dall'indagato il 25 aprile 2002,
+visto l'incarto MP 6080/2001,
+ritenuto
+in fatto
+A.
+___________ è stato arrestato il 6 settembre 2001, con
+contestuale promozione d'accusa per i reati di cui agli artt. 187, 190, 191,
+219 CP; l'arresto è stato confermato da questo giudice il 7 settembre 2001.
+___________ è accusato di aver
+commesso i reati menzionati nei confronti delle due figlie adottive ___________
+(__________) e ___________ (__________), nel primo caso sull'arco di alcuni
+mesi nel 1991 o 1992, nel secondo caso (relativo ad un unico episodio) nel
+corso del 1998.
+Dall'inchiesta è pure emerso che
+l'accusato avrebbe commesso atti di natura sessuale anche nei confronti della
+figlia naturale (___________ - 1969), ancorché tali fatti non siano oggetto di
+formale procedimento in quanto già trascorso il periodo che da luogo a
+prescrizione (cfr. rapporto d'arresto 6.09.2001, richiesta di conferma
+d'arresto 7.09.2001).
+L'accusato ammette di aver
+compiuto a più riprese atti di natura sessuale nei confronti della figlia
+adottiva ___________, così come nei confronti della figlia naturale ___________
+(un episodio); nega, invece, di aver commesso atti di natura sessuale (in
+particolare il rapporto completo che è stato denunciato) con la figlia adottiva
+___________ (cfr. Verbale PS ___________ 6.09.2001, p. 3, rispettivamente p. 6
+e pp. 9/10).
+B.
+Con istanza del 20/21 febbraio
+2002, il magistrato inquirente aveva chiesto una proroga del carcere preventivo
+in quanto, a suo giudizio, erano presenti gravi indizi di reato e pericolo di
+collusione; la difesa non si era opposta ad una proroga, ancorché contenuta e
+limitata a permettere l'assunzione di quelle prove (ancora mancanti) che non
+fossero, già per la loro natura, assolutamente esenti da pericolo di collusione
+(cfr. inc. GIAR 492.2001.3).
+Questo giudice, previa
+accertamento dell'esistenza di gravi indizi di colpevolezza, ha concesso una
+proroga di due mesi con la seguente motivazione:
+" … omissis… la particolarità dei reati ascritti
+(assenza di tracce oggettive a distanza di tempo, consumazione in ambito
+famigliare solitamente senza testimoni, difficoltà delle vittime ad esprimersi
+tempestivamente in merito, ecc.) inducono a maggior rigore nella protezione
+della raccolta di elementi (anche solo circostanziali), rispettivamente della
+versione delle vittime; il fatto che l'accusato, ancorché prima dell'avvio
+dell'inchiesta, abbia posto in essere interventi volti a dar corpo (o
+giustificazione credibile) ad una sua versione, cercando di anticipare o parare
+quanto presupponeva stesse emergendo (cfr. Verbale PS ___________ 6.09.2001 p.
+10), è elemento concreto sufficiente, in questa fase della procedura, per
+fondare rischio di collusione ed imporre misura a garanzia di una raccolta completa
+di prove priva da ogni possibile influsso da parte sua (anche nel suo stesso
+interesse);
+in
+virtù di tutto quanto sopra, considerato che non è sugli esiti delle perizie
+che si concretizza pericolo di collusione, la proroga può essere concessa ma contenuta
+in due mesi, sufficienti per l'espletamento delle prospettate audizioni
+(istanza p.4/5; osservazioni p.4) e ancora rispettosi (con i sei già subiti)
+del principio di proporzionalità tenuto conto della consistenza ed ampiezza dei
+fatti rimproverati e sottoposti ad inchiesta, con conseguente gravità dei reati
+e pena ipotizzabile in caso di eventuale condanna;"
+(sentenza
+28 febbraio 2001 in re P. , GIAR 492.2002.3).
+Le audizioni oggetto della
+richiesta riguardavano i testi __________, __________, __________ e __________,
+come da istanza di proroga allora in questione (pagine 4 e 5, inc. GIAR
+492.2001.3).
+C.
+Con l'istanza oggetto della
+presente, il magistrato inquirente chiede un'ulteriore proroga (di un mese) del
+carcere preventivo cui è astretto l'accusato.
+Ribadisce persistenza di gravi
+indizi di colpevolezza, bisogni dell'istruzione e pericolo di collusione.
+I primi sarebbero dati in quanto
+l'istruttoria è tuttora in corso: una perizia (quella sull'indagato) è già
+stata consegnata (non si escludono domande di complemento/delucidazione) e
+un'altra (relativamente alla situazione di ___________) lo sarà prossimamente.
+S'intende, inoltre, procedere ad un'audizione ulteriore della figlia
+___________ e a quella del teste __________ (previste per il 19 aprile 2002).
+Agli atti non sono ancora stati depositati il rapporto di polizia e la
+trascrizione (da parte del MM) della videoregistrazione del confronto tra
+l'accusato e la figlia (si presume ___________).
+Il secondo sarebbe desumibile,
+come nella prima richiesta, dalle capacità dell'indagato di "
+influenzare
+e condizionare le persone della sua famiglia così come il connaturale
+atteggiarsi a vittima di ___________ con l'effetto perverso di condizionare e
+di far sentire gli altri in colpa
+" che "
+traspaiono da tutto
+l'incarto
+" (istanza 15 aprile 2002 p. 3).
+Se posto in libertà l'accusato
+potrebbe, sempre secondo il magistrato inquirente, esercitare direttamente e di
+presenza tali capacità nei confronti delle figlie e della moglie.
+Il suo atteggiamento negatorio (
+per i fatti relativi a ___________) costituirebbe ulteriore concreto indizio di
+un pericolo di collusione.
+D.
+L'accusato si oppone alla
+richiesta di proroga.
+Egli afferma, innanzitutto, che i
+fatti commessi (in parte presunti commessi) nei confronti della figlie
+___________ e ___________ sono prescritti e quelli nei confronti della figlia
+___________ contestati.
+L'istruttoria sarebbe conclusa:
+tutti i testi sono stati sentiti, laddove necessario più volte ed anche in
+contraddittorio. Gli atti che il magistrato inquirente indica come mancanti non
+giustificano il mantenimento del carcere (p.es. rapporto di polizia),
+rispettivamente il loro esito non é influenzabile o inquinabile da parte
+dell'accusato (perizie).
+La volontà di preservare tutte le
+prove fino al dibattimento, ritenuto che in parte si tratta di reati
+contestati, non giustifica il mantenimento della carcerazione se non sorretta
+da concreti indizi relativi a pericolo di collusione.
+Il pericolo ipotetico (quindi
+astratto) invocato dal magistrato è insufficiente e contrario ai principi
+giurisprudenziali e dottrinali in materia (con riferimento a DTF 117 Ia 257).
+Delle altre eventuali
+argomentazioni delle parti si dirà, se del caso, nei considerandi che seguono.
+Considerato
+in diritto
+1.
+L'istanza è ricevibile e
+tempestiva.
+2.
+I principi che reggono la materia sono noti come a precedenti analoghi
+giudizi,
+e meglio:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri
+possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+Nel caso in esame, gli indizi di
+colpevolezza sono dati e consistono nelle stesse ammissioni (parziali e
+limitate alle figlie ___________ e ___________) dell'accusato, cui si
+aggiungono le dichiarazioni delle figlie stesse (compresa ___________) relative
+ai fatti subiti (tutti riconducibili al titolo quinto del CP). Inoltre, le
+figlie situano gli avvenimenti oggetto dell'inchiesta in momenti in cui avevano
+all'incirca la stessa età (__________anni - cfr. sentenza 28 febbraio 2002,
+GIAR 492.2001.3).
+Nulla è intervenuto a modificare
+la precedente valutazione in tal senso.
+La prescrizione dei fatti
+commessi nei confronti di ___________ è indiscussa (e riconosciuta dallo stesso
+Procuratore pubblico).
+Per i fatti che coinvolgono la
+figlia ___________ la prescrizione non è altrettanto certa in quanto dipende
+dalla loro collocazione nel tempo. La giovane li situa nel periodo in cui aveva
+__________ anni (compiuti il __________), durante la primavera estate (quindi
+da marzo a settembre), quando aveva l'apparecchio fisso (secondo il dentista
+tolto il 6.05.1992), ma la ragazza non è sicura della collocazione (verbali
+___________ PS 5.09.2001 e PP 30.01.2002).
+Sebbene la prescrizione sia
+circostanza rilevabile d'ufficio, nel caso in esame la determinazione può
+essere lasciata a chi ha competenza per il merito sia perché presuppone
+accertamento di fatto, sia perché le ipotesi di reato avanzate (187 e 191 CP)
+hanno prescrizioni diverse (in casu quale conseguenza della cifra 6 dell'art.
+187), sia perché i fatti denunciati dalla figlia più piccola (___________) non
+sarebbero comunque prescritti.
+3.
+Pericolo di fuga e/o di recidiva
+non sono neppure ventilati dal magistrato inquirente (né emergono dal referto
+peritale del dott. __________). L'analisi dei fatti ai fini dell'odierna
+decisione deve pertanto concentrarsi sulle (eventuali) necessità istruttorie.
+4.
+a)
+Innanzitutto occorre ribadire che
+i bisogni istruttori (o necessità istruttorie che dir si voglia) che
+giustificano adozione o mantenimento della carcerazione preventiva, non
+s'identificano semplicemente con gli atti istruttori, o gli accertamenti,
+(ancora) da effettuare, bensì con il pericolo di collusione o di inquinamento
+delle prove che (eventualmente) espone a rischio la corretta raccolta (o
+conservazione) di tali atti (G. Piquerez, Procédure pénale suisse, ZH 2000,
+nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos.697 ss.; RDAT 1988
+no. 24).
+In quest'ottica il fatto che
+l'inchiesta sia tuttora in corso non è, di per sé, decisivo. Sono irrilevanti,
+ad esempio, l'assenza del rapporto di polizia (a otto mesi dall'avvio
+dell'istruttoria) e della trascrizione della videocassetta relativa ad un
+confronto (avvenuto l'11 febbraio 2002).
+Quanto agli altri atti istruttori
+menzionati nell'istanza (perizie ed interrogatori), non basta invocazione della
+necessità di effettuarli, o permetterne la completazione ("
+Die Tatsache allein, das noch nicht alle Beweise erhoben
+bzw. die Mitverdächtigen dingfest gemacht werden konnten oder dass der Angeschuldigte
+die Aussage verweigert, genügt nicht
+" N. Schmid, op. cit., no.
+701a). Occorre che l'indagato, se posto in libertà, possa pregiudicarne (o
+comprometterne) il corretto svolgimento e, conseguentemente, l'esito (vedi per
+il caso specifico la sentenza relativa alla prima proroga: Giar 28 febbraio
+2002, inc. 492.2001.3; e per casi analoghi, quantomeno per la tipologia dei
+reati: GIAR 19 aprile 2002 in re D., inc. 582.2001.4 e GIAR 4 aprile 2002, inc.
+767.2002.4).
+In buona sostanza, quo ai bisogni
+istruttori, occorre verificare se esista in capo all'accusato un concreto
+pericolo di collusione in relazione alle prove ancora da assumere,
+rispettivamente se tale pericolo sussista fino al dibattimento come sembra sostenere
+il magistrato inquirente (Istanza 15 aprile 2002, p.4). Ritenuto che, come
+ricordato dalla difesa:
+"
+Jedoch genügt nach der Rechtsprechung des Bundesgerichttes die theorethische
+Möglichkeit, dass der Angeschuldigte in Freheit kolludieren konnte, nicht, um
+die Fortsetzung der Haft oder die Nichtgewährung von Urlauben unter diesem Titel
+zu rechtfertigen. Es mussen vielmehr konktrete Indizien für eine solche Gefahr sprechen
+."
+(DTF 117 Ia 257, cons. 4 c.)
+b)
+Secondo il Procuratore pubblico,
+il pericolo di collusione si concretizzerebbe  nella capacità d'influenzare e
+di condizionare le persone della sua famiglia, anche grazie ad un atteggiamento
+vittimistico, che egli potrebbe esercitare sulle figlie, come in parte avrebbe
+già fatto con altri membri della famiglia (cfr. cons. C.; Istanza 15 aprile
+2002, p.3).
+c)
+Occorre, innanzitutto, rilevare
+che tutti gli atti istruttori che il Procuratore pubblico intendeva ancora
+effettuare, senza che l'accusato potesse in qualche modo esercitare la sua
+influenza (diretta o indiretta), sono stati nel frattempo esperiti: sia il
+referto peritale relativo a ___________, sia gli interrogatori di ___________ e
+del teste __________ sono agli atti (AI 155, verbali PP 19 aprile 2002 e 26
+aprile 2002).
+Ritenuto che non si vede come
+pericolo di collusione possa concretizzarsi in sede di (eventuali) richieste di
+delucidazione delle perizie e che da questi atti non paiono emergere fatti
+nuovi che impongano l'acquisizione di ulteriori elementi probatori in fase
+istruttoria, la questione relativa al pericolo di collusione deve essere
+valutata per rapporto all'esigenza di conservare le prove ai fini del
+dibattimento.
+d)
+Per quanto concerne gli altri
+membri della famiglia, le loro dichiarazioni e, eventualmente, l'influsso che
+potrebbero avere sulle figlie dell'accusato, è lo stesso incarto ad indicare
+che non vi è (più) un pericolo concreto in tal senso.
+Infatti, i famigliari sono già
+stati autorizzati ad avere colloqui liberi con l'accusato (per tutti cfr. AI
+106).
+e)
+Per le figlie, la questione di un
+pericolo concreto di collusione può essere posto relativamente a ___________ (i
+fatti denunciati, ancorché prescritti, se accertati sono suscettibili di
+diventare indizi) e ___________, dato che i fatti relativi alla figlia ___________
+sono (a prescindere dalla questione della prescrizione di cui si è già detto
+più sopra - cfr. cons. 2) ammessi (Istanza p. 2).
+___________ (1969), figlia di
+primo letto dell'accusato, è stata interrogata 4 volte in polizia e tre dal
+Procuratore pubblico, in un caso (21.01.2001) a confronto con il padre. Le
+versioni dei fatti fornite nei verbali di polizia sono state confermate davanti
+al magistrato e, in un secondo tempo, anche davanti al padre. Il contenuto di
+quei verbali non evidenzia elementi che possano far pensare ad una (attuale) influenzabilità
+della teste da parte del padre (in particolare cfr. verbale 9.11.2001 p 3, 5,
+9; confronto 21 gennaio 2002 p. 5, 7). La teste ha, inoltre, affermato sin
+dall'inizio di non voler far del male al padre (verbale PS 7 settembre 2001 p.
+1), ha rifiutato di effettuare il confronto con il padre in aule separate
+chiedendo che lo stesso avvenisse di persona (verbale PP 9 novembre 2001 p.10).
+Da ultimo, vanno pure considerate l'età della teste, il fatto che da molti anni
+il suo domicilio non corrisponde a quello dell'accusato e
+che da anni anche la sua famiglia
+non è quella dell'accusato (verbale PP 9 novembre 2001 p.8).
+Tutti questi elementi non
+conducono a giudizio di un rischio concreto di influenzabilità della teste da
+parte dell'accusato, neppure tramite l'atteggiamento definito vittimistico e
+mistico.
+f)
+A conclusione analoga si giunge
+anche per quanto concerne il pericolo di collusione con la figlia ___________.
+La ragazza, ora sedicenne, afferma di aver maturato la decisione di raccontare
+l'episodio relativo all'abuso subito quando si trovava presso la comunità Il
+__________ (ancorché in termini diversi e più generici) l'avesse già raccontato
+ad un amico - cfr. Verbale __________ 26 aprile 2002), grazie all'aiuto di uno
+psicologo e nonostante le visite dei genitori che sembravano (in particolare il
+padre) voler recuperare il rapporto ormai deteriorato per tutta una serie di
+circostanze anche successive all'abuso denunciato (che temporalmente si situa
+nel 1998; cfr. verbale MM 19 settembre 2002 p.2). Avrebbe capito che, per dirla
+con parole sue, forse era il caso di fare qualcosa per sé stessa, affrontare il
+problema avuto con il padre senza più continuare a far finta di niente e
+troncare i rapporti con il padre (verbale MM 19 settembre 2001). Le modalità
+con le quali la giovane è giunta al racconto dei fatti oggetto del procedimento
+contro il padre, così come emerge dai verbali, non mettono in evidenza elementi
+che indichino un rischio di influenzabilità. Lo scrivente ha
+pure visionato la cassetta
+relativa al confronto, avuto da ___________ con il padre, avvenuto
+l'11.02.2002. In quella sede la ragazza ha, sostanzialmente, confermato i
+verbali precedenti così come gli sono stati prospettati. Alle domande della
+difesa ha risposto in un caso (relativamente ad una domanda che i magistrati
+presenti non hanno formalmente ammesso) con (quasi) rabbia, ed ad altre
+asserendo che l'atteggiamento del padre non la toccava più ("so che giura
+sui santi ma è inutile", "papà è sempre stato bravo a far
+l'attore"). Anche il referto peritale che concerne la ragazza sembra
+confermare quanto sopra nel senso di una volontà di distacco (sia affettivo che
+materiale) dal padre che non milita a favore di una sua attuale influenzabilità,
+pur senza dimenticare il problema di tutto quanto vissuto come abbandono (cfr.
+AI 155 p.4, 7, 9). D'altro canto lo stesso magistrato inquirente non indica
+elementi in senso contrario attribuendo il rischio di collusione unicamente
+all'atteggiamento "vittimistico" dell'indagato.
+Come detto, un rischio ipotetico
+è insufficiente, anche quando si tratta di reati su minori (sentenza 4 aprile
+2002, GIAR 76.2002.4; sentenza 29 aprile 2002, GIAR 626.2001.3) e tale rischio
+può essere ulteriormente limitato con "l'assoluto divieto di prendere
+qualsivoglia contatto, di persona o anche solo mediato" con la vittima,
+rispettivamente teste, la cui violazione comporterebbe "ripristino della
+carcerazione preventiva" (sentenza GIAR 76.2002.4 citata, p. 3 e dispositivo
+no.3).
+g)
+A scanso di equivoci si precisa
+che i riferimenti ai verbali di ___________ e ___________ effettuati in questo
+considerando concernono unicamente la ricerca di eventuali elementi che
+indichino una loro influenzabilità da parte dell'accusato. In nessun caso ci si
+è espressi sulla credibilità che è questione sottoposta alla valutazione del
+giudice del merito.
+5.
+Sulla quanto sopra espresso si
+deve concludere che non sono dati sufficienti e concreti elementi di un
+pericolo di collusione perdurante sino al dibattimento. L'adozione di
+determinate misure può, inoltre, ulteriormente ridurre il rischio (ancorché
+teorico).
+Di conseguenza non può essere
+concessa un'ulteriore proroga della carcerazione preventiva (in corso da 8
+mesi) cui è astretto ___________.
+Superfluo, a questo punto,
+interrogarsi sulla proporzionalità della proroga richiesta.
+P.Q.M
+Visti gli artt. 187, 190, 191,
+219 CP, 95 ss, 96, 102, 103, 284 CPP, 29 CF,
+decide
+1.
+L'istanza di proroga del carcere
+preventivo cui è astretto ___________ è respinta.
+Di conseguenza, ___________ sarà
+scarcerato e posto in libertà provvisoria al più tardi entro le 24.00 del 6
+maggio 2002.
+2.
+Quale misura sostitutiva del
+carcere preventivo, è fatto assoluto divieto all'accusato di prendere direttamente
+o mediatamente contatto con le figlie ___________ e ___________
+3.
+Non si percepiscono spese
+giudiziarie e non si attribuiscono ripetibili.
+4.
+Contro la presente decisione è
+dato ricorso entro 10 giorni dall'intimazione alla Camera dei Ricorsi penali,
+Lugano.
+5.
+Intimazione
+-
+Procuratore Pubblico dott. __________, sede (con l’incarto di
+ritorno);
+-
+Avv. dott. __________, per sé e per l’accusato;
+-
+Penitenziario cantonale La Stampa, 6904 Lugano.
+giudice __________
