@@ -1,0 +1,154 @@
+---
+decision_id: "ti_gerichte_INC.2002.38103"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.38103"
+decided: "2002-12-16"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59642&nX40_KEY=4711357&nTrefferzeile=40&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2002.38103
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 16.12.2002 INC.2002.38103
+Tessin Il Giudice dell'istruzione e dell'arresto 16.12.2002 INC.2002.38103
+Ticino Il Giudice dell'istruzione e dell'arresto 16.12.2002 INC.2002.38103
+
+Sentenza o decisione senza scheda
+
+N. 381.2002.3 L                                                         Lugano,
+16 dicembre 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull’istanza
+presentata il 13 dicembre 2002 dal
+Procuratore pubblico
+avv. __________
+intesa ad ottenere la proroga
+sino al 15 febbraio 2003 del carcere preventivo cui è astretto
+__________
+,  attualmente presso il Penitenziario
+cantonale
+(patrocinato dall'avv. __________)
+nel procedimento pendente contro
+quest’ultimo per titolo di lesioni personali gravi e propagazione di malattie
+dell'uomo;
+preso atto che il patrocinatore
+dell'accusato ha rinunciato a presentare osservazioni, verbalmente auspicando
+una sollecita conclusione della fase predibattimentale;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+__________ è stato arrestato il 3 luglio 2002, con contestuale
+promozione dell'accusa nei suoi confronti per i titoli di reato ricordati in
+ingresso: di fatto egli ha avuto rapporti sessuali anche non protetti con
+diverse donne, sottacendo loro di essere sieropositivo ed alcune rimanendone
+contagiate (cfr. il verbale conclusivo del 28 novembre 2002 dinnanzi al
+Procuratore pubblico, fascicolo 9 dell'inc. MP _________, dove l'accusato fa
+sostanziali ammissioni, tuttavia anche contestando quanto puntualmente riferito
+dalle vittime);
+-
+il Procuratore pubblico chiede la proroga del carcere preventivo sino al
+15 febbraio 2003 per poter concludere la fase preliminare del procedimento,
+facendo in particolare valere il pericolo di recidiva, per l'atteggiamento di
+"
+cinica indifferenza
+" dimostrato dall'accusato nei confronti
+delle vittime;
+-
+l'art. 95 CPP, dopo evidenza al cpv. 1 del principio secondo cui
+l'accusato si trova di regola in libertà, consente al cpv. 2 arresto, perdurare
+e proroga del carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di interesse
+pubblico, quali - per quanto qui concerne - il pericolo di recidiva, in pratica
+solo presupposto al quale fa capo il magistrato inquirente: l'eccezione della
+cautelare privazione della libertà personale ha così trovato codificazione in
+una chiara base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in
+corrispondenza ed a superamento di quanto già dettato dalla giurisprudenza
+della Camera dei ricorsi penali - nel solco di quella del Tribunale federale -,
+ritenuto implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986
+pag. 158; 1988 pag. 413; DTF 102 Ia 381);
+-
+pacificamente sono presenti seri indizi di colpabilità per reati
+gravemente lesivi dell'incolumità delle vittime, tra le quali una ragazza
+appena verso i diciassette anni, che si è così ritrovata sieropositiva (cfr.
+verbale 8 giugno 2002 di J.S. dinnanzi al Procuratore pubblico, fascicolo 8
+dell'inc. penale);
+-
+l'istruttoria è praticamente conclusa, l'atteso accertamento medico su
+di una vittima (evocato nell'istanza) non impedendo immediata chiusura con
+deposito degli atti, come postulato dalla difesa, che peraltro non avrebbe
+altri mezzi di prova da proporre;
+-
+a ragione non invocato il pericolo di fuga,
+rimane da valutare quello di recidiva,  richiamando come lo stesso debba essere
+concreto (DTF 105 Ia 31) e risultare da una valutazione dell’insieme delle
+circostanze, tra cui i precedenti dell’accusato, il suo comportamento durante
+l’istruttoria, la sua personalità, la sua costituzione fisica e soprattutto
+psichica e le modalità di commissione dei reati che gli vengono addebitati,
+così che la reiterazione appaia assai verosimile (LUVINI, loc. cit., pag. 294;
+Gérard PIQUEREZ, Précis de procédure pénale suisse, Lausanne 1987, n. 1186/7);
+-
+__________ ha agito ripetutamente e spudoratamente per soddisfare i suoi
+istinti (indipendentemente dal fatto che è sposato e che sua moglie conti
+qualche lustro più di lui) con diverse donne, incurante della propria
+situazione e soprattutto dell'eventualità di trasmettere il morbo: nel citato
+verbale egli ha sì dichiarato di aver acquistato consapevolezza dei suoi errori
+e del suo comportamento in contrasto della filosofia "
+rasta
+",
+della quale si vuole partecipe, ma restano preoccupanti la leggerezza con la
+quale ha agito e le mezze reticenze emergenti dai suoi verbali, sovente ad
+affermare di avere di regola usato preservativi, che semmai hanno potuto
+rompersi involontariamente, per cui si può paventare ricaduta prima del
+giudizio che abbia a severamente fargli presente l'intollerabilità della
+passata sua sciaguratezza;
+-
+tenuto conto delle indagini volte ad identificare le vittime e della
+gravità delle imputazioni, sia oggettivamente che soggettivamente, nonché
+dell'invito al Procuratore pubblico ad accelerare i tempi della chiusura della
+fase predibattimentale, il principio di proporzionalità è rispettato;
+-
+di conseguenza l’istanza di proroga del carcere preventivo è accolta
+come proposta dal magistrato inquirente, con la presente decisione, esente da
+tassa e spese giudiziarie (art. 39 lett. f TG e contrario), e suscettibile di
+impugnazione alla Camera dei ricorsi penali (art. 284 cpv. 1 lett. a CPP);
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza è accolta.
+1.1
+Di
+conseguenza il carcere preventivo cui è astretto __________ è prorogato sino al
+15 febbraio 2003, compreso.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-
+avv. __________, per sé e per l'accusato;
+-
+Procuratore pubblico avv. __________, sede (con l'inc. __________
+di ritorno);
+-
+Direzione del Penitenziario cantonale, 6904 Lugano-Cadro.
+giudice
+__________
