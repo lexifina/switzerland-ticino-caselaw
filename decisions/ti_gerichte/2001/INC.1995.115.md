@@ -1,0 +1,99 @@
+---
+decision_id: "ti_gerichte_INC.1995.115"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1995.115"
+decided: "2001-10-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59631&nX40_KEY=4711439&nTrefferzeile=27&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-281.md"]
+---
+
+# TI Gerichte INC.1995.115
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 25.10.2001 INC.1995.115
+Tessin Il Giudice dell'istruzione e dell'arresto 25.10.2001 INC.1995.115
+Ticino Il Giudice dell'istruzione e dell'arresto 25.10.2001 INC.1995.115
+
+Sentenza o decisione senza scheda
+
+N. 1.1995.15 L                                                           Lugano,
+25 ottobre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato 12/15 ottobre 2001 da
+__________
+(patrocinato dall'avv.
+__________)
+contro la decisione 1. ottobre
+2001 del
+Procuratore pubblico
+avv. __________ di consegna
+all'Amministrazione del fallimento __________ della pistola sequestrata al
+reclamante;
+preso atto della comunicazione 24
+ottobre 2001 del magistrato inquirente, con l'accertamento della tardività del
+reclamo, di cui viene conseguentemente chiesta la reiezione in ordine;
+costatato in effetti che:
+-
+la decisione impugnata, datata 1. ottobre 2001, è stata spedita lo
+stesso giorno al reclamante, per raccomandata da Bellinzona con il numero di
+impostazione __________;
+-
+accertamenti presso l'Ufficio di distribuzione di __________, danno
+quell'invio siccome ritirato il 2 ottobre 2001, giorno e data quindi
+dell'intimazione a norma di legge, quale conoscenza del provvedimento,
+impugnabile entro i successivi dieci giorni, come al rimedio di diritto
+correttamente indicato in calce alla menzionata decisione (art. 280 ss. CPP);
+-
+il 3 ottobre 2001 __________ ha qui inoltrato un "
+ricorso a
+titolo cautelativo
+", adducendo sua assenza all'estero sino al
+successivo 9 ottobre 2001, ma senza veruna motivazione sul merito del gravame:
+il giorno successivo questo giudice ha comunicato al reclamante l'impossibilità
+di
+legge di prorogare il termine ricorsuale (art. 19 cpv. 1 e 281 cpv. 1 CPP),
+attirando l'attenzione sulla sua scadenza il 12 ottobre 2001, venerdì (nella
+prudenziale presunzione di ricevimento della decisione impugnata il 2 ottobre
+2001, poi appunto così avveratasi);
+-
+il reclamo motivato porta la data del 12 ottobre 2001, corrispondente al
+decimo e ultimo giorno utile per presentarlo (art. 281 cpv. 1 CPP), ma è stato
+consegnato alla posta tre giorni dopo e cioè il 15 ottobre 2001 (numero di
+impostazione __________), quindi tardivamente;
+per cui in diritto:
+-
+non può che conseguirne decisione di irricevibilità dell'impugnativa,
+ribadita l'assenza di motivazione dell'atto primitivo del 2 ottobre 2001 e la
+tardività di quello del 12 ottobre 2001, con carico di spese giudiziarie (art.
+39 cpv. 1 TG), rimanendo riservato il ricorso alla Camera dei ricorsi penali,
+trattandosi di materia attinente a sequestro (art. 284 cpv. 1 lett. a CPP);
+visti i citati articoli di legge,
+decide:
+1.
+Il reclamo è irricevibile.
+2.
+La tassa di giustizia di fr. 50.- e le spese di fr. 20.- sono a carico
+del reclamante.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall'intimazione.
+4.
+Intimazione:
+-
+avv. __________, per sé e per il reclamante;
+-
+Procuratore pubblico avv. __________.
+giudice
+__________
