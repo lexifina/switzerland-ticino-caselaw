@@ -1,0 +1,343 @@
+---
+decision_id: "ti_gerichte_INC.2000.24302"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.24302"
+decided: "2000-05-30"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56975&nX40_KEY=4711468&nTrefferzeile=75&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/312.0/art-142.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.2000.24302
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 30.05.2000 INC.2000.24302
+Tessin Il Giudice dell'istruzione e dell'arresto 30.05.2000 INC.2000.24302
+Ticino Il Giudice dell'istruzione e dell'arresto 30.05.2000 INC.2000.24302
+
+Sentenza o decisione senza scheda
+
+N. 243.2000.2                                                                 Lugano,
+30 maggio 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+18 maggio 2000 formulato da
+__________
+(patrocinato dall'avv.
+__________)
+contro la decisione 11 maggio
+2000 del Procuratore Pubblico avv. __________, in materia di prove nell'ambito
+di procedimento penale aperto nei confronti del reclamante stesso per titolo di
+truffa;
+lette le osservazioni 24 maggio
+2000 del PP avv. __________, e quelle delle parti civili del 29 maggio 2000 con
+cui si chiede la reiezione dell'impugnativa;
+avuti gli atti formanti l'inc. MP
+2243/1995 del Ministero Pubblico,
+considerato:
+in fatto ed in
+diritto:
+1.
+Con atto dell'11 aprile 1995
+__________ e __________ hanno sporto denuncia penale presso il Ministero
+Pubblico ticinese nei confronti di __________ sentendosi truffati da questi. In
+sostanza il 21 settembre 1990 i denuncianti hanno stipulato con il denunciato
+un contratto di compravendita immobiliare riferito al foglio PPP __________ del
+fondo base mappale __________ RFD __________ per un prezzo di CHF 420'000.-
+pagabile entro il 30 aprile 1990 direttamente alla __________ dietro consegna
+di cartella ipotecaria iscritta in primo rango sull'immobile. L'accusato si è
+impegnato a consegnare ai compratori le altre due cartelle ipotecarie esistenti
+in II e III rango di CHF 75'000.- rispettivamente CHF 40'000.-. I denuncianti
+hanno soluto, mediante
+finanziamento del __________, il
+prezzo. La banca ha ricevuto dalla __________ la CI in primo rango di CHF
+425'000.-. __________ non ha invece consegnato le CI in II e III rango
+nonostante abbia affermato di averne la disponibilità. Due anni dopo la
+conclusione del contratto il __________ ha comunicato ai compratori che la CI
+in II rango di CHF 75'000.- era stata posta a pegno dal signor __________ a
+garanzia di un mutuo fisso di pari importo oltre accessori concesso in epoca
+antecedente la compravendita di cui si tratta.
+Le parti sono in seguito state
+coinvolte in procedure civili di cui è cenno agli atti prodotti con la
+denuncia. Il magistrato d'accusa incaricato della trattazione della procedura
+penale ha acquisito dall'UR di __________ e dalla Pretura competente la
+documentazione atta alla valutazione della fattispecie. In sede
+d'interrogatorio 9 ottobre 1995 il magistrato d'accusa ha promosso l'accusa nei
+confronti del denunciato per titolo di truffa. Avverso tale provvedimento
+__________ è insorto alla CRP che ha dichiarato irricevibile il gravame.
+Ritenuto come nei confronti dell'accusato presso il MP fossero pendenti altri
+procedimenti penali la procedura di cui si tratta ha subito un rallentamento
+cui il PP ha posto rimedio con decisione, non impugnata, di disgiunzione della
+presente fattispecie dalle altre pendenti. Nell'ambito dell'istruttoria il
+magistrato d'accusa, su sollecitazione della difesa, ha - dopo audizione delle
+parti interessate (__________è stato interrogato in due circostanze nel 1995 e
+nel 2000) e dopo audizione del notaio avv. __________ - acquisito l'intero
+incarto relativo al rogito di cui si tratta dal notaio depositario del rogiti
+dell'avv. __________ (AI _). Il 20 aprile 2000 il magistrato d'accusa ha
+proceduto al deposito degli atti all'attenzione delle parti sino al 9 maggio
+2000 ed ha, a seguito di richiesta della difesa, ordinato nuova audizione dei
+signori __________ avvenuta il 9 maggio scorso. Dal canto suo il patrocinatore
+delle parti civili ha prodotto documentazione agli atti il 9 maggio 2000 ed in
+pari data (ossia ancora in tempo utile nell'ambito del deposito degli atti
+ordinato il 20 aprile 2000) la difesa ha postulato un ulteriore complemento
+degli atti producendo documentazione indicante la vendita, a terze persone e
+successivamente al rogito di cui si tratta, di ulteriore quota di PPP relativa
+allo stesso fondo base senza problemi. Dal punto di vista della difesa l'unico
+problema intervenuto è stato quello relativo all'appartamento dei denuncianti
+siccome il notaio avrebbe omesso di farsi consegnare i titoli fiduciariamente per
+procedere alla consegna dovuta ed agli aggiornamenti. La difesa ha quindi
+chiesto l'erezione di una perizia sull'operato del notaio rogante, ha chiesto
+l'audizione degli altri notai intervenuti (e meglio dei notai avv. __________ e
+avv. dott. __________) per le ulteriori compravendite di PPP relative al
+medesimo fondo base, ed ha postulato il richiamo dal __________ dell'incarto
+relativo al finanziamento ed alla consegna dei titoli ipotecari esistenti
+sull'appartamento. Da ultimo la difesa ha chiesto l'audizione del signor
+__________ del __________ al corrente del finanziamento ipotecario in
+discussione.
+Con decisione 11 maggio 2000 il
+magistrato d'accusa ha respinto tutte le prove offerte, fatta salva l'audizione
+dei signori __________ nel frattempo sentiti. Per
+quanto attiene l'audizione dei
+notai il magistrato d'accusa ha ritenuto sufficiente la produzione dei
+documenti intervenuta. Il PP ha ritenuto inutile una perizia sull'operato del
+notaio anche alla luce dell'iscrizione del trapasso di proprietà eseguito
+dall'UR, ed ha considerato non sufficientemente motivata la richiesta,
+generica, di richiamo dell'incarto del __________ relativo al finanziamento.
+Per il magistrato d'accusa il finanziamento del __________ ai signori
+__________ appare inconferente e in ogni modo gli atti a disposizione appaiono
+sufficienti per quanto attiene al "recupero" della CI in II rango
+(per la quale i denuncianti hanno dovuto versare importo in danaro). La
+testimonianza di __________ è stata ritenuta irrilevante con riferimento alla
+libera disponibilità della CI in II rango.
+2.
+Insoddisfatto della decisione del
+PP l'accusato è insorto dinanzi a questo giudice con reclamo del 18 maggio
+scorso in cui ribadisce la necessità di sentire i notai avv. __________ e avv.
+dott. __________ per accertare "come assumevano le transazioni con i
+creditori ipotecari" e confermare "il comportamento del signor
+__________ verso i rispettivi clienti e creditori ipotecari" attestando
+così l'assenza di intenzione dell'accusato di ingannare i compratori. L'avv.
+__________ dovrebbe inoltre poter confermare come per l'acquisto __________ non
+vi sarebbero stati problemi con il __________, ciò che poteva avvenire anche
+con i signori __________.
+Per quanto attiene al richiamo
+dal __________ (senza che la difesa abbia specificato quale dei richiami
+operati in sede di istanza di complemento del 9 maggio 2000 intenda riproporre)
+lo stesso sarebbe importante per conoscere le "condizioni di
+finanziamento" e le modalità di consegna dei titoli ipotecari esistenti
+sull'appartamento ai proprietari degli appartamenti". Da ultimo la difesa
+insiste sulla richiesta d'erezione di una perizia sull'operato del notaio
+poiché "… il titolo in discussione doveva essere richiesto dal notaio
+prima della firma degli atti, ed essere consegnato assieme agli altri titoli,
+così come sempre avviene".
+Con scritto 24 maggio 2000 il
+magistrato d'accusa postula la reiezione del gravame facendo ampio riferimento
+alla decisione impugnata. Per il PP i rogiti prodotti presentavano condizioni
+diverse e, nel caso in esame, il notaio non aveva l'obbligo di farsi consegnare
+i titoli. Per il resto le prove offerte non avrebbero rilevanza e potrebbero
+essere prodotte al pubblico dibattimento.
+Dal canto loro i coniugi
+__________, con tempestive e puntuali osservazioni, evidenziano l'irrilevanza e
+l'impertinenza delle richieste di audizione dei notai essendo del tutto
+inconferenti le ulteriori vendite degli appartamenti con la fattispecie
+inquisita. Le parti civili rilevano poi come i documenti acquisiti agli atti
+siano sufficienti, e come sia ampiamente dimostrato che i signori __________,
+per liberare la CI in II rango posta a garanzia di mutuo concesso all'accusato,
+abbiano dovuto sborsare di tasca loro l'importo di CHF 30'000.- al __________
+di __________.
+3.
+Per meritare di venire assunte,
+le prove proposte dalle parti contestualmente al deposito atti (art. 196 CPP) o
+in altro momento dell’istruttoria (artt. 60 cpv. 1 e 79 cpv. 1 CPP) devono
+rispettare tre concorrenti ordini di considerazione: esse devono essere
+motivate per quanto attiene al loro oggetto ed al loro scopo in diretta
+connessione con la fattispecie inquisita; tali mezzi di prova devono avere i
+requisiti della novità, della rilevanza e della pertinenza alle successive conclusioni
+di competenza del Procuratore Pubblico, dapprima per decidere se promuovere
+l’accusa oppure non far luogo al procedimento e poi eventualmente - dopo
+definitiva conclusione dell’istruzione formale - se decretare messa in stato di
+accusa o abbandono, sino se del caso a quelle del giudice di merito; per
+quest’ultima evenienza, le stesse prove devono essere di difficile produzione
+al dibattimento, avute presenti le finalità dell’art. 189 CPP, inteso appunto
+tra l’altro ad assicurarne la non interrotta assunzione (v. sentenza 24 gennaio
+1990, inc. CRP 337/89; v. decisioni 17 febbraio 1993 in re L.P., inc. GIAR
+135.93.1; 3 novembre 1993 in re G.G., inc. GIAR 862.93.1, e 14 giugno 1995 in
+re F.M., inc. GIAR 1093.93.5). Se, in particolare per l’accusato, la facoltà di
+proporre mezzi di prova è espressione del diritto di essere sentito (v., da
+ultimo, DTF 124 I 49, consid. 3a p. 51; DTF 121 I 306, consid. 1b p. 308) e del
+“
+fair trial
+” ai sensi dell’art. 6 CEDU (v.
+Frowein/Peukert
+,
+EMRK-Kommentar, 2. Aufl. Kehl/Strassburg/ Arlington 1996, nota 99 ad art. 6
+CEDU), il giudice del merito (ed il magistrato inquirente) è tenuto, in
+applicazione delle norme procedurali corrispondenti, a considerare
+rispettivamente ammettere soltanto quei mezzi di prova che “
+nach seinem
+richterlichen Ermessen entscheidungserheblich sind
+” (
+Frowein/Peukert
+,
+loc. cit. p. 231). Con riferimento specifico all’audizione di testi, il
+magistrato può rifiutare la prova proposta “
+wenn er die zu erwartende
+Antwort bzw. Aussage nach seiner freien Ermessensentscheidung für die
+Wahrheitsfindung nicht für beachtlich hält
+” (
+Frowein/Peukert
+, loc.
+cit., nota 202 ad art. 6 CEDU, con rinvii), nelle parole di
+Niklaus Schmid
+(Strafprozessrecht, 3. Aufl. Zürich 1997, margin. 270, con rinvii a DTF 103 Ia
+491 et al. in nota 321) “
+wenn sie den rechtlich relevanten Sachverhalt als
+genügend geklärt erachten
+”. Di conseguenza, non è data violazione dell’art.
+6 CEDU se il giudice del merito rifiuta un mezzo di prova dopo averne esaminato
+la pertinenza (v.
+Frowein/Peukert
+, loc. cit., nota 203 ad art. 6 CEDU,
+con rinvio al noto caso Vidal; come qui, v. decisione 17 giugno 1998 in re
+F.F., inc. GIAR 55.98.1 consid. 1).
+4.
+Nel caso concreto la difesa
+chiede avantutto l'audizione dei notai che si sono occupati di altre transazioni
+relative alle quote di PPP di cui al fondo base __________ RFD __________.
+Secondo __________ la loro audizione permetterebbe di accertare come essi
+procedevano alla rogazione dell'atto con particolare attenzione all'aspetto
+delle garanzie. I notai dovrebbero permettere l'accertamento dell'assenza di
+volontà da parte dell'accusato di ingannare le parti civili. L'avv.
+__________ dovrebbe poi riferire
+specificatamente della vendita, successiva a quella in discussione, ai signori
+__________.
+La prova offerta, oltre ad essere
+motivata in maniera piuttosto generica con riferimento agli specifici fatti
+oggetto dell'istruttoria, appare carente dal punto di vista della pertinenza.
+In effetti il magistrato d'accusa sta indagando l'accusato con preciso riferimento
+agli accordi intervenuti con i signori __________ ed alla compravendita che ne
+è seguita. Poco importa se in altre circostanze, anche successive, i rapporti
+tra compratori e venditore si sono svolti in altro modo, rispettivamente se i
+notai incaricati di queste ulteriori compravendite hanno esatto la
+presentazione dei titoli od altro ancora. Quanto la difesa tende ad accertare,
+ossia la paventata assenza di volontà da parte di __________ di ingannare i
+signori __________, non può certo essere dimostrata mediante la deposizione dei
+notai su altri situazioni. La prova non solo manca del requisito della
+pertinenza ma appare superata dalla produzione degli atti di compravendita da
+parte dell'accusato. D'altra parte le prove volute dalla difesa non appaiono di
+difficile produzione al pubblico dibattimento, se ritenute necessarie (viste
+anche le affermazioni dell'accusato stesso e la produzione dei documenti da
+parte della difesa), e l'audizione del notaio __________ rispettivamente del
+notaio __________ potrebbe avvenire in quella sede (se vi fosse l'emanazione di
+un atto d'accusa). Non va, da ultimo, dimenticato come il notaio avv.
+__________ sia stato sentito dal PP in corso d'istruttoria.
+5.
+La difesa postula generico
+richiamo di atti dal __________ per "conoscere come erano le condizioni di
+finanziamento e per la consegna dei titoli ipotecari esistenti
+sull'appartamento ai proprietari degli appartamenti". In sede di domanda
+di complemento la difesa ha postulato l'acquisizione del dossier __________ di
+__________ relativo al finanziamento (senza specificare se riferito ai signori
+__________ o ad altri acquirenti di quote di PPP relative allo stesso fondo
+base). La richiesta contenuta nel gravame appare generica ed imprecisa e non
+rispetta le condizioni minime di motivazione che le prove postulate devono
+avere: in altri termini non viene specificata la rilevanza di questi atti e la
+loro pertinenza con la fattispecie inquisita (cosa intende reperire in quel
+dossier la difesa? Cosa intende dimostrare?). Non si comprende quindi cosa
+interessi esattamente all'accusato, e come questi documenti possano avere
+rilevanza e pertinenza per il procedimento in discussione. Non si comprende se
+__________ desideri accertare, dal dossier finanziamento __________ (?), in che
+misura e come __________ fosse informata dell'esistenza del deposito a garanzia
+della CI del valore di CHF 75'000.- presso __________. Non è compito del
+giudice verificare quali possano essere le motivazioni non espresse da parte
+della difesa. Mancando ogni indicazione più precisa e dettagliata con seria
+motivazione quo ai fatti dell'inchiesta la prova non può essere ammessa in
+questa sede. Va osservato poi che, nonostante il signor __________ fosse
+dipendente di __________, non necessariamente doveva essere a conoscenza dei
+contatti e delle informazioni acquisite dal preposto funzionario
+del __________ in vista della
+concessione del credito necessario all'acquisto dell'immobile. D'altro canto le
+modalità di concessione del mutuo da parte del __________ al proprio dipendente
+non appaiono di primo acchito pertinenti e rilevanti nell'ottica della
+procedura condotta come d'altra parte non lo sono eventuali finanziamenti da
+parte della medesima banca a terzi acquirenti di altre quote di PPP. In difetto
+di sufficiente motivazione la prova offerta va respinta.
+Questo Giar deve inoltre
+evidenziare qui come la difesa abbia rinunciato, in sede di impugnativa, a
+chiedere nuovamente l'audizione del signor __________ del __________.
+6.
+__________ chiede, da ultimo, che
+sia eretta una perizia sull'agire del notaio. La richiesta appare anche in
+questo caso piuttosto generica e già per questo motivo andrebbe respinta. Va
+osservato come il notaio avv. __________ è stato sentito dal magistrato ed ha
+espresso i motivi del suo agire argomentando i motivi per i quali egli ha
+rogato l'atto senza disporre delle CI in II e III rango. L'atto è stato
+iscritto senza obiezione da parte dell'Ufficiale UR competente.
+Per quel che attiene specificatamente la perizia va
+osservato come tra le prove a disposizione delle autorità inquirenti e
+giudicanti vi è il ricorso all'esperto ogniqualvolta occorra stabilire fatti e
+circostanze all'accertamento dei quali siano indispensabili speciali cognizioni
+(art. 142 ss. CPP). Al magistrato competente è riservata di principio ampia
+facoltà nella scelta delle prove e quindi anche in tema di referto peritale,
+ritenuta comunque e sempre perlomeno apparenza d'utilità e pertinenza in
+connessione con la fattispecie inquisita, secondo le imputazioni e le
+conclusioni di competenza del giudice penale, nel rispetto dei diritti delle
+parti. Inoltre ed in più, per giustificare il ricorso al perito occorre
+congiuntamente, per riprendere con altre parole il testo di legge, che
+determinati fatti non siano ancora chiariti o chiaribili attraverso altri mezzi
+di prova e che il magistrato non abbia le specifiche conoscenze professionali
+per giungere a tale necessario chiarimento (cfr. decisione 24 luglio 1998 in re
+M.H.G., inc. GIAR 649.96.2, p. 3, con rinvio a decisione 9 settembre 1993 in re
+A.A., GIAR 209.93.3).
+Ora, nel caso dell'agire di un
+notaio, va ritenuto un esame giuridico del comportamento di questi che il
+magistrato inquirente - giurista - è certamente in grado di fare. I fatti,
+ossia il comportamento del notaio, appaiono sufficientemente chiariti
+attraverso l'audizione dello stesso, l'acquisizione dell'atto e dell'intero
+dossier relativo alla compravendita nonché mediante l'audizione delle parti.
+Una perizia non potrebbe apportare alcuna nuova conoscenza. L'agire del notaio
+sarà valutato dal giudice del merito, se vi sarà un atto d'accusa o decreto
+d'accusa con opposizione a carico dell'accusato, nell'ambito della valutazione
+dell'esame dell'inganno astuto che il PP imputa a
+__________. Va evidenziato, da un
+lato, come l'atto di compravendita sia stato accettato dal responsabile dell'UR
+e
+come l'agire del notaio si situi
+nell'ambito del rapporto di fiducia esistente tra le parti nell'ottica delle
+promesse dell'accusato. La prova peritale offerta appare quindi priva dei suoi
+precipui presupposti, non appare rilevante e pertinente e va quindi respinta.
+7.
+Alla luce di quanto precede il
+gravame va respinto con la presente decisione definitiva. Si giustifica il
+carico della tassa di giustizia fissata in CHF 200.- e delle spese, cifrate in
+CHF 50.-, alla parte soccombente che rifonderà alle parti civili __________ e
+__________, l'importo di CHF 300.-.
+P.q.m. visti gli artt. 280 e segg. e gli artt. 196 e segg.
+CCP,
+decide:
+1.
+Il reclamo 18 maggio 2000 formulato da __________, è
+respinto
+.
+2.
+La tassa di giustizia, fissata in CHF 200.- e le spese, cifrate in CHF
+50.-, vengono poste a carico del reclamante che rifonderà alle parti civili, a
+titolo di ripetibili, l'importo di CHF 300.-.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione a __________, tramite il patrocinatore avv. __________, alla
+parte civile coniugi __________, tramite l'avv. dott. __________, ed al PP avv.
+__________, con gli atti di ritorno.
+giudice
+__________
