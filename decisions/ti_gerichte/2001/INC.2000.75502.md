@@ -1,0 +1,242 @@
+---
+decision_id: "ti_gerichte_INC.2000.75502"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.75502"
+decided: "2001-02-19"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59698&nX40_KEY=4711454&nTrefferzeile=16&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2000.75502
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 19.02.2001 INC.2000.75502
+Tessin Il Giudice dell'istruzione e dell'arresto 19.02.2001 INC.2000.75502
+Ticino Il Giudice dell'istruzione e dell'arresto 19.02.2001 INC.2000.75502
+
+Sentenza o decisione senza scheda
+
+N. 755.2000.2 L                                                         Lugano,
+19 febbraio 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 12 febbraio 2001 da
+_____________
+,            attualmente
+presso il Penitenziario cantonale
+(patrocinato
+dall'avv. __________)
+e qui trasmessa con preavviso
+negativo il 15/16 febbraio 2001 dalla
+Procuratrice pubblica
+dott.
+__________;
+viste le osservazioni odierne
+dell'accusato, che sostanzialmente si conferma in contenuti e conclusioni
+dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+_____________ è stato arrestato
+il 1. dicembre 2000, con contestuale promozione dell'accusa nei suoi confronti
+per titolo di ripetuto furto, ripetuta appropriazione indebita e violazione del
+segreto _____________.
+L'accusato era infatti sospettato
+di aver sottratto pacchi presso il Centro __________, dove dalla primavera
+precedente lavorava quale ausiliario. Nei primi verbali egli ha ammesso di aver
+prelevato a partire dal settembre 2000 una ventina di pacchi (con scelta di
+quelli che gli "
+parevano più opportuni, nel senso del valore economico
+",
+verbale di polizia del 1. dicembre 2000, ore 1335, annesso al rapporto di
+arresto, AI 3 dell'inc. MP __________/2000), consegnando poi la refurtiva per
+poco prezzo a tale __________ di Varese, personaggio rimasto nebuloso ("
+Non
+so fornire molti dettagli in merito alla persona di __________ e nemmeno
+dispongo di un recapito telefonico
+", verbale dinnanzi al magistrato
+inquirente del 1. dicembre 2000, ore 16.40, annesso al rapporto di inchiesta,
+AI 15/1). Nel seguito dell'istruttoria _____________ ha riconosciuto e
+descritto ventotto casi di abuso di pacchi postali contenenti orologi, gioielli
+e telefoni, del valore complessivo ricostruito di circa fr. 370 / 400'000.-,
+averi fatti poi avere a quel __________ con lucro asseritamente limitato a 15
+milioni di lire, avendo agito per difficoltà finanziarie (v. i verbali di
+conferma 21 dicembre 2000 e 9 febbraio 2001, dinnanzi alla magistrata
+inquirente).
+Avendo circolato con il proprio
+motoveicolo senza la corrispondente licenza di condurre, l'accusa è stata
+estesa ad infrazione alla legge sulla circolazione stradale (cfr. il citato verbale
+21 dicembre 2000.
+2.
+Considerato che la carcerazione
+preventiva dura da ormai circa due mesi e mezzo, la libertà provvisoria viene
+chiesta per l'esaurimento dei bisogni dell'istruttoria, grazie anche alle
+ammissioni delle proprie responsabilità da parte di _____________ ed in assenza
+di sospetti per altri coinvolgimenti: per la ricerca del tale __________,
+l'accusato ha fornito tutte le indicazioni in suo possesso, per cui non si ha
+influenza sulla carcerazione preventiva dalla mancata identificazione
+dell'acquirente della refurtiva. Non vi sono d'altra parte né pericolo di fuga
+né pericolo di recidiva, come già non ritenuti da questo giudice al momento
+della conferma dell'arresto.
+Descritta e avuta presente la
+gravità dei fatti e sottolineata la proporzionalità della corrente carcerazione
+preventiva, la Procuratrice pubblica ha formulato preavviso negativo per la
+sussistenza di pericolo di collusione, vuoi nell'ambito delle indagini per
+identificare quel __________ (a fronte delle incredibili circostanze propinate
+in proposito dall'accusato, in uno con l'altrettanto incredibile sproporzione
+tra il valore della refurtiva ed il ricavo), vuoi per chiarire altri casi di
+sottrazione di pacchi presso la __________, dei quali _____________ si è sin qui
+dichiarato estraneo. A ciò si aggiunge il pericolo di fuga, avendo l'accusato
+manifestato l'intenzione di trasferirsi in Italia.
+Le osservazioni di _____________
+a detto preavviso negativo ribadiscono nella sostanza quanto sostenuto nel
+postulare la libertà provvisoria, salvo ad ammettere datato mantenimento della
+carcerazione preventiva, per consentire ulteriori accertamenti deducibili da
+tabulati telefonici in vista dell'identificazione di __________. Comunque ed
+altrimenti non vi sono né pericolo di collusione né tanto meno pericolo di
+fuga, per l'assenza di legami con l'Italia e per la concreta possibilità di
+lavorare nel servizio ricambi di __________ (come documentato con l'istanza).
+3.
+L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali - per quanto qui concerne - i bisogni dell'istruzione,
+intesi quale pericolo di collusione, ed eventualmente il pericolo fuga
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128).
+4.
+Sufficienti presupposti di legge,
+come anche esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di _____________ a legittimare e
+giustificare il perdurare della cautelare privazione della sua libertà, sino al
+dibattimento processuale.
+4.1
+Non sono posti in dubbio i
+concorrenti gravi e concreti indizi di colpevolezza, che in sostanza poggiano
+sulle ammissioni dell'accusato istante, per cui basta riferirsi in proposito a
+quanto riassunto in entrata.
+Giova in ogni modo sottolineare
+l'importante responsabilità dell'accusato, per la ripetizione di sottrazioni di
+notevoli valori nella sua attività di funzionario postale in particolare
+rapporto di fiducia con datore di lavoro ed utenza.
+4.2
+Contrariamente a quanto sostenuto
+nell'istanza ed ancora nelle osservazioni al preavviso negativo, si ha che
+_____________ è stato solo parzialmente collaborante. Pur tralasciando i
+sospetti di altre malversazioni del genere (guarda caso, lui arrestato,
+ammanchi di pacchi postali presso l'ufficio di _____________ non si sono più
+verificati, come fattogli presente nel verbale 11 gennaio 2001, pag. 2,
+allegato 10 al rapporto di polizia AI 15, … a meno che altri disonesti colleghi
+siano stati trattenuti proprio dalle indagini contro _____________), non
+convincono assolutamente i riferimenti al fantomatico _____________, la
+casualità della conoscenza, le modalità degli incontri e soprattutto il vil
+prezzo di cessione. A quest'ultimo proposito va ricordato che l'accusato assume
+di aver così delinquito per assillanti problemi finanziari (verbale 8 dicembre
+2000, pag. 1, allegato 6 come sopra), ma poi custodisce in casa 14 milioni di
+lire, che costituirebbero l'intero suo ricavo con un altro milione, unico
+importo usato per pagare fatture e l'affitto dell'appartamento (verbale 5
+dicembre 2000, pag. 4, allegato 4 come sopra).
+Le indagini non sono ancora completate,
+sia per la necessità di identificare quel __________, sia per l'opportuno
+chiarimento degli altri denunciati ammanchi di pacchi, come indicato a pag. 9
+del citato rapporto di polizia e come ripreso nelle osservazioni della
+Procuratrice pubblica. Ne deriva evidente pericolo di collusione, avuto anche
+presente il descritto poco limpido racconto dell'accusato, segnatamente sui
+suoi rapporti con __________.
+4.3
+Per quanto concerne il pericolo
+di fuga, si ricorda che i criteri determinanti per stabilire se questo
+presupposto sia dato o meno sono il carattere del prevenuto, il suo domicilio,
+la sua professione, la sua situazione famigliare e i suoi legami con lo Stato
+in cui egli é inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in re S.C.
+del Tribunale federale; sentenza 20 ottobre 1994 in re M.A., CRP 314/94).
+L'apprezzamento di tutte le circostanze, per invocare appunto un rischio di
+fuga, deve lasciar presumere che le conseguenze di una fuga
+appaiano per l’accusato come un male minore rispetto a quello derivante per lui
+dall'ulteriore carcerazione, con maggior forza quanto più i reati imputati
+comportino pene edittali od eventualità di pena concreta importanti (in questo
+senso Mario
+Luvini
+; in REP 1989,
+pag. 292, con i riferimenti ivi indicati; sentenza
+14 novembre 1994 in
+re S.V., CRP 341/94).
+Anche se questo presupposto non
+venne evocato nel contesto della conferma dell'arresto, è sempre possibile
+esaminarne la ricorrenza, a dipendenza di successive emergenze istruttorie. E
+nel presente caso - sia pure quale elemento abbondanziale - lo fanno concreto
+l'esternata intenzione di riparare in Italia (cfr. la segnalazione 12 febbraio
+2001 della Pubblica Sicurezza) e soprattutto la sicura connivenza con
+ricettatori, coperti in modo maldestro e con accenni incredibili, come già
+rilevato.
+5.
+Il carcere preventivo sin qui sofferto e
+ipotizzabile sino al deferimento al giudice del merito, in un procedimento che
+risulta essere condotto con coerente sollecitudine nonostante l’atteggiamento
+non pienamente collaborante dell’accusato, è pienamente rispettoso del
+principio di proporzionalità, tenuto anche conto del complesso dei fatti da
+accertare.
+La possibilità di riprendere un'attività
+lavorativa deve per il momento lasciare il passo alle esigenze del procedimento
+penale: d'altro canto neppure ha connotazioni di sicurezza ("
+collaboratore
+indipendente
+" è detto nella dichiarazione di intenti prodotta con
+l'istanza) e l'offerente __________ sarebbe cognato di _____________ e amico di
+"
+persone poco pulite
+" (cfr. verbale 21 dicembre 2000
+dell'accusato dinnanzi alla segretaria giudiziaria).
+6.
+L’istanza è così respinta con la presente
+decisione, esente da tassa e spese giudiziarie (art. 39 lett. f TG e contrario)
+e suscettibile di impugnazione alla Camera dei ricorsi penali (art. 284 cpv. 1
+lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-    avv. __________, per sé e per l’istante;
+-    Procuratrice pubblica dott. __________ (con copia delle
+osservazioni dell’istante e con gli atti dell’incarto MP __________ di
+ritorno).
+giudice
+__________
