@@ -1,0 +1,77 @@
+---
+decision_id: "ti_gerichte_INC.1999.41004"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.41004"
+decided: "2000-04-12"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56938&nX40_KEY=4711471&nTrefferzeile=76&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.1999.41004
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 12.04.2000 INC.1999.41004
+Tessin Il Giudice dell'istruzione e dell'arresto 12.04.2000 INC.1999.41004
+Ticino Il Giudice dell'istruzione e dell'arresto 12.04.2000 INC.1999.41004
+
+Sentenza o decisione senza scheda
+
+N. 410.99.4 M                                                             Lugano,
+12 aprile 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per
+statuire sull’istanza inoltrata in data 27/28 marzo 2000 dal
+Procuratore Pubblico
+avv.
+__________
+intesa ad
+ottenere la proroga di un mese, ovvero sino al 15 maggio 2000, del carcere
+preventivo cui è astretta
+__________
+,
+attualmente detenuta presso il PCT, Cadro
+(difesa di fiducia dall’avv. __________)
+nel
+procedimento penale a suo carico per titolo di infrazione aggravata alla
+LFStup.;
+lette le
+osservazioni 5/6 aprile 2000 dell’accusata, che per il tramite del proprio
+difensore si oppone alla proroga richiesta;
+preso atto
+dello scritto 10 aprile dell’accusata, che tramite il proprio difensore
+dichiara di acconsentire all’immediata chiusura dell’istruttoria formale senza
+un ulteriore deposito degli atti acquisiti in evasione dei complementi
+istruttori da lei proposti;
+vista la
+decisione 12 aprile 2000 di chiusura dell’istruttoria formale, a seguito della
+quale il carcere preventivo è automaticamente prorogato per un massimo di
+trenta giorni per la stesura dell’atto d’accusa;
+visti gli
+artt. 102 cpv. 3 e 198 cpv. 1 combin., nonché 279 ss. e 284 CPP
+d e c i d e :
+1.
+L’istanza
+di proroga 27/28 marzo 2000 del carcere preventivo cui è astretta __________ è
+stralciata dai ruoli siccome divenuta priva d’oggetto.
+2.
+Non
+si prelevano tassa né spese giudiziarie. Non vengono assegnate ripetibili.
+3.
+Contro
+la presente decisione è dato il rimedio del ricorso alla Camera dei ricorsi
+penali del Tribunale di appello entro 10 (dieci) giorni dall'intimazione.
+4.
+Intimazione:
+-    avv. __________, per sé e per l’accusata;
+-    Procuratore Pubblico avv. __________.
+giudice __________
