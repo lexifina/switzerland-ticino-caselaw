@@ -1,0 +1,532 @@
+---
+decision_id: "ti_gerichte_INC.2000.56502"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.56502"
+decided: "2001-09-18"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=92813&nX40_KEY=4711441&nTrefferzeile=85&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/311.0/art-158.md", "switzerland/bund/acts/312.0/art-060.md", "switzerland/bund/acts/312.0/art-178.md", "switzerland/bund/acts/312.0/art-184.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2000.56502
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 18.09.2001 INC.2000.56502
+Tessin Il Giudice dell'istruzione e dell'arresto 18.09.2001 INC.2000.56502
+Ticino Il Giudice dell'istruzione e dell'arresto 18.09.2001 INC.2000.56502
+
+Sentenza o decisione senza scheda
+
+N. 565.2000.2                                                            Lugano,
+18 settembre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Edy Meli
+Sedente per statuire sul reclamo 22/27 dicembre presentato
+da
+__________
+(rappr. dall'avv. __________)
+contro le decisioni 15 dicembre
+2000 e 19 dicembre 2000 in materia di assunzione di prove, emanate dal
+Procuratore Pubblico Emanuele Stauffer, nell'ambito del procedimento penale di
+cui all'inc. MP __________;
+viste le osservazioni (28/29
+dicembre 2000) del magistrato inquirente;
+visti gli atti del procedimento;
+ritenuto
+in fatto:
+A.
+A seguito di una segnalazione da
+parte del __________ (5/6 settembre 2000), il Ministero pubblico di Lugano ha
+avviato un procedimento penale nei confronti di __________ e, il 14 settembre
+2000, è stato emanato un ordine d'arresto per le ipotesi di reato di
+appropriazione indebita, truffa e falsità in documenti "
+in relazione
+alla gestione di alcuni conti di clienti aperti presso il __________ di __________,
+istituto presso il quale era funzionario
+" (cfr. ODA __________).
+L'arresto è stato eseguito il 15
+settembre (e confermato dal GIAR il 16 settembre 2000).
+In sede di richiesta di conferma
+d'arresto vi è stata estensione dell'accusa all'ipotesi di riciclaggio di
+denaro.
+B.
+Sostanzialmente __________ è
+accusato di avere coinvolto (in parte a loro insaputa - cfr. segnalazione
+5.09.2000) alcuni clienti del __________ di __________, in un investimento
+relativo al finanziamento di un progetto per l'ingegnerizzazione di un brevetto
+(denominato "
+progetto cassetta postale a timbratura automatizzata
+").
+La segnalazione parla di dodici clienti coinvolti.
+Lo sviluppo dell'inchiesta si
+desume (per quanto qui necessario) dall'elenco atti dell'incarto e dai vari
+interrogatori effettuati dal magistrato inquirente (atti istruttori doc. da A/1
+ad A/20).
+C.
+Con scritto di data 29 settembre
+2000, il difensore di __________ ha chiesto, al magistrato inquirente, di poter
+partecipare agli interrogatori dei clienti __________ (con particolare riferimento
+a quelli che non avrebbero mai autorizzato l'agire di __________ oggetto della
+segnalazione), che i testi siano (da subito) messi a confronto con __________ e
+di poter ricevere copia dei verbali di quelli già sentiti.
+Con decisione del 2 ottobre 2000
+il Procuratore ha respinto le richieste, ritenute estemporanee. La decisione
+non è stata impugnata.
+D.
+Il 16 ottobre 2000 __________ è
+stato scarcerato.
+Con istanza del 14 dicembre 2000
+la difesa di __________ ha chiesto al Procuratore pubblico di:
+-
+acquisire dati sugli eventuali risarcimenti operati dalla banca;
+-
+acquisire i formulari "risk disclosure" per quei
+clienti che l'hanno sottoscritto;
+-
+acquisire gli estratti conto dettagliati relativi agli ultimi 3
+anni per quei clienti (e ne vengono indicati 5) che affermano di aver sempre
+effettuato/richiesto una gestione tranquilla.
+Con decisione del 15 dicembre
+2000 il magistrato inquirente, dopo aver precisato che le accuse si riferiscono
+agli averi patrimoniali di tre clienti (__________, __________, __________), ha
+accolto alcune delle richieste presentate e respinto quella di acquisire gli
+estratti conto degli ultimi tre anni "
+in quanto ininfluente ai fini
+dell'investimento alternativo nella cassetta postale
+".
+Ancora, il 18 dicembre 2000, la
+difesa di __________ ha ribadito la richiesta di acquisire gli estratti conto e
+formulato ulteriore istanza di assunzione di prova, segnatamente la citazione
+della signora __________ (in quanto persona che ha investito la somma più
+importante nel progetto "
+cassetta postale
+") per un
+contraddittorio con l'accusato.
+Con scritto del 19 dicembre 2001,
+il magistrato inquirente ha confermato la decisione del 15 dicembre, per ciò
+che concerne la documentazione, e rifiutato di nuovamente citare la teste (e
+parte lesa). A suo dire, non vi sono sostanziali divergenze tra le affermazione
+della teste e quelle dell'accusato.
+E.
+Mediante il reclamo qui in esame,
+__________ chiede che le decisioni 15 e 19 dicembre 2000 vengano annullate, che
+venga ordinata, al __________, la produzione della documentazione richiesta e,
+al Procuratore pubblico, la citazione della signora __________ per un
+contraddittorio.
+Dopo aver brevemente ripercorso
+le tappe del procedimento, il reclamante afferma che le accuse di riciclaggio,
+truffa, falsità in documenti e appropriazione indebita sono state abbandonate
+dal Procuratore pubblico. A suo dire, al momento attuale, l'unica accusa ancora
+"pendente" è quella di amministrazione infedele nei confronti di tre
+clienti del __________. Conseguentemente, e nell'ottica di una decisione in
+relazione all'ipotesi di reato menzionata, é rilevante verificare, sulla base
+della documentazione indicata, la tipologia del mandato conferito dai clienti
+in questione ad __________.
+Il contraddittorio con la signora
+__________, sempre a dire del reclamante personaggio chiave del procedimento,
+si giustifica alla luce delle divergenze, tra il verbale 15.09.2000
+dell'accusato ed il verbale 27.09.2000 della teste, circa le informazioni date
+(risp. ricevute) in relazione al progetto "
+cassetta postale
+".
+Da ultimo, e ad ulteriore
+sostegno della richiesta di citare la teste, il reclamante sottolinea il fatto
+di non aver, finora, potuto partecipare agli interrogatori dei testimoni.
+F.
+Con le sue osservazioni il
+magistrato inquirente chiede che il reclamo venga respinto.
+A giudizio del procuratore
+pubblico, il carattere d'investimento alternativo (cioé al di fuori degli
+investimenti bancari - cfr. oss. 28 dicembre 2000, p.1) del progetto "
+cassetta
+postale
+", rende inutile il paragone con la gestione degli ultimi tre
+anni. Inoltre, sempre secondo il magistrato, l'accusato ha agito all'insaputa
+dei clienti, perlomeno per quanto concerne il "
+valore di mercato
+dell'investimento
+".
+In merito ad un nuovo
+interrogatorio della signora __________ il magistrato ribadisce, con
+riferimento al verbale __________ del 6.10.2000, che le versioni non sono
+discordanti.
+Delle eventuali ulteriori argomentazioni del reclamante e
+del Procuratore pubblico, si dirà se del caso in seguito.
+Considerato
+in diritto:
+1.
+Il reclamo, presentato da persona
+legittimata, è tempestivo in relazione ad entrambe le decisioni: risulta essere
+stato consegnato alla posta il 22 dicembre 2000.
+Il fatto che contraddittori e
+confronti con i testi fossero già stati richiesti in precedenza, e che il
+rifiuto non sia stato impugnato, non rende improponibile la (ora limitata)
+richiesta, già per il fatto che le motivazioni (sia della richiesta che del
+rifiuto) sono diverse. In settembre, la difesa invocava il diritto al contraddittorio
+(in generale quale principio procedurale sancito dal CPP) ed il Procuratore
+opponeva necessità istruttorie (segnatamente il principio dell'immediatezza);
+attualmente, la difesa invoca divergenze tra le versioni fornite ed il
+magistrato le nega.
+Abbondanzialmente, si segnala che
+la situazione è diversa per la richiesta al Procuratore di rivedere la
+decisione negativa del 15 dicembre. In questo caso l'assenza di elementi nuovi
+(semplice perorazione), non permette decorrenza di nuovo termine in caso di
+conferma della precedente decisione.
+Tuttavia, come detto più sopra,
+il reclamo è tempestivo anche per rapporto alla decisione del 15 dicembre.
+2.
+Le prove in discussione sono
+state proposte con riferimento implicito all'art. 60 cpv. 1 CPP, che consacra
+la facoltà per la difesa di proporne in ogni tempo nel corso delle indagini di
+pertinenza del magistrato inquirente. Di massima, il Procuratore pubblico è
+tenuto a pronunciarsi in merito solo a conclusione dell’istruzione formale nel
+contesto di quanto disposto dall’art. 196 CPP (v. Messaggio aggiuntivo
+concernente la revisione totale del Codice di procedura penale del 20 marzo
+1991, pag. 81, ad art. 58 ter risp. 61 bis del disegno di legge, per il rinvio
+del commento all’art. 58 quinquies risp. 61 quater del disegno di legge e
+all’art. 63 ter risp. 69 del disegno di legge: cfr. decisione 9 giugno 1995 in
+re F.M., GIAR 1093.93.10, e riferimenti), ma in presenza di anticipata
+decisione del magistrato inquirente è dato reclamo nelle vie ordinarie stabilite
+dagli art. 280 ss. CPP, ritenuto tuttavia che non potranno poi più trovare
+udienza in sede di deposito degli atti a norma del citato art. 196 cpv. 1 CPP
+complementi di prova in precedenza decisi e definitivamente respinti, per
+quanto concerneva necessità e contenuti dell’inchiesta (cfr. sentenze 15 luglio
+1991 in re F.B., CRP 144/91, e 7
+ottobre 1991 in re F.M., CRP 210/91; decisione 3 novembre 1993 in re G.G., GIAR
+862.93.1), fatte beninteso salve nuove emergenze (v. decisione 17 agosto 1994
+in re A.A., GIAR 209.94.12).
+I principi sulla base dei quali
+si deve determinare se la prova debba essere assunta, sono identici sia che la
+decisione avvenga in corso d'istruttoria o alla conclusione della stessa (e nel
+termine del deposito degli atti).
+"Per
+meritare di essere assunte, le prove proposte dalle parti contestualmente al
+deposito atti (art. 196 CPP), o in altro momento dell’istruttoria (artt. 60
+cpv. 1 e 79 cpv. 1 CPP), devono rispettare tre concorrenti ordini di
+considerazione: esse devono essere motivate per quanto attiene al loro oggetto
+ed al loro scopo in diretta connessione con la fattispecie inquisita; tali
+mezzi di prova devono avere i requisiti della novità, della rilevanza e della
+pertinenza alle successive conclusioni di competenza del Procuratore Pubblico,
+dapprima per decidere se promuovere l’accusa oppure non far luogo al
+procedimento e poi (dopo conclusione dell’istruzione formale) se decretare
+messa in stato d'accusa o abbandono, sino se del caso a quelle del giudice di
+merito; per quest’ultima evenienza, le stesse prove devono essere di difficile
+produzione al dibattimento, avute presenti le finalità dell’art. 189 CPP,
+inteso appunto tra l’altro ad assicurarne la non interrotta assunzione (v.
+sentenza 24 gennaio 1990, inc. CRP 337/89; v. decisioni 17 febbraio 1993 in re
+L.P., inc. GIAR 135.93.1; 3 novembre 1993 in re G.G., inc. GIAR 862.93.1, e 14
+giugno 1995 in re F.M., inc. GIAR 1093.93.5). Se, in particolare per
+l’accusato, la facoltà di proporre mezzi di prova è espressione del diritto di
+essere sentito ai sensi dell’art. 4 Cost. fed. (ora, art. 8 cpv. 1 della nuova
+Cost. fed.; v., da ultimo, DTF 124 I 49, consid. 3a p. 51; DTF 121 I 306,
+consid. 1b p. 308) e del “fair trial” ai sensi dell’art. 6 CEDU (v.
+Frowein/Peukert, EMRK-Kommentar, 2. Aufl. Kehl/Strassburg/ Arlington 1996, nota
+99 ad art. 6 CEDU), il giudice del merito (ed il magistrato inquirente) è
+tenuto, in applicazione delle norme procedurali corrispondenti, a considerare
+rispettivamente ammettere soltanto quei mezzi di
+prova che “nach seinem
+richterlichen Ermessen entscheidungserheblich sind” (Frowein/Peukert, loc. cit.
+p. 231). Con riferimento specifico all’audizione di testi, il magistrato può
+rifiutare la prova proposta “wenn er die zu erwartende Antwort bzw. Aussage nach
+seiner freien Ermessensentscheidung für die Wahrheitsfindung nicht für
+beachtlich hält” (Frowein/Peukert, loc. cit., nota 202 ad art. 6 CEDU, con
+rinvii), nelle parole di Niklaus Schmid (Strafprozessrecht, 3. Aufl. Zürich
+1997, margin. 270, con rinvii a DTF 103 Ia 491 et al. in nota 321) “wenn sie
+den rechtlich relevanten Sachverhalt als genügend geklärt erachten”. Di
+conseguenza, non è data violazione dell’art. 6 CEDU se il giudice del merito
+rifiuta un mezzo di prova dopo averne esaminato la pertinenza (v.
+Frowein/Peukert, loc. cit., nota 203 ad art. 6 CEDU, con rinvio al noto caso
+Vidal; come qui, v. decisione 17 giugno 1998 in re F.F., inc. GIAR 55.98.1
+consid. 1).Non va, inoltre, dimenticato che la fase in cui si colloca la
+presente discussione del complemento probatorio in questione è quella
+dell’istruttoria
+predibattimentale,
+finalizzata in primo luogo a permettere alla pubblica accusa
+di determinarsi sulle questioni se promuovere l’accusa o meno, indi se deferire
+l’accusato alla Corte competente oppure se pronunciare l’abbandono del
+procedimento (art. 184 cpv. 1 CPP, rispettivamente artt. 196 cpv. 1 e 198 cpv.
+1 CPP combinati). Per costante dottrina e giurisprudenza, invece, l’eventuale
+utilità o opportunità della prova proposta nell’ottica del giudice del merito è
+elemento a favore della sua assunzione già nella fase predibattimentale
+unicamente qualora l’amministrazione di tale prova in sede dibattimentale sia
+impossibile, o vi sia concreto rischio che lo diventi." (GIAR 21 giugno
+2001 in re
+C.)
+3.
+Prima di determinare se, nel caso
+concreto, le prove proposte dal reclamante rispondano ai requisiti menzionati
+occorre constatare quanto segue.
+Il reclamante afferma,
+praticamente a titolo preliminare, che "
+A seguito dell'istruttoria il
+Procuratore ha abbandonato le accuse di riciclaggio, truffa, falsità in
+documenti, appropriazione indebita, ritenendo invece che per tre clienti sia
+stato consumato il reato di amministrazione infedel
+e" (cfr. reclamo
+punto 4).
+Questa affermazione non
+corrisponde a quanto emerge dall'incarto penale.
+Nei confronti di __________ è
+stata promossa l'accusa per truffa, falsità in documenti, appropriazione
+indebita e riciclaggio di denaro. Queste accuse non sono state oggetto di una
+decisione di abbandono e, quindi, sono tutt'ora in essere (perlomeno
+formalmente).
+Di contro, non risulta una
+formale promozione d'accusa per l'ipotesi di reato di amministrazione infedele.
+Al termine del verbale reso da __________
+in data 27 novembre 2000 davanti al segretario giudiziario del Ministero
+Pubblico, l'ipotesi di amministrazione infedele è stata formulata (da
+quest'ultimo) con riferimento all'art. 207a CPP. Questo riferimento, vista
+l'assenza di formale promozione d'accusa (che peraltro non rientra nelle
+competenze del segretario giudiziario - cfr. artt. 2 cpv. 2, 178 e 194 CPP),
+non può che essere ricondotto al cpv. 1 lettera a) del citato articolo.
+Ne consegue che, per l'ipotesi
+d'amministrazione infedele, il procedimento nei confronti di __________ è
+(ancora) allo stadio delle informazioni preliminari.
+Quest'ufficio ha già avuto modo
+di precisare che la distinzione tra ruolo e diritti dell'accusato (persona
+oggetto di un'istruttoria formale) e dell'indiziato (persona oggetto
+d'informazioni preliminari) deve essere relativizzata già per il solo fatto che
+non è possibile (ma neppure opportuno, a volte nello stesso interesse
+dell'indagato) limitare in modo preciso nel tempo l'assunzione di informazioni
+preliminari, il cui scopo è (e rimane anche con la modifica legislativa che ha
+introdotto l'art. 207a) quello di "decidere se sia il caso di promuovere
+l'accusa" (cfr. art. 178 CPP; REP 1995 no.92). Questa relativizzazione
+discende dal fatto che se non sempre è opportuno aprire immediatamente
+l'istruttoria, occorre
+comunque che il perdurare delle
+informazioni preliminari non costituisca, di fatto, annullamento dei diritti
+del potenziale accusato (sul problema si veda M. Postizzi, Il difensore
+ticinese durante l'istruzione formale, in REP 1994, p. 84 ss., in particolare
+p.108).
+Quando le informazioni
+preliminari assumono le caratteristiche di fatto di un'istruttoria formale,
+anche all'indagato debbono essere riconosciuti i diritti conferiti
+all'accusato.
+Anche la CRP ha già avuto modo di
+affermare che:
+"
+In via
+giurisprudenziale, viene considerata "accusata" ogni persona
+sospettata di aver commesso un reato, oggetto di indagini, con importanti
+ripercussioni sulla sua situazione o sulla sua sfera personale. In tal caso il
+diritto di difesa, segnatamente quello di farsi rappresentare o assistere da un
+difensore, viene riconosciuto, in via anticipata, già nel corso delle
+informazioni preliminari
+." (REP 1999 p.349).
+Nella presente fattispecie, non è
+necessario esprimersi sugli effetti della riforma parziale del CPP, che ha
+introdotto l'art. 207a (cfr. messaggio CdS no 4764 del 10 giugno 1998, Legge
+8.10.1998 con effetto all'1.01.1999, BU 98, 424), ed in particolare se la
+stessa abbia un qualche effetto (ed eventualmente quale) sui principi sopra
+esposti in merito all'assunzione di prove nell'ambito d'informazioni
+preliminari (e relative richieste).
+Da un lato il procedimento contro
+__________ ha tutte le caratteristiche dell'istruttoria formale, dall'altro (e
+soprattutto) il magistrato inquirente è entrato nel merito delle richieste
+presentate con gli scritti di data 14 e18 dicembre 2000.
+Occorre pertanto vagliare
+l'utilità delle prove richieste in virtù dei principi espressi al punto 2 della
+presente, pur senza dimenticare che le decisioni che il magistrato inquirente
+dovrà assumere sono formalmente diverse a dipendenza dell'ipotesi di reato
+considerata.
+4.
+4.1.
+La richiesta d'acquisizione degli
+estratti bancari dettagliati relativi ai clienti del __________ __________, __________
+e __________ è motivata, dal reclamante, con la necessità di determinare il
+"
+tipo di mandato di amministrazione conferito al signor __________
+".
+Per fare ciò, sarebbe necessario "
+confrontare nel passato con quale
+genere d'investimenti queste persone si confrontavano
+". Questo in
+quanto, sempre secondo il reclamante, la violazione degli obblighi derivanti
+dal mandato è uno degli elementi costitutivi del reato di amministrazione
+infedele (cfr. reclamo punto 7; si veda anche, per maggiore chiarezza, il
+considerando 3 della presente decisione).
+Insomma, la determinazione di una
+violazione degli obblighi che derivano dal mandato non può prescindere, a mente
+del reclamante, dalla determinazione del contenuto del mandato stesso.
+Nella segnalazione del __________,
+__________ è definito quale "
+consulente
+", quindi non dovrebbe
+avere (né è stato affermato che egli abbia), per rapporto alle relazioni dei
+clienti, alcun mandato formale di gestione. Tuttavia, è fatto notorio che
+alcuni clienti di istituti di credito conferiscono al consulente un mandato sui
+generis (denominato, nell'ambiente bancario, fai da te) per la gestione dei
+loro averi, accordandosi, per esempio, a che questi dia ordini per determinate
+operazioni utilizzando la sottoscrizione del formulario relativo agli ordini
+telefonici, ratificando a posteriori decisioni del consulente o, anche,
+firmando ordini in bianco (si veda inoltre: verbale __________ 6 ottobre 2000,
+p.2).
+Correttamente, il reclamante
+precisa che l'esistenza di un mandato di gestione (senza dimenticare la
+gestione d'affari senza mandato- cfr. 158 cifra 1 cpv. 2) e la violazione degli
+obblighi che ne derivano, sono elementi costitutivi del reato di
+amministrazione infedele (DTF 120 IV 190; DTF 118 IV 244; DTF 81 IV 276).
+Pertanto, la determinazione del
+contenuto (e/o estensione) del mandato di gestione è certamente rilevante, non
+solo ai fini dell'eventuale decisione del giudice del merito ma anche per
+quelle che sono le decisioni di competenza del procuratore pubblico ai sensi
+degli artt. 184 cpv.1, 184 cpv.2 o 198 in relazione con 207a cpv.1 CPP.
+Nel caso specifico non si vede
+come si possa determinare l'esistenza di un mandato di gestione, e relativo
+contenuto, se non empiricamente sulla base della effettiva gestione (e concrete
+modalità) precedente la (o le) operazione oggetto di indagine, quindi mediante
+gli estratti completi delle relazioni, per un certo periodo di tempo.
+Manifestamente, le sole dichiarazioni delle parti coinvolte non sono
+sufficienti.
+Il Procuratore pubblico sostiene
+ininfluenza della documentazione richiesta, causa il carattere alternativo, non
+usuale ed a rischio, dell'investimento nel progetto "cassetta
+postale". A prima vista queste affermazioni possono anche apparire
+condivisibili (lo stesso __________ aveva degli interessi "personali"
+per rapporto all'investimento in questione - cfr. verbale 15 settembre 2000
+p.1).
+Tuttavia, un investimento può
+essere definito alternativo, o non usuale, solo per rapporto ad un altro (o,
+meglio, ad altri). Nella concreta fattispecie, gli investimenti usuali dei tre
+clienti menzionati non emergono in modo oggettivo dall'incarto. Anche per il
+concetto di investimento a rischio si deve giungere alla stessa conclusione.
+La richiesta di acquisire gli
+estratti completi delle relazioni __________, __________ e __________, è
+pertanto giustificata nell'ottica di una promozione d'accusa, o di un decreto,
+per il reato d'amministrazione infedele.
+Il magistrato inquirente dovrà,
+quindi, provvedere (nelle modalità che riterrà opportune) all'acquisizione
+della documentazione richiesta, ma unicamente qualora intenda estendere
+l'accusa al reato di cui all'art. 158 CP o emanare un decreto d'accusa per quel
+titolo di reato.
+Per chiarire le altre ipotesi di
+reato, quelle oggetto di formale promozione d'accusa, la documentazione in
+questione (quantomeno nelle dimensioni della richiesta) non appare (prima
+facie) determinante. Soprattutto, l'istanza al Procuratore, ed il reclamo, sono
+privi di motivazione in relazione alle accuse in questione che, a torto, il
+reclamante ha considerato abbandonate.
+E' implicito in questa
+conclusione che non è compito del GIAR occuparsi direttamente dell'acquisizione
+delle prove come chiede il reclamante al punto 2 del petitum.
+4.2.
+Diversa è la conclusione per
+quanto concerne la richiesta di ulteriore citazione della teste __________, in
+contraddittorio con l'accusato.
+Se è vero che il contraddittorio
+è un diritto (dell'accusato) la cui violazione può condurre
+all'inutilizzabilità di determinate prove, è altrettanto vero che tale diritto
+non deve, necessariamente, essere garantito durante la fase delle indagini
+preliminari o dell'istruttoria predibattimentale. E' sufficiente che il
+contraddittorio avvenga prima del giudizio di merito (DTF 116 Ia 289; DTF I
+127).
+Nel caso in esame l'accusato non ha
+impugnato, a suo tempo, la decisione che gli impediva di partecipare
+all'escussione dei testi. Inoltre, gli resta aperta la possibilità di chiedere
+che il contraddittorio sia garantito all'eventuale dibattimento.
+Nel caso specifico non è tanto il
+diritto al contraddittorio, in quanto tale, ad essere determinante per la
+decisione, bensì l'utilità della prova proposta per le successive decisioni di
+competenza del Procuratore pubblico.
+Per il reclamante vi sarebbe una
+rilevante divergenza tra le dichiarazioni dell'accusato e quelle della teste,
+per ciò che concerne le informazioni relative all'investimento "
+cassetta
+postale
+" (cfr. reclamo punto 8). __________, nel verbale del 15
+settembre 2000 avrebbe affermato di aver informato la signora __________,
+mentre la teste negherebbe questa circostanza.
+Il magistrato inquirente, invece,
+evidenzia che le dichiarazioni della teste __________ e quelle dell'accusato,
+se ci si riferisce al verbale di quest'ultimo del 6 ottobre 2000, non sono
+contrastanti come pretende il reclamante.
+Dal verbale del 15 settembre 2000
+emerge semplicemente una dichiarazione di carattere generale. Alla domanda
+volta a sapere se tutti i clienti erano al corrente dell'investimento nelle
+"
+cassette
+", l'accusato risponde: "
+ne avevo
+accennato ai clienti da me gestiti e che ne erano
+interessati. Si trattava di otto/nove clienti
+".
+Nel verbale del 6 ottobre 2000,
+dopo aver detto che la signora __________ "
+sapeva del progetto
+",
+a specifica domanda risponde che "
+non sapeva (la signora __________:
+n.d.r.) che l'importo suddetto era stato investito nel progetto
+".
+Pertanto la divergenza, sembra
+ridursi al fatto di averne parlato genericamente, come afferma __________,
+oppure neppure quello, come afferma la teste (verbale __________ 27 settembre
+2000 p.2).
+Questa divergenza non appare
+rilevante per le conclusioni del Procuratore pubblico per l'ipotesi di reato di
+cui all'art. 158 CP (anche la richiesta di contraddittorio è motivata
+unicamente in relazione a questa ipotesi di reato).
+Importante è l'esistenza e la
+determinazione del mandato. Non tanto il fatto di aver parlato, genericamente,
+di un certo tipo d'investimento poi effettuato senza accordo esplicito (e
+preventivo) da parte della cliente.
+Nello stesso verbale, poco dopo
+aver riconosciuto quanto riportato più sopra (ciò che, come già indicato,
+corrisponde nella sostanza a quanto detto dalla teste), il qui reclamante
+contesta "
+quanto dichiarato dalla signora __________ nel verbale del 27
+settembre 2000
+" (cfr. verbale __________ 6.10.2000 p. 4, capoverso 5).
+Tuttavia, appare ovvio che la contestazione non può che riferirsi ad altri
+fatti menzionati dalla teste, quali il volere "
+investimenti sicuri
+"
+e il non aver mai avuto cenno in merito all'esistenza (quindi anche alla
+possibilità) d'investimenti in "
+cassette postali
+". Ora, la
+prima "divergenza" potrà essere chiarita grazie all'acquisizione
+della documentazione di cui al punto 4.1 della presente decisione, la seconda
+non é, in sé, rilevante per le decisioni del Procuratore pubblico: il
+reclamante non ne fa menzione nelle sue osservazioni.
+Ritenuto che anche la richiesta
+di assumere questa prova é motivata unicamente per l'ipotesi di reato
+d'amministrazione infedele, non è necessario interrogarsi circa l'utilità di
+una sua acquisizione in sede predibattimentale in relazione alle accuse
+formalmente promosse (cfr. per analogia considerando 4.1, in fine).
+5.
+In conclusione il reclamo deve
+essere (parzialmente) accolto per ciò che concerne la richiesta d'acquisizione
+(da effettuarsi da parte del Procuratore pubblico) degli estratti completi
+delle relazioni presso il __________ riconducibili ai clienti __________, __________
+e __________, ma unicamente nell'eventualità che si estenda l'accusa, o si
+emani decreto d'accusa senza preventiva formale promozione, per l'ipotesi di
+reato d’amministrazione infedele. Per quanto concerne la richiesta di
+contraddittorio tra l'accusato e la teste __________, il reclamo è respinto.
+P.Q.M.
+Viste le norme applicabili ed in particolare gli artt. 158
+CPS, 57, 60, 62, 173, 178, 189, 207a, 280, 284 CPP, 32 CF, 6 cifra 3 lett. d)
+CEDU;
+decide:
+1.
+Il reclamo è parzialmente accolto, ai sensi
+dei considerandi.
+2.
+La
+tassa di giustizia fissata in FR. 400.--, è a carico del reclamante nella
+misura di FR. 200.--, compensate le ripetibili.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+giudice
+Edy Meli
