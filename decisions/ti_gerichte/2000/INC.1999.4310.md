@@ -1,0 +1,326 @@
+---
+decision_id: "ti_gerichte_INC.1999.4310"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.4310"
+decided: "2000-03-08"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56913&nX40_KEY=4711473&nTrefferzeile=81&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-009.md", "switzerland/bund/acts/312.0/art-069.md", "switzerland/bund/acts/312.0/art-114.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-281.md"]
+---
+
+# TI Gerichte INC.1999.4310
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 08.03.2000 INC.1999.4310
+Tessin Il Giudice dell'istruzione e dell'arresto 08.03.2000 INC.1999.4310
+Ticino Il Giudice dell'istruzione e dell'arresto 08.03.2000 INC.1999.4310
+
+Sentenza o decisione senza scheda
+
+N. 43.99.10 L                                                              Lugano,
+8 marzo 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato il 17 febbraio 2000 da
+__________
+,                   __________, attualmente
+in carcere preventivo
+(patrocinato
+dall’avv. __________)
+contro la decisione 7 febbraio
+2000 del
+Procuratore pubblico
+avv. __________, che ha respinto
+complementi di prova nel procedimento pendente contro il reclamante per titolo
+di truffa e altri reati;
+viste le osservazioni 21 febbraio
+2000 del magistrato inquirente, 23 febbraio 2000 del __________, __________
+(patrocinato dall'avv. __________), 25 febbraio 2000 del titolare della
+relazione __________ (patrocinato dall'avv. __________), 1. marzo 2000 dei
+titolari dei conti __________ e altri (patrocinati dall'avv. __________), 2
+marzo 2000 del titolare della relazione __________ (patrocinato dall'avv.
+__________) e del titolare della relazione __________ (patrocinato dall'avv.
+__________), tutti postulanti la reiezione del reclamo;
+preso atto che altre parti al
+procedimento non hanno preso posizione nel termine all'uopo loro assegnato;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto:
+A.
+Nel procedimento pendente contro
+__________ per titolo di truffa, appropriazione indebita e amministrazione
+infedele, reati consumati secondo diversi ruoli con il figlio __________ e con
+__________ (fattispecie nota per altre decisioni prese in questa sede), il
+Procuratore pubblico - avendo ritenuto raggiunto lo scopo dell'istruzione
+formale - con decreto 19 gennaio 2000 (AI. 274 dell'inc. MP 7805) ha disposto
+il deposito degli atti per eventuale completazione dell'inchiesta ad opera
+delle parti, come vuole l'art. 196 CPP.
+B.
+Nel termine assegnato, il 3 febbraio
+2000 __________ ha chiesto a valere quale completazione dell'istruttoria:
+l'indicazione delle generalità e domicilio di tutte le persone verbalizzate o
+indicate negli atti con indicazione di comodo e analogamente per le parti lese
+o parti civili "
+che si sono annunciate
+"; la completazione, da
+parte del __________ degli elenchi dei clienti, con le generalità dei titolari
+rispettivamente degli aventi diritto economico; sempre da parte di questo
+istituto bancario, analoga produzione per quanto concerne le persone che hanno
+dato discarico e dei clienti con i quali sono stati conclusi accordi, con i
+relativi incarti; accertamenti circa gli investitori che hanno accettato azioni
+__________, in pagamento o a garanzia. Queste asserite prove derivano dalla costatazione
+di designazione con nomi di comodo o indicazione in codice dei rispettivi
+conti: e, se i correlativi accertamenti sono di competenza della Corte del
+merito, la difesa deve essere messa in grado di citare quelle persone al
+dibattimento.
+Da ultimo è stata avanzata la
+richiesta di traduzione della documentazione prodotta in lingua inglese, "
+almeno
+prima del dibattimento
+" e per quanto ritenuto essenziale dal
+Procuratore pubblico (non trattandosi in ogni modo di prova nel contesto
+dell'art. 196 CPP).
+La conseguente decisione 7
+febbraio 2000 del Procuratore pubblico evidenzia avantutto che l'istanza non
+poggia sui requisiti giurisprudenziali di applicazione dell'art. 196 CPP,
+peraltro alcune richieste già trovando risposta negli atti istruttori, altre apparendo
+di natura "
+amministrativa
+" ed altre concernendo rapporti
+estranei al procedimento tra __________ e suoi clienti. Di fatto tutti i nomi
+dei clienti coinvolti nelle indagini sono consegnati in busta chiusa, né in
+sede di confronti con taluni di loro sono state sollevate eccezioni dalla
+difesa: solo in un caso il nome del cliente non risulta acquisito, per cui la
+relativa documentazione sarà richiamata dal __________
+.
+L'accertamento sull'accettazione di azioni __________ non è
+motivata e comunque da un lato anche in questo caso le indicazioni del caso si
+trovano negli atti e dall'altro fu lo stesso accusato istante a proporre tali
+azioni quale garanzia o rimborso.
+Del pari è stata respinta la
+richiesta di produzione di accordi tra __________ e clienti, mentre detto
+istituto sarà invitato a produrre la totalità delle dichiarazioni di scarico.
+Infine, sempre secondo il magistrato inquirente, non vi sono problemi per la
+traduzione dei documenti che la difesa vorrà indicare.
+C.
+Il reclamo in oggetto ripropone
+l'assunzione dei mezzi di prova disattesi dal Procuratore pubblico e
+segnatamente l'indicazione delle generalità di testimoni, parti lese e parti
+civili e l'acquisizione completa degli elenchi dei clienti, degli accordi
+passati con il __________ e delle accettazioni di azioni __________. A suo dire
+la difesa ha ripetutamente censurato il mascheramento delle generalità a
+verbale, essendo irrilevante se comunque l'accusato ha potuto identificare dei
+clienti. Si tratta infatti di violazione di norme essenziali di procedura e
+particolarmente del diritto di essere sentito (occorrendo altresì garantire
+alla difesa la possibilità di citazione al dibattimento): la parte civile deve
+dimostrare la propria capacità processuale, come vuole l'art. 69 CPP, e quindi
+va designata con le proprie generalità e del pari i testimoni, a mente
+dell'art. 114 CPP. Infine per l'apprezzamento della colpa occorre chiarezza
+sull'ammontare del danno.
+Il Procuratore pubblico chiede
+l'integrale reiezione del reclamo ribadendo che le generalità di testimoni e di
+parti civili sono agli atti, neppure l'accusato per queste ultime menzionando
+quali sarebbero anonime. L'acquisizione di questi dati in busta chiusa è prassi
+corrente e consente di non lasciarne prendere visione a terzi senza interesse,
+mentre la richiesta dell'accusato appare tardiva e contraria alla buona fede
+processuale, in quanto non è mai stato limitato l'accesso agli atti e non vi è
+stata opposizione al mascheramento dei nomi, salvo in un'occasione per volontà
+del reclamante e del suo patrocinatore neppure verbalizzata. Gli elementi per
+la determinazione del danno sono agli atti e nel reclamo non si trova
+motivazione della richiesta finalizzata ad assunzione di complementi
+istruttori. Pure per quanto concerne l'accettazione di __________, da un lato
+vi sono agli atti le connesse indicazioni e dall'altro non vengono indicate le
+carenze documentali, il tutto riducendosi ad una richiesta di accertamento
+generale, e come tale appunto inammissibile.
+Anche tutte le controparti
+chiedono la reiezione del gravame, in particolare per quanto concerne
+allestimento e produzione di elenchi con le generalità di clienti, testimoni,
+parti lese e parti civili. Riassuntivamente:
+-    il __________ osserva come il reclamante da sempre conosca le
+generalità dei clienti, neppure avendo affermato il contrario e peraltro
+essendo consentito "
+raccogliere deposizioni senza aperta specificazione
+delle generalità
+", mentre la misura dei risarcimenti operati
+dall'istituto bancario non ha influenza sulle decisioni conclusive di spettanza
+del Procuratore pubblico;
+-    il titolate della relazione __________ sottolinea come il suo
+nome sia conosciuto dall'accusato e dal suo patrocinatore né vede per quali
+motivi vadano pubblicizzate le sue generalità;
+-    i titolari dei conti __________ e altri considerano
+sostanzialmente il reclamo privo di oggetto, in quanto tutte le generalità sono
+già agli atti quand'anche in busta separata, per cui le richieste dell'accusato
+costituiscono eccesso di formalismo, a meno che non si stia tentando di
+intimidire le vittime;
+-    il titolare della relazione __________ rileva che le sue
+generalità sono state acquisite, pure in busta chiusa (come la prassi
+giudiziaria consente), senza contestazioni da parte dell'accusato, che oltretutto
+conosce perfettamente questa persona;
+-    analoghe argomentazioni sono portate dal titolare della relazione
+__________, che non ravvisa nel modo di procedere del magistrato inquirente
+nessuna violazione di norme di legge.
+e considerando
+in diritto:
+1.
+__________ - in quanto
+formalmente accusato - è indubitabilmente legittimato ad impugnare il rifiuto
+del Procuratore pubblico di assumere complementi di prova, non solo per la
+disposizione di massima dell’art. 280 CPP, ma specificamente per quella relativa
+alla completazione dell’istruttoria di cui all’art. 196 cpv. 5 CPP. Il reclamo,
+tempestivo a norma di legge (art. 281 cpv. 1 CPP), è allora ricevibile in
+ordine.
+Del pari sono ricevibili le
+tempestive osservazioni degli opponenti.
+2.
+L'art. 196 CPP consente alle
+parti, una volta conclusa l'istruttoria a giudizio del Procuratore pubblico
+nella sua attività di magistrato inquirente, di formulare istanza di
+complemento di inchiesta, indicando i mezzi di prova da assumere (e per quanto
+qui di seguito, si veda anche REP 1997 n. 107; 1998 n. 122).
+La norma non fa che riprendere -
+e nei successivi capoversi meglio precisare - quanto disposto dall'art. 58 cpv.
+3 CPP/1941 e poi dall’art. 157 CPP/1993 (v. Messaggio aggiuntivo concernente la
+revisione totale del CPP del 20 marzo 1991, pag. 163; Rapporto della
+Commissione speciale del Gran Consiglio del 22 luglio 1992, pag. 67), per cui
+mantiene validità la pregressa giurisprudenza in materia della Camera dei
+ricorsi penali e di questa istanza di reclamo, che sottopone l'ammissibilità
+delle prove così proposte a questo stadio del procedimento a tre concorrenti
+ordini di considerazioni e presupposti: i complementi di prove devono essere
+motivati per quanto attiene al loro oggetto ed al loro scopo in diretta
+connessione con la fattispecie inquisita; tali mezzi di prova devono avere i
+requisiti della novità, della rilevanza e della pertinenza alle successive
+conclusioni del Procuratore pubblico, dopo la definitiva chiusura
+dell'istruttoria dibattimentale, e poi - se ne sarà il caso - del giudice del
+merito; le stesse prove devono essere di difficile produzione all'eventuale
+dibattimento, avute presenti le finalità dell'art. 189 CPP (corrispondente agli
+art. 147 CPP/1941 e 148 CPP/1993), inteso appunto tra altro ad assicurarne in
+tale sede la non interrotta assunzione (v. sentenza 24 gennaio 1990 in re L.P.,
+CRP 337/89; decisioni 17 febbraio 1993 in re L.P., GIAR 135.93.1, 21 agosto
+1996 in re G.C., GIAR 512.96.1).
+3.
+Se è ben vero che i complementi
+in discussione si riferiscono alla fattispecie istruita, come la primitiva
+istanza così il gravame in oggetto si rivelano per più versi irricevibili e
+comunque infondati.
+Le richieste di ottenere le
+generalità dei titolari dei conti, delle parti lese e delle parti civili,
+unitamente alla completazione degli elenchi con le generalità di titolari ed
+aventi diritto economico sono tardive e pretestuose.
+Sin dal primo verbale del 25
+gennaio 1999 (AI 2.2, titolare della relazione __________), le generalità
+dell'interrogato sono state annesse in busta chiusa: si tratta di prassi
+corrente, ammessa dalla giurisprudenza (v. REP 1992, pag. 334 ss. e
+segnatamente pag. 345 consid. 3.1), volta a tutelare la discrezione ed il
+segreto bancario nei confronti di terzi non abilitati, come sarebbe in casu per
+parti civili che - pur trovandosi accomunate nello stesso procedimento e quindi
+con facoltà di accesso agli atti - non hanno direttamente nulla da spartire tra
+di loro, fermo restando il diritto dell'accusato di prenderne conoscenza, anche
+per eventualmente postulare citazioni al dibattimento. Quindi di principio non
+vi è nessuna violazione dei diritti della difesa, compreso quello conclamato di
+essere sentito e v'è da aggiungere che sino ad ora mai l'accusato o il suo
+difensore hanno sollevato obiezioni e formali censure con successivo eventuale
+impugnativa a questo giudice (a
+ciò nulla valendo il rilievo orale neppure verbalizzato), tanto più che libero
+accesso agli atti è stato da tempo concesso, per cui la pretesa irregolarità
+poteva e doveva essere sollevata con puntuale tempestività.
+Ma v'è di più. __________ è stato
+interpellato ed anche posto a confronto con titolari di conto rispettivamente
+parti lese o civili, sempre dando riscontro di conoscenza. Si vedano ad esempio
+le seguenti sue affermazioni: "__________
+: questa persona era stata in
+banca … le avevo consigliato … __________: trovo strano che contesti, in quanto
+ho acquistato azioni per lei durante tre anni …
+", ecc. (verbale 20
+gennaio 1999, pag. 2, AI 3.2); "
+Per quanto concerne il fatto che io ho
+incontrato i clienti __________ e __________ presso un bar di __________ …
+"
+(verbale 29 gennaio 1999, pag. 5, AI 3.7); "
+Mi viene chiesto di
+precisare quanto successo con il cliente __________ … Il cliente in questione,
+preciso che quando parlo del cliente mi riferisco alla moglie del titolare
+perché era lei che veniva…
+" (verbale 12 febbraio 1999, pag. 1, AI
+3.11); "
+Cliente __________. Prendo atto delle dichiarazioni del
+procuratore del conto __________. Io devo dire che ricordo questi clienti …
+"
+(verbale 5 marzo 1999, pag. 3, AI 3.12); e si potrebbe continuare, anche
+menzionando i verbali di confronto. Queste costatazioni non meritano commento
+rispetto a quanto avanzato nel gravame.
+Si può ancora aggiungere che il
+reclamante non dà ragione di queste richieste in diretta relazione con
+l'assunzione di prove e con la completazione dell'istruttoria intesa al
+preventivo esame dell'accusa per le conclusioni di competenza del Procuratore
+pubblico (art. 189 CPP), a cui nulla servono semplici elenchi di generalità
+personali. E già si è detto che per eventuali citazioni al dibattimento si
+potrà far capo alle indicazioni assicurate in busta separata.
+Neppure le richieste intese ad
+ottenere elenchi e chiarimenti "
+ai fini dell'accertamento della colpa e
+della commisurazione della pena
+" meritano tutela, in quanto
+indifferenti alla conclusione dell'istruzione formale e spettando poi alle
+parti civili di farsi attive in proposito dinnanzi alla competente Corte del
+merito, tenuto conto appunto che - ad esempio il __________ - ha osservato che
+"
+farà valere le proprie pretese nel rispetto della procedura penale
+".
+4.
+Il reclamo, in quanto ricevibile,
+è di conseguenza integralmente respinto con la presente decisione definitiva
+(art. 284 cpv. 1 lett. a CPP, e contrario), tassa e spese giudiziarie andando a
+carico del reclamante soccombente.
+Sempre a ragione della sua
+soccombenza, __________ è tenuto al versamento alle parti opponenti di congrue
+ripetibili, conformemente a quanto stabilito dall’art. 9 cpv. 6 CPP. In
+concordanza con la giurisprudenza della Camera dei ricorsi penali (v. tra altre
+la sentenza 19 febbraio 1998 in re A.L., CRP 60.96.407), si supplisce alla
+lacuna di questa norma, che non indica nessun criterio per la sua attuazione in
+concreto, applicando per analogia le norme del CPC, segnatamente l’art. 150,
+per cui si attribuisce un’indennità per gli onorari di patrocinio
+corrispondente al presumibile impegno professionale.
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1. In quanto ricevibile, il
+reclamo è interamente respinto.
+2.  La tassa di giustizia di fr. 450.- e le spese di fr. 80.- sono a
+carico di __________.
+3.  __________ verserà a titolo di ripetibili fr. 350.- al __________,
+fr. 40.- al titolare della relazione __________, fr. 250.- ai titolari del
+conto __________ e altri, fr. 250.- al titolare della relazione __________ e
+fr. 150.- al titolare della relazione __________.
+4. La presente decisione è
+definitiva.
+5. Intimazione:
+-    avv. __________, per sé e per __________ (con copia delle
+osservazioni del Procuratore pubblico e di tutti gli altri resistenti);
+-    Procuratore pubblico avv. __________, sede (con l'incarto di
+ritorno e con copia delle osservazioni di tutte le parti resistenti);
+-    avv. __________, per sé e
+per il __________;
+-    avv. __________, per sé e per il titolare della relazione
+__________;
+-    avv. __________, per sé e
+per le parti civili da lui rappresentate;
+-    avv. __________, per sé e per il titolare della relazione
+__________;
+-    avv. __________, per sé e per il titolare della relazione
+__________;
+-    avv. __________, per sé e
+per __________;
+-    avv. __________, per sé e
+per __________.
+giudice __________
