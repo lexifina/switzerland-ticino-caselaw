@@ -1,0 +1,292 @@
+---
+decision_id: "ti_gerichte_INC.2001.31402"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.31402"
+decided: "2001-06-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=92201&nX40_KEY=4711446&nTrefferzeile=45&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-058.md", "switzerland/bund/acts/312.0/art-161.md", "switzerland/bund/acts/955.0/art-023.md"]
+---
+
+# TI Gerichte INC.2001.31402
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.06.2001 INC.2001.31402
+Tessin Il Giudice dell'istruzione e dell'arresto 28.06.2001 INC.2001.31402
+Ticino Il Giudice dell'istruzione e dell'arresto 28.06.2001 INC.2001.31402
+
+Sentenza o decisione senza scheda
+
+N. 314.2001.2                                                            Lugano,
+28 giugno 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Edy Meli
+Sedente per statuire sul reclamo
+18/19 giugno 2001, presentato da
+__________
+,
+(Avv. __________)
+contro l’ordine di perquisizione
+e sequestro datato 6 giugno 2001 ed emanato dal Procuratore pubblico Giuseppe
+Muschietti nell’ambito del procedimento di cui all’inc. MP __________,
+viste le osservazioni del
+Procuratore pubblico (20 giugno 2001),
+letti ed esaminati gli atti
+dell’incarto __________
+ritenuto
+in fatto
+A.
+Mediante il provvedimento qui impugnato, il Procuratore
+pubblico ha ordinato, presso la __________ di __________ (in seguito __________),
+la perquisizione ed il sequestro delle relazioni in qualche modo riconducibili
+a __________, con retroattività al primo agosto 1998. Contestualmente, e per
+quanto qui interessa, alla banca è stato ordinato di non onorare la
+“fideiussione bancaria no. __________”, emessa il 5.12.2000 a favore di __________
+(in seguito __________), a garanzia delle possibili inadempienze della società __________,
+negli impegni verso la garantita.
+L’ordine è stato emanato
+nell’ambito di un procedimento penale nei confronti del ricorrente __________
+per i reati di cui agli artt. 160, sub. 305 bis CP. Il procedimento è stato
+avviato nel febbraio 2001, a seguito di segnalazione (ex art. 23 cpv. 4 LRD) da
+parte dell’Ufficio federale di Polizia.
+Gli elementi contenuti nella
+segnalazione indicavano che i titoli che hanno alimentato la relazione __________
+,
+presso __________ e intestata a __________, sono provento di furto. La
+relazione __________ era già stata posta sotto sequestro con ordine 1 marzo
+2001.
+B.
+Con il reclamo in oggetto, __________
+chiede l’annullamento del punto 2) dell’ordine, più precisamente del divieto
+fatto a __________ di onorare la garanzia bancaria n. __________ rilasciata a
+suo favore.
+La reclamante segnala di aver
+concesso un finanziamento per LIT 900'000'000.- alla società __________,
+erogato in un'unica tranche, con contratto del 13 dicembre 2000. Il
+finanziamento, sempre in base al contratto, doveva essere garantito da una
+fideiussione del valore di LIT 1'000'000'000.- . Di fatto, la “fideiussione”
+consiste nella garanzia bancaria a prima richiesta di cui al n. __________ del
+5 dicembre 2000, rilasciata da __________ su richiesta della società __________,
+che peraltro garantisce pure un ulteriore finanziamento del 19.02.2001.
+In data 18 maggio 2001 la qui
+ricorrente chiede l’escussione della garanzia. La società __________ non
+avrebbe fatto fronte ai propri impegni, in particolare la rata di rimborso che
+scadeva il 17 marzo 2001 non è stata versata.
+Con scritto 8 giugno 2001 la __________
+comunica alla reclamante di non poter dar seguito alla richiesta (di data 18
+maggio) stante il divieto emanato dal Procuratore pubblico.
+A giudizio della reclamante il
+divieto di pagamento è privo di fondamento. Nel caso specifico si tratterebbe
+di una garanzia indipendente dai rapporti tra il beneficiario (__________) ed
+il debitore principale (__________) e vede coinvolte unicamente le due banche:
+è pertanto irrilevante, sempre secondo la ricorrente, come la banca garante si
+sia coperta.
+Inoltre, il credito “garantito” è
+già stato erogato e pertanto dal profilo dell’inchiesta penale l’obiettivo di
+evitare l’erogazione del credito a persone sospette (o a società a loro
+riconducibili) non può più essere raggiunto.
+Da ultimo, la reclamante
+sottolinea la sua assoluta buona fede.
+C.
+Nelle sue osservazioni, il
+Procuratore pubblico afferma che l’ordine in questione non è stato emanato per
+“togliere d’impiccio” la __________. Lo scopo è quello di impedire che il
+provento di reato possa pervenire, anche indirettamente, all’entità indagata.
+A giudizio del magistrato
+inquirente, l’indagato __________ (titolare di un gruppo che comprende anche __________
+e __________) avrebbe messo a pegno il possibile provento di reato per
+permettere l’erogazione della garanzia e, di conseguenza il finanziamento ad
+una sua società. L’escussione della garanzia diminuirebbe il passivo
+(diminuzione dell’esposizione) della società in questione e costituisce un
+vantaggio economico che deve essere impedito.
+in diritto
+1.
+La legittimazione della
+reclamante è data. L’ordine impugnato la tocca direttamente nei suoi propri
+interessi.
+Il reclamo è pure tempestivo.
+2.
+I principi
+generali in materia di perquisizione e sequestro possono essere riassunti come
+segue.
+In diritto,
+l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il sequestro di
+tutti gli oggetti che possono avere importanza per l’istruzione del processo,
+alternativamente o cumulativamente come mezzi di prova o in quanto passibili di
+confisca o devoluzione allo Stato. Il sequestro, per la sua qualità di
+provvedimento eminentemente cautelare, ha lo scopo di acquisire e conservare
+gli oggetti di cui sopra al seguito della procedura e quindi per le necessità
+dell’istruzione preliminare, per decisioni del magistrato requirente e quelle
+del giudice del merito, come evidenziato nella duplice prospettiva -
+alternativa o cumulativa - della produzione e valutazione delle prove
+(sequestro probatorio) e delle decisioni di confisca, restituzione o
+devoluzione (sequestro confiscatorio) (v. decisione 8 maggio 1998, inc. GIAR
+516.97.3, in: Rep. 131 [1998] nr. 117, consid. 1a p. 359).
+Nella
+rinnovata forma in vigore dal 1° agosto 1994, le norme sulla confisca penale
+(artt. 58 ss. CPS) ribadiscono l’obbligo di confisca di ogni e qualsiasi
+vantaggio patrimoniale ottenuto in maniera illecita: la definizione dei valori
+patrimoniali di cui all’art. 59 cfr. 1 cpv. 1 CPS riprende le previgenti
+dottrina e giurisprudenza (v. Niklaus Schmid, Das neue Einziehungsrecht nach
+Art. 58 ff. StGB, in: RPS 113 [1995], p. 321 ss., pto. 4.2.1 p. 331 e nota 45,
+con rinvii). Sottostanno a tale tipo di confisca ai sensi dell’art. 59 cfr. 1
+cpv. 1 CPS anche cosiddetti valori sostitutivi (“Surrogate”, v. Schmid, cit.,
+pto. 4.3.2, p. 334 ss.). Completamente rivisto è l’istituto della confisca
+risarcitoria ai sensi dell’art. 59 cfr. 2 cpv. 1 CPS: essa permette al giudice
+(di merito) di ordinare un risarcimento in favore dello Stato (con eventuale
+successiva assegnazione alla parte lesa in applicazione dell’art. 60 CPS), se -
+pur essendo dati i presupposti per una confisca ex art. 59 cfr. 1 cpv. 1 CPS -
+i valori patrimoniali di cui all’art. 59 cfr. 1 cpv. 1 CPS non siano più
+reperibili (v. Schmid, cit., pto. 4.3.1, p. 333 s.; pto. 4.3.2, p. 336) oppure
+debbano venir attribuiti direttamente alla parte lesa in applicazione dell’art.
+59 cfr. 1 cpv. 1 ultima frase CPS (v. Schmid, cit., pto. 4.4.1, p. 339).
+Infine, la misura può essere ordinata non solo nei confronti dell’autore, bensì
+anche di terzi che abbiano beneficiato dei proventi del reato, a meno che non
+trovino applicazione le eccezioni contemplate all’art. 59 cfr. 1 cpv. 2 CPS
+(art. 59 cfr. 2 cpv. 1 ultima frase CPS; v. Schmid, cit., pto. 4.3.3, p. 336
+ss.). Per non vanificare la portata di questa norma, il magistrato inquirente
+può ordinare il sequestro di tali beni a titolo probatorio, confiscatorio (art.
+161 cpv. 1 e 2 lit. b CPP; v. Schmid, cit., pto. 6.3, p. 362) oppure
+risarcitorio (art. 59 cfr. 2 cpv. 3 CPS).
+Un ordine di perquisizione e
+sequestro bancario rappresenta un attentato ai diritti personali, e può causarne
+pregiudizio. Come ogni misura d’inchiesta, pertanto, deve soddisfare tre
+presupposti sostanziali: deve poggiare sull’esistenza di gravi indizi di
+colpevolezza, deve apparire necessario per il giudizio di merito (nel senso che
+deve essere connesso con l’oggetto che occorre salvaguardare agli incombenti
+processuali e di giudizio, v. decisione 17 agosto 1998 in re E.F., inc. GIAR
+501.98.2 consid. 2), infine deve essere rispettoso del principio di
+proporzionalità (v. Gérard Piquerez, Précis de procédure pénale suisse, 2. éd.
+Lausanne 1994, margin. 1441, 1454 e 1469, con rinvii). La verifica della
+fondatezza di questi presupposti, per il doveroso scrupolo di rispetto dei
+diritti individuali, deve essere costante negli incombenti dell’autorità
+inquirente e requirente, con sempre accresciuta esigenza probatoria indiziante
+approssimantesi alla verità materiale, a partire dal sospetto all’apertura del
+procedimento, che va in seguito ed indilatamente approfondito con gli
+accertamenti probatori del caso (v., in contesto più generale, Piquerez, cit.,
+margin. 1116 ss.). La misura ordinata dal Procuratore Pubblico deve inoltre
+essere rispettosa del principio di proporzionalità (v. Rep. 131 [1998] nr. 117,
+consid. 1a p. 360; decisione 31 marzo 2000 in re banche X e Y, inc. GIAR
+386/387.99.15, consid. 2b p. 6).
+Pacifico che
+anche il sequestro del provento di reato acquisito da un terzo (art. 59 cifra 1
+cpv. 2), così come quello ai fini di garanzia del risarcimento compensatorio
+(art. 59 cifra 2 cpv. 3 CP) debbono rispettare i principi menzionati con la
+precisazione che la connessione ai fini del giudizio di merito è, nel secondo
+caso, l’appartenenza del bene (o valore) alla sfera economica
+dell’indiziato/accusato.
+Va subito detto che, di
+principio, il sequestro di una garanzia bancaria, così come di un pegno, non è
+escluso nell’ambito dell’applicazione degli artt. 161 CPP, in relazione con 58
+e 59 CP (FF 1993, Volume III, p. 217 a 220.; GIAR 27.11.2000 in re BP; si veda
+pure per analogie con misure provvisionali in campo civile o esecutivo DTF 122
+III 321, D. Guggenheim, Les contrats dans la pratique bancaire suisse, Ginevra
+2000, p. 364 a 367).
+3.
+Questo
+giudice (richiamato il fatto che nell’esame dell’esistenza di gravi indizi di
+colpevolezza, deve imporsi precisi limiti, derivantigli da un lato dalla sua
+funzione - che è quella di esaminare l’esistenza dei presupposti formali per
+l’emanazione dell’ordine contestato, e non di valutare nella sostanza
+l’esistenza di un reato -, e dall’altro - ma in maniera strettamente congiunta
+con quanto si viene di dire - dall’inopportunità di considerazioni di merito
+premature e, soprattutto, di competenza delle sedi di giudizio) ha già avuto
+modo di determinare, in decisione parallela concernente lo stesso ordine di
+perquisizione e sequestro, che nel caso in esame i gravi indizi di reato sono
+dati.
+Considerato che la qui reclamante
+è “terza” per rapporto all’inchiesta, si riprende unicamente l’elemento
+principale per cui si è giunti a quella conclusione e cioè il fatto che più fonti
+indicano che i titoli depositati nell’autunno del 2000 su di una relazione
+presso __________, titoli che sono stati messi a pegno per gli impegni  della __________
+che, a sua volta, ha chiesto alla banca l’emissione della garanzia oggetto del
+presente reclamo, provengono da un furto (scritto __________ 21 febbraio 2001
+in AI 1; documentazione proveniente dalla polizia __________ trasmessa da UFP
+con scritto 6 marzo 2001 in AI 4).
+Questo ed
+altri elementi, che non è il caso di riprendere in questa sede (per la già
+menzionata sostanziale terzietà dei reclamanti al procedimento e considerato
+anche l’esito della presente decisione), fanno si che le ipotesi accusatorie
+alla base dell’ordine impugnato (artt. 160 e 305 bis CP) non appaiono
+inverosimili e sono sufficienti a giustificare l’ordine di perquisizione e
+sequestro.
+4.
+Pacifico che l’ordine di non dar
+seguito alla garanzia non persegue fini probatori, per gli stessi bastando la
+perquisizione e l’acquisizione della relativa documentazione.
+Per quanto concerne gli eventuali
+scopi confiscatori va detto quanto segue.
+Come giustamente osservato dal
+reclamante la “garanzia bancaria a prima richiesta” è un credito sotto forma
+d’obbligazione, indipendente dal contratto di base tra beneficiario e debitore
+(oltre a quanto citato nel reclamo si vedano: D. Guggenheim, op. cit., p. 323
+ss.; DTF 76 II 33). Tra beneficiario e garante vale solo quanto tra loro
+stipulato, il resto essendo res inter alios acta (T. Rossi, La garantie
+Bancaire a première demande, Losanna 1990, p. 127).
+Se è vero, in linea generale, che
+un credito può essere posto sotto sequestro (REP 1979 p. 199), così come un
+pegno (vedi cons. 2 in fine della presente) ed anche, per analogia, una
+garanzia bancaria, è altrettanto vero che se un terzo ha acquisito il credito,
+in casu mediante la garanzia, in buona fede e fornendo contro prestazione
+equivalente, la confisca non è più possibile (art. 59 cifra 1 cpv. 2 CP).
+Ciò vale anche allorquando è
+possibile un conflitto tra una delle persone lese dal reato ed il terzo
+acquirente in buona fede. Non è compito del diritto penale risolvere tale
+eventuale conflitto (FF 1993, vol III, p. 220).
+Nel caso in esame nessun sospetto
+di reato, o di malafede, è anche solo adombrato nei confronti della qui
+reclamante per quanto concerne l’ “ottenimento” della garanzia bancaria.
+Inoltre, vi è stata, sempre da parte della qui ricorrente, controprestazione
+mediante l’erogazione del finanziamento richiesto (e “garantito”).
+Di conseguenza è pacifico che __________
+possa e debba beneficiare della garanzia, non meno di quanto lo potrebbe fare
+il detentore di un pegno (CRP 6 agosto 1990 in re __________).
+Non trova applicazione, in questo
+contesto, l’argomento del Procuratore pubblico secondo cui l’adempimento
+dell’obbligo contenuto nella garanzia costituirebbe un vantaggio per la società
+riconducibile all’indagato (diminuzione dell’esposizione). Ciò sia per il fatto
+che comunque la reclamante è terzo in buona fede che ha fornito
+controprestazione, sia perché la diminuzione dell’esposizione verso __________
+non costituisce  annullamento della stessa ma, semmai trasferimento ad altro
+creditore (T. Rossi, op. cit., p. 128).
+Ovviamente quanto sopra vale
+nella misura in cui la prestazione garantita è già stata erogata, come accaduto
+nella presente fattispecie.
+5.
+La conclusione di cui sopra non
+comporta, comunque, l’annullamento dell’ordine come tale, bensì la sua
+limitazione a quanto non necessario per coprire l’esposizione della reclamante.
+Questo anche se, di fatto, tale
+esposizione è molto vicina all’intero importo garantito, come si evince dai
+conteggi prodotti con il reclamo.
+P.Q.M
+Viste le norme applicabili ed in
+particolare gli artt. 160, 305 bis, 59 CP, 157 ss., 161 CPP, nonché 8, 29, 32,
+35, 36 CF,
+decide
+1.
+Il reclamo è parzialmente accolto.
+2.
+Di conseguenza l’ordine dato a __________, di non onorare la garanzia
+bancaria n. __________ a favore di __________, è limitato a quanto non
+destinato a coprire la sua escussione a copertura dell’esposizione dell’Istituto
+garantito.
+3.
+La tassa di giustizia di fr. 300.- è a carico dello stato, che rifonderà
+alla reclamante fr. 200.- a titolo di ripetibili.
+4.
+Contro la presente decisione è dato reclamo alla CRP entro 10 giorni
+dall’intimazione.
+5.
+Intimazione:
+giudice
+Edy Meli
