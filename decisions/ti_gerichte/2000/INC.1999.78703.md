@@ -1,0 +1,326 @@
+---
+decision_id: "ti_gerichte_INC.1999.78703"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.78703"
+decided: "2000-03-01"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56905&nX40_KEY=4711474&nTrefferzeile=25&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.1999.78703
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 01.03.2000 INC.1999.78703
+Tessin Il Giudice dell'istruzione e dell'arresto 01.03.2000 INC.1999.78703
+Ticino Il Giudice dell'istruzione e dell'arresto 01.03.2000 INC.1999.78703
+
+Sentenza o decisione senza scheda
+
+N. 787.99.3 R                                                             Lugano,
+1. marzo 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 25 febbraio 2000 da
+__________,
+__________)
+Alias
+__________
+1972, cittadino sloveno
+titolare del passaporto sloveno no. __________ rilasciato a __________ il 4
+febbraio 1993 con scadenza il 4 febbraio 2003
+e
+titolare della
+licenza di condurre slovena no. __________ rilasciata a __________ il 6 luglio
+1995
+(patrocinato
+dal dott. jur. __________, Studio legale avv. __________)
+trasmessa a questo giudice con
+preavviso negativo del 28 febbraio 2000 dal Procuratore pubblico generale avv.
+__________;
+offerto alla difesa dell'accusato
+di formulare delle contro osservazioni e letto lo scritto 29 febbraio 2000
+della difesa che conferma l'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+Il 26 novembre 1999 la Polizia
+del Cantone Ticino ha proceduto all'arresto del sedicente __________ siccome
+gravemente indiziato di compartecipazione a ripetuti furti subordinatamente
+ricettazione. L'accusato, al momento dell'arresto, è stato trovato in possesso
+di un passaporto sloveno a nome __________ risultato essere fasullo come pure
+fasulla sarebbe la licenza di condurre pure slovena sempre a nome di
+__________.
+Gli accertamenti avviati dagli
+inquirenti hanno permesso di accertare come __________ /__________ sia stato in
+possesso numerosi oggetti di valore (in particolare anelli e pietre), in parte
+poi consegnati e venduti ad una gioielleria del luganese, provento di furto.
+Solo in parte detta refurtiva è stata recuperata. Nel corso delle indagini è
+stato pure tratto in arresto altro cittadino straniero __________ pure
+coinvolto nella commissione dei furti di cui si tratta - quasi una quarantina
+quelli individuati dagli inquirenti con una refurtiva superiore ai CHF 300'000
+- rispettivamente gravemente indiziato di ricettazione. Presunto autore,
+rispettivamente compartecipe dei furti segnalati (commessi in varie parti del
+Cantone [__________] tra il 5 ed il 26 novembre 1999 giorno dell'arresto del
+qui istante) sarebbe tale __________ non meglio identificato e latitante.
+La PS di Lugano ha rassegnato un
+Rapporto preliminare di polizia giudiziaria all'inizio del mese di febbraio
+2000 contenente, tra gli altri, verbalizzazione dell'accusato resa dinanzi al
+magistrato d'accusa il 22 dicembre 1999. Successivamente al Rapporto il
+magistrato d'accusa ha potuto accertare come una partita di oggetti di valore
+di provenienza furtiva sarebbe stata consegnata alla Gioielleria __________ da
+__________ ulteriormente rispetto a quanto indicato nel Rapporto di polizia. In
+merito a questa circostanza il magistrato ha ordinato accertamenti istruttori
+posti in atto dai segretari giudiziari in forze presso il Ministero Pubblico
+(in questo senso le verbalizzazioni del 25 febbraio 2000). Detto elemento nuovo
+ha imposto ed impone l'esecuzione di verifiche dettagliate.
+2.
+Con istanza del 25/29 febbraio
+2000 __________ chiede di essere posto in libertà provvisoria rilevando come
+l'istruttoria sia avanzata al punto tale da non presentare necessità
+istruttorie impedenti la sua liberazione ed escludendo un concreto rischio di
+fuga. Per la difesa l'accusato sarebbe infatti reo confesso del reato di
+ricettazione, non vi sarebbero più state verbalizzazioni recenti di
+__________ e - vista l'oggettiva
+gravità delle imputazioni - non vi sarebbe dubbio nell'inflizione di una pena
+sospesa condizionalmente tale da rendere privo di senso un rischio di fuga.
+Il PP ha preavvisato
+negativamente l'istanza indicando l'esistenza di concreti e gravi indizi di
+colpevolezza riferiti ad attività delittuosa oggettivamente grave, ha segnalato
+la scoperta di nuovi elementi successivamente alla redazione del Rapporto
+preliminare di polizia del 2 febbraio 2000, ha indicato la necessità di
+procedere al completamento dell'istruttoria (con particolare riferimento alla
+destinazione data a refurtiva consegnata presso la Gioielleria __________) ed
+ha indicato il sussistere di un concreto rischio di fuga vista l'assenza di
+legami dell'accusato con il territorio, la mancanza di una attività
+professionale, il possesso di documenti fasulli da parte di __________
+(ricercato anche in patria) e la sua vita per un periodo prolungato in Ticino
+in clandestinità. Per il magistrato d'accusa il carcere sin qui subito appare
+rispettoso del principio di proporzionalità.
+Alla difesa è stata offerta la
+possibilità di formulare delle contro osservazioni. Con allegato del 29
+febbraio 2000 __________ contesta di essere stato reticente, indica la sua
+ammissione del reato di ricettazione, ribadisce che quanto ancora necessario
+per terminare gli accertamenti possa essere acquisito senza il mantenimento
+della detenzione preventiva, contesta la fuga alla luce della presumibile pena
+in caso di giudizio di condanna. La difesa indica poi le sue perplessità circa
+il rispetto del principio di proporzionalità della detenzione preventiva che va
+valutata ponderatamente quando sia di durata importante.
+3.
+In diritto la materia è nota alle
+parti, l'art. 95 CPP - corrispondente all’art. 33 scaturito dalla revisione
+parziale 23 settembre 1992 / 1. gennaio 1993 - dopo evidenza al cpv. 1 del
+principio secondo cui l'accusato si trova di regola in libertà, consente al
+cpv. 2 arresto, perdurare e (poi, se del caso) proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell'istruzione, il pericolo di recidiva e
+quello di fuga (senza dimenticare che l’arresto, quale misura processuale cautelativa,
+non serve unicamente ai bisogni dell’istruttoria, ma anche ad assicurare la
+presenza dell’accusato al processo e a garantire l’eventuale espiazione della
+pena: DTF 109 Ia 323 consid. c, e riferimenti; sentenza 16 novembre 1993 del
+Tribunale federale in re A.H., 1P.477/1993, consid. 3). L'eccezione della
+cautelare privazione della libertà personale ha così trovato codificazione in
+una chiara base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in
+corrispondenza ed a superamento di quanto già dettato dalla giurisprudenza
+della Camera dei ricorsi penali - nel solco di quella del Tribunale federale -,
+ritenuto implicito il rispetto
+della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102
+Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128).
+4.
+Sufficienti presupposti di legge,
+come anche esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di __________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà sino al dibattimento
+processuale.
+4.1 Indizi di colpevolezza
+L'accusato è stato arrestato dopo
+che aveva depositato presso la Gioielleria __________ una serie di gioielli
+provento da una serie di reati che la polizia ha ricapitolato nel suo rapporto
+preliminare del 2 febbraio scorso. Si tratta di una serie di 36 furti, commessi
+in varie località del Cantone che hanno permesso agli autori di conseguire una
+refurtiva di tutto rilievo (CHF 300'000.--). Con il loro agire gli autori del
+reato hanno inoltre cagionato danni di notevole importanza. Il possesso di
+refurtiva provento dai predetti reati detenuta dall'accusato e da altra persona
+coinvolta nelle indagini, rispettivamente la recente scoperta che già una
+partita di oggetti di valore era stata in precedenza consegnata a gioielliere
+di Lugano, oggetti anch'essi di presumibile provenienza da reato, da parte di
+__________ permette di ritenere l'esistenza di gravi e concreti indizi di reato
+a carico dell'accusato.
+Non solo. L'istante risulta
+essere stato trovato in possesso di documenti di legittimazione falsi e risulta
+avere risieduto in Ticino, in piena clandestinità facendo capo a terze persone,
+per un periodo di tempo prolungato.
+4.2 Esigenze istruttorie
+L'inchiesta non è ancora
+conclusa. Il PP ha ricevuto il rapporto preliminare di polizia e,
+successivamente, ha potuto scoprire che non solo una partita di oggetti di
+valore era stata consegnata dall'accusato presso la Gioielleria __________ ma
+anche ulteriore quantitativo di analogo materiale era stato in precedenza
+consegnato alla stessa gioielleria. L'istruttoria deve ora, per quanto
+possibile e senza interferenza dell'accusato, permettere di recuperare detti
+gioielli e deve permettere l'identificazione certa della persona indicata come
+autore materiale dei furti
+__________ non altrimenti identificato se non con il soprannome. Detta persona,
+che ha agito con il qui accusato, risulta essere latitante e la liberazione di
+__________ renderebbe l'identificazione e la raccolta di elementi contro lo
+stesso decisamente più difficile.
+Non tutta la refurtiva oggetto
+dei reati ipotizzati dal magistrato d'accusa risulta ancora essere stata
+reperita ed anche in questa direzione vanno approfonditi gli accertamenti
+istruttori.
+L'istruttoria, pur essendo in
+fase avanzata, non può quindi essere ritenuta terminata e sussiste quindi un
+concreto rischio sia collusivo che di inquinamento probatorio. __________, come
+rammenta il PP e nonostante le contestazioni della difesa su questo punto, non
+è apparso collaborativo nelle sue dichiarazioni. Le stesse sono state revocate
+in dubbio dalle deposizioni raccolte in corso d'istruttoria. Detta reticenza
+appare ancora maggiore se si pensa all'identificazione del correo __________
+per il quale sono stati forniti pochi elementi.
+La difesa non deve poi
+dimenticare che __________ è sospettato di essere autore dei furti e non solo
+della semplice ricettazione di parte della refurtiva. Indicazioni agli atti
+permettono di ritenere come a commettere i furti non sia stata una sola persona
+(si veda a titolo esemplativo il rapporto di constatazione del furto 10
+novembre 1999 in danno del signor __________ all. 8 al Rapporto preliminare).
+Pur prevedendo i reati di furto e di ricettazione (nelle forma semplice) la
+medesima pena edittale non va dimenticato come l'attività del ladro (nel caso
+di specie) appaia più estesa rispetto all'ammessa ricettazione da parte di
+__________. Va poi ritenuto come le forme aggravate dei rispettivi reati si
+differenziano anche a livello di pena.
+Sussistono quindi necessità
+istruttorie tali da impedire la liberazione dell'accusato.
+4.3 Rischio di fuga
+Il pericolo
+di fuga, per giustificare la carcerazione preventiva, deve essere concreto e
+rivestire il carattere di una certa probabilità: in altri termini si ammette
+siffatto pericolo quando l’accusato, fosse posto in libertà, si sottrarrebbe
+con una certa verosimiglianza al perseguimento penale e all’esecuzione della
+pena. La gravità della presumibile pena, di per sé, non basta a motivare la
+carcerazione preventiva; piuttosto, l’insieme delle circostanze, quali il
+carattere dell’interessato, la sua morale, i suoi legami familiari, l’assenza
+di un domicilio fisso, la sua professione, la sua situazione finanziaria e le
+sue risorse economiche, deve essere valutato e vanno accertati motivi concreti
+che rendano la fuga non solo possibile, ma probabile (così
+verbatim
+DTF
+19 gennaio 1999 in re G.S., consid. 5a p. 7-8, con rinvio a DTF 117 Ia 69
+consid. 4 e ad altra sentenza di imminente pubblicazione).
+Nel caso
+concreto __________ risulta essere giunto in Ticino in maniera clandestina
+senza essere al beneficio di regolari documenti di legittimazione ed in
+possesso di un passaporto e di licenza di condurre sloveni risultati fasulli.
+Egli risulta essersi spostato tra la Svizzera e la sua patria anche nell'agosto
+1999 senza apparente difficoltà. Dal suo arrivo in Ticino egli ha mantenuto un
+buon tenore di vita disponendo in particolare di soldi e di un'autovettura
+opportunamente intestata a terze persone (come alle deposizioni contenute nel
+Rapporto preliminare di polizia giudiziaria: verbale __________, __________
+[che rammenta come l'accusato abbia uno zio in Svezia e come era sempre ben vestito,
+aveva sempre danaro con se e spendeva con facilità] e __________).
+__________
+non risulta avere contatto alcuno con il territorio ticinese e qui risulta
+essere giunto unicamente per porre in atto i reati che oggi gli vengono
+addebitati dal magistrato d'accusa. Dagli atti risulta una ricerca nei suoi
+confronti da parte dell'Italia, che ha comunque rinunciato a chiederne
+l'estradizione, e risulta una ricerca nel suo paese d'origine.
+La deposizione di __________,
+come ricordato, indica l'esistenza di uno zio dell'accusato in Svezia. Questa
+circostanza, in uno con una clandestinità (ma con facilità di passaggio sulla
+frontiera grazie a documenti falsi) durata per diversi mesi in Ticino (grazie
+anche alle amicizie di __________ nell'ambiente dei suoi connazionali) rendono
+non solo indiziato un rischio di fuga ma altamente verosimile che - se liberato
+- l'accusato preferirebbe certo sottrarsi agli ulteriori atti procedurali
+necessari per terminare l'istruttoria ed al processo (rispettivamente all'eventuale
+espiazione della pena). La fattispecie appare poi oggettivamente grave essendo
+riferita ad un numero importante di furti, commessi in un lasso di tempo
+decisamente contenuto e quindi con un'intensità di tutto rilievo. Se si
+considera tale aspetto in uno con la commissione degli altri reati imputato a
+__________ appare tutt'altro che scontata l'ammissione di una prognosi
+favorevole se la Corte del merito decidesse per l'inflizione di una pena
+inferiore o uguale ai diciotto mesi di detenzione (ed una pena di tale entità
+non può essere data per scontata in questa fattispecie). Altrimenti detto le
+imputazioni mosse a __________ appaiono di certa importanza e rischiano di
+comportare l'inflizione di una pena ferma, ciò anche in considerazione della
+mancata spontanea collaborazione dell'accusato (certo legittimato in tale suo
+agire che comunque non mostra resipiscenza).
+Come indicato quindi il rischio
+di fuga appare non solo concreto ma assai verosimile in caso di liberazione
+dell'accusato.
+5.
+Il carcere preventivo sin qui sofferto e
+ipotizzabile sino al deferimento al giudice del merito ed alla celebrazione del
+processo, in un procedimento che risulta essere ad uno stadio avanzato, è
+pienamente rispettoso del principio di proporzionalità, tenuto anche conto del
+complesso dei fatti da accertare e delle persone coinvolte, nonché della
+prevedibile pena privativa della libertà. La durata della detenzione subita sin
+qui, e quella ancora prevedibile per giungere al processo, deve essere
+considerata decisamente inferiore all'entità della probabile condanna che
+potrebbe essere inflitta. Per giurisprudenza del TF viola il principio di
+proporzionalità la detenzione preventiva la cui durata superi quella della
+presumibile pena. __________ è privato della sua libertà da poco più di tre
+mesi a fronte di caso articolato, che coinvolge più accusati, che vede
+implicata persona latitante in fase di identificazione e che rischia di
+comportare l'inflizione di una severa pena detentiva.
+Non solo il principio di proporzionalità
+è salvaguardato ma anche il principio di celerità è ossequiato nel caso di
+specie. La fase istruttoria si è svolta senza sostanziale soluzione di
+continuità nonostante l'accusato non sia stato interrogato (come sottolinea la
+difesa) per due mesi. L'accusato è senz'altro a conoscenza del fatto che
+costituiscono istruttoria non solo i suoi verbali di interrogatorio ma anche le
+verbalizzazioni dei testi, la ricerca delle denunce di furto, l'identificazione
+delle parti lese, l'acquisizione delle informazioni atte all'identificazione
+dei correi, la ricerca della refurtiva, … . Il semplice "non
+interrogare" non può assurgere, in questa fattispecie, a doglianza per
+diniego di giustizia o violazione del principio di celerità.
+6.
+L’istanza, che sin dall'inizio non
+presentava possibilità di accoglimento alla luce della prassi giudiziaria di
+questo ufficio che trova conforto nella giurisprudenza della CRP (ed anche in
+quella del TF), va allora respinta con la presente decisione, esente da tassa e
+spese giudiziarie (art. 39 lett. f TG e contrario) e suscettibile di
+impugnazione alla Camera dei ricorsi penali (art. 284 cpv. 1 lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria 25/29 febbraio 2000 formulata dal
+sedicente __________ è
+respinta
+.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-
+all'accusato per il tramite del patrocinatore dott. __________,
+Studio legale avv. __________;
+-
+al dott. __________, Studio legale avv. __________;
+-     Procuratore pubblico generale avv. __________, con gli atti di
+ritorno e copia delle contro osservazioni della difesa.
+giudice
+__________
