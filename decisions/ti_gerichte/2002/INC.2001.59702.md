@@ -1,0 +1,195 @@
+---
+decision_id: "ti_gerichte_INC.2001.59702"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.59702"
+decided: "2002-02-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=64422&nX40_KEY=4711431&nTrefferzeile=55&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-176.md"]
+---
+
+# TI Gerichte INC.2001.59702
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 25.02.2002 INC.2001.59702
+Tessin Il Giudice dell'istruzione e dell'arresto 25.02.2002 INC.2001.59702
+Ticino Il Giudice dell'istruzione e dell'arresto 25.02.2002 INC.2001.59702
+
+Sentenza o decisione senza scheda
+
+N. 597.2001.2 L                                                         Lugano,
+25 febbraio 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 15/18 febbraio 2002 da
+__________
+, attualmente
+presso__________
+(patrocinato dall'avv.__________)
+e qui trasmessa con preavviso
+negativo il 20/22 febbraio 2002 dal
+Procuratore pubblico
+avv. Antonio
+Perugini;
+viste le osservazioni 25 febbraio
+2002 dell'accusato, che conferma contenuti e conclusioni dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+__________ è stato arrestato il 6
+novembre 2001, con contestuale promozione dell'accusa nei suoi confronti per
+titolo di atti sessuali con fanciulli, coazione sessuale e subordinatamente
+sfruttamento dello stato di bisogno,
+avendo lascivamente accarezzato degli adolescenti durante sedute di massaggio
+ed approfittando delle stesse.
+L'accusato ha minimizzato i fatti
+rimproveratigli, riferendo di massaggi personalizzati con possibili "
+sfioramenti
+",
+senza nessun intento o scopo sessuale: di contro vi sono convergenti
+descrizioni delle vittime, che depongono a favore delle imputazioni.
+2.
+L'istanza di libertà provvisoria,
+evidenziata violazione del principio di celerità per assenza di continuati atti
+istruttori e ritardo nell'allestimento dei referti peritali psichiatrici,
+considera assente pericolo di collusione o di inquinamento delle prove
+rispettivamente di concreta ipotesi di possibilità per l'accusato di
+intervenire su terzi. Il carcere preventivo si qui sofferto è d'altro canto
+monito sufficiente, unitamente all'età di __________, per escludere pericolo di
+recidiva, mentre non può essere parola di pericolo di fuga per i suoi legami
+personali e sociali.
+Il Procuratore pubblico esprime
+preavviso negativo, in quanto l'istruttoria è ancora aperta, in particolare
+nell'attesa della perizia psichiatrica, che porterà anche all'interrogatorio
+conclusivo di __________, essendo rimasto inteso con la difesa di rinunciare a
+superflui verbali "
+interlocutori
+". Dalla perizia si attendono
+anche puntualizzazioni sul pericolo di recidiva (__________ha precedenti
+specifici) e sulle possibilità di suo contenimento, anche in vista di
+un'eventuale concessione della libertà provvisoria.
+Le osservazioni dell'accusato al
+preavviso negativo ancora sottolineano ed evidenziano violazione dei principi
+di proporzionalità e di celerità. Ciò vale per i bisogni istruttori, che
+attendono solo la consegna della perizia psichiatrica, sulla quale __________
+non può influire, ed il verbale conclusivo unico, il cui rinvio alla
+disponibilità del menzionato referto - se anche comprensibile - non giustifica
+il mantenimento del carcere preventivo. Si aggiunge che il pericolo di recidiva
+non può essere ancorato a fatti di oltre quindici anni fa ed è sufficiente a
+scongiurarlo l'intenzione di rinunciare all'attività professionale,
+eventualmente da formalizzare il misura sostitutiva.
+3.
+Come al dettato di legge ed a
+giurisprudenza (REP 1998, pag. 333 ss.), l'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali - per quanto qui concerne - i bisogni dell'istruzione
+e il pericolo di recidiva.
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; M. Luvini, I presupposti del carcere
+preventivo nel processo penale ticinese, in REP 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128).
+4.
+Sufficienti presupposti di legge,
+come anche esplicitati dalla prassi e dalla giurisprudenza, sono dati nella
+situazione personale e processuale di __________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà, perlomeno sino a
+chiarimento dell'eventualità di recidiva e delle misure atte a contrastarla,
+come ancora si dirà in seguito.
+4.1
+La presenza di seri indizi di
+colpevolezza non è stata contestata né posta in dubbio dall'accusato istante.
+In effetti, al di là delle riduttive sue dichiarazioni, stanno quelle anche
+sofferte delle vittime, unitamente alla personalità ed ai precedenti di __________.
+Egli infatti venne condannato, con sentenza __________ della Corte delle Assise
+correzionali di __________, per ripetuti atti
+di libidine su fanciulli in danno di una vittima sui dieci anni, già allora in
+sede di massaggi terapeutici: inoltre ammette di essere anche omosessuale e
+disponeva di pubblicazioni e videoregistrazioni pornografiche, pure di
+quest'ultimo genere. A ciò si aggiunge l'apparente ridotta presa di coscienza
+del suo rimproverato comportamento.
+4.2
+L'attesa della perizia e del
+conseguente verbale conclusivo dinnanzi al magistrato inquirente sono bisogni
+istruttori che non necessitano permanenza di privazione della libertà personale
+di __________. Non si vede infatti quali manovre collusive o di inquinamento di
+prove egli possa in proposito mettere in atto: d'altro canto, sugli
+accertamenti istruttori (con riferimento ai verbali di polizia), egli potrebbe
+già essere convenientemente interrogato e poi se del caso ricitato per essere
+confrontato con le risultanze peritali.
+4.3
+Il pericolo di recidiva, presupposto di
+cui allora è qui solo discorso deve di principio essere concreto (DTF 105 Ia
+31) e risultare da una valutazione dell’insieme delle circostanze, tra cui i
+precedenti dell’accusato, il suo comportamento durante l’istruttoria, la sua
+personalità, la sua costituzione fisica e soprattutto psichica e le modalità di
+commissione dei reati che gli vengono addebitati, così che la reiterazione
+appaia assai verosimile (REP 1998 n. 103; LUVINI, loc. cit., pag. 294; Gérard
+PIQUEREZ, Précis de procédure pénale suisse, Lausanne 1987, n. 1186/7).
+Per quanto già accennato sopra non può
+essere sottovalutato nella presente fattispecie un serio pericolo di ricaduta. Anche
+se relativamente lontani, __________ si presenta con specifici precedenti e la
+sua costituzione personale (con riserva di puntuali accertamenti peritali)
+appare problematica, per la sua tendenza omosessuale e per la banalizzazione
+dei suoi inquisiti comportamenti (senza dimenticare il possibile influsso
+negativo dell'età). Certo la rinuncia all'attività di massaggiatore, in
+particolare esercitata su pazienti adolescenti, sarebbe tale da ridurre possibilità
+di reiterazione in atteggiamenti lascivi, ma non è ancora sufficiente. Occorre
+esaminare ed eventualmente disporre altre misure di accompagnamento e di
+controllo, con il concorso di specialisti. Per evitare procrastinazione di
+queste soluzioni e non sembrando necessario attendere la consegna del referto
+peritale definitivo, il Procuratore pubblico dovrà acquisire al più presto i
+suggerimenti dei periti in proposito oppure - in collaborazione con la Difesa -
+optare per altra interlocutoria presa a carico, così da poter concludere a
+conveniente contenimento di pulsioni recidivanti, il tutto nel rispetto del
+noto obbligo del Procuratore pubblico di non protrarre la privazione della
+libertà personale oltre il necessario (art. 102 cpv. 1
+CPP) e di agire celermente (art. 176 cpv. 3 CPP), avuto riguardo al principio
+di proporzionalità.
+5.
+Ricordato in particolare l'ultimo
+considerando, l’istanza è così respinta con la presente decisione, esente da
+tassa e spese giudiziarie (art. 39 lett. f TG e contrario) e suscettibile di
+impugnazione alla Camera dei ricorsi penali (art. 284 cpv. 1 lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Claudio Lepori
