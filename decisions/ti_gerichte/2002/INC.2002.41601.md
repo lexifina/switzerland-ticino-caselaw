@@ -1,0 +1,165 @@
+---
+decision_id: "ti_gerichte_INC.2002.41601"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.41601"
+decided: "2002-11-06"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=96195&nX40_KEY=4711361&nTrefferzeile=32&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2002.41601
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 06.11.2002 INC.2002.41601
+Tessin Il Giudice dell'istruzione e dell'arresto 06.11.2002 INC.2002.41601
+Ticino Il Giudice dell'istruzione e dell'arresto 06.11.2002 INC.2002.41601
+
+Sentenza o decisione senza scheda
+
+N. 416.2002.1/2 L                                                      Lugano,
+6 novembre 2002
+N. 417.2002.1/2 L
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Claudio Lepori
+sedente per statuire sui reclami
+presentati il 30 luglio 2002 rispettivamente
+da __________
+(entrambi patrocinati dall'avv.__________)
+e dalla ditta __________
+(patrocinata dall'avv. __________)
+contro la decisione 19 luglio
+2002 del
+Procuratore pubblico
+avv. Mario Branda che ha rifiutato di
+ordinare il sequestro dell'inventario del Bar __________ nel procedimento
+conseguente a denuncia dei primi reclamanti contro __________, __________, e __________,
+__________, per titolo di appropriazione indebita, truffa e amministrazione
+infedele;
+viste le osservazioni 12 agosto
+2002 del magistrato inquirente che postula la reiezione del gravame;
+atteso che i due gravami possono
+essere evasi con un unico giudizio, per la loro pratica identità;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-    con atto 29 novembre 2001, __________ e __________ hanno
+denunciato __________ e __________ per titolo di appropriazione indebita,
+truffa e amministrazione infedele, per essersi fraudolentemente appropriati di
+inventario e mobilio del Bar __________ ora __________ di __________,
+danneggiando inoltre gli interessi della ditta __________, che aveva in
+gestione il menzionato esercizio pubblico;
+-    il reclamo si rivolge contro la decisione 19 luglio 2002 del
+Procuratore pubblico di rifiuto del postulato sequestro dell'inventario del Bar
+__________, oggetto centrale del contendere;
+-    l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il
+sequestro di tutti gli oggetti che possono avere importanza per l’istruzione
+del processo alternativamente o cumulativamente come mezzi di prova o in quanto
+passibili di confisca o devoluzione allo Stato: la norma corrisponde
+sostanzialmente a quanto in precedenza disposto successivamente dall’art. 120
+CPP/1942 e dall’art. 120 CPP/1993, per cui ancora soccorre la giurisprudenza
+della Camera dei ricorsi penali e di questo Ufficio giudiziario sul tema (REP.
+1987, p. 265; 1989, p. 599; sentenze 30 gennaio 1992 in re O.C., CRP 282/91 e
+17 marzo 1992 in re G.M., CRP 38/92; decisione 24 novembre 1997 in re RTSI,
+GIAR 650.97.1, e riferimenti);
+-    il sequestro, per la sua qualità di provvedimento eminentemente
+cautelare, ha lo scopo di acquisire e conservare gli oggetti di cui sopra al
+dispiegamento della procedura e quindi alle necessità dell’istruzione
+preliminare, alle decisioni del magistrato requirente ed a quelle del giudice
+del merito come evidenziato nella duplice prospettiva - alternativa o
+cumulativa - della produzione e valutazione delle prove (sequestro probatorio)
+e delle decisioni di confisca, restituzione o devoluzione, il che sarebbe qui
+il caso (sequestro confiscatorio): come in tutti gli istituti procedurali, che
+intaccano eccezionalmente i diritti individuali per prevalenza di interesse
+pubblico, il sequestro è legittimo unicamente in presenza concorrente di
+sufficienti indizi di reato e di connessione tra questo e l’oggetto che così
+occorre salvaguardare agli incombenti processuali e di giudizio, tenuto anche
+conto del principio di proporzionalità;
+-    il conteso inventario ha fatto oggetto di cessioni e trasferimenti,
+senza grandi riscontri di chiarezza fattuale e contrattuale: la proprietaria
+originaria __________ lo cedette, con riserva di proprietà (non iscritta) sino
+a suo completo pagamento, a __________ ed altre due persone poi estraniate;
+esso venne successivamente messo a disposizione a titolo fiduciario della ditta
+__________, che assunse pure la gestione del Bar __________, con contratto
+sottoscritto dall'allora socio gerente __________; a quest'ultimo sono
+subentrati ai vertici della __________ __________, quale socia gerente con
+diritto di firma individuale, e __________, quale socio senza diritto di firma;
+da ultimo la gerente __________ ha ceduto il bar, inventario compreso, a __________,
+nell'ambito della ditta __________, di cui lo stesso __________ è
+amministratore unico;
+-    i denuncianti e reclamanti asseverano l'esistenza di manovre
+intese ad appropriarsi dell'inventario, trasferendolo a __________ per loro
+vantaggio pecuniario, non avendolo interamente pagato e per contro avendo
+trattenuto il prezzo di cessione, con inganno anche del proprietario dello
+stabile ing. __________ nella stipulazione del nuovo contratto di locazione con
+la ditta __________, come risulta dalla lettera 23 novembre 2001 dell'ing. __________
+a quest'ultima, a conferma di essersi trovato raggirato, per cui disdiceva il
+contratto (doc. A di denuncia);
+-    il Procuratore pubblico, come all'esposto nelle osservazioni al
+presente reclamo, non ravvede elementi per sostenere l'esistenza di concreti e
+sufficienti sospetti di reato ed in particolare che "
+la __________
+abbia acquisito la disponibilità dell'inventario dell'esercizio pubblico
+mediante un reato
+" e che __________ "
+abbia acquisito
+l'inventario mediante un reato perché sapeva o doveva presumere che la __________
+non aveva la disponibilità dei beni da lui poi rilevati
+";
+-
+in effetti l'inchiesta non consente un'altra determinazione, al di là
+della costatazione di rapporti alquanto confusi e di accordi contrattuali non
+sempre precisi, le divergenze non sembrando travalicare il campo civile:
+l'apparente probanza del comportamento dell'ing. __________, al confronto con
+preteso inganno, non ha trovato riscontro nel suo interrogatorio del 29 gennaio
+2002 dinnanzi al Procuratore pubblico, dove ha affermato che la lettera del 23
+novembre 2001 (menzionata sopra) venne redatta dalle controparti (come
+confermato dall'intestazione semplicemente a macchina), e che l'ha "
+firmata
+pensando che se era preparata da avvocati sicuramente doveva essere tutto in
+regola e in ordine
+", smentendosi poi - su inganno e conseguente
+disdetta - per fatti concludenti come risulta implicitamente dal suo scritto
+(qui su propria carta intestata) all'autorità cantonale competente dove, "
+in
+risposta alla Vostra lettera del 5.12 u.s.
+", comunica che ,"
+per
+accordi intervenuti tra le parti
+", il contratto di affitto con la __________
+"
+rimane tuttora valido
+" (documento prodotto il 29 gennaio 2002
+da
+__________ in occasione del suo interrogatorio dinnanzi al
+Procuratore pubblico, senza particolari approfondimenti o commenti);
+-    i reclami vanno conseguentemente respinti con
+la presente decisione suscettibile di ricorso alla Camera dei ricorsi penali
+(art. 284 cpv. 1 lett. a CPP): tassa e spese di giudizio (art. 39 lett. f TG)
+sono a carico dei reclamanti in solido ed in parti uguali, a ragione della loro
+soccombenza;
+visti gli art. 161 e 284 cpv. 1
+lett. a CPP e per le spese l'art. 39 lett. f TG,
+decide:
+1.
+I reclami sono respinti.
+2.
+La tassa di giustizia di fr. 400.- e le spese di fr. 40.- sono a carico
+dei reclamanti in solido ed in parti uguali.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall'intimazione.
+Intimazione.
+giudice
+Claudio Lepori
