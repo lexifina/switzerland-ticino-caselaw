@@ -1,0 +1,92 @@
+---
+decision_id: "ti_gerichte_INC.2000.46301"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.46301"
+decided: "2000-08-07"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=57019&nX40_KEY=4711465&nTrefferzeile=60&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-096.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2000.46301
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 07.08.2000 INC.2000.46301
+Tessin Il Giudice dell'istruzione e dell'arresto 07.08.2000 INC.2000.46301
+Ticino Il Giudice dell'istruzione e dell'arresto 07.08.2000 INC.2000.46301
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+2000.00462.01
+Lugano
+7 agosto 2000
+In nome
+della Repubblica e Cantone
+del Ticino
+Procedimento contro __________: verbale in relazione
+al reclamo 2 agosto 2000
+Dinnanzi al giudice __________,
+assistito dalla segretaria
+__________,
+compaiono
+-
+l'avv. __________, patrocinatore di __________;
+-
+il Procuratore pubblico straordinario dott. __________, al quale viene
+intimato seduta stante il reclamo 2 agosto 2000 di __________ (inc. GIAR
+463.2000.1).
+Premesso che:
+-
+con decisione 27 luglio 2000 il Procuratore pubblico straordinario ha
+ordinato la sospensione di tutti i colloqui di __________, in arresto per
+richiesta di estradizione della competente Autorità italiana;
+-
+di seguito, come a disposizioni dell'Ufficio federale di giustizia, sono
+stati mantenuti i colloqui sorvegliati e registrati con i famigliari e sono
+stati assicurati i colloqui con i patrocinatori limitatamente alla procedura
+estradizionale e quindi con controllo in tal senso;
+-
+il provvedimento 27 luglio 2000 è stato qui impugnato contemporaneamente
+a ricorso alla competente Camera dei ricorsi penali contro la connessa
+promozione dell'accusa, il gravame a questo giudice osservando che "
+per
+logica, dovrebbe essere evaso prima il ricorso alla CRP e successivamente
+questo reclamo
+";
+-
+__________ è stato arrestato dal Procuratore pubblico straordinario il 6
+agosto 2000, provvedimento cautelativo confermato oggi da questo giudice a
+norma di legge;
+-
+vengono conseguentemente a cadere le misure sostitutive secondo l'art.
+96 CPP, la disciplina della carcerazione preventiva essendo ora regolata dagli
+art. 64 e 65 CPP, per cui il reclamo in discussione si avvera privo di oggetto;
+-
+d'altro canto il Procuratore pubblico straordinario ha concesso colloqui
+liberi tra accusato e patrocinatori;
+il Giudice dell'istruzione e
+dell'arresto
+richiamati gli art. 280 ss. CPP,
+decide:
+1.
+Il reclamo è stralciato dai ruoli, in quanto privo di oggetto.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Intimazione seduta stante:
+-
+all'avv. __________, per sé e per l'accusato reclamante,
+-
+Procuratore pubblico straordinario.
+giudice __________
+avv. __________
+dott. __________
+__________
