@@ -1,0 +1,160 @@
+---
+decision_id: "ti_gerichte_INC.2001.10204"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.10204"
+decided: "2001-08-16"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59720&nX40_KEY=4711443&nTrefferzeile=90&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2001.10204
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 16.08.2001 INC.2001.10204
+Tessin Il Giudice dell'istruzione e dell'arresto 16.08.2001 INC.2001.10204
+Ticino Il Giudice dell'istruzione e dell'arresto 16.08.2001 INC.2001.10204
+
+Sentenza o decisione senza scheda
+
+N. 102.2001.4 L                                                         Lugano,
+16 agosto 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull’istanza
+presentata il 2 agosto 2001 dal
+Procuratore pubblico
+avv. __________,
+intesa ad ottenere la proroga di
+tre mesi del carcere preventivo cui è astretto
+__________
+, attualmente presso il Penitenziario
+cantonale
+(patrocinato
+dall’avv. __________)
+nel procedimento pendente contro
+quest’ultimo per titolo di atti sessuali con fanciulli, violazione del dovere
+di assistenza o educazione e atti sessuali con persone incapaci di
+discernimento o inette a resistere;
+viste le osservazioni 13 agosto
+2001 dell'accusato che in via principale postula la reiezione dell'istanza e in
+via subordinata la limitazione della proroga ad un mese;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+__________ è stato arrestato il 20 febbraio 2001, con contestuale
+promozione dell'accusa nei suoi confronti per titolo di atti sessuali con
+fanciulli e violazione del dovere d'assistenza o educazione: il 2 agosto 2001,
+l'accusa è stata estesa al reato di atti sessuali con persone incapaci di
+discernimento o inette a resistere;
+-
+la fattispecie si riferisce ad attenzioni d'ordine sessuale
+dell'accusato nei confronti delle proprie figlie __________ e __________,
+riferite da queste ultime per ripetuti episodi di rilevante gravità, ma ammesse
+da __________ solo quali minimizzati toccamenti senza altro seguito;
+-
+con l'istanza in esame, il Procuratore pubblico riassume gli elementi
+concludenti per l'esistenza di seri e concreti indizi di colpevolezza, fa stato
+di determinate necessità istruttorie da esperire senza pericolo di collusione
+ed accenna pure a pericolo di fuga ("
+in considerazione della lunga pena
+da espiare prevista
+") ed a quello di recidiva ("
+considerato
+che gli abusi sessuali … sono stati ripetuti e commessi nell'arco di un lungo
+periodo di tempo
+");
+-
+in via principale __________ si oppone alla richiesta proroga,
+contestando di principio l'esistenza di seri e concreti indizi di colpevolezza,
+ma comunque sottolineando la sua volontà di completo chiarimento, non senza
+lamentare la lentezza dell'istruttoria, che non deve andare a suo aggravio:
+nega possibilità di inquinamento delle prove, non ritiene dimostrato il
+pericolo di recidiva e considera una mera congettura quello di fuga, in ogni
+modo subordinatamente accettando la proroga del carcere preventivo al massimo
+di un mese, ove si voglia tutelare la raccolta delle ultime prove;
+-
+come noto, l'art. 95 CPP - corrispondente all’art. 33 scaturito dalla
+revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo evidenza al cpv.
+1 del principio secondo cui l'accusato si trova di regola in libertà, consente
+al cpv. 2 arresto, perdurare e proroga del carcere preventivo a' sensi
+dell'art. 103 CPP, quando esistono a carico dello stesso accusato gravi e
+concreti indizi di colpabilità per un crimine o un delitto e nel contempo sono
+presenti
+preminenti motivi di interesse pubblico, quali - per quanto qui in discorso - i
+bisogni dell’istruzione, il pericolo di recidiva e quello di fuga (REP 1998 n.
+103);
+-
+nella presente situazione processuale vi è ancora convergenza di
+presupposti di legge, come esplicitati ed approfonditi dalla prassi e dalla
+giurisprudenza, a legittimare e giustificare il perdurare della cautelare
+privazione della libertà personale di __________, nei limiti di cui si dirà;
+-
+per quanto concerne gli indizi di colpevolezza si ricorda che a questo
+stadio del procedimento è sufficiente verisimiglianza, con esame di massima
+delle responsabilità penalmente rilevanti a carico dell'accusato e con la
+dovuta prudenza per evitare pregiudizio al seguito processuale, specie al
+confronto di proteste di innocenza (v. decisioni 19 febbraio 2001 in re H.B.,
+GIAR 740.2000.2, e 9 agosto 2001 in re L.C., GIAR 349.2001.2): basta allora qui
+rilevare che le dichiarazioni accusatorie delle figlie trovano bandolo di
+riscontro nelle ammissioni dell'accusato di toccamenti reciproci sui genitali,
+quand'anche nel corso di successivi interrogatori ridotti a non cercata
+casualità;
+-
+sono previste nuove audizioni di testimoni (segnatamente quelle delle
+figlie dell'attuale moglie di __________, chieste e più volte sollecitate dalla
+difesa, da ultimo con le osservazioni al preavviso negativo) e queste vanno
+garantite da rischio di collusione, anche a favore dello stesso accusato: si
+aggiunge inoltre che il procedimento sarà prossimamente assunto da altro
+magistrato inquirente, da mettere in grado di compiutamente determinarsi;
+-
+per contro il pericolo di recidiva non trova riscontro in circostanze
+concrete, non essendovi sospetto di attenzioni quanto meno indelicate nei
+confronti di altre fanciulle (in particolare le figlie dell'attuale moglie), ed
+il pericolo di fuga non è confortato da verun indizio: se fosse vero il
+contrario, di certo il Procuratore pubblico non avrebbe neppure ritenuta
+possibile la "
+valutazione di un'eventuale libertà provvisoria
+",
+prospettata al patrocinatore dell'accusato con lettera 11 luglio 2001 (senza
+che dagli atti emerga la ragione per cui rimase inevasa);
+-
+a ragione la difesa evidenzia la lentezza della conduzione
+dell'istruttoria, in particolare nell'assunzione delle prove proposte il 31
+maggio 2001 da __________, per cui viene messo in forse il rispetto del
+principio di proporzionalità:
+in considerazione delle necessità istruttorie, come sopra detto, la proroga
+deve conseguentemente essere contenuta ed è approvata, come alla ragionevole
+proposta subordinata della difesa, nei limiti di un mese, con la presente
+decisione, esente da tassa e spese giudiziarie (art. 39 lett. f TG e
+contrario), e suscettibile di impugnazione alla Camera dei ricorsi penali (art.
+284 cpv. 1 lett. a CPP);
+per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.      L’istanza è parzialmente accolta.
+Di conseguenza il carcere preventivo cui è astretto
+__________ è prorogato sino al 19 settembre 2001, compreso.
+2.      Non si percepiscono né tassa né spese giudiziarie.
+3.      Contro la presente decisione è dato ricorso alla Camera dei
+ricorsi penali entro dieci giorni dall’intimazione.
+4.      Intimazione:
+-    avv. __________, per sé e per l’istante;
+-    Procuratore pubblico avv. __________ (con copia delle
+osservazioni dell’accusato);
+-    Direzione del Penitenziario cantonale, Lugano-Cadro.
+giudice
+__________
