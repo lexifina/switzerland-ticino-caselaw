@@ -1,0 +1,262 @@
+---
+decision_id: "ti_gerichte_INC.1997.42803"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1997.42803"
+decided: "2004-03-29"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=96360&nX40_KEY=4711307&nTrefferzeile=95&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.1997.42803
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 29.03.2004 INC.1997.42803
+Tessin Il Giudice dell'istruzione e dell'arresto 29.03.2004 INC.1997.42803
+Ticino Il Giudice dell'istruzione e dell'arresto 29.03.2004 INC.1997.42803
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.1997.42803
+Lugano
+29 marzo 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente
+per statuire sul reclamo presentato l'11/15 marzo 2004 da
+__________
+,
+(patrocinato
+dall'avv. __________)
+contro
+la
+decisione 24 febbraio 2004 del Procuratore pubblico Giuseppe Muschietti,
+nell'ambito del procedimento inc. MP __________, che rifiuta complemento
+istruttorio;
+preso atto delle osservazioni del Procuratore pubblico
+(24/26 marzo 2004) e del fatto che la parte civile __________ si dichiara
+disinteressata al complemento (22/23 marzo 2004);
+visto l'incarto MP __________, AI da 28 a 65;
+ritenuto
+in fatto ed in diritto
+1.
+Per quanto concerne i fatti alla base del procedimento
+penale può far capo a quanto detto in precedente decisione (sentenza 13
+febbraio 2003, GIAR 428.1997.2), e meglio:
+"
+A.
+Per quanto è stato possibile ricostruire
+(visto che né il reclamante né l'osservante si sono dati la pena di riassumere
+con chiarezza i fatti essenziali per le varie ipotesi di reato oggetto dei
+complementi richiesti, rispettivamente rifiutati, o di indicare gli atti che le
+contengono - sfiorando così anche l'irricevibilità, rispettivamente
+l'accoglimento, del reclamo per carenza di motivazione), nei confronti di __________
+è stata promossa l'accusa per il reato di truffa con l'intimazione, il 23
+giugno 1997, dell'ordine d'arresto emanato il 16 giugno 1997. L'ordine in
+questione non contiene alcuna indicazione sui fatti oggetto d'inchiesta; dal
+contenuto del verbale reso alla polizia dall'accusato quello stesso 23 giugno,
+si desume che l'ipotesi di reato concerne la "ricezione" di una somma
+di FRS 30'000.--, nonché di una ulteriore somma di FRS 230'000.-- (pur se con
+modalità diverse e coinvolgenti altre persone), da tale __________ tra il 1995
+ed il 1996  (cfr. verbale PS __________ 23.06.1997).
+Il 28 luglio 1997 (Verbale PP __________
+28.07.1997) all'accusato viene contestata una ulteriore ipotesi di truffa, ai
+danni di tale __________ (verosimilmente già oggetto di una contestazione
+davanti alla polizia).
+In data 8.11.2002 vi sono ulteriori
+estensioni dell'accusa nei confronti del qui reclamante.
+Per l'episodio relativo ai FRS 30'000.--,
+di cui si è detto sopra, si formalizza l'ipotesi (alternativa) di
+appropriazione indebita; alle ipotesi accusatorie si aggiunge anche quella di
+furto, in relazione alla "
+sottrazione dell'orologio ROLEX ai danni di __________
+"
+(verbale SG+PP __________ 8.11.2002 ore 15.30, p. 5: inc. MP __________ e __________).
+Da ultimo, con ulteriore verbale di identica data (inc. __________), __________
+viene formalmente accusato d'infrazione alla LFStup e riciclaggio di denaro
+(Verbale SG+PP __________ 8.11.2002, p. 4).
+Come questi verbali si siano concatenati temporalmente
+(uno risulta iniziato alle 15.00 e conclusosi alle 17.10, l'altro,
+rispettivamente, alle 15.30 e alle 17.15) è un piccolo mistero che può restare
+tale, vista la presenza del difensore in entrambe le verbalizzazioni.
+B.
+A seguito della notifica del deposito
+degli atti (21.11.2002), la difesa di __________ ha richiesto alcuni
+complementi istruttori, segnatamente tre confronti (due con chi lo chiama in
+correità per i fatti di cui alle ipotesi d'infrazione LFStup e di riciclaggio,
+ed uno con __________), l'audizione di due persone in relazione con il fatto
+imputatogli come furto e, da ultimo, l'audizione di un commissario di polizia
+per "
+chiarire le circostanze delle dichiarazioni di __________
+"
+dopo la scarcerazione (cfr. istanza 9.12.2002).
+"
+2.
+In conclusione della sentenza citata al considerando
+precedente, questo giudice accoglieva la richiesta di procedere all'audizione
+di __________ e __________.
+Il magistrato inquirente presentava, di conseguenza,
+due domande di assistenza alle competenti autorità italiane il 17 febbraio 2003
+(AI 37 e 38). Va precisato che nella domanda relativa a __________ veniva pure
+chiesto alla competente autorità di procedere alla notifica della promozione
+d'accusa.
+3.
+La domanda di assistenza relativa all'audizione di __________
+risulta positivamente evasa (AI 48).
+Per quanto concerne la richiesta relativa a __________,
+risulta che in qualche modo la promozione d'accusa gli è stata notificata (AI
+49 e 59), mentre che l'interrogatorio (tra le altre cose ad un certo punto
+anche sospeso a richiesta dell'autorità rogante - AI 59) risulta inevaso per la
+"
+mancata presentazione dell'indagato e del suo difensore
+" (AI
+64 e 65).
+4.
+Con scritto 23 febbraio 2004, la difesa di __________
+(peraltro riferendosi ad una decisione del magistrato inquirente non risultante
+dagli atti istruttori prodotti - cfr. AI 65 e 66) chiede nuovamente che si
+proceda all'audizione di __________ così come disposto nella sentenza del 13
+febbraio 2003 del GIAR. A suo dire, l'esecuzione della rogatoria da parte
+dell'autorità italiana, dichiarata evasa perché __________ non ha dato seguito
+alla citazione, non è accettabile. Chiede che si proceda all'audizione, se del
+caso con citazione assortita dalla comminatoria della comparizione forzata.
+5.
+Il magistrato inquirente, con decisione del 24
+febbraio 2004 (AI 67), respinge la richiesta ritenendola già evasa con la
+presentazione della domanda di assistenza del 24 febbraio 2003 e la conseguente
+trasmissione degli atti da parte delle autorità italiane di cui all'AI 65. A
+suo dire, __________ si sarebbe reso irreperibile con conseguente impossibilità
+di procedere alla sua audizione.
+6.
+Con il reclamo oggetto della presente, la difesa di __________
+chiede che al Procuratore pubblico venga (nuovamente) ordinato di procedere
+all'audizione di __________, ritenuto che non risulta irreperibilità dello
+stesso, ma semplice inosservanza della citazione.
+Il magistrato inquirente, con le sue osservazioni del
+24 marzo 2004, chiede in primo luogo verifica della non tardività del reclamo
+ed in secondo luogo il respingimento dello stesso.
+A suo dire la censura del ricorrente circa la (non)
+irreperibilità di __________ è infondata. Infatti, questi avrebbe segnalato un
+impedimento (tramite il difensore) quando è stato citato una prima volta per il
+mese di giugno 2003. All'udienza prevista con la seconda citazione non si è
+presentato senza segnalare impedimenti; inoltre, dopo aver manifestato, tramite
+un legale ticinese, intenzione di presentarsi direttamente all'autorità inquirente,
+non ha mai dato seguito a tale proposito. Da qui irreperibilità, secondo il
+Procuratore pubblico.
+7.
+Poco importa determinare se la richiesta del
+reclamante sia avvenuta nell'ambito del deposito atti relativo alle prove la
+cui assunzione è stata ammessa con la sentenza del 13 febbraio 2003 (deposito
+di cui non vi è traccia nell'incarto prodotto a questo ufficio) oppure prima di
+questo. Di fatto vi è una richiesta di assunzione di prova formalmente respinta
+dal magistrato inquirente con decisione impugnabile.
+8.
+Il reclamo, presentato dal destinatario della
+decisione e tempestivo (la busta di spedizione reca il timbro postale dell'11
+marzo 2004), è ricevibile in ordine.
+9.
+In
+diritto, i criteri che presiedono l'assunzione di prove (in sede di deposito
+atti come in corso d'istruttoria) sono noti alle parti e già indicati nella
+sentenza 13 febbraio 2003 (consid. 2., 2.b. in particolare) a cui
+esplicitamente si rinvia (DTF 123 I 31).
+Va comunque precisato che, nel
+caso in esame, il fatto che non si tratti di una effettiva assunzione di
+"nuova" prova (Osservazioni, ad 6) non è rilevante, ritenuto che la
+richiesta parte dal presupposto di una non corretta/completa evasione di
+complemento precedentemente accolto (quindi con già avvenuta verifica dei
+presupposti di legge), è sufficiente che novità, pertinenza e rilevanza siano
+accertate per rapporto a questo specifico fatto, se l'argomento è fondato (cfr.
+per analogia sentenza 4 marzo 2004, GIAR 237.2002.15).
+10.
+a)
+Come detto, il magistrato inquirente sostiene che
+quanto poteva essere fatto per assumere la prova in questione lo è stato. Solo
+l'irreperibilità della persona da sentire ne ha impedito (e ne impedirebbe)
+l'audizione divenuta quindi impossibile da effettuare.
+Questa interpretazione di quanto emerge dagli atti di
+rogatoria non può essere condivisa.
+b)
+Dagli atti prodotti dall'autorità italiana risulta che
+__________ non si è presentato a nessuno dei due interrogatori fissati. La
+prima volta avrebbe addotto impedimento del difensore, la seconda neppure si
+sarebbe preoccupato di giustificare la mancata comparizione. In entrambi i casi
+é stato regolarmente citato (AI 56, 59, 64, 65), con anche notifica della
+promozione d'accusa. In simili circostanze non si può affermare che si tratta di
+persona irreperibile. Né permette di trarre questa conclusione il fatto che non
+è stata data risposta positiva all'invito (del 17 settembre 2003 - AI 60) fatto
+a __________ di fissare una data per l'interrogatorio in Svizzera (invito che,
+peraltro, non si esprime su una delle richieste di __________ per presentarsi).
+Di transenna, si segnala che il CPPI prevede che
+l'irreperibilità è conseguenza dell'impossibilità di notifica e dovrebbe essere
+accertata dal giudice mediante decreto (art. 159 CPPI,
+http://www.notarlex.it
+).
+c)
+Se la prova da assumere è l'audizione di una persona,
+il semplice fatto che questi non dia seguito alla citazione non permette di
+concludere che la prova sia stata (formalmente) assunta, rispettivamente che si
+è fatto tutto quanto si poteva/doveva per assumerla o vi sia impossibilità di
+assunzione.
+Il CPPTI prevede (se non addirittura impone) forme di
+coercizione per le persone che non danno seguito ad una citazione, siano esse
+indagate, accusate o testi (artt. 117 e 122 CPP). Analoghe misure sembrano
+essere previste dalla legislazione italiana (artt. 132 e 133 CPPI,
+http://www.notarlex.it
+). Per quanto concerne
+il caso in esame, il magistrato inquirente non sostiene, né emerge
+dall'incarto, che tutto quanto poteva/doveva essere messo in opera per
+procedere all'audizione lo sia stato, rispettivamente altro non poteva esser
+fatto o richiesto (cosa che non sembra potersi dedurre dalle normative
+applicabili: CEAG, Accordo Svizzera/Italia del 10 settembre 1998 - gli artt. 7
+ss. CEAG contemplano altre situazioni).
+11.
+In virtù di quanto esposto ai considerandi precedenti
+(in particolare al considerando 10.) si deve concludere che l'interrogatorio di
+__________ non ha avuto luogo per il semplice fatto che egli non ha inteso dar
+seguito alle citazioni. Nessuna misura, tra quelle previste sia dalla
+legislazione elvetica che da quella italiana per permettere l'assunzione della
+prova, è stata posta in essere. Ne consegue che i complementi accolti da questo
+giudice con sentenza del 13 febbraio 2003 non sono stati correttamente e
+completamente assunti. La richiesta presentata da __________ con scritto 23
+febbraio 2004, e ribadita con il reclamo dell'11 marzo 2004, è pertanto fondata
+e va ammessa.
+Al fine di correttamente completare l'acquisizione
+delle prove e, quindi, l'istruttoria predibattimentale, il Procuratore pubblico
+dovrà provvedere a far assumere la prova in questione (audizione __________)
+con tutti i mezzi previsti dalle legislazioni applicabili. Unicamente
+nell'impossibilità di applicare le norme sulla comparizione forzata la
+richiesta potrà essere dichiarata evasa (o se si preferisce impossibile da
+evadere).
+Il reclamo è pertanto accolto con la presente decisione
+definitiva. Tasse e spese sono a carico dello Stato che verserà al reclamante
+adeguate ripetibili.
+P.Q.M.
+Viste le norme applicabili, in particolare gli artt.
+139, 140, 146 CP, 19 LFStup, 188ss., 196, 280, 284 e contrario CPP,
+decide
+1.
+Il reclamo è accolto ai sensi dei considerandi (in
+particolare consid. 11).
+2.
+La tassa di giustizia, fissata in FRS 200.--, e le
+spese, di FRS 50.--, sono a carico dello Stato che verserà al reclamante FRS
+400.-- a titolo di ripetibili.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+giudice
+Edy Meli
