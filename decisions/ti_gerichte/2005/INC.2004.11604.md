@@ -1,0 +1,340 @@
+---
+decision_id: "ti_gerichte_INC.2004.11604"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.11604"
+decided: "2005-01-03"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=48218&nX40_KEY=4711288&nTrefferzeile=93&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-139.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2004.11604
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 03.01.2005 INC.2004.11604
+Tessin Il Giudice dell'istruzione e dell'arresto 03.01.2005 INC.2004.11604
+Ticino Il Giudice dell'istruzione e dell'arresto 03.01.2005 INC.2004.11604
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2004.11604
+Lugano
+3 gennaio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull'istanza di libertà provvisoria
+presentata il 28/29 dicembre 2004 da
+__________
+rappr. dal __________
+e qui trasmessa con
+preavviso negativo del 30 dicembre 2004 dal
+Procuratore pubblico Marco Villa
+, Lugano;
+viste le osservazioni della
+difesa dell'accusato (31 dicembre 2004);
+visto l'inc. MP __________;
+ritenuto
+in fatto
+A.
+__________ è stato arrestato il
+16 novembre 2004 con l'accusa di ripetuto furto, nonché di contravvenzione alla
+LFStup (art. 139 CP e 19a LStup).
+L'arresto è stato confermato il
+giorno successivo da questo giudice che ha ritenuto presenti, oltre a gravi
+indizi di colpevolezza, bisogni istruttori e pericolo di fuga (doc. 1 e 3, inc.
+GIAR 116.2004.2).
+B.
+__________ era già stato
+arrestato il 9 marzo 2004 con l'accusa di ripetuto furto consumato e tentato,
+ripetuto danneggiamento e ripetuta violazione di domicilio. Già in
+quell'occasione il GIAR aveva confermato l'arresto (inc. GIAR 116.2004.1).
+L'accusato era stato scarcerato
+il 15 marzo 2004 e dal rapporto di polizia giudiziaria 14 dicembre 2004 risulta
+che lo stesso aveva riconosciuto sei distinti furti.
+C.
+A seguito dell'attuale arresto -
+avvenuto nell'ambito dell'inchiesta __________ che ha coinvolto numerose
+persone (di cui una quindicina arrestate) e che include, oltre ai reati
+addebitati al qui istante anche quelli di ricettazione e di infrazione
+aggravata sub. semplice alla LStup - __________ ha ammesso di aver
+commesso/tentato di commettere, sia da solo che in correità con terzi,
+complessivi 24 furti nell'arco di poco più di un mese e mezzo (cfr. verb. PP
+10.12.2004 e Pol. 13.12.2004).
+D.
+Con l'istanza qui in discussione,
+__________, per il tramite del difensore d'ufficio, chiede di essere
+immediatamente posto in libertà provvisoria. L'istante non contesta l'esistenza
+di seri e concreti indizi di colpevolezza, ma ritiene che non sarebbero più
+dati bisogni istruttori né pericolo di collusione - essendo l'inchiesta a suo
+carico ormai conclusa, rispettivamente avendogli il magistrato inquirente
+concesso colloqui liberi con il difensore e con la madre - e neppure concreto
+pericolo di recidiva, ritenuto che il carcere sino ad ora sofferto
+"non
+può che aver sull'accusato un forte effetto deterrente"
+, come peraltro
+dimostrerebbero le sue dichiarazioni al termine del verbale PP 10 dicembre 2004
+"è mia ferma intenzione smetterla definitivamente con questa vita e
+trovarmi un lavoro".
+In siffatte circostanze il mantenimento della
+carcerazione preventiva non sarebbe più rispettoso del principio di
+proporzionalità.
+E.
+Il magistrato inquirente
+preavvisa negativamente la richiesta (30 dicembre 2004). Ricordato che
+__________ ha sostanzialmente ammesso i reati addebitatigli, il Procuratore
+pubblico evidenzia che sono tuttora dati bisogni istruttori e pericolo di
+collusione, ritenuto che si deve ancora procedere alla contestazione delle
+risultanze acquisite all'incarto e del verbale di polizia 13 dicembre 2004,
+verbale già fissato per il 4 gennaio 2005, e che, a dipendenza delle risposte
+dell'accusato, non è possibile escludere che si dovrà procedere ad ulteriori
+confronti sia con i correi che con le parti lese, rispettivamente che la
+concessione di colloqui liberi con il difensore e con la madre non esclude
+l'esistenza di un pericolo di collusione con altre persone coinvolte
+nell'inchiesta. Sarebbe pure dato un concreto pericolo di recidiva: dopo aver
+ricordato che l'accusato ha già un precedente (seppure datato) per reati
+analoghi, il Procuratore pubblico evidenzia che egli è stato arrestato per
+ripetuto furto nel marzo 2004 e dopo pochi mesi ha ripreso a commettere furti
+(ben 24 nell'arco di poco più di un mese e mezzo) da solo o in correità con uno
+o l'altro dei suoi correi. Da ultimo, evidenzia che il carcere preventivo sin
+qui sofferto e quello ancora da soffrire sarebbe proporzionato e giustificato.
+F.
+Con osservazioni 1 gennaio 2005
+la difesa si riconferma sostanzialmente nella primitiva istanza, rilevando nel
+contempo di essere in procinto di presentare una domanda LAPS.
+Delle ulteriori argomentazioni si
+dirà, per quanto necessario ed al fine di evitare inutili ripetizioni, nei
+considerandi in diritto.
+E considerato
+In diritto
+1.
+__________, accusato e detenuto,
+è certamente legittimato all'inoltro della presente istanza.
+Il preavviso negativo,
+consegnato, unitamente all'incarto, a questo ufficio il 30 dicembre 2004, è
+tempestivo.
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui riproposti:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc.
+520.2001.5)
+3.
+Sufficienti presupposti di legge,
+come esplicati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di __________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà.
+3.1.
+I seri e concreti indizi di
+colpevolezza a carico di __________ (non formalmente contestati dalla difesa,
+ma comunque soggetti a verifica da parte di questo giudice) sono senz'altro dati.
+Basti qui rilevare che l'accusato
+è sostanzialmente reo confesso: in particolare ha ammesso di avere a far tempo
+da fine settembre 2004 e fino al suo arresto (16 novembre 2004) in 24 occasioni
+commesso o tentato di commettere 24 furti da solo o in correità con terze
+persone, tra cui __________, __________, __________, __________, __________,
+__________ ed __________ a __________, __________, __________, __________,
+__________, __________, __________, __________, __________, __________,
+__________, __________, __________, __________ e __________, rispettivamente di
+fare saltuariamente uso di sostanze stupefacenti (cfr. verb. PP 10.12.2004;
+verb. Pol. 13.12.2004).
+3.2.
+Quanto alle necessità istruttorie
+atte a giustificare la misura cautelare di privazione della libertà, non è
+inutile ricordare i seguenti principi:
+"
+-
+In relazione ai bisogni istruttori, atti a
+giustificare la misura restrittiva della libertà personale, occorre ricordare
+che questi non s'identificano semplicemente con gli atti istruttori in quanto
+tali, o con gli accertamenti (ancora) da effettuare, bensì con il pericolo di
+collusione o d'inquinamento delle prove che (eventualmente) espone a rischio la
+corretta raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale
+suisse, ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697
+ss.; RDAT 1988 no. 24). In quest'ottica il fatto che l'inchiesta sia tuttora in
+corso non è, di per sé, decisivo, in quanto "
+Die Tatsache allein, dass
+noch nicht alle Beweise erhoben bzw. die Mitverdächtigen dingfest gemacht
+werden konnten oder dass der Angeschuldigte die Aussage verweigert, genügt
+nicht
+" (N. Schmid, op. cit., no. 701a). Occorre che l'indagato, se
+posto in libertà, possa pregiudicarne (o comprometterne) il corretto svolgimento
+e, conseguentemente, l'esito.
+-
+E', inoltre, necessario che questa possibilità di
+pregiudicare la raccolta di elementi di prova si fondi su elementi concreti:
+"
+Jedoch genügt nach der Rechtsprechung des Bundesgerichtes die
+theoretische Möglichhkeit, dass der Angeschuldigte in Freheit kolludieren
+könnte, nicht, um die Fortsetzung der Haft oder die Nichtgewährung von Urlauben
+unter diesem Titel zu rechtfertigen. Es mussen vielmehr konktrete Indizien für
+eine solche Gefahr sprechen
+." (DTF 117 Ia 257, cons. 4 c.).
+-
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza
+d'interessi (tra i due) in relazione al contenuto della deposizione (SJ 1990 p.
+438; DTF 117 Ia 257; ZR 72 no. 77 p.19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66;
+Hauser/Schweri, Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13)."
+(GIAR 23 settembre 2002 in re Y.)
+Va da sé che i criteri sopra
+esposti richiedono applicazione più restrittiva allorquando l'inchiesta (e la
+detenzione) é in corso da un certo tempo.
+In concreto, l'istruttoria,
+contrariamente a quanto sostenuto nell'istanza, non è affatto terminata. Il
+Procuratore pubblico deve infatti ancora procedere alla contestazione ad
+__________ di tutte le risultanze acquisite all'incarto, nonché delle
+dichiarazioni da lui rilasciate nel corso del verbale di polizia del 13
+dicembre 2004, interrogatorio già fissato per il 4 gennaio 2005,
+successivamente, a dipendenza delle risposte del qui istante, si dovrà
+procedere alla verifica delle sue dichiarazioni con quelle di tutte le altre
+persone coinvolte ed in caso di discrepanze a tutta una serie di confronti sia
+con i correi sia con le parti lese in relazione alla refurtiva denunciata.
+Si tratta di passi d'inchiesta
+che esigono il mantenimento del carcere preventivo di __________, ciò a
+salvaguardia di una corretta ricerca della verità, anche a vantaggio degli
+stessi accusati: se è ben vero che egli ha sostanzialmente ammesso la
+commissione tentata o consumata, da solo o in correità con terzi, di oltre 20
+furti, è altrettanto vero che, come rilevato sopra, l'inchiesta __________ ha
+coinvolto numerose persone, di cui una quindicina sono state arrestate (quattro
+si trovano ancora in detenzione preventiva) ciò che non permette di escludere
+rischi collusivi con le altre persone coinvolte nell'inchiesta. La concessione
+da parte del magistrato inquirente di colloqui liberi all'accusato con il
+difensore, rispettivamente con la madre, non significa assenza di rischi
+collusivi con le altre persone interessate all'inchiesta. Visto il numero di
+persone coinvolte, la misura sostitutiva proposta, cioè il divieto di
+frequentare determinate persone e/o ambienti appare, allo stadio attuale
+dell'inchiesta, difficilmente attuabile e comunque non sufficiente ad ovviare
+al pericolo di collusione.
+Il fatto che i suddetti atti
+istruttori non siano ancora stati effettuati, non può essere ritenuto lesivo
+del principio di proporzionalità, tenuto conto del fatto che l'inchiesta, sin
+qui condotta in modo celere e preciso - l'istante è stato più volte sentito
+dagli inquirenti da ultimo il 15 dicembre 2004 ed un ulteriore verbale dinanzi
+al Procuratore pubblico è già stato fissato per il 4 gennaio 2005 - procede
+parallelamente anche nei confronti di numerose altre persone e che pertanto gli
+atti d'inchiesta nei confronti dell'uno sono funzionali anche all'inchiesta
+dell'altro. Ovviamente ciò vale per il momento attuale: l'autorità inquirente,
+che ha peraltro già fissato la data per il verbale di contestazione, è comunque
+invitata a procedere celermente - così come avvenuto fino a tutt'oggi - agli
+accertamenti che dovessero risultare necessari successivamente al suddetto
+verbale (nel rispetto dell'art. 102 cpv. 1 CPP).
+3.3.
+In casu è pure dato,
+contrariamente a quanto ritenuto dall'istante, concreto pericolo di recidiva.
+A tale proposito giova
+preliminarmente ricordare che il pericolo di recidiva deve essere concreto (DTF
+105 Ia 31) e risultare da una valutazione dell'insieme delle circostanze, tra
+cui i precedenti dell'accusato, il suo comportamento durante l'istruttoria, la
+sua personalità, la sua costituzione fisica e soprattutto psichica e le
+modalità di commissione dei reati (LUVINI, I presupposti materiali del carcere
+preventivo nel processo penale ticinese, REP. 1989, pag. 294; G. PIQUEREZ,
+Manuel de procédure pénale suisse, Zurich 2001, n. 1479/1483).
+In concreto, a sostegno
+dell'esistenza di tale rischio depone l'esistenza di precedenti specifici. In
+particolare, __________ è stato arrestato nel marzo 2004 con contestuale
+promozione dell'accusa per i reati di furto, danneggiamento e violazione di
+domicilio: nell'ambito di tale inchiesta egli ha ammesso la commissione di sei
+furti ed è rimasto in stato di detenzione preventiva circa 1 settimana. Tale
+esperienza non sembra essergli servita quale monito, ritenuto che pochi mesi
+dopo egli ha ricominciato a delinquere: in particolare in un arco di tempo
+piuttosto breve - circa 1 mese e mezzo - egli ha commesso/tentato di commettere
+oltre 20 furti - per i quali è sostanzialmente reo confesso -, significativo che,
+a dipendenza del caso, egli operasse da solo o con l'uno o l'altro dei suoi
+correi e che l'ultimo furto risalga al giorno precedente all'arresto cioè il 15
+novembre 2004, ciò a dimostrazione della sua continua disponibilità a
+delinquere. Non va del resto dimenticato che già nel 1996, __________ era stato
+condannato a 10 giorni di detenzione sospesi condizionalmente per un periodo di
+prova di 2 anni per titolo di tentato furto, appropriazione semplice di lieve
+entità e danneggiamento (DAP __________).
+In siffatte circostanze e tenuto
+conto del fatto che l'istante è senza lavoro e senza mezzi - egli è
+"in
+procinto"
+di inoltrare domanda LAPS -, la sua messa in libertà rende
+concreto il rischio che lo stesso riprenda a delinquere. Le dichiarazioni di
+buoni intenti formulate da __________ al termine del verbale PP 10 dicembre
+2004, rispettivamente contenute nell'istanza qui in discussione, non permettono
+di sovvertire siffatta conclusione e, visti i precedenti, appaiono del resto
+difficilmente credibili. Né giova all'istante richiamare la giurisprudenza di
+cui al Rep. 1998 n. 103, trattandosi di diversa fattispecie.
+4.
+In concreto sono quindi date le
+condizioni che giustificano la detenzione preventiva - seri indizi di
+colpevolezza, bisogni istruttori, pericolo di collusione e pericolo di recidiva
+-.
+Visto il lasso di tempo
+intercorso fra l'arresto e l'istanza di libertà provvisoria ora in esame (circa
+1 mese e mezzo), va infine rilevato che il carcere preventivo sofferto ed
+ipotizzabile, in un procedimento che risulta essere condotto con sollecitudine
+nonostante la presenza di più persone coinvolte, è rispettoso del principio di
+proporzionalità, con riferimento alla presumibile pena.
+Resta sottinteso l'obbligo per il
+magistrato inquirente di trattare con priorità i casi in cui l'accusato è in
+detenzione (art. 102 cpv. 1 e 176 cpv. 3 CPP).
+Il presente giudizio, in tema di
+libertà personale, è esente da spese e tassa di giustizia.
+P.Q.M.
+richiamati gli articoli 19a
+LFStup, 139 CP, 95 ss. 102, 103, 279 ss, 284 CPP,
+decide:
+1.
+L'istanza è
+respinta.
+2.
+Non si
+percepiscono né tassa né spese giudiziarie.
+3.
+Contro
+la presente decisione è dato ricorso alla Camera dei ricorsi penali entro dieci
+giorni dall’intimazione.
+4.
+Intimazione
+(anticipata via fax):
+giudice
+Ursula Züblin
