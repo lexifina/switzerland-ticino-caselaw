@@ -1,0 +1,79 @@
+---
+decision_id: "ti_gerichte_INC.2001.2206"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.2206"
+decided: "2001-10-29"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59621&nX40_KEY=4711438&nTrefferzeile=98&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2001.2206
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 29.10.2001 INC.2001.2206
+Tessin Il Giudice dell'istruzione e dell'arresto 29.10.2001 INC.2001.2206
+Ticino Il Giudice dell'istruzione e dell'arresto 29.10.2001 INC.2001.2206
+
+Sentenza o decisione senza scheda
+
+N. 22.2001.6-7 M                                                       Lugano,
+29 ottobre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sulla domanda 19 settembre 2001 di
+messa sotto suggello di documentazione societaria (inc. Giar __________) e
+successivo reclamo contro il relativo sequestro (inc. Giar __________)
+inoltrati da
+__________
+,            __________
+(difeso d’ufficio dall’avv. __________)
+nell’ambito
+del procedimento penale a carico suo e di __________ (avv. dott. __________) per
+titolo di appropriazione indebita, truffa, falsità in documenti;
+preso atto
+che il reclamante, con scritto 11/15 ottobre 2001 del suo difensore, ha
+dichiarato di ritirare il reclamo, ciò di cui viene dato atto tramite la
+presente decisione, esente da tassa e spese di giustizia e senza attribuzione
+di ripetibili (l’esito del reclamo essendo il frutto di un accordo fra il
+magistrato inquirente ed il reclamante);
+visti gli
+artt. 157 ss., 164, 280 ss. e 284 cpv. 1 lit. a CPP
+d e c i d e :
+1.
+Il
+reclamo è stralciato dai ruoli a seguito del suo ritiro.
+2.
+Non
+si prelevano tassa né spese giudiziarie, e non vengono attribuite ripetibili.
+3.
+Contro
+la presente decisione è dato il rimedio del ricorso alla Camera dei ricorsi
+penali del Tribunale di appello entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+-
+avv. __________, per sé e per l’accusato reclamante;
+-
+avv. dott. __________, per sé e per l’accusato __________.
+-
+avv. __________, per sé e per la Banca __________;
+-
+Procuratore Pubblico avv. __________.
+5.
+Comunicazione:
+-
+avv. __________, per sé e per la denunciata __________;
+-
+avv. __________, per sé e per il denunciato __________;
+-
+avv. __________, per sé e per la parte civile __________.
+giudice __________
