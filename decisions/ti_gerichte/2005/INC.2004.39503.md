@@ -1,0 +1,248 @@
+---
+decision_id: "ti_gerichte_INC.2004.39503"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.39503"
+decided: "2005-01-04"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=48212&nX40_KEY=4711288&nTrefferzeile=91&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-036.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2004.39503
+
+## Regeste
+
+proroga del carcere preventivo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 04.01.2005 INC.2004.39503
+Tessin Il Giudice dell'istruzione e dell'arresto 04.01.2005 INC.2004.39503
+Ticino Il Giudice dell'istruzione e dell'arresto 04.01.2005 INC.2004.39503
+
+Incarto n.
+INC.2004.39503
+Lugano
+4 gennaio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire sull'istanza di proroga del carcere
+preventivo presentata il 16 dicembre 2004 dal
+Procuratore pubblico
+Rosa Item, Ministero pubblico
+di Lugano
+nei confronti di
+____________________
+(rappr. dal __________
+accusato dei reati di cui agli
+artt. 19 cfr. 2, subordinatamente cifra 1, e 19a LFStup, 23 LDDS;
+viste le osservazioni 28/29
+dicembre 2004 dell'accusato (presentate per il tramite del patrocinatore);
+visti gli inc. MP __________
+__________;
+ritenuto e considerato
+in fatto ed in
+diritto
+che:
+-
+__________ è stato arrestato il 12 luglio 2004 (doc. 2, inc. GIAR
+395.2004.1);
+-
+il 13 luglio gli è stata formalmente promossa l'accusa, per i
+titoli di reato indicati nel cappello della presente, ed è stata richiesta la
+conferma dell'arresto (doc. 1, inc. GIAR 395.2004.1);
+-
+questo giudice ha confermato la misura cautelare, constatata la
+presenza di gravi indizi di reato nonché concreto pericolo di fuga e concrete
+necessità istruttorie (doc. 4, inc. GIAR 395.2004.1);
+-
+l'istruttoria è poi proseguita, così come emerge in particolare
+dall'elenco atti dell'inc. MP __________ nonché dal Rapporto di polizia
+giudiziaria del 10 dicembre 2004 relativo all'inchiesta nei confronti di
+__________ e __________ (cfr. pagine 11 a 22);
+-
+con l'istanza qui in discussione si chiede la proroga di un mese
+del carcere preventivo cui è astretto l'accusato (doc. 1, inc. GIAR
+395.2004.3);
+-
+il magistrato inquirente, dopo aver esposto gli indizi di reato a
+carico di __________ in relazione a varie azioni costitutive di reato (commesse
+prevalentemente in correità con __________) per un quantitativo di eroina
+superiore a 2 Kg (ancorché dall'elenco atti non risulta formale estensione
+dell'accusa per rapporto all'ipotesi formulata contestualmente all'arresto),
+sostiene presenza di concreto pericolo di fuga (cittadinanza straniera e
+prospettiva di pena), bisogni dell'istruzione (interrogatorio di due persone e
+formalità di chiusura dell'istruttoria), nonché di concreto pericolo di
+recidiva (assenza di scrupoli da parte di persona già condannata);
+-
+la difesa, con osservazioni del 28/29 dicembre 2004 (doc. 3, inc.
+GIAR 395.2004.3), contesta l'esistenza di gravi inizi di reato per i
+quantitativi indicati dal Procuratore pubblico (le sue ammissioni sarebbero
+riferite a quantitativi nettamente inferiori - cfr. Osservazioni, punto 3 a.),
+la presenza di un concreto pericolo di fuga (per la collaborazione offerta, la
+cessazione del consumo), di un pericolo di recidiva (lo spaccio, anche quello
+che ha condotto a precedenti condanne, era legato al consumo ora cessato) e
+l'esistenza di concrete necessità istruttorie (la fattispecie è stata chiarita
+e disposto il deposito degli atti); pure contestata e la proporzionalità della
+proroga per rapporto alla pena previsibile;
+-
+i principi che reggono la materia, pur se noti alle parti,
+vengono qui brevemente richiamati:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il
+rispetto
+della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102
+Ia 381).
+I menzionati presupposti vanno approfonditi con maggior
+rigore nella loro valutazione, quanto più si è protratta la restrizione della
+libertà e quanto più si avvicina la conclusione delle indagini (REP 1988 pag.
+416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei ricorsi
+penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag. 128)."
+(per tutte:
+sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+-
+per quanto concerne i seri e concreti indizi di colpevolezza a
+carico di __________, tenuto conto dei limiti che deve porsi questo giudice, la
+loro presenza/esistenza è data, nel caso in esame, e non solo per i
+quantitativi ammessi, come indicato dalla difesa (che comunque già concernono quantitativi
+superiori ai 200 grammi - cfr. Verbale PP 30.07.2004); vi sono agli atti
+dichiarazioni di terzi che affermano di aver acquistato da __________, mentre
+l'accusato non li ha menzionati nelle sue ammissioni ed ha negato i fatti in
+sede di confronto (cfr. __________ 17.06.2004, __________ 16.07.2004, confronto
+__________ /__________ 2.11.2004), nonché dichiarazioni, sempre di terze
+persone, che affermano costante frequente compresenza di __________ e
+__________, con il primo che dava l'impressione di essere colui che tra i due
+"comandava" (__________8.11.2004); a quanto sopra si aggiunga che lo
+stesso accusato ha affermato di aver più volte risposto a telefonate di
+acquirenti, concordando consegne (quindi quantitativi e prezzi) in gran parte
+effettuate poi concretamente da __________ (Verbale PP 30.07.2004, pag. 2;
+Verbale PP 2.11.2004, pag. 2 e 5), il che induce a pensare che egli conoscesse
+perlomeno prezzi praticati, quantitativi disponibili e disponibilità a
+effettuare consegne da parte di __________; non da ultimo, risulta pure che
+egli partecipava alle operazioni di taglio dello stupefacente (Verbale PP
+30.07.2004, pag. 3), ha "passato" a __________ suoi
+"vecchi" clienti (Verbale PP 2.11.2004, pag. 6) e conosceva l'entità
+degli acquisti a Zurigo (Verbale PP 2.11.2004, pag. 5); da tutto quanto
+indicato (in parte confermato dai controlli telefonici posti in essere nei
+confronti di __________ - cfr. AI 5 e 11) non si può che concludere per la
+presenza di seri e concreti indizi di correità per l'intera attività svolta da
+__________;
+-
+pacifica l'esistenza di indizi in relazione all'infrazione alla
+LDDS (Verbale PG 13.07.2004; Verbale GIAR 13.07.2004, pag. 2);
+-
+il pericolo di fuga e quello di recidiva emergono in modo
+concreto dall'incarto prodotto;
+-
+sebbene la gravità della pena presumibile (qui certamente non
+indifferente e probabilmente oltre il limite per la concessione della
+sospensione, qualora le accuse trovassero conferma) non basti, da sola, a
+motivare la carcerazione, nel caso in esame, il rischio in questione associato
+all'assenza di legami famigliari importanti, rispettivamente professionali in
+Svizzera, paese nel quale è entrato ed ha soggiornato irregolarmente, fanno sì
+che una sua futura permanenza, in Svizzera ai fini del reinserimento e/o del
+collocamento, appare improbabile; il fatto che abbia deciso di smettere con il
+consumo di stupefacenti (comunque solo durante la detenzione) non è in alcun
+modo indice i volontà di rimanere a disposizione per il seguito dell'inchiesta
+e l'eventuale dibattimento; la situazione personale dell'accusato rende la fuga
+non solo possibile ma probabile (DTF 19 gennaio 1999 in re G.S.; DTF 117 Ia 69;
+SJ 1980 186; SJ 1981 135; N. Schmid, Strafprozessrecht, ZH 1997, no. 701),
+ritenuto, inoltre che la concretezza del pericolo di fuga può essere accertata
+"
+Auch wenn keine konkrete Flüchtpläne u.ä. gefordet sind, …
+"
+(Schmid, ibidem);
+-
+abbondanzialmente, dall'incarto emerge anche la presenza di un
+pericolo di recidiva; __________ ha già subito condanna, per infrazioni aggravata
+alla LFStup, nel 1999 da parte della magistratura dei Minorenni (AI 34) e nel
+novembre 2003 è stato perlomeno inchiestato (l'esito del procedimento non è
+desumibile dal casellario prodotto - cfr. doc. 3 inc. GIAR 395.2004.1) nella
+svizzera tedesca per lo stesso tipo di reato; le precedenti disavventure
+giudiziarie non sembrano averlo trattenuto dal dedicarsi a traffici che anzi,
+alla luce degli indizi della presente inchiesta, sembrano essersi intensificati
+e commessi previa entrata e soggiorno illegale in Svizzera, dimostrando così
+un'assenza di scrupoli che non può essere qui trascurata a fronte della
+cessazione del consumo in carcere;
+-
+visto l'accertamento dell'esistenza di pericolo di fuga e di
+recidiva, ci si può esimere dall'analizzare se siano presenti, a
+giustificazione della carcerazione preventiva, necessità istruttorie (concreto
+pericolo di collusione e/o inquinamento delle prove) che, invero neppure sono
+state chiaramente circostanziate dal magistrato inquirente (
+"
+Die Tatsache allein, dass noch nicht alle
+Beweise erhoben bzw. die Mitverdächtigen dingfest gemacht werden konnten oder
+dass der Angeschuldigte die Aussage verweigert, genügt nicht
+",
+N. Schmid, op. cit., no. 701a
+) cui spetta tale incombenza
+(anche nel rispetto dell'obbligo di motivazione e della garanzia del
+contraddittorio - si veda, inoltre, la nota alla sentenza 25 marzo 1998, in REP
+1998 p. 329), se ne afferma l'esistenza (GIAR 4 aprile 2002 in re C.); di certo
+non possono costituire valide necessità istruttorie, ai sensi degli artt. 95
+ss. CPP, le eventuali conseguenze della solo recente "congiunzione"
+di incarti connessi fin dall'inizio dell'istruttoria (art. 36 cpv. 1 CPP);
+-
+stabilito che gli elementi di legge per il mantenimento e/o
+proroga della detenzione preventiva sono presenti nel caso in esame, occorre
+ora valutare se la proroga richiesta (un mese) è rispettosa del principio di
+proporzionalità, ricordato che determinanti a tale proposito sono il rapporto
+tra la detenzione sofferta, o eventualmente ancora da soffrire, e la gravità
+dei reati (o meglio della pena ipotizzabile), nonché il rispetto dell'art. 102
+CPP (secondo cui l'inchiesta deve procedere con celerità);
+-
+nel caso in esame, alla luce dell'istruttoria (cfr. elenco AI e
+Rapporto di polizia del 10.12.2004, in particolare pagg. 18 a 22) e
+dell'attuale fase (conclusiva) della stessa (anche se non vi è traccia, nella
+documentazione trasmessa a questo giudice, del fatto che il deposito degli atti
+sia già avvenuto), tenuto conto che il rischio di pena, sempre in caso di
+conferma delle accuse, è ben superiore ai 6/7 mesi (cfr. art. 19 ultimo cpv.
+della cifra 1 in relazione con la cifra 2), la proroga richiesta, e concessa, è
+rispettosa del principio di proporzionalità.
+P.Q.M
+richiamate le norme applicabili,
+ed in particolare gli artt. 19 cifra 2 cpv. 2 LFStup, 95 ss, 102, 103, 284 CPP,
+decide
+1.
+L'istanza
+è accolta.
+§.    Di conseguenza, il carcere preventivo cui è astretto __________
+è prorogato di un mese e verrà a scadere il
+12 febbraio 2005 (compreso)
+.
+2.
+Non si
+prelevano tasse e spese.
+3.
+Contro la presente decisione è dato reclamo alla Camera dei
+ricorsi penali, Lugano, entro 10 (dieci) giorni dall'intimazione.
+4.
+Intimazione:
+giudice
+Edy Meli
