@@ -1,0 +1,177 @@
+---
+decision_id: "ti_gerichte_INC.1999.4802"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.4802"
+decided: "2001-09-10"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59699&nX40_KEY=4711442&nTrefferzeile=55&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-161.md", "switzerland/bund/acts/312.0/art-216.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.1999.4802
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 10.09.2001 INC.1999.4802
+Tessin Il Giudice dell'istruzione e dell'arresto 10.09.2001 INC.1999.4802
+Ticino Il Giudice dell'istruzione e dell'arresto 10.09.2001 INC.1999.4802
+
+Sentenza o decisione senza scheda
+
+N. 48.1999.2 L                                                           Lugano,
+10 settembre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato il 21 ottobre 1999 dalla
+__________
+,
+e "
+- se del caso -
+"
+dalla
+__________
+,
+(entrambe patrocinate dall'avv.
+__________)
+contro la decisione 11 ottobre
+1999 del
+Procuratore pubblico
+avv. __________, che ha rifiutato il
+parziale dissequestro di un conto bancario nel procedimento pendente contro
+__________ (patrocinato dall'avv. __________), per titolo di estorsione
+aggravata ed altri reati;
+viste le osservazioni 4 novembre
+1999 del magistrato inquirente, che si rimette a giustizia, e di __________
+(patrocinato dall'avv. __________), che postula la reiezione del reclamo;
+preso atto che __________ non ha
+presentato osservazioni;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che
+-
+nel contesto dell'istruzione formale contro __________ per titolo di
+estorsione aggravata ed altri reati, come a denuncia di __________, il
+Procuratore pubblico ha disposto il sequestro del conto n. __________
+"__________" presso la succursale di __________ della __________
+S.A.;
+-
+con decisione 11 ottobre 1999, lo stesso magistrato ha rifiutato il
+dissequestro parziale di fr. 160'000.- e accessori, chiesto il 5 ottobre 1999
+dal menzionato istituto bancario, in forza di pegno costituito a suo favore il
+13 agosto 1996;
+-
+facendo riferimento alla giurisprudenza (REP 1991, pag. 541), il reclamo
+insiste per il dissequestro, facendo valere la buona fede della __________ S.A.
+nell'apertura del conto interessato e nella negoziazione del pegno;
+-
+mentre il Procuratore pubblico ha dato atto della correttezza della
+posizione della banca ("
+Nell'ambito dell'istruttoria non è emersa
+alcuna contraddizione oggettiva quo alla buona fede della __________
+"), __________ sostiene che quel conto era stato alimentato con proventi
+dei reati a suo danno e che la __________ S.A. ha mancato della dovuta
+diligenza, non avendo eseguito la benché minima indagine;
+-
+l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il
+sequestro di tutti gli oggetti che possono avere importanza per l’istruzione
+del processo alternativamente o cumulativamente come mezzi di prova o in quanto
+passibili di confisca o devoluzione allo Stato: la norma corrisponde
+sostanzialmente a quanto in precedenza disposto successivamente dall’art. 120
+CPP/1942 e dall’art. 120 CPP/1993, per cui ancora soccorre la giurisprudenza
+della Camera dei ricorsi penali e di questo Ufficio giudiziario sul tema (REP.
+1987, p. 265; 1989, p. 599; sentenze 30 gennaio 1992 in re O.C., CRP 282/91 e
+17 marzo 1992 in re G.M., CRP 38/92; decisione 25 settembre 1996 in re V.D.,
+GIAR 468.96.1);
+-
+è tuttavia ovvio che oggetto del provvedimento in vista di confisca
+(come sarebbe qui il caso) può colpire unicamente attivi a libera disposizione
+e non debiti o impegni presi correttamente e civilmente vincolanti: quindi
+mantiene logica validità la giurisprudenza della Camera dei ricorsi penali (v.
+sopra), nel senso che non è passibile di sequestro una garanzia bancaria ed il
+corrispondente pegno, a patto che il relativo contratto non sia inficiato da
+sospetto di reato, non essendo discorso di buona fede del terzo, confrontato
+con una controparte al negozio autrice o sospetta autrice di reato (come
+all'art. 59 cfr. 1 cpv. 2 CP), ma di contratto perfezionatosi al di fuori da
+qualsiasi reato (decisione 11 agosto 1999 in re O.R., GIAR __________);
+-
+a richiesta di questo giudice e per la notizia della chiusura delle
+indagini preliminari, con lettera 23 gennaio 2001 il Procuratore pubblico ha
+comunicato che "
+a conclusione dell'istruttoria non è emerso alcun nuovo
+elemento che permetta di considerare modificata la situazione creatasi al momento
+della presentazione del reclamo in specie quo alla buona fede della __________
+";
+-
+con atto del 29 agosto 2001 (ABB __________), il Procuratore pubblico ha
+abbandonato il procedimento a carico di __________, ritenuto in conclusione che
+"
+l'istruzione formale non ha … permesso, nel caso concreto, di
+raccogliere sufficienti elementi probatori a sostegno della colpevolezza di
+__________, in particolar modo per quanto concerne la sussistenza di effettivi
+mezzi di pressione esercitati con successo sul denunciante, la falsificazione
+della firma di __________ o l'impiego fraudolento di ordini firmati in bianco
+dal denunciante
+": si avvalora quindi e per converso, sotto il profilo
+penale, la regolarità dei depositi e dei contratti tra __________ e la
+__________ S.A.;
+-
+il citato decreto di abbandono non si pronuncia esplicitamente sui
+sequestri ordinati in corso di procedura, ma indirettamente dispone il
+versamento di fr. 1'950'000.- a favore dell'Ufficio esazioni e condoni
+(dispositivo n. 4), conformemente all'accordo tra quest'ultima autorità ed i
+coniugi __________, "
+qualora avvenga il dissequestro penale
+"
+(consid. N. 4): riservato un successivo giudizio della Camera dei ricorsi
+penali (in particolare di accoglienza di atto di accusa proposto dalla parte
+civile, secondo l'art. 216 CPP), va quindi considerato, semmai automaticamente,
+siccome dissequestrato il conto n. __________, qui in discussione;
+-
+in ogni modo, per le ragioni esposte, il reclamo viene qui tutelato, con
+la presente decisione impugnabile alla Camera dei ricorsi penali (art. 284 cpv.
+1 lett. a CPP): la soluzione essendo conseguenza degli accertamenti istruttori
+completati in corso di pendenza, si prescinde da giudizio sulle spese
+giudiziarie e sulle ripetibili;
+per i quali motivi,
+visti i citati articoli di legge
+e gli art. 280 ss. CPP,
+decide:
+1.
+Il reclamo è accolto.
+1.1
+Di
+conseguenza è ordinato il dissequestro dell'importo di fr. 160'000.- e
+accessori, depositati sul conto n. __________ presso la succursale di
+__________ della __________ S.A.
+2.
+Non si percepiscono spese giudiziarie.
+3.
+Contro la presente decisione e nel termine di dieci giorni
+dall'intimazione, è dato ricorso alla Camera dei ricorsi penali.
+4.
+Intimazione:
+-
+avv. __________, per le reclamanti (con copia delle osservazioni
+del magistrato inquirente e di __________);
+-
+avv. __________, per sé e per __________ (con copia delle
+osservazioni del magistrato inquirente);
+-
+avv. __________, per sé e per __________ (con copia delle
+osservazioni del magistrato inquirente e di __________);
+-
+Procuratore pubblico avv. __________, sede (con copia delle
+osservazioni di __________).
+giudice
+__________
