@@ -1,0 +1,81 @@
+---
+decision_id: "ti_gerichte_INC.1999.81105"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.81105"
+decided: "2000-07-17"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=57009&nX40_KEY=4711466&nTrefferzeile=37&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.1999.81105
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 17.07.2000 INC.1999.81105
+Tessin Il Giudice dell'istruzione e dell'arresto 17.07.2000 INC.1999.81105
+Ticino Il Giudice dell'istruzione e dell'arresto 17.07.2000 INC.1999.81105
+
+Sentenza o decisione senza scheda
+
+N. 811.99.5 L                                                              Lugano,
+17 luglio 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato il 14 luglio 2000 da
+__________
+,
+attualmente in carcere preventivo
+(patrocinato dall'avv.
+__________)
+contro la decisione 4 luglio 2000
+della
+Procuratrice pubblica
+dott. __________, che ha provvisoriamente
+sospeso i colloqui liberi tra l'accusato e la moglie, nel procedimento pendente
+contro il reclamante per titolo di infrazione aggravata alla legge federale
+sugli stupefacenti;
+atteso che:
+-
+il provvedimento impugnato è stato sostituito con la decisione 14 luglio
+2000, con la quale la magistrata inquirente ha ripristinato i colloqui tra
+l'accusato e sua moglie, provvisoriamente sorvegliati e registrati, sino a
+conclusione degli accertamenti necessari a seguito di recenti sviluppi
+istruttori;
+-
+il reclamo si rivolge unicamente alla prima decisione, lasciando anche
+intendere che (perlomeno a mente del patrocinatore) la nuova soluzione può
+essere accettata;
+-
+conseguentemente il reclamo è divenuto privo di oggetto e va stralciato
+dai ruoli, rimanendo riservata in ogni modo l'impugnazione della decisione del
+14 luglio 2000, come al richiamo ai rimedi di diritto nella stessa correttamente
+indicati;
+-
+data la situazione non si percepiscono né tassa né spese giudiziarie;
+visti gli art. 280 ss. CPP,
+decide:
+1.
+Il reclamo è evaso, in quanto divenuto privo di oggetto.
+2.
+La presente decisione è definitiva.
+3.
+Non si percepiscono né tassa né spese giudiziarie.
+4.
+Intimazione:
+-
+avv. __________, per sé e per l'accusato;
+-
+Procuratrice pubblica dott. __________, sede (con copia del
+reclamo).
+giudice
+__________
