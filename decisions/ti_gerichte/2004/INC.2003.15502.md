@@ -1,0 +1,334 @@
+---
+decision_id: "ti_gerichte_INC.2003.15502"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.15502"
+decided: "2004-07-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=98141&nX40_KEY=4711301&nTrefferzeile=12&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-058.md", "switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2003.15502
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.07.2004 INC.2003.15502
+Tessin Il Giudice dell'istruzione e dell'arresto 23.07.2004 INC.2003.15502
+Ticino Il Giudice dell'istruzione e dell'arresto 23.07.2004 INC.2003.15502
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.15502
+Lugano
+23 luglio 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Franco Lardelli
+sedente er statuire sul reclamo presentato il 3/4 maggio
+2004 da
+__________
+__________
+(entrambe patrocinati dall’avv. __________)
+contro
+la decisione 20 aprile 2004 del Procuratore pubblico Luca
+Maghetti, che ha respinto l’istanza presentata il 26 marzo 2004 dall’Ufficio
+dei fallimenti di __________ nella sua qualità di amministratore della
+fallita __________ , di dissequestro di beni sequestrati nell’ambito del
+procedimento penale a carico di __________ e __________ di cui all’inc. MP __________;
+viste le osservazioni 17 maggio
+2004 e la lettera 26 maggio 2004 del magistrato inquirente che postulano la
+reiezione del reclamo e dispongono il dissequestro di una parte degli oggetti
+sequestrati;
+letto ed esaminato l’inc. MP __________;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+i coniugi __________ e __________ sono stati arrestati rispettivamente
+in data 14 marzo 2003 e 17 marzo 2003, nell’ambito dell’inchiesta denominata “__________”
+e nei loro confronti il Procuratore pubblico ha promosso l’accusa per
+infrazione aggravata, sub. semplice, alla Legge federale sugli stupefacenti
+(art. 19 cifra 1 e 2 lett. c LFStup), ciò segnatamente in relazione alla loro
+attività di produzione di canapa indoor e alla vendita di canapa nei negozi __________
+e __________ di __________, questi ultimi gestiti dalla società __________ di __________;
+-
+in questo contesto il magistrato inquirente ha emanato diversi ordini di
+perquisizione e sequestro, anche bancari, con conseguente sequestro di canapa,
+di oggetti e impiantistica per la coltivazione di canapa, denaro contante o
+depositato su conti bancari, documentazione e contabilità;
+-
+con lettera 26 marzo 2004 (AI 159), l’Ufficio dei fallimenti del
+Distretto di __________ ha informato il Procuratore pubblico che la Pretura del
+Distretto di __________, con decreto 26 marzo 2004, ha pronunciato il fallimento
+della __________, __________; dopo aver evidenziato che “dal verbale di
+interrogatorio risulta che la documentazione contabile, parte della merce, come
+pure i conti bancari sono stati ... sequestrati”, l’Ufficio dei fallimenti ha
+pure chiesto, nella sua veste di Amministratore del fallimento “di voler
+dissequestrare i beni in modo da poterli inventariare a favore della Massa”;
+-
+con decisione 20 aprile 2004 (AI 162), il Procuratore pubblico ha
+respinto la richiesta di dissequestro a favore della Massa del fallimento della
+__________, ciò “dal momento che tutto quanto restato sotto sequestro, dopo lo
+sgombero dei locali, soggiace a confisca, vuoi quale strumento di reato, vuoi
+quale prodotto di reato”;
+-
+con reclamo 3 maggio 2004, __________ e la __________, postulano che sia
+“ordinato il dissequestro di tutti gli attivi, beni bancari e contabilità
+compresi, di pertinenza della __________”. Secondo le reclamanti, i beni
+sequestrati apparterrebbero alla __________, società con personalità giuridica;
+il sequestro penale non potrebbe “vertere sugli attivi sociali, ma semmai sulle
+quote sociali di pertinenza dei soci e sugli eventuali loro crediti nei
+confronti della società”; a loro dire “non si vede inoltre come tutti i beni
+della società possano essere strumenti di reato”, per cui, fatta eccezione per
+“i sacchetti odorosi”, tutto il resto della merce dovrebbe “essere
+dissequestrato e messo a disposizione della massa del fallimento affinchè
+quest’ultima possa procedere alla liquidazione del fallimento”. Lo stesso
+principio varrebbe, secondo le reclamanti, per gli averi bancari della società;
+sarebbero “semmai le eccedenze attive, per altro del tutto teoriche che
+potrebbero essere messe sotto sequestro, poichè soltanto tale eccedenza
+potrebbe semmai essere considerato provento di reato” e “i diritti patrimoniali
+degli indagati soci e non i beni della società che potrebbero correttamente
+essere considerati provento di reato”;
+-
+con osservazioni 17 maggio 2004, il magistrato inquirente rileva che,
+unitamente alla canapa sono ancora sequestrati “denaro contante per FRS
+27'490.- e Euro 2'650.-, il conto corrente della __________ c/o __________ __________
+(AI 66) per un saldo di oltre FRS 20'000.-, tutta l’impiantistica per la
+coltivazione indoor di marijuana (AI 132 pag. 1-7), vari oggetti (AI 132 pag.
+8-9), uno scooter marca Benelli (AI 97 e doc allegato AI 141) e documentazione,
+parziale, sequestrata presso la fiduciaria __________”. Il Procuratore pubblico
+dichiara di essere disponibile al dissequestro degli “oggetti elencati a pagina
+8 e 9 di cui all’AI 132 ... ad eccezione dei due oggetti descritti in fondo a
+ciascuna pagina 8 e 9”, come pure al dissequestro dello “scooter Benelli”; per
+tutti gli altri beni chiede conferma del sequestro a scopo di confisca ex art. 58
+CPS (dell’impiantistica utilizzata per la produzione della canapa) e ex art. 59
+cifra 1 cpv. 1 CPS (degli averi patrimoniali, e meglio dei “soldi sequestrati);
+-
+con lettera 26 maggio 2004, trasmessa in copia per conoscenza a questo
+giudice, il Procuratore pubblico ha comunicato al patrocinatore delle
+reclamanti la propria decisione di dissequestrare gli oggetti che si era
+dichiarato disponibile a dissequestrare nelle proprie osservazioni del 17
+maggio 2004;
+-
+con osservazioni 1. giugno 2004 l’Ufficio dei fallimenti ha dichiarato
+di non avere particolari osservazioni da presentare; __________ non ha invece
+presentato osservazioni;
+-
+durante l’udienza indetta da questo giudice in data 2 giugno 2004, le
+parti hanno dato atto che, oltre agli oggetti elencati dal Procuratore pubblico
+nelle sue osservazioni, risultano ancora sotto sequestro, di pertinenza della
+reclamante __________, FRS 158.30 e Euro 20.- sequestrati presso il negozio __________
+il 13 marzo 2003 alle ore 12.15/13.00 (AI 13), FRS 379.40, FRS 99.30 e Euro
+195.81 sequestrati presso il negozio __________ il 13 marzo 2003 alle ore
+9.00/14.20 (AI 13), un computer sequestrato presso il negozio __________ il 13
+marzo 2003 alle ore 9.00/15.00 (AI 13) e un computer e tre contenitori con
+dischetti sequestrati presso il negozio __________ alle ore 9.00/12.30 (AI 13);
+-
+l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il
+sequestro di tutti gli oggetti che possono avere importanza per l’istruzione
+del processo, alternativamente o cumulativamente come mezzi di prova o in
+quanto passibili di confisca o devoluzione allo Stato. Il sequestro, per la sua
+qualità di provvedimento eminentemente cautelare, ha lo scopo di acquisire e
+conservare gli oggetti di cui sopra al seguito della procedura e quindi per le
+necessità dell’istruzione preliminare, per le decisioni del magistrato
+requirente e quelle del giudice del merito, come evidenziato nella duplice
+prospettiva - alternativa o cumulativa - della produzione e valutazione delle
+prove (sequestro probatorio) e delle decisioni di confisca, restituzione o
+devoluzione (sequestro confiscatorio) (v. decisione 8 maggio 1998, inc. GIAR
+516.97.3, in: Rep. 131 [1998] nr. 117, consid. 1a p. 359), ritenuto che, come
+in tutti gli istituti procedurali tali da intaccare eccezionalmente i diritti
+individuali per prevalenza di interesse pubblico, il sequestro è legittimo
+unicamente in presenza concorrente di sufficienti indizi di reato e di
+connessione tra questo e l'oggetto che così occorre salvaguardare agli
+incombenti dell'autorità requirente ed inquirente, con sempre accresciuta
+esigenza probatoria indiziante approssimantesi alla verità materiale, a partire
+dal sospetto all’apertura del procedimento, che va in seguito ed indilatamente
+approfondito con gli accertamenti probatori del caso (v., in contesto più
+generale,
+Piquerez
+, cit., margin. 1116 ss.);
+-
+nella rinnovata forma in vigore dal 1° agosto 1994, le norme sulla
+confisca penale, segnatamente l’art. 58 cpv. 1 CPS, ribadiscono l’obbligo di
+confisca degli oggetti che hanno servito o erano destinati a commettere un
+reato o che costituiscono il profitto di un reato se tali oggetti compromettono
+la sicurezza delle persone, la moralità o l’ordine pubblico. Le norme sulla
+confisca penale ribadiscono pure l’obbligo di confisca di ogni e qualsiasi
+vantaggio patrimoniale ottenuto in maniera illecita: la definizione dei valori
+patrimoniali di cui all’art. 59 cfr. 1 cpv. 1 CPS riprende le previgenti
+dottrina e giurisprudenza (v.
+Niklaus Schmid
+, Das neue Einziehungsrecht
+nach Art. 58 ff. StGB, in: RPS 113 [1995], p. 321 ss., pto. 4.2.1 p. 331 e nota
+45, con rinvii [qui di seguito citato:
+Schmid
+RPS]). “Valori
+patrimoniali” non sono soltanto beni corporali, ma anche crediti (depositi
+bancari), carte valori e persino diritti immateriali e diritti reali limitati:
+essenziale è che essi abbiano un proprio, determinabile valore economico (v.
+Niklaus
+Schmid
+, nota 19 ad art. 59 CPS, in:
+Schmid
+(Hrsg.), Kommentar
+Einziehung, organisiertes Verbrechen und Geldwäscherei, Band I, Zürich 1998,
+qui di seguito citato:
+Schmid
+Kommentar) e che il loro illecito
+trasferimento nel patrimonio del reo conduca, quale conseguenza, ad un aumento
+dei suoi attivi o una diminuzione dei suoi passivi (v.
+Schmid
+,
+Kommentar, nota 17 ad art. 59 CPS). Sottostanno a tale tipo di confisca ai
+sensi dell’art. 59 cfr. 1 cpv. 1 CPS anche cosiddetti valori sostitutivi, sia
+propri che impropri (“echte und unechte Surrogate”, v.
+Schmid
+, RPS, pto.
+4.3.2, p. 334 ss.; DTF 126 I 97, consid. 3.c.bb p. 105-106). Beni sostitutivi
+impropri possono essere bloccati unicamente in presenza di una traccia cartacea
+che li riconduca all’originario provento di reato, mentre per i beni
+sostitutivi propri deve essere dimostrato che essi hanno preso il posto del
+bene originale (DTF 126 I 97, consid. 3.c.cc p. 107). Il bene da confiscare
+deve essere facilmente identificabile nel patrimonio dell’autore,
+rispettivamente del terzo beneficiario (DTF 126 I 97, consid. 3.c.cc p. 107,
+con rinvio a DTF 4 maggio 1999 in re Z., consid. 2b). La confisca non può essere
+ordinata nei confronti del terzo, se questi ha acquisito i valori patrimoniali
+ignorando i fatti che l’avrebbero giustificata, nella misura in cui abbia
+fornito una controprestazione adeguata o se la confisca costituisce nei suoi
+confronti una misura eccessivamente severa (art. 59 cifra 1 cpv. 2 CPS). Il
+diritto di proprietà acquisito da un terzo contemporaneamente o dopo la
+commissione del reato sarà quindi rispettato soltanto alle condizioni
+cumulative previste da questa disposizione (v. decisione CRP 27 agosto 2002 in
+re P.B., cons. 2.2 p. 4 e riferimenti dottrinali ivi menzionati);
+-
+l’esistenza di gravi indizi di reato, per altro non contestata dalle
+reclamanti, è certamente data. Basta qui richiamare le dichiarazioni fatte
+dalla reclamante __________, durante l’interrogatorio 24 aprile 2003 davanti al
+magistrato inquirente, segnatamente là dove ammette che lei e il marito hanno
+continuato a commerciare canapa anche dopo la condanna subita nel 2001 (decreto
+d’accusa), continuando nella gestione del negozio di canapaio __________, con
+la precisazione che “questo nome era solo il marchio del negozio” e che,
+entrambi, hanno “poi costituito la società __________, sotto la quale” hanno
+“poi fatto rientrare tutte le attività commerciali, ivi compreso il negozio __________
+aperto nell’autunno 2002 e le coltivazioni” di canapa (v. AI 85 p.1) e che nei
+negozi vendevano “dei sacchetti contenenti soprattutto fiori di canapa” con
+“l’assunzione del rischio” che quella canapa poteva “essere utilizzata” dagli
+acquirenti “quale stupefacente” (v. AI 85 p. 2-3). Interrogata sui proventi
+complessivi in termini di cifra d’affari e di guadagno, __________ ha pure
+ammesso che gli stessi nel 2001 si aggiravano “attorno a FRS 700'000.-“ e che,
+a suo parere “anche per il 2002 la cifra d’affari doveva essere come quella del
+2001”, come pure che per i primi mesi del 2003 “l’andamento degli affari” non
+era “molto diverso da quello del 2002” (v. AI 85 p. 4);
+-
+per quanto concerne gli importi di denaro sotto sequestro e meglio il
+conto corrente della __________ sequestrato il 20 marzo 2003/3 aprile 2003
+presso la __________ di __________, con un saldo attivo al momento del
+sequestro di FRS 20'805.15 (AI 66), gli importi di FRS 27'490.90 e Euro 2'650.-
+(sequestrati il 13 marzo 2003 alle ore 9.00/14.20 presso il negozio __________,
+v. AI 13), di FRS 158.30 e Euro 20.- (sequestrati il 13 marzo 2003 alle ore
+12.15/13.00 presso il negozio __________, v. AI 13), di FRS 379.40, FRS 99.40 e
+Euro 195.81 sequestrati il 13 marzo 2003 alle ore 9.00/14.20 presso il negozio __________,
+v. AI 13), va detto che è più che verosimile che siano il provento della
+vendita illecita di canapa. La reclamante __________ ha infatti ammesso di
+essere stata titolare e amministratrice della __________ (v. verb. di PO del
+17.3.2003 p. 1 e verb. GIAR 18 marzo 2003) e che sotto questa società sono
+state fatte rientrare tutte le attività commerciali di produzione e di vendita
+della canapa, ivi comprese le attività dei negozi __________ e __________ (v.
+AI 85 p. 1); gli importi sequestrati sul conto corrente della società e nei
+negozi sono del resto ampiamente compatibili con la cifra d’affari e
+l’andamento degli affari illeciti ammessi della medesima reclamante in FRS
+700'000.- annui a partire dal 2001 fino al momento dell’arresto (v. AI 85 p.
+4). In relazione a detti importi l’istanza di dissequestro deve dunque essere
+respinta, ritenuto che è d’altronde palesemente sbagliata la tesi sostenuta nel
+reclamo secondo la quale dovrebbero essere considerati provento di reato “i diritti
+patrimoniali degli indagati e non i beni della società” e che “il sequestro
+penale non possa vertere sugli attivi sociali, ma semmai sulle quote sociali di
+pertinenza dei soci e sugli eventuali loro crediti nei confronti della
+società”;
+-
+per quanto concerne l’impiantistica necessaria per la coltivazione
+indoor della canapa, elencata in dettaglio nella lista di cui all’AI 132,
+compilata dall’Ufficio reperti al momento della liberazione dei locali (v.
+verb. di udienza GIAR 2 luglio 2004, doc. 10 inc. GIAR 155.2003.2), non v’è
+motivo per questo giudice di discostarsi dalla prassi già instaurata dalle
+nostre Corti, che hanno provveduto alla confisca di simili impianti ex art. 58
+CPS, riconoscendo con ciò la pericolosità di tali “instrumenta sceleris” (v. sentenza
+16 gennaio 2004 della Corte delle assise criminali “in re” R.Z. e M.P.Z.,
+inc.72.2003.96). Anche in relazione all’impiantistica l’istanza di dissequestro
+viene dunque respinta;
+-
+per quanto concerne la contabilità della __________, la richiesta di dissequestro
+è stata presentata solo contestualmente al reclamo, essendo l'originaria
+richiesta rivolta al magistrato inquirente dall'Ufficio dei fallimenti limitata
+al dissequestro degli attivi (beni) inventariabili a favore della massa (AI
+159). A questo giudice non è però data competenza di intervento diretto, ma
+solo in seconda istanza su reclamo contro decisioni del magistrato inquirente,
+cui spetta la direzione del procedimento istruttorio; questa richiesta viene
+dunque respinta in quanto irricevibile;
+-
+per quanto concerne i due computer e i tre contenitori con dischetti
+sequestrati presso il negozio __________ in data 13 marzo 2003 alle ore
+9.00/15.00 e 9.00/12.30 (v. AI 13), il Procuratore pubblico non indica nè nella
+decisione impugnata nè nelle osservazioni al reclamo a quale titolo debba
+essere mantenuto il sequestro; il magistrato inquirente ha addirittura omesso
+di elencarli nell’elenco da lui fatto nelle osservazioni degli oggetti ancora
+sotto sequestro, nè tantomeno fa riferimento a specifiche esigenze probatorie o
+alla volontà di chiedere la confisca degli stessi ai fini di risarcimento
+compensatorio ai sensi dell’art. 59 cifra 2 CPS. D’altro canto non è possibile
+sostenere che questi oggetti siano stati utilizzati per commettere i reati addebitati
+alla reclamante __________. Su questo punto il reclamo merita pertanto di
+essere accolto, con conseguente dissequestro degli oggetti in questione;
+-
+per quanto concerne gli oggetti dissequestrati dal magistrato inquirente
+dopo la presentazione del reclamo ora in esame e meglio lo Scooter Benelli (AI
+141) e i vari oggetti di cui all’AI 132 pagg. 8-9, fatta eccezione per i due
+oggetti descritti in fondo a ciascuna pagina 8 e 9 (cfr. per il dettaglio anche
+il doc.7 dell’inc. GIAR 155.2003.2), il reclamo è evaso in quanto divenuto
+privo di oggetto;
+-
+di conseguenza il reclamo è parzialmente accolto ai sensi dei
+considerandi, con la presente decisione suscettibile di gravame alla Camera per
+i ricorsi penali (art. 284 cpv. 1 lett. a CPP), senza seguito di tassa e spese
+giudiziarie a carico delle reclamanti e senza attribuzione di ripetibili, visto
+l’esito di parziale accoglimento del reclamo.
+P.Q.M
+visti i citati articoli di
+legge,
+decide
+1.
+Il
+reclamo è parzialmente accolto. Di conseguenza:
+1.1
+Per quanto concerne la richiesta di
+dissequestro di due computer e di tre contenitori con dischetti sequestrati
+presso il negozio __________ in data 13 marzo 2003, il reclamo è accolto e gli
+oggetti dissequestrati;
+1.2
+per quanto concerne le rimanenti richieste di
+dissequestro, nella misura in cui non è divenuto privo d’oggetto, il reclamo è
+respinto ai sensi dei considerandi.
+2.
+Non
+si prelevano né spese né tassa di giustizia.
+3.
+Contro la presente decisione è dato reclamo
+alla Camera dei ricorsi penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+5.
+Comunicazione
+(solo del dispositivo):
+__________
+giudice
+Franco Lardelli
