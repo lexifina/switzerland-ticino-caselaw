@@ -1,0 +1,519 @@
+---
+decision_id: "ti_gerichte_INC.1998.100107"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1998.100107"
+decided: "2000-05-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56964&nX40_KEY=4711469&nTrefferzeile=11&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.1998.100107
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.05.2000 INC.1998.100107
+Tessin Il Giudice dell'istruzione e dell'arresto 23.05.2000 INC.1998.100107
+Ticino Il Giudice dell'istruzione e dell'arresto 23.05.2000 INC.1998.100107
+
+Sentenza o decisione senza scheda
+
+N. 1001.98.7 R                                                           Lugano,
+23 maggio 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+12 maggio 2000 formulata dalla
+Procuratrice Pubblica avv.
+__________
+e tendente ad ottenere la proroga
+della detenzione preventiva cui é astretto
+__________,
+detenuto presso il PCT, Cadro
+(patrocinato dal difensore di
+fiducia avv. __________)
+sino e compreso il prossimo 4
+settembre 2000 ossia per ulteriori tre mesi;
+visto lo scritto 22 maggio 2000
+della difesa che si rimette al giudizio del Giar;
+avuti gli atti del procedimento
+penale a disposizione;
+considerato:
+in fatto ed in
+diritto:
+1.
+Questo giudice si è già occupato
+del procedimento penale contro __________, da ultimo è stata decisa, il 19
+novembre 1999, la proroga della detenzione preventiva cui è astretto l'accusato
+sino e compreso il 4 giugno 2000. I fatti posti alla base di questo giudizio
+possono quindi, sostanzialmente, essere dedotti dai precedenti interventi di
+questo giudice:
+1.1.
+… __________ é stato
+arrestato a Zurigo il 4 dicembre 1998 unitamente al connazionale __________
+nell'ambito dell'inchiesta denominata "__________". Trasferito a
+__________ il giorno successivo l'accusato é stato sentito da questo giudice il
+6 dicembre 1998 con conferma dell'arresto. __________ é accusato, nell'ambito
+di complesso ed articolato procedimento, di riciclaggio di danaro ai sensi
+dell'art. 305 bis CPS. Il suo arresto é da porre in relazione alla
+segnalazione, da parte della Banca __________ (ai sensi dell'art. 305 ter cpv.
+2 CPS) degli estremi di un'operazione bancaria sospetta che permetteva di
+concludere per l'esistenza di seri indizi di riciclaggio, operazione posta in
+atto da __________. Questi risultava infatti titolare, presso l'istituto
+bancario in questione, di una relazione sulla quale sono stati eseguiti
+importanti versamenti in contanti subito trasferiti all'estero in favore, in
+particolare, di istituti bancari statunitensi. L'importo complessivo transitato
+sulla relazione bancaria di __________ presso la __________ e su altra
+relazione bancaria presso una seconda banca __________ ammonta a ca CHF 1 mio.
+1.2.
+L'inchiesta, che ha portato
+all'arresto di __________ il 3 dicembre 1998, ha permesso di evidenziare come
+questi avesse agito su istruzioni di __________, pure tratto in arresto il 4
+dicembre 1998, con la stessa imputazione di riciclaggio. __________ risulta
+avere consegnato a __________ il danaro da versare in banca fornendo gli
+estremi per l'invio degli importi all'estero. … a fronte delle richieste di
+pezze giustificative delle operazioni da parte della banca, (è) stata allestita
+falsa documentazione.
+1.3.
+Con l'arresto di __________
+agli inquirenti é stato possibile accertare come questi avesse ricevuto ingenti
+somme di danaro, per contanti, da __________ per il tramite di __________,
+somme consegnate in valuta italiana ed inglese, importi successivamente
+cambiati in dollari americani, quindi versati su conti bancari di __________ o
+facenti capo allo stesso rispettivamente su conti di terzi messisi a
+disposizione di __________ a sua richiesta. In effetti __________ ha
+utilizzato, per depositare il danaro contante ricevuto e cambiato come sopra,
+relazioni bancarie varie sia a lui personalmente intestate, sia intestate a
+società facenti capo a lui, sia conti bancari di terzi suoi conoscenti e amici
+tra i quali appunto __________ … __________, __________, __________ per non
+citare che i principali. Tutte queste persone sono state interrogate dagli
+organi di Polizia e dalla Procuratrice Pubblica e buona parte di loro é pure
+stata tratta in arresto. La relativa documentazione bancaria é stata domandata
+alle banche. Dette persone hanno ammesso di avere operato con modalità analoghe
+a quelle di __________, ossia hanno ammesso di avere ricevuto danaro contante
+tramite __________, soldi poi versati sui loro conti e quindi girati all'estero
+secondo le modalità ed in favore di terzi indicati dal __________.
+L'istruttoria ha così permesso di stabilire come __________ abbia operato
+trasferimenti (prevalentemente negli USA) di, complessivamente, ca. 5 mio CHF,
+ciò facendo capo sia a conti suoi che a conti di terzi, soldi ricevuti da
+__________ e da __________ con __________ che ha fornito modalità operative
+(cambio) ed estremi dei destinatari.
+1.4.
+Alla luce delle prime
+emergenze d'indagine, sempre il 4 dicembre 1998, il magistrato d'accusa che
+inizialmente si é occupato della fattispecie ha ordinato l'arresto di
+__________, fermato all'aeroporto di Zurigo, e di __________, fermato presso
+l'appartamento di Zurigo in uso a __________. Sia __________ che __________
+sono stati trasferiti in Ticino il successivo 5 dicembre e questo giudice ne ha
+confermato l'arresto il 6 dicembre successivo. … (essi) non hanno voluto fornire,
+sin dall'inizio e nel corso di tutta la fase istruttoria che é seguita al loro
+arresto, spiegazioni in merito al possesso del danaro, alla provenienza dello
+stesso ed alla destinazione, circostanza questa che ha imposto agli inquirenti
+particolare sforzo investigativo. Gli accertamenti della Polizia, sulla scorta
+della documentazione reperita, indicano come notevoli importi di danaro siano
+giunti, come detto, su relazioni del __________ ed a lui facenti capo
+rispettivamente su conti di __________ e __________ con danari
+girati in varie banche del
+mondo (USA, Irlanda, Italia, Giordania, Olanda, Panama, Jersey, Colombia e
+altri). Tra gli effetti personali di __________ e di __________ é stato
+possibile reperire la comprova di una serie impressionante di viaggi all'estero
+con un intensità davvero al di fuori dell'usuale, numerose appaiono le presenze
+di __________ in Colombia. Gli accertamenti bancari hanno permesso di reperire
+le copie degli ordini di bonifico eseguiti secondo una sistematica modalità identica
+per tutti ed identica ai modelli contenuti nella memoria del computer portatile
+reperito in possesso di __________ al momento dell'arresto.
+… nella borsa utilizzata da
+__________ per il trasporto di danaro, sulla macchina conta soldi in uso a
+__________, __________ e __________ nonché su soldi in diverse valute
+sequestrati al momento dell'arresto sono state rinvenute tracce di cocaina. In
+possesso di __________ sono stati trovati numerosi documenti fasulli
+(passaporto inglese, CI canadese, passaporto greco e licenza di condurre falsi)
+con la sua fotografia e documenti fasulli con la fotografia di __________.
+1.5
+Gli accertamenti svolti
+dagli inquirenti sulla base della documentazione bancaria sin qui acquisita
+hanno permesso di evidenziare l'accredito di un importo di 6 mio US$ su di un
+conto presso la Banca __________ intestato alla __________, di cui sono
+trustees __________ e __________, danari provenienti da reato commesso in
+Germania da parte di __________. In merito a questo specifico episodio la PP ha
+acquisito l'atto di rinvio a giudizio di __________ in Germania. __________ è
+stato dettagliatamente interrogato il 10 marzo 1999 ed il successivo 24 marzo
+1999 sull'episodio. Agli inquirenti, non coadiuvati dalle deposizioni di
+__________ e di __________, è stato possibile accertare il trasferimento di
+buona parte della somma in questione (5.4 mio US$) in favore di relazioni
+bancarie presso il Banco __________ (Columbia), con ordine consegnato da
+__________, che già si trovava in Colombia con __________, eseguendo il viaggio
+a Ginevra per questo specifico atto. Altra parte del denaro già depositato
+sulla relazione di __________ Trust presso la Banca __________ è stato
+trasferito in favore di una relazione bancaria presso il __________ aperto a nome
+della __________ Trust, operazione svolta da __________. __________, arrestato
+nel corso delle indagini ed anche posto a confronto con __________, ha
+dichiarato di avere operato pagamenti a debito del conto secondo modalità ed in
+favore di terzi indicatigli da __________ terzi già beneficiati da altri
+pagamenti sempre secondo istruzioni di __________ che, in casu, contesta di
+essere all'origine delle operazioni). CHF 500'000.-- sarebbero poi stati
+consegnati a __________ da __________, in contanti, a Lugano. La PP … rammenta
+come i 5,4 mio US$ pervenuti in favore del Banco __________ siano in definitiva
+giunti in favore di __________ e di un pregiudicato per traffico di
+stupefacenti, tale __________ ancora ricercato per reati in materia di
+stupefacenti.
+1.6
+__________ e __________
+risultano avere avuto strette relazioni con __________ (in merito significativo
+appare il verbale __________ 15 marzo 1999 ed il successivo del 22 marzo 1999
+che ricorda simultanea presenza a Cartagena nel gennaio 1998 di __________,
+__________ e __________ oltre che sua in relazione alla apertura di relazione
+bancaria presso il Banco __________). __________ risulta essere stato
+riconosciuto colpevole di 64 capi di accusa nell'ambito di un processo nei suoi
+confronti negli USA per titolo di riciclaggio. La PP si è recata, nel corso
+delle sue indagini, negli USA per gli accertamenti che il caso di specie impone
+potendo accertare la citata condanna di __________ ed acquisendo ulteriori
+elementi probatori, che saranno successivamente contestati agli accusati, da
+cui si desume lo stretto legame tra __________ e __________ con __________ pure
+in contatto con "esponenti di un cartello colombiano dedito al traffico di
+stupefacenti" … . Accertamenti in merito sono ancora da eseguire da parte
+degli inquirenti ticinesi.
+1.7.
+Nell'ambito degli
+accertamenti svolti dalla PP negli USA vanno ancora evocati due significativi
+episodi quale il fermo di __________ nel dicembre 1997 a New York (aeroporto)
+in possesso di 400'000 US$ con i successivi accertamenti da parte degli
+inquirenti USA nonché l'arresto di un cittadino colombiano, nell'ambito delle
+trattative per la vendita di grosso quantitativo di cocaina, che avrebbe
+presentato ad agente sotto copertura __________ emesse dalla __________ Trust di
+cui __________ e __________ risultano essere titolari del diritto di firma.
+2.
+L'inchiesta, che si è rivelata
+sin dall'inizio particolarmente laboriosa per l'intervento di numerose persone
+che hanno messo a disposizione le loro relazioni bancarie per le operazioni
+(che il magistrato evidenzia quale riciclaggio), per la difficoltà di
+ricostruire (sulla scorta della documentazione bancaria) i movimenti di danaro
+e per l'atteggiamento estremamente reticente dimostrato (almeno nella fase
+iniziale delle indagini dall'accusato __________, mentre l'accusato __________
+appare ancora oggi estremamente restio a fornire spiegazioni in merito ai
+fatti), appare avanzata con la massima possibile celerità. Numerosi verbali
+sono stati allestiti dagli inquirenti della PS di Bellinzona (si richiamano qui
+le verbalizzazioni significative dell'accusato __________ del 7 e 29 settembre,
+13 ottobre [verbale e memoriale tradotto], 21, 25 e 26 ottobre, 2, 3, 4
+novembre 1999 nonché quelle successive da ultimo il verbale della PP dello
+scorso mese di aprile). La PP ha anche raccolto significativi elementi in
+occasione di sue trasferte all'estero per lo svolgimento delle commissioni
+rogatorie formulate. In questo senso appare rilevante il dire di __________,
+reso al magistrato monegasco presente la PP ticinese il 30 settembre 1999, in
+merito ad importanti passaggi di danaro dalle mani di persona sospettata di
+essere dedita al traffico di sostanze stupefacenti quale __________ nelle mani
+del citato __________, con transito sui conti di quest'ultimo e destinazione
+conti dell'accusato __________. Nonostante le contestazioni dell'accusato
+__________, il riferimento telefonico di __________ appare nelle annotazioni ed
+in base ai tabulati telefonici di __________ stesso e di __________ (annotazioni
+sulle agende) come rilevabile dalle contestazioni di cui al verbale 21 ottobre
+1999 dell'accusato __________. A dire del __________ il danaro di cui si tratta
+proveniva da traffico di stupefacenti per quanto egli ha potuto ritenere visto
+l'atteggiamento del __________. Ulteriori elementi rilevanti per l'inchiesta
+appaiono la condanna di __________ alla pena di 16 anni di reclusione per le
+imputazioni ritenute a suo carico da parte del Tribunale USA che lo aveva
+riconosciuto colpevole, tra l'altro, di riciclaggio. L'inchiesta condotta dalla
+PP avv. __________ ha potuto accertare come danaro destinato ad __________, che
+lo avrebbe trasportato in Svizzera a __________, sarebbe stato trasportato da
+__________, cui nel 1998 la polizia americana ha sequestrato US$ 500'000.-
+destinati a __________. Gli accertamenti esperiti negli USA (a New York) su
+commissione rogatoria della PP avv. __________, indicano come la persona a
+monte dei pagamenti __________ sia in detenzione per traffico di droga fra gli
+Stati Uniti e la Colombia. In particolare egli avrebbe organizzato importanti
+importazioni di droga dalla Colombia con vendite nella città di New York.
+A ciò vanno aggiunte le evidenze
+istruttorie riferite ai contatti intrattenuti dagli accusati __________ e __________
+con __________ (in questo senso si veda il verbale di interrogatorio di
+__________ del 13 ottobre 1999). __________ appare coinvolto, unitamente a
+__________, in un notevole traffico di cocaina che ha portato gli inquirenti
+inglesi al sequestro di ben 480 Kg di cocaina nel febbraio 1999. Come rammenta
+la PP nell'istanza del novembre 1999 __________,
+amico della __________, risulta
+essere stato a Zurigo e sarebbe stato contattato più volte dai cellulari di
+__________ e __________, i tabulati telefonici dei quali dimostrano contatti
+con i trafficanti arrestati in Inghilterra. Non solo. In possesso di __________
+è stato trovato un appunto con l'annotazione del numero di camera e del numero
+di telefono dell'albergo zurighese dove era sceso __________ mentre in possesso
+di __________ è stata trovata nota manoscritta del numero di telefono della
+__________. Da quanto riferisce la PP nell'istanza ricordata la polizia inglese
+avrebbe reperito riferimenti a società e conti bancari "beneficiati dalle
+transazioni finanziarie messe in atto da __________ ".
+L'istruttoria appare oggi
+sostanzialmente conclusa, la polizia cantonale ha steso un Rapporto preliminare
+di polizia completo e di ottima fattura, frutto di coscienzioso lavoro durato
+nel tempo. La PP ha depositato gli atti all'attenzione delle parti e la difesa
+dell'accusato ha proposto l'accoglimento di alcuni complementi istruttori che
+la magistrata è ora chiamata a vagliare ed eventualmente evadere.
+3.
+Con istanza 12 maggio 2000 la PP
+avv. __________ evidenzia i gravi indizi di colpevolezza a carico dei due
+accusati e la necessità di completare l'istruttoria di cui si tratta alla luce
+delle richieste di complemento ora al suo vaglio. Per la magistrata d'accusa
+appare necessaria la proroga della detenzione preventiva cui è soggetto
+l'accusato per ulteriori tre mesi al fine di evadere eventualmente le richieste
+di complemento istruttorio rispettivamente per evadere l'iter ricorsuale
+possibile a fronte di suo diniego di accettazione delle prove offerte. La PP
+evidenzia il sussistere di concreto rischio di fuga tale da impedire la
+liberazione di __________.
+4.
+La difesa dell'accusato si
+rimette al prudente giudizio del Giar osservando che l'inchiesta è proseguita
+lentamente per la difficoltosa collaborazione dei paesi interpellati con
+rogatoria.
+Il patrocinatore di __________
+evidenzia la durata della detenzione preventiva sin qui subita da porre in
+relazione al principio di proporzionalità.
+5.
+Come noto alle parti in diritto
+la materia è retta dall'art. 95 CPP - corrispondente all'art. 33 scaturito
+dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - norme la quale,
+dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola
+in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso) proroga
+del carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a carico
+dello stesso accusato gravi e concreti indizi di colpabilità per un crimine o
+un delitto e nel contempo sono presenti preminenti motivi di interesse
+pubblico, quali i bisogni dell'istruzione, il pericolo di fuga e quello di
+recidiva (senza dimenticare che l'arresto, quale misura processuale
+cautelativa, non serve unicamente ai bisogni dell'istruttoria, ma anche ad
+assicurare la presenza dell'accusato al processo e a garantire l'eventuale
+espiazione della pena: DTF 109 Ia 323 consid c, e riferimenti; sentenza 16
+novembre 1993 del Tribunale federale in re A.H., 1P 477/1993, consid. 3).
+L'eccezione della cautelare privazione della libertà personale ha così trovato
+codificazione in una chiara base legale (di diritto cantonale: DTF 114 Ia 283
+cons. 3), in corrispondenza ed a superamento di quanto già dettato dalla
+giurisprudenza della Camera dei ricorsi penali - nel solco di quella del
+Tribunale federale -, ritenuto implicito il rispetto della proporzionalità (REP
+1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss). Ed anche questo giudice,
+come già la Camera dei ricorsi penali, non restringe la sua cognizione
+all'arbitrio (REP 1980 pag. 128).
+6.
+Nel caso di specie sussistono, a
+carico di __________, sufficienti indizi di colpevolezza tali da giustificare
+il suo permanere in detenzione preventiva.
+In effetti l'istruttoria ha
+permesso di accertare una notevole movimentazione di conti bancari con
+operazioni del tutto significative ossia mediante rimessa per contanti di
+danari, permanenza limitata nel tempo dei soldi sulla relazione bancaria e
+successivo trasferimento degli importi in favore di relazioni bancarie
+all'estero (principalmente negli USA) senza che l'accusato abbia mai fornito
+una benché minima plausibile giustificazione per tali movimentazioni. Ulteriore
+elemento indiziante è l'utilizzo di relazioni bancarie non proprie ma facenti
+capo a terze persone, sia personalmente sia per il tramite di società, ciò che
+rende estremamente più difficoltoso il reperimento dell'operazione ed il
+recupero del denaro rispettivamente della documentazione a sostegno delle
+transazioni. A ciò va aggiunto che per giustificare determinata operazione è
+stata fabbricata documentazione fasulla (come alle giustificazioni __________
+alla __________), gli accusati hanno operato in maniera apparentemente
+antieconomica (con operazioni di cambio e spese per le intermediazioni non
+apparentemente
+giustificabili), vi sono stati
+una miriade di viaggi all'estero da parte sia di __________ che di __________
+con presenze in particolare in Colombia. Come ricordato nella decisione del 25
+maggio 1999 e ripreso nella successiva decisione 19 novembre 1999 "gli
+stessi legami di __________ con __________ rispettivamente i contatti e legami
+dei due con __________ ed i contatti con persone coinvolte in traffici di
+stupefacenti, ossia un'organizzazione dedita a tale traffico in Colombia,
+appaiono evidenziare la provenienza da un crimine degli importi trattati".
+Tali affermazioni hanno ora dei contorni ancor più chiari a seguito degli
+accertamenti istruttori: da un lato __________ è stato condannato per
+riciclaggio (tra l'altro) ad una severa pena di reclusione (16 anni), d'altro
+lato l'istruttoria ha permesso l'audizione del __________ che ammette suo
+coinvolgimento in traffico di cocaina tra Stati Uniti (New York) e la Colombia
+e che ammette come i danari poi giunti a __________ (via __________)
+provenissero da tali traffici. Vi è poi l'ulteriore sviluppo d'indagine
+riferito a quello che la PP definisce (nell'istanza di proroga della detenzione
+preventiva 5 novembre 1999) il secondo periodo del 1998 (agosto/dicembre) con
+l'intervento di __________ e di __________ (il cui verbale appare illuminante) mentre
+l'accusato __________ fornisce indicazioni relative a non meglio precisato
+"prelato" suo cliente. L'inchiesta ha evidenziato anche il filone
+dell'operazione __________ che ha condotto al sequestro di 480 Kg. di cocaina
+con tutta una serie di elementi rilevanti contatti diretti tra __________ e
+__________ con __________ e __________ (tabulati ed annotazioni, e meglio come
+evidenziato nel Rapporto preliminare di polizia giudiziaria).
+Non vanno poi dimenticati gli
+ulteriori elementi già rammentati nelle decisioni 19 novembre 1999 e 25 maggio
+1999 quali "… i contatti con __________ e le tracce di stupefacenti
+abbondantemente rinvenute dagli inquirenti sulle banconote e sulla macchina
+conta soldi in uso a __________. D'altro canto appaiono significativi episodi
+come quello evocato dalla PP e riferito al possesso da parte di
+narcotrafficante colombiano di Bills of Exchange emessi dalla __________ Trust
+nonché, significativa, appare la deposizione di __________, raccolta negli USA,
+circa i numerosi contatti di __________ con __________ e __________ da un lato
+e con personaggi sud americani dall'altro tra i quali, apparentemente, anche il
+nominato __________ indicato quale condannato per stupefacenti e ricercato per
+i medesimi reati. … il rinvenimento di documento contenente dei
+"codici" di comunicazione in cui figurano sia __________ che
+__________ con i loro nomi di battesimo accanto a parole convenzionali per
+indicare valute, cifre, paesi, operazioni bancarie e località".
+Ancora una volta bisogna
+ammettere l'esistenza di elementi sufficientemente indizianti estesa attività
+illecita. Gli indizi, con il procedere dell'istruttoria, appaiono rafforzati.
+D'altro canto neppure la diligente difesa pone in discussione il sussistere di
+sufficienti e concreti elementi a carico dell'accusato.
+7.
+Va premesso all'esame delle
+ragioni istruttorie che imporrebbero proroga della detenzione preventiva, che
+l'inchiesta in discussione appare estremamente estesa, complessa ed articolata
+come ritenuto nei precedenti interventi di questo giudice. I fatti, che hanno
+come base il territorio elvetico, si sono svolti in molte parti del mondo. I
+danari accreditati in banche ticinesi e svizzere sono finiti su relazioni
+bancarie in tutte le parti del mondo ciò che ha imposto alla PP di reperire,
+presso numerosi istituti bancari, i giustificativi e di procedere a numerose
+audizioni per comprendere il perché di determinate movimentazioni. A fronte
+dell'ampiezza dell'istruttoria già si è detto che gli inquirenti si sono mossi
+il più celermente possibile, compatibilmente con l'evasione delle commissioni
+rogatorie e con le risposte (meglio sarebbe dire le "non risposte")
+degli accusati, e la PP si è già recata a due riprese negli USA ed una volta a
+Montecarlo per procedere direttamente.
+A ragione la PP ravvede ancora
+oggi la necessità di valutare compiutamente le domande di complemento
+istruttorio nonché la necessità di procedere (se accolte le richieste
+difensive) alla raccolta degli elementi probatori offerti senza possibile
+intervento degli accusati, ossia senza che sia possibile a __________ e
+__________ poter precostituire elementi a suffragio di una loro versione.
+Si tratta di elementi probatori,
+a questo stadio della procedura, relativamente contenuti ancorché sufficienti
+ad impedire una liberazione dell'accusato.
+8.
+Va poi ritenuto, come già in
+precedenza, il sussistere di un concreto rischio di fuga. Affinché sia ammesso
+un rischio di fuga occorre considerare il
+carattere
+dell'accusato, il
+suo
+domicilio
+, la sua
+professione
+, la sua
+situazione
+famigliare
+e i suoi
+legami con lo Stato
+in cui egli é inquisito (SJ
+103/1981, 135; sentenza 31 marzo 1992 in re S.C. del Tribunale federale;
+sentenza 20 ottobre 1994 in re M.A., CRP 314/94). L'apprezzamento di
+tutte
+le circostanze
+, per invocare appunto un rischio di fuga, deve lasciar
+presumere
+che le conseguenze di una fuga appaiano per l’accusato come un male minore
+rispetto a quello derivante per lui dall'ulteriore carcerazione
+, con
+maggior forza quanto più i reati imputati comportino pene edittali od
+eventualità di pena concreta importanti (in questo senso Mario
+Luvini
+; in REP 1989, pag. 292, con i
+riferimenti ivi indicati; sentenza 14 novembre 1994 in re S.V., CRP 341/94). Il
+Tribunale Federale ha pure considerato (DTF 9 luglio 1996 I Corte di diritto
+Pubblico in re GM), quale elemento di valutazione del rischio di fuga, la
+morale, la situazione finanziaria e le risorse economiche dell’arrestato. La
+gravità della pena che sarà presumibilmente inflitta non basta, ad essa sola, a
+giustificare e concretizzare un rischio di fuga (v. DTF 117 Ia 69 e segg.)
+Come rammentato nella decisione
+19 novembre 1999:
+"Nel caso in esame
+l'accusato è cittadino straniero rispetto alla Svizzera dove è venuto
+unicamente per compiere quegli atti che il magistrato d'accusa sussume
+all'ipotesi di riciclaggio. Il suo domicilio è all'estero ed egli non risulta
+avere rapporti e legami con il nostro territorio. L'unico contatto con la
+Svizzera appare la presenza a Zurigo per periodi più o meno prolungati in contatto
+con __________ e finalizzati alle operazioni discusse. Ovviamente tale contatto
+- più che legame - non appare sufficiente a trattenere __________ dal sottrarsi
+al procedimento penale in corso ed all'espiazione della possibile pena in caso
+di giudizio di condanna. I legami famigliari sono all'estero, domicilio e
+cittadinanza sono pure esteri, l'accusato ha dimostrato possibilità pratica ed
+economica per numerosi viaggi all'estero ed ha in altri paesi importanti
+contatti e connessioni. Non solo. In possesso di __________ sono stati
+rinvenuti documenti di legittimazione suoi e di __________ fasulli. Ciò che
+accresce e concretizza un rischio di fuga. La facilità di possesso di numerosi
+documenti falsi rende verosimile tale ipotesi".
+Queste considerazioni sono ancora
+oggi valide e la situazione non appare mutata se non per l'aggravarsi degli
+indizi a carico e per l'approssimarsi del momento del giudizio di merito, ciò
+che accresce il rischio di una fuga. Il presupposto legale appare dato.
+9.
+Resta da esaminare il rispetto
+del principio di proporzionalità del carcere preventivo sofferto ed ancora
+prospettabile sia di per sé stesso (ossia riferito alla carcerazione già subita
+ed alla presumibile durata dell'evasione delle necessità istruttorie ancora
+incombenti) sia in rapporto alla presumibile pena che la Corte del merito
+potrebbe infliggere in caso di giudizio di condanna.
+Come evocato nel precedente
+intervento di questo giudice nella medesima materia giusta l’art. 102 cpv. 2
+CPP la durata del carcere preventivo durante l’istruzione formale può essere di
+sei mesi; tale termine può essere convenientemente prorogato (art. 103 CPP). La
+prassi del Tribunale federale ha comunque stabilito un limite massimo,
+ritenendo eccessiva ogni carcerazione preventiva la cui durata complessiva
+superi quella della pena privativa della libertà che presumibilmente potrebbe
+essere inflitta dal giudice di merito (DTF 116 Ia 147 consid. 5a, 113 Ia 185,
+107 Ia 257 consid. 2 e 3, 105 Ia 32 consid. 4b; Rep. 1980, p. 46 consid. 3b).
+Il protrarsi del carcere preventivo deve comunque obbedire al principio della
+proporzionalità, stando al quale la durata dipende anche dalle circostanze
+concrete, in particolare, dalla vastità e complessità dell’inchiesta e dal
+comportamento dell’arrestato (DTF 107 Ia 259 consid. 3b, 105 Ia 33 consid. 4b).
+In casu si tratta della terza
+richiesta di proroga e l'esame deve essere maggiormente rigoroso. Nella
+fattispecie, come evidenziato sopra, vi sono elementi indizianti, a carico
+dell'accusato, reati di certa rilevanza (da un lato un importante riciclaggio,
+la fabbricazione di documenti fasulli, il possesso di certificati fasulli ed
+ancora l'ipotesi di infrazione aggravata alla LF sugli Stupefacenti), fondati
+su un complesso fattuale vasto ed articolato che l'atteggiamento processuale
+adottato dall'accusato non ha aiutato a dipanare.
+L'istruttoria impone acquisizioni
+probatorie apparentemente limitate alla luce del contenuto delle istanze di
+complemento formulate. La PP chiede ulteriori 3 mesi di tempo che dovrebbero
+permettere l'evasione delle richieste di complemento e la successiva chiusura
+dell'istruttoria. Il termine proposto appare ancora contenuto ed appare
+soprattutto adeguato all'espletamento di quanto ancora necessario per giungere
+all'emanazione dell'atto d'accusa nei confronti degli accusati.
+Visto quanto precede va quindi
+ammesso rispetto del principio di celerità, da un lato, ed ossequio del
+principio di proporzionalità dall'altro ritenuto l'obbligo per la PP di
+procedere indilatamente nei suoi incombenti e l'obbligo di chiudere
+l'istruttoria non appena possibile. Va ritenuta infatti possibile condanna di
+__________ a pena detentiva che superi, in caso di giudizio di colpevolezza da
+parte della Corte del merito, la detenzione preventiva sin qui subita ed ancora
+quella ancora prevedibile per giungere alla celebrazione del processo.
+10.
+Visto quanto precede l’istanza di
+proroga del carcere preventivo va integralmente accolta con la presente
+decisione esente da tassa e spese di giudizio (art. 39 litt. f TG e contrario)
+e suscettibile di impugnazione alla Camera dei ricorsi penali del Tribunale di
+Appello nel termine di 10 (dieci) giorni dall'intimazione.
+Per i quali motivi,
+richiamati gli artt. menzionati e
+gli artt. 103, 280 e 284 CPP,
+decide.
+1.
+L'istanza
+di proroga del carcere preventivo 12 maggio 2000 è accolta.
+1.1      Di conseguenza il carcere preventivo cui è astretto
+__________ è prorogato di ulteriori 3 (tre) mesi sino e compreso il prossimo
+4
+settembre 2000.
+2.
+Non
+si prelevano tassa e spese.
+3.
+Avverso
+la presente decisione è data facoltà di ricorso alla Camera dei ricorsi penali
+del Tribunale di Appello nel termine di 10 (dieci) giorni dall'intimazione.
+4.
+Intimazione
+a:
+-    PP avv. __________ (con l'incarto di ritorno);
+-    avv. __________, per sé e per l'accusato.
+giudice
+__________
