@@ -1,0 +1,375 @@
+---
+decision_id: "ti_gerichte_INC.1999.69004"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.69004"
+decided: "2000-09-26"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=57059&nX40_KEY=4711462&nTrefferzeile=81&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-227.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.1999.69004
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 26.09.2000 INC.1999.69004
+Tessin Il Giudice dell'istruzione e dell'arresto 26.09.2000 INC.1999.69004
+Ticino Il Giudice dell'istruzione e dell'arresto 26.09.2000 INC.1999.69004
+
+Sentenza o decisione senza scheda
+
+N. 690.99.4 M                                                             Lugano,
+26 settembre 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per
+statuire sul reclamo inoltrato in data 30 giugno / 3 luglio 2000 da
+__________
+(difeso di fiducia
+dall’avv. __________)
+avverso la
+decisione 16 giugno 2000, tramite la quale il
+Procuratore Pubblico
+avv.
+__________, ha respinto l’istanza di complemento di prove 13 giugno 2000
+formulata dall’accusato reclamante nell’ambito del procedimento penale promosso
+contro di lui per titolo di infrazione aggravata, sub. semplice, alla LFStup.;
+viste le osservazioni 12 luglio 2000 del magistrato
+inquirente, tendenti alla reiezione del gravame;
+letti ed
+esaminati gli atti formanti l’inc. MP 6548/99/PE;
+ritenuto
+in fatto:
+A.
+__________ è stato tratto in arresto lo scorso 22 ottobre
+1999 su ordine del competente Procuratore Pubblico, poiché sospetto autore dei
+reati menzionati in ingresso nella sua qualità di titolare e gerente del
+negozio __________ di via __________ (v. rapporto d’arresto 22 ottobre 1999,
+inc. MP doc. _). Il giorno successivo, questo giudice ha confermato l’arresto,
+con contestuale intimazione della promozione dell’accusa (v. inc. MP, doc. _).
+L’accusa nei
+suoi confronti è di avere venduto canapa, fra l’altro anche a minorenni, nella
+consapevolezza che era destinata ad essere fumata – accusa che il reclamante
+confuta affermando che detta sostanza aveva “
+scopi prettamente cosmetici o
+deodoranti
+” (v. verbale MP 28 ottobre 1999, inc. MP doc. _, p. 1), salvo poi
+dover ammettere più avanti (loc. cit., p. 3) di aver venduto pure marijuana.
+B.
+Si evince dal
+reclamo (inc. GIAR 690.99.4 doc. _, pto. II.1 p. 2) e dagli atti MP che dopo la
+reiezione dei rimedi di diritto inoltrati dall’accusato contro degli ordini di perquisizione
+e sequestro bancari (v. incc. GIAR 690.99.2 e CRP 60.2000.00042), il
+Procuratore Pubblico ha disposto il deposito degli atti, e che nel relativo
+termine l’accusato ha proposto, con istanza 13 giugno 2000 (inc. MP doc. _),
+l’audizione di diversi testimoni (alcuni dei quali a confronto con l’accusato),
+nonché l’acquisizione agli atti dell’incarto relativo alla propria querela
+contro __________ e dei registri con le firme degli acquirenti del negozio
+__________. Il Procuratore Pubblico, con l’avversata decisione 16 giugno 2000
+(inc. GIAR 960.99.4 doc. _ = inc. MP doc. _), ha unicamente ammesso
+l’acquisizione dei registri delle firme dei clienti __________. Ha invece
+respinto le altre prove offerte, con motivazioni che saranno esaminate più
+avanti, in connessione con la singola prova.
+C.
+Con un lungo
+reclamo, i cui termini non sono invero meno polemici di quelli che egli
+rimprovera al Procuratore Pubblico (v. reclamo, cit., pto. II.2 p. 3 in alto),
+__________ ribadisce integralmente la necessità di assumere le prove da lui
+proposte: l’audizione della madre sarebbe indispensabile per stabilire
+l’effettivo periodo di attività dell’accusato presso l’__________ (loc. cit.,
+pto. II.4 p. 3-4); quella di __________, poiché il teste “
+dovrebbe
+confermare che il signor __________ non ha violato la LStup, non avendo venduto
+canapa indiana a scopo di stupefacente e soprattutto non avendo venduto
+prodotti del genere a minorenni
+” (loc. cit., pto. II.5 p. 4); quella
+dell’isp. __________, poiché questi “
+potrà confermare che il perseguimento
+penale del reclamante non è giustificato
+” (loc. cit., pto. II.6 p. 5);
+l’audizione dell’accusato a confronto con il teste __________ e con gli
+acquirenti di cui ai verbali annessi al rapporto di segnalazione 21 ottobre
+1999, infine, non sarebbe altro che l’anticipazione di un preciso diritto
+dell’accusato, mentre sarebbe addirittura “
+temerario
+” sostenere che,
+trattandosi di versioni diametralmente opposte, ognuno comunque ribadirebbe la
+propria (loc. cit., pto. II.7 p.5-6). L’acquisizione dell’incarto penale contro
+__________, infine, “
+è destinato a chiarire la posizione di __________, alla
+luce delle accuse formulate da questo testimone
+” (loc. cit., pto. II.8 p.
+7).
+D.
+In sede di
+osservazioni al reclamo (inc. GIAR 690.99.4 doc. _), il Procuratore Pubblico si
+limita a ribadire gli argomenti già esposti in sede di censurata pronuncia,
+postulando la reiezione del gravame.
+Considerato
+in
+diritto:
+1.
+a)        Per
+meritare di venire assunte, le prove proposte dalle parti contestualmente al deposito
+atti (art. 196 CPP) o in altro momento dell’istruttoria (artt. 60 cpv. 1 e 79
+cpv. 1 CPP) devono rispettare tre concorrenti ordini di considerazione: esse
+devono essere motivate per quanto attiene al loro oggetto ed al loro scopo in
+diretta connessione con la fattispecie inquisita; tali mezzi di prova devono
+avere i requisiti della novità, della rilevanza e della pertinenza alle
+successive conclusioni di competenza del Procuratore Pubblico, dapprima per
+decidere se promuovere l’accusa oppure non far luogo al procedimento e poi
+eventualmente - dopo definitiva conclusione dell’istruzione formale - se
+decretare messa in stato di accusa o abbandono, sino se del caso a quelle del
+giudice di merito; per quest’ultima evenienza, le stesse prove devono essere di
+difficile produzione al dibattimento, avute presenti le finalità dell’art. 189
+CPP, inteso appunto tra l’altro ad assicurarne la non interrotta assunzione (v.
+sentenza 24 gennaio 1990, inc. CRP 337/89; v. decisioni 17 febbraio 1993 in re
+L.P., inc. GIAR 135.93.1; 3 novembre 1993 in re G.G., inc. GIAR 862.93.1, e 14
+giugno 1995 in re F.M., inc. GIAR 1093.93.5).
+b)        Se,
+in particolare per l’accusato, la facoltà di proporre mezzi di prova è
+espressione del diritto di essere sentito ai sensi dell’art. 4 Cost. fed. (ora,
+art. 29 cpv. 2 della nuova Cost. fed.; v., da ultimo, DTF 124 I 49, consid. 3a
+p. 51; DTF 121 I 306, consid. 1b p. 308) e del “
+fair trial
+” ai sensi
+dell’art. 6 CEDU (v.
+Frowein/Peukert
+, EMRK-Kommentar, 2. Aufl.
+Kehl/Strassburg/ Arlington 1996, nota 99 ad art. 6 CEDU), il giudice del merito
+(ed il magistrato inquirente) è tenuto, in applicazione delle norme procedurali
+corrispondenti, a considerare rispettivamente ammettere soltanto quei mezzi di
+prova che “
+nach seinem richterlichen Ermessen entscheidungserheblich sind
+”
+(
+Frowein/Peukert
+, loc. cit. p. 231). Con riferimento specifico
+all’audizione di testi, il magistrato può rifiutare la prova proposta “
+wenn
+er die zu erwartende Antwort bzw. Aussage nach seiner freien
+Ermessensentscheidung für die Wahrheitsfindung nicht für beachtlich hält
+” (
+Frowein/Peukert
+,
+loc. cit., nota 202 ad art. 6 CEDU, con rinvii), nelle parole di
+Niklaus
+Schmid
+(Strafprozessrecht, 3. Aufl. Zürich 1997, margin. 270, con rinvii a
+DTF 103 Ia 491 et al. in nota 321) “
+wenn sie den rechtlich relevanten
+Sachverhalt als genügend geklärt erachten
+”. Di conseguenza, non è data
+violazione dell’art. 6 CEDU se il giudice del merito rifiuta un mezzo di prova
+dopo averne esaminato la pertinenza (v.
+Frowein/Peukert
+, loc. cit., nota
+203 ad art. 6 CEDU, con rinvio al noto caso Vidal; come qui, v. decisione 17
+giugno 1998 in re F.F., inc. GIAR 55.98.1 consid. 1).
+2.
+a)        Sui fatti, come sovente accade, accusa e difesa hanno un
+approccio differente: l’accusa sembra implicitamente dare ormai per accertato
+che __________, quale proprietario e responsabile di fatto del canapaio
+__________, abbia venduto canapa nella piena consapevolezza che questa veniva
+illecitamente utilizzata quale sostanza stupefacente. La difesa, d’altro canto,
+sembra voler dimostrare che l’accusato, al contrario, vendeva “
+semplici
+sacchetti odorosi contenenti canapa il cui uso era finalizzato a scopi
+prettamente cosmetici o deodoranti
+” (verbale MP 28 ottobre 1999, inc. MP
+doc. _, p. 1), e dunque non avrebbe violato la LFStup., “
+non avendo venduto
+canapa indiana a scopo di stupefacente e soprattutto non avendo venduto
+prodotti del genere a minorenni
+” (reclamo, cit., pto. 5 p. 4).
+b)        Ora, spetterà al
+giudice del merito decidere quale delle due tesi meriti tutela. A questo stadio
+del procedimento, sono unicamente due le constatazioni che si impongono.
+Da un lato, va rammentato che la fase in cui si colloca la
+presente discussione del complemento probatorio in questione è quella
+dell’istruttoria predibattimentale, finalizzata in primo luogo a permettere
+alla pubblica accusa di determinarsi sulla questione se deferire l’accusato
+alla Corte competente oppure se pronunciare l’abbandono del procedimento (artt.
+196 cpv. 1 e 198 cpv. 1 CPP combinati).
+Per costante dottrina e giurisprudenza, invece,
+l’eventuale utilità o opportunità della prova proposta nell’ottica del giudizio
+di merito è elemento a favore della sua assunzione già nella fase
+predibattimentale unicamente qualora l’amministrazione di tale prova in sede
+dibattimentale sia impossibile. Che ciò sia disagevole al punto da costringere
+ad un’interruzione del pubblico dibattimento (che deve restare un’eccezione,
+come si evince dagli artt. 237 s. CPP), non basta: il Tribunale federale,
+discutendo di una perizia psichiatrica e dichiaratamente consapevole che
+l’assunzione di una tale prova in sede dibattimentale implichi inevitabilmente
+la sospensione del dibattimento, ha stabilito che non vi sono di principio
+prove che non possano essere assunte in sede dibattimentale (v. sentenza 13 ottobre
+1998 della Corte di cassazione e revisione penale in re G.V. [6S.559/1998],
+consid. 1/c/bb p. 5-6; v. anche la recentissima sentenza 5 settembre 2000 della
+I Corte di diritto pubblico in re E.F. [1P.439/2000], consid. 2b p. 5-6,
+relativa a prove testimoniali, peritali e documentali).
+c)         D’altro canto, appare evidente – sulla scorta della
+decisione impugnata e degli argomenti offerti a suffragio della medesima – che
+il magistrato inquirente (e requirente) ha sposato l’interpretazione dei fatti
+più vicina alla comune esperienza e più rispettosa del comune buon senso,
+ovvero che l’accusato ha venduto la canapa nella perfetta consapevolezza che
+essa veniva principalmente, se non esclusivamente, fumata quale stupefacente. A
+giudizio di questo giudice, l’ipotesi accusatoria trova indubbio, serio e
+concreto fondamento già per il solo fatto che l’accusato medesimo è consumatore
+di marijuana, “
+di quella che vendo in negozio e che produco in proprio
+”
+(v. verbale MP 28 ottobre 1999, inc. MP doc. _ p. 2). Egli ha anche, nella
+medesima occasione (ibid.), candidamente ammesso di avere perfettamente capito
+che i suoi clienti si fumavano la merce acquistata. D’altronde, alla medesima
+conclusione era giunta anche la lod. Camera dei ricorsi penali del Tribunale di
+appello, la quale – chiamata a verificare la legittimità del sequestro dei
+conti bancari dell’accusato reclamante (v. sentenza 19 maggio 2000, inc. CRP
+60.2000.00042) – aveva concluso che “
+non si può coerentemente credere che
+l’accusato fosse ignaro dello scopo per il quale i clienti acquistavano i
+sacchetti odorosi
+” (loc. cit., consid. 3 p. 7): da un lato, l’accusato
+medesimo l’aveva ammesso in sede di interrogatorio di polizia 28 ottobre 1999
+(ore 09.52, allegato al rapporto d’inchiesta di polizia giudiziaria, all’inc.
+MP doc. _, R2 p. 2-3, riportato
+verbatim
+nella sentenza CRP), salvo
+relativizzare le proprie ammissioni il medesimo giorno avanti al Procuratore
+Pubblico. D’altro canto, la CRP ha espressamente ribadito che “
+ragionevolmente
+non si può credere che alcuni giovani acquistino i sacchetti profumati alla
+marijuana per deodorare gli ambienti casalinghi, e ciò soprattutto se si pensa
+al fatto che in commercio esistono altri deodoranti per ambiente con
+profumazioni sicuramente più delicate, che la clientela dei canapai non è
+solitamente composta da casalinghe preoccupate di eliminare i cattivi odori e
+che, infine, accanto ai sacchetti profumati vengono a volte venduti funghi
+allucinogeni dalle proprietà non proprio cosmetiche
+” (ibid.).
+Quanto
+precede, in conclusione, rafforza la convinzione che questo giudice aveva già
+maturato in occasione del precedente giudizio 31 gennaio 2000 sui sequestri,
+ovvero che la professione d’innocenza dell’accusato __________, ed in
+particolare la sua asserita buona fede circa l’uso che i suoi clienti facevano
+della marijuana acquistata nel suo negozio, non poggia su alcun serio
+fondamento.
+d)        Date queste premesse, l’anticipata valutazione – da parte del
+Procuratore Pubblico – delle prove offerte siccome irrilevanti non è assolutamente
+arbitraria, ed anzi corrisponde ad una oggettiva e serena valutazione degli
+elementi di giudizio già agli atti (v.
+supra
+, consid. 1b in fine).
+3.
+Anche un esame puntuale degli ulteriori mezzi di prova
+proposti dall’accusato reclamante dimostra comunque la loro inutilità per le
+conclusioni del Procuratore Pubblico.
+a)        L’audizione della madre dell’accusato si rivela superflua per
+l’accertamento del periodo esatto durante il quale __________ ha gestito il
+canapaio, avendo egli espressamente ammesso di averlo aperto il 1° marzo 1997,
+e di averlo intestato alla madre solo poiché a quel momento ancora dipendente
+di __________ (v. verbale MP 28 ottobre 1999, cit., p. 6 in alto; v. anche
+verbale di polizia 22 ottobre 1999, ore 18.00 [allegato al rapporto d’inchiesta
+di polizia giudiziaria, inc. MP doc. _], p. 1: “
+è ovvio che ho sempre
+pensato io personalmente alla gestione del negozio
+”).
+b)        L’estemporanea testimonianza di un giovane, che affermi come
+l’accusato “
+non gli ha mai venduto alcun prodotto, in quanto minorenne
+”
+(v. istanza 13 giugno 2000, inc. MP doc. _ pto. 2 p. 1), non è ovviamente atta
+a dimostrare che l’accusato non abbia operato tali vendite ad altri minorenni;
+a ragione il Procuratore Pubblico ha definito il teste proposto come “teste di
+moralità”, né le critiche che l’accusato muove al magistrato inquirente in sede
+di reclamo sono atte a controbattere tale conclusione, rispettivamente a
+concretizzare l’indispensabilità di un’audizione del teste __________.
+Comunque, spetterà in ultima analisi alla corte di merito e non al teste
+__________ accertare rispettivamente “
+confermare che il signor __________
+non ha violato la LStup, non avendo venduto canapa indiana a scopo di
+stupefacente e soprattutto non avendo venduto prodotti del genere a minorenni
+”
+(reclamo, cit., pto. II.5 p. 4).
+c)         Il reclamante medesimo ammette che “
+nell’ambito
+dell’inchiesta di polizia, possono essere svolti controlli che non
+necessariamente sfociano in una formale denuncia o persino nell’arresto
+”
+(reclamo, cit., pto. 6 p. 5). Per questa ragione, egli non può certamente nulla
+dedurre a proprio favore dal fatto che ad una perquisizione del proprio negozio
+a fine 1998 non fecero immediato seguito ulteriori misure d’inchiesta: semmai,
+è lecito ipotizzare che prima di intervenire nei confronti dei canapai, il
+Ministero Pubblico abbia effettuato un’analisi globale del fenomeno sul
+territorio. Comunque, la pretestuosità di ciò che con la prova offerta si vuole
+dimostrare, appare evidente sulla scorta di un semplice esempio: l’argomentazione
+sulla quale l’accusato fonda la propria richiesta equivale a dire che colui che
+ha passato un semaforo col rosso, ma non è stato immediatamente fermato da un
+agente presente sul posto, sia autorizzato ad attraversare col rosso anche il
+semaforo successivo.
+d)        Dato l’assetto probatorio descritto sinora, anche i postulati
+confronti fra l’accusato, il teste __________ e gli acquirenti (i verbali dei
+quali figurano agli atti MP al doc. _ [rapporto di segnalazione 21 ottobre
+1999]) non hanno immediata rilevanza per l’istruttoria formale
+predibattimentale in corso: trattandosi di valutare la credibilità di una
+versione per rapporto alle altre, ed avendo il magistrato inquirente
+apparentemente maturato il dovuto convincimento in base al quale decidere
+l’eventuale messa in stato d’accusa di __________, appare anzi preferibile che
+tali prove vengano semmai assunte all’immediato cospetto di coloro che dovranno
+decidere della colpevolezza (o innocenza) del reclamante.
+e)        Da ultimo, il richiamo dell’incarto relativo alla querela
+sporta dal reclamante nei confronti di __________ non è stato motivato in sede
+d’istanza né in sede di reclamo: l’accusato non spiega, in altre parole, in
+quale modo gli atti di quell’incarto possano essere più utili di un’audizione
+del teste medesimo, della quale si è già parlato. E se la richiesta è solo
+formulata allo scopo di insinuare la tendenziosa inattività del Ministero
+Pubblico, allora bastava chiedere l’accesso agli atti di quell’incarto: la
+richiesta, qui, non è motivata in termini tali da farne apparire l’utilità in
+questo contesto.
+f)          E comunque, come
+già detto, queste richieste di prova qui respinte potranno essere eventualmente
+riproposte in aula (art. 227 cpv. 1 CPP, semmai previa opposizione ad un
+eventuale decreto d’accusa).
+4.
+Naturalmente, che gli accertamenti acquisiti dagli
+inquirenti, e l’interpretazione che ne ha tratto il Procuratore Pubblico,
+bastino per una condanna penale dell’accusato reclamante, è questione che le
+parti dibatteranno al cospetto del giudice di merito (così come in quella
+medesima sede dibatteranno l’incidenza da attribuire alle prove qui rifiutate).
+Ma a questo stadio del procedimento, e nell’ambito che qui interessa, qualsiasi
+ulteriore accertamento non sarebbe di costrutto alcuno per l’istruttoria.
+5.
+In
+conclusione, il reclamo deve essere respinto, ciò che avviene con la presente
+decisione definitiva (art. 284 cpv. 1 lit. a CPP
+e contrario
+) e con
+conseguenza di tassa e spese a carico del reclamante soccombente.
+*   *   *
+Per i quali motivi
+in applicazione delle norme menzionate e degli artt. 280
+ss. e 284 cpv. 1 lit. a
+e contrario
+CPP
+d e c i d e :
+1.
+Il reclamo 30 giugno / 3 luglio 2000 di __________ è respinto, e la
+decisione 16 giugno 2000 del Procuratore Pubblico avv. __________ è confermata.
+2.
+La tassa di giustizia di fr. 450.— e le spese di fr. 50.—, in tutto fr.
+500.—, sono poste a carico del reclamante __________.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+-
+avv. __________, per sé e per il reclamante, con copia delle
+osservazioni del magistrato inquirente;
+-      Procuratore
+Pubblico avv. __________, con l’inc. MP 6548/99/PE di ritorno.
+giudice __________
