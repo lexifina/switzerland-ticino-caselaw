@@ -1,0 +1,367 @@
+---
+decision_id: "ti_gerichte_INC.2001.52903"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.52903"
+decided: "2001-10-26"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=101621&nX40_KEY=4711182&nTrefferzeile=21&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-107.md"]
+---
+
+# TI Gerichte INC.2001.52903
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 26.10.2001 INC.2001.52903
+Tessin Il Giudice dell'istruzione e dell'arresto 26.10.2001 INC.2001.52903
+Ticino Il Giudice dell'istruzione e dell'arresto 26.10.2001 INC.2001.52903
+
+Sentenza o decisione senza scheda
+
+N. 529.2001.2                                                            Lugano,
+26 ottobre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Edy Meli
+Sedente per statuire sull'istanza
+di libertà provvisoria presentata il 17/18 ottobre 2001, da
+__________
+, __________
+__________
+(patrocinato dal difensore d'ufficio __________),
+visto il preavviso negativo 22/24
+ottobre 2001 del Procuratore Pubblico avv. Franco Lardelli,
+viste le osservazioni 25/26 del
+difensore al preavviso negativo,
+visto l'inc. MP __________;
+ritenuto
+in fatto
+A.
+__________ è stato arrestato,
+presso il __________ il primo di ottobre 2001 a seguito d'ordine d'arresto
+emanato il 5 settembre 2001.
+L'arresto, con contestuale
+promozione d'accusa per i titoli di reato di cui agli artt. 146, 138, 158, 251,
+subordinatamente157 e 181 CPS, è stato confermato da questo giudice il 2
+ottobre 2001, ritenuta la presenza di gravi indizi di reato, pericolo di fuga e
+necessità istruttorie (cfr. inc. GIAR 529.2001.1).
+B.
+I fatti oggetto dell'indagine, e
+delle accuse mosse nei confronti di __________, consistono sostanzialmente nel
+fatto che egli ha ottenuto, a più riprese tra il 1991 ed il 1997, somme di
+denaro, a volte in contanti ed altre volte tramite bonifico, provenienti dalla
+(allora) __________, __________, nonostante la sua relazione bancaria non
+presentasse (più) attivi.
+Egli avrebbe ottenuto le somme in
+questione, che globalmente ammonterebbero a poco meno di 1,4 milioni di franchi
+svizzeri, con la collaborazione del funzionario di banca __________.
+Le somme in uscita erano
+scritturalmente addebitate alla sua relazione e, grazie anche alla presenza di
+false garanzie, provenivano in parte dagli averi della banca e per altra parte
+(quando le false garanzie non lo permettevano) dalle relazioni di alcuni
+clienti (cfr. per i dettagli, rapporto d'arresto 1.10.2001 e tabelle di
+ricostruzione annesse).
+Il funzionario di banca é stato,
+a sua volta, arrestato il 30 marzo 2001 e rilasciato il 18 maggio successivo.
+Le versioni dei due accusati non
+sono divergenti per rapporto ai fatti oggettivamente riscontrati bensì sulle
+modalità/motivazioni delle prime operazioni in "rosso", sul perché si
+é potuto continuare per diversi anni, giungendo ad intaccare conti di terzi e
+sulla consapevolezza di __________ quo all'illecito (suo e/o di __________).
+__________ contesta di aver
+fatto, dopo i primi prelevamenti in "rosso" ottenuti con una certa
+facilità a fronte di dichiarate pretese d'incasso a venire, pressioni scorrette
+sul __________ per continuare ad ottenere denaro (cfr.:Verb. GIAR __________,
+2.10.2001., p.1, 5 e 6 in particolare; Verb. PS __________ 10.10.2001 p.8;
+Verb. PS __________ 21.10.2001, p. 4), nonché di aver volutamente ed
+artatamente sottaciuto a __________ la sua reale situazione finanziaria (cfr.
+Verb. PP __________ 11.10.2001, p.4, peraltro non profondamente diverso da
+quanto dichiarato da __________ nel Verb. PS 21.10.2001, p.1 e 2 in
+particolare).
+C.
+A tutt'oggi, __________ risulta
+essere stato interrogato in cinque occasioni da parte della polizia ed in una
+da parte del PP.
+Sono stati interrogati anche la
+moglie dell'accusato e due testi (__________ e __________).
+__________ é stato nuovamente
+sentito (dopo vari interrogatori, avvenuti in primavera) il 21.10.2001.
+Con scritto del 17 ottobre 2001
+il difensore di __________ formula alcune richieste all'indirizzo del
+Procuratore pubblico, tra cui quella di fissare una cauzione
+quale misura sostitutiva
+dell'arresto.
+Non è chiaro se l'intento fosse
+quello di presentare formale istanza di libertà provvisoria, assortita dalla
+disponibilità di far fronte ad un deposito cauzionale (la cui entità è lasciata
+alla decisione del magistrato inquirente), oppure quello di una richiesta
+"interlocutoria" in prospettiva di successiva istanza.
+Infatti, lo scritto non si
+pronuncia esplicitamente sull'esistenza e la fondatezza dei motivi dell'arresto
+e del suo perdurare.
+D.
+Sia come sia, il Procuratore
+pubblico ha trattato lo scritto come istanza formale di libertà provvisoria,
+trasmettendo il tutto a quest'ufficio e formulando preavviso negativo.
+A giudizio del magistrato
+inquirente gli indizi di colpevolezza sono dati. Oltre alle dichiarazioni di __________,
+che ha ammesso le sue responsabilità e secondo il quale __________ era al
+corrente delle irregolarità, vi sarebbe comunque il fatto che l'accusato ha
+ricevuto le importanti somme di cui si è detto più sopra, perfettamente conscio
+di non aver fornito (in cambio ed a giustificazione) alcuna garanzia. Egli
+avrebbe anche sottaciuto, a __________, la sua pesante situazione debitoria.
+In capo ad __________, cittadino
+francese privo di legami con il territorio svizzero, vi è (sempre secondo il
+procuratore pubblico) evidente pericolo di fuga.
+Inoltre persistono necessità
+istruttorie dovendosi procedere a confronto, tra __________ e __________,
+nonché ad un nuovo interrogatorio del teste __________.
+E.
+In sede d'osservazioni al
+preavviso negativo l'accusato ribadisce sostanzialmente il contenuto
+dell'istanza 17/18 ottobre 2001.
+Più che contestare gli indizi di
+colpevolezza egli si diffonde su questioni di diritto materiale (interrogandosi
+sulla effettiva presenza dell'elemento dell'astuzia e segnalando che le ipotesi
+di cui agli artt. 138 e 158 CPS lo sono unicamente nella forma dell'istigazione
+o della complicità), segnalando di non aver ancora avuto accesso all'intero
+incarto.
+In merito ai bisogni d'istruzione
+precisa che la detenzione preventiva non può essere utilizzata per ottenere
+dall'imputato un determinato atteggiamento processuale e che gli atti indicati
+possono essere svolti anche con l'accusato in libertà.
+Quanto al pericolo di fuga,
+sostanzialmente sarebbero la sua volontà di non rendersi latitante e di
+restituire il denaro alla banca, nonché la sua età, a renderlo poco concreto e
+comunque ulteriormente limitabile mediante fissazione di cauzione.
+Considerato
+in diritto
+1.
+Preliminarmente va detto che bene
+ha fatto il magistrato inquirente a trattare (in assenza d'ulteriori elementi
+e/o precisazioni) la richiesta datata 17 ottobre 2001 quale formale istanza di
+libertà provvisoria.
+Visto il contenuto degli artt. 95
+cpv.1, 96, 102, 106 cpv. 1 CPP, le condizioni dell'arresto sono soggette a
+costante verifica da parte dell'autorità ed anche
+una richiesta non chiarissima, o
+solo succintamente motivata, deve essere considerata (vedi pure art. 107 CPP).
+Si accerta, inoltre, d’ufficio
+che sebbene l’istanza di libertà provvisoria, e relativo preavviso negativo del
+Procuratore pubblico, siano giunti a questo ufficio in data 24 settembre 2001,
+i termini di cui ai combinati disposti degli artt. 108 cpv.1, 20 cpv.1, 3 e 4
+CPP, sono rispettati. La consegna alla posta è avvenuta (come da timbro
+postale) in data 22 settembre 2001.
+2.
+L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto,
+perdurare e (poi, se del caso)
+proroga del carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi
+di colpabilità per un crimine o
+un delitto e nel contempo sono presenti preminenti motivi di interesse
+pubblico, quali i bisogni dell'istruzione, per ovviare a rischio di collusione
+o inquinamento (in altro modo) delle prove, pericolo di recidiva e il pericolo
+di fuga (senza dimenticare che l’arresto, quale misura processuale cautelativa,
+non serve unicamente ai bisogni dell’istruttoria, ma anche ad assicurare la
+presenza dell’accusato al processo e a garantire l’eventuale espiazione della
+pena: DTF 109 Ia 323 consid. c, e riferimenti; sentenza 16 novembre 1993 del
+Tribunale federale in re A.H., 1P.477/1993, consid. 3).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati
+presupposti vanno approfonditi con maggior rigore nella loro valutazione,
+quanto più si è protratta la restrizione della libertà e quanto più si avvicina
+la conclusione delle indagini (Rep. 1988 pag. 416; 1989 pag. 287 ss.) –
+ritenuto implicito il rispetto della proporzionalità (Rep. 1980 pag. 44; 1986
+pag. 158; 1988 pag. 413; DTF 102 Ia 381). Ed anche questo giudice, come già la
+Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (Rep.
+1980 pag. 128).
+3.
+Nel caso in esame, l'esistenza di
+gravi indizi di reato non sembra essere messa in discussione dalla difesa, pur
+con riserva di contestazione in sede di merito: solo l'esistenza di elementi
+d'astuzia pare formalmente contestata (scritto 17.10.2001 p. 2, sesto
+capoverso; osservazioni 25.10.2001 punto 1). Trattasi comunque di questione che
+deve essere verificata d'ufficio.
+Con la
+verosimiglianza sufficiente a questo stadio del procedimento ed in questa sede
+(che non è deputata a pronunciarsi sul merito delle accuse e deve evitare di
+pregiudicare), si può concludere per la presenza di seri e concreti indizi, a
+carico di __________, per i reati di cui è accusato (alternativamente o
+subordinatamente per quanto concerne le varie ipotesi in diritto). Basta qui
+richiamare il contenuto dei verbali davanti al GIAR dello stesso __________, in
+relazione con le dichiarazioni di __________ (in particolare e a titolo
+esemplificativo si veda il Ver. __________ PS 19 aprile 2001). Essendo notorio
+che gli istituti di credito non sono istituti di beneficenza, il fatto di aver
+potuto usufruire per anni di fondi (mediante prelevamenti per contanti o
+bonifici) a semplice richiesta, senza garanzie ma contro semplice dichiarazione
+del previsto (ma mai realizzato) incasso di fatture (nemmeno queste cedute in
+garanzia), è circostanza sufficientemente indiziante di consapevolezza (anche
+solo per dolo eventuale) dell'esistenza d'irregolarità all'origine dei
+versamenti (a dipendenza del caso e dei singoli elementi specifici
+configurabili ex art 138 o 158 CPS) e di una sua partecipazione (ancorché in
+una delle forme indicate dalla difesa) a tali irregolarità.
+4.
+Il Procuratore pubblico,
+cumulativamente all'esistenza dei gravi indizi di colpevolezza, afferma
+presenza di necessità istruttorie e pericolo di fuga.
+La difesa non si esprime sulle
+necessità istruttorie, ritenendole (con ogni probabilità e nella logica
+dell'istanza di data 17.10.2001) inesistenti. Ammette, di contro, esistenza del
+pericolo di fuga ritenendo, comunque, che lo stesso possa essere
+sufficientemente limitato mediante presentazione di cauzione (e questo chiede).
+Occorre pertanto verificare se
+almeno una di queste condizioni sia effettivamente presente nel caso in esame.
+4.1.
+Per quanto concerne le necessità
+istruttorie il magistrato inquirente indica necessità di nuovamente interrogare
+il teste __________ e di eseguire il confronto tra __________ ed il coaccusato __________,
+in ragione dell'"atteggiamento di diniego" assunto dall'istante.
+Innanzitutto, va detto che
+l’atteggiamento di diniego da parte dell’accusato in relazione alle accuse
+mossegli, non costituisce, da solo, motivo sufficiente per il mantenimento
+della misura cautelare (DTF 90 IV 66; DTF 12 agosto 1981 in re C.; SJ 1990
+p.438; Hauser/Schweri, Schweizerisches Strafprozessrecht, BS 1999, § 68 no.
+13).
+Il pericolo di collusione con
+testi o coaccusati non può essere invocato in modo astratto a giustificazione
+del mantenimento della misura cautelare, bensì deve
+essere concreto (nel senso di
+presunzione fondata su determinate circostanze); Occorre, quindi, che vi siano
+possibili convergenze d'interessi tra le persone da
+porre a confronto o elementi
+concreti a sostegno di una possibile influenza nei confronti di testi (DTF 117
+Ia 257).
+Nel caso specifico, elementi
+concreti non sono stati indicati dal Procuratore pubblico e neppure emergono in
+modo lampante dall'incarto.
+Non sembra proprio (piuttosto
+appare più probabile il contrario) che vi sia una convergenza d'interessi tra __________
+e __________. Per il teste __________ neppure è stato indicato l'oggetto della
+sua prossima deposizione.
+Così stando le cose non è neppure
+necessario interrogarsi sugli eventuali effetti, per l'attualità del pericolo
+di collusione, del tempo trascorso dai fatti e della (verosimile) conoscenza da
+parte del qui istante dell'avvenuto arresto di __________ a marzo 2001.
+Di conseguenza nessun concreto
+pericolo di collusione è di fatto invocato, o emerge in modo manifesto dagli
+atti, in relazione ai due ulteriori atti d'inchiesta indicati.
+4.2.
+E’, invece, presente il pericolo
+di fuga.
+Il pericolo di fuga, per
+giustificare carcerazione preventiva, deve essere concreto e rivestire di una
+certa probabilità: in altri termini lo si ammette quando l’accusato, se posto
+in libertà, si sottrarrebbe con una certa verosimiglianza al perseguimento
+penale ed alla (eventuale) esecuzione della pena. La gravità della pena
+presumibile non basta, da sola, a motivare la carcerazione; occorre
+valutare l’insieme delle
+circostanze, tra cui il carattere dell’accusato, la sua morale, i legami
+famigliari, il domicilio, la professione, la situazione economica
+e tutti quegli elementi che rendono
+la fuga non solo possibile ma probabile (DTF 19 gennaio 1999 in re G.S.; DTF
+117 Ia 69).
+Pacifico che a poco valgono, per
+quest'analisi, le semplici dichiarazioni d'intenti dell'accusato stesso.
+__________ è cittadino __________,
+residente in __________, e non ha particolari legami con il nostro territorio
+che gli è servito sostanzialmente a commettere gli atti di cui è accusato.
+Se le accuse dovessero essere
+confermate il rischio di una pena non lieve esiste (i reati per i quali è stata
+promossa l’accusa prevedono anche la  reclusione e ciò vale anche in caso di
+istigazione o complicità), pur tenendo in debito conto il tempo trascorso ed il
+fatto che non risultano precedenti penali in capo ad __________ (cfr. fax PS a
+PP 27.04.2001). Non è neppure certo che egli possa (sempre eventualmente)
+beneficiare della sospensione condizionale. Quest'elemento, da solo, non é
+determinante, ma deve essere attentamente considerato se ad esso se ne sommano
+altri come sopra descritto (SJ 1980 186; SJ 1981 135; N. Schmid,
+Strafprozessrecht, ZH 1997, no. 701).
+L’età dell'istante è ulteriore
+elemento che può fargli ritenere la fuga (intesa dalla Svizzera e dal relativo
+processo, e non dall'__________ come sembra intendere la difesa) quale
+soluzione più interessante che non l’affrontare i rischi di un processo.
+Alla luce di questi elementi, il
+pericolo di fuga è presente in modo concreto (DTF 102 Ia 382; DTF 106 Ia 407;
+DTF 117 Ia 69; SJ 1980 585).
+5.
+Stabilita l’esistenza di pericolo
+di fuga occorre ancora determinare, vista la specifica richiesta in tal senso,
+se questo possa essere validamente limitato mediante versamento di una
+cauzione.
+L’inchiesta sembra essere in fase
+conclusiva (il PP indica quali ulteriori atti istruttori unicamente
+l'interrogatorio di un teste ed il confronto).
+L’entità dei reati imputati non
+si é modificata in corso d'inchiesta. Come detto, non è certo che l’eventuale
+pena possa essere sospesa, ma non vi é neppure certezza di pena da espiare.
+Una cauzione importante, a
+maggior ragione quando versata da terzi, può (in casu) ragionevolmente limitare
+il pericolo di fuga.
+L’entità della cauzione deve
+essere determinata soprattutto in relazione alla gravità del reato e
+all’importanza del pericolo di fuga. Occorre pure (entro certi limiti)
+considerare la situazione economica dell’accusato e/o delle persone
+eventualmente chiamate a prestare cauzione (DTF 105 Ia 186; SJ 1981 p. 389 e
+relative citazioni; N. Schmid, Strafprozessrecht, ZH 1997, no. 719;
+Donatsch/Schmid, Kommentar StPO Zurich, nos. 21 a 23 ad art. 73).
+Spetta all’accusato, e a chi è
+disposto ad intervenire, fornire i necessari elementi per una corretta e
+completa valutazione della situazione (SJ 1980 181 e 586).
+Nel caso in esame gli elementi
+(concreti e certi) a disposizione non sono molti.
+L’accusato ha dichiarato d'essere
+titolare di (importanti) crediti esigibili, e prossimi all'incasso, nonché di
+essere proprietario di due immobili che sebbene ipotecati, rispettivamente in
+procedura di realizzazione, non risultano completamente oberati da debiti (cfr.
+istanza di data 17.10.2001).
+Egli afferma, in oltre, di poter
+anche far capo a terzi di cui nulla però si sa circa la situazione economica.
+Considerato quanto sopra (la
+gravità del reato, concretezza del pericolo di fuga, elementi patrimoniali a
+disposizione), la cauzione viene fissata in CHF 100'000.-
+6.
+In conclusione, alla luce di
+quanto sopra esposto si deve concludere che nei confronti di __________ sono
+dati gravi indizi di colpevolezza come a promozione d’accusa in uno con pericolo
+di fuga.
+Quest’ultimo può essere
+validamente limitato dalla prestazione di una cauzione che viene fissata in CHF
+100'000.--.
+P.Q.M.
+Visti gli artt. 138, 146, 158,
+157, 181, 251(eventualmente in relazione con 24, rispettivamente 25) CPS, 20,
+95 ss. CPP, 9, 10, 31 CF, 5 cifra 3 CEDU;
+decide:
+1.
+L’istanza di libertà provvisoria presentata da __________
+è accolta alla seguente condizione:
+§
+versamento presso il Ministero Pubblico di una cauzione
+di CHF 100'000.-- (centomila);
+2.      __________
+sarà posto in libertà provvisoria al momento
+in cui sarà realizzata la condizione di cui al § del punto 1. della presente
+decisione.
+3.
+Non si prelevano tasse e spese.
+4.
+Contro la presente decisione è dato ricorso alla Camera
+dei ricorsi penali, Lugano, entro dieci giorni dall’intimazione.
+5.
+Intimazione:
+giudice Edy Meli
