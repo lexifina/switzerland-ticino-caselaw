@@ -1,0 +1,479 @@
+---
+decision_id: "ti_gerichte_INC.2004.20001"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.20001"
+decided: "2004-07-06"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=105121&nX40_KEY=4711177&nTrefferzeile=98&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-028.md", "switzerland/bund/acts/311.0/art-321.md", "switzerland/bund/acts/312.0/art-079.md", "switzerland/bund/acts/312.0/art-161.md", "switzerland/bund/acts/312.0/art-164.md", "switzerland/bund/acts/312.0/art-186.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2004.20001
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 06.07.2004 INC.2004.20001
+Tessin Il Giudice dell'istruzione e dell'arresto 06.07.2004 INC.2004.20001
+Ticino Il Giudice dell'istruzione e dell'arresto 06.07.2004 INC.2004.20001
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2004.20001
+Lugano
+6 luglio 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire sul
+reclamo presentato il 16/20 aprile 2004 da
+__________
+rappr. dall'__________
+contro
+l'ordine
+di perquisizione e sequestro del 5 aprile 2004 del Procuratore Pubblico Maria
+Galliani, nei procedimenti di cui agli incarti MP__________ e __________
+viste le osservazioni del Procuratore pubblico (26
+aprile 2004) e di __________ (30 aprile/3 maggio 2004;
+visti, per quanto necessario, gli incarti MP __________
+e __________;
+ritenuto
+in fatto
+A.
+Con decisioni del 16, rispettivamente 17 febbraio
+2004, la CRP ha accolto (ex art 186 cpv. 4 CPP) due istanze presentate da __________
+avverso altrettanti decreti di non luogo a procedere emanati dal Procuratore
+pubblico (il 26 giugno 2000, rispettivamente il 1. ottobre 2002) nell'ambito
+dei procedimenti menzionati in entrata della presente, conseguenti a sue
+denunce contro ignoti per reati patrimoniali, in relazione con il patrimonio
+del suo defunto padre e la gestione successiva alla morte di quest'ultimo (cfr.
+CRP inc. 60.2000.220, 60.2002.306).
+In sostanza, ed in entrambe le decisioni concernenti
+praticamente lo stesso oggetto, la CRP ha ordinato la completazione delle
+informazioni preliminari ai fini di verificare l'esistenza di un ingente
+patrimonio (del padre del denunciante), chi ne ha e ne ha avuto la gestione e
+in base a quale titolo (sentenza CRP 16 febbraio 2004, cons. 2.2), nonché
+l'esistenza di una fondazione di famiglia di cui __________ sarebbe
+beneficiario, la composizione dei suoi organi ed i motivi della riduzione della
+rendita mensile versata (sentenza 17 febbraio 2004, cons. 3.2).
+B.
+La CRP non indica in modo esaustivo gli atti
+istruttori che il magistrato inquirente dovrà compiere, limitandosi a
+suggerirne alcuni tra i quali l'audizione del qui reclamante e di altre (e
+determinate) persone, perquisizioni bancarie, nonché ogni (se opportuno) altro
+volto a "
+garantire l'acquisizione della documentazione riguardante
+tutte le fondazioni di famiglia costituite da __________ e/o società di cui era
+avente diritto economico
+" (sentenza 17 febbraio 2004, cons. 3.2, pag.
+7).
+A seguito delle sentenze di cui si è detto, il magistrato
+inquirente ha emanato (il 5 aprile 2004) l'ordine (nella forma della
+perquisizione e del sequestro) qui impugnato, volto ad ottenere la
+documentazione "
+riguardante tutte le fondazioni di famiglia costituite
+da __________ e/o di tutte le società di cui quest'ultimo era avente diritto
+economico
+" (cfr. ordine 5 aprile 2004, pag. 2)
+C.
+Avverso l'ordine in questione si aggrava il
+perquirendo chiedendone annullamento e completazione delle informazioni
+preliminari partendo dall'interrogatorio di __________ (Reclamo 16 aprile 2004,
+petitum).
+A sostegno della sua richiesta, il reclamante avanza
+una serie di argomenti: non corretta procedura davanti alla CRP (mancata
+indicazione dell'indiziato e/o violazione del diritto di essere sentito),
+denuncia strumentale ai fini di azioni civili in corso da tempo sia in __________
+(luogo del decesso) sia in Svizzera (azione di rendiconto), incapacità del
+denunciante (in fase di accertamento davanti al Pretore di Lugano) con
+conseguente impossibilità di costituirsi parte civile, assenza di sufficienti
+indizi di reato sia per la questione dell'ingente patrimonio del defunto (di
+cui non si sarebbe trovata traccia alla morte) sia per la riduzione della
+rendita (fatto debitamente spiegato al beneficiario, sempre secondo il
+reclamante).
+Inoltre, il reclamante sarebbe al beneficio del
+segreto professionale che lo esenta sia dal deporre che dal produrre documenti
+in relazione alla sua attività professionale per il defunto.
+Da ultimo, il reclamante ha prodotto la documentazione
+richiesta in busta chiusa a questo giudice opponendo, all'ordine di
+perquisizione, l'art. 164 CPP.
+D.
+Con le sue osservazioni del 26 aprile 2004, il
+magistrato inquirente, dopo aver brevemente ripercorso le due denunce e
+ricordato il loro esito primitivo, segnala come sia stata la stessa CRP a
+ritenere presenti sufficienti indizi di reato per la messa in opera di misure
+anche coercitive, indicando l'ispezione bancaria e l'acquisizione di
+documentazione tra gli atti d'inchiesta da effettuare. Irrilevante, sempre
+secondo il magistrato inquirente, il fatto che alcune informazioni potrebbero
+essere ottenute con misure meno coercitive (audizioni): celerità e completezza
+militano per la soluzione adottata, ritenuto che la scelta dell'ordine in cui
+procedere all'acquisizione compete comunque al magistrato inquirente stesso. La
+decisione di procedere mediante l'ordine impugnato è, inoltre e sempre secondo
+il Procuratore pubblico, dettata anche dal fatto che le persone da sentire lo
+sarebbero quali possibili indiziati (quindi con facoltà di non rispondere),
+rispettivamente potrebbero avvalersi del segreto professionale, a dipendenza
+della loro situazione (Osservazioni 26 aprile 2004, pag. 3).
+E.
+Anche __________ chiede il respingimento del reclamo
+(Osservazioni 30 aprile 2004).
+A suo dire, il reclamo è, innanzitutto, irricevibile
+per tutte quelle domande non contenute nel petitum e per tutto quanto non
+concerne direttamente l'ordine impugnato (accertamento della capacità
+processuale del denunciante, violazioni procedurali da parte della CRP,
+questioni legate al diritto successorio ed al foro di tale materia) che non
+possono essere trattate dal GIAR nell'ambito del reclamo contro l'ordine di
+perquisizione. Analogamente, é irricevibile la richiesta di ordinare al
+magistrato inquirente di procedere in altro modo (per rapporto a quello
+adottato) nella raccolta delle informazioni preliminari.
+Nel merito, gli indizi di reato (sufficienti) a
+giustificare l'ordine sono già stati ritenuti dalla CRP, così come il fatto che
+il perquirendo non possa (nel caso in esame) avvalersi del segreto
+professionale. Inoltre, secondo la parte civile, è evidente che l'attività del
+reclamante per rapporto all'oggetto dell'inchiesta, anche per come indicata nel
+reclamo stesso, non rientra tra quella prevista dall'art. 321 CP (Osservazioni,
+pag. 6 e ss.).
+Quanto ai documenti richiesti, secondo il denunciante
+spetta solo al magistrato decidere quali siano quelli utili all'inchiesta
+penale.
+Delle altre osservazioni/argomentazioni delle parti,
+si dirà se necessario nei considerandi che seguono.
+in diritto
+1.
+Il reclamo, presentato tempestivamente dal
+destinatario della decisione impugnata, è ricevibile in ordine.
+La ricevibilità del reclamo in riferimento a questioni
+di merito è difficilmente analizzabile in via preliminare viste le connessioni
+con l'ordine stesso ed il suo fondamento; la valutazione avverrà, se del caso,
+nell'ambito delle considerazioni relative al merito.
+2.
+I principi applicabili in materia di perquisizione e
+sequestro sono, notoriamente, i seguenti:
+"
+a)
+In diritto, l’art. 161 cpv. 1 CPP impone
+al magistrato penale di ordinare il sequestro di tutti gli oggetti che possono
+avere importanza per l’istruzione del processo, alternativamente o
+cumulativamente come mezzi di prova o in quanto passibili di confisca o
+devoluzione allo Stato. Il sequestro, per la sua qualità di provvedimento
+eminentemente cautelare, ha lo scopo di acquisire e conservare gli oggetti di
+cui sopra al seguito della procedura e quindi per le necessità dell’istruzione
+preliminare, per le decisioni del magistrato requirente e quelle del giudice
+del merito, come evidenziato nella duplice prospettiva - alternativa o
+cumulativa - della produzione e valutazione delle prove (sequestro probatorio)
+e delle decisioni di confisca, restituzione o devoluzione (sequestro
+confiscatorio) (v. decisione 8 maggio 1998, inc. GIAR 516.97.3, in: Rep. 131
+[1998] nr. 117, consid. 1a p. 359).
+b)
+Un ordine di perquisizione e sequestro
+(bancario o non) rappresenta un attentato ai diritti personali, e può causarne
+pregiudizio. Come ogni misura d’inchiesta, pertanto, deve soddisfare tre
+presupposti sostanziali: deve poggiare sull’esistenza di gravi indizi di
+colpevolezza, deve apparire necessario per il giudizio di merito (nel senso che
+deve essere connesso con l’oggetto che occorre salvaguardare agli incombenti
+processuali e di giudizio, v. decisione 17 agosto 1998 in re E.F., inc. GIAR
+501.98.2 consid. 2), infine deve essere rispettoso del principio di
+proporzionalità (v. Gérard Piquerez, Précis de procédure pénale suisse, 2. éd.
+Lausanne 1994, margin. 1441, 1454 e 1469, con rinvii).
+La verifica della fondatezza di questi
+presupposti, per il doveroso scrupolo di rispetto dei diritti individuali, deve
+essere costante negli incombenti dell’autorità inquirente e requirente, con
+sempre accresciuta esigenza probatoria indiziante approssimantesi alla verità
+materiale, a partire dal (concreto) sospetto all’apertura del procedimento, che
+va in seguito ed indilatamente approfondito con gli accertamenti probatori del
+caso (v., in contesto più generale, Piquerez, cit., margin. 1116 ss.).
+La misura ordinata dal Procuratore
+pubblico deve inoltre essere rispettosa del principio di proporzionalità (v.
+Rep. 131 [1998] nr. 117, consid. 1a p. 360; decisione 31 marzo 2000 in re
+banche X e Y, inc. GIAR 386/387.99.15, consid. 2b p. 6).
+"
+(per tutte sentenza 8 aprile 2004 in re
+V., GIAR 83.2004.1)
+Al GIAR compete verificare se queste condizioni sono
+presenti e rispettate nel singolo caso.
+3.
+È subito evidente che, nel caso in esame, la verifica
+dell'esistenza delle condizioni enunciate al considerando che precede è
+suscettibile di generare una situazione di conflitto di competenza con la CRP.
+Se, come afferma il magistrato inquirente, l'ordine
+impugnato è stato emanato a seguito (o in esecuzione) di quanto disposto dalla
+CRP, le condizioni che ne presiedono l'emanazione (sufficienti - o gravi che
+dir si voglia - indizi di reato, finalità probatorie in connessione con la
+fattispecie inquisita, proporzionalità) sono già state valutate (esplicitamente
+o implicitamente) da quella camera in una decisione di sua competenza,
+decisione che è specifica e particolare per rapporto al "generico
+reclamo" a questo giudice (ex art. 280 CPP) e che, quindi, prevale (cfr.
+L. Marazzi, Il GIAR l'arbitro nel processo penale, 2001, pag. 16/17 e
+citazioni). Inoltre, nei casi in cui tra gli atti d'inchiesta richiesti a
+completazione delle informazioni preliminari vi fossero (come nel caso in
+esame) perquisizioni e sequestri, non va dimenticato che la CRP è anche
+autorità di ricorso contro le decisioni di questo ufficio, con tutto quanto
+consegue.
+In questi casi l'esame (da parte di questo giudice)
+dell'atto d'inchiesta oggetto di reclamo, dovrà essere limitato alla verifica della
+forma e, prima ancora, del rispetto (o conformità) di quanto disposto dalla
+CRP.
+4.
+La conclusione di cui sopra non è intaccata dalle
+critiche del reclamante alla procedura davanti alla CRP (cfr. Reclamo, punto
+2).
+A prescindere dal fatto che non compete a questo
+giudice la verifica della correttezza della procedura adottata dall'autorità di
+ricorso, va comunque detto che sia le denunce sia le istanze di promozione
+d'accusa sono state presentate contro "ignoti", non vi era, pertanto,
+alcun formale "denunciato" a cui intimarle per osservazioni. Inoltre,
+le istanze in questione sono state accolte solo nella loro richiesta
+subordinata di completazione delle informazioni preliminari in un procedimento
+(ancora) contro ignoti e non di accoglimento parziale di una promozione
+d'accusa contro accusato non indicato (come invece sembra dedurre il
+reclamante).
+Quanto al diritto più generale di essere sentito, come
+in tutti i casi analoghi in cui vengono ordinate/decise misure d'inchiesta che
+in qualche modo coinvolgono persone che non sono (o non ancora) formalmente
+parti al procedimento (per. es. decisioni in materia di prove, complementi
+istruttori, ecc.) lo stesso è garantito, come nel caso in esame, al momento
+della concretizzazione della misura stessa (cfr. G. Piquerez, Procédure pénale
+suisse, 2000, nos. 769 e 770; N. Schmid, Strafprozessrecht, 2004, nos. 253 e
+254).
+5.
+E' opportuno, quindi, ricordare che, nelle sentenze
+citate, la CRP ha affermato quanto segue:
+"2.2
+…
+omissis …
+Infatti,
+occorre verificare se quanto sostenuto dall'istante in relazione all'esistenza
+di un ingente patrimonio del padre corrisponda alla verità. Se così fosse,
+bisognerebbe ancora accertare chi ne ha avuto, rispettivamente chi ne ha la
+gestione attualmente, a che titolo e in base a quale disposizione del defunto __________.
+Il
+procuratore pubblico non ha infatti compiuto alcun accertamento teso ad
+identificare chi erano, rispettivamente chi sono le persone tenute all'amministrazione
+del patrimonio del padre dell'istante, come invece sarebbe stato necessario.
+La
+fattispecie potrà essere chiarita segnatamente mediante l'audizione dell'__________,
+ritenuto che dagli atti risulta che i versamenti effettuati in favore
+dell'istante provengono dallo stesso,
+.... omissis ......
+.
+Sarebbe inoltre opportuno effettuare un'ispezione bancaria presso gli istituti
+di credito noti ai testi, al fine di determinare l'esistenza di relazioni
+bancarie e/o di deposito di averi intestati e/o di pertinenza di __________ e/o
+di cui __________ sarebbe stato l'avente diritto economico, nonché ogni altro
+atto istruttorio che il magistrato inquirente riterrà utile per approfondire la
+fattispecie.
+Inoltre,
+il procuratore pubblico ha decretato il non luogo a procedere ritenuto, tra
+l'altro, che "
+in qualità di legali, gli avv. __________ e __________
+sono comunque tenuti al segreto professionale. Pertanto, non potendosi
+ragionevolmente escludere che essi stiano agendo conformemente alle istruzioni
+ricevute dal defunto, il loro asserito silenzio non può certo essere
+interpretato come indizio di reato
+" (decreto di non luogo a procedere
+26.6.2000, p. 3). Questa considerazione non trova alcun conforto giuridico.
+Infatti, é difficile determinare quali attività siano coperte dal segreto
+professionale. Indubbiamente, l'attività esercitata nell'ambito del monopolio
+dell'avvocato è protetta. Il segreto professionale copre quindi tutte le
+fattispecie e tutti i documenti affidati all'avvocato che presentano un legame
+certo con l'esercizio della professione. Per contro, conformemente alla
+giurisprudenza del Tribunale federale (cfr. STF 112 Ib 606, 87 IV 108),
+l'avvocato che esercita per un cliente attività diverse da quelle direttamente
+connesse con la professione, non può avvalersi in tale ambito del segreto professionale;
+questo istituto non tutela infatti le attività commerciali dell'avvocato, quali
+l'amministrazione di società e la gestione di patrimoni o di fondi, che
+potrebbero essere esercitate anche da amministratori di patrimoni, fiduciari o
+banchieri (cfr. Messaggio 99.027 del 28.4.1999 concernente la LF sulla libera
+circolazione degli avvocati, n. 233.23). Nel caso concreto, l'attività
+esercitata dagli avvocati in questione rientra apparentemente nelle attività di
+una fiduciaria, di una banca o di un amministratore di patrimoni, motivo per
+cui gli stessi non possono avvalersi del segreto professionale.
+Il
+procuratore pubblico procederà pertanto alla completazione delle informazioni
+preliminari ai sensi dei considerandi, prima di determinarsi nuovamente sull'esito
+della denuncia."
+(sentenza
+16 febbraio 2004)
+e
+"3.2
+…
+omissis ...
+Infatti,
+il magistrato inquirente ha omesso di verificare l'esistenza della Fondazione
+di famiglia di cui __________ è il beneficiario, nonché il nome di tale
+Fondazione, la composizione degli organi e il Regolamento. In seguito a ciò il
+procuratore pubblico dovrebbe inoltre accertare il motivo alla base della
+riduzione della rendita mensile versata al beneficiario e ancora se tale motivo
+può essere la conseguenza di malversazioni al patrimonio di __________.
+La
+fattispecie potrà essere chiarita segnatamente mediante l'audizione dell'__________,
+ritenuto che dagli atti risulta che i versamenti effettuati in favore
+dell'istante provengono dallo stesso,
+......
+.
+omissis
+.
+.....
+. Il procuratore pubblico valuterà inoltre l'opportunità di compiere ulteriori
+atti istruttori, volti a garantire l'acquisizione della documentazione
+riguardante tutte le Fondazioni di famiglia costituite da __________ e/o
+società di cui era avente diritto economico.
+Il
+procuratore pubblico procederà pertanto alla completazione delle informazioni
+preliminari ai sensi dei considerandi, tenuto anche conto degli atti istruttori
+da esperire a seguito dell'emanzione della sentenza di questa Camera (inc. 60.2000.220),
+prima di determinarsi nuovamente sull'esito della denuncia."
+(sentenza
+17 febbraio 2004)
+In virtù di quanto sopra, si deve concludere che
+l'accertamento che si intende effettuare con la decisione impugnata è tra
+quelli richiesti/ordinati dalla CRP nelle specifiche decisioni che ordinano il
+completamento delle informazioni preliminari (sentenza 16 febbraio 2004, cons.
+2.2, secondo paragrafo; sentenza 17 febbraio 2004, considerando 3.2 secondo
+paragrafo), il metodo scelto (perquisizione e sequestro) è tra quelli che la
+CRP ha esplicitamente indicato come effettuabili (e opportuno: sentenza 16
+febbraio 2004, cons. 2.2, terzo paragrafo) e il qui reclamante (destinatario
+dell'ordine e, quindi, oggetto della misura) è già stato ritenuto non al beneficio
+del segreto professionale (poco chiara, ma senza influsso sulla presente,
+l'ipotesi del magistrato inquirente formulata a pagina 3 delle osservazioni in
+merito al segreto professionale, peraltro apparentemente associata a ruoli
+processuali diversi da quelli del teste). Negare questa evidenza per il solo
+fatto che in nessuna delle due sentenze si indichi esplicitamente la
+perquisizione ed il sequestro di documenti presso il reclamante apparirebbe
+specioso.
+Pertanto, l'ordine di perquisizione e sequestro,
+sufficientemente motivato e emesso dall'autorità competente, è conforme a
+quanto disposto/richiesto dalla CRP. Quindi, nella misura in cui ne chiede
+l'annullamento, il reclamo deve essere respinto.
+6.
+Per completezza si dirà che nel solco di quanto determinato
+al considerando che precede, l'argomento di un preteso abuso di diritto per uso
+strumentale della denuncia penale (Reclamo, punto 11) viene a cadere: la CRP ha
+stabilito che vi sono sufficienti motivi per proseguire nella raccolta delle
+informazioni preliminari.
+Spetterà al magistrato inquirente evitare l'utilizzo
+strumentale delle informazioni preliminari, se del caso limitando l'accesso
+agli atti anche alle eventuali parti civili, segnatamente se è ipotizzabile che
+il vero interesse è quello di utilizzare le informazioni acquisite in altra
+sede, al di fuori dalla procedura penale penale (art. 79 cpv. 2 CPP; L.
+Marazzi, op. cit., pag. 43). Ciò a maggior ragione fintanto che ci si trova
+nello stadio delle informazioni preliminari.
+Si rileva che il reclamante ha già formulato esplicita
+richiesta in tal senso (Reclamo, pag. 20) nell'eventualità di una reiezione del
+reclamo.
+Analogamente, spetta al Procuratore pubblico, in prima
+battuta, determinarsi sull'esistenza (iniziale o successiva) della capacità
+processuale di una parte qualora dovesse avere dei dubbi in merito (cfr.
+Osservazioni 26 aprile 2004, pag. 2, terzo capoverso). La questione è comunque
+irrilevante in relazione all'ordine impugnato, non trattandosi di reati a
+querela di parte (cfr. art. 28 CP).
+7.
+Stabilita la legittimità dell'ordine impugnato, ci si
+deve ora occupare della procedura di messa sotto suggello richiesta dal
+reclamante (in sede di reclamo), quale forma d'effetto sospensivo.
+La questione concerne la perquisizione della documentazione
+(art. 164 CCP; L. Marazzi, Sull'ordine di perquisizione e sequestro bancario -
+La legittimazione attiva della banca a interporre reclamo contro un ordine di
+perquisizione e sequestro, in Il Ticino ed il diritto, Lugano 1997 p. 501 ss,
+502; DTF 114 Ib 357). Lo scopo di questa procedura, che può essere trattata
+contestualmente al reclamo contro l'ordine di perquisizione e sequestro, è
+quella di permettere, al detentore o all'avente diritto di carte, di far valere
+la loro (delle carte) estraneità al procedimento penale. Ciò comporta
+motivazione specifica in tal senso, con prova praticamente liquida d'estraneità
+affinché questo giudice, che non ha compiti istruttori (e non può determinarsi
+in prima istanza sulle prove spulciando magari l'intero incarto e tutta la
+documentazione bancaria sin qui acquisita), possa esprimersi in merito.
+Sebbene l'art. 164 CPP sia stato invocato, per così
+dire, a garanzia dell'effetto sospensivo del reclamo e le motivazioni a
+sostegno dell'esclusione di tale documentazione concernono più (per non dire
+esclusivamente) la protezione di terzi che non l'estraneità al procedimento in
+corso, appare prudente, vista anche l'avvenuta produzione in busta chiusa,
+pronunciarsi sulla loro "perquisibilità" da parte del magistrato inquirente
+previa visione degli stessi (non da ultimo per garantire, in caso di reclamo
+contro la presente, il doppio grado di giurisdizione anche su questa questione
+ed evitare eventuale rinvio da parte dell'autorità superiore (CRP 5 febbraio
+2003 in re C., 60.2002.393).
+8.
+Dopo apertura della busta prodotta dal reclamante,
+questo giudice è in grado di affermare che i documenti in essa contenuti non
+possono essere definiti come certamente e liquidamente estranei al
+procedimento. Per ovvie ragioni (la presente decisione non è definitiva neppure
+a livello cantonale) non si procede ad una descrizione di dettaglio dei
+documenti in questione. Si può comunque dire che si tratta di due tipi di
+documenti, bancari e non. I secondi contengono indicazioni che permettono di
+ritenerli "connessi" con gli oggetti delle verifiche richieste dalla
+CRP. I primi non recano indicazioni specifiche in tal senso; tuttavia il
+raffronto di alcuni dati con fatti menzionati in denuncia e nel reclamo (e non
+contestati) permettono di affermare possibile (fors'anche probabile)
+connessione. Di certo, sulla base del contenuto e delle indicazioni fornite da
+chi ha richiesto la messa sotto sugello, non é possibile dichiararli estranei.
+Di conseguenza, è ammessa la perquisizione delle carte
+in questione da parte del Procuratore pubblico per quanto di sua competenza
+relativamente al seguito della procedura.
+Va ricordato che l'ordine di perquisizione e
+sequestro, contiene due atti procedurali (o momenti procedurali, se si
+preferisce) tra loro distinti: quello della perquisizione e quello del
+sequestro.
+Ovviamente la prima precede, generalmente, il secondo
+e ne determina la fondatezza anche per quanto concerne la (successiva)
+acquisizione agli atti della documentazione e/o degli averi (REP 1997 no. 102;
+sentenza GIAR 2 novembre 1993 in re banca B., inc. 863.93.1; sentenza GIAR 23
+marzo 1994 in re M-B., inc. 224.94.1).
+La prassi che ammette sostituzione della perquisizione
+"domiciliare" mediante trasmissione di un ordine scritto per posta,
+non deve far dimenticare questi due momenti.
+Il sequestro (quindi e come detto sopra) segue la
+perquisizione e, nella misura in cui è già stato ordinato cautelativamente,
+deve trovare conferma o smentita (se del caso formale) a seguito
+dell'esecuzione di quest'ultima (art. 164 CPP, ultima frase; GIAR 23 marzo
+1994, inc. 224.94.1), che il magistrato inquirente non ha, di fatto, ancora
+effettuato.
+Riservatezza, approfondito esame delle circostanze e
+quindi della proporzionalità sono garanzie che dovranno presiedere alla
+perquisizione, vale a dire alla presa di conoscenza ed all'esame della
+documentazione da parte del magistrato inquirente (cui spettano tali
+incombenti: CRP 21 gennaio 1991 in re C. D. B., inc. 354/90; GIAR 2 novembre
+1993, inc. 863.93.1), con restituzione (e quindi non acquisizione agli atti
+dell'istruttoria) di tutte quelle carte che si constateranno estranee al
+processo.
+I documenti verranno trasmessi al magistrato
+inquirente solo dopo la crescita in giudicato della presente.
+9.
+In conclusione, il reclamo contro l'ordine di
+perquisizione e sequestro è respinto ed al magistrato inquirente è consentita
+la perquisizione delle carte prodotte dal reclamante ex art. 164.
+Tassa di giustizia, spese e ripetibili seguono la
+soccombenza.
+La presente decisione, che comunque concerne la
+materia del sequestro, è impugnabile alla CRP.
+P.Q.M.
+viste le norme applicabili, in particolare gli artt.
+138, 146, 158, 254 CP, 1 ss., 6, 68 ss.,
+69, 79, 157 ss., 161, 164, 178 ss., 183, 186, 280 ss., 281, 284 CPP, 29 CF,
+decide
+1.
+Nella misura in cui è ricevibile il reclamo è
+respinto.
+2.
+La documentazione prodotta sotto suggello non viene
+restituita al reclamante. Alla crescita in giudicato della presente, il
+Procuratore pubblico potrà procedere alla relativa perquisizione.
+3.
+La tassa di giustizia, fissata in FRS 500.-, e le
+spese (FRS 80.-) sono a carico del reclamante, il quale rifonderà
+all'osservante resistente la somma di FRS 800.- a titolo di ripetibili.
+4.
+Contro la presente è dato reclamo alla CRP entro 10
+giorni dalla notifica.
+5.
+Intimazione:
+giudice
+Edy Meli
