@@ -1,0 +1,272 @@
+---
+decision_id: "ti_gerichte_INC.2002.43602"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.43602"
+decided: "2002-09-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59596&nX40_KEY=4711364&nTrefferzeile=50&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2002.43602
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.09.2002 INC.2002.43602
+Tessin Il Giudice dell'istruzione e dell'arresto 23.09.2002 INC.2002.43602
+Ticino Il Giudice dell'istruzione e dell'arresto 23.09.2002 INC.2002.43602
+
+Sentenza o decisione senza scheda
+
+N. 436.2002.2                                                            Lugano,
+23 settembre 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 13/16 settembre 2002 da
+__________
+,                             attualmente
+detenuto presso il PCT,
+(rappresentato
+dall'Avv. __________)
+e qui trasmessa il 19/20
+settembre 2002, con preavviso negativo, dal Procuratore pubblico __________;
+viste le osservazioni 23
+settembre 2002 della difesa;
+visti gli atti dell'inc. MP
+__________;
+ritenuto e considerato
+in fatto ed in
+diritto
+che:
+-
+__________ è stato arrestato il 6 agosto 2002, con contestuale
+promozione d'accusa, per i reati di cui agli artt. 180, 181, 189 CP e
+infrazione alla LDDS, per fatti commessi nel corso del 2002 ai danni dell'amica
+(ed in parte convivente) __________, rispettivamente a partire dal 2000 (doc. 1
+e 2 inc. GIAR 436.2002.1);
+-
+L'arresto è stato confermato da questo giudice il 7 agosto 2002,
+ritenuta la presenza di gravi indizi di reato, bisogni dell'istruzione,
+pericolo di fuga e di recidiva (doc. 4 dell' incarto citato);
+-    Riassuntivamente, __________ è accusato di aver soggiornato a
+Lugano, senza i relativi permessi, ininterrottamente da circa 2 anni e,
+soprattutto, di aver imposto, nel corso del 2002 e a più riprese, atti sessuali
+(in particolare coiti orali) alla convivente (rispettivamente ex convivente)
+__________ che avrebbe pure ripetutamente minacciato di morte, comunque di atti
+contro la sua incolumità, con scritti, telefonate e percosse (cfr. vari verbale
+PS e PP di __________).
+-
+Con l'istanza qui in discussione, __________ chiede di essere
+posto in libertà provvisoria. Dopo un breve riassunto dell'inchiesta e del suo
+rapporto con __________, __________, ammette di aver avuto un comportamento da
+persona gelosa (imputabile al "carattere ed al modo di vivere dei
+partenopei") ma contesta i fatti che gli vengono imputati. In particolare
+contesta l'imputazione di coazione sessuale. A suo dire, gli ottimi rapporti
+con la vittima, ancora nel periodo pasquale (come documentato da fotografie
+agli atti), dimostrerebbero infondatezza delle accuse relative a "fatti
+gravi", e fondano necessità di determinare con certezza la collocazione
+temporale di tali fatti mediante audizione del (proprio) figlio, nonché
+confronto con __________. Sempre a suo dire, agli atti non vi é alcuna prova
+relativa ai denunciati reati sessuali, il suo soggiorno in Svizzera non é stato
+continuo e, per quanto concerne le minacce, egli avrebbe agito sotto l'influsso
+di una profonda emozione.
+-
+Nel suo preavviso negativo, il magistrato inquirente, elenca gli
+indizi di reato a carico di __________, sia per le ipotesi di reato
+"minori" (soggiorno a Lugano da circa 2 anni, violenze fisiche e
+minacce), sia per l'ipotesi di reato maggiore (linearità del racconto, stato di
+sofferenza e prostrazione documentato da medici, racconti fatti a terzi prima
+della denuncia, dettagli significativi riscontrati da atti d'inchiesta).A
+giudizio del Procuratore pubblico, la personalità dell'accusato nonché il suo
+comportamento nei confronti della vittima (violenze fisiche, minacce, ecc.),
+rendono concreto il pericolo che egli, se posto in libertà, possa cercare di
+influire sulla stessa perturbando il seguito dell'istruttoria. E ciò, con
+particolare riferimento al richiesto confronto. Inoltre, egli ha già
+dimostrato, quantomeno per ciò che concerne le minacce, d'essere
+particolarmente perseverante, con ciò fondando anche concreto pericolo di
+recidiva. In capo all'accusato esisterebbe pure concreto pericolo di fuga vista
+l'inesistenza di legami significativi con la Svizzera. Da ultimo il carcere
+preventivo sofferto sarebbe, anche se mantenuto, ancora rispettoso del
+principio di proporzionalità.
+-
+Con osservazioni del 23 settembre 2002, la difesa sottolinea come
+anche il Procuratore dia atto dei legami affettivi tra l'accusato e la
+denunciante. Precisa come vi siano segnali di rapporto anche dopo le (presunte)
+violenze denunciate. Contesta l'esistenza di sufficienti indizi di coazione
+sessuale: i malesseri psico-fisici della vittima costituiscono indizio ambiguo
+per il fatto che la convivenza, ed i rapporti, sono continuati anche dopo
+l'inizio delle
+Difficoltà ed
+esprime il dubbio che la denuncia possa essere frutto del desiderio di "
+togliersi
+di torno una persona che cominciava a diventare scomoda
+", vista anche
+la difficoltà di imporre coattivamente coiti orali. In merito ai bisogni
+istruttori, le osservazioni si limitano a ribadire i dubbi sulla veridicità di
+tutto quanto denunciato.
+-
+Come al dettato di legge ed a giurisprudenza (REP 1998, pag. 333
+ss.), l'art. 95 CPP - corrispondente all’art. 33 scaturito dalla revisione
+parziale 23 settembre 1992 / 1. gennaio 1993 - dopo evidenza al cpv. 1 del
+principio secondo cui l'accusato si trova di regola in libertà, consente al
+cpv. 2 arresto, perdurare e (poi, se del caso) proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne- i bisogni dell'istruzione, nella specie del pericolo di
+collusione e inquinamento delle prove, ed il pericolo di fuga: l'eccezione
+della cautelare privazione della libertà personale ha così trovato
+codificazione in una chiara base legale (di diritto cantonale: DTF 114 Ia 283
+cons. 3), in corrispondenza ed a superamento di quanto già dettato dalla
+giurisprudenza della Camera dei ricorsi penali - nel solco di quella del Tribunale
+federale -, ritenuto implicito il rispetto della proporzionalità (REP 1980 pag.
+44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381), ritenuto che i menzionati
+presupposti vanno approfonditi con maggior rigore nella loro valutazione,
+quanto più si è protratta la restrizione della libertà e quanto più si avvicina
+la conclusione delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss), questo
+giudice, come già la Camera dei ricorsi penali, non restringendo la sua
+cognizione all'arbitrio (REP 1980 pag. 128);
+-
+Sostanzialmente l'accusato contesta il primo presupposto
+necessario per ordinare, o mantenere, la detenzione cautelare, ciò l'esistenza
+di gravi indizi di colpevolezza. A torto.
+-
+Non vi è dubbio che gravi indizi di reato siano presenti per
+quanto concerne le ipotesi di cui agli artt. 23 cpv. 1 LDDS e 180 CP. Da un
+lato vi sono le stesse ammissioni dell'accusato: "
+ammetto che vivo a
+Lugano … da due anni ininterrottamente ad eccezione di qualche giorno in cui mi
+sono assentato
+" (verbale PS 13 agosto 2002, p. 1), "
+ammetto di
+averle dato qualche schiaffo, ammetto di essere l'autore del messaggio che mi
+viene ostentato (sic!) e che è firmato __________. Ammetto anche di averle
+fatto eseguire una telefonata da una terza persona in cui si invitava la
+__________ a cambiare casa. Ammetto di avere impaurito __________ quando sono
+stato nervoso
+(ibidem). Queste affermazioni, confermate davanti al
+Procuratore pubblico con estensione ai vari "
+biglietti allegati al
+rapporto d'arresto
+" (Verbale PP 29 agosto 2002, p. 1 e 7), cui si
+aggiungono delle deposizioni e degli elementi documentali (cfr. Verbale PS
+__________ del 9 agosto 2002 ed il
+-
+contenuto degli scritti allegati al Rapporto d'arresto del 6
+agosto 2002), sono indizi di reato più che sufficienti per le necessità del
+presente giudizio (che non concerne e non pregiudica il merito).
+-
+Per quanto concerne le ipotesi di coazione sessuale e coazione,
+va detto che se la semplice affermazione della vittima può non costituire grave
+indizio, così la semplice negazione dell'accusato non basta ad escluderlo. Come
+rettamente precisato dal magistrato inquirente, in materia di reati sessuali è
+frequente che ci si trovi di fronte a dichiarazioni divergenti con
+contemporanea assenza di testimonianze dirette, prove documentali ed altro. La
+linearità delle dichiarazioni della vittima sono, di conseguenza, uno degli
+elementi da considerare (quanto meno a livello d'indizio). Nel caso in esame,
+oltre la linearità del racconto della vittima, vi sono altre circostanze che
+non possono essere dimenticate o banalizzate. Agli atti vi sono deposizioni
+testimoniali che attestano come __________ abbia parlato dei suoi problemi,
+derivanti dal rapporto con il __________, e della loro gravità, ben prima della
+denuncia che ha dato il via all'inchiesta. A questi testi, __________, ha pure
+indicando anche il motivo per il quale temeva le conseguenze di un'eventuale
+denuncia, così come spiegato agli inquirenti in relazione a questo
+"ritardo" (Verbali PS __________ 12 agosto 2002, __________ 9 agosto
+2002). Ad uno dei testi ha pure raccontato, a circa un mese dalla denuncia, di
+essere stata costretta a praticare al __________ un coito orale nei boschi di Carona
+(Verbale PS __________ 9 agosto 2002); questo stesso teste aveva visto, in
+precedenza, i segni delle percosse (Verbale __________ citato). Queste
+deposizioni concorrono rafforzare la credibilità del racconto della signora
+__________, anche per il solo fatto che parte dei fatti raccontati (a terzi e
+prima della denuncia) hanno trovato riscontro nelle stesse ammissioni
+dell'accusato, avvenute il 13 agosto 2002, dopo iniziale diniego o reticenza (
+"
+contrariamente a quello che avevo dichiarato ma non firmato nel mio
+primo verbale del 6.08.2002 ammetto oggi che …
+" - Verbale PS
+__________ 13 agosto 2002). Non da ultimo, deve pure essere considerato il
+fatto che __________ riferisce, a proposito di un episodio d'imposizione di un
+coito orale, che l'accusato si era dotato di una frusta e di un pene
+artificiale appena acquistati (Verbale PS __________ 5 agosto 2002). Questi
+oggetti sono stati effettivamente reperiti e sequestrati in sede di
+perquisizione al domicilio di __________ (cfr. Verbale di perquisizione del
+7.08.2002). L'accusato ha affermato di non aver mai utilizzato questi strumenti
+con la denunciante perché "…
+è una bravissima persona. __________ è una
+bambinona grande
+" (Verbale PS __________ 13 agosto 2002).Questi
+oggetti, sempre a dire dell'accusato, sono stati portati e dimenticati, a casa
+sua, da una donna di cui, opportunamente, non vuole fare il nome. Non si
+capisce, peraltro, se egli abbia avuto con questa donna un rapporto intimo,
+eventualmente assistito da tali attrezzi, oppure no (cfr. Verbale PS 13 agosto
+2002 p.1 e Verbale PS 20 agosto 2002 p.2). Resta il fatto che egli non risulta
+aver mai mostrato o parlato della presenza in casa sua di questi oggetti con
+__________ (Verbale PP 29
+agosto 2002
+p.4), fatto più che comprensibile vista la sua concezione dei rapporti di
+copia, la sua gelosia ed il fatto che (durante la relazione con __________) non
+ha mai avuto rapporti con altre donne (Verbale PP 29 agosto 2002, p. 4 e 6).
+-
+Tutto quanto sopra riportato, concorre a fondare l'esistenza di
+gravi indizi di colpevolezza nei confronti di __________ (e per quanto
+necessario per il presente giudizio che non è, né può essere di merito) anche
+per le ipotesi di coazione sessuale e coazione.
+-
+Nel caso in esame è presente un concreto pericolo di collusione,
+rispettivamente inquinamento delle prove, quantomeno per ciò che concerne
+l'interrogatorio ed il confronto chiesto dalla stessa difesa. L'atteggiamento
+(ammesso) dell'accusato nei confronti di __________, prima dell'arresto
+(percosse, pedinamenti, lettere e telefonate anonime) è chiaro indice di una
+non accettazione della libertà altrui ( e poco importa se in conseguenza di una
+mentalità partenopea). Questo atteggiamento non sembra essersi modificato a
+seguito dell'arresto e non v'è ragione (per quanto emerge dagli atti) che non
+venga nuovamente utilizzato ai fini di volgere a proprio favore gli atti d'inchiesta
+ancora da effettuare (sentenza GIAR 28 febbraio 2002, inc. 492.2001.3; SJ 1981
+p.379 e citazioni).E' lo stesso accusato a fornire ulteriori elementi in tal
+senso laddove rifiuta, per motivi di "cavalleria", di fornire il nome
+di una teste che potrebbe (secondo le sue stesse dichiarazioni) essere a suo
+favore (per intenderci la signora che avrebbe dimenticato a casa sua frusta e
+pene artificiale). Abbondanzialmente si rileva come l'accusato e la sua difesa,
+non spendano parole per contestare questo elemento (e neppure in merito a
+pericolo di fuga e di recidiva), concentrandosi sull'insufficienza degli indizi
+di reato.
+-
+Constatata la presenza di gravi indizi di reato e necessità
+istruttorie (pericolo di collusione ed inquinamento delle prove), non vi è
+necessità, a questo stadio, di verificare se siano dati anche gli altri due
+elementi suscettibili di giustificare (alternativamente ai bisogni istruttori)
+il mantenimento della detenzione preventiva.
+-
+In conclusione l'istanza di libertà provvisoria, presentata da
+__________ con scritto del 13 settembre, deve essere respinta, Il presente
+giudizio è esente da tasse e spese ed impugnabile alla CRP.
+P.Q.M.
+Visti gli artt. 180, 181, 189 CP,
+23 cpv. 1 LDDS, 95 ss., 102, 106, 107, 108 CPP, 10, 29, 31, 32 CF
+decide
+1.
+L'istanza di libertà provvisoria
+presentata da __________ è respinta.
+2.
+Non si percepiscono tasse e spese
+giudiziarie.
+3.
+Contro la presente decisione è
+dato reclamo alla CRP, Lugano, entro 10 giorni dall'intimazione.
+4.
+Intimazione:
+-    Avv. __________, per sé e
+per l'accusato;
+-    Procuratore pubblico __________, sede (con copia delle
+osservazioni dell'accusato, nonché l'inc. MP __________ di ritorno).
+giudice
+__________
