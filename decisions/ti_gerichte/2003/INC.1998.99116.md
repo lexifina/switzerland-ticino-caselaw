@@ -1,0 +1,155 @@
+---
+decision_id: "ti_gerichte_INC.1998.99116"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1998.99116"
+decided: "2003-04-17"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=86040&nX40_KEY=4711344&nTrefferzeile=26&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-193.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.1998.99116
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 17.04.2003 INC.1998.99116
+Tessin Il Giudice dell'istruzione e dell'arresto 17.04.2003 INC.1998.99116
+Ticino Il Giudice dell'istruzione e dell'arresto 17.04.2003 INC.1998.99116
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.1998.99116
+Lugano
+17 aprile 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Franco Lardelli
+sedente per statuire sul reclamo presentato il 12 marzo
+2003 da
+__________
+(patrocinato dall’avv. __________)
+contro
+la decisione 3 marzo 2003 del Procuratore pubblico
+Emanuele Stauffer, che ha ordinato il deposito degli atti acquisiti su
+complemento d’inchiesta;
+viste le osservazioni 16 marzo
+2003 del magistrato inquirente, concludenti per la reiezione del reclamo;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+Nei confronti di __________
+é pendente un procedimento penale per titolo di truffa, truffa aggravata e
+falsità in documenti, reati commessi con varie modalità in danno di pazienti,
+casse malati, assicurazioni sociali e case farmaceutiche, in particolare
+attraverso fatturazioni di prestazioni professionali mai eseguite, anche con
+asseriti ricoveri di pazienti in realtà non degenti nelle cliniche dirette
+dall’accusato o in congedo.
+La fattispecie é
+già stata oggetto di precedenti decisioni in materia di libertà personale e di
+provvedimenti processuali.
+2.
+Il 22 febbraio
+2002 il Procuratore pubblico ha disposto il deposito degli atti a norma
+dell’art. 196 CPP. Con allegato 24 aprile 2002, entro i termini prorogati fino
+al 25 aprile 2002 (v. decisione 5 marzo 2002 del magistrato inquirente), __________
+ha postulato l’assunzione di diverse prove.
+Con decisione 21
+maggio 2002 il magistrato inquirente ha respinto integralmente le domande
+dell’accusato. Ha fatto seguito il reclamo 30 giugno 2002, che è stato
+parzialmente accolto da questo giudice con decisione 3 febbraio 2003; al
+Procuratore pubblico, come da richiesta del reclamante, è stato imposto di
+chiedere alla FTAM, per iscritto, se le fatture emesse e oggetto della perizia
+del dott. __________ fossero state pagate.
+3.
+Dando seguito a
+quanto imposto da questo giudice, il magistrato inquirente, con lettera 20
+febbraio 2003, ha chiesto all’avv. __________ che, per il suo tramite, la FTAM
+si pronunciasse su quanto chiesto dalla difesa e accolto dal giudice. La
+risposta è giunta da __________ con lettera 28 febbraio 2003. Il Procuratore
+pubblico ha ritenuto con quella risposta evasi i suoi incombenti istruttori e
+in data 3 marzo 2003 ha provveduto al deposito del complemento acquisito.
+Con il reclamo in
+oggetto (presentato il 12 marzo 2003), __________ chiede che sia annullata la
+decisione di deposito atti emanata dal Procuratore pubblico, in quanto, a suo
+dire, alla domanda posta alla FTAM non sarebbe stata data alcuna risposta.
+Prima di procedere al deposito degli atti, sarebbe “indispensabile che il
+quesito posto venga soddisfatto, così da non imporre all’accusato di dover
+chiedere per la seconda volta il medesimo complemento istruttorio”.
+Nelle
+osservazioni 16 marzo 2003 il Procuratore pubblico chiede la reiezione del
+gravame, che avrebbe “scopo esclusivamente defatigatorio”. La risposta di __________
+sarebbe, a suo dire, “precisa, documentata ed esaustiva”.
+4.
+Va ricordato che
+l’art. 193 CPP dispone che il Procuratore pubblico dirige l’istruzione formale,
+raccogliendo le prove nel rispetto del diritto delle parti. Quando il
+magistrato inquirente ritiene raggiunto lo scopo della sua attività, procede al
+deposito degli atti, informando le parti che possono prendere conoscenza degli
+atti e formulare istanze di complemento di inchiesta entro il termine fissato
+per il deposito (art. 196 cpv. 1).
+Dopo il deposito
+degli atti il magistrato inquirente deve dar seguito ai complementi istruttori
+proposti dalle parti e da lui accolti e a quelli eventualmente imposti da
+questo giudice su reclamo della parte proponente. Acquisiti i complementi il
+Procuratore pubblico procede ad un nuovo deposito atti, limitatamente
+all’oggetto e alle risultanze di questi ultimi (art. 196 cpv. 4 CPP).
+Il fatto che la
+risposta sia stata data da __________ non è oggetto di contestazione da parte
+del reclamante. Contestati sono invece il contenuto della risposta data il 28
+febbraio 2003 da __________ e la decisione del Procuratore pubblico di
+procedere al deposito degli atti avente per oggetto quella risposta.
+Diversamente da
+quanto sostiene il reclamante, l’agire del magistrato inquirente appare
+formalmente corretto. Egli infatti non ha omesso di procedere a quanto gli è
+stato imposto da questo giudice con decisione 3 febbraio 2003; ha dato seguito
+ad una richiesta scritta che riproduceva integralmente quanto chiesto dalla
+difesa e accolto dal giudice e, ottenuta risposta, ha provveduto alle ulteriori
+formalità di deposito atti conformemente a quanto disposto dall’art. 196 cpv. 4
+CPP.
+Il contenuto
+della risposta di __________ (che il reclamante ritiene non esaustivo) non può
+essere oggetto di valutazione in questa sede, quanto piuttosto nell’esame degli
+ulteriori complementi istruttori che __________ ha nel frattempo puntualmente
+chiesto nell’ambito del deposito atti. Essendo gli stessi pure oggetto di
+contestazione (in quanto respinti dal magistrato inquirente con decisione 20
+marzo 2003), sono decisi da questo giudice con separata decisione.
+5.
+Alla luce di
+quanto precede, il reclamo va dunque respinto, con la presente decisione
+definitiva (art. 284 cpv. 1 lett. a CPP e contrario) e con carico della tassa
+di giustizia e delle spese al reclamante (art. 39 lett. f TG), correlate alla
+sua soccombenza.
+Richiamati i
+citati articoli di legge,
+decide:
+1.
+Il reclamo è
+respinto.
+2.
+La
+tassa di giustizia di Frs. 300.- e le spese di Frs. 50.- sono poste a carico
+del reclamante.
+3.
+La presente
+decisione è definitiva.
+4.
+Intimazione:
+-    avv. __________, per sè e per il reclamante
+(con
+copia delle osservazioni 16 marzo 2003 del magistrato inquirente);
+-    Procuratore pubblico Emanuele Stauffer, 6900 Lugano, con l’incarto di
+ritorno.
+giudice
+Franco Lardelli
