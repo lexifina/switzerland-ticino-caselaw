@@ -1,0 +1,71 @@
+---
+decision_id: "ti_gerichte_INC.2000.69505"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.69505"
+decided: "2002-03-15"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59482&nX40_KEY=4711430&nTrefferzeile=23&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2000.69505
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 15.03.2002 INC.2000.69505
+Tessin Il Giudice dell'istruzione e dell'arresto 15.03.2002 INC.2000.69505
+Ticino Il Giudice dell'istruzione e dell'arresto 15.03.2002 INC.2000.69505
+
+Sentenza o decisione senza scheda
+
+N. 695.2000.5 M                                                        Lugano,
+15 marzo 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull’istanza di liberazione della
+cauzione inoltrata in data 19/20 febbraio 2002 da
+__________
+,
+(difeso di fiducia dall’avv. __________)
+visto il
+preavviso negativo 4 marzo 2002 del Presidente della Corte delle Assise
+correzionali, con contestuale comunicazione dell’avvenuta fissazione del
+pubblico dibattimento per il giorno 10 aprile 2002;
+preso atto
+che l’istante, in considerazione dell’aggiornamento del processo, ha ritirato
+l’istanza con scritto 14/15 marzo 2002, ragione per cui la medesima può essere
+stralciata dai ruoli a seguito del suo ritiro, con la presente decisione
+teoricamente impugnabile avanti alla Camera dei ricorsi penali del Tribunale di
+appello, e comunque esente da tassa e spese di giudizio;
+in
+applicazione degli artt. 95 ss., 110 s., 279 ss. e 284 cpv. 1 lit. a CPP
+decide:
+1.
+L’istanza
+di liberazione della cauzione inoltrata in data 19/20 febbraio 2002 da
+__________ è stralciata dai ruoli a seguito del suo ritiro.
+2.
+Contro
+la presente decisione è dato il rimedio del ricorso alla Camera dei ricorsi
+penali del Tribunale di appello entro 10 (dieci) giorni dall’intimazione.
+3.
+Non
+si prelevano tassa né spese giudiziarie, e non si attribuiscono ripetibili.
+4.
+Intimazione:
+-
+avv. __________, per sé e per l’accusato __________, con copia
+dei preavvisi dei magistrati inquirente e giudicante;
+-
+Presidente delle Assise correzionali giudice avv. __________, sede;
+-
+Procuratore Pubblico avv. __________.
+giudice
+__________
