@@ -1,0 +1,277 @@
+---
+decision_id: "ti_gerichte_INC.2001.64001"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.64001"
+decided: "2003-03-31"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59554&nX40_KEY=4711346&nTrefferzeile=54&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-141bis.md", "switzerland/bund/acts/312.0/art-142.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.2001.64001
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 31.03.2003 INC.2001.64001
+Tessin Il Giudice dell'istruzione e dell'arresto 31.03.2003 INC.2001.64001
+Ticino Il Giudice dell'istruzione e dell'arresto 31.03.2003 INC.2001.64001
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2001.64001
+Lugano
+31 marzo 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto supplente
+__________
+sedente per statuire sul reclamo presentato il 26 novembre
+2001 da
+__________
+(patrocinata
+dall'avv. __________)
+contro
+contro la
+decisione 14 novembre 2001 del
+Procuratore pubblico
+avv. __________,
+che ha integralmente respinto complementi di prova proposti dalla reclamante
+nel procedimento penale contro di lei pendente per titolo di appropriazione
+indebita e impiego illecito di valori patrimoniali;
+viste le osservazioni 3 dicembre
+2001 del magistrato inquirente e 10 dicembre 2001 della parte civile __________
+(patrocinata dall'avv. __________), entrambi concludenti per la reiezione del
+reclamo, mentre non ha preso posizione la parte civile __________, già
+residente a __________ (patrocinata dall'avv. __________);
+letti ed esaminati gli atti;
+ritenuto
+in fatto:
+A.
+La promozione dell'accusa 11
+aprile 2000 nei confronti di __________ (doc. _ degli incarti congiunti MP
+__________ e __________, secondo l'attuale numerazione) si riferisce a due
+distinte ipotesi di reato. Quella per appropriazione indebita (art. 138 cfr. 1
+CP) è derivata dalla denuncia sporta il 23 dicembre 1999 da __________ (doc. _,
+inc. MP), che lamenta la distrazione di indennità per incapacità al lavoro,
+versate dalla __________ Assicurazioni per il tramite della ditta datrice di
+lavoro __________, amministrata dall'accusata, che le ha trattenute: l'altra per
+impiego illecito di valori patrimoniali (art. 141 bis CP) è conseguente alla
+querela 23 agosto 1999 della __________ S.A. (doc. _, inc. MP), l'accusata
+essendo sospettata di aver utilizzato a proprio profitto valori patrimoniali
+accreditatile erroneamente da una slot machine della citata casa di gioco.
+__________ ha contestato il
+ricorrere di estremi di reato a suo carico, in entrambe le fattispecie (v.
+verbale 28 luglio 2000 dinnanzi al magistrato inquirente, mappetta doc.
+__________, inc. MP). Ammette di aver giocato, vinto e perso, nelle sale della
+__________ S.A., ma nega di essersi accorta di erogazioni esuberanti e non
+dovuti di crediti da parte della slot usata, mentre nei confronti di
+__________, fa valere diritti di compensazione con crediti della __________,
+appunto pareggiati con le indennità assicurative.
+B.
+Il 23 ottobre 2001, il
+Procuratore pubblico ha disposto il deposito degli atti istruttori, a norma
+dell'art. 196 CPP (doc. __________, inc. MP).
+Il 9 novembre 2002 e cioè nel
+termine all'uopo assegnato, __________ ha chiesto l'assunzione di determinate
+prove, riferite tanto all'una che all'altra fattispecie inquisita (doc.
+__________, inc. MP), sulle quali si tornerà singolarmente più avanti al
+momento della loro valutazione. Con decisione 14 novembre 2001 (doc.
+__________, inc. MP), il Procuratore pubblico ha respinto integralmente
+l'istanza, le prove proposte non avendo i requisiti della novità e della
+pertinenza, con argomenti che pure - per evitare superflue ripetizioni -
+verranno esaminati di seguito.
+Con il presente reclamo, elencate
+e riassunte le prove raccolte in istruttoria, l'accusata ripropone i reietti
+mezzi di prova, che ancora non risultano acquisiti, che sono determinanti a sua
+discolpa e che risulterebbe difficile, se non addirittura impossibile, produrre
+al dibattimento. Le osservazioni del Procuratore pubblico punto per punto si
+oppongono alla loro accoglienza (salvo marginale essezione), per cui chiede la
+reiezione praticamente integrale del gravame: parimenti si esprime la
+__________ S.A., per quanto di sua pertinenza. Anche a questo proposito delle
+rispettive osservazioni si terrà conto successivamente ed ove necessario.
+e considerando
+in diritto:
+1.
+Il reclamo, tempestivamente
+presentato dall'accusata, è ricevibile in ordine, rispettando quanto in
+proposito dettato dagli art. 280 e rel. CPP.
+2.
+L'art. 196 CPP consente alle
+parti, una volta conclusa l'istruttoria a giudizio del Procuratore pubblico
+nella sua attività di magistrato inquirente, di formulare istanza di
+complemento di inchiesta, indicando i mezzi di prova da assumere (si veda anche
+REP 1997 n. 107; 1998 n. 122). La norma non fa che riprendere (e nei successivi
+capoversi meglio precisare) quanto disposto dall'art. 58 cpv. 3 CPP/1941 e poi
+dall’art. 157 CPP/1993 (v. Messaggio aggiuntivo del 20 marzo 1991 concernente
+la revisione totale del CPP, pag. 163; Rapporto della Commissione speciale del
+Gran Consiglio del 22 luglio 1992, pag. 67), per cui mantiene validità la
+pregressa giurisprudenza in materia della Camera dei ricorsi penali e di questa
+istanza di reclamo, che sottopone l'ammissibilità delle prove così proposte a
+questo stadio del procedimento a tre concorrenti ordini di considerazioni e
+presupposti e cioè i complementi di prove devono essere motivati, per quanto
+attiene al loro oggetto ed al loro scopo in diretta connessione con la
+fattispecie inquisita, tali mezzi di prova devono avere i requisiti della
+novità, della rilevanza e della pertinenza (concetti comprendenti anche la
+concreta possibilità della loro acquisizione e del valore probatorio
+conseguente) alle successive conclusioni del Procuratore pubblico, dopo la
+definitiva chiusura dell'istruttoria dibattimentale, ed eventualmente poi del
+giudice del merito, le stesse prove dovendo altresì essere di difficile
+produzione al possibile dibattimento, avute presenti le finalità dell'art. 189
+CPP (corrispondente agli art. 147 CPP/1941 e 148 CPP/1993), inteso appunto tra
+altro ad assicurarne in tale sede la non interrotta assunzione (v. sentenza 24
+gennaio 1990 in re L.P., CRP 337/89; decisioni 17 febbraio 1993 in re L.P.,
+GIAR 135.93.1, 21 agosto 1996 in re G.C., GIAR 512.96.1);
+3. Procedimento
+__________.
+L'accusata vuole il richiamo di
+tutta la documentazione contabile della ditta __________ S.A., che attesti la
+disastrata situazione finanziaria di quest'ultima, così che si avrà
+dimostrazione di assenza di distrazioni, con chiarimento - attraverso la
+contabilità - della destinazione dei prelevamenti (istanza 9 novembre 2001 ad
+1, doc. __________, inc. MP): l'audizione testimoniale di __________, che si
+occupava della contabilità della ditta __________ S.A. consentirà di
+ulteriormente chiarire questi aspetti ed anche il comportamento illegale della
+denunciante (istanza ad 2).Il Procuratore considera entrambe queste prove prive
+di novità, in quanto le difficoltà finanziarie della menzionata ditta risultano
+accertate, anche per l'ammissione di __________ di aver utilizzato a favore
+della stessa ditta i versamenti dell'assicurazione __________ di pertinenza
+della signora __________ (verbale istruttorio 28 luglio 2002, mappetta doc.
+__________, inc. MP), che ha beneficiato di un decreto di non luogo a procedere
+in punto ad asserite malversazioni rimproveratele (decisione impugnata ad 1 e
+2, doc. __________, inc. MP). Nulla di particolare si ha dal reclamo, che
+neppure considera la valenza delle dichiarazioni a verbale dell'accusata e del
+citato non luogo a procedere a favore della denunciante (ad 5).
+Queste prove non meritano tutela,
+in quanto prive di novità e di rilevanza, essendo solo marginalmente connesse
+con la materia del contendere. Il fatto è che la decozione della ditta
+__________ S.A. non è messa in discussione, che __________ ha ammesso di aver
+disposto dei versamenti della __________ che alla ditta __________ S.A. non
+competevano e che è la denunciante è uscita indenne da procedimento penale per
+rimproveratele - quindi a torto - malversazioni.
+4. Procedimento
+__________.
+4.1
+__________ vuole l'edizione delle
+videocassette concernenti la slot machine n. __________ in discussione e di
+quelle vicine (istanza ad 3) e l'audizione testimoniale del tecnico che
+intervenne per il disfunzionamento del marchingegno (istanza ad 4), al fine di
+accertare suo uso di altre slot e di verificare i controlli effettuati al
+confronto con un anomalo funzionamento e la loro completezza. Per il magistrato
+inquirente la documentazione acquisita è sufficiente e le prove indicate
+ininfluenti, essendo stato accertato l'errore di programmazione e l'abuso dello
+stesso da parte dell'accusata che ha incassato crediti a lei non spettanti,
+indipendentemente dal fatto che poi ella rigiocò con perdite o altre vincite
+(decisione impugnata ad 3 e 4). Il reclamo in proposito ribadisce gli stessi
+assunti dell'istanza, sottolineando come non vi sia sufficiente chiarezza e
+come queste prove vadano assunte prima dell'eventuale dibattimento, dove sarà
+praticamente impossibile esperirle (reclamo ad 6). Gli opponenti in sede di
+osservazioni non hanno preso posizione su questa parte del gravame.
+In presenza degli accertamenti
+acquisiti, con particolare riguardo all'effettivo errore di programmazione ed
+all'incasso da parte dell'accusata reclamante di vincite impropriamente
+attribuitele (si vedano i tabulati agli atti sulle erogazioni della slot in
+parola), effettivamente i mezzi di prova qui in discussione non hanno influenza
+e pertanto a giusta ragione sono stati respinti.
+4.2
+Per quanto concerne la richiesta
+di edizione di tutti gli stampati del sistema informatico relativo alla slot
+machine n. __________, sin dall'apertura della sala da gioco, per verificare il
+comportamento dell'apparecchio prima e dopo l'intervento del tecnico e prima
+delle giocate dell'accusata, senza altra particolare motivazione (istanza ad 5
+e 6), il Procuratore pubblico ribadisce che essenziali e pertinenti sono
+unicamente gli stampati concernenti le giocate di __________, in relazione ai
+crediti da lei ottenuti erroneamente (decisione impugnata ad 5 e 6). Nei
+successivi allegati, accusa e difesa ribadiscono le stesse ragioni ed anche la
+__________ evidenzia come l'errore di programmazione sia stato appurato, con
+prove già acquisite agli atti istruttori.
+Ancora una volta l'accusata
+reclamante vuole estendere le indagini a momenti e circostanze estranee al vero
+fulcro della fattispecie e cioè ai momenti in cui avrebbe oggettivamente tratto
+profitto da una situazione visibilmente riconoscibile siccome irregolare, per
+cui queste prove non attengono con appropriata connessione alla fattispecie
+inquisita e come tali sono state a giusta ragione respinte.
+4.3
+Con l'appoggio dei dati che
+sarebbero a disposizione in esecuzione delle prove di cui sopra, l'accusata ha
+poi chiesto l'allestimento di una perizia, intesa a chiarire tutti i movimenti
+della slot machine n. __________ (istanza ad 7). Secondo il Procuratore
+pubblico una perizia è del tutto superflua, atteso che la comprensione dei dati
+documentali e istruttori a disposizione e della dinamica della fattispecie
+rimproverata all'accusata non necessita di cognizioni speciali (decisione
+impugnata ad 7). Secondo __________ gli eventi a lei rimproverati non sono
+affatto chiari, tenuto conto del pagamento delle vincite nonostante i controlli
+e la possibilità per gli addetti alle sorveglianze di accorgersi di eventuali
+errori della programmazione, anche con possibilità di spiegazioni su
+funzionamento degli apparecchi e terminologia usata (reclamo ad 7). Procuratore
+pubblico e parte civile, nelle rispettive osservazioni, asseverano
+l'irrilevanza di una perizia, in presenza di sufficienti dati per gli
+accertamenti sul comportamento imputato all'accusata.
+E' il caso, come sostenuto dal
+magistrato inquirente, che l'interpretazione della documentazione già a
+disposizione non necessita di cognizioni speciali, che sole vogliono
+l'allestimento di una perizia giudiziaria (art. 142 cpv. 1 CPP), per cui questo
+atto inquisitorio risulta superfluo e inappropriato.
+4.4
+Da ultimo __________ ha postulato
+il richiamo dalla competente Autorità federale della documentazione completa sui
+controlli periodici riguardanti la slot machine n. __________, per verificarne
+il funzionamento, normale o fallace (istanza ad 8). Per il magistrato
+inquirente questa verifica è pure ininfluente, in quanto determinante è
+l'evento di un errore dal quale ha tratto profitto l'accusata (decisione
+impugnata ad 8). A mente della reclamante, questa documentazione è tale da
+consentire la verifica della presenza di un errore nei momenti topici della
+vicenda inquisita (reclamo ad 8). Per il Procuratore pubblico il richiamo,
+senza precisazione del periodo interessante, di quella documentazione non
+attiene ai tempi dell'imputato reato, per cui la verifica presso il competente
+Ufficio federale può essere ammessa unicamente per gli accadimenti del 29
+aprile 1999 concernenti la slot machine n. __________ (osservazioni ad 8),
+mentre la parte civile chiede semplicemente la reiezione del reclamo anche su
+questo punto, l'errore di programmazione essendo certo.
+5.
+Il reclamo merita accoglimento
+solo per il richiamo di documentazione come al considerando n. 4.4, mentre per
+il rimanente è respinto con la presente decisione definitiva (art. 284 cpv. 1
+lett. a CPP, e contrario), le spese giudiziarie andando a carico della
+reclamante soccombente (art. 39 lett. f TG), che verserà ripetibili alla parte
+civile, commisurate al ridotto impegno di quest'ultima.
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+Il reclamo è accolto limitatamente all'acquisizione dalla competente
+Autorità federale della documentazione sul funzionamento della slot machine n.
+__________ della __________ il 24 aprile 1999: le altre richieste di prova sono
+respinte.
+2.
+La tassa di giustizia di fr. 400.- e le spese di fr. 50.- sono a carico
+di __________.
+3.
+__________ verserà alla __________ la somma di fr. 300.- a titolo di
+ripetibili.
+4.
+La presente decisione è definitiva.
+5.
+Intimazione:
+-
+avv. __________, per sé e per la reclamante (con copia delle
+osservazioni del magistrato inquirente e della __________);
+-
+avv. __________, per sé e per la __________ (con copia delle
+osservazioni del magistrato inquirente);
+-
+avv. __________, per sé e per __________ (con copia delle osservazioni
+del magistrato inquirente);
+-
+Procuratore pubblico avv. __________ (con copia delle osservazioni della
+__________ e con l'inc. MP __________ e __________).
+giudice
+__________
