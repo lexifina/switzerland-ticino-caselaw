@@ -1,0 +1,373 @@
+---
+decision_id: "ti_gerichte_INC.1999.82403"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.82403"
+decided: "2000-05-17"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56952&nX40_KEY=4711469&nTrefferzeile=47&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.1999.82403
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 17.05.2000 INC.1999.82403
+Tessin Il Giudice dell'istruzione e dell'arresto 17.05.2000 INC.1999.82403
+Ticino Il Giudice dell'istruzione e dell'arresto 17.05.2000 INC.1999.82403
+
+Sentenza o decisione senza scheda
+
+N. 824.1999.3                                                                 Lugano,
+17 maggio 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+5 maggio 2000 formulato da
+__________
+(patrocinato dall'avv.
+__________)
+contro la decisione 26 aprile
+2000 del Procuratore Pubblico avv. __________, in materia di complemento
+istruttorio;
+letto lo scritto 10 maggio 2000
+del PP con cui si chiede la reiezione dell'impugnativa;
+avuti gli atti formanti l'inc.
+7523/1999 del Ministero Pubblico a disposizione,
+considerato
+in fatto ed in
+diritto:
+1.
+Sulla scorta della raccolta di
+una serie di deposizioni di consumatori di marijuana il PP avv. __________ ha
+dato avvio alla raccolta di informazioni preliminari nei confronti di __________
+con l'ipotesi di infrazione alla LF sugli Stupefacenti. __________ è quindi
+stato arrestato dal 9 dicembre al 17 dicembre 1999. Nell'ambito della sua
+istruttoria il magistrato d'accusa ha delegato alla polizia il compito della
+raccolta delle prove in particolare la Pubblica Sicurezza di __________ ha
+potuto accertare come l'accusato non solo fosse socio gerente del negozio
+(canapaio) intestato alla __________ ma fosse anche interessato alla società
+__________ titolare di due canapai a __________ e __________. Le analisi del
+THC sulla sostanza sequestrata dagli inquirenti ha permesso di stabilire tassi
+variabili tra il 6,2 ed il 18,9%. Nel corso
+delle indagini sono state assunte
+numerose deposizioni sia di fornitori che di collaboratori ed acquirenti dei vari
+negozi.
+Con atto del 10 marzo 2000 il
+magistrato d'accusa, dopo avere proceduto alla personale audizione del
+reclamante e di __________, ha depositato gli atti all'attenzione delle parti
+sino al 21 aprile 2000 (termine prorogato).Con scritto 30 marzo 2000 la difesa
+dell'accusato __________ ha postulato l'audizione a confronto di __________,
+__________, __________ e __________ nonché l'audizione dei funzionari del
+Ministero Pubblico componenti l'équipe finanziaria a scopo di delucidazione del
+lavoro da loro svolto. L'istanza in discussione non appare motivata. Con
+successivo allegato del 20 aprile 2000 la difesa ha proposto l'audizione (in
+contraddittorio - confronto) di __________. Per tutti i testi indicati nelle
+due istanze il reclamante segnala la necessità di acclarare aspetti relativi
+alla gestione dei negozi, in merito alle istruzioni fornite ai collaboratori e
+relative all'assenza dell'accusato nel periodo d'interesse  per gli inquirenti.
+I testi (senza che sia stato specificato quali tra quelli offerti) potrebbero
+inoltre indicare i nomi di taluni genitori che si sarebbero presentati nei
+negozi per reclamare contro la mancata fornitura di sacchetti di canapa ai
+figli minorenni e potrebbero riferire circa le ispezioni della polizia
+intervenute. In merito alle "perizie contabili", che in realtà
+perizie non sono trattandosi semplicemente di rapporti allestiti da specialisti
+dipendenti del Ministero Pubblico sulla scorta della documentazione contabile
+reperita, per la difesa sarebbe opportuno accertare taluni "punti
+oscuri" in particolare per le conclusioni tratte a fronte di
+documentazione definita incompleta e quindi poco attendibile.
+__________ ha rilevato, nelle sue
+richieste, come non siano consegnate agli atti le fatture di __________ come
+non sia chiaro dall'esposto dell'équipe finanziaria se detti importi siano
+stati considerati per stabilire l'utile, ha osservato inoltre come non risulti
+dagli atti "la documentazione sequestrata … alle ditte". In via
+subordinata la difesa si è dichiarata disposta a formulare quesiti scritti
+all'attenzione dell'équipe finanziaria.
+2.
+Il magistrato d'accusa ha
+respinto con decisione 26 aprile 2000 la proposta di audizione dei testi, tutti
+già sentiti, e la cui deposizione verterebbe su questioni comunque irrilevanti
+e per le quali il dire di __________ non sarebbe contestato. Per quanto attiene
+all'identificazione dei genitori "premurosi" che avrebbero contestato
+la mancata vendita dei sacchetti odorosi ai propri figli minorenni il PP
+osserva che il consenso (eventuale) dei genitori nulla toglierebbe alla
+responsabilità penale dell'accusato. Per quanto attiene al lavoro dell'équipe
+finanziaria il magistrato d'accusa ha pure respinto le suggestioni della difesa
+rilevando come l'incarico non fosse quello di ricostruire al centesimo
+l'attività dei negozi e come per operare i funzionari del MP abbiano fatto capo
+alla documentazione contabile reperita nel corso delle perquisizioni, quella
+stessa
+documentazione consegnata alla
+fiduciaria incaricata dalle società di __________ per l'allestimento dei
+bilanci. Il magistrato indica come possibile l'audizione dell'estensore del
+rapporto, consegnato agli atti, in occasione del pubblico dibattimento per le
+eventuali necessarie contestazioni e delucidazioni.
+3.
+Non soddisfatto della decisione
+del magistrato d'accusa __________ si è aggravato a questo Giar rilevando come
+sia importante, per garantire il contraddittorio, procedere all'audizione dei 5
+testi segnalati che debbono poter essere contro interrogati. Ciò vale anche per
+i periti (recte: funzionari del MP) che debbono potere essere interrogati in
+virtù del diritto di essere sentito che compete al reclamante. I testi offerti
+sarebbero rilevanti già per il fatto che lo stesso PP ha acquisito le loro
+deposizioni allestite dalla polizia in sede istruttoria.
+Nel suo gravame __________
+ribadisce ed insiste per procedere all'interrogatorio dei periti (che, lo si
+ripete, tali non sono essendo dei collaboratori scientifici del Ministero
+Pubblico senza veste peritale, tant'è che nessuna designazione è intervenuta
+secondo i disposti di cui agli artt. 142 e segg. CPP, in particolare 143 a 146
+CPP) a chiarimento dei loro rapporti.
+Il PP, nello scritto 10 maggio
+2000, rinvia semplicemente al contenuto della sua decisione rimettendosi
+comunque al Giar.
+4.
+Per meritare di venire assunte,
+le prove proposte dalle parti contestualmente al deposito atti (art. 196 CPP) o
+in altro momento dell’istruttoria (artt. 60 cpv. 1 e 79 cpv. 1 CPP) devono
+rispettare tre concorrenti ordini di considerazione: esse devono essere
+motivate per quanto attiene al loro oggetto ed al loro scopo in diretta
+connessione con la fattispecie inquisita; tali mezzi di prova devono avere i
+requisiti della novità, della rilevanza e della pertinenza alle successive conclusioni
+di competenza del Procuratore Pubblico, dapprima per decidere se promuovere
+l’accusa oppure non far luogo al procedimento e poi eventualmente - dopo
+definitiva conclusione dell’istruzione formale - se decretare messa in stato di
+accusa o abbandono, sino se del caso a quelle del giudice di merito; per
+quest’ultima evenienza, le stesse prove devono essere di difficile produzione
+al dibattimento, avute presenti le finalità dell’art. 189 CPP, inteso appunto
+tra l’altro ad assicurarne la non interrotta assunzione (v. sentenza 24 gennaio
+1990, inc. CRP 337/89; v. decisioni 17 febbraio 1993 in re L.P., inc. GIAR
+135.93.1; 3 novembre 1993 in re G.G., inc. GIAR 862.93.1, e 14 giugno 1995 in
+re F.M., inc. GIAR 1093.93.5).
+Se, in
+particolare per l’accusato, la facoltà di proporre mezzi di prova è espressione
+del diritto di essere sentito (v., da ultimo, DTF 124 I 49, consid. 3a p. 51;
+DTF 121 I 306, consid. 1b p. 308) e del “
+fair trial
+” ai sensi dell’art.
+6 CEDU (v.
+Frowein/Peukert
+, EMRK-Kommentar, 2. Aufl. Kehl/Strassburg/
+Arlington 1996, nota 99 ad art. 6 CEDU), il giudice del merito (ed il
+magistrato inquirente) è tenuto, in applicazione delle norme procedurali
+corrispondenti, a considerare rispettivamente ammettere soltanto quei mezzi di
+prova che “
+nach seinem richterlichen Ermessen entscheidungserheblich sind
+”
+(
+Frowein/Peukert
+, loc. cit. p. 231). Con riferimento specifico
+all’audizione di testi, il magistrato può rifiutare la prova proposta “
+wenn
+er die zu erwartende Antwort bzw. Aussage nach seiner freien
+Ermessensentscheidung für die Wahrheitsfindung nicht für beachtlich hält
+” (
+Frowein/Peukert
+,
+loc. cit., nota 202 ad art. 6 CEDU, con rinvii), nelle parole di
+Niklaus
+Schmid
+(Strafprozessrecht, 3. Aufl. Zürich 1997, margin. 270, con rinvii a
+DTF 103 Ia 491 et al. in nota 321) “
+wenn sie den rechtlich relevanten
+Sachverhalt als genügend geklärt erachten
+”. Di conseguenza, non è data
+violazione dell’art. 6 CEDU se il giudice del merito rifiuta un mezzo di prova
+dopo averne esaminato la pertinenza (v.
+Frowein/Peukert
+, loc. cit., nota
+203 ad art. 6 CEDU, con rinvio al noto caso Vidal; come qui, v. decisione 17
+giugno 1998 in re F.F., inc. GIAR 55.98.1 consid. 1).
+5.
+Nel caso di specie la difesa di
+__________ chiede l'audizione di Maurizio __________, __________, __________,
+__________ e __________, e ciò con l'esclusivo intento di potere contro
+interrogare detti testi rispettivamente per ottenere un confronto con gli
+stessi. La difesa non specifica comunque su cosa, precisamente e
+specificatamente quale testimone dovrebbe rendere la sua deposizione.
+Unicamente per il teste __________ vengono specificate delle motivazioni (in
+particolare relative alla fornitura di merce) mentre per gli altri testi viene
+indicata l'esigenza di accertare le direttive fornite dall'accusato
+nell'esecuzione del lavoro presso i canapai e l'esigenza di accertare che
+genitori (che il magistrato d'accusa ha, con un eufemismo e tanta bonomia,
+definito "poco responsabili") avrebbero lamentato la mancata
+fornitura di canapa ai loro figlioli minorenni.
+Deposizione di __________
+__________, che è pure stato
+arrestato nell'ambito delle indagini contro __________, ha deposto in polizia
+ed il suo dire è stato ribadito e precisato in occasione di una deposizione del
+15 dicembre 1999 dinanzi al PP. __________ è stato esaustivo indicando quanto a
+lui noto circa la gestione del negozio prima dell'inizio della sua attività di
+commesso, ha precisato il fatto di essere titolare di una quota sociale ma di
+non essere, di fatto, socio della società che gestiva il canapaio presso il
+quale egli era attivo. Egli ha specificato cosa si vendeva maggiormente presso
+il negozio, quale destinazione veniva data ai famosi
+sacchetti odorosi, come egli si
+comportava nei confronti dei clienti, in particolare quelli dall'apparente età
+inferiore agli anni 18, ed ha indicato la cifra d'affari conseguita.
+La deposizione, come detto,
+appare sufficientemente completa e la difesa non indica quali precisi punti
+andrebbero ulteriormente chiariti se non la presenza di qualche genitore che
+avrebbe insistito per fornire al figlio od alla figlia minorenne dei prodotti
+derivati dalla canapa. Quest'ultima circostanza appare del tutto irrilevante ed
+ininfluente non mutando il carattere illecito dell'atto rimproverato
+all'accusato ed al commesso. Su questi ed altri aspetti (presenza di __________
+in negozio), comunque, __________ potrà - se del caso - essere sentito in
+occasione del pubblico dibattimento che si terrà a carico del reclamante se il
+PP emanasse un atto d'accusa. In effetti al cospetto del giudice del merito
+potrà intervenire il necessario contraddittorio rispettivamente il desiderato
+confronto con il teste.
+In merito alle indicazioni
+fornite ai suoi collaboratori __________ si è espresso in particolare nel
+verbale del 17 dicembre 1999 dinanzi al PP (cfr. pag. 3) e non vi è motivo per
+non ritenere (come ricorda lo stesso PP nella decisione impugnata) quanto da
+lui asserito.
+La prova offerta va quindi
+respinta siccome non sufficientemente motivata, non nuova e comunque irrilevante.
+La prova potrà, come indicato, essere acquisita al pubblico dibattimento.
+Deposizione __________
+La signora __________ è stata
+sentita dettagliatamente in particolare dalla polizia il 9 dicembre 1999 e
+parte del verbale della stessa è stato contestato al reclamante che ha dato
+atto della bontà del dire della collaboratrice (cfr. v. PP __________ pag. 4).
+La deponente ha specificato i suoi compiti (in linea con quanto dichiarato da
+__________ e dallo stesso __________) in seno alle ditte facenti capo al
+reclamante. La signora si occupava principalmente della confezione e fornitura
+dei sacchetti odorosi e della sostituzione per la vendita al banco. __________
+disponeva inoltre delle chiavi del magazzino __________ dove, al momento
+dell'intervento della polizia, erano depositati importanti quantitativi di
+canapa in sacchetti da 1 kg ciascuno sotto vuoto. La signora __________,
+conformemente con quanto asserito dal reclamante, ha specificato che presso il
+negozio di __________ sino all'ottobre 1999 erano in vendita anche dei talleri
+di haschisch che poi __________ ha tolto dalla merce offerta (a seguito di
+interventi della magistratura presso altri canapai). La deponente ha
+specificato la procedura di accertamento dell'eventuale minore età
+dell'acquirente, ha precisato le direttive ricevute da __________ (non vendere
+a minorenni e non vendere a persone che chiedono canapa invece di sacchetti
+odorosi), ha indicato la cifra d'affari del negozio ed ha specificato il ruolo
+di __________.
+Anche in questo caso la
+deposizione appare completa ed esauriente. Vale allora quanto specificato per
+il coaccusato __________, ossia che quanto la difesa desidera accertare
+(direttive per la vendita ed acquisti a minorenni autorizzati dai genitori)
+appare da un lato acclarato a sufficienza e dall'altro potrà essere
+ulteriormente chiarito in sede processuale dove interverrà l'auspicato
+confronto tra __________ ed __________, ciò se la diligente difesa insistesse
+sulla richiesta di acquisizione di prova.
+La prova offerta va quindi
+respinta siccome carente nella sua motivazione, carente del carattere di novità
+e facilmente assumibile in sede di pubblico dibattimento.
+Deposizione __________
+La polizia Cantonale ha sentito
+la signorina __________ l'11 dicembre 1999 ed anche lei, non diversamente da
+__________ ed __________, ha indicato i suoi rapporti con __________, le
+istruzioni ricevute dallo stesso (non vendere a minorenni, in caso di dubbio
+chiedere i documenti, indicazione che la sostanza venduta nei sacchetti odorosi
+serviva per profumare gli armadi e non per essere fumata), ha specificato la
+cifra d'affari giornaliera del negozio presso il quale era attiva ed il numero
+di sacchetti profumati venduti. La deponente ha preso atto delle risultanze
+dell'inchiesta che contraddicono la sua versione in merito alle informazioni
+date ai clienti.
+Anche in questo caso la
+deposizione appare sufficientemente chiara, completa ed esaustiva. Quanto la
+difesa vuole acclarare appare sufficientemente istruito in corso d'istruttoria,
+d'altra parte la deposizione ed il voluto confronto potrà intervenire in sede
+dibattimentale. Anche in questo caso la prova va respinta.
+Deposizione __________
+__________ è stato venditore
+presso il negozio di __________ __________ dalla metà del settembre 1999, egli
+ha spiegato come non sia stato necessario che gli venissero date indicazioni
+per l'esercizio della sua attività avendo recepito il modo d'agire presso altri
+canapai. __________ ha specificato che se il cliente che si presentava a lui
+aveva un'età apparente inferiore agli anni 18 egli procedeva all'accertamento
+dell'identità. Il deponente ha poi indicato la cifra d'affari del negozio di
+__________.
+Anche la deposizione __________
+va ritenuta completa ed esauriente. I fatti che la difesa tende a voler
+acclarare appaiono sufficientemente specificati sia nel dire di __________ che
+nelle deposizioni degli altri collaboratori delle due società facenti capo a
+__________. __________ potrà essere sentito in sede dibattimentale dove avrà
+luogo l'auspicato confronto con l'accusato qui reclamante. La prova offerta va
+quindi respinta.
+Deposizione __________
+Il teste ha indicato nella sua
+deposizione alla polizia del 18 gennaio 2000 come egli sia entrato in contatto
+con __________, il quantitativo di merce e la qualità di merce fornita, ed i
+prezzi. Egli ha indicato di avere avuto dei contrasti con il qui reclamante
+dopo la pubblicazione sulla rivista "L'inchiesta" delle modalità e
+prezzi di vendita dei sacchetti odorosi da parte dei negozi facenti capo a
+__________.
+Anche in questo caso la
+deposizione appare completa ed esauriente. Il deponente ha prodotto fotocopia
+del libro cassa da cui si desume la fornitura (ed incasso) di canapa a società
+di __________. La difesa del reclamante osserva, nel gravame, come non sarebbe
+esatto il dire del teste __________ laddove sostiene che __________ lo avrebbe
+contattato e relativa al fatto di avere compreso che __________ non agiva
+correttamente. Si tratta di circostanze che non appaiono rilevanti, importante
+essendo l'avere accertato chi forniva __________ ed in quale misura - ciò che
+l'istruttoria ha fatto - e non tanto l'accertare i dubbi di __________ dopo la
+pubblicazione di cui è cenno o l'accertare chi ha contattato il contraente. I
+fatti che si vogliono accertare non appaiono quindi rilevanti e concludenti.
+Come già per i testi più sopra citati l'auspicato confronto con il teste
+__________ potrà avvenire, senza particolare aggravio, in sede dibattimentale
+qualora il magistrato d'accusa rinviasse a giudizio il reclamante.
+Anche per quanto riguarda
+l'aspetto delle fatture di __________ va osservato come la deposizione sia
+sufficiente, l'eventuale confronto potrà avvenire in aula e come rilevante per
+l'istruttoria sia potere cifrare il giro d'affari e non calcolare al centesimo
+costi e profitti.
+Difettando del carattere di
+novità e di rilevanza ed essendo assumibile al dibattimento la prova offerta va
+respinta.
+6.
+Il reclamante lamenta poi la
+necessità di sentire i funzionari del Ministero Pubblico attivi in seno alla équipe
+finanziaria per ottenere dei chiarimenti relativi al loro lavoro di
+ricapitolazione, ciò a fronte di una documentazione che essi stessi definiscono
+incompleta. A giusto titolo, nella decisione impugnata, il magistrato d'accusa
+osserva come l'estensore del rapporto si è basato sulla documentazione che gli
+inquirenti hanno reperito presso la fiduciaria incaricata dal reclamante di
+allestire i bilanci societari. La documentazione reperita in quella sede
+dovrebbe comunque essere significativa. D'altro canto la difesa non ha prodotto
+alcun documento utile ad inficiare nella sostanza il rapporto tecnico del
+Ministero Pubblico. Comunque sia in sede dibattimentale l'estensore del
+rapporto potrà fornire tutte le specifiche necessarie. La prova offerta, che appare
+generica e senza l'indicazione di precise contestazioni relative ai calcoli
+effettuati nonché priva di precisi quesiti da porre al contabile, non appare
+sufficientemente motivata, è carente dal profilo della novità e della
+pertinenza (l'istruttoria avendo messo in rilievo nella sostanza il giro
+d'affari delle società
+dell'accusato anche grazie alle
+deposizioni raccolte) e potrà essere facilmente assunta in sede di dibattimento
+processuale in caso di rinvio a giudizio.
+Anche la richiesta di produzione delle
+fatture da parte di __________, alla luce di quanto precede, va respinta in
+questa sede. Gli atti (come specificato sub. 5 in fine) appaiono sufficienti in
+questa sede.
+7.
+Alla luce di quanto precede il
+reclamo va quindi integralmente respinto con il conseguente carico di una tassa
+di giustizia fissata in CHF 500.- al reclamante che rifonderà inoltre CHF 100.-
+di spese. La decisione è definitiva.
+P.q.m. visti gli artt. 280 e segg. e l'art. 196 CCP,
+decide:
+1.
+Il reclamo 5 maggio 2000 formulato da __________ è respinto.
+2.
+La tassa di giustizia fissata in CHF 500.- e le spese cifrate in CHF
+100.-- vengono poste a carico del reclamante.
+3.
+Intimazione:
+-     al reclamante __________ per il tramite del patrocinatore avv.
+__________;
+-     al Procuratore Pubblico avv. __________, con l'incarto di
+ritorno.
+giudice
+__________
