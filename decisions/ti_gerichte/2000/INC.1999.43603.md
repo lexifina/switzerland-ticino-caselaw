@@ -1,0 +1,394 @@
+---
+decision_id: "ti_gerichte_INC.1999.43603"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.43603"
+decided: "2000-08-16"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=57022&nX40_KEY=4711465&nTrefferzeile=2&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-058.md", "switzerland/bund/acts/312.0/art-058.md"]
+---
+
+# TI Gerichte INC.1999.43603
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 16.08.2000 INC.1999.43603
+Tessin Il Giudice dell'istruzione e dell'arresto 16.08.2000 INC.1999.43603
+Ticino Il Giudice dell'istruzione e dell'arresto 16.08.2000 INC.1999.43603
+
+Sentenza o decisione senza scheda
+
+N. 436.99.3/4 M                                                         Lugano,
+16 agosto 2000
+N. 453.99.4/5 M
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per
+congiuntamente statuire sui reclami inoltrati in data 29 ottobre 1999 da
+__________
+,
+latitante
+(patrocinato di fiducia dall’avv. __________)
+avverso la
+decisione 25 ottobre 1999, con la quale il
+Procuratore Pubblico
+avv.
+__________, ha segnatamente respinto l’istanza di dissequestro dell’importo di
+fr. 30'000.— a suo tempo bloccato a titolo di cauzione nel procedimento
+pendente contro la moglie del reclamante per titolo di favoreggiamento ed
+infrazione alla LFStup.;
+ed i reclami inoltrati in data 2
+novembre 1999 da
+__________
+(patrocinata di fiducia dall’avv. __________)
+parimenti
+rivolti contro la succitata decisione 25 ottobre 1999, con la quale il
+Procuratore
+Pubblico
+avv. __________, ha segnatamente respinto l’istanza di
+dissequestro dell’importo di fr. 30'000.— a suo tempo bloccato a titolo di
+cauzione nel procedimento pendente contro la reclamante per titolo di
+favoreggiamento ed infrazione alla LFStup.;
+viste le
+osservazioni 5 novembre 1999 del magistrato inquirente e 10 novembre 1999 della
+parte civile Cammid (avv. __________), che concordemente postulano la reiezione
+dei gravami;
+letti ed
+esaminati gli atti formanti gli incc. MP 3195/99/MB e 3856/99/MB;
+ritenuto
+in fatto:
+A.
+__________ è
+moglie di __________, persona contro la quale è pendente un procedimento penale
+per reati patrimoniali commessi nei confronti del proprio precedente datore di
+lavoro. __________ si è dato alla macchia, verosimilmente in Italia. Da quel
+momento sono stati posti in atto i dovuti controlli ambientali, che hanno
+portato all’arresto della qui reclamante in data 27 giugno 1999 mentre stava
+per recarsi in Italia dal marito, al quale fin dalla fuga pare aver dato tutto
+l’appoggio necessario. Durante le indagini sulla fuga del marito sono poi
+emersi indizi a carico di __________ per un suo coinvolgimento in un traffico
+di stupefacenti (v. rapporto d’arresto 27 giugno 1999, inc. GIAR 453.99.1 doc.
+_).
+Con decisione
+16 luglio 1999 (inc. GIAR 453.99.2), __________ è stata posta in libertà
+provvisoria previo versamento di una cauzione e deposito dei documenti
+d’identità, e con l’obbligo di presentarsi regolarmente in Polizia. Il marito
+__________ è sempre latitante in Italia, dove ha potuto recentemente essere
+sentito per via rogatoriale (v. scritto 15 ottobre 1999 avv. __________, inc.
+GIAR 453.99.3 doc. _).
+Quanto
+precede, estratto
+verbatim
+dalla decisione 10 novembre 1999 di questo
+giudice, sempre in tema di dissequestro (inc. GIAR 453.99.3 / 436.99.2, doc. _,
+consid. A p. 2), vale a tutt’oggi.
+B.
+Con la testé
+citata decisione 10 novembre 1999, questo giudice aveva respinto un reclamo
+inoltrato dai coniugi __________ contro la decisione del magistrato inquirente,
+che aveva loro rifiutato il dissequestro di una relazione detenuta da
+__________ presso la __________ (con procura a favore della moglie __________),
+sulla quale affluivano “
+il residuo di pensione del signor __________ (fr.
+3'333.— mensili) nonché determinate indennità versate da assicuratori malattia
+in relazione a cure mediche prestate da diversi operatori sanitari in favore di
+__________
+” (istanza, cit., riportata in sede di reclamo, inc. GIAR
+453.99.3 doc. _, pto. B.1.1 p. 2).
+C.
+I presenti
+reclami traggono spunto, invece, dalla decisione 25 ottobre 1999, con la quale
+il Procuratore Pubblico – parallelamente alla revoca dell’obbligo di
+presentarsi settimanalmente al posto di polizia, ed alla conferma del sequestro
+dei documenti di identità di __________ – ha respinto la richiesta formulata
+dalla reclamante e volta ad ottenere lo sblocco della cauzione ordinata da
+questo giudice quando, con decisione 16 luglio 1999, le aveva concesso la
+libertà provvisoria (inc. GIAR 453.99.2, doc. _). L’importo, originariamente
+pari a fr. 30'000.—, è stato ridotto dal Procuratore Pubblico a fr. 17'000.— in
+data 7 dicembre 1999, contestualmente all’intimazione alla reclamante del
+decreto d’accusa di pari data (condanna a 30 giorni di detenzione sospesa
+condizionalmente per titolo di favoreggiamento, cresciuta in giudicato; v.
+verbale MP 7 dicembre 1999 di __________, in copia agli atti GIAR).
+__________,
+che deriva la propria legittimazione dal fatto che la decisione impugnata gli è
+stata intimata in quanto degli originali fr. 30'000.—, fr. 23'000.— erano
+invero stati sequestrati a titolo risarcitorio nel procedimento contro di lui
+(v. reclamo, inc. GIAR 436.99.3/4 doc. _ pto. A.b p. 2), insorge principalmente
+contro il sequestro di fr. 6'000.— di presunta pertinenza diretta della moglie
+(loc. cit., pto. B.2 p. 2-3), postulando altresì la liberazione anche dei
+rimanenti fr. 17'000.—(“
+data l’esiguità dell’importo [...] a fronte di un
+danno che supera i tre milioni di franchi
+”, loc. cit., pto. A.3 p. 3). Le
+sue conclusioni sono, in via principale la liberazione della totalità
+dell’importo, ed in via subordinata la riduzione del sequestro a fr. 17'000.—
+(loc. cit., p. 4).
+__________,
+dal canto suo (v. reclamo, inc. GIAR 453.99.4/5), chiede il dissequestro di
+tutti i propri documenti di legittimazione nonché della cauzione nella sua
+integrità, atteso che essa non appare più proporzionata per rapporto
+all’inconsistenza delle ipotesi accusatorie a suo carico (loc. cit., p. 4).
+D.
+Il Procuratore
+Pubblico si oppone ai reclami essenzialmente perché a suo dire il mantenimento
+del blocco dei citati fr. 30'000.— permarrebbe perfettamente giustificato,
+anche se su basi differenziate: fr. 23'000.—, infatti, sarebbero invero stati
+posti sotto sequestro risarcitorio nell’ambito del procedimento contro
+__________ (v. osservazioni 5 novembre 1999 al reclamo di __________, inc. GIAR
+453.99.4 doc. _ pto. 4.1 p. 2), e la richiesta di loro liberazione non poggia
+su alcun argomento degno di protezione (v. osservazioni 5 novembre 1999 al
+reclamo di __________, inc. GIAR 436.99.3 doc. _ pto. 1 p. 1, con
+approfondimenti al pto. 2 per fr. 6'000.—). Solo fr. 7'000.—, dunque,
+rappresenterebbero quanto resta sequestrato a titolo di cauzione nei confronti
+di __________ – importo senz’altro proporzionato (v. osservazioni 5 novembre
+1999 al reclamo di __________, inc. GIAR 453.99.4 doc. _ pto. 4.2 p. 3).
+E.
+In entrambi i
+reclami, la parte civile Cammid si è associata alla presa di posizione della
+pubblica accusa (v. osservazioni 10 novembre 1999, doc. _ in tutti gli incarti
+GIAR qui discussi).
+Considerato
+in diritto:
+1.
+a)        Diversamente da quanto discusso in occasione del precedente
+reclamo, la legittimazione attiva è evidente per entrambi i reclamanti: per
+__________, almeno nella misura in cui ella contesta i dubbi della pubblica
+accusa circa la provenienza di fr. 6'000.—, ed inoltre nella misura in cui il
+Procuratore Pubblico dichiara che almeno fr. 7'000.— restano bloccati a titolo
+di cauzione; per __________, specularmente, almeno per i fr. 17'000.—
+asseritamente bloccati a titolo di sequestro risarcitorio.
+b)        Sebbene debbano evidentemente essere distinte, almeno in
+punto al dissequestro qui discusso le complesse fattispecie relative a
+__________ da un lato e __________ dall’altro appaiono correlate in maniera
+inscindibile: è allora opportuno che i reclami vengano evasi congiuntamente,
+con un’unica decisione.
+2.
+a)        Gli incarti dei due reclamante hanno seguito destini del
+tutto differenti: mentre quello contro __________ è ad un punto morto, a
+seguito della latitanza dell’accusato reclamante, le accuse a suo tempo
+sollevate nei confronti di __________ sono sfociate parte in un decreto
+d’accusa 7 dicembre 1999 (per l’ipotesi di favoreggiamento), e parte in un decreto
+d’abbandono (almeno così sembra doversi dedurre dal verbale MP 7 dicembre 1999
+dell’accusata, cit., p. 2). Successivamente all’inoltro dei presenti reclami,
+dunque, il Procuratore Pubblico ha decretato la restituzione dei documenti
+d’identità all’accusata, nonché la liberazione a suo favore dell’importo
+complessivo di fr. 13'000.— (v. verbale cit., loc. cit.). Per queste ragioni,
+in calce al succitato verbale MP la reclamante ha chiesto a questo giudice di “
+tenere
+in sospeso la trattazione dell’ultimo reclamo in materia di sequestro dei
+17'000.— CHF, rispettivamente di liberazione della cauzione siccome privo
+d’oggetto
+” (loc. cit., p. 2).
+b)        Il passo testé citato, forse anche a ragione di errori di
+battitura, non esprime in modo chiaro le intenzioni della reclamante circa il
+destino da attribuire al suo reclamo: non si capisce bene, in altre parole,
+cosa ella possa intendere con il tenere in sospeso un reclamo “
+siccome privo
+d’oggetto
+” (ibid.). Se divenuto privo d’oggetto, un reclamo viene
+semplicemente stralciato dai ruoli. Né in verità era molto chiaro cosa la
+reclamante intendesse sollevare contro il mantenimento sotto sequestro
+dell’importo di fr. 17'000.— riconosciutamente di provenienza dal marito
+__________: dalla decisione impugnata (cit., pto.2 p. 1 in fine) emergeva
+chiaramente che tale importo veniva distolto dalla cauzione, e che il suo
+mantenimento sotto sequestro veniva ormai motivato unicamente con un sequestro
+risarcitorio “
+a norma dei combinati articoli 59 cfr 2 e 60 CPS
+” (ibid.).
+Purtroppo soltanto sottinteso era dunque che quell’importo non aveva più nulla
+a che vedere con l’incarto relativo a __________, bensì riguardava ormai
+unicamente l’incarto relativo a __________.
+c)         Ne discende, in conclusione, che per __________ l’incarto
+penale si è concluso definitivamente in data 7 dicembre 1999, allorquando ella
+ha preso conoscenza dei decreti nei suoi confronti (uno di condanna, uno di
+abbandono) e del dissequestro di quella parte della somma originariamente
+pensata quale cauzione che il Procuratore Pubblico ha ritenuto essere di sua
+(più o meno chiara) pertinenza. Non vi è allora ragione alcuna per tenere in
+sospeso il reclamo di __________, atteso che il destino da riservare ai
+rimanenti fr. 17'000.— può e deve essere evaso nell’ambito del reclamo
+inoltrato da __________.
+3.
+a)        Pur
+nella rinnovata forma in vigore dal 1° agosto 1994, le norme sulla confisca
+penale (artt. 58 ss. CPS) ribadiscono l’obbligo di confisca di ogni e qualsiasi
+vantaggio patrimoniale ottenuto in maniera illecita: la definizione dei valori
+patrimoniali di cui all’art. 59 cfr. 1 cpv. 1 CPS riprende le previgenti
+dottrina e giurisprudenza (v.
+Niklaus Schmid
+, Das neue Einziehungsrecht
+nach Art. 58 ff. StGB, in: RPS 113 [1995], p. 321 ss., pto. 4.2.1 p. 331 e nota
+45, con rinvii). Sottostanno a tale tipo di confisca ai sensi dell’art. 59 cfr.
+1 cpv. 1 CPS anche cosiddetti valori sostitutivi (“Surrogate”, v.
+Schmid
+,
+cit., pto. 4.3.2, p. 334 ss.). Completamente rivisto è l’istituto della
+confisca risarcitoria ai sensi dell’art. 59 cfr. 2 cpv. 1 CPS: essa permette al
+giudice (di merito) di ordinare un risarcimento in favore dello Stato (con
+eventuale successiva assegnazione alla parte lesa in applicazione dell’art. 60
+CPS), se - pur essendo dati i presupposti per una confisca ex art. 59 cfr. 1
+cpv. 1 CPS - i valori patrimoniali di cui all’art. 59 cfr. 1 cpv. 1 CPS non
+siano più reperibili (v.
+Schmid
+, cit., pto. 4.3.1, p. 333 s.; pto.
+4.3.2, p. 336) oppure debbano venir attribuiti direttamente alla parte lesa in
+applicazione dell’art. 59 cfr. 1 cpv. 1 ultima frase CPS (v.
+Schmid
+,
+cit., pto. 4.4.1, p. 339). Infine, la misura può essere ordinata non solo nei
+confronti dell’autore, bensì anche di terzi che abbiano beneficiato dei
+proventi del reato, a meno che non trovino applicazione le eccezioni
+contemplate all’art. 59 cfr. 1 cpv. 2 CPS (art. 59 cfr. 2 cpv. 1 ultima frase
+CPS; v.
+Schmid
+, cit., pto. 4.3.3, p. 336 ss.). Per non vanificare la
+portata di questa norma, il magistrato inquirente può ordinare il sequestro di
+tali beni a titolo probatorio, confiscatorio (art. 161 cpv. 1 e 2 lit. b CPP;
+v.
+Schmid
+, cit., pto. 6.3, p. 362) oppure risarcitorio (art. 59 cfr. 2
+cpv. 3 CPS).
+b)        Un
+ordine di perquisizione e sequestro bancario può rappresentare un attentato ai
+diritti personali, o causarne un pregiudizio. Come ogni misura d’inchiesta,
+pertanto, deve soddisfare tre presupposti sostanziali: deve poggiare
+sull’esistenza di gravi indizi di colpevolezza, deve apparire necessario per il
+giudizio di merito (nel senso che deve essere connesso con l’oggetto che
+occorre salvaguardare agli incombenti processuali e di giudizio, v. decisione
+17 agosto 1998 in re E.F., inc. GIAR 501.98.2 consid. 2), infine deve essere
+rispettoso del principio di proporzionalità (v.
+Gérard Piquerez
+, Précis
+de procédure pénale suisse, 2. éd. Lausanne 1994, margin. 1441, 1454 e 1469,
+con rinvii). La verifica della fondatezza di questi presupposti, per il
+doveroso scrupolo di rispetto dei diritti individuali, deve essere costante
+negli incombenti dell’autorità inquirente e requirente, con sempre accresciuta
+esigenza probatoria indiziante approssimantesi alla verità materiale, a partire
+dal sospetto all’apertura del procedimento, che va in seguito ed indilatamente
+approfondito con gli accertamenti probatori del caso (v., in contesto più
+generale,
+Piquerez
+, cit., margin. 1116 ss.).
+4.
+Già in
+occasione della decisione 10 novembre 1999 sulla precedente istanza di
+dissequestro formulata dai coniugi __________, questo giudice aveva avuto modo
+di spiegare che a carico di __________
+“gli
+indizi di reato [...] emergono con sufficiente chiarezza dall’incarto. La
+latitanza del reclamante e l’atteggiamento processuale da lui assunto, non
+certamente improntato alla massima trasparenza (almeno così sembra dal rapporto
+stilato dal magistrato italiano incaricato dell’evasione della rogatoria
+presentata dagli inquirenti svizzeri, v. scritto 19 ottobre 1999 del
+Procuratore della Repubblica di __________, agli atti MP s.n.), suggeriscono
+prudenza al fine di non svelare intempestivamente informazioni che il
+magistrato inquirente si riserva legittimamente di prospettare all’indiziato a
+tempo debito e nei modi di rito (v.
+Rusca/Salmina/Verda
+, Commento del
+CPP, Lugano 1997, note 6 e 16 ad art. 58 CPP). Né un tale approfondimento è qui
+necessario, ritenuto che (opportunamente) nessuno dei reclamanti pone in dubbio
+l’esistenza di indizi di colpabilità a carico di __________ ” (loc. cit.,
+consid. 3b p. 6).
+Quanto allora
+detto vale pure oggi.
+5.
+a)        Per espressa ammissione del Procuratore Pubblico in sede di
+pronuncia impugnata (cit., pto. 2 p. 1), “
+ritenuto che palesemente i beni
+oggi sotto sequestro non permettono il risarcimento alla PC, nella misura in
+cui proveniente dal marito la cauzione è messa sotto sequestro penale a norma
+dei combinati articoli 59 cfr 2 e 60 CPS
+”. Dunque, la natura del sequestro
+dei rimanenti fr. 17'000.— è manifestamente risarcitoria.
+b)        Il sequestro di beni chiesto a titolo risarcitorio (art. 59
+cfr. 2 cpv. 3 CPS), ora previsto espressamente dal diritto federale (v.
+Schmid
+,
+cit., pto. 4.3.4, p. 339, e nota 86), è inteso come misura cautelare atta a
+garantire l’applicabilità degli artt. 59 cfr. 2 cpv. 1 e 60 CPS, e deve essere
+visto quale ulteriore sfaccettatura del disegno legislativo, volto ad evitare
+che risulti privilegiato quell’autore che si è liberato dei proventi del
+proprio reato, per rapporto a quello che invece li ha conservati (
+Messaggio
+,
+pto. 223.5;
+Schmid
+, cit., pto. 4.3.1, p. 333; decisione 6 ottobre 1997
+in re T.K. e I.F., inc. GIAR 141.97.3 consid. 5 p. 5-6; DTF 124 I 6, consid.
+4.b.bb p. 8 s.). Per principio, esso riguarda beni sprovvisti di qualsiasi
+legame con l’illecito commesso (v. decisione 11 maggio 1999 in re Ospedale X,
+inc. GIAR 873.98.2 consid. 2a p. 4;
+Niklaus Schmid
+, nota 173 ad art. 59
+CPS, in:
+Schmid
+(Hrsg.), Kommentar Einziehung, organisiertes Verbrechen
+und Geldwäscherei, Band I, Zürich 1998).
+c)         Alla luce di quanto precede, considerata l’entità del danno
+patrimoniale causato da __________ e l’assenza di beni sufficienti a garantire
+il risarcimento del danno causato (v. in proposito le osservazioni del
+magistrato inquirente al precedente reclamo, inc. GIAR 436.99.2 doc. _, p. 1),
+non può esservi dubbio che il sequestro dell’importo di fr. 17'000.— era ed è,
+di principio, perfettamente conforme alla legge. Va pure ribadito quanto già
+detto nella pronuncia 10 novembre 1999 (cit., consid. 4c p. 7), ovvero che
+l’esiguità della somma, di per sé, non giustifica un’eccezione alla regola
+secondo la quale “
+competente per la decisione sul destino di beni passibili
+di confisca è e deve restare il giudice del merito
+” (v. anche decisione
+GIAR 11 maggio 1999, cit., consid. 2c p. 4).
+6.
+Il reclamo di
+__________, dunque, avrebbe meritato reiezione: sicuramente per quanto attiene
+alla domanda principale, forse anche per la subordinata. Sennonché la
+subordinata formulata dal reclamante (ancorché di dubbia ricevibilità, siccome
+riguardante l’incarto allora pendente contro la moglie, e beni asseritamente di
+pertinenza di lei) è stata nel frattempo accolta con la decisione di
+dissequestro 7 dicembre 1999. Anche il reclamo di __________, dunque, nella
+misura in cui fosse ricevibile può essere stralciato dai ruoli siccome divenuto
+privo d’oggetto a seguito dell’implicito accoglimento della domanda
+subordinata.
+7.
+In conclusione,
+nella misura in cui erano ricevibili i reclami di __________ e __________
+devono essere stralciati dai ruoli siccome divenuti privi d’oggetto, con la
+presente decisione suscettibile di impugnazione entro dieci giorni alla Camera
+dei ricorsi penali del Tribunale di appello, ed esente da tassa e spese di
+giustizia. Non si assegnano ripetibili.
+*   *   *
+Per i quali
+motivi,
+viste le
+norme citate e gli artt. 280 ss. CPP
+d e c i d e :
+1.
+In
+quanto ricevibili, i reclami 29 ottobre 1999 di __________ e 2 novembre 1999 di
+__________ contro la decisione 25 ottobre 1999 del Procuratore Pubblico sono
+stralciati dai ruoli siccome divenuti privi d’oggetto.
+2.
+Non
+si prelevano tassa né spese di giustizia. Non si attribuiscono ripetibili.
+3.
+Contro
+la presente decisione è dato il rimedio del ricorso alla Camera dei ricorsi
+penali entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+-      avv.ti __________, per loro medesimi e per i
+reclamanti, con copia delle osservazioni della parte civile resistente e del
+magistrato inquirente;
+-      avv. __________, per sé e per la parte civile, con copia delle
+osservazioni del magistrato inquirente;
+-      Procuratore
+Pubblico avv. __________, con copia delle osservazioni della parte civile e gli
+incc. MP 3195/99/MB e 3856/99/MB di ritorno.
+giudice __________
