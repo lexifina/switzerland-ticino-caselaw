@@ -1,0 +1,233 @@
+---
+decision_id: "ti_gerichte_INC.2003.66605"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.66605"
+decided: "2004-04-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=67319&nX40_KEY=4711305&nTrefferzeile=82&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-176.md"]
+---
+
+# TI Gerichte INC.2003.66605
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.04.2004 INC.2003.66605
+Tessin Il Giudice dell'istruzione e dell'arresto 23.04.2004 INC.2003.66605
+Ticino Il Giudice dell'istruzione e dell'arresto 23.04.2004 INC.2003.66605
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.66605
+Lugano
+23 aprile 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sul reclamo presentato il 22 marzo
+2004 da
+__________
+patr. di fiducia dall'__________
+contro
+la decisione 7 marzo 2004 con
+la quale il Procuratore pubblico Giuseppe Muschietti ha rifiutato
+l'autorizzazione a colloqui telefonici senza restrizioni con la famiglia, in
+particolare la moglie (Inc. MP __________);
+viste le osservazioni 31 marzo
+2004 del Procuratore pubblico, concludenti per la reiezione del gravame;
+visto, per quanto necessario,
+l'inc. MP __________;
+letti ed esaminati gli atti;
+ritenuto
+in fatto
+A.
+__________ - asseritamente
+direttore di un'impresa di costruzioni, di una cava e di una società
+immobiliare in __________ - è stato arrestato il 15 ottobre 2003 con le accuse
+di falsità in documenti, favoreggiamento e truffa
+"per avere
+confezionato e fatto uso nel procedimento penale a carico di __________ di una
+procuration, datata 15.06.2001, sapendo trattarsi di un falso finalizzato a
+favorire la posizione procedurale di __________ e lo sblocco del denaro
+sequestrato a quest'ultimo".
+L'arresto è stato confermato da
+questo giudice il giorno successivo, ritenuta l'esistenza di gravi e concreti
+indizi di colpevolezza e di preminenti motivi di interesse pubblico (pericolo
+di fuga e bisogni dell'istruzione).
+Giova rilevare che il 15 ottobre
+2003 __________ era accompagnato dalla moglie.
+Il 28 ottobre 2003 il Procuratore
+pubblico ha esteso l'accusa anche per titolo di infrazione aggravata, sub.
+semplice alla LFStup.
+Con sentenza 14 novembre 2003 la
+Camera dei ricorsi penali ha respinto il reclamo presentato da __________
+contro la decisione di conferma dell'arresto (CRP 60.2003.349).
+Con decisione 12 febbraio 2004
+questo giudice ha respinto l'istanza di libertà provvisoria presentata il 3/4
+febbraio 2004, decisione confermata dalla CRP con sentenza 8 marzo 2004 (CRP
+60.2004.62), avverso la quale __________ ha presentato ricorso la Tribunale
+federale, procedura tuttora pendente.
+Nel corso dell'interrogatorio 17
+marzo 2004 il Procuratore pubblico ha esteso l'accusa nei confronti di __________
+anche per
+"correità/complicità/istigazione a riciclaggio di denaro
+aggravato sub. semplice per aver concorso all'occultazione e al passaggio della
+frontiera italo-svizzera del denaro sequestrato a __________ ".
+B.
+Con decisione 7 marzo 2004 il
+Procuratore pubblico ha negato l'autorizzazione a colloqui telefonici liberi
+fra __________ e la di lui moglie, in quanto gli stessi comporterebbero un alto
+pericolo di collusione, segnatamente con i membri dell'organizzazione ancora in
+libertà e comprometterebbero il buon esito delle rogatorie, in particolare
+quella in __________ e, in misura ancora maggiore, quella in __________.
+Si precisa che con decisione 8
+marzo 2004 questo giudice, ha parzialmente accolto l'istanza di proroga del
+carcere preventivo cui è astretto __________ (inc. GIAR 666.2003.6).
+C.
+Con reclamo 22 marzo 2004 __________
+si riconferma nella richiesta di colloqui telefonici liberi con la moglie. A
+suo dire, non sussisterebbe alcun pericolo di collusione, peraltro invocato dal
+magistrato inquirente in maniera del tutto generica, ritenuto che la moglie sarebbe
+estranea ai fatti imputati al reclamante - fatti che vertono essenzialmente
+sulla natura dei legami di quest'ultimo con __________, persona che la signora __________
+neppure conosce -, come peraltro risulta dalle dichiarazioni da lei rese nel
+corso dei verbali di polizia 15 e 16 ottobre 2003 - e dal fatto che la stessa
+subito dopo essere stata sentita è stata liberata, affatto determinante la
+circostanza che nei confronti della signora __________ sia stata promossa
+l'accusa
+"ritenuto che in concreto non è corroborata da elementi
+sostanziali"
+. In siffatte circostanze, tenuto anche conto che dal
+giorno del suo arresto fino al 23 dicembre 2003 __________ è stato tenuto in
+totale isolamento e che durante i primi mesi di detenzione ha avuto sporadici
+contatti telefonici sorvegliati con la moglie e un incontro, pure sorvegliato,
+di circa 1/2 ora presso il PCT, il rifiuto del Procuratore pubblico sarebbe
+sproporzionato, ingiustificato e contrario all'art. 8 CEDU 465).
+D.
+In sede di osservazioni il Procuratore
+pubblico si è riconfermato nella decisione impugnata.
+Delle ulteriori allegazioni si
+dirà, per quanto necessario, nei considerandi in diritto.
+Con scritto 1. aprile 2004,
+trasmesso per conoscenza a questo giudice, la difesa ha segnalato al Procuratore
+pubblico che __________ da ormai 15 giorni non conferiva con la moglie.
+e considerato
+In diritto
+1.
+Il reclamo tempestivo e
+presentato da persona legittimata, in quanto accusata e direttamente colpita
+dal provvedimento impugnato, è ricevibile in ordine (art. 280 e rel. CPP).
+2.
+L'art. 104 cpv. 2 CPP dispone che
+l'arrestato è sottoposto unicamente alle restrizioni della libertà che sono
+indispensabili per assicurare lo scopo dell'arresto e per mantenere la
+disciplina nelle carceri.
+Ai sensi dell'art. 104 cpv. 3 CPP
+i colloqui - sia tra presenti che telefonici (cfr. Rusca/Salmina/Verda,
+Commento del CPP, 1997, n. 25 ad art. 104 CPP) - tra la persona in detenzione e
+terze persone sono accordati e disciplinati dal magistrato.
+La possibilità di colloqui con
+terze persone può essere ristretta unicamente in conformità con il principio di
+proporzionalità, principio che in materia di arresto e misure coercitive è
+peraltro espressamente sancito dall'art. 176 cpv. 2 CPP. A seconda
+dell'interlocutore possono variare le modalità del colloquio che può essere
+libero o sorvegliato, limitazioni possono essere giustificate sia da ragioni
+d'inchiesta (cfr. DTF 117 Ia 465; 102 Ia 299) sia per mantenere l'ordine
+carcerario. Ai colloqui con terzi si applicano le garanzie previste dall'art. 8
+CEDU in materia di corrispondenza: non può esservi ingerenza della pubblica
+autorità nell'esercizio del diritto al rispetto della vita privata e familiare
+se non in quanto tale ingerenza sia prevista dalla legge e in quanto costituisca
+una misura che, in una società democratica, è necessaria per la sicurezza
+nazionale, l'ordine pubblico, il benessere economico del Paese, la prevenzione
+dei reati, la protezione della salute o della morale, o la protezione dei
+diritti e delle libertà altrui. Il tutto nel rispetto del principio di
+proporzionalità.
+In sostanza, provvedimenti
+limitativi nei contatti con terzi non sono, di principio, contrari alla CEDU e
+neppure alla Costituzione federale (art. 36 CF), ma devono essere giustificati
+da motivi inerenti la corretta conduzione dell'inchiesta o l'ordine pubblico
+(in proposito cfr. anche G. Piquerez, La Procédure pénale suisse, Zurigo 2000,
+ad 2416; Rusca/Salmina/Verda, op. cit., ad art. 104 CPP).
+In concreto, il Procuratore
+pubblico ha rifiutato l'autorizzazione a colloqui telefonici liberi tra __________
+e la moglie, in quanto vanificherebbero l'inchiesta. In particolare, colloqui
+non controllati comporterebbero un alto pericolo di collusione, specie con i
+membri dell'organizzazione ancora in libertà, e comprometterebbero il buon
+esito delle rogatorie estere, segnatamente quelle in __________ ed in __________.
+Occorre innanzitutto rilevare che
+la moglie del reclamante, __________, è coaccusata nel procedimento: il
+Procuratore pubblico ha infatti promosso l'accusa nei suoi confronti per titolo
+di complicità sub correità in favoreggiamento, falsità in documenti e truffa
+processuale. La stessa nel corso del verbale di polizia 15 ottobre 2003 ha
+inoltre dichiarato di essere al corrente di tutte le attività del marito (cfr.
+rapporto d'arresto 15 ottobre 2003 e relativi allegati, AI 1/3).
+Ciò premesso va ricordato che il
+Procuratore pubblico è tuttora in attesa che le autorità rogate di __________
+ed __________ diano evasione alle rogatorie del 17 gennaio 2004 e del 5
+febbraio 2004 (AI 6/21 e 6/26). Contrariamente a quanto sostenuto nel reclamo
+tali rogatorie non riguardano soltanto i rapporti tra __________ e __________,
+persona che __________ ha dichiarato di non conoscere. In particolare, quella
+del 17 gennaio 2004, inviata alle Autorità __________, si riferisce, tra
+l'altro, a parenti del reclamante - il nipote __________, un secondo famigliare
+__________ ed il cognato __________ - mentre quella inviata in __________ ha
+per oggetto gli interrogatori di __________, persona indicata da __________
+quale proprio collaboratore ed agente commerciale, e della moglie di __________,
+__________, sorella di __________, uno degli indagati in Italia. Il contenuto
+di tali rogatorie è noto al reclamante, al quale il Procuratore pubblico ha
+dato pieno accesso agli atti. L'esistenza di un pericolo di collusione ed
+inquinamento delle prove in relazione alle informazioni oggetto delle suddette
+rogatorie è stata riconosciuta dalla CRP con sentenza 8 marzo 2004 (CRP 60.2004.62,
+AI 2/45) e ribadita da questo giudice con decisione 8 aprile 2004, concernente
+la proroga del carcere preventivo cui è astretto il reclamante (cfr. doc. 5,
+inc. GIAR 666.2003.6).
+Ne consegue che, così come
+ritenuto dal Procuratore pubblico, allo stadio attuale dell'inchiesta, colloqui
+liberi con la moglie comporterebbero il pericolo concreto di inquinamento e
+collusione delle prove, ritenuto che __________ potrebbe informare la moglie
+sul contenuto delle suddette rogatorie, sino ad ora a conoscenza unicamente
+delle autorità inquirenti e del reclamante stesso, con il rischio concreto che
+quest'ultima possa a sua volta informarne terze persone, segnatamente quelle
+oggetto delle commissioni rogatorie e/o coinvolte nei fatti inchiestati, con
+conseguente grave pregiudizio per l'inchiesta in corso.
+In siffatte circostanze il
+diniego all'autorizzazione a colloqui liberi tra il reclamante e la moglie non
+può quindi essere considerato né misura sproporzionata, né contrario all'art. 8
+CEDU e deve pertanto essere confermato.
+Da ultimo, con riferimento allo
+scritto 1. aprile 2004 della difesa, giova precisare che dagli atti risulta che
+a far tempo dall'inizio dell'anno il reclamante ha potuto conferire
+telefonicamente con la moglie in modo regolare (in un'occasione ha rifiutato di
+recarsi negli uffici della polizia per la telefonata settimanale), da ultimo il
+2 aprile 2004 per circa mezz'ora, e che il reclamante stesso nel corso
+dell'ultima settimana di marzo 2004, preso atto dell'impossibilità, causa urgenze,
+della polizia di fargli fare la telefonata settimanale alla moglie ha
+verbalmente risposto agli agenti di capire il loro problema e che non avrebbe
+fatto reclamo (cfr. rapporto di segnalazione 2 aprile 2004, noto alla difesa).
+Spetterà comunque al magistrato inquirente vigilare affinché venga garantita la
+regolarità dei colloqui telefonici sorvegliati tra il reclamante e la moglie.
+3.
+Il reclamo è conseguentemente
+respinto con la presente decisione esente da tasse e spese ed impugnabile alla
+CRP, trattandosi di decisione che concerne uno degli aspetti della libertà
+personale (Rusca/Salmina/Verda, op. cit., ad art. 104 CPP, n. 27).
+Per i quali motivi
+richiamate le norme di legge citate
+decide
+1.       Il reclamo è respinto.
+2.       Non si prelevano né tasse
+né spese.
+3.       Contro la presente decisione è dato reclamo alla Camera dei
+ricorsi penali, Lugano, entro 10 (dieci) giorni dall'intimazione.
+4.       Intimazione
+:
+giudice
+Ursula Züblin
