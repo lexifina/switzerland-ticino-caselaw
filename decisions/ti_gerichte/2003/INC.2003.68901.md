@@ -1,0 +1,290 @@
+---
+decision_id: "ti_gerichte_INC.2003.68901"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.68901"
+decided: "2003-12-17"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=95568&nX40_KEY=4711318&nTrefferzeile=44&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/311.0/art-305ter.md", "switzerland/bund/acts/312.0/art-184.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2003.68901
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 17.12.2003 INC.2003.68901
+Tessin Il Giudice dell'istruzione e dell'arresto 17.12.2003 INC.2003.68901
+Ticino Il Giudice dell'istruzione e dell'arresto 17.12.2003 INC.2003.68901
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.68901
+Lugano
+17 dicembre 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+Visto il reclamo del 22/23 ottobre 2003, presentato dalla
+__________
+rappr. dall’avv.
+__________
+contro
+la decisione 13/14 ottobre 2003 del Procuratore pubblico
+Giovan Maria Tattarletti nell’ambito del procedimento penale contro __________,
+di cui all’inc. MP __________;
+viste le osservazioni 3 novembre
+2003 del magistrato inquirente e 31 ottobre 2003 di __________, __________, __________
+e __________ (rappr. dall’avv. __________), che postulano la reiezione del
+reclamo;
+visto l’inc. MP __________
+,
+letti ed esaminati gli atti
+ritenuto
+in fatto
+A.
+Il 13 giugno 2002 __________, si
+è presentato spontaneamente per denunciare una serie di malversazioni da lui
+commesse ai danni della sua ex datrice di lavoro __________ (in seguito __________)
+dal 1997 al giugno 2002. Al termine del verbale il Procuratore pubblico ha
+promosso l'accusa nei suoi confronti per titolo di truffa ed appropriazione
+indebita.
+Dagli atti risulta che nel corso
+del maggio 1997 la __________ ha ottenuto per la prima volta l'aggiudicazione
+della copertura dell'assicurazione malattia di base di tutta la popolazione di __________,
+per un introito annuale per premi assicurativi, versati dalla __________ (__________)
+per conto dei cittadini di __________ di circa fr. 8 milioni, importo poi
+salito a circa fr. 9,6 milioni nel 2000, allorquando il mandato alla __________
+è stato rinnovato a seguito di un nuovo concorso. __________ ha indicato quale
+conto su cui versare i premi il suo personale presso l'__________ di __________,
+sul quale il 22 maggio 1997 ha fatto aprire un'apposita rubrica, denominata
+"__________". Sin dall'inizio l'accusato ha ammesso di aver
+effettuato prelevamenti da tale rubrica per esigenze personali (interessi
+ipotecari e vizio del gioco). Secondo la ricostruzione dell'EFIN, nell'ambito
+del contratto di copertura assicurativa per i cittadini __________, l'__________
+ha versato su tale rubrica, dal maggio 1997 al giugno 2002 la somma complessiva
+di fr. 41'747'530.--, dei quali soltanto fr. 38'647'845.-- sono stati girati a
+favore della __________, la differenza pari a fr. 3'102'680.20, pari a circa il
+7,4% delle entrate, è invece stata trattenuta __________ (fr. 921'004.30.--
+tramite bonifico bancario e 2'181'675.90 tramite prelevamenti a contanti).
+B.
+Nel corso dell'istruttoria il Procuratore pubblico
+ha, tra l'altro, proceduto all'audizione dei funzionari dell'__________ che si
+sono occupati del conto dell'accusato, fra cui __________.
+Con scritti 18 giugno 2003, 15 luglio 2003 e 2
+settembre 2003 la __________ ha chiesto al Procuratore pubblico una nuova
+audizione di __________, ed eventualmente di procedere, in un secondo tempo, ad
+un confronto con __________ al fine di chiarire le contraddizioni esistenti fra
+le rispettive dichiarazioni. __________ ha infatti dichiarato che sin dal
+momento dell'apertura della rubrica __________, l'accusato gli avrebbe detto
+che egli aveva diritto ad una parte dei fondi che confluivano su tale rubrica,
+in quanto sulla base di un suo rapporto contrattuale interno con la cassa
+malati in questione gli sarebbe spettata una percentuale. Ciò che contrasta con
+quanto asserito dall'accusato. Di conseguenza, se quanto dichiarato da __________
+nei verbali 19 dicembre 2002 e 2 aprile 2003 fosse vero, la posizione di __________
+diverrebbe ancora più difficile e il reato che si configurerebbe nei suoi
+confronti non sarebbe più quello di appropriazione indebita, ma quello di
+truffa. Viceversa se fossero vere le dichiarazioni di __________ sarebbe
+ipotizzabile l'apertura di un procedimento penale nei confronti di __________
+per correità con __________.
+Con decisione 13 ottobre 2003 il
+Procuratore pubblico ha respinto la suddetta richiesta. Il magistrato
+inquirente ha evidenziato che __________ è già stato sentito due volte e che le
+sue dichiarazioni in contraddizione con quelle di __________ sono già state
+contestate a quest'ultimo, il tutto alla presenza del patrocinatore di parte
+civile, ciò che renderebbe inutile sia una nuova audizione di __________ sia un
+confronto con __________, essendo le contraddizioni esistenti fra le rispettive
+versioni
+"un dato di fatto, che con ogni verosimiglianza non verrebbe
+modificato da un'ulteriore audizione di __________ o da un confronto".
+Ha
+pure evidenziato che nel corso del verbale 17 giugno 2003 __________ ha
+comunque dato una (sua) spiegazione in merito alle suddette contraddizioni e
+che dalla documentazione agli atti emerge che tutti gli ordini di bonifico,
+compreso quello del 23 maggio 1997, sono stati disposti da __________ e non
+dalla banca autonomamente.
+Avverso la suddetta decisione è
+tempestivamente insorta la __________, ribadendo la necessità di una nuova
+audizione di __________, ed, eventualmente, di un successivo confronto con __________.
+La reclamante si riconferma sostanzialmente nelle motivazioni di cui alle
+precedenti richieste.
+Con osservazioni 3 novembre 2003,
+il Procuratore pubblico si rimette alla decisione di questo giudice non senza
+rilevare l'assenza di elementi atti a far ritenere una complicità o correità di
+__________, o di altri funzionari dell'__________ nei reati patrimoniali
+commessi da __________, essendovi unicamente elementi per la commissione da
+parte di tali funzionari del reato di carente diligenza in operazioni
+finanziarie, reato contro l'amministrazione della giustizia, che in quanto tale
+non legittima la reclamante né ad avanzare pretese civili né a proporre
+reclamo.
+Con osservazioni 31 ottobre 2003,
+__________, __________, __________ e __________ chiedono che il reclamo venga
+respinto; __________ non ha invece presentato osservazioni.
+Delle relative argomentazioni si
+dirà, per quanto necessario, nei considerandi in diritto.
+Considerato
+in diritto
+1.
+La legittimazione della __________,
+parte civile nel procedimento a carico di __________ e destinataria della
+decisione impugnata, è pacifica. Il reclamo, tempestivo, è quindi ricevibile in
+ordine.
+2.
+In termini generali, per
+l'assunzione delle prove proposte dalle parti in sede di inchiesta valgono i
+seguenti principi.
+a)
+Gli art. 60
+cpv. 1 (per la difesa) e 79 cpv. 1 CPP (per la parte civile), stabiliscono la
+facoltà di proporne in ogni tempo nel corso delle indagini di pertinenza del
+magistrato inquirente. Di massima, il Procuratore pubblico è tenuto a
+pronunciarsi in merito solo a conclusione dell’istruzione formale nel contesto
+di quanto disposto dall’art. 196 CPP (v. Messaggio aggiuntivo concernente la
+revisione totale del Codice di procedura penale del 20 marzo 1991, pag. 81, ad
+art. 58 ter risp. 61 bis del disegno di legge, per il rinvio del commento
+all’art. 58 quinquies risp. 61 quater del disegno di legge e all’art. 63 ter
+risp. 69 del disegno di legge: cfr. decisione 9 giugno 1995 in re F.M., GIAR
+1093.93.10, e riferimenti), ma in presenza di anticipata decisione del
+magistrato inquirente è dato reclamo nelle vie ordinarie stabilite dagli art.
+280 ss. CPP, ritenuto tuttavia che non potranno poi più trovare udienza in sede
+di deposito degli atti, a norma del citato art. 196 cpv. 1 CPP, complementi di
+prova in precedenza decisi e definitivamente respinti, per quanto concerneva
+necessità e contenuti dell’inchiesta (cfr. sentenze 15 luglio 1991 in re F.B.,
+CRP 144/91, e 7 ottobre 1991 in re F.M., CRP 210/91; decisione 3 novembre 1993
+in re G.G., GIAR 862.93.1), fatte beninteso salve nuove emergenze (v. decisione
+17 agosto 1994 in re A.A., GIAR 209.94.12).
+b)
+I principi in
+base dei quali si deve determinare se la prova debba essere assunta, sono
+identici sia che la decisione avvenga in corso d'istruttoria, sia che avvenga
+alla conclusione della stessa (e nel termine del deposito degli atti).
+"Per meritare di essere assunte, le prove proposte dalle parti
+contestualmente al deposito atti (art. 196 CPP), o in altro momento
+dell’istruttoria (art. 60 cpv. 1 e 79 cpv. 1 CPP), devono rispettare tre
+concorrenti ordini di considerazione: esse devono essere motivate per quanto
+attiene al loro oggetto ed al loro scopo in diretta connessione con la
+fattispecie inquisita; tali mezzi di prova devono avere i requisiti della
+novità, della rilevanza e della pertinenza alle successive conclusioni di
+competenza del Procuratore Pubblico, dapprima per decidere se promuovere
+l’accusa oppure non far luogo al procedimento e poi (dopo conclusione
+dell’istruzione formale) se decretare messa in stato d'accusa o abbandono, sino
+se del caso a quelle del giudice di merito; per quest’ultima evenienza, le
+stesse prove devono essere di difficile produzione al dibattimento, avute
+presenti le finalità dell’art. 189 CPP, inteso appunto tra l’altro ad
+assicurarne la non interrotta assunzione (v. sentenza 24 gennaio 1990, inc. CRP
+337/89; v. decisioni 17 febbraio 1993 in re L.P., inc. GIAR 135.93.1; 3
+novembre 1993 in re G.G., inc. GIAR 862.93.1, e 14 giugno 1995 in re F.M., inc.
+GIAR 1093.93.5). Se, in particolare per l’accusato, la facoltà di proporre
+mezzi di prova è espressione del diritto di essere sentito ai sensi dell’art. 4
+Cost. fed. (ora, art. 8 cpv. 1 della nuova Cost. fed.; v., da ultimo, DTF 124 I
+49, consid. 3a p. 51; DTF 121 I 306, consid. 1b p. 308) e del “fair trial” ai
+sensi dell’art. 6 CEDU (v. Frowein/Peukert, EMRK-Kommentar, 2. Aufl.
+Kehl/Strassburg/ Arlington 1996, nota 99 ad art. 6 CEDU), il giudice del merito
+(ed il magistrato inquirente) è tenuto, in applicazione delle norme procedurali
+corrispondenti, a considerare rispettivamente ammettere soltanto quei mezzi di
+prova che “nach seinem richterlichen Ermessen entscheidungserheblich sind”
+(Frowein/Peukert, loc. cit. p. 231). Con riferimento specifico all’audizione di
+testi, il magistrato può rifiutare la prova proposta “wenn er die zu erwartende
+Antwort bzw. Aussage nach seiner freien Ermessensentscheidung für die
+Wahrheitsfindung nicht für beachtlich hält” (Frowein/Peukert, loc. cit., nota
+202 ad art. 6 CEDU, con rinvii), nelle parole di Niklaus Schmid
+(Strafprozessrecht, 3. Aufl. Zürich 1997, margin. 270, con rinvii a DTF 103 Ia
+491 et al. in nota 321) “wenn sie den rechtlich relevanten Sachverhalt als
+genügend geklärt erachten”. Di conseguenza, non è data violazione dell’art. 6
+CEDU se il giudice del merito rifiuta un mezzo di prova dopo averne esaminato
+la pertinenza (v. Frowein/Peukert, loc. cit., nota 203 ad art. 6 CEDU, con
+rinvio al noto caso Vidal; come qui, v. decisione 17 giugno 1998 in re F.F.,
+inc. GIAR 55.98.1 consid. 1).
+(GIAR 21 giugno 2001 in re C.)".
+c)
+Non
+va, inoltre, dimenticato che la fase in cui si colloca la presente discussione
+del complemento probatorio in questione è quella predibattimentale, finalizzata
+in primo luogo a permettere alla pubblica accusa di determinarsi sulle
+questioni se promuovere l’accusa o meno, indi se deferire l’accusato alla Corte
+competente oppure se pronunciare l’abbandono del procedimento (art. 184 cpv. 1
+CPP, rispettivamente art. 196 cpv. 1 e 198 cpv. 1 CPP combinati). Per costante
+dottrina e giurisprudenza, invece, l’eventuale utilità o opportunità della
+prova proposta nell’ottica del giudice del merito è elemento a favore della sua
+assunzione già nella fase predibattimentale unicamente qualora
+l’amministrazione di tale prova in sede dibattimentale sia impossibile, o vi
+sia concreto rischio che lo diventi.
+3.
+L'ulteriore
+audizione di __________ ed il successivo eventuale confronto con __________
+sono stati chiesti per chiarire se __________ avesse effettivamente detto al
+primo di aver diritto ad una parte dei fondi depositati sulla rubrica __________,
+rispettivamente per appurare se __________ abbia partecipato al primo addebito
+del 23 maggio 1997 a favore del conto ipotecario dell'accusato.
+I suddetti atti
+istruttori richiesti sono senz'altro in connessione con la fattispecie
+inquisita, ma occorre ricordare che per avere valenza di prova meritevole di
+essere assunta nella corrente fase procedurale la stessa dovrebbe presentarsi
+con presunzione di rilevanza e di pertinenza ed anche di novità rispetto a
+quanto già acquisito.
+Innanzitutto la
+reclamante non dà sufficiente ragione dell'importanza né di una nuova audizione
+di __________, né dell'eventuale confronto con __________ per il chiarimento
+della fattispecie, né si tratterebbe di novità, ma piuttosto di ripetizione di
+quanto già descritto da entrambi nei rispettivi verbali. Da un esame dei
+verbali di __________ e di __________, tutti noti alla reclamante, essendo
+presente il suo patrocinatore, che ha pure posto domande sia a __________ che
+all'accusato, risulta che gli stessi hanno ribadito la propria versione sulle
+circostanze indicate nell'istanza di complemento istruttori, anche dopo aver
+preso atto delle rispettive contrastanti dichiarazioni (verbali PP __________
+19 dicembre 2002 e 2 aprile 2003 e __________ 17 giugno 2003). A ciò si
+aggiunge che la versione di __________ - nei cui confronti, come rilevato dal
+Procuratore pubblico, esistono unicamente elementi per la commissione del reato
+di cui all'art. 305 ter cpv. 1 CP, per il quale gli è già stata promossa
+l'accusa (cfr. verbale PP 19 dicembre 2002) - è confermata anche da quella di __________
+(cfr. verbale PP 3 aprile 2003), anch'egli funzionario dell'__________, e che
+lo stesso accusato nel corso dell'ultimo verbale ha asserito che le asserzioni
+di __________ sono verosimilmente dovute ad un malinteso, nel senso che
+"non
+so se __________ ha fatto confusione con quello che io gli dissi in merito alla
+provvigione che mi spettava per ogni assicurato acquisito"
+(cfr.
+verbale PP 17 giugno 2003). In siffatte circostanze, così come evidenziato dal
+magistrato inquirente in sede di osservazioni, le contraddizioni esistenti tra
+le due versioni costituisce "
+un dato di fatto"
+, che con ogni
+verosimiglianza non verrebbe modificato dall'ulteriore audizione di __________,
+né dall'esperimento di un confronto fra i due. Per quanto concerne invece gli
+ordini di bonifico iniziali a debito della rubrica __________, segnatamente
+quello del 23 maggio 1997, dalla documentazione prodotta dall'__________
+risulta che lo stesso è stato disposto da __________ (inc. MP AI 107), non
+autonomamente dalla banca come inizialmente asserito da __________
+In siffatte
+circostanze gli atti istruttori richiesti appaiono superflui, oltre a non
+risultare produttivi per le conclusioni del Procuratore pubblico, per cui
+potranno - se del caso - essere chiesti ulteriormente all'eventuale dibattimento.
+4.
+In virtù di quanto precede, il
+reclamo deve essere respinto, con la presente decisione definitiva (art. 284
+cpv. 1 lett. a CPP e contrario) e con carico delle spese giudiziarie (art. 39
+lett. f TG) e ripetibili alla reclamante, correlate alla sua soccombenza.
+P.Q.M.
+richiamati i citati articoli di
+legge,
+decide
+1.
+Il reclamo è respinto.
+2.
+La tassa di giustizia, di fr. 300.-- e le spese di fr. 50.-- sono a
+carico della reclamante, che rifonderà in totale a __________, __________, __________
+e __________ fr. 300.-- a titolo di ripetibili.
+3.
+La presente decisione è definitiva.
+-
+Intimazione:
+giudice Ursula Züblin
