@@ -1,0 +1,134 @@
+---
+decision_id: "ti_gerichte_INC.2001.52803"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.52803"
+decided: "2001-10-12"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59650&nX40_KEY=4711440&nTrefferzeile=19&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-252.md", "switzerland/bund/acts/311.0/art-254.md"]
+---
+
+# TI Gerichte INC.2001.52803
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 12.10.2001 INC.2001.52803
+Tessin Il Giudice dell'istruzione e dell'arresto 12.10.2001 INC.2001.52803
+Ticino Il Giudice dell'istruzione e dell'arresto 12.10.2001 INC.2001.52803
+
+Sentenza o decisione senza scheda
+
+N. 528.2001.3                                                            Lugano,
+12 ottobre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+Sedente per statuire sull'istanza
+di libertà provvisoria presentata il 9 ottobre 2001, da
+__________
+,
+(rappr. dal difensore d'ufficio
+Avv. __________),
+visto il preavviso negativo 12
+ottobre 2001 del Procuratore pubblico __________,
+viste le osservazioni della
+difesa sul preavviso negativo (12.10.2001, ore 16.08);
+visto l'inc. MP __________,
+ritenuto e considerato
+in fatto ed in diritto
+che:
+-    __________ è stata arrestata a __________ il 29 settembre 2001;
+-    nei suoi confronti è stata promossa l'accusa per i reati di
+furto, infrazione alla LDDS, in subordine falsità in certificati ex. art. 252
+CP, con richiesta di conferma dell'arresto per pericolo di fuga, necessità
+istruttorie e pericolo di fuga;
+-    l'arresto è stato confermato da questo giudice in data 30
+settembre 2001, ritenuti presenti sufficienti indizi di reato (quantomeno per
+l'ipotesi di furto), necessità istruttorie e pericolo di recidiva;
+-    con l'istanza qui in discussione, __________ chiede di essere
+posta in libertà provvisoria, affermando di aver ammesso i fatti (sottrazione
+dei documenti, in particolare) fin dall'arresto, rimanendo irrisolta unicamente
+la questione della sua identità (che ella proclama corretta, fornendo
+spiegazioni sulla situazione in cui è venuta a trovarsi nonostante moglie di un
+cittadino svizzero); segnala che il reato di furto potrebbe essere soggetto a
+querela di parte, con conseguente eventuale problema di perseguibilità; adduce,
+inoltre, inapplicabilità dell'art. 252 CP per assorbimento da parte di 23 LDDS;
+lamenta, da ultimo, mancata concessione dell'accesso agli atti (in effetti la
+richiesta del 3.10.2001 è rimasta inevasa);
+-    il magistrato inquirente preavvisa negativamente l'istanza per
+gravi indizi di colpevolezza in relazione ai reati oggetto di promozione
+d'accusa (senza pronunciarsi sulle obiezioni sollevate dall'accusata), ritiene
+sussistano pericolo di fuga (assenza di legami con la Svizzera) e pericolo di
+collusione ai fini dell'accertamento dell'identità e del "ruolo
+nell'ambito della comunità di cittadini del Ghana che risiedono ad __________ e
+presso la quale lo scambio/falsificazione di documenti e certificati di
+identità sembra essere pratica diffusa";
+-    che al momento dell'arresto gravi indizi di reato erano presenti
+ma comunque (in concreto) non si trattava di reati di particolare gravità
+(prova ne sia che, come emerge dall'incarto, lo stesso Procuratore pubblico
+aveva ordinato la scarcerazione e, poi, revocato tale ordine senza che
+dall'incarto emerga un elemento nuovo a fondamento della stessa);
+-    che gli accertamenti si qui esperiti (dalla polizia) in
+collaborazione con le autorità di Zurigo sono stati indirizzati soprattutto ad
+accertare l'identità effettiva dell'accusata e non a chiarire l'entità del
+furto (che se fosse limitato al passaporto potrebbe essere semplice
+contravvenzione ex art. 172 ter - cfr. DTF 114 IV 133- per analogia,
+l'applicazione dell'art. 254 CP apparendo comunque esclusa - cfr. DTF 87 IV
+16), rispettivamente l'uso dei "documenti di legittimazione non a lei
+destinati" (23 cpv 1 seconda frase LDDS, che assorbe, se connesso
+esclusivamente a problematiche di polizia degli stranieri, il reato di cui
+all'art. 252 CP - DTF117 IV 170); infatti tra le persone sentite dalla polizia
+di Zurigo non v'è la vittima del furto;
+-    l'accertamento dell'identità della detenuta non appare quale
+necessità istruttoria direttamente connessa agli specifici reati per i quali è
+stata promossa l'accusa, bensì questione di "polizia amministrativa"
+(che peraltro non ha impedito al MP di concludere istruttorie: si vedano i DAP
+notificati a "sedicenti" di vario genere); di transenna, e su questo
+punto, si rileva che se la documentazione prodotta dalla difesa a conferma
+dell'identità dell'accusata non è probante (fotocopia con fotografia non
+chiara, ma con firma simile a quella dell'accusata), neppure le versioni
+fornite dalle persone sentite a Zurigo sono esenti dal sollevare dubbi (cfr.
+permesso B prodotto da __________, diverso da quello recuperato in comune -
+annessi al fax PS a PP 30,09,2001; cfr. dati __________, in particolare data di
+nascita, di entrata in Svizzera e durata del permesso - annessi al fax PS a PP
+__________);
+-    le autorità zurighesi non intendono assumere il caso (cfr.
+scritto 11 ottobre 2001 da BA ZH a MP Lugano);
+-    alla luce di quanto sopra il mantenimento del carcere preventivo
+per necessità istruttorie, che a 13 giorni dall'arresto potevano essere già
+espletate (comunque non è precisato perché la vittima del furto non ha potuto
+essere sentita prima), o per pericolo di fuga (anche a prescindere
+dall'interesse al chiarimento della propria situazione personale), visti la
+(non particolare) gravità dei reati ascritti, non corrisponde più a criteri di
+proporzionalità (DTF 116 Ia 143; DTF 107 Ia 256; DTF 105 Ia 26; DTF 102 Ia 381;
+BJP 1999 no. 667; Rep. 1980 pag. 44; REP 1986 pag. 158; REP 1988 pag. 413);
+__________ deve essere posta in
+libertà provvisoria;
+P.Q.M.
+Visti gli artt. 139, 172 ter,
+252, 254 CP, 23 cpv 1 seconda frase LDDS, 95 ss., 107 ss. CPP, 10 CF, 5 CEDU,
+decide
+1.
+L'istanza di libertà provvisoria
+presentata da __________ (sedicente) è accolta.
+Di conseguenza l'istante deve
+essere immediatamente scarcerata.
+2.
+Non si percepiscono tasse e
+spese.
+3.
+Intimazione:
+-    Avv. __________, per sé e per l'accusata;
+-    Procuratore pubblico avv. __________, sede e
+per
+l'immediata esecuzione
+(con l'incarto di ritorno);
+-    SEPEM e Direzione PCT, per conoscenza.
+giudice __________
