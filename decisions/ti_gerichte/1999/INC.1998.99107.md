@@ -1,0 +1,580 @@
+---
+decision_id: "ti_gerichte_INC.1998.99107"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1998.99107"
+decided: "1999-05-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=85969&nX40_KEY=4711488&nTrefferzeile=63&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.1998.99107
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 25.05.1999 INC.1998.99107
+Tessin Il Giudice dell'istruzione e dell'arresto 25.05.1999 INC.1998.99107
+Ticino Il Giudice dell'istruzione e dell'arresto 25.05.1999 INC.1998.99107
+
+Sentenza o decisione senza scheda
+
+N. 991.98.7 R
+Lugano,
+25 maggio 1999
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Ivano Ranzanici
+sedente per statuire sull’istanza
+18 maggio 1999 formulata dal:
+Procuratore Pubblico avv.
+Marco Bertoli, Lugano
+e dal
+Procuratore Pubblico
+Generale avv. Luca Marcellini, Lugano
+tendente ad ottenere la proroga
+della detenzione preventiva cui é astretto
+_____________
+detenuto
+c/o __________
+(patrocinato dall’avv. __________)
+sino e compreso il
+30
+novembre 1999
+;
+lette le osservazioni della
+difesa di data 21 maggio 1999;
+preso conoscenza della sentenza
+19 maggio 1999 della Lod. Camera dei Ricorsi Penali conseguente a ricorso
+dell’accusato contro decisione 15 aprile 1999 di questo giudice in materia di
+libertà personale dell’accusato e della sentenza di pari data ancora della Lod.
+camera dei Ricorsi Penali in materia di ricusa del Procuratore Pubblico avv.
+Marco Bertoli;
+avuti gli atti dell’incarto a
+disposizione, ritenuto
+in fatto e in
+diritto:
+1.
+Questo GIAR e, con recentissimo
+intervento, la Camera dei Ricorsi Penali del Tribunale di Appello si sono
+occupati della situazione processuale, con particolare riferimento alla libertà
+personale, dell’accusato _____________. In data 24 dicembre 1998 questo giudice
+ha decretato lo stralcio di una prima istanza di libertà provvisoria formulata
+da _____________ motivando comunque il suo decreto. Successivamente, il 1.
+marzo 1999, ulteriore istanza di libertà provvisoria dell’accusato é stata
+respinta senza seguito di impugnativa. Più recentemente istanza di libertà
+provvisoria di data 12 aprile 1999 di _____________ é stata respinta, con
+motivazioni in tutto simili a quelle contenute nella decisione del 1 marzo
+precedente, da questo giudice. Il successivo ricorso alla Camera dei Ricorsi
+Penali del Tribunale di Appello é stato respinto con decisione 19 maggio 1999.
+Nelle more della procedura ricorsuale alla CRP questo giudice si era inoltre
+chinato su due distinti reclami in materia di trasferimento a Ginevra di _____________
+rispettivamente sulla richiesta di arresti domiciliari. Dette impugnative sono
+state evase, con decisione 6 maggio scorso, in un unico giudizio. Da
+evidenziare ancora come la difesa dell’accusato abbia inoltrato istanza di
+ricusa del PP avv. Marco Bertoli. La richiesta é stata respinta dalla CRP con
+decisione 19 maggio scorso.
+In sostanza i fatti posti alla
+base della presente decisione possono essere ripresi dai precedenti interventi
+giudiziari. Si può qui ritenere come:
+“_____________, medico psichiatra, é stato
+arrestato il 1 dicembre 1998 siccome accusato di truffa e falsità in documenti.
+Come noto l’arresto é avvenuto contestualmente con l’esecuzione di numerose
+perquisizioni e sequestri presso lo studio medico dell’accusato, e presso le
+cliniche __________, con l’acquisizione di un'impressionante mole di
+documentazione sia di tipo contabile che medico (in specie cartelle riferite a
+numerosi pazienti), documentazione attualmente al vaglio degli inquirenti come
+noto alla difesa. Nel corso dell’istruttoria sia i magistrati che la polizia
+hanno proceduto a numerose verbalizzazioni di testi ed indiziati e sin
+dall’inizio il compito istruttorio é apparso notevole a fronte del numero delle
+persone coinvolte od interessate ai fatti di cui si tratta ed alla luce della
+mole di documentazione acquisita e da acquisire attraverso le casse malati
+vittime degli ipotizzati reati.
+Sin dal suo arresto _____________, già colpito
+da infarto (come attestano i periti incaricati dal PP nel loro scritto 21 marzo
+1999) nel corso del 1991, é stato trattenuto presso la cella dell’Ospedale __________
+sotto cura medica da parte del primario prof. __________ ed in cura presso il
+dott. __________. In pratica _____________ non é stato considerato carcerabile
+(nel senso che non é stato possibile trattenerlo presso una cella del PCT) per
+ragioni mediche.
+A _____________ il PP rimprovera numerose
+malversazioni, commesse con varie modalità, in danno di Casse malati, di
+pazienti, di assicurazioni sociali e di case farmaceutiche. Più
+specificatamente _____________ avrebbe fatturato, per prestazioni mai eseguite,
+ricoveri di pazienti che in realtà non si trovavano degenti nelle cliniche da
+lui dirette o che si trovavano congedati dalle stesse (con l’apposizione di
+indicazioni fasulle sulle cartelle mediche come se i pazienti fossero
+ricoverati, il tutto al fine di conseguire ... un indebito profitto personale
+rispettivamente in favore di terzi).
+L’inchiesta condotta dal magistrato d’accusa
+ha permesso di evidenziare numerose e diverse modalità operative ritenute
+truffaldine in danno principalmente delle casse malati, e ciò sia nell’ambito
+della gestione delle cliniche che facevano capo all’accusato sia nella
+conduzione dello studio ove venivano fatturate giornalmente prestazioni mediche
+per un complessivo di ore fatturate a volte superiore al numero di ore di cui
+un giorno é composto.
+... sono emerse poi nuove ipotesi fattuali
+riferite principalmente all’inserimento di pazienti in sperimentazioni
+remunerate da case farmaceutiche, pazienti non adatti a tali sperimentazioni,
+con lo scopo di ottenere rispettivamente non perdere i compensi versati dalle
+citate case farmaceutiche, il tutto mediante falsificazione dei dati del
+paziente. Come detto nella decisione 1 marzo 1999 di questo giudice i fatti
+sono di inusuale estensione ed oggettiva gravità siccome ripetuti nel tempo in
+numero elevato.
+In corso d’istruttoria il magistrato d’accusa,
+che ha profuso notevole impegno, ha proceduto a sentire personalmente
+rispettivamente a fare interrogare numerose persone, sono stati acquisiti un
+centinaio di verbali
+(ad oggi aumentati a quasi duecento per il
+procedere sollecito dell’istruttoria da parte del magistrato d’accusa e dei
+funzionari di polizia a lui preposti)
+e
+numerose sono pure le audizioni dell’accusato che non sempre é apparso collaborativo
+ammettendo i fatti indicando comunque sua consapevolezza della illiceità
+dell’agire quasi sistematico adottato nelle cliniche unicamente dopo il suo
+arresto. Ancora al vaglio degli inquirenti é l’esame dell’enorme mole
+di documentazione sequestrata, in particolare
+il medico legale dott. __________ sta esaminando (come a recente nomina a
+perito)
+tutte le cartelle mediche sequestrate. Gli
+accertamenti sin qui svolti, il cui risultato appare riassunto nel Rapporto
+intermedio di data 13 febbraio scorso, evidenziano la commissione di differenti
+e numerose “irregolarità” nella fatturazione di prestazioni.
+Come già ricordato nella decisione 1 marzo
+1999 all’accusato sono state contestate sostanzialmente tutte le diverse
+tipologie di malversazione ritenute dalla pubblica accusa. In particolare si
+ricordano le ipotesi di reato riferite ai pazienti fittizi, ossia non presenti
+in clinica, rispettivamente per pazienti diurni o notturni, vi sarebbero poi
+malversazioni con riferimento a pazienti amministrativi, ossia a pazienti per i
+quali si procedeva ad ammissioni anticipate (la fatturazione iniziava prima
+della reale ammissione del paziente in clinica), rispettivamente a dimissioni
+posticipate (la fatturazione proseguiva oltre il reale periodo di degenza), ed
+ancora malversazioni riferite alla fatturazione di congedi effettivi ma con
+falsa iscrizione sulle cartelle mediche o congedi prolungati. Tra le ipotesi
+accusatorie vi sono poi le irregolarità, riferite alla “sovrappopolazione” di
+letti ossia letti fatturati a più pazienti, le sovrafatturazioni per farmaci,
+terapie e per analisi (per avere _____________ operato iscrizioni nelle
+cartelle mediche relative a fasulle prescrizioni di farmaci - pagati dalle CM -
+in sostituzione di prestazioni fisioterapeutiche invece non pagate dalle CM
+come ammesso dall’accusato stesso che tende comunque a ridimensionare i casi a
+pochi e per contenuto indebito arricchimento). Ulteriori capitoli attualmente
+al vaglio del magistrato d’accusa si riferiscono, e ci si atterrà qui alla
+nomenclatura convenuta tra le parti nel verbale 30 dicembre 1998 dell’accusato,
+alle consultazioni degli psicologi, all’AI, alle problematiche connesse con
+l’esenzione militare, ad incassi non dichiarati ed ai ricoveri forzati. Va qui
+rilevato come numerosi collaboratori ed ex collaboratori dell’accusato abbiano
+ammesso le loro responsabilità riconducendo comunque il loro agire al dott. _____________
+giustificandolo con la volontà del “capo” ed il rischio di perdere il posto di
+lavoro oltre che a pressioni specifiche in questo senso subite dal dott. _____________.”
+_____________ é stato sottoposto
+a numerose visite mediche, stante pregresse difficoltà cardiache, ed il
+magistrato d’accusa ha ritenuto necessario, nell’ambito della problematica
+connessa alla verifica della carcerabilità, sottoporre _____________ ad esame
+medico da parte di tre medici italiani. Le conclusioni degli stessi sono
+ampiamente note alla diligente difesa. Da evidenziare qui, per quanto
+d’interesse nell’istanza in discussione, le conclusioni dell’esame psichiatrico
+dello psichiatra accusato (riservate le conclusioni della perizia affidata al
+prof. __________):
+“ ... dal punto di vista psichiatrico - hanno
+accertato un “Disturbo Post-Traumatico da Stress in un soggetto con Disturbo
+narcisistico ed Istrionico di Personalità”.
+2.
+L’ampia discussione e la
+necessità di procedere a continue visite, come sopra ricordato, per la verifica
+delle condizioni di carcerazione di _____________ hanno assorbito, non poco,
+sia la difesa che il magistrato d’accusa sicché la conduzione del procedimento
+ne ha, in parte almeno, risentito. Da osservare comunque come il magistrato
+d’accusa abbia delegato l’audizione di numerose persone coinvolte nei fatti a
+funzionari di polizia. Ad oggi sono stati acquisiti numerosi verbali di
+interrogatorio, ciò al fine di accertare sia le modalità operative rimproverate
+all’accusato sia l’estensione dell’agire che il PP ritiene illecito. Il perito
+incaricato dell’esame delle numerose cartelle mediche ha, dal canto suo,
+esaminato parte del materiale sequestrato evidenziando le risultanze del suo
+esame in un rapporto intermedio intitolato “Sintesi” cui sono allegati 8
+classificatori contenenti gli elementi documentali a sostegno del lavoro
+peritale. In particolare il perito ha inserito in 5 classificatori conteggi
+assenza/congedi riferiti ad una trentina di pazienti. L’esame di questi
+limitati casi ha evidenziato ipotesi di reato (“soprassedendo ad una valutazione
+in merito alla fisioterapia”) per un danno totale di oltre 2,2 mio CHF. Il
+perito ha annesso al suo lavoro intermedio un classificatore contenente le
+schede relative alle ipotizzate sovrafatturazioni eseguite dall’accusato in
+seno al suo studio medico. L’importo ipotizzato malversato ammonta a CHF 2,9
+mio.
+Pur non essendo stato più
+interrogato l’accusato, che da ultimo aveva presentato un certificato medico
+attestante momentaneo impedimento (come evidenziato nella decisione 6 maggio
+1999 di questo giudice), l’istruttoria é proseguita mediante audizioni di
+pazienti in particolare.
+Il magistrato é ancora in attesa,
+da parte delle casse malati e dalla federazione ticinese degli assicuratori
+malattia, dell’invio della documentazione oggetto di suo ordine. Il lavoro di
+ricerca e selezione che incombe alle CM appare importante e detta
+documentazione appare di rilievo per la completa verifica delle ipotizzate
+malversazioni. Il PP sta procedendo, con la collaborazione della polizia da un
+lato e le indicazioni del perito, all’audizione dei pazienti che sono stati in
+cura dell’accusato e che, consapevolmente o meno, sono stati coinvolti nei
+fatti. Si tratta, a non averne dubbio (poiché lo ricorda anche la CRP nella sua
+decisione 19 maggio 1999 su ricorso dell’accusato in materia di libertà
+personale, di poi citata CRP1, al pto. 4 pag. 6 a metà ed in fine al pto.
+4.1.), di importanti elementi ai fini dell’istruttoria per accertare l’esatto
+ruolo di _____________ e per definire il ruolo dei pazienti stessi nonché per
+accertare con precisione (ciò che solo le deposizioni dei pazienti
+permetteranno di ottenere) l’ammontare del danno cagionato con l’agire ritenuto
+illecito dal magistrato inquirente.
+Già si é detto che, a fronte
+della decisione 6 maggio 1999 di questo giudice, con provvedimento non
+impugnato _____________ é stato trasferito alla __________ sempre in stato di
+detenzione preventiva.
+3.
+Con istanza 18 maggio 1999 il PP
+avv. Marco Bertoli ed il PPG avv. Luca Marcellini hanno postulato la proroga
+della detenzione preventiva cui é astretto l’accusato sino e compreso il 30
+novembre 1999. I magistrati, la firma a due procuratori pubblici é chiaramente
+dettata dalla pendente (il 18 maggio 1999) istanza di ricusa del PP avv. Bertoli,
+dopo avere riepilogato i fatti posti alla base del procedimento penale in
+discussione ritengono l’esistenza di gravi e concreti indizi di colpevolezza
+per le ammissioni di irregolarità degli interrogati (collaboratori
+dell’accusato), per gli accertamenti preliminari svolti dal perito tecnico, per
+le seppur parziali ammissioni dell’accusato stesso. Essi rilevano le diverse
+tipologie di reato ricapitolate nel verbale 30 dicembre 1998 dell’accusato, il
+danno sin qui evidenziato e l’evoluzione dell’istruttoria che ha mostrato nuove
+situazioni dalla possibile connotazione illecita. I magistrati evidenziano come
+all’accusato fosse ben chiaro che i congedi (che non formano che una delle
+tante tipologie di presunte malversazioni) non potessero essere fatturati. Per
+l’inquirente sussistono inoltre ulteriori e numerosi bisogni istruttori. 130
+persone sono già state sentite dalla PS rispettivamente dal PP, con necessità
+di prospettare integralmente le risultanze di dette deposizioni all’accusato.
+Accusato che risulta essere lume medico, datore di lavoro e proprietario delle
+cliniche dove ancora oggi numerose persone interrogate sono attive. Appare
+necessario, per i PP, procedere sia personalmente sia per il tramite della
+polizia all’audizione di un numero considerevole di pazienti solo in parte indicati
+dall’accusato e solo in parte (per la parziale esecuzione dell’esame delle
+cartelle mediche da parte del perito) identificati. Sembrano ancora necessari
+numerosi verbali a confronto dato l’atteggiamento processuale assunto
+dall’accusato (di per se legittimo) che ricusa di riconoscere la propria
+responsabilità se non per situazioni minori ed in toni minori riversando sulle
+spalle dei collaboratori (medici, personale amministrativo ed infermieristico)
+le azioni illecite ad indebito profitto dello stesso accusato e delle cliniche
+a questi facenti capo. Per i PP appare importante permettere al perito di
+completare la sua attività ed ottenere la documentazione attesa dalla FTAM ed
+ancora ulteriori ipotesi di malversazioni sarebbero emerse con riferimento all’AI
+(con l’indicazione di 481 casi da sottoporre ulteriormente al perito per le sue
+verifiche). Anche con riferimento alle ipotesi di malversazioni connesse alle
+sperimentazioni eseguite in accordo con le case farmaceutiche sembra rilevante
+acquisire completa documentazione per le puntuali verifiche che il caso impone.
+I magistrati osservano come il compito che li attende ancora appare immane,
+così come lo é quello del perito incaricato con il rilievo che il Cantone ha
+dovuto far capo a supplente per i normali compiti che incombono al medico
+legale. Gli istanti osservano di avere proceduto con celerità ed evidenziano la
+necessità di
+disporre ancora di un termine di
+6 mesi, ossia sino e compreso il 30 novembre 1999, per avanzare con
+l’istruttoria avendo l’accusato privato della sua libertà personale e ciò per
+evitare rischio di inquinamento probatorio e di collusione. In effetti vi
+sarebbe concreto rischio di pressione facilmente esercitabile da parte
+dell’accusato sia nei confronti dei colleghi e collaboratori (comunque ancora
+dipendenti - in buona parte - delle sue cliniche rispettivamente succubi dello
+stesso _____________ come gli atti hanno evidenziato) rispettivamente dei
+pazienti (che per il loro presumibile stato e per il rapporto di fiducia instaurato
+con il medico potrebbero essere facilmente influenzati). I magistrati indicano
+che, contrariamente all’assunto difensivo, l’accusato non é confesso.
+4.
+Dal canto suo il difensore
+dell'accusato contesta il sussistere di un rischio collusivo a fronte dei
+numerosi verbali già acquisiti e visto come la documentazione medica sia stata
+sequestrata.
+Richiamando il principio di
+proporzionalità e la necessità di contenere per quanto possibile la durata
+della detenzione preventiva la Difesa ritiene che un termine di 30 giorni sia
+quanto al massimo concedibile al magistrato per porre in essere quegli atti
+ritenuti imprescindibili. _____________ lamenta di essere stato sentito una
+sola volta negli ultimi due mesi, contesta le ulteriori argomentazioni di
+ordine pubblico dei Procuratori Pubblici, postula celere conduzione
+dell'inchiesta e rammenta la delega alla Polizia dell'audizione dei pazienti.
+5.
+Alle parti il diritto che regge
+la materia é noto, basti qui ricordare che l'art. 95 CPP - corrispondente all'art.
+33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 -
+dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola
+in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso) proroga
+del carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a carico
+dello stesso accusato gravi e concreti indizi di colpabilità per un crimine o
+un delitto e nel contempo sono presenti preminenti motivi di interesse
+pubblico, quali i bisogni dell'istruzione, il pericolo di fuga e quello di
+recidiva (senza dimenticare che l'arresto, quale misura processuale
+cautelativa, non serve unicamente ai bisogni dell'istruttoria, ma anche ad
+assicurare la presenza dell'accusato al processo e a garantire l'eventuale
+espiazione della pena: DTF 109 Ia 323 consid c, e riferimenti; sentenza 16
+novembre 1993 del Tribunale federale in re A.H., 1P 477/1993, consid. 3).
+L'eccezione della cautelare privazione della libertà personale ha così trovato
+codificazione in una chiara base legale (di diritto cantonale: DTF 114 Ia 283
+cons. 3), in corrispondenza ed a superamento di quanto già dettato dalla
+giurisprudenza della Camera dei ricorsi penali - nel solco di quella del
+Tribunale federale -, ritenuto implicito il rispetto della proporzionalità (REP
+1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della  libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128).
+6.
+Come riferito la situazione
+processuale di _____________ è stata recentemente analizzata dalla Camera dei
+ricorsi penali con decisione del 19 maggio 1999. Questa autorità ha ritenuto
+pacifici i gravi indizi di colpevolezza a carico dell'accusato.
+Detto presupposto legale va qui
+oggi pienamente confermato. L'accusato è indiziato di truffa ripetuta e falsità
+in documenti ripetuta, in correità con terzi. A suo carico vi sono tutta una
+serie di indizi consistenti in particolar modo negli accertamenti peritali
+svolti dal dott. __________ deducibili sia dal rapporto intermedio del febbraio
+scorso, sia dal rapporto denominato "Sintesi" di cui è parola sub. 1.
+Sussistono poi tutta una serie di deposizioni, in specie di chiamate in
+correità quali quelle rese dal dott. __________ (comunque posto a confronto con
+_____________), le deposizioni di __________ per non citarne che alcune.
+Dette deposizioni, o perlomeno
+parti di esse, sono state prospettate all'accusato il quale, come detto, ne ha
+almeno in parte ricusato il contenuto.
+Vanno poi evocate le, seppur
+parziali, ammissioni di _____________ accompagnate comunque dalla precisazione
+di consapevolezza dell'illecito agire acquisita solo dopo l'intervento della
+magistratura.
+Le deposizioni agli atti appaiono
+significative - ancorché il loro contenuto debba essere semmai approfondito e
+quindi contestato a _____________ - ed indicano la sistematica pratica di
+ammissioni anticipate e dimissioni posticipate di pazienti, evocano la
+fatturazione fasulla di prestazioni non coperte dalle casse malati in luogo di
+prestazioni diverse coperte, ricordano le fatturazioni dello studio secondo
+direttive di _____________ per orari non corrispondenti - tanto che vi sono
+fatturazioni per ore di lavoro superiori a quanto un giorno ne contenga - ed
+attestano (dott. __________) malversazioni in ordine alle sperimentazioni con
+le case farmaceutiche.
+Si tratta di elementi seri e
+convergenti che imputano all'accusato un agire illecito sistematico, costante
+nel tempo e riferito ad un danno di tutto rilievo.
+Come detto la somma preliminare
+accertata sin qui, ma l'analisi che incombe al dott. __________ è lungi
+dall'essere completa, è di 5,1 mio CHF.
+Si tratta quindi di elementi
+sufficienti a giustificare il permanere in carcere di _____________.
+7.
+Dal profilo delle necessità
+istruttorie basterebbe fare semplice rinvio a quanto ritenuto dalla Camera dei
+ricorsi penali nella sentenza citata al suo punto 4.1.
+Detta autorità giudiziaria
+ricorda come l'accusato
+"... non abbia
+fornito all'autorità inquirente una collaborazione piena ed      incondizionata,
+limitandosi a fare ammissioni solo dinnanzi a precise e       documentate
+circostanze di fatto..",
+ciò che, per la CRP
+"... rende
+perlomeno verosimile un suo tentativo, qualora posto in    libertà provvisoria,
+di inquinare le prove".
+(CRP 19 maggio
+1999, pag. 5 in fine, 5 in inizio).
+La CRP appare poi particolarmente
+chiara nell'evidenziare "l'atteggiamento negativo di _____________"
+riferendosi alle giustificazioni mediche paventate, da un lato, ed al desiderio
+dei suoi collaboratori di compiacerlo dall'altro.
+Questo giudice non può qui far
+altro che ribadire quanto già espresso nelle decisioni 24 dicembre 1998, 1.
+marzo 1999 e 15 aprile 1999.
+A carico di _____________ sono
+state in particolare raccolte un numero importante di deposizioni, sia a
+livello di Polizia sia da parte del PP, e deponenti risultano essere suoi
+stretti collaboratori in formazione (medici), sia personale infermieristico ed
+amministrativo dello studio e delle cliniche. Con tali persone l'accusato ha
+instaurato, prima del suo arresto, stretti rapporti in conseguenza allo
+svolgimento - fianco a fianco - dell'attività lavorativa in un campo delicato
+quale quello della medicina psichiatrica. Il rapporto di datore di lavoro (_____________
+è ancora proprietario delle cliniche oggetto d'indagine) e collaboratore, che
+notoriamente si basa sulla fiducia, la collaborazione giornaliera, con
+conseguenza di delega nello svolgimento delle mansioni, ed il rapporto di
+subordinazione che ne deriva, oltre che il rapporto di dipendenza conseguente
+ai ruoli svolti (medici in formazione ed infermieri con professore
+universitario) sono elementi che lasciano presumere - viste le contrastanti
+versioni rese dai protagonisti - facile e possibile intervento dell'accusato
+per ottenere versioni "ammorbidite" o ritrattazioni delle deposizioni
+raccolte.
+A puro titolo esemplificativo
+bisogna qui ricordare il verbale __________ (v. PP 2.12.1998):
+"... era per
+me tuttavia chiaro che se non rispettavo queste indicazioni       ... perdevo
+il posto di lavoro",
+ed ancora il verbale del dott. __________
+in merito al collega dott. __________ il quale, con riferimento a
+"procedure poco corrette" riferite a pazienti non presenti in clinica
+gestiva in generale detti pazienti e ricorda come questi
+"... subiva
+l'influenza del dott. _____________ nella peggiore delle accezioni. In pratica
+lui faceva tutto quello che gli chiedeva _____________".
+(v. Pol. __________,
+pag. 2).
+Anche __________ rammenta le
+"pressioni che egli esercitava sul nostro capo clinica" evocando -
+nell'ambito delle ricerche riferite a case farmaceutiche - che
+"... abbiamo
+fatto sparire dalla clinica tutta la documentazione medica       di questi
+pazienti i cui dati anamnestici erano stati manipolati"
+(in questo senso
+GIAR 1. marzo 1999, pag. 9 in fine e 10 in inizio).
+Sussiste quindi, nei confronti
+delle persone già sentite e collaboratrici / collaboratori rispettivamente
+colleghi (comunque subalterni di _____________) un forte rischio di collusione.
+Ma vi è di più. A ragione, in
+effetti, il PP avv. Marco Bertoli ed il PPG avv. Luca Marcellini rammentano i
+risultati delle censure telefoniche poste in essere al momento delle indagini a
+fronte degli indizi che si raccoglievano.
+__________ ha temuto molto per il
+suo futuro professionale ed ha tentato di contattare l'accusato, ed ancora si
+vedano le telefonate specificatamente ricordate dai PP nella loro istanza.
+Vi è quindi, e lo si ribadisce,
+un forte rischio di collusione, rischio che appare ancora più elevato nei
+confronti dei pazienti. L'esame del perito sta evidenziando, come il Rapporto
+"Sintesi" riferisce, tutta una importante serie di ipotizzate
+malversazioni sulla pelle delle Casse Malati con l'intervento, consapevole od
+inconsapevole, di numerosi pazienti.
+La CRP (sentenza 19 maggio 1999,
+pag. 6) evoca un concreto rischio di collusione nei confronti dei pazienti
+"... i quali,
+sia per le loro patologie che per il particolare rapporto di            fiducia
+esistente con l'accusato sarebbero da quest'ultimo facilmente            influenzabili".
+Va qui rilevato come _____________
+ben conosca i suoi pazienti - tanto da ricordare (a 10 anni di distanza) che la
+madre del PP __________ sarebbe stata sua paziente - e li ricorda. D'altro
+canto invece il PP ed il PPG non hanno ancora proceduto (per tramite del dott. __________)
+a completare l'esame delle cartelle mediche acquisite e di quelle preannunciate
+dall'AI.
+Il dott. _____________ sa quindi
+perfettamente chi potrebbe contattare mentre la magistratura non ha ancora
+identificato i pazienti nell'ambito delle cui cure sarebbero state commesse
+malversazioni.
+A ragione la CRP ricorda poi il
+legame di fiducia, soprattutto in ambito delicato come quello della medicina
+psichiatrica, che si instaura tra medico e paziente, rapporto particolarmente
+forte per l'esistenza del segreto medico che copre tutti gli aspetti delicati
+che i pazienti possono riferire al medico.
+Non solo. La malattia, in
+particolare quelle nell'ambito del dott. _____________, pone spesso il paziente
+in condizione di subordinazione nei confronti del medico come l'esperienza
+insegna.
+In questo senso va ritenuto un
+concreto rischio di collusione nei confronti dei pazienti in parte già
+identificati e sentiti ed in parte ancora da identificare.
+Vi sono poi concrete esigenze
+istruttoria. _____________ deve essere approfonditamente interrogato, gli
+devono essere prospettati i verbali raccolti (semmai, dopo necessario
+approfondimento) e deve essere possibile procedere ai necessari confronti.
+D'altro canto i magistrati ancora attendono documentazione sia dalle Case farmaceutiche
+interessate alla sperimentazione che dalla FTAM con conseguente necessità di
+verifica in parallelo con quanto sta svolgendo il perito e con successiva
+contestazione all'accusato.
+Sussistono quindi esigenze
+istruttorie, rischio di collusione ed inquinamento probatorio, particolarmente
+forti ed evidenti, tali da giustificare il mantenimento in carcere
+dell'accusato.
+8.
+Stanti i gravi indizi di
+colpevolezza e le necessita istruttorie nonché il rischio di collusione e di
+inquinamento probatorio non si giustifica esaminare le ulteriori argomentazioni
+attinenti i motivi di interesse pubblico invocati dalla pubblica accusa.
+9.
+Resta da esaminare il rispetto
+del principio di proporzionalità del carcere preventivo sofferto ed ancora
+prospettabile sia di per sé stesso (ossia riferito alla carcerazione già subita
+ed alla presumibile durata dell'evasione delle necessità istruttorie ancora
+incombenti) sia in rapporto alla presumibile pena che la Corte del merito
+potrebbe infliggere in caso di giudizio di condanna.
+Giusta l’art. 102 cpv. 2 CPP la
+durata del carcere preventivo durante l’istruzione formale può essere di sei
+mesi; tale termine può essere convenientemente prorogato (art. 103 CPP).
+La prassi del Tribunale federale
+ha comunque stabilito un limite massimo, ritenendo eccessiva ogni carcerazione
+preventiva la cui durata complessiva superi quella della pena privativa della
+libertà che presumibilmente potrebbe essere inflitta dal giudice di merito (DTF
+116 Ia 147 consid. 5a, 113 Ia 185, 107 Ia 257 consid. 2 e 3, 105 Ia 32 consid.
+4b; Rep. 1980, p. 46 consid. 3b). Il protrarsi del carcere preventivo deve
+comunque obbedire al principio della proporzionalità, stando al quale la durata
+dipende anche dalle circostanze concrete, in particolare, dalla vastità e
+complessità dell’inchiesta e dal comportamento dell’arrestato (DTF 107 Ia 259 consid.
+3b, 105 Ia 33 consid. 4b).
+Nel caso concreto il procedimento
+risulta essere estremamente vasto e complesso. Numerosissimi appaiono i
+collaboratori ed i pazienti sentiti e da sentire, la ricostruzione del danno
+risulta essere laboriosa e non facile. Restano da acquisire un notevole
+quantitativo di prove, in specie attraverso audizioni, e resta da completare il
+lavoro peritale di ricostruzione. Questi elementi, in uno con l'atteggiamento
+processuale assunto dal dott. _____________ - di per se legittimo ma che impone
+approfondimento istruttorio non indifferente - giustificano proroga della
+detenzione preventiva di ulteriori 6 mesi. Al magistrato d'accusa va dato atto
+di notevole impegno sia riferito alla raccolta delle prove, sia riferito al
+dispendio di tempo per il doveroso accertamento delle condizioni di
+carcerazione di _____________ come imposto dalle istanze della difesa.
+Le indagini, come detto, sono ben
+lungi dall'essere concluse.
+Il periodo di 6 mesi che viene
+ulteriormente concesso al magistrato d'accusa risulta rispettoso del principio
+della proporzionalità anche in considerazione della possibile pena che - in
+caso di giudizio di colpevolezza - la Corte del merito potrebbe infliggere
+all'accusato ritenuto l'ampiezza dell'agire illecito rimproverato a _____________,
+l'entità presumibile del danno ed il ruolo di _____________ nell'ambito delle
+cliniche e dello Studio.
+Il magistrato d'accusa é invitato
+quindi a volere procedere con la medesima solerzia che sin qui ha
+contraddistinto il suo agire per evitare un giudizio di merito ritardato nel
+tempo (si vedano in proposito le DTF Cassazione Penale 30 novembre 1998 in re E.F.,
+A.P. e E.P. dove si ricorda il diritto per ogni accusato a che
+l'inchiesta e il procedimento penale aperti nei suoi confronti siano portati a
+compimento senza inutili ritardi, ovvero entro un termine ragionevole,
+situazione questa certamente voluta in casu anche dalla Difesa).
+10.
+Visto quanto precede l’istanza di
+proroga del carcere preventivo va integralmente accolta con la presente
+decisione esente da tassa e spese di giudizio (art. 39 litt. f TG e contrario)
+e suscettibile di impugnazione alla Camera dei ricorsi penali del Tribunale di
+Appello nel termine di 10 (dieci) giorni dall'intimazione.
+Per i quali motivi,
+richiamati gli articoli
+menzionati e gli art. 103 e 280 e segg. nonché 284 CPP;
+decreta
+1.
+L’istanza
+18 maggio 1999 formulata dal Procuratore Pubblico avv. Marco Bertoli e dal
+Procuratore Pubblico Generale avv. Luca Marcellini
+é integralmente accolta.
+2.
+Di
+conseguenza il carcere preventivo cui é astretto _____________ é prorogato sino
+e compreso il
+30 novembre 1999
+.
+3.
+Non
+si percepiscono tasse e spese.
+4.
+Avverso
+la presente decisione in materia di libertà personale é data facoltà di ricorso
+alla Camera dei Ricorsi Penali del Tribunale di Appello nel termine di dieci
+giorni dall’intimazione.
+5.
+Intimazione:
+-
+all’accusato _____________, per il tramite del patrocinatore avv.
+__________;
+-
+all’avv. __________;
+-
+al Procuratore Pubblico avv. Marco Bertoli, Lugano, con gli atti
+di ritorno.
+-
+al Procuratore Pubblico Generale avv. Luca Marcellini, Lugano
+giudice
+Ivano Ranzanici
