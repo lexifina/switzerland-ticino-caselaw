@@ -1,0 +1,597 @@
+---
+decision_id: "ti_gerichte_INC.2004.61606"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.61606"
+decided: "2005-03-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=104783&nX40_KEY=4711182&nTrefferzeile=14&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/210/art-884.md", "switzerland/bund/acts/311.0/art-058.md", "switzerland/bund/acts/311.0/art-059.md"]
+---
+
+# TI Gerichte INC.2004.61606
+
+## Regeste
+
+Reclamo contro rifiuto dissequestro. Buona fede del terzo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.03.2005 INC.2004.61606
+Tessin Il Giudice dell'istruzione e dell'arresto 23.03.2005 INC.2004.61606
+Ticino Il Giudice dell'istruzione e dell'arresto 23.03.2005 INC.2004.61606
+
+Reclamo contro rifiuto dissequestro. Buona fede del terzo
+
+Incarto n.
+INC.2004.61606
+Lugano
+23 marzo 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire sul reclamo presentato il 17 /18
+febbraio 2005 da
+rappr. da:
+contro
+la decisione 3 febbraio 2005 del Procuratore pubblico
+Maria Galliani
+che rifiuta il dissequestro di una somma, attualmente
+sulla relazione __________ presso __________ nell'ambito del procedimento di
+cui all'inc. MP __________
+viste le osservazioni del magistrato
+inquirente (1 marzo 2005) e quelle presentate da numerose parti civili (1/3
+marzo 2005, 2/4 marzo 2005, 3/4 marzo 2005, come meglio risulta dai doc. 5, 6,
+7 dell'incarto GIAR 616.2004.6);
+ricevute in data 7 marzo 2005
+ulteriori argomentazioni da parte dell'__________, a seguito di interrogatori
+avvenuti posteriormente all'inoltro del reclamo, e viste le conseguenti
+osservazioni del Procuratore pubblico (11 marzo 2005) e di alcune parti civili
+(16/17 e 17/21 marzo 2005, doc. 11 e 12 inc. GIAR 616.2004.6);
+visto l'inc. MP __________;
+ritenuto
+in fatto
+A.
+Con ordine del 21 ottobre 2004,
+il magistrato inquirente ha posto sotto sequestro, tra le altre cose, la
+relazione __________, presso __________, intestata a __________ (AI 2, AI 38).
+L'ordine è stato emanato
+nell'ambito del procedimento penale avviato nei confronti di __________, i cui
+estremi possono essere ripresi da precedente decisione di questo ufficio:
+"
+__________ è stato arrestato il 25
+ottobre 2004, con contestuale promozione dell'accusa per le ipotesi di reato di
+amministrazione infedele, appropriazione indebita, subordinatamente truffa in
+relazione alla gestione del patrimonio dei clienti della società __________
+(cfr. Verbale PP __________ 25 ottobre 2004 e richiesta di conferma
+dell'arresto 26 ottobre 2004);
+-     l'arresto è stato confermato da
+questo giudice il 26 ottobre 2004 (doc. 3, inc. GIAR 616.2004.1), ritenuta la
+presenza di gravi indizi di reato, pericolo di fuga e pericolo di collusione
+e/o inquinamento delle prove (bisogni dell'istruzione);
+-     in sintesi, l'inchiesta verte
+sulla gestione e l'utilizzo/destino di somme di denaro raccolte dall'accusato
+[prima in __________, tramite una società denominata __________, poi in
+__________ (in parte mediante trasferimento dei fondi e/o dei clienti
+"acquisiti" nel corso della precedente attività in __________),
+tramite una società denominata __________] nel periodo che va dal 1998 al
+momento dell'arresto, nonché sulle stesse modalità della "raccolta"
+(Verbali PP 25.10.2004 e 3.11.2004; Osservazioni 20 dicembre 2004, pag. 2); il
+denaro (gestito su conti non intestati ai singoli clienti) sarebbe stato
+oggetto di perdite di gestione sottaciute ai clienti, di utilizzo per rimborsi
+a clienti che avevano (senza saperlo) subito perdite e di utilizzo personale
+(Verbale PP 25 ottobre 2004, pag. 6/7; Verbale PP novembre 2004, pag. 3, 5;
+Verbale PP 16 dicembre 2004, pag. 3);
+"
+(sentenza 23
+dicembre 2004, GIAR 616.2004.3)
+B.
+Con scritto del 3 dicembre 2004
+(AI 57), __________ chiede il dissequestro della relazione menzionata,
+limitatamente alla somma di EUR 108'000.- oltre ad interessi del 5% dal 25
+novembre 2004.
+La banca assevera che gli averi
+in conto sono oggetto di pegno a suo favore (in relazione a due garanzie
+bancarie "a prima domanda" emesse a richiesta di __________, onorate
+il 25 novembre 2005 "
+dopo aver preso atto che codesto lodevole
+Ministero pubblico ha ritenuto di non dover ordinare il blocco di pagamento di
+impegni a carico di __________
+"), notifica la relativa pretesa e,
+sostanzialmente, chiede lo sblocco per poter addebitare la relazione.
+C.
+Dopo aver, in un primo tempo,
+accolto l'istanza (con decisione del 10 gennaio 2005: doc. 2, inc. GIAR
+616.2004.5), il Procuratore pubblico ha revocato la precedente decisione e
+respinto l'istanza con quella qui impugnata (doc. 2, in. GIAR 616.2004.6).
+Dopo aver riassunto la tempistica
+degli atti (apertura relazione, emissione garanzie, costituzione pegni,
+pagamento garanzie), il magistrato inquirente ha motivato la sua decisione con
+il fatto che le affermazioni della banca (meglio dei funzionari che si sono
+occupati della pratica) secondo cui si sarebbe ritenuto, perlomeno fino al
+giugno del 2003, che i fondi messi a pegno (a garanzia) dell'emissione delle
+garanzie bancarie fossero di esclusiva pertinenza della __________ e non di
+clienti della stessa (ritenendo la relazione di natura commerciale),
+rispettivamente che i (limitati) fondi a copertura delle garanzie bancarie
+emesse fossero comunque di pertinenza della __________, non reggono ad un esame
+della documentazione bancaria agli atti e comunque non sono sufficienti per
+accertare buona fede ai sensi dell'art. 59 CP (cfr. Decisione impugnata, pag. 2
+paragrafi 7 e 8 e pag. 3, paragrafi 2 e 4, in particolare).
+D.
+Mediante il presente reclamo,
+__________ sottolinea innanzitutto come nella prima decisione (quella poi
+revocata) il magistrato inquirente ha riconosciuto la buona fede della
+reclamante perché non risultava che al momento dell'emissione delle garanzie
+bancarie l'istituto di credito fosse al corrente delle malversazioni commesse
+dall'accusato nei confronti dei clienti investitori, mentre con la seconda (e
+qui impugnata) non sovverte questa constatazione, bensì si fonda su altri
+argomenti già noti all'epoca della prima decisione (Reclamo, pag. 4). Ritiene
+che tale modo d'agire sia arbitrario, lesivo del diritto di essere sentito e
+della sicurezza del diritto.
+Secondo la reclamante è decisivo
+determinare se il diritto di pegno sia stato acquisito prima dell'avvio
+dell'inchiesta, con conseguente presunzione di buona fede, e se vi sia stata
+controprestazione equivalente (Reclamo, pag. 5).
+Asserito l'obbligo di dar seguito
+alle garanzie emesse, la reclamante ribadisce la sua buona fede sia perché
+nessun rimprovero di natura penale viene mosso ai suoi funzionari, sia perché
+ha sempre ossequiato la normativa circa l'identificazione degli aventi diritto
+economico. Inoltre, il magistrato inquirente (sempre secondo la reclamante) non
+chiarisce per quali ragioni non si sarebbe dovuto procedere all'emissione delle
+garanzie bancarie richieste.
+Citando il Tribunale Federale,
+afferma che la confisca (ex 59 cifra 1 cpv.2 CP) può entrare in linea di conto
+solo se i valori sono stati acquisiti dopo la commissione del reato e che
+spetta allo Stato provare l'esistenza di tutte le condizioni per una confisca.
+Da ultimo rinvia a caso (asseritamente) analogo risolto dalla CRP a favore del
+beneficiario del pegno (REP 1991 pag. 541).
+Con scritto del 7 marzo 2005,
+basandosi su due verbali di propri funzionari, la reclamante ribadisce la buona
+fede: "
+ciò che conta non è sapere se la banca dovesse accorgersi che i
+denari provenissero da terzi, bensì chiedersi se l'istituto di credito avrebbe
+dovuto intuire che gli stessi non appartenessero, neppure in parte sufficiente,
+alla società titolare del conto
+", per parte sua ritenendo evidente la
+risposta.
+E.
+Con osservazioni del 1 marzo
+2005, il magistrato inquirente conferma le motivazioni della sua decisione.
+Segnala che era noto all'istituto
+di credito che la società svolgeva attività di gestione ed amministrazione di
+beni di terzi e che era possibile rilevare utilizzo del conto per spese
+connesse alla società. Ciò nonostante, la banca avrebbe accettato in pegno gli
+averi senza approfondirne la pertinenza economica mettendo quindi in gioco la
+propria buona fede ex art. 59 cifra 1 cpv. 2 CP. Infatti, sempre a dire del
+magistrato inquirente, l'accertamento dell'avente diritto economico degli averi
+in conto, rispettivamente della facoltà di disporne a piacimento da parte del
+titolare della relazione, sono obblighi che incombono alla banca e la cui
+violazione non rientra nel concetto di generica violazione del dovere di
+diligenza cui fa riferimento N. Schmid nel suo commentario all'art.
+59 CP (Kommentar, Einziehung, Organisierte Verbrechen, Geldwäscherei,
+Bd. 1, § 2, nota 84).
+Quanto alle
+argomentazioni complementari presentate dalla banca, il Procuratore pubblico
+(scritto 11 marzo 2005) rileva come l'affermazione secondo cui perlomeno
+inizialmente la banca ha considerato che sul conto sono confluiti fondi di
+pertinenza del titolare in parte sufficiente, conferma che la reclamante sapeva
+che sulla relazione affluivano averi di terzi.
+F.
+Le parti civili
+che hanno presentato osservazioni chiedono, tutte, reiezione del reclamo e
+conferma della decisione impugnata.
+Alcune
+segnalano, con riferimento alle deposizioni dei funzionari di banca, che
+perlomeno dal 4 ottobre 2004, quindi prima dell'estensione di una delle due
+garanzie da FRS 55'000.- a FRS 85'000.-, la banca avesse la "
+prova
+matematica
+" delle malversazioni commesse da __________ (Doc. 7, inc.
+GIAR 616.2004.6, pag. 4), che le emissioni di garanzia "
+per l'apporto
+di fondi destinati all'investimento
+" non sia ritenuta, dagli stessi
+funzionari, operazione usuale (doc. cit., pag. 7) e che la semplice
+consultazione degli estratti bancari permetteva di escludere l'esistenza di
+mezzi propri della __________ (doc. cit., pag. 8); negano, quindi, l'esistenza
+di una buona fede ex art. 59.
+Altre
+ripropongono sostanzialmente, e nei riferimenti, le considerazioni appena
+indicate (doc. 5, inc. GIAR 616.2004.6).
+Altre ancora
+(doc. 6, inc. GIAR 616.2004.6), affermano che la semplice supposizione di
+pertinenza (alla __________) dei fondi messi a pegno, peraltro contraria a
+quanto emerge dagli atti, non è sufficiente per determinare buona fede da parte
+dell'istituto di credito.
+In merito alle
+argomentazioni contenute nello scritto 7 marzo 2004 di __________, le parti
+civile che hanno ritenuto di esprimersi (cfr. doc. 11 e 12 inc. GIAR 616.2004.6)
+segnalano come siano le stesse giustificazioni dell'istituto di credito a
+escludere la buona fede.
+Delle altre
+osservazioni/argomentazioni delle parti e del magistrato inquirente, si dirà se
+necessario nei considerandi che seguono.
+considerato
+in diritto
+1.
+Il reclamo è
+ricevibile in ordine.
+Innanzitutto è
+tempestivo, in secondo luogo, la banca pur non essendo parte al procedimento è
+comunque da considerare terzo con interesse legittimo, ritenuto che il
+sequestro ha colpito averi costituiti in pegno a suo favore.
+2.
+I principi che
+reggono la materia del sequestro quale misura cautelare, sebbene noti al
+magistrato inquirente ed ai patrocinatori delle parti, possono essere così
+riassunti:
+"2.
+Pur nella rinnovata forma in vigore
+dal 1° agosto 1994, le norme sulla confisca penale (artt. 58 ss. CPS)
+ribadiscono l’obbligo di confisca di ogni e qualsiasi vantaggio patrimoniale
+ottenuto in maniera illecita: la definizione dei valori patrimoniali di cui
+all’art. 59 cfr. 1 cpv. 1 CPS riprende le previgenti dottrina e giurisprudenza
+(v. Niklaus Schmid, Das neue Einziehungsrecht nach Art. 58 ff. StGB, in: RPS
+113 [1995], p. 321 ss., pto. 4.2.1 p. 331 e nota 45, con rinvii [qui di seguito
+citato: Schmid RPS]). “Valori patrimoniali” non sono soltanto beni corporali,
+ma anche crediti (depositi bancari), carte valori e persino diritti immateriali
+e diritti reali limitati: essenziale è che essi abbiano un proprio,
+determinabile valore economico (v. Niklaus Schmid, nota 19 ad art. 59 CPS, in:
+Schmid (Hrsg.), Kommentar Einziehung, organisiertes Verbrechen und
+Geldwäscherei, Band I, Zürich 1998, qui di seguito citato: Schmid Kommentar) e
+che il loro illecito trasferimento nel patrimonio del reo conduca, quale
+conseguenza, ad un aumento
+dei suoi attivi o una diminuzione dei
+suoi passivi (v. Schmid, Kommentar, nota 17 ad art. 59 CPS).
+Sottostanno a tale tipo di confisca
+ai sensi dell’art. 59 cfr. 1 cpv. 1 CPS anche cosiddetti valori sostitutivi,
+sia propri che impropri (“echte und unechte Surrogate”, v. Schmid, RPS, pto.
+4.3.2, p. 334 ss.; DTF 126 I 97, consid. 3.c.bb p. 105-106). Beni sostitutivi
+impropri possono essere bloccati unicamente in presenza di una traccia cartacea
+che li riconduca all’originario provento di reato, mentre per i beni
+sostitutivi propri dev'essere dimostrato che essi hanno preso il posto del bene
+originale (DTF 126 I 97, consid. 3.c.cc p. 107). Il bene da confiscare deve
+essere facilmente identificabile nel patrimonio dell’autore, rispettivamente
+del terzo beneficiario (DTF 126 I 97, consid. 3.c.cc p. 107, con rinvio a DTF 4
+maggio 1999 in re Z., consid. 2b).
+Se il provento di reato è pervenuto
+sotto forma di denaro, esso resta direttamente confiscabile anche se è stato
+modificato, ad esempio depositato e prelevato da conti bancari, trasformato in
+chèques o simili, infine cambiato in altra valuta (tutte forme di
+trasformazione in bene sostitutivo improprio, v. Schmid, Kommentar, nota 50 ad
+art. 59 CPS).
+Completamente rivisto è l’istituto
+della confisca risarcitoria ai sensi dell’art. 59 cfr. 2 cpv. 1 CPS: essa
+permette al giudice (di merito) di ordinare un risarcimento in favore dello
+Stato (con eventuale successiva assegnazione alla parte lesa in applicazione
+dell’art. 60 CPS), se - pur essendo dati i presupposti per una confisca ex art.
+59 cfr. 1 cpv. 1 CPS - i valori patrimoniali di cui all’art. 59 cfr. 1 cpv. 1
+CPS non siano più reperibili (v. Schmid, cit., pto. 4.3.1, p. 333 s.; pto.
+4.3.2, p. 336) oppure debbano venir attribuiti direttamente alla parte lesa in
+applicazione dell’art. 59 cfr. 1 cpv. 1 ultima frase CPS (v. Schmid, cit., pto.
+4.4.1, p. 339). In tal caso, i beni passibili di confisca sono necessariamente
+di provenienza lecita.
+Indipendentemente dalla natura della
+confisca nel singolo caso, la misura può essere ordinata non solo nei confronti
+dell’autore, bensì anche di terzi che abbiano beneficiato dei proventi del
+reato, a meno che non trovino applicazione le eccezioni contemplate all’art. 59
+cfr. 1 cpv. 2 CPS (art. 59 cfr. 2 cpv. 1 ultima frase CPS; v. Schmid, cit.,
+pto. 4.3.3, p. 336 ss.). Il terzo, nei confronti del quale è ordinata la
+misura, può eccepire unicamente di avere acquisito i beni in proprietà,
+eventualmente di disporne in virtù di diritti reali limitati; il mero possesso,
+invece, non osta alla confisca, ed ancor meno vi si oppongono eventuali pretese
+obbligatorie del terzo: “non spetta [...] al diritto penale tener conto, in
+materia di confisca, dei diritti di natura obbligatoria di terzi” (Messaggio,
+pto. 223.4 in fine; così, verbatim, già in decisione 6 ottobre 1997 in re K e
+F, inc.
+Giar 141.97.3,
+consid. 5 p. 6.; Niklaus Schmid, nota 82 ad art. 59 CPS, in: Schmid (Hrsg.),
+Kommentar Einziehung, organisiertes Verbrechen und Geldwäscherei, Band I,
+Zürich 1998).
+Per non vanificare la portata delle
+norme sulla confisca, il magistrato inquirente può ordinare il sequestro dei
+beni che vi soggiacciono (art. 161 cpv. 1 e 2 lit. b CPP; v. Schmid, RPS 113
+[1995], cit., pto. 6.3, p. 362), rispettivamente che sono destinati a garantire
+l'eventuale risarcimento (art. 59 cfr. 2 cpv. 3 CPS; DTF 126 I 97, consid.
+3.d.aa p. 107). Come la confisca, pure il sequestro può ovviamente essere
+ordinato anche nei confronti di un terzo.
+Il sequestro (in casu: bancario) può
+rappresentare un attentato ai diritti personali, o causarne un pregiudizio.
+Come ogni misura d’inchiesta, pertanto, deve soddisfare tre presupposti
+sostanziali: deve poggiare sull’esistenza di gravi indizi di colpevolezza, deve
+apparire necessario per il giudizio di merito (nel senso che deve essere
+connesso con l’oggetto che occorre salvaguardare agli incombenti processuali e
+di giudizio, v. decisione 17 agosto 1998 in re E.F., inc. Giar 501.98.2 consid.
+2), infine deve essere rispettoso del principio di proporzionalità (v. Gérard
+Piquerez, Précis de procédure pénale suisse, 2. éd. Lausanne 1994, margin.
+1441, 1454 e 1469, con rinvii). La verifica della fondatezza di questi
+presupposti, per il doveroso scrupolo di rispetto dei diritti individuali, deve
+essere costante negli incombenti dell’autorità inquirente e requirente, con
+sempre accresciuta esigenza probatoria indiziante approssimantesi alla verità
+materiale, a partire dal sospetto all’apertura del procedimento, che va in
+seguito ed indilatamente approfondito con gli accertamenti probatori del caso
+(v., in contesto più generale, Piquerez, cit., margin. 1116 ss.). Quindi,
+ovviamente, anche a giustificazione del suo perdurare."
+(sentenza 22 ottobre 2002 in re T., GIAR 39.2002.7)
+3.
+Nel caso in
+esame è evidente che il sequestro degli averi in conto si fonda sull'eventualità
+di confisca ex art. 59 cifra 1 cpv. 2 CP. Tale è la norma, e l'ipotesi,
+indicata nella decisione e sulla cui interpretazione (e applicabilità al caso
+specifico) argomentano sia la reclamante che il magistrato inquirente e le
+parti civili.
+La norma in
+questione si applica agli averi provento di reato (o surrogati),
+rispettivamente, e nella fase di applicazione del sequestro che precede il
+giudizio di merito sulla confisca, agli averi fortemente indiziati di essere
+provento di reato.
+Va subito detto
+che nessuno (quindi non l'accusato che non ha presentato osservazioni, ma
+neppure la reclamante) mette in dubbio il fatto che gli averi in conto siano
+(indiziati di essere) provento del reato imputato a __________: l'unico
+argomento toccato è quello della buona fede della qui reclamante,
+"titolare" del pegno.
+Non v'è ragione,
+anche perché non è in gioco la libertà personale, che sia questo giudice ad
+effettuare particolari analisi e disquisizioni circa la provenienza illecita
+degli averi sotto sequestro. Basterà qui far riferimento ai reati ipotizzati
+(truffa nella raccolta di fondi per pretesi investimenti poi non effettuati,
+perlomeno non effettuati nelle forme e modalità indicate ai clienti
+investitori, appropriazione indebita di fondi di clienti investitori per
+rimborso terzi, amministrazione infedele) ed ai fatti ammessi dallo stesso
+accusato (per tutti: Verbale PP 3 novembre 2004, pag. 4 e 5) per concludere
+circa l'esistenza di seri e concreti indizi di reato e di connessione (con il
+reato stesso) degli averi sulle relazioni __________, rispettivamente quelli
+costituiti in pegno.
+Non va, inoltre,
+dimenticato che la stessa messa a pegno di averi di terzi (ovviamente senza il
+loro consenso) costituisce concreto indizio del reato di appropriazione
+indebita (CRP 23 agosto 2004 in re Banca P., 60.2000.393).
+4.
+Neppure è
+contestato da alcuno il fatto che __________ abbia fornito una
+controprestazione equivalente (ex art. 59 cifra 1 cpv. 2 CP) all'importo (messo
+a pegno) di cui chiede il dissequestro. Oggetto del reclamo, e quindi della
+presente decisione, è l'esistenza o meno della buona fede, sempre e art. 59 CP,
+in capo all'istituto di credito. Va inoltre precisato, a scanso di equivoci,
+che la questione della buona fede va analizzata al momento della effettiva
+costituzione in pegno degli averi (sui quali grava il sospetto di provenienza
+delittuosa e, quindi, l'eventualità di confisca che, come noto, può colpire
+valori costituiti in pegno - sentenza 27 novembre 2000 in re B., GIAR
+404.1998.4, cons. 4.) e per rapporto, appunto, a tale costituzione. Nel caso in
+esame, gli averi, oggetto di un atto di pegno generale, sono diventati pegno
+effettivo (in relazione a specifico, e quantificabile, credito) al momento
+dell'emissione delle garanzie.
+5.
+a)
+Contrariamente a
+quanto sembra sostenere la reclamante, il fatto che la costituzione in pegno
+sia avvenuta prima dell'apertura del procedimento penale contro __________ non
+è rilevante per determinare l'esistenza (o meno) della buona fede. Non sono
+certo escluse dall'applicazione dell'art. 59 CP tutte le acquisizioni da parte
+di terzi precedenti l'intervento dell'autorità penale, ciò che conta (per porsi
+il problema) è, ovviamente, che l'acquisizione sia avvenuta dopo la commissione
+dei reati sospettati (CRP 23 febbraio 2005 in re B., 60.2004.425).
+Inoltre, è
+opportuno ricordare che il fatto che spetti alle autorità preposte alla
+confisca dimostrare l'esistenza delle condizioni per la sua applicazione in
+ogni singolo caso, non comporta applicabilità per analogia, nell'ambito del
+sequestro, del principio "
+in dubio pro reo
+" (N. Schmid,
+Strafprozessrecht, 4. edizione, n. 301; SJ 1997, pag. 191).
+b)
+Al di là di
+quanto stabilito nella sentenza citata dalla reclamante (REP 1991, pag. 541,
+che si riferiva all'art. 58 ora abolito - ancorché lo statuto del terzo in
+buona fede non sia stato modificato sostanzialmente dalle nuove norme sulla
+confisca: SJ 1997, pag. 191), questo ufficio ha già avuto modo di precisare
+che:
+"a) Terzo in buona fede, secondo
+le rivedute norme sulla confisca, è colui che “ha acquisito i valori
+patrimoniali ignorando i fatti che l’avrebbero giustificata, nella misura in
+cui abbia fornito una controprestazione adeguata o se la misura costituisce nei
+suoi confronti una misura eccessivamente severa” (art. 59 cfr. 1 cpv. 2 CPS).
+In parole povere, ciò significa che al momento in cui ha acquisito i beni
+patrimoniali in discussione, il terzo non doveva essere in alcun modo a
+conoscenza del reato a monte (v.
+Niklaus Schmid
+, nota 84 ad art. 59 CPS,
+in:
+Schmid
+(Hrsg.), Kommentar Einziehung, organisiertes Verbrechen und
+Geldwäscherei, Band I, Zürich 1998). Una conoscenza anche solo generica della
+provenienza delittuosa degli attivi equivale a mala fede, sicché un dolo
+eventuale circa l’esistenza di motivi di confisca basta per privare il terzo
+della protezione della norma penale. Lo stesso vale qualora il terzo abbia
+omesso di applicare la dovuta diligenza nelle verifiche che gli incombevano: la
+sua “ignorance de faits qui justifiaient la confiscation [...] doit être non
+fautive” (
+Denis Piotet
+, Les effets civils de la confiscation pénale,
+Berne 1995, margin. 187;
+contra
+,
+Schmid
+, eod. loc.). Buona fede
+deve sussistere al momento del trasferimento del diritto reale, se non
+contemporaneo alla costituzione del titolo alla base della transazione (v.
+Piotet
+,
+op. cit., margin. 196)."
+(sentenza 5
+giugno 2002 in re A., GIAR 213.2000.3)
+Quindi, non è
+determinante che l' "acquirente" avesse conoscenza positiva
+dell'esistenza di un reato preciso e specifico, se così fosse si porrebbe il
+problema della correità/complicità o della ricettazione, con buona pace della
+qualifica di "terzo". Ciò che conta è la conoscenza del contesto che
+potrebbe essere delittuoso (M. Vouilloz, La confiscation en droit pénal, in
+AJP/PJA 12/2002, 1387 ss., 1393, 1394; cfr. pure SJ 1997, pag. 192). Ciò è
+indirettamente riconosciuto dalla stessa reclamante laddove afferma che
+determinante è sapere "
+se l'istituto di credito avrebbe dovuto intuire
+che gli stessi (gli averi, n.d.r.) non appartenessero neppure in parte
+sufficiente, alla società titolare del conto
+" (doc. 8, inc. GIAR
+616.2004.6).
+c)
+In concreto,
+dagli atti emerge che:
+§
+le garanzie bancarie sono state emesse il
+6.10.2003 (con aumento il 21.10.2004), rispettivamente il 2.06.2004, con
+esplicito riferimento, per il beneficiario, a persona che aveva in corso, con
+la titolare della relazione, un mandato di gestione patrimoniale
+(Vermögensverwaltungvertrag - cfr. AI 40);
+§
+in un caso, al momento dell'emissione della
+garanzia, il mandato di gestione é indicato come avviato il 27.03.2003 (cfr. AI
+40);
+§
+gli atti di pegno sono due atti di pegno
+generali, quindi non costituiti in stretta connessione con l'emissione delle
+garanzie, datati il primo Bellinzona 15.07.2003, l'altro Bellinzona 23.02.2004
+(AI 43);
+§
+dall'estratto conto della relazione sino al
+luglio 2003, risulta abbastanza evidente che le entrate sono costituite in gran
+parte, se non esclusivamente, da bonifici da terzi con (in parte) anche
+indicazione numerica (CH più cinque cifre) che parrebbero ricondurre a
+"conti individuali" interni a __________, mentre le uscite appaiono
+come spese di altro genere, spesso per importi anche ridotti prelevati tramite
+EC (cfr. mappetta EFIN e allegati, nonché allegati al verbale __________);
+§
+l'attività di gestione patrimoniale, da parte di
+__________ tramite la __________, era nota ai funzionari __________ (che hanno
+avuto contatti con quest'ultimo) fin dall'inizio della relazione, e cioè dal
+febbraio 2003 (Verbale __________ 22.12.2004, pag. 2; Verbale __________ 21.02.2005,
+pag. 2), rispettivamente da quando hanno sentito parlare del cliente e/o visto
+la relazione (Verbale __________ 22.12.2004, pag. 2; Verbale __________
+21.02.2005, pag. 2); un'attività di gestione era visibile dagli estratti conto
+(cfr. acquisti/vendita titoli);
+§
+__________ non era al beneficio di una
+autorizzazione ad esercitare quale fiduciario in Ticino, né di
+un'autorizzazione OAD e il formulario A della relazione non indicava gli
+effettivi aventi diritto dei fondi depositati (verbali citati: __________, pag.
+2 e 4; __________, pag. 2 e 3; __________, pag. 3); le questioni di cui sopra,
+note alla reclamante e non "regolate" neppure al momento
+dell'apertura del procedimento penale, non hanno impedito la continuazione
+dell'attività della __________;
+§
+nessuno, all'interno dell'istituto di credito,
+ha approfondito (al di là del prendere per buone le eventuali dichiarazioni di
+__________ in tal senso) la questione a sapere se, effettivamente una parte dei
+fondi sulla relazione (se del caso quale e per quale entità - eventualmente a
+saldo dei già avvenuti utilizzi effettuati per necessità
+"societarie"-, al momento dell'emissione/aumento delle garanzie)
+fosse di effettiva pertinenza della società (verbali citati: __________, pag.
+3; __________, pag. 6 e 9);
+§
+neppure le dichiarazioni iniziali di __________
+in tal senso sono state oggetto di verifica (Verbale __________ citato, pag. 3)
+e ciò nonostante la prassi della sezione gestori esterni (Verbale __________,
+22.12.2004, pag. 3) ed il fatto che non vi fosse chiarezza sull'entità dei
+capitali (globalmente in gestione (20/25 milioni di EUR: verbale __________
+pag. 2; 60/80 milioni di FRS: verbale __________, pag. 5);
+§
+uno dei funzionari dell'istituto di credito
+interrogati è risultato anche essere cliente della __________, ancorché dal 21
+aprile 2004, conseguendo (in pochi mesi) un utile corrispondente, pro rata, ad
+un reddito del 70% annuo (Verbale __________ 22.12.2004, pag. 9 e 10, nonché
+allegato 4);
+d)
+Nel caso in
+esame, la reclamante aveva, in particolare al momento dell'emissione delle
+garanzie, ma anche al momento della costituzione dei pegni generali, tutti gli
+elementi per ritenere di essere in presenza di una relazione sulla quale
+confluivano averi di terzi (diversi dal beneficiario economico) per la gestione,
+relazione intestata ad un gestore privo delle necessarie autorizzazioni, che
+disponeva già di parte dei fondi per necessità proprie e, verbalmente, forniva
+(fors'anche non richiesto) indicazioni contraddittorie. Di conseguenza,
+maggiori verifiche (in luogo e vece delle semplici ipotesi e presunzioni di
+tipo generico) di possibile pertinenza alla __________ di parte (neppure
+quantificata) dei fondi si imponeva, se è vero che "
+Pour reprendre les
+termes de Piotet, >le droit pénal a introduit un devoir de verification
+distinct de celui du droit civil<
+"(SJ 1997, pag. 192) e che, già
+nell'ambito civile, l'accettazione in pegno (in questo caso mediante
+l'emissione di garanzie bancarie a prima richiesta che rendono il pegno
+effettivo e quantificabile) da un gestore patrimoniale, di averi di cui
+quest'ultimo non è necessariamente beneficiario economico, crea in capo alla
+banca un obbligo di verifica accresciuto (Honsell, Vogt, Gerber, Kommentar zum
+schweizerischen Privatrecht, Helbing & Lichtenhahn, nota 142 ad art. 884
+CCS).
+e)
+Alla luce di
+tutto quanto sopra, ed allo stadio attuale dell'inchiesta, ritenere assodata la
+buona fede della reclamante appare, a questo giudice, sicuramente prematuro
+quando non azzardato.
+Fermo restando
+che la questione potrà/dovrà essere meglio approfondita (ritenuto che
+l'accusato non risulta essere stato sentito sulla questione), il fatto che i
+funzionari dell'istituto di credito non abbiano approfondito le questioni di
+cui all'elenco che precede per verificare se la società che ha richiesto
+l'emissione delle garanzie fosse effettivamente in grado di, a sua volta,
+garantirle con mezzi propri, laddove era evidente che la situazione poteva non
+essere quella (pretesa) dichiarata dal rappresentante della titolare della
+relazione, peraltro in una situazione dove anche le questioni apparentemente
+formali (autorizzazioni, formulario A) non risultavano in perfetta regola, non
+permette di concludere per la buona fede. Averle omesse non permette di
+ritenere, a questo stadio, buona fede ai sensi dell'art. 59 CP.
+Anzi, quanto
+sopra esposto sembra piuttosto andare in direzione contraria, ritenuto che il
+terzo è da ritenersi in mala fede già quando:
+"
+. . . non ha applicato la dovuta diligenza nelle
+verifiche che gli incombevano ["
+l'ignorance de faits qui justifiaient
+la confiscation (…) doit être non fautive
+", D. Piotet, Les effets
+civils de la confiscation pénale, Berna 1995, n. 187; contra: N. Schmid, op.
+cit. n. 84 ad art. 59 CP¨].
+"
+(sentenza 23 agosto 2004 in re B., CRP 60.2000.393)
+6.
+Da ultimo, e
+abbondanzialmente, è irrilevante per la questione in esame, il fatto che il
+Ministero pubblico non abbia inteso "bloccare" il pagamento delle
+garanzie bancarie (AI 40 e 42). Infatti,
+la garanzia bancaria a prima
+richiesta è un credito sotto forma d’obbligazione, indipendente dal contratto
+di base tra beneficiario e debitore ( D. Guggenheim, op. cit., p. 323 ss.; DTF
+76 II 33). Tra beneficiario e garante vale solo quanto tra loro stipulato, il
+resto essendo res inter alios acta (T. Rossi, La garantie Bancaire a première
+demande, Losanna 1990, p.127).
+In conclusione,
+il reclamo è respinto con la presente decisione, impugnabile davanti alla CRP.
+La tassa di
+giustizia, le spese e le ripetibili seguono la soccombenza.
+P.Q.M.
+visti gli artt.
+59, 140, 146, 158 CP, 161 ss, 280 ss., 284
+e contrario
+CPP,
+decide
+1.
+Il reclamo è respinto.
+2.
+La tassa di giustizia, fissata in FRS 800.- e le
+spese di FRS 1'106.- (FRS 470.- per invii raccomandati, FRS 636.- per
+altrettante fotocopie di osservazioni e sentenza), sono a carico della
+reclamante la quale rifonderà pure, a titolo di ripetibili, le somme di FRS
+800.- alle parti civile rappresentate dall'__________, FRS 600.- alle parti
+civile rappresentate dall'__________ e FRS 400.- a quelle rappresentate dall'__________,
+tenuto conto dell'onere presumibile delle rispettive osservazioni.
+3.
+Contro la presente è dato reclamo alla CRP,
+Lugano, entro dieci (10) giorni dall'intimazione.
+4.
+Intimazione a:
+giudice
+Edy Meli
