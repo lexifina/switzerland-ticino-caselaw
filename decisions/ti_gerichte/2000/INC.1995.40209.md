@@ -1,0 +1,191 @@
+---
+decision_id: "ti_gerichte_INC.1995.40209"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1995.40209"
+decided: "2000-07-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=57014&nX40_KEY=4711465&nTrefferzeile=99&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-009.md", "switzerland/bund/acts/312.0/art-176.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.1995.40209
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 25.07.2000 INC.1995.40209
+Tessin Il Giudice dell'istruzione e dell'arresto 25.07.2000 INC.1995.40209
+Ticino Il Giudice dell'istruzione e dell'arresto 25.07.2000 INC.1995.40209
+
+Sentenza o decisione senza scheda
+
+N. 402.95.9 L                                                              Lugano,
+25 luglio 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato il 7 luglio 2000 dalla ditta
+__________
+(patrocinata dall’avv. __________)
+per denegata rispettivamente
+ritardata giustizia della
+Procuratrice pubblica
+avv. __________ nel
+procedimento penale pendente contro __________, per titolo di bancarotta
+fraudolenta e altri reati;
+viste le osservazioni 17 luglio
+2000 della magistrata inquirente, che si rimette alla decisione di questo
+giudice;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+questo giudice già ebbe a statuire in tema di ritardo nel procedere
+contro __________, oggetto di diverse inchieste, in particolare come alla
+decisione 30 luglio 1999 (su reclamo della stessa ditta __________: inc. GIAR
+402.95.8), alla quale si può fare riferimento per analogia della situazione,
+già avendo la stessa considerato:
+-   che la Procuratrice pubblica conduce le informazioni preliminari
+intese all'accertamento delle attività di __________ nell'ambito della società
+in accomandita __________ per le ipotesi dei reati di bancarotta fraudolenta,
+diminuzione dell'attivo in danno dei creditori e cattiva gestione;
+-   che il procedimento prese avvio, nelle competenze di altro
+magistrato inquirente, tra altro anche a seguito di "
+esposto
+"
+19 febbraio 1996 presentato dalle ditte __________ e __________ (cfr. atti
+dell'inc. MP 1274/96), osservando comunque che unicamente la prima ditta e solo
+il 24 aprile 1998 ha fatto formale atto di costituzione di parte civile;
+-   che il reclamo lamenta lo stallo in cui si troverebbe il
+procedimento, nonostante invito di questo giudice a dargli rapido seguito dopo
+la sostituzione del magistrato all'inizio investitone (v. decisione 15 novembre
+1996, inc. GIAR 402.95.5), e ciò a partire dalla produzione del referto
+peritale, il 28 novembre 1997 (recte: il 4 dicembre 1997), e si diffonde poi in
+apprezzamenti di merito con illustrazione delle risultanze peritali,
+sostanzialmente indifferenti al presente giudizio;
+-   che la Procuratrice pubblica, con le sue osservazioni al gravame,
+sottolinea la pure qui accertata inconferenza delle argomentazioni di merito,
+premette che il 1. gennaio 1997 ha assunto la conduzione di ventiquattro
+procedimenti contro __________ (oltre la metà dei quali nel frattempo
+conclusi), fa presente come semmai non vi siano più stati concreti atti di
+indagine dal dicembre dello scorso anno e che da un lato la reclamante non ha
+mai presentato alcuna sollecitatoria e dall'altro non è agevole procedere
+contro __________, per i suoi comportamenti incontrollati;
+-   che, in diritto, é dato un ingiustificato ritardo e quindi
+ritardata o denegata giustizia, quando, in violazione dell’art. 4 Cost. fed.,
+l’autorità cui compete l’emanazione di una decisione non vi pone mano oppure,
+pur dimostrandosi pronta a statuire, non lo fa tempestivamente e in modo
+adeguato alla natura delle cose e delle circostanze (decisione 2 ottobre 1998
+in re J.K., inc. GIAR 205.93.2 consid. 5);
+-   che, contrariamente all'assunto della ditta __________, anche dopo
+la presentazione della perizia completa il 4 dicembre 1997 la raccolta delle
+informazioni è continuata con il tentativo di citazione di __________, oggetto
+di reclamo, qui deciso il 3 agosto 1998 ed intimato anche alla reclamante (inc.
+GIAR 402.95.6), ed in seguito ancora con altre citazioni del denunciato non
+andate a buon fine in questo procedimento e ciò sino al dicembre 1998;
+-   che pertanto nel corso di quest'anno non vi sono più stati atti
+procedurali nella pendenza in discussione, ma si ha pure che non è stata
+presentata nessuna sollecitatoria da parte della ditta reclamante, dagli atti
+risultando unicamente la menzionata formalizzazione della costituzione di parte
+civile del 24 aprile 1998, la richiesta della perizia contabile dell'8 ottobre
+1998 e la produzione di documenti del 2 dicembre 1998, che ha ottenuto la
+risposta 14 dicembre 1998 della magistrata inquirente;
+-   che, per questa situazione e tenuto conto del complesso dei
+procedimenti concernenti __________ e del seguito dato a gran parte degli
+stessi, non si può concludere ad avverata ritardata giustizia, il reclamo
+venendo così considerato quale manifestazione di interesse (nel senso anche di
+sollecitatoria) alla ripresa dell'inchiesta ed alla sua celere conduzione, di
+cui la magistrata inquirente prenderà buona e concreta nota;
+-
+il presente reclamo, "
+soprattutto inteso quale nuovo urgente
+sollecito all'attenzione del magistrato inquirente
+", evidenzia come
+nulla di sostanziale sia più successo nell'istruttoria dopo la menzionata
+decisione 30 luglio 1999 di questo giudice, __________ essendo stato
+interrogato una sola volta (il 17 novembre 1999) in modo sbrigativo e lacunoso,
+in pratica senza nessuna contestazione, mentre il denunciato ha già beneficiato
+della prescrizione per un reato commesso ed ha avuto modo di operare attraverso
+"
+sue imprese collaterali
+", nel frattempo fallite;
+-
+per la reclamante allora è stato violato il principio della celerità in
+un procedimento da condurre d'ufficio, senza necessità di sollecitazioni di
+parte, con la conseguenza di solo vantaggi per il denunciato e maggiori
+difficoltà per i danneggiati di ottenere soddisfazione;
+-
+nelle sue osservazioni al reclamo, la Procuratrice pubblica considera
+irrilevanti ed ininfluenti i rilievi circa l'emanazione di non luoghi a
+procedere in altri procedimenti, i riferimenti a pretese attività collaterali
+di __________ e le eccezioni su di un interrogatorio (al quale la parte civile,
+pure avvertita, non ha partecipato), per ribadire poi di non aver ricevuto
+sollecitazioni da parte della reclamante e di aver peraltro dovuto "
+dare
+la precedenza ad inchieste che vedevano coinvolte persone in stato di detenzione
+",
+in conclusione rimettendosi al giudizio di questa sede;
+-
+dagli atti processuali, dopo la decisione 30 luglio 1999, emergono sul
+seguito dell'inchiesta i seguenti scarni dati: con lettera 6 settembre 1999, la
+reclamante ha chiesto di dare celere seguito al procedimento; il 26 settembre
+1999, la magistrata inquirente ha staccato le citazioni per l'interrogatorio
+del 17 novembre 1999 di __________; in effetti il denunciato è stato
+interrogato in tale data, alla presenza del suo patrocinatore e del perito
+contabile ed in assenza dei rappresentanti delle parti civili; il 2 marzo 2000,
+copia del verbale è stata inviata alla reclamante, come a sua richiesta; il 6
+marzo, 23 maggio e 14 giugno 2000 la reclamante ha inviato alla Procuratrice
+pubblica fotocopie di estratti del FUSC rispettivamente del FU, senza
+particolari osservazioni;
+-
+in questa situazione, con l'evidenza dei precedenti interventi di questo
+giudice, non si può fare semplice capo ad assenza di concrete sollecitazioni
+della parte civile per dedurne giustificazione all'oggettiva lentezza del
+procedere: in effetti, ed al di là della massima officiale, la reclamante ha
+dimostrato direttamente (con il gravame dello scorso anno e con la citata
+lettera del 6 settembre 1999) ed implicitamente (con l'invio di estratti
+societari concernenti il denunciato) di avere interesse al procedimento, per
+cui si è avverato ritardo corrispondente a ritardata giustizia, anche se
+comprensibile per il notorio aggravio delle autorità inquirenti e per l'obbligo
+di dare priorità alle fattispecie con accusati in arresto preventivo (art. 176
+cpv. 3 CPP);
+-
+esulano per contro dal presente contesto le altre censure contenute nel
+reclamo ed in particolare quella sui contenuti dell'interrogatorio 17 novembre
+1999 di __________, censura in quest'ultimo caso viziata dalla mancata presenza
+e partecipazione e d'altro canto alquanto tardiva;
+-
+il reclamo è conseguentemente accolto nella sua domanda conclusiva, con
+invito alla Procuratrice pubblica a procedere con la dovuta celerità nel
+procedimento in oggetto: non si percepiscono né tassa né spese giudiziarie,
+la reclamante avendo per contro diritto a ripetibili commisurate all'impegno
+necessario per sostenere la sostanza del reclamo, escluse non pertinenti
+eccezioni (art. 9 cpv. 6 CPP);
+visti gli art. 280 ss. CPP,
+decide:
+1.
+Il reclamo è accolto come ai considerandi.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Lo Stato rifonderà alla reclamante fr. 250.- a titolo di ripetibili.
+4.
+La presente decisione è definitiva.
+5.
+Intimazione:
+-
+avv. __________, per sé e per la reclamante (con copia delle
+osservazioni della magistrata inquirente);
+-
+Procuratrice pubblica avv. __________ (con l'incarto 1274/1999 di
+ritorno).
+giudice __________
