@@ -1,0 +1,212 @@
+---
+decision_id: "ti_gerichte_INC.2000.19005"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.19005"
+decided: "2000-11-24"
+published: "2000-12-13"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=57103&nX40_KEY=4711458&nTrefferzeile=5&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-197.md"]
+---
+
+# TI Gerichte INC.2000.19005
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 13.12.2000 INC.2000.19005
+Tessin Il Giudice dell'istruzione e dell'arresto 13.12.2000 INC.2000.19005
+Ticino Il Giudice dell'istruzione e dell'arresto 13.12.2000 INC.2000.19005
+
+Sentenza o decisione senza scheda
+
+N. 190.2000.5 L                                                         Lugano,
+13 dicembre 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull’istanza
+presentata il 6 dicembre 2000 dalla
+Procuratrice pubblica
+dott. __________,
+intesa ad ottenere la proroga di
+due mesi del carcere preventivo cui è astretto
+__________
+,
+attualmente presso il Penitenziario cantonale
+(patrocinato dall’avv.
+__________)
+nel procedimento pendente contro
+quest’ultimo per titolo di atti sessuali con fanciulli ed altri reati;
+viste le osservazioni 13 (recte
+12) dicembre 2000 dell’accusato, che postulano la reiezione dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+__________ è stato arrestato il 23 marzo 2000, con contestuale
+promozione nei suoi confronti dell'accusa per titolo di atti sessuali con
+fanciulli e violazione del dovere d'assistenza o educazione (v. doc. _
+dell'inc. MP 2001/2000): con decreto del 24 novembre 2000, l'accusa è stata
+estesa ai reati di coazione sessuale e atti sessuali con persone dipendenti (v.
+doc. _);
+-
+questo giudice, oltre alla conferma dell'arresto, ebbe già ad occuparsi
+della privazione della libertà personale dell'accusato con la decisione 15
+settembre 2000 di concessione di una prima proroga del carcere preventivo (inc.
+GIAR 190.2000.3) e con la decisione 11 dicembre 2000 di rifiuto della libertà
+provvisoria (inc. GIAR 190.2000.4);
+-
+la fattispecie inquisita ed i connessi accertamenti non essendo stati discussi
+dall'accusato, se ne può riproporre il seguente riassunto di massima, dal quale
+appare che __________ (v. le citate pregresse decisioni):
+"… è in particolare ritenuto colpevole di abusi
+di ordine sessuale in danno delle figlie __________, nata il __________ 1975, e
+__________, nata il __________ 1980 e deceduta il __________ 2000, come alle
+dichiarazioni dirette della prima e a quanto riferito dalla seconda a
+famigliari, docenti, operatori sociali e altri conoscenti, anche circa
+ammissioni loro fatte dall'accusato stesso: in istruttoria tuttavia __________
+ha negato di aver mai avuto attenzioni o atteggiamenti riprovevoli nei
+confronti di __________ ed ha respinto i rimproveri più pesanti di atti
+sessuali completi con +__________, per ammettere in ogni modo - nei confronti
+di quest'ultima - toccamenti e carezze di dubbia innocenza ed un turpe episodio
+di contemporanea presenza nel letto coniugale completamente nudi dei coniugi e
+della figlia, alla quale era stato preventivamente ed a quegli scopi somministrato
+del sonnifero";
+- la Procuratrice pubblica
+postula una proroga di due mesi del carcere preventivo per la conclusione
+dell'istruzione formale, con l'esito del deposito degli atti (disposto con
+ordinanza del 4 dicembre 2000, con termine scadente il 21 dicembre 2000, doc.
+_) e degli eventuali complementi di prova, argomentando che (v. decisione 11
+dicembre 2000):
+"la situazione non è mutata dal momento della
+concessione della prima proroga, per quanto concerne l'esistenza di gravi e
+concreti indizi di colpevolezza, mentre sussiste pericolo di collusione (ora in
+relazione agli eventuali complementi di prova ed in ogni
+modo sino al dibattimento per gli attuati tentativi di ritrattazione e per
+atteggiamenti collusivi della moglie, coaccusata) ed anche pericolo di
+recidiva, non escluso peritalmente, con l'aggiunta del rispetto del principio
+di proporzionalità in considerazione della gravità degli addebiti, della
+reticenza dell'accusato, delle difficoltà delle indagini e della verosimile
+pena privativa della libertà";
+-
+le osservazioni dell'accusato, dopo aver definito "
+manifestamente
+lacunosa
+" l'istanza di proroga, con difficoltà a "
+contestare
+motivazioni pressoché inesistenti
+" e quindi con sua apparenza di
+"
+ritorsione all'istanza di scarcerazione
+", esclude valenza di
+proporzionalità, gravità dei fatti e prevedibile pena quali presupposti atti a
+sostenere l'istanza in esame e rileva che l'inchiesta "
+condotta con
+professionalità
+" è conclusa per la rinuncia sua e della moglie
+coaccusata (v. lettera 12 dicembre 2000 della patrocinatrice di quest'ultima) a
+proporre complementi di prove, per cui basterà il 21 dicembre 2000 notificare
+la chiusura dell'istruzione formale;
+-
+valgono evidentemente i noti principi di legge (v. decisione 11 dicembre
+2000):
+"come noto, l'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione ed il pericolo di
+recidiva";
+-
+nella situazione personale e processuale di __________ vi è convergenza
+dei menzionati presupposti di legge, come esplicitati ed approfonditi dalla
+prassi e dalla giurisprudenza, a legittimare e giustificare il perdurare della
+cautelare privazione della libertà personale: giova evidenziare, di transenna,
+che l'accusato non ha preso posizione né sulle corrispondenti argomentazioni
+della Procuratrice pubblica né sui conseguenti considerandi della decisione 11
+dicembre 2000, che le ha ritenute sufficienti e pertinenti, di contro ai
+gratuiti apprezzamenti dell'accusato;
+-
+come già in precedenza, in punto agli indizi di colpevolezza basta
+riferirsi a quanto riassunto sopra, senza entrare in particolari di possibile
+inutile pregiudizio, anche in considerazione del silenzio in proposito di
+__________
+nelle osservazioni: certo è in ogni modo che, nei limiti della verisimiglianza,
+le dichiarazioni in atti danno valore alle considerazioni della Procuratrice
+pubblica, con ogni ovvia riserva del giudizio di merito;
+-
+il pericolo di collusione, ritenuto alquanto pacifico nel contesto
+dell'istruttoria e come già sottolineato nella decisione 11 dicembre 2000
+(senza rilievi nelle osservazioni all'istanza), continua ad esistere sino al
+pubblico dibattimento (sentenza della I Corte di diritto pubblico del Tribunale
+federale del 23 marzo 2000 in re S.B., consid. 4a), in una situazione di
+sostanziale divergenza tra i protagonisti, di ritrattazioni e cambiamenti di
+versioni, di particolari legami famigliari e di influenza (disse la dott.ssa
+__________, perita psichiatrica della moglie di __________: "__________
+compiace in tutto il marito. Non ha e non risulta abbia mai avuto alcun limite
+nel compiacerlo. Suoi atteggiamenti collusivi ve ne sono tantissimi …
+",
+verbale 26 settembre 2000, pag. 5);
+-
+rimane peraltro il pericolo di recidiva, come prospettato dal perito
+psichiatrico dott. __________ (referto peritale 31 luglio 2000, pag. 60) a
+proposito della possibilità di ricaduta in comportamenti perlomeno
+sconvenienti: ed anche su questo presupposto non v'è parola nelle osservazioni
+all'istanza di proroga
+-
+__________ e la coaccusata moglie non intendono proporre nuovi mezzi di
+prova come possibile a norma dell'art. 196 CPP, per cui effettivamente
+l'istruzione formale potrebbe essere chiusa il 21 dicembre prossimo, con
+continuazione della carcerazione preventiva secondo quanto disposto dall'art.
+103 CPP: prudenzialmente, come già è stata l'introduzione dell'istanza di
+proroga, questa va decisa positivamente, fermo restando che la Procuratrice
+procederà indilatamente a notificare la chiusura dell'istruttoria secondo
+l'art. 197 CPP, nel rispetto del principio di celerità voluto dagli art. 102
+cpv. 1 e 176 cpv. 3 CPP;
+-
+si ha allora che il carcere preventivo sin qui sofferto e prevedibile
+sino alla conclusione del procedimento è rispettoso del principio di
+proporzionalità, avuto riguardo alla consistenza ed all’ampiezza dei fatti
+rimproverati e da accertare, in un’inchiesta sicuramente complessa per la
+gravità dei fatti inquisiti e per il numero di persone interessate in varie
+vesti;
+-
+di conseguenza l’istanza di proroga del carcere preventivo è accolta
+come proposta dalla magistrata inquirente, con la presente decisione, esente da
+tassa e spese giudiziarie (art. 39 lett. f TG e contrario), e suscettibile di
+impugnazione alla Camera dei ricorsi penali (art. 284 cpv. 1 lett. a CPP);
+per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza è accolta.
+1.1         Di conseguenza il carcere preventivo cui è astretto
+__________ è prorogato sino al 22 febbraio 2001, compreso.
+1.
+Non si percepiscono né tassa né spese giudiziarie.
+2.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+3.
+Intimazione:
+-
+avv. __________, per sé e per l’istante;
+-
+Procuratrice pubblica dott. __________ (con copia delle
+osservazioni dell’accusato e con l'incarto MP 2001/2000 di ritorno);
+-
+Direzione del Penitenziario cantonale, Lugano-Cadro.
+giudice
+__________
