@@ -1,0 +1,288 @@
+---
+decision_id: "ti_gerichte_INC.2001.36903"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.36903"
+decided: "2001-09-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59659&nX40_KEY=4711440&nTrefferzeile=97&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-176.md", "switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-281.md"]
+---
+
+# TI Gerichte INC.2001.36903
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.09.2001 INC.2001.36903
+Tessin Il Giudice dell'istruzione e dell'arresto 28.09.2001 INC.2001.36903
+Ticino Il Giudice dell'istruzione e dell'arresto 28.09.2001 INC.2001.36903
+
+Sentenza o decisione senza scheda
+
+N. 369.2001.3 M                                                        Lugano,
+28 settembre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per
+statuire sul reclamo inoltrato in data 21/22 agosto 2001 da
+__________
+,            __________
+(difeso d’ufficio dal lic. iur.
+__________)
+contro il
+diniego di suo trasferimento al PCT La Stampa, Cadro;
+lette le
+osservazioni 3 settembre 2001 del magistrato inquirente;
+letti ed
+esaminati gli atti formanti l’inc. MP __________;
+ritenuto
+in fatto:
+A.
+__________
+(sedicente) è detenuto dallo scorso 12 luglio 2001 in quanto coinvolto con
+altri in un’inchiesta per traffico di cocaina (v. rapporto d’arresto 12 luglio
+2001, inc. Giar __________ doc. _). È stato sentito il giorno successivo da
+questo giudice, che ha confermato la misura restrittiva della libertà, con
+contestuale intimazione della promozione del’accusa (inc. Giar cit., docc. _
+risp. _).
+B.
+Sin
+dall’inizio dell’istruttoria detenuto alle Carceri pretorili di __________,
+l’accusato reclamante ha inoltrato richiesta di trasferimento al Penitenziario
+cantonale in data 26 luglio 2001 (inc. MP doc. _).
+C.
+Con il
+reclamo in discussione (inc. Giar __________ doc. _), l’accusato lamenta la
+mancata positiva evasione della sua richiesta (loc. cit., pto. 3 p. 3).
+Introdotto da un dotto capitolo in diritto (loc. cit., pto. 4 p. 3-4), egli
+elenca i motivi per i quali ritiene inadatto e dunque illegale il suo regime di
+detenzione (giovane età, mancanza di movimento e di svago, ecc., loc. cit.,
+pto. 4.1 p. 4-6). Nega la pertinenza dell’asserito pericolo di collusione,
+poiché l’organizzazione interna di ogni struttura carceraria dovrebbe prevenire
+tale problema (loc. cit., pto. 4.2 p. 7). Postula da ultimo la restituzione di
+un orologio asseritamente sequestratogli (loc. cit., pto. 4.3 p. 7-8).
+D.
+In sede di
+osservazioni (inc. Giar __________ doc. _), il Procuratore Pubblico evidenzia
+la legittimità della detenzione preventiva del reclamante, in quanto supportata
+dai requisiti di legge ai sensi dell’art. 95 cpv. 2 CPP – in specie gravi
+indizi di colpevolezza, bisogni istruttori, pericolo di collusione e pericolo
+di fuga (loc. cit., pto. 2 p. 2). Il suo atteggiamento negatorio e la
+detenzione di presunti correi negli altri carceri del Cantone concorrono a
+sostanziare in special modo il pericolo di collusione (ibid.), mentre motivi
+organizzativi non permettono di detenere due correi nella medesima struttura,
+non potendosi in tal modo garantire il buon esito dell’inchiesta (loc. cit.,
+pto. 3 p. 2-3). Quanto all’orologio, il magistrato inquirente afferma che
+nessun oggetto di quel genere sarebbe stato sequestrato dagli inquirenti (loc.
+cit., pto. 4 p. 3).
+Considerato
+in diritto:
+1.
+Siccome
+formalmente rivolto contro l’omissione di evasione formale della propria
+richiesta 26 luglio 2001, e poiché l’omissione perdura attualmente, il reclamo
+è tempestivo (art. 281 cpv. 1 CPP). Essendo poi pacificamente data la
+legittimazione del reclamante, in punto alla questione del luogo di
+carcerazione il rimedio è ricevibile in ordine.
+Invece, la
+richiesta di dissequestro dell’orologio è irricevibile in questa sede, mancando
+precedente richiesta all’autorità competente a decidere per prima, ovvero il
+Ministero Pubblico (art. 280 cpv. 1 CPP).
+2.
+a)        Il codice di procedura penale ticinese non definisce il luogo
+di esecuzione della carcerazione preventiva dell’accusato. L’art. 104 CPP
+(Esecuzione dell’arresto) precisa unicamente che l’arrestato è di regola
+separato dai detenuti in espiazione di pena (cpv. 2), mentre l’art. 4 della
+Legge cantonale sull’esecuzione delle pene e delle misure di sicurezza per gli
+adulti (LEPMS) dispone segnatamente che i prevenuti “
+sono assegnati al
+penitenziario: nella sezione denominata carcere giudiziario cantonale
+”. Le
+carceri pretorili - che sono delle sezioni dell’istituto principale (art. 4
+cpv. 1 lit. a LEPMS [Raccolta delle leggi n. 4.2.1.1]) - “
+accolgono [...] i
+prevenuti nella misura dettata dalle esigenze dell’inchiesta e del procedimento
+di istruzione
+” (art. 43 cpv. 1 REPMS [Raccolta delle leggi n. 4.2.1.1.1];
+così,
+verbatim
+, sentenza della Camera dei ricorsi penali 15 febbraio
+1999 in re A.J.W., inc. CRP 60.99.00017, consid. 2 p. 3; v. inoltre sentenza
+CRP 1 settembre 1988 in re A.B., inc. CRP 196/88, consid. 2 p. 4). L’art. 104
+cpv. 3 CPP precisa poi che il prevenuto è sottoposto unicamente alle
+restrizioni della libertà che sono indispensabili per assicurare lo scopo
+dell’arresto e per mantenere la disciplina nelle carceri, mentre l’art. 176
+cpv. 2 CPP sancisce espressamente il principio della proporzionalità nell’esecuzione
+del carcere preventivo (sentenza CRP, loc. cit.). Competente per ordinare le
+condizioni di detenzione durante il carcere preventivo è il Procuratore
+Pubblico (art. 40 cpv. 1 REPMS; sentenza CRP 15 febbraio 1999, cit., consid. 4
+p. 5)(così,
+verbatim
+, decisione 22 marzo 1999 in re E., inc. Giar
+582.98.7, in: Rep. 132 [1999] n. 129 consid. 4a p. 357 s.).
+b)        Si deduce da quanto precede che in realtà, il magistrato
+inquirente non ha la facoltà di decidere autonomamente dove debba essere
+detenuta una persona in stato di arresto: visto che anche le carceri pretorili
+non sono altro che sezioni dell’istituto principale (art. 4 cpv. 1 lit. a
+LEPMS), ogni decisione in proposito spetta all’autorità amministrativa preposta
+alla gestione delle carceri. Di regola, la detenzione preventiva ha luogo
+presso le carceri pretorili, poiché solo queste strutture sono atte a garantire
+l’effettiva ed assoluta segregazione del detenuto da persone con le quali era
+ipotizzabile un pericolo di collusione. Quando il Procuratore Pubblico
+autorizza il trasferimento di un detenuto da un carcere pretorile alla Stampa
+decide, in verità, piuttosto sulle modalità d’esecuzione della detenzione
+preventiva: di fatto, rinuncia consapevolmente alla totale separazione dei vari
+correi, accettando un accresciuto rischio di possibili collusioni.
+c)         Dunque, fino a quando sussiste pericolo di collusione il
+rifiuto (esplicito o implicito) di trasferimento di un detenuto presso la
+struttura della Stampa è di principio lecito.
+d)        Non basta, tuttavia, accertare che una detenzione preventiva
+sia lecita, in termini assoluti, poiché persegue gli scopi previsti dalla
+legge. Come già accennato (
+supra
+consid. 2a in fine), la legittimità di
+una detenzione preventiva dipende anche da un esame di proporzionalità (così
+già nelle decisioni in re W. 21 dicembre 1993 [inc. Giar 977.93.2] e 24
+febbraio 1994 [inc. Giar 977.93.3], riprese da ultimo in decisione 23 agosto
+1999 in re B.A., inc. Giar 368.99.5-7 consid. 7.1 p. 9). La misura è
+proporzionata se le restrizioni imposte al detenuto si giustificano con le
+esigenze che la carcerazione deve soddisfare nel caso specifico: quanto più
+gravose sono le condizioni di detenzione, tanto più marcate dovranno essere
+queste esigenze. Ciò vale anche con riferimento al luogo di detenzione, e
+significa che se le condizioni di detenzione sono inaccettabili, l’autorità
+inquirente deve trovare un’alternativa compatibile con gli standard
+internazionali oppure, al limite, rinunciare alla misura. L’esame va ovviamente
+effettuato di caso in caso, con riferimento alle concrete esigenze, e non può
+basarsi unicamente su opinioni dottrinali (per quanto di peso, come quella
+riportata dal reclamante) o sulle generiche risultanze delle periodiche visite
+del Comitato europeo per la prevenzione della tortura e delle pene o
+trattamenti disumani o degradanti (CPT, v. reclamo, cit., pto. 4 p. 4; si
+tratta dell’organo di monitoraggio istituito dalla Convenzione europea di
+identica denominazione [art. 1], con funzione espressamente consultiva e non di
+condanna, v. pagina web introduttiva, www.coe.int/en/about.htm).
+3.
+Nel caso di
+specie va preliminarmente evidenziato che il reclamante non mette in dubbio che
+siano soddisfatti i presupposti per una sua carcerazione preventiva: in altre
+parole, non nega la liceità della propria carcerazione contestando l’esistenza
+dei requisiti di legge quali i sufficienti indizi di colpevolezza o il concreto
+pericolo di collusione o di fuga. A ragione: gli indizi di colpevolezza già si
+deducono dalle chiamate in correità menzionate dal magistrato inquirente nel
+proprio preavviso (cit., pto. 2 p. 2), il pericolo di fuga è ampiamente
+indiziato dall’assenza di ogni e qualsiasi legame dell’accusato con la
+Svizzera, mentre il pericolo di collusione sussiste in ragione del coinvolgimento
+nei fatti di più correi e dell’atteggiamento più che reticente assunto da
+__________ di fronte agli inquirenti.
+La sua
+critica riguarda unicamente le condizioni nelle quali si svolge la sua
+detenzione preventiva – condizioni atte, secondo lui, a privare la stessa di
+qualsiasi legittimità (v. reclamo, cit., pto. 4 p. 3-4). Ciò equivale a negare
+la proporzionalità della misura ai sensi di quanto detto più sopra (consid.
+2d).
+4.
+a)        Il problema delle condizioni di detenzione nelle carceri
+pretorili è noto all’autorità politica ticinese, tanto che è stata deliberata
+la costruzione di un nuovo carcere giudiziario che dovrebbe almeno parzialmente
+ovviare alle restrizioni cui devono sottostare i detenuti delle odierne carceri
+pretorili. Del pari sono note le critiche espresse a suo tempo dal Comitato
+europeo per la prevenzione della tortura e delle pene o trattamenti disumani o
+degradanti (CPT, v. reclamo, cit., pto. 4 p. 4).
+b)        Per quanto non ottimali, non si può tuttavia affermare che le
+condizioni di detenzione presso le carceri pretorili di __________ siano tali
+da assurgere a trattamento disumano o degradante, rispettivamente addirittura
+attentare alla vita del reclamante: vi passano ogni anno centinaia di persone,
+alcune poche ore, altre settimane o addirittura mesi, e le lamentele sono poche
+e sommesse. A parte l’incontestata impossibilità di trascorrere del tempo
+all’aria aperta, nulla impedisce al reclamante di praticare qualche esercizio
+di ginnastica in cella. Né si capisce da dove egli pretenda dedurre un “diritto
+di godere un po’ di svago” (reclamo, cit., pto. 4.1 p. 5), o in quale rapporto
+con le modalità di detenzione stia il fatto che egli non abbia parenti o
+conoscenti
+in loco
+(ibid.). L’apocalittica descrizione delle condizioni
+di detenzione, oltretutto, non tiene in considerazione che il reclamante – come
+d’altronde tutti i detenuti – è sotto costante controllo medico: se davvero il
+regime di detenzione fosse (stato) di serio pregiudizio per la sua salute,
+sarebbe stato disposto il suo trasferimento in struttura sanitaria debitamente
+attrezzata – ciò che, tuttavia, non è avvenuto benché egli sia stato visitato
+(v. reclamo, cit., pto. 2 p. 3; v. in tema anche la decisione 23 agosto 1999 in
+re B.A., inc. Giar __________ consid. 7.2 p. 10 s.).
+c)         Il lasso di tempo da lui trascorso presso la struttura
+carceraria in discussione – più di due mesi – è, in termini assoluti, non del
+tutto irrilevante (sebbene c’è chi vi è rimasto anche quasi un anno, con il
+beneplacito di questo Ufficio, v. decisione 20 gennaio 1995 in re IB., inc.
+Giar 1066.95.5); appare tuttavia ampiamente giustificato dal fatto che le altre
+strutture carcerarie ospitano i suoi correi, nei confronti dei quali sussiste
+il già discusso, grave pericolo di collusione (
+supra
+, consid. 3).
+Inoltre, non va dimenticato che è proprio l’atteggiamento negatorio ad oltranza
+del reclamante, anche a fronte di precise e circostanziate accuse, a motivare
+il grave pericolo di collusione, a sua volta causa del mancato trasferimento
+alla Stampa: è lui la vera causa del suo male. Il diritto di non rispondere ai
+sensi dell’art. 118 cpv. 2 CPP (e, in esso incluso, il diritto di raccontare
+menzogne), per quanto intoccabile, non esime chi intende avvalersene
+dall’assumersi le conseguenze del caso. La mancata concessione di condizioni
+detentive più favorevoli (quali il trasferimento alla Stampa) all’accusato il
+cui comportamento indizia serio pericolo di collusione non deve essere vista
+quale misura di ritorsione, ma è semplicemente conseguenza logica del suo atteggiamento,
+inevitabile a tutela delle necessità d’inchiesta. Quanto al tentativo
+dell’accusato di relativizzare la portata delle sue ammissioni facendole
+derivare dalle pressioni subite ad opera del verbalizzante e dell’interprete
+(loc. cit., p. 6), esso non va commentato in questa sede: si tratta di una
+valutazione di merito sulla credibilità di una prova assunta – valutazione che
+starà alla Corte di merito operare. Ci si limita qui a rendere attenta la
+difesa che si tratta di un’accusa estremamente grave, poiché mette in
+discussione l’integrità e la professionalità dell’agente verbalizzante e
+dell’interprete, ed a ricordarle che potrà essere chiamata a rendere conto di
+tali accuse.
+d)        Ciò detto, va nondimeno rilevato che l’istruttoria che vede
+coinvolto, fra altri, anche il qui reclamante riguarda un traffico di
+stupefacenti di dimensioni non stratosferiche. Proprio nell’ottica della
+proporzionalità, allora, l’ulteriore detenzione del reclamante a __________
+potrà apparire giustificata unicamente nella misura in cui ciò fosse
+assolutamente necessario per risolvere le ultime, gravi contraddizioni che
+dovessero sussistere fra le dichiarazioni dei numerosi correi. Inoltre, proprio
+in considerazione del lungo tempo trascorso a __________ da __________, in caso
+di ulteriore sussistenza di pericolo di collusione il magistrato inquirente
+prenderà in considerazione la possibilità di chiedere all’autorità
+amministrativa (senza facoltà di imporre) una rotazione del reclamante con
+persone detenute altrove.
+5.
+Nella misura
+in cui sia ricevibile, il reclamo si appalesa infondato e deve essere respinto.
+Anche se non scaturente direttamente da una domanda di libertà provvisoria,
+questa decisione è in tema di libertà personale: contro di essa è dunque dato
+il rimedio del ricorso alla Camera dei ricorsi penali del Tribunale di appello,
+da inoltrarsi entro dieci giorni dall’intimazione. Per la stessa ragione, non
+si prelevano tassa né spese di giudizio (v. decisione 20 gennaio 1995 in re B.,
+inc. Giar __________ consid. 10).
+Per i quali motivi
+in
+applicazione delle norme menzionate
+d e c i d e :
+1.
+In
+quanto ammissibile, il reclamo è respinto.
+2.
+Non
+si prelevano né tassa né spese di giudizio.
+3.
+Contro
+la presente decisione è dato il rimedio del ricorso alla Camera dei ricorsi penali
+del Tribunale di appello entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+-    lic.
+iur. __________, per sé e per il reclamante, con copia delle osservazioni del
+magistrato inquirente;
+-    Procuratore Pubblico avv. __________, con
+l’inc. MP __________ di ritorno.
+giudice __________
