@@ -1,0 +1,193 @@
+---
+decision_id: "ti_gerichte_INC.2002.2704"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.2704"
+decided: "2002-03-06"
+published: "2002-05-03"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59543&nX40_KEY=4711427&nTrefferzeile=39&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.2002.2704
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 03.05.2002 INC.2002.2704
+Tessin Il Giudice dell'istruzione e dell'arresto 03.05.2002 INC.2002.2704
+Ticino Il Giudice dell'istruzione e dell'arresto 03.05.2002 INC.2002.2704
+
+Sentenza o decisione senza scheda
+
+N. 27.2002.4 L                                                           Lugano,
+3 maggio 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 26/29 aprile 2002 da
+____________
+,
+attualmente presso il Penitenziario cantonale
+(patrocinata dall'avv__________)
+e qui trasmessa con preavviso
+negativo il 2 maggio 2002 dal
+Procuratore pubblico
+avv. __________;
+viste le osservazioni 3 maggio
+2002 dell'accusata, che propone la cauzione di fr. 150'000.- per l'ottenimento
+della libertà provvisoria;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che
+-
+____________ è stata arrestata il 16 gennaio 2002, con contestuale
+promozione dell'accusa nei suoi confronti per titolo di appropriazione
+indebita, truffa, amministrazione infedele e falsità in documenti, in
+particolare in danno di __________: questo giudice, oltre ad aver confermato
+l'arresto dell'accusata all'udienza del 17 gennaio 2002, ebbe a respingere la
+prima istanza di libertà provvisoria del 26 febbraio 2002 con decisione del 6
+marzo 2002 (inc. GIAR 27.2002.2), dedotta alla Camera dei
+ricorsi penali, che l'ha tutelata con sentenza 28 marzo 2002 (CRP 60.2002.91),
+ed una seconda analoga istanza del 17 aprile 2002 con decisione 22 aprile 2002
+(inc. GIAR 27.2002.3), che sino ad oggi non risulta essere stata impugnata, per
+cui a questi giudizi anche ampiamente vicini nel tempo si può fare sicuro
+riferimento in questa nuova simile pendenza;
+-
+ora, con l'istanza in oggetto, ____________ si limita a chiedere di
+essere "
+liberata su cauzione in attesa del giudizio
+",
+lasciando al magistrato inquirente di valutarne l'importo: tutto qui, con buona
+pace dell'obbligo di motivazione di istanze e reclami;
+-
+di rimando, il Procuratore pubblico esprime preavviso negativo,
+fondandosi sui precedenti menzionati giudizi, per concludere che non vi è
+spazio a libertà su cauzione (neppure quantificata), con l'aggiunta della
+prossima chiusura dell'istruzione formale;
+-
+solo con le osservazioni al reclamo viene proposto il versamento di una
+cauzione di fr. 150'000.-, "
+importo rilevante
+" ottenuto da
+famigliari, tale da corrispondere alla sostanza dei precedenti giudizi della
+Camera dei ricorsi penali e di questo giudice;
+-
+in diritto vale quanto già esposto in particolare nella decisione 6
+marzo 2002:
+Come al dettato di legge ed a giurisprudenza (REP
+1998, pag. 333 ss.), l'art. 95 CPP - corrispondente all’art. 33 scaturito dalla
+revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo evidenza al cpv.
+1 del principio secondo cui l'accusato si trova di regola in libertà, consente
+al cpv. 2 arresto, perdurare e (poi, se del caso) proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell'istruzione, nella specie del pericolo di
+collusione, ed eventualmente quello di fuga (senza dimenticare che l’arresto,
+quale misura processuale cautelativa, non serve unicamente ai bisogni
+dell’istruttoria, ma anche ad assicurare la presenza dell’accusato al processo
+e a garantire l’eventuale espiazione della pena: DTF 109 Ia 323 consid c, e
+riferimenti; sentenza 16 novembre 1993 del Tribunale federale in re A.H.,
+1P.477/1993, consid. 3).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128).
+-
+pure per quanto concerne gli indizi di colpevolezza, è di attualità
+quanto considerato in precedenza, con semplice rinvio alle pregresse decisioni,
+anche perché il tema non è qui ripreso dall'istante;
+-
+non apparendo più preminente il pericolo di collusione, per la
+conclusione dell'attività istruttoria da parte del Procuratore pubblico, rimane
+quello di fuga, che ha avuto il seguente apprezzamento nella decisione 22
+aprile 2002:
+Nella decisione 6 marzo 2002, questo giudice non si
+era soffermato più di quel tanto sull'esistenza del pericolo di fuga, in quanto
+a quel momento comunque superato da accertato pericolo di collusione, con cenno
+a possibile suo superamento attraverso "
+congrua prestazione di cauzione
+".
+Di diversa opinione fu poi la Camera dei ricorsi
+penali, con la sentenza 28 marzo 2002, per le seguenti considerazioni:
+"Nella fattispecie vi è evidentemente un concreto
+e grave pericolo di fuga. ____________ è infatti cittadina italiana, ivi
+domiciliata, senza alcun particolare legame con la Svizzera. La figlia vive in
+Italia.
+In queste circostanze l'accusata non ha evidentemente
+alcun interesse a rimanere a disposizione delle autorità inquirenti elvetiche,
+nella prospettiva, in caso di condanna, di una grave sanzione penale.
+La dichiarata disponibilità della ricorrente a
+rimanere a disposizione delle autorità inquirenti non è certo sufficiente per
+ovviare il pericolo di fuga, ritenuto che gli altri elementi sopra indicati
+confortano l'alta verosimiglianza di tale rischio."
+con l'aggiunta che
+"… una cauzione di soli fr. 25'0000.--, come
+proposto dalla ricorrente, sarebbe comunque improponibile, in quanto
+sproporzionata rispetto alla gravità dei reati ed al concreto rischio di
+fuga."
+Questi argomenti hanno tuttora validità, anche per
+l'approssimarsi della conclusione del procedimento con il giudizio di merito e
+l'eventualità di un'importante sanzione privativa della libertà, senza spazio
+per l'apprezzamento di una cauzione, che neppure l'accusata istante propone e
+giustifica al di là di quella indicata in passato e come visto considerata
+assolutamente insufficiente.
+-
+l'istanza non ha fornito indicazioni sulla possibile entità della
+cauzione, per cui non è stato possibile al Procuratore pubblico trarre concrete
+valutazioni di corrispondenza con salvaguardia da pericolo di fuga: ora vi è
+l'offerta dell'importo di fr. 150'000.-, senza altri particolari riscontri, per
+cui non è dato a questo giudice di trarre conveniente valutazione e neppure (a
+ragione dei ristretti termini per decidere sull'istanza) di interpellare il
+magistrato inquirente, al quale pertanto l'offerta è devoluta per la sua
+decisione di prima istanza;
+-
+anche preso atto della prossima chiusura
+dell'istruzione formale (v. il decreto di deposito degli atti a norma dell'art.
+196 CPP, sino al 9 maggio 2002), il carcere preventivo sin qui sofferto, in un
+procedimento che ha presentato difficoltà di indagini e di approcci personali,
+risulta rispettoso del principio di proporzionalità;
+-
+l'istanza, di per sé irricevibile per assenza di
+motivazione, è così respinta con la presente decisione, esente da tassa e spese
+giudiziarie (art. 39 lett. f TG e contrario) e suscettibile di impugnazione
+alla Camera dei ricorsi penali (art. 284 cpv. 1 lett. a CPP).
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria, di per sé irricevibile, è respinta.
+2.
+Sull'offerta di cauzione deciderà il Procuratore pubblico.
+3.
+Non si percepiscono né tassa né spese giudiziarie.
+4.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+5.
+Intimazione:
+-    avv. __________, per sé e per l’accusata istante;
+-    Procuratore pubblico avv. __________, sede (con copia
+delle osservazioni dell’istante).
+giudice
+__________
