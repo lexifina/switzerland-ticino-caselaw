@@ -1,0 +1,69 @@
+---
+decision_id: "ti_gerichte_INC.2000.46104"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.46104"
+decided: "2001-04-17"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59752&nX40_KEY=4711450&nTrefferzeile=60&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2000.46104
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 17.04.2001 INC.2000.46104
+Tessin Il Giudice dell'istruzione e dell'arresto 17.04.2001 INC.2000.46104
+Ticino Il Giudice dell'istruzione e dell'arresto 17.04.2001 INC.2000.46104
+
+Sentenza o decisione senza scheda
+
+N. 461.2000.4 L                                                         Lugano,
+17 aprile 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato personalmente il 30 marzo 2001 da
+__________
+,                        attualmente
+presso il Penitenziario cantonale
+nel procedimento pendente contro
+di lui per titolo di mancato assassinio ed altri reati;
+preso atto della comunicazione 12
+aprile 2001 dell'avv. __________, patrocinatore del reclamante, che precisa il
+senso dell'interpellazione del signor __________ quale semplice informazione
+sugli sviluppi dell'inchiesta nelle eventuali viste "
+di ulteriore
+richiesta di proroga del carcere preventivo
+", senza alcuna valenza di
+gravame per denegata giustizia;
+considerato quindi l'assenza di
+sostanziale pendenza presso questo giudice, che vuole stralcio del presunto
+reclamo, senza seguito di spese giudiziarie;
+visti gli art. 66 cpv. 4 e 280
+ss. CPP,
+decide:
+1.
+La pendenza conseguente alla lettera 30 marzo 2001 di __________ è stralciata
+dai ruoli.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Intimazione:
+-
+__________;
+-
+avv. __________;
+-
+Procuratrice pubblica dott. __________ (con fotocopia
+dell'intervento 30 marzo 2001 dell'accusato e della lettera 12 aprile 2001 del
+suo patrocinatore).
+giudice
+__________
