@@ -1,0 +1,246 @@
+---
+decision_id: "ti_gerichte_INC.2004.25804"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.25804"
+decided: "2004-11-10"
+published: "2004-11-10"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=37135&nX40_KEY=4711293&nTrefferzeile=28&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2004.25804
+
+## Regeste
+
+Proroga carcerazione in vista di allontanamento
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 10.11.2004 INC.2004.25804
+Tessin Il Giudice dell'istruzione e dell'arresto 10.11.2004 INC.2004.25804
+Ticino Il Giudice dell'istruzione e dell'arresto 10.11.2004 INC.2004.25804
+
+Proroga carcerazione in vista di allontanamento
+
+Incarto n.
+INC.2004.25804
+Lugano
+10 novembre 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire sull’istanza/decisione del 21 ottobre
+2004 della
+Sezione dei permessi e dell'immigrazione
+,
+relativa alla (seconda) proroga della carcerazione in
+vista di allontanamento cui è astretto
+_ACCU1 __________
+(rappr. dall' ___________DIFU1 __________)
+viste le osservazioni del
+patrocinatore della persona incarcerata (4/5 novembre 2004);
+visti gli inc. GIAR
+258.2004.1/2/3/4;
+ritenuto e considerato
+in fatto ed in
+diritto
+1.
+_________ è stato incarcerato l'11
+maggio 2004, a seguito di decisione del 6 maggio 2004 della SPI (artt. 13b e
+13f LDDS), allo scopo di garantire l'allontanamento (doc. 1 inc. GIAR
+258.2004.1). __________ è stato sentito lo stesso giorno da questo giudice che
+ha confermato legalità ed adeguatezza della carcerazione (doc. 2 inc.
+258.2004.1).
+Con decisione del 15 luglio 2004,
+la SPI ha ordinato la proroga di tre mesi della carcerazione in vista
+dell'allontanamento, cui è astretto ______; la proroga è stata confermata da
+questo giudice (fino all'11 novembre compreso) con decisione del 3 agosto 2004
+(doc. 5, inc. GIAR 258.2004.3).
+2.
+Con ulteriore decisione dl 21
+ottobre 2004, la SPI ha deciso una ulteriore proroga della carcerazione, questa
+volta di due mesi. A motivazione della decisione indica le ripetute richieste
+(10 e 30 settembre, nonché 18 ottobre 2004) indirizzate all'UFR ai fini di un
+costante sostegno per l'allontanamento e la persistenza di _____ a non
+adoperarsi per l'ottenimento dei documenti e celare la sua vera origine
+impedendo così all'autorità preposta di provvedere all'ottenimento di un
+documento di viaggio. Tale atteggiamento sarebbe stato ancora manifestato
+durante un colloquio telefonico tra __________ e un funzionario del DFGP (cfr. doc.
+2, inc. GIAR 258.2004.4).
+3.
+In sede di osservazioni, il
+patrocinatore di __________ si oppone alla proroga. Segnala lo stato di salute
+precario della persona incarcerata contesta l'assenza di collaborazione e
+chiede se un solo colloquio telefonico in sei mesi d'incarcerazione soddisfi le
+esigenze dell'art. 13b LDDS (doc. 5, inc. GIAR 258.2004.4).
+4.
+Per i fatti essenziali e le
+conclusioni in diritto, si può innanzitutto far capo a quanto detto nella
+precedente decisione:
+"
+4.
+La decisione di questo giudice che accertava legalità
+ed adeguatezza della carcerazione, si fondava su di una serie di riscontri che
+indicavano come lo straniero non avesse intenzione di lasciar la Svizzera e
+come egli aveva violato il suo obbligo di collaborazione, fornendo
+(verosimilmente) false generalità.
+Infatti, dalla documentazione che chiedeva conferma
+della carcerazione emergeva che a __________ non risultano risiedere le persone
+da lui indicate quali genitori, che non conosce i quartieri di quella cittadina
+e non conosce l'ucraino, bensì il russo ed il moldavo. Egli ha, inoltre,
+affermato di aver cercato di recuperare il passaporto che si troverebbe presso
+i genitori; anche volendo prescindere da quanto appena detto circa il luogo di
+residenza (indicato) dei genitori stessi, non ha in alcun modo documentato o
+reso verosimile il suo dire. Da ultimo, ancora davanti a questo giudice, ha
+manifestato poco interesse (per non dire altro) per un rientro in patria (doc.
+1 e 2, inc. GIAR 258.2004.1).
+5.
+La decisione sull’eventle proroga della carcerazione in
+vista dell’esecuzione dell’allontanamento esige ovviamente un esame volto a
+determinare se i motivi che avevano condotto all’originaria decisione di incarcerazione
+mantengano ancora la propria validità.
+Inoltre, la concessione di una proroga della
+carcerazione esige la presenza di “
+particolari ostacoli [...] all’esecuzione
+dell’allontanamento o dell’espulsione
+” (art. 13b cpv. 2 LDDS). Sono
+considerati tali il rifiuto dello straniero di collaborare, per quanto
+ragionevolmente esigibile, ai preparativi per la sua partenza, la durata
+eccezionalmente lunga della procedura di ottenimento dei documenti di viaggio,
+ma anche ragioni tecniche a carattere provvisorio (v.
+Nicolas Wizard
+,
+Les renvois et leur exécution en droit des étrangers et en droit d’asile, tesi
+di dottorato dell’Università di Ginevra, Basilea/Francoforte sul Reno 1997,
+pto. 3.3.4.1.2 p. 294 s.).
+6.
+Nel caso in esame, è evidente che l'allontanamento non
+è ancora (stato) possibile per la mancata collaborazione della persona
+interessata. L'esame LINGUA sebbene non ancora definitivo, sembrerebbe indicare
+cittadinanza moldava (scritto 14.07.2004 UFR) a conferma dei dubbi precedenti,
+basati comunque anche su altri elementi (non individzione dei genitori in base
+ai dati indicati e non conoscenza della città). Il fatto che il padre sia di origini
+moldave non dovrebbe giustificare più di tanto la non conoscenza della lingua
+del luogo dove si è nati e cresciuti, ma soprattutto non giustifica la non
+conoscenza dei luoghi e il mancato riscontro della residenza dei genitori.
+Non da ultimo, lo stesso __________ avrebbe dichiarato
+al funzionario UFR di non intendere collaborare.
+7.
+Nulla emerge dall'incarto a sostegno dell'affermazione
+della difesa secondo cui l'autorità preposta non avrebbe fatto quanto in suo
+potere per permettere l'ottenimento dei documenti di viaggio. Al contrario, è
+manifesto come sia il comportamento del resistente (peraltro dichiarato) a
+impedire il corretto rientro. Con l'introduzione dell'art. 13f LDDS e la
+modifica dell'art. 13b cpv. 1 lett. c. il legislatore ha inteso sottolineare
+ulteriormente l'importanza della collaborazione dello straniero (ed un suo
+dovere in tal senso) dandole un peso notevole anche per quanto concerne la
+privazione della libertà: la mancata collaborazione diventa indizio di pericolo
+di latitanza (FF 2003, pag. 4993).
+8.
+In conclusione, i motivi per la carcerazione sono
+ancora dati. Decisiva diviene dunque una valutazione della protrazione
+richiesta nell’ottica della proporzionalità.
+Se si considerano i motivi primi della (originaria)
+incarcerazione, la non positiva evoluzione dell’atteggiamento dello straniero
+nei trascorsi mesi di carcerazione, l’esistenza di particolari difficoltà per
+l’ottenimento dei documenti di viaggio non imputabili alle autorità svizzere,
+bensì allo straniero stesso, la protrazione ha da considerarsi
+giustificata."
+(sentenza 3
+agosto 2004, GIAR 258.2004.3)
+5.
+Nel periodo di proroga,
+l'autorità cantonale ha sollecitato più volte la Divisione rimpatrio dell'UFR,
+ai fini dell'organizzazione del rimpatrio stesso (doc. 2, inc. GIAR
+258.2004.4). Questo ufficio ha comunicato l'impossibilità di procedere ad un rimpatrio
+in __________ dato che tutto indica altra nazionalità e l'ottenimento dei
+documenti di viaggio implica la corretta identificazione della persona da
+allontanare che, nel caso specifico si rifiuta di collaborare in merito,
+rispettivamente persite ad affermare l'identità già dichiarata e che non ha
+trovato riscontri positivi.
+In questa situazione è difficile
+rimproverare all'autorità amministrativa una violazione dei suoi obblighi ex
+art. 13b cpv. 3 LDDS. È altrettanto difficile ipotizzare una sorta di ostruzionismo
+da parte delle autorità ucraine in quanto la non conoscenza dei luoghi e della
+lingua è accertabile (e accertata) dall'autorità elvetica e comunque __________
+non ha fornito alcun elemento oltre per permettere il raggiungimento e
+l'identificazione dei genitori che vivrebbero ma che le autorità di quel paese
+dichiarano non residenti. L'assenza di collaborazione sembra, quindi, tuttora
+presente e con essa, uno dei motivi atti a giustificare la carcerazione (art.
+13b cpv. 1 lett. c. LDDS; DTF 122 II 51).
+6.
+Di principio la carcerazione non
+risponde più a criterio di proporzionalità se l'allontanamento è impossibile o
+non ragionevolmente prevedibile entro il termine di detenzione (art. 5 cifra 1
+CEDU; art. 13c cpv. 5 lett. a LDDS).
+Nel caso in esame, il problema
+potrebbe porsi proprio in questi termini, vista la difficoltà oggettiva per
+l'autorità di procurare un documento di viaggio.
+Tuttavia:
+"
+Mais, inversement,
+les mesures de contrainte ne sont pas inadmissibles du seul fait que le renvoi est
+difficile parce que l'étranger ne collabore pas aux démarches voulues pour
+obtenir les papiers nécessaires au retour dans son pays d'origine (pour autant
+bien entendu qu'il existe une cause di détention). Cette considération vaut
+nottament pour les étrangers qui s'opposent par tous moyens à leur renvoi, en
+cachant ou en détruisant leurs papiers d'identité et en cherchant à égarer les
+autorités par des déclarations inexactes sur leur identité et leur origine. En
+effet, les mesures de contrainte doivent également permettre le renvoi de
+telles personnes. Sinon, un prime injustifiée serait donnée au étrangers que la
+loi voulait tout particulièrement viser"
+(A.
+Wurzburger, La jurispruce récente du TF en matière de police des étrangers, in
+Revue Genevoise de Droit Public, 1997, pag. 330)
+La recente
+modifica dell'art. 13b cpv. 1 lett. c. LDDS), rafforza questo tipo di
+considerazioni, contenute anche in DTF 129 II 59.
+Nel caso in
+esame, non va dimenticato che oltre al (fondato) sospetto di aver fornito falsa
+identità, __________ ha affermato che i suoi documenti d'identità sono presso i
+genitori (ancora davanti a questo giudice l'11 maggio 2004; cfr. verbale GIAR,
+pag. 3) e che già il 9 febbraio 2004 (verbale di polizia) ha affermato di
+volersi mettere in contatto personalmente con un amico (di cui si è rifiutato
+di fornire dati e numero di telefono) per chiedere la trasmissione del
+passaporto (verbale polizia 9 febbraio 2004). Quindi egli ha affermato di avere
+il passaporto, di sapere dove si trova, di essere in grado in qualche modo di
+farselo inviare ma nulla di tutto questo è stato fatto, né sono state fornite
+all'autorità le necessarie indicazioni perché possano provvedere loro.
+La proroga è,
+quindi, ancora rispettosa del principio di proporzionalità.
+7.
+In conclusione, i motivi per la
+carcerazione sono ancora dati.
+Se si
+considerano i motivi primi della (originaria) incarcerazione, la non positiva
+evoluzione dell’atteggiamento dello straniero nei trascorsi mesi di
+carcerazione, l’esistenza di particolari difficoltà per l’ottenimento dei
+documenti di viaggio non imputabili alle autorità svizzere, bensì allo
+straniero stesso, la protrazione ha da considerarsi giustificata.
+Per i qli motivi,
+visti i menzionati articoli di
+legge
+decide:
+1.  La decisione/istanza 21 ottobre
+2004 di proroga della carcerazione in attesa di          allontanamento cui è
+astretto __________ è accolta.
+Di
+conseguenza, la carcerazione ai fini di allontanamento cui è astretto
+__________
+è prorogata di due (2) mesi e verrà a scadere il giorno 11
+gennaio 2005,      compreso.
+2.
+Non
+si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è data facoltà di ricorso al Tribunale
+cantonale amministrativo entro 15 (quindici) giorni dall’intimazione.
+4.
+Intimazione (anticipata via fax e raccomandata):
+giudice
+Edy Meli
