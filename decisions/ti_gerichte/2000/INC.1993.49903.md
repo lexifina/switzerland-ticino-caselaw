@@ -1,0 +1,290 @@
+---
+decision_id: "ti_gerichte_INC.1993.49903"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1993.49903"
+decided: "2000-05-02"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56943&nX40_KEY=4711470&nTrefferzeile=38&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-009.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-281.md"]
+---
+
+# TI Gerichte INC.1993.49903
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 02.05.2000 INC.1993.49903
+Tessin Il Giudice dell'istruzione e dell'arresto 02.05.2000 INC.1993.49903
+Ticino Il Giudice dell'istruzione e dell'arresto 02.05.2000 INC.1993.49903
+
+Sentenza o decisione senza scheda
+
+N. 499.93.3 L                                                              Lugano,
+2 maggio 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato il 6 dicembre 1999 da
+__________
+(patrocinato dall'avv.
+__________)
+contro la decisione 23 novembre
+1999 del
+Procuratore pubblico
+__________, che ha respinto complementi di
+prova chiesti dal reclamante nel procedimento penale pendente a suo carico per
+titolo di ricettazione;
+viste le osservazioni 9 dicembre
+1999 del magistrato inquirente e del __________ (parte civile patrocinata
+dall'avv. __________), entrambi concludenti per la reiezione del reclamo;
+letti ed esaminati gli atti;
+ritenuto
+in fatto:
+A.
+__________ venne arrestato il 15
+giugno 1993 (beneficiando poi della libertà provvisoria su cauzione il
+successivo 14 luglio), con contestuale promozione dell'accusa per titolo di
+ricettazione per aver ricevuto un milione di franchi che avrebbe saputo
+illecitamente distratti da __________,
+funzionario dell'allora __________, in danno di questo istituto. Con atto del
+21 maggio 1999 (doc. _ bis dell'inc. MP 4373/1993), il Procuratore pubblico ha
+esteso l'accusa per i titoli di reato di complicità in truffa e ripetuta
+falsità in documenti in relazione con altre ipotesi di malversazioni consumate
+in combutta con lo stesso __________.
+B.
+Il 28 ottobre 1999 il Procuratore
+pubblico ha disposto il deposito degli atti, a norma dell'art. 196 CPP (doc.
+_). Entro il termine a tale scopo prorogato (sino al 22 novembre 1999: v. doc.
+_), __________ ha chiesto:
+-
+il 18 novembre 1999 (doc. _) la correzione del suo verbale del 16
+settembre 1999 dinnanzi al magistrato inquirente ("
+Glieli ho dati a
+contanti senza ricevuta nel 1993
+" e non "
+… dietro
+ricevuta
+", come confermato dalla successiva affermazione di aver
+"
+… fatto il prestito senza contratto scritto e senza garanzia
+");
+-
+il 19 novembre 1999 (doc. _), quale formale complemento istruttorio, il
+confronto tra l'accusato reclamante e __________, senza altra motivazione della
+lapidaria affermazione secondo la quale "
+Questo atto processuale è
+necessario in quanto sino ad oggi i precitati non sono MAI stati uditi insieme
+;
+-
+analogamente ed ancora il 19 novembre 1999 (doc. _), una perizia
+contabile "
+atta a dimostrare la movimentazione sui vari conti bancari,
+oggetto dell'inchiesta
+", sia per insufficienza come tale della
+documentazione annessa al rapporto di polizia, sia per dubbio sulla sua
+neutralità per i contatti tra __________, agenti inquirenti e dirigenti del
+__________.
+Con decisione 23 novembre 1999
+(doc. _), il Procuratore pubblico ha respinto tutte le richieste: la correzione
+del verbale oltre che tradiva, non è ammissibile per le numerose contraddizioni
+dell'accusato, essendo peraltro incomprensibile trarre parallelo tra "
+senza
+ricevuta
+" e "
+senza garanzia
+"; la perizia, mai chiesta
+in lunghi anni, è indifferente all'agire di __________ non direttamente
+interessato dalle specifiche malversazioni di __________, peraltro tutti i
+singoli episodi essendo specificati e sufficientemente documentati (e "
+Transeat
+sugli ingenerosi commenti all'indirizzo dell'ispettore di Polizia e sulla
+collaborazione fornita dai dirigenti della parte civile
+"); il
+confronto tra __________ e __________ è già avvenuto il 16 settembre 1999, tra
+altri presente il patrocinatore del reclamante.
+C.
+Il reclamo in discussione prende
+avvio con la pedissequa ripetizione delle pregresse menzionate istanze e con la
+riproduzione del memoriale prodotto da __________ all'udienza del 16 settembre
+1999, non preso sufficientemente in considerazione dall'autorità inquirente.
+Tenuto conto che il trascorrere del tempo non può essere imputato al
+reclamante, vanno sanate le carenze degli accertamenti contabili al fine di
+compiutamente dimostrare il danno e la perdita patrimoniale. Per finire non
+appare corretto negare a __________ la precisazione di una sua deposizione ed
+il confronto con __________ "
+una volta allestita la perizia cantabile
+[si
+pensa, recte:
+contabile
+]". Vengono così riproposti tutti i mezzi di
+prova respinti dal magistrato inquirente.
+Le osservazioni del Procuratore
+pubblico si limitano alla conferma delle considerazioni della decisione
+impugnata, con implicita domanda di reiezione del reclamo.
+La parte civile, postulando la
+reiezione del reclamo, osservando che la richiesta di perizia non è motivata,
+che il confronto già è avvenuto il 16 settembre 1999 (e "
+… in quella
+sede tuttavia non è stata questione di perizia, di incomprensione su dati
+contabili
+") e che non è data correzione di verbali, libero l'accusato
+di poi ritrattare e così rettificare.
+e considerando
+in diritto:
+1.
+__________ - in quanto
+formalmente accusato - è indubitabilmente legittimato ad impugnare il rifiuto
+del Procuratore pubblico di assumere complementi di prova, non solo per la
+disposizione di massima dell’art. 280 CPP, ma specificamente per quella
+relativa alla completazione dell’istruttoria di cui all’art. 196 cpv. 5 CPP.
+Il reclamo, tempestivo a norma di
+legge (art. 281 cpv. 1 CPP), è allora ricevibile in ordine.
+2.
+Il citato art. 196 CPP consente
+alle parti, una volta conclusa l'istruttoria a giudizio del Procuratore
+pubblico nella sua attività di magistrato inquirente, di formulare istanza di
+complemento di inchiesta, indicando i mezzi di prova da assumere (si veda anche
+REP 1997 n. 107; 1998 n. 122).
+La norma non fa che riprendere -
+e nei successivi capoversi meglio precisare - quanto disposto dall'art. 58 cpv.
+3 CPP/1941 e poi dall’art. 157 CPP/1993 (v. Messaggio aggiuntivo concernente la
+revisione totale del CPP del 20 marzo 1991, pag. 163; Rapporto della
+Commissione speciale del Gran Consiglio del 22 luglio 1992, pag. 67), per cui
+mantiene validità la pregressa giurisprudenza in materia della Camera dei
+ricorsi penali e di questa istanza di reclamo, che sottopone l'ammissibilità
+delle prove così proposte a questo stadio del procedimento a tre concorrenti
+ordini di considerazioni e presupposti: i complementi di prove devono essere
+motivati per quanto attiene al loro oggetto ed al loro scopo in diretta
+connessione con la fattispecie inquisita; tali mezzi di prova devono avere i
+requisiti della novità, della rilevanza e della pertinenza alle successive
+conclusioni del Procuratore pubblico, dopo la definitiva chiusura
+dell'istruttoria dibattimentale, e poi - se ne sarà il caso - del giudice del
+merito; le stesse prove devono essere di difficile produzione all'eventuale
+dibattimento, avute presenti le finalità dell'art. 189 CPP (corrispondente agli
+art. 147 CPP/1941 e 148 CPP/1993), inteso appunto tra altro ad assicurarne in
+tale sede la non interrotta assunzione (v. sentenza 24 gennaio 1990 in re L.P.,
+CRP 337/89; decisioni 17 febbraio 1993 in re L.P., GIAR 135.93.1, 21 agosto
+1996 in re G.C., GIAR 512.96.1).
+Si aggiunge e si ribadisce che i
+mezzi di prova indicati devono essere convenientemente motivati (sentenze 24
+gennaio 1990 in re F.P., CRP 339/89; 29 gennaio 1991 in re G.G., CRP 284/91;
+decisione 9 maggio 1994 in re R.A., GIAR 336.94.1), non spettando al magistrato
+inquirente di chiedere completamento della corrispondente istanza (ad esempio
+per le domande da porre ai testimoni indicati: sentenza 15 maggio 1991 in re
+A.Z., CRP 103/91), e che saranno respinte prove generiche o irrilevanti o
+costituenti un doppione di quelle già assunte (REP 1980 pag. 381).
+3.
+A rigore la richiesta di
+rettifica di un verbale non costituisce mezzo di prova, semmai lo sarebbe
+quella di un nuovo interrogatorio per fornire una nuova versione, come
+pertinentemente osservato dalla parte civile. Comunque quanto postulato in
+proposito è privo di fondamento e per più ragioni:
+-
+all'audizione di __________ da parte del Procuratore pubblico del 16
+settembre 1999 era presente, con altri, il patrocinatore del reclamante ed
+entrambi hanno sottoscritto il verbale, come alla conclusiva formula non solo
+di rito ("
+Letto, approvato e firmato in due copie originali
+");
+-
+anche in corso di audizione vi è stata rilettura di quanto verbalizzato,
+dopo la contestata frase (pag. 8 cpv. 2: "
+Viene riletta la
+verbalizzazione con spiegazioni accessorie dell'avv. __________ al suo cliente
+il quale conferma di aver ben compreso quanto verbalizzato e che ciò
+corrisponde a quanto successo
+";
+-
+come giustamente ha fatto presente il Procuratore pubblico non vi è
+contraddizione tra le due frasi citate dal reclamante, in quanto "
+ricevuta
+"
+e "
+garanzia
+" hanno significati diversi e possono coesistere o
+no;
+-
+non è stato fornito nessun riferimento tale da far apparire la
+contestata messa a verbale quale manifesto errore.
+4.
+Gli altri mezzi di prova ancora
+in discussione sono di certo in relazione con la fattispecie inquisita, ma sono
+privi degli altri requisiti posti dalla giurisprudenza per la loro ammissione e
+segnatamente sufficiente motivazione in uno con pertinenza.
+4.1
+Meraviglia che l'istanza del 19
+novembre 1999 abbia assunto la necessità del confronto tra __________ e
+__________, in quanto prova mai assunta, quando ciò era avvenuto poco più di
+due mesi prima - il 16 settembre 1999 - dinnanzi al Procuratore pubblico ed
+alla presenza dei rispettivi patrocinatori. Non essendo stata fornita altra
+motivazione, la richiesta era d'entrata irricevibile.
+Ora, con nuova parvenza di
+motivazione, il confronto è chiesto siccome da esperire dopo la produzione
+della pure postulata perizia, senza migliore concreta giustificazione. Ciò è
+poco, sicuramente tardivo e semmai - di principio - prematuro: infatti solo
+dopo l'eventuale acquisizione della perizia (e non è comunque qui il caso, per
+quanto si vedrà in appresso), nel contesto del nuovo deposito degli atti a
+norma dell'art. 196 cpv. 4 CPP, avrebbe senso una simile richiesta, ovviamente
+motivata.
+4.2
+Anche la primitiva richiesta di
+allestimento di perizia contabile non è assistita da apprezzabile motivazione,
+senza rimedio in questa direzione nel reclamo ora in discussione.
+A parte inutile e gratuita
+denigrazione dell'attività degli agenti inquirenti e della collaborazione della
+parte civile e la riproduzione - nel gravame - di un memoriale dell'accusato,
+dagli allegati di quest'ultimo non emergono quali siano oggettivamente le
+carenze della documentazione e della sua correlazione con la fattispecie
+inquisita, i quesiti da sottoporre al perito e le loro proprie finalità. Di
+contro e per quanto imputato a __________, e cioè circoscritte malversazioni da
+accertare segnatamente in punto a consapevolezza ed intenzione, una perizia
+contabile non è di alcuna utilità, come a ragione fatto presente dal
+Procuratore pubblico.
+5.
+Il reclamo, in quanto ricevibile,
+è di conseguenza integralmente respinto con la presente decisione definitiva
+(art. 284 cpv. 1 lett. a CPP, e contrario), tassa e spese giudiziarie andando a
+carico del reclamante soccombente.
+Sempre a ragione della sua
+soccombenza, __________ è tenuto al versamento alla parte civile opponente di
+congrue ripetibili, conformemente a quanto stabilito dall’art. 9 cpv. 6 CPP. In
+concordanza con la giurisprudenza della Camera dei ricorsi penali (v. tra altre
+la sentenza 19 febbraio 1998 in re A.L., CRP 60.96.407), si supplisce alla
+lacuna di questa norma, che non indica nessun criterio per la sua attuazione in
+concreto, applicando per analogia le norme del CPC, segnatamente l’art. 150,
+per cui si attribuisce un’indennità per gli onorari di patrocinio
+corrispondente al presumibile impegno professionale, in casu ridotto.
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+In quanto ricevibile, il reclamo è respinto.
+2.
+La tassa di giustizia di fr. 450.- e le spese giudiziarie di fr. 50.-
+sono a carico di __________.
+3.
+__________ verserà alla parte civile __________ l’importo di fr. 150.- a
+titolo di ripetibili.
+4.
+La presente decisione è definitiva.
+5.
+Intimazione:
+-
+avv. __________, per sé e per il reclamante (con copia delle
+osservazioni del Procuratore pubblico e della parte civile);
+-
+avv. __________, per sé e per la parte civile (con copia delle
+osservazioni del Procuratore pubblico);
+-
+Procuratore pubblico avv. __________, sede (con copia delle
+osservazioni della parte civile).
+giudice
+__________
