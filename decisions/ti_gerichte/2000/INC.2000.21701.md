@@ -1,0 +1,132 @@
+---
+decision_id: "ti_gerichte_INC.2000.21701"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.21701"
+decided: "2000-04-20"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56941&nX40_KEY=4711471&nTrefferzeile=23&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-030.md", "switzerland/bund/acts/312.0/art-162.md"]
+---
+
+# TI Gerichte INC.2000.21701
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 20.04.2000 INC.2000.21701
+Tessin Il Giudice dell'istruzione e dell'arresto 20.04.2000 INC.2000.21701
+Ticino Il Giudice dell'istruzione e dell'arresto 20.04.2000 INC.2000.21701
+
+Sentenza o decisione senza scheda
+
+N. 217.2000.1                                                                 Lugano,
+20 aprile 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sui reclami
+6/7 aprile 2000 formulato da
+__________
+contro la decisione 20/27 marzo
+2000 del Procuratore Pubblico avv. __________ in materia di perquisizione e
+sequestro emessa nell'ambito di procedimento nei confronti di __________, con
+contestazione - da parte della reclamante - dei termini concessi dal magistrato
+inquirente per l'esecuzione dell'ordine di cui si tratta;
+rispettivamente contro la
+decisione 4 aprile 2000 del Procuratore Pubblico avv. __________ con cui
+l'istanza di proroga del termine per l'esecuzione dell'ordine 20/27 marzo 2000
+di cui sopra è stata solo parzialmente accolta con concessione di un termine
+prorogato al 5 maggio 2000 per l'edizione degli atti richiesti;
+letto lo scritto 19 aprile 2000
+del PP avv. __________ con cui alla reclamante viene concessa proroga del
+termine, come a richiesta della stessa __________, per l'edizione dei documenti
+oggetto dell'ordine impugnato;
+osservato
+in fatto ed in
+diritto:
+-
+che con ordine di perquisizione e sequestro 20/27 marzo 2000 il
+PP avv. __________, nell'ambito di procedimento aperto nei confronti di
+__________, ha postulato alla reclamante l'edizione di tutta una serie di
+documenti utili ai fini dei suoi accertamenti (cfr. ordine 20 marzo 2000)
+fissando alla __________ un termine scadente il ventesimo giorno dopo ricevuta
+dell'atto per la presentazione della documentazione;
+-
+che successivamente a scritto della reclamante al PP del 4 aprile
+2000 il magistrato d'accusa ha prorogato il termine per l'edizione dei
+documenti richiesti sino al 5 maggio 2000;
+-
+che, considerando il termine eccessivamente breve, la reclamante
+si è aggravata al Giar postulandone la proroga sino al 16 giugno 2000 indicando
+l'estensione della ricerca e la scarsità di competente personale per procedere
+alle ricerche nonché la necessità di far capo ad archivi dislocati;
+-
+che, a fronte dell'impugnativa, il magistrato d'accusa - con
+scritto del 19 aprile 2000 - ha concesso proroga del termine sino al 15 giugno
+2000. Occorre rilevare come questo Giar non ha concesso al gravame effetto
+sospensivo;
+-    che l'ordine impugnato va qualificato come richiesta di edizione
+di documenti, meglio ancora il magistrato ha ordinato alla __________ il blocco
+dei documenti di cui si tratta postulandone nel contempo l'edizione nei venti
+giorni successivi al Ministero Pubblico. Ai sensi dell'art. 162 CPP chi ha in
+custodia gli oggetti, ed in tale termine vanno intese anche le carte ed i
+documenti rilevanti ai fini del procedimento penale sia come mezzi di prova che
+come strumento o provento di reato, colpiti dall'ordine di blocco del
+magistrato d'accusa deve, di principio, "presentarli e consegnarli ogni
+qualvolta ne sia richiesto". La prassi del Minstero Pubblico del Cantone
+Ticino prevede l'assegnazione di un termine, in casi come quello qui in
+discussione, per l'ostensione e la presentazione delle carte. La legge non fa
+obbligo all'autorità inquirente di assegnare un lasso di tempo per l'esecuzione
+della richiesta di edizione. Il mancato ossequio dell'ordine, rispettivamente
+nel termine assegnato, comporta una conseguenza personale per l'obbligato che
+può infatti essere oggetto di sanzione (art. 30 CPP per rinvio dell'art. 162
+cpv. 2 CPP) e, soprattutto, permette al magistrato d'accusa di procedere al
+sequestro fisico di quanto necessario mediante la perquisizione. In altri
+termini se il lasso di tempo assegnato alla persona detentrice degli oggetti o
+delle carte oggetto di blocco da parte dell'inquirente non è ossequiato, oltre
+alla sanzione disciplinare, il PP può procedere personalmente (o può delegare
+alla polizia od ancora ai funzionari di polizia giudiziaria a lui preposti) la
+ricerca materiale di quanto voluto mediante perquisizione;
+-
+che, nel caso di specie, dopo avere fissato un termine di venti
+giorni per l'esecuzione dell'ordine, il magistrato d'accusa ha prorogato, con
+scritto 4 aprile 2000, il tempo a disposizione della reclamante per procedere
+alla produzione di quanto voluto. A questo atto di disponibilità
+dell'inquirente ne fa
+oggi seguito un altro (scritto 19 aprile 2000) che, nella sostanza, aderisce
+alle richieste della reclamante e rende privo d'oggetto il contenuto del
+gravame;
+-
+che il reclamo va quindi stralciato dai ruoli, senza carico di
+tassa di giustizia e spese, nonostante lo stesso fosse irricevibile alla luce
+delle norme citate. Non si giustifica l'attribuzione di ripetibili alla
+reclamante. La presente decisione, in ambito di perquisizione e sequestro,
+appare suscettibile di impugnativa alla Camera dei ricorsi penali del Tribunale
+di Appello nel termine di 10 (dieci) giorni dall'intimazione della presente
+decisione.
+P.q.m. visti gli artt. 280 e segg. e gli artt. 157 e segg.
+nonché 161 e segg. CCP,
+decide:
+1.
+Il reclamo 6 aprile 2000 formulato dalla __________, è stralciato dai
+ruoli siccome divenuto privo di oggetto.
+2.
+Non si percepiscono tasse e spese. Non si giustifica l'attribuzione di
+ripetibili.
+3.
+Avverso la presente decisione in materia di sequestro è data facoltà di
+impugnativa nel termine di 10 (dieci) giorni alla Camera dei Ricorsi Penali del
+Tribunale di Appello, Lugano.
+4.
+Intimazione a.
+-
+__________;
+-
+PP avv. __________, sede.
+__________
