@@ -1,0 +1,294 @@
+---
+decision_id: "ti_gerichte_INC.2003.1604"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.1604"
+decided: "2003-07-02"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59510&nX40_KEY=4711335&nTrefferzeile=81&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2003.1604
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 02.07.2003 INC.2003.1604
+Tessin Il Giudice dell'istruzione e dell'arresto 02.07.2003 INC.2003.1604
+Ticino Il Giudice dell'istruzione e dell'arresto 02.07.2003 INC.2003.1604
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.1604
+Lugano
+2 luglio 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+__________
+sedente per statuire sull'istanza di proroga presentata il
+23/25 giugno 2003 dal
+Procuratore pubblico __________
+, Ministero
+pubblico di Bellinzona
+nei confronti di
+__________,
+attualmente detenuto c/o PCT La
+Stampa
+(patrocinato dall'avv. __________
+accusato dei reati di cui agli
+art. 125, 221 cpv. 2 e 223 CP;
+viste le osservazioni 30 giugno
+2003 dell'accusato (presentate per il tramite del patrocinatore);
+visto l'inc. MP __________;
+ritenuto e considerato
+in fatto ed in
+diritto
+1.
+__________ è stato arrestato l'8
+gennaio 2003 con l'accusa di incendio intenzionale aggravato, esplosione e
+lesioni colpose, segnatamente per avere, nella notte 31 dicembre 2002/1 gennaio
+2003 a __________, in correità con __________, cagionato intenzionalmente
+l'incendio dello stabile sede __________, provocando ingenti danni alla cosa
+altrui e pericolo per l'incolumità pubblica, rispettivamente l'esplosione,
+mettendo in tal modo scientemente in pericolo la vita o l'integrità delle
+persone o l'altrui proprietà, nonché per avere cagionato per negligenza un
+danno al corpo o alla salute di __________ (cfr. richiesta di conferma
+dell'arresto 9 gennaio 2003, doc. _, inc. GIAR __________).
+L'arresto è stato confermato da
+questo giudice il giorno stesso, stante l'esistenza di gravi e concreti indizi
+di colpevolezza, di bisogni dell'istruzione e dei pericoli di fuga e di
+recidiva (cfr. doc. _, inc. GIAR citato sopra).
+2.
+Con la richiesta qui in
+discussione il Procuratore pubblico chiede una proroga del carcere di due mesi,
+cioè fino all'8 settembre 2003, onde poter procedere a confronti, previsti tra
+__________ /__________ e __________ /__________ al fine di chiarire le
+divergenze fra le rispettive versioni dei fatti, precisando che non è stato
+possibile procedervi precedentemente a causa delle precarie condizioni di
+salute di __________ - che hanno consentito soltanto interrogatori limitati nel
+tempo (come risulta dal certificato medico 4 aprile 2003) - il quale è tuttora
+ospedalizzato in Svizzera interna ed il cui trasferimento in Ticino dovrebbe
+avvenire alla fine di luglio, momento in cui si potrà procedere ai suddetti
+confronti. In considerazione della particolare cornice ambientale
+caratterizzante i fatti del __________, vi sarebbe pure un concreto rischio di
+collusione ed inquinamento delle prove: sarebbe quindi necessario, almeno fino
+al chiarimento delle reciproche posizioni, non dare alle parti la possibilità
+di interferire reciprocamente. Inoltre, essendo __________ cittadino straniero
+senza legami significativi con il nostro territorio e tenuto conto della
+possibile pena in caso di condanna, sussisterebbe un reale pericolo di fuga.
+Avuto riguardo alla gravità dei reati imputati a __________, una proroga di due
+mesi della carcerazione preventiva sarebbe rispettosa del principio di
+proporzionalità. Il fatto che egli sia stato sentito l'ultima volta il 16 aprile
+2003 sarebbe da addebitarsi alle difficoltà dell'inchiesta derivanti sia dalle
+condizioni di salute di __________ sia dal coinvolgimento di più persone le cui
+dichiarazioni vanno valutate a dipendenza degli elementi che emergono di volta
+in volta.
+3.
+Con le osservazioni la difesa di
+__________ non si oppone alla richiesta di proroga.
+4.
+L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105). L'eccezione della cautelare privazione della
+libertà personale ha così trovato codificazione in una chiara base legale (di
+diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento
+di quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali -
+nel solco di quella del Tribunale federale -, ritenuto implicito il rispetto
+della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102
+Ia 381). I menzionati presupposti vanno approfonditi con maggior rigore nella
+loro valutazione, quanto più si è protratta la restrizione della libertà e
+quanto più si avvicina la conclusione delle indagini (REP 1988 pag. 416; 1989
+pag. 287 ss);
+5.
+I seri e concreti indizi di
+colpevolezza a carico di __________ (non formalmente contestati dalla difesa ma
+comunque soggetti a verifica d'ufficio da parte di questo giudice) sono
+senz'altro dati: l'accusato ha infatti ammesso di aver eseguito
+"il
+lavoro"
+con __________ e di ritenere che l'incarico fosse stato dato a
+quest'ultimo da __________, gerente del locale, e dietro previsto compenso di
+fr. 10'000.--, precisando pure di avere acquistato con __________ la benzina
+per appiccare l'incendio presso una stazione di servizio di __________ il 31
+dicembre 2002 (cfr. verbali PP 14 febbraio 2003 e 8 aprile 2003 n. __________ e
+__________).
+6.
+I criteri determinanti per
+stabilire se esista pericolo di fuga sono il carattere del prevenuto, il suo
+domicilio, la sua professione, la sua situazione familiare ed i suoi legami con
+lo Stato in cui egli è inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in
+re S. C. del Tribunale federale, sentenza 20 ottobre 1994 in re M.A., CRP
+314/94) e l'apprezzamento di tutte tali circostanze, per invocare appunto un
+rischio di fuga, deve lasciar presumere che le conseguenze di una fuga appaiono
+rispetto all'accusato come un male minore rispetto a quello derivante per lui
+dall'ulteriore carcerazione, con maggior forza quanto più i reati imputati
+comportino pene edittali od eventualità di pena concreta importante (in questo
+senso M. Luvini, in Rep. 1989, p. 292 e ss. e riferimenti ivi indicati;
+sentenza 14 novembre 1994 in re S.V., CRP 341/94).
+__________ è cittadino italiano,
+ivi residente e senza legami significativi con la Svizzera, ciò che rende
+concreto il pericolo che, una volta messo in libertà provvisoria, egli tenti di
+sottrarsi al procedimento, dandosi alla fuga, tenuto conto della presumibile
+pena (di reclusione) in caso di condanna.
+7.
+Quanto alle necessità istruttorie
+atte a giustificare la misura cautelare di privazione della libertà, non è
+inutile ricordare i seguenti principi:
+"
+-
+In relazione ai bisogni istruttori, atti a giustificare
+la misura restrittiva della libertà personale, occorre ricordare che questi non
+s'identificano semplicemente con gli atti istruttori in quanto tali, o con gli
+accertamenti (ancora) da effettuare, bensì con il pericolo di collusione o
+d'inquinamento delle prove che (eventualmente) espone a rischio la corretta
+raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale suisse,
+ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697 ss.;
+RDAT 1988 no. 24). In quest'ottica il fatto che l'inchiesta sia tuttora in
+corso non è, di per sé, decisivo, in quanto "
+Die Tatsache allein, dass
+noch nicht alle Beweise erhoben bzw. die Mitverdächtigen dingfest gemacht
+werden konnten oder dass der Angeschuldigte die Aussage verweigert, genügt
+nicht
+" (N. Schmid, op. cit., no. 701a). Occorre che l'indagato, se
+posto in libertà, possa pregiudicarne (o comprometterne) il corretto
+svolgimento e, conseguentemente, l'esito.
+-
+E', inoltre, necessario che questa
+possibilità di pregiudicare la raccolta di elementi di prova si fondi su
+elementi concreti: "
+Jedoch genügt nach der Rechtsprechung des
+Bundesgerichtes die theoretische Möglichhkeit, dass der Angeschuldigte in
+Freheit kolludieren könnte, nicht, um die Fortsetzung der Haft oder     die
+Nichtgewährung von Urlauben unter diesem Titel zu rechtfertigen. Es mussen
+vielmehr konktrete Indizien für eine solche Gefahr sprechen
+." (DTF 117
+Ia 257, cons. 4 c.).
+-
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza
+d'interessi (tra i due) in relazione al contenuto della deposizione (SJ 1990 p.
+438; DTF 117 Ia 257; ZR 72 no. 77 p.19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66;
+Hauser/Schweri, Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13)."
+(GIAR 23 settembre 2002 in re Y.)
+Va da sé che i criteri sopra
+esposti richiedono applicazione più restrittiva allorquando l'inchiesta (e la
+detenzione) é in corso da un certo tempo.
+Se è ben vero che __________ ha
+sostanzialmente ammesso le proprie responsabilità (cfr. verbale PP 6 febbraio
+2003 n. 109), è altrettanto vero che le sue dichiarazioni devono ancora essere
+confrontate con quelle di __________ e di __________, in quanto divergenti su
+vari punti. Basti qui evidenziare che __________ ha dichiarato di avere
+contattato __________ per l'incendio e di averlo subito informato di chi fosse
+il mandante e dei motivi per i quali questi aveva commissionato l'incendio
+(__________sostiene invece di avere immaginato che il mandante fosse il gerente
+del locale), nonché ha asserito di avere comprato circa 100 litri di benzina la
+sera del 21 dicembre 2002 presso la stazione __________ unitamente a __________
+[viceversa __________ sostiene di avere acquistato circa 25 litri di benzina
+(cfr. verbale PP 8 aprile 2003) il 31 dicembre 2002 presso un distributore di
+__________, dove si era recato con __________ (cfr. verbali PP __________ 6
+marzo 2003, 12 marzo 2003, 20 marzo 2003, 28 marzo 2003 e 11 aprile 2003 n.
+__________)]. Da notare che le asserzioni di __________ in merito all'acquisto
+della benzina trovano riscontro in altri atti istruttori (tabulati cellulare
+__________ e registrazioni stazione di servizio __________). __________ ha
+invece mantenuto un atteggiamento negatorio sin dall'inizio dell'inchiesta.
+Esiste pure un concreto rischio di inquinamento e collusione delle prove.
+Infatti i personaggi implicati si muovono in un ambiente caratterizzato da
+"omertà"
+e paura, ciò che non permette affatto di escludere interferenze nelle posizioni
+espresse dalle parti, anche nella forma di ritorsioni e pressioni nei confronti
+dei famigliari dei correi. E' quindi necessario, così come evidenziato dal
+magistrato inquirente, che, perlomeno fino alla definitiva assicurazione delle dichiarazioni
+dei protagonisti, non sia data la possibilità di interferenze.
+8.
+Stabilito che gli elementi di
+legge per il mantenimento e/o proroga della detenzione preventiva sono presenti
+nel caso in esame, occorre ora valutare se la proroga richiesta è rispettosa
+del principio di proporzionalità, ricordato che determinanti a tale proposito
+sono il rapporto tra la detenzione sofferta, o eventualmente ancora da
+soffrire, e la gravità dei reati (o meglio della pena ipotizzabile), nonchè il
+rispetto dell'art. 102 CPP (secondo cui l'inchiesta deve procedere con
+celerità).
+__________, come detto, è
+detenuto dall'8 gennaio 2003 per reati certamente gravi (crimini) e per i
+quali, incendio ed esplosione è prevista la pena della reclusione ed, in caso
+di condanna, è ipotizzabile una pena di durata verosimilmente ben maggiore del
+carcere sin qui sofferto ed ancora da soffrire.
+Per quanto concerne invece la
+questione legata alla celerità dell'inchiesta, il fatto che non siano stati
+ancora effettuati i confronti fra __________ /__________ e __________
+/__________, non può essere ritenuto lesivo del principio di proporzionalità,
+tenuto conto sia del perdurare delle precarie condizioni di salute di
+__________, tuttora ricoverato oltre Gottardo ed il cui trasferimento in Ticino
+dovrebbe comunque essere possibile per la fine di questo mese, che hanno
+permesso di procedere soltanto ad interrogatori limitati nel tempo e non a
+confronti, sia del coinvolgimento nell'inchiesta di più persone (l'ultima delle
+quali è __________, arrestato circa 1 mese fa), ciò che fa si che gli atti
+d'inchiesta nei confronti dell'uno siano funzionali anche all'inchiesta
+dell'altro e che le rispettive dichiarazioni debbano essere valutate a
+dipendenza degli elementi che emergono di volta in volta. Giova comunque sin
+d'ora osservare che qualora le condizioni di salute di __________ non dovessero
+consentire di procedere ai confronti nei tempi previsti, l'eventuale richiesta
+di un'ulteriore proroga della carcerazione preventiva dei correi e/o complici,
+in assenza di altre motivazioni, potrebbe non essere giustificata, fondandosi
+su una circostanza a loro non imputabile.
+Visto quanto sopra, la proroga di
+2 mesi richiesta appare rispettosa del principio di proporzionalità. L'istanza
+deve quindi essere accolta così come proposta dal Procuratore pubblico, con la
+presente decisione, esente da tasse e spese giudiziarie (art. 39 lett. f TG e
+contrario), e suscettibile di impugnazione alla Camera dei ricorsi penali (art.
+284 cpv. 1 lett. a CPP).
+P.Q.M.
+richiamati gli articoli 221 cpv.
+2 CP, 223, 125 CP, 95 ss. 102, 103, 279 ss, 284 CPP;
+decide
+1.
+L’istanza è
+accolta.
+Di conseguenza
+il carcere preventivo cui è astretto __________ è prorogato
+sino all'8
+settembre 2003 (compreso).
+2.
+Non si percepiscono
+né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera
+dei ricorsi penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-
+Procuratore pubblico __________ (con fotocopia delle osservazioni del
+patrocinatore dell'accusato e l'inc. MP __________ di ritorno);
+-
+avv. __________;
+-
+Direzione del Penitenziario cantonale, 6904 Lugano-Cadro.
+giudice
+__________
