@@ -1,0 +1,273 @@
+---
+decision_id: "ti_gerichte_INC.2003.59003"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.59003"
+decided: "2003-12-09"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59370&nX40_KEY=4711319&nTrefferzeile=38&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2003.59003
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 09.12.2003 INC.2003.59003
+Tessin Il Giudice dell'istruzione e dell'arresto 09.12.2003 INC.2003.59003
+Ticino Il Giudice dell'istruzione e dell'arresto 09.12.2003 INC.2003.59003
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.59003
+Lugano
+9 dicembre 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Franco Lardelli
+sedente per statuire sull’istanza di libertà provvisoria
+presentata in data 28 novembre 2003/1. dicembre 2003 da
+__________
+.1980, cittadino della Guinea
+Bissau, residente in __________, attualmente detenuto c/o PCT La Stampa,
+Cadro
+(patrocinato dal lic. iur. __________)
+e qui trasmessa con preavviso negativo 4/5 dicembre 2003
+dal
+Procuratore pubblico __________
+viste le osservazioni 5 dicembre
+2003 dell’accusato, che conferma contenuti e conclusioni dell’istanza;
+letti ed esaminati gli atti,
+segnatamente l’inc. MP 2003__________;
+ritenuto,
+in fatto:
+A.
+__________ è stato arrestato a
+__________ il 15 settembre 2003, con contestuale promozione dell’accusa nei
+suoi confronti per infrazione aggravata sub. semplice e contravvenzione alla
+LFStup (art. 19 cifra 1 e 2 LFStup e 19 a LFStup).
+L’arresto è stato confermato da
+questo giudice il 16 settembre 2003, ritenuti presenti gravi e concreti indizi
+di colpevolezza, pericolo di fuga e bisogni dell’istruzione (doc. _, inc. GIAR
+__________).
+Il magistrato inquirente addebita
+all’accusato di aver venduto almeno 100/153 grammi di cocaina (con grado di
+purezza indeterminato) e di aver detenuto almeno altri 144,86 grammi di cocaina
+(corrispondenti a 55,14 grammi di sostanza pura).In data 7 novembre 2003
+l’accusa è stata estesa al reato di propagazione di malattia dell’uomo ai sensi
+dell’art. 231 CPS (v. AI __________), per il fatto che, secondo il Procuratore
+pubblico, il __________ avrebbe avuto rapporti sessuali senza protezioni con
+una donna, pur sapendo di essere positivo al virus HIV.
+B.
+Con istanza 28 novembre 2003/1
+dicembre 2003, __________ chiede di essere immediatamente posto in libertà
+provvisoria.
+L’accusato non contesta la
+presenza di gravi indizi di colpevolezza, nè tantomeno che non sussistano
+bisogni istruttori o che il principio della proporzionalità non sia più
+rispettato, limitandosi egli a richiamare i principi giurisprudenziali che
+regolamentano la materia; rileva per contro che “il pericolo di fuga non può
+essere ritenuto legittimo”, in quanto in occasione del precedente procedimento,
+per il quale è stato condannato ad una pena sospesa condizionalmente, egli “non
+è mai scappato e si è presentato un mese e mezzo dopo la sentenza”.
+La difesa evidenzia inoltre le
+condizioni precarie del suo assistito, “in relazione anche alla malattia di cui
+soffre” e conclude chiedendo in via subordinata a questo giudice di trasferire
+__________ in luogo più appropriato alla cura della sua malattia, nel caso
+dovesse essere ritenuta infondata l’istanza di libertà provvisoria.
+C.
+Con preavviso negativo 4/5
+dicembre 2003, dopo aver evidenziato i gravi e concreti indizi esistenti a
+carico dell’accusato, passando segnatamente in rassegna le sue ammissioni e
+ritrattazioni, come pure le chiamate di correo esistenti a suo carico , il
+magistrato inquirente ha indicato sussistenza di bisogni istruttori; ciò in
+particolare in relazione alla necessità di procedere a “nuovamente interrogare
+sia l’accusato che le altre persone coinvolte e segnatamente __________ e
+__________ r, per stabilire le loro esatte responsabilità e i rispettivi ruoli
+nell’ingente traffico di cocaina”. Sono previsti confronti con i correi testè
+menzionati.
+Vi sarebbe inoltre il pericolo di
+collusione e di inquinamento delle prove in relazione agli accertamenti
+suddetti. Vi sarebbe poi pericolo di fuga, ritenuto che l’accusato risiede “in
+Svizzera unicamente quale asilante, benchè la sua richiesta sia stata respinta
+e non ha nessun legame con il nostro paese”; durante l’istruttoria avrebbe pure
+chiaramente manifestato l’intenzione di rientrare nel suo paese”.
+Per quanto attiene ai problemi di
+salute evocati nell’istanza di libertà provvisoria, il Procuratore pubblico
+rileva che l’accusato, dall’inizio della carcerazione preventiva “non ha mai
+manifestato alcun problema di salute nè tantomeno ha chiesto di essere visitato
+dal medico”.
+D.
+Con le osservazioni 5 dicembre
+2003 al preavviso negativo, l’accusato si limita ad indicare di aver
+manifestato, durante gli interrogatori, dolori e preoccupazioni per il suo
+stato di salute e a contestare l’affermazione del magistrato inquirente,
+secondo la quale egli non avrebbe mai chiesto di essere visitato da un medico.
+Considerato,
+in diritto:
+1.
+La legittimazione di __________,
+accusato detenuto, all'inoltro della presente istanza, trasmessa a questo
+ufficio nei termini di legge, è pacifica.
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui riproposti:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo evidenza
+al cpv. 1 del principio secondo cui l'accusato si trova di regola in libertà,
+consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo a' sensi
+dell'art. 103 CPP, quando esistono a carico dello stesso accusato gravi e
+concreti indizi di colpabilità per un crimine o un delitto e nel contempo sono
+presenti preminenti motivi di interesse pubblico, quali - per quanto qui
+concerne – il pericolo di fuga, e i bisogni dell’istruzione, con particolare
+riguardo al pericolo di collusione che, - sia detto qui a futura memoria - può
+continuare ad esistere sino al pubblico dibattimento (sentenza della I Corte di
+diritto pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid.
+4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco dei
+motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine pubblico
+(REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc.
+520.2001.5)
+3.
+Sufficienti presupposti di legge,
+come anche esplicati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di __________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà.
+3.1.
+I seri e concreti indizi di
+colpevolezza a carico di __________ (non formalmente contestati dalla difesa,
+ma comunque soggetti a verifica d’ufficio da parte di questo giudice) sono
+senz’altro dati: l’accusato, ha infatti ammesso la vendita di complessivi 100
+grammi di cocaina (v. verb. PP 26.9.2003, AI __________), e la detenzione di
+altri 100 grammi della medesima sostanza (v. verb. PP 28.10.2003, AI
+__________).Se è pur vero che, nell’ultimo interrogatorio davanti al magistrato
+inquirente, l’accusato ha ridimensionato le sue ammissioni, ritrattando quanto
+in precedenza ripetutamente ammesso (v. verb. PP 25.11.2003, AI __________), va
+detto che le responsabilità di __________ quale venditore di cocaina trovano
+riscontro in almeno due chiamate di correo già confermate in contradittorio (v.
+verbali PP 7.11.2003 di confronto con __________, AI __________e con
+__________, AI __________); a ciò si aggiunga la presenza delle impronte
+dell’accusato su due involucri, nascosti a __________ nello scantinato dello
+stabile nel quale egli abitava, contenenti 144,86 grammi di cocaina,
+corrispondenti a 55,14 grammi di cocaina pura (v. AI __________).
+3.2
+Anche le altre condizioni che
+permettono il mantenimento della carcerazione preventiva, sono pure (e ancora)
+presenti nella fattispecie in oggetto.
+3.2.1
+L’accusato non contesta, nè
+nell’istanza di libertà provvisoria, nè nelle osservazioni al preavviso
+negativo, l’esistenza di bisogni istruttori e del pericolo di collusione e di
+inquinamento delle prove invocati dal Procuratore pubblico.
+Come giustamente indicato dal
+magistrato inquirente, sussistono i bisogni istruttori e meglio l’esigenza di
+ulteriormente interrogare l’accusato, segnatamente a confronto con i correi
+__________ e __________.
+Il pericolo di collusione e di
+inquinamento delle prove, invocato dal magistrato inquirente, trova poi
+conferma nelle ritrattazioni già  in atto sia da parete dell’accusato, che da
+parte di un correo (v. AI __________).
+3.2.2
+Il Procuratore pubblico fa pure
+valere il pericolo di fuga.
+I criteri determinanti per
+stabilire se esista pericolo di fuga sono il carattere del prevenuto, il suo
+domicilio, la sua professione, la sua situazione familiare ed i suoi legami con
+lo Stato in cui egli è inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in
+re S. C. del Tribunale federale, sentenza 20 ottobre 1994 in re M.A., CRP
+314/94) e l'apprezzamento di tutte tali circostanze, per invocare appunto un
+rischio di fuga, deve lasciar presumere che le conseguenze di una fuga appaiono
+rispetto all'accusato come un male minore rispetto a quello derivante per lui
+dall'ulteriore carcerazione, con maggior forza quanto più i reati imputati
+comportino pene edittali od eventualità di pena concreta importante (in questo
+senso M. Luvini, in Rep. 1989, p. 292 e ss. e riferimenti ivi indicati;
+sentenza 14 novembre 1994 in re S.V., CRP 341/94).
+A mente di questo giudice tale
+pericolo è in questo caso dato e concreto. L’accusato è cittadino della Guinea
+Bissau ed ha risieduto in Svizzera unicamente come asilante, ciò benchè la sua
+domanda d’asilo sia stata respinta (v. AI __________). Il __________ è
+certamente consapevole del rischio di essere confrontato con una pena da
+espiare di una certa consistenza, ciò anche in ragione del fatto che i nuovi
+reati di cui è accusato si situano nel periodo di prova della precedente
+condanna di sette mesi con la condizionale a lui inflitta in data 4 ottobre
+2001 dalla Corte delle Assise correzionali di __________ (v. AI _). A giusta
+ragione il magistrato inquirente evidenzia del resto che, durante
+l’interrogatorio del 26 settembre 2003, l’accusato ha manifestato l’intenzione
+di rientrare nel suo paese, il che conferma volontà di fuga per sottrarsi
+all’espiazione della pena (v. AI __________).
+3.2.3
+Visto il lasso di tempo
+intercorso fra l’arresto e l’istanza ora in esame (85 giorni), va infine
+rilevato che il carcere preventivo sofferto e ipotizzabile, in un procedimento
+che risulta essere condotto con coerente sollecitudine nonostante la presenza
+di più persone coinvolte, è rispettoso del principio della proporzionalità, con
+riferimento alla presumibile pena.
+Resta sottointeso l’obbligo, per
+il magistrato inquirente, di trattare con priorità i casi in cui l’accusato è
+in detenzione (art. 102 cpv. 1 e 176 cpv. 3 CPP).
+3.2.4
+È d’altro canto irricevibile
+l’istanza, presentata in via subordinata all’istanza di libertà provvisoria,
+con la quale viene chiesto a questo giudice di procedere al trasferimento di
+__________ in luogo più appropriato alla sua malattia. Questa richiesta deve
+infatti essere primariamente rivolta al Procuratore pubblico e da questi decisa
+con decisione impugnabile.
+A titolo abbondanziale va
+comunque rilevato che agli atti non c’è alcun rapporto medico che attesti che
+l’attuale luogo di incarcerazione non sia confacente alle condizioni di salute
+dell’accusato.
+4.
+In conclusione, l’istanza di
+libertà provvisoria si appalesa infondata, mentre quella di trasferimento è
+irricevibile; come tali entrambe le istanze devono essere respinte con la
+presente decisione, esente da tassa e da spese giudiziarie (art. 39 lett. f TG
+e contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali
+del Tribunale d’appello (art. 284 cpv. 1 lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+L’istanza di trasferimento è irricevibile.
+3.
+Non si percepiscono né tassa né spese giudiziarie.
+4.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+5.
+Intimazione a:
+-
+lic. iur. __________, per sé e per l’istante;
+-
+Procuratore pubblico __________
+(con
+copia delle osservazioni e l’incarto MP 2003.__________ di ritorno).
+giudice
+­­­­­­­­­­­­­­­­__________
