@@ -1,0 +1,340 @@
+---
+decision_id: "ti_gerichte_INC.2001.38902"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.38902"
+decided: "2001-08-30"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=101510&nX40_KEY=4711576&nTrefferzeile=8&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2001.38902
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 30.08.2001 INC.2001.38902
+Tessin Il Giudice dell'istruzione e dell'arresto 30.08.2001 INC.2001.38902
+Ticino Il Giudice dell'istruzione e dell'arresto 30.08.2001 INC.2001.38902
+
+Sentenza o decisione senza scheda
+
+N. 389.2001.2 M                                                        Lugano,
+30 agosto 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Luca Marazzi
+sedente per statuire sull’istanza di libertà provvisoria
+inoltrata in data 24 agosto 2001 da
+__________
+,                                    __________(difesa
+d’ufficio dall’avv.__________)
+e trasmessa
+in data 27 agosto 2001 con preavviso negativo dal
+Procuratore Pubblico
+avv. Arturo Garzoni;
+concesso
+all’accusata istante, con ordinanza 27 agosto 2001, di formulare osservazioni
+al preavviso negativo del magistrato inquirente, e letto l’allegato 29 agosto
+2001;
+letti ed
+esaminati gli atti dell’inc. MP __________;
+ritenuto
+in fatto:
+A.
+__________ e __________
+sono stati arrestati in uscita dalla Svizzera, in data 25 luglio 2001. Sono
+stati trovati in possesso di documentazione finanziaria compromettente
+(segnatamente firmata da __________), a proposito della quale hanno fornito
+spiegazioni poco convincenti e contraddittorie. Da una rogatoria __________ del
+1999 emerge inoltre la connessione fra __________ e tale __________, persona
+oggetto d’inchiesta penale in __________ per un grosso traffico di cocaina (v.,
+più in esteso, decisione 9 agosto 2001 sulla prima istanza di libertà
+provvisoria di __________, inc. Giar 390.2001.2 consid. B p. 2).
+In data 26 luglio
+2001, questo giudice ha confermato l’arresto di entrambi gli accusati, con
+contestuale intimazione della promozione dell’accusa per titolo di riciclaggio
+di denaro; l’accusa è stata successivamente estesa ai titoli di estorsione
+(sub. coazione) con notifica a verbale MP 22 agosto 2001 ore 14.00, ed ai
+titoli di riciclaggio aggravato e falsità in documenti con decisione 27 agosto
+2001 (v. preavviso negativo 27 agosto 2001, inc. Giar 389.2001.2 doc. 1 p. 1).
+B.
+Con la
+presente istanza, l’accusata lamenta in ingresso la mancata concessione
+dell’accesso agli atti (v. istanza 24 agosto 2001, inc. Giar 389.2001.2 doc. 2
+p. 1). Prosegue esponendo la propria versione dei fatti (loc. cit., pto. 4.3 p.
+3-4), a valere quale contestazione degli indizi di reato, ossia la propria
+effettiva pertinenza dei fondi in oggetto, di lecita provenienza e del tutto
+indipendenti da qualsiasi attività del precedente compagno __________ __________.
+Sostiene poi l’assenza di ulteriori necessità istruttorie, avendo l’accusa già
+sentito le altre persone coinvolte (a lei comunque ignote) ed acquisito la
+documentazione bancaria necessaria (loc. cit., pto. 4.5 p. 5-6), nonché di un
+qualsiasi pericolo di fuga, vista inoltre la disponibilità dell’accusata a
+versare adeguata cauzione (loc. cit., pto. 4.4 p. 4-5).
+C.
+Il preavviso
+negativo del magistrato inquirente (inc. Giar 389.2001.2 doc. 1) evidenzia in
+primo luogo gli indizi di reato nei confronti dell’accusata istante,
+segnatamente per il ruolo da lei avuto nella costituzione della società __________
+poi servita ad occultare i fondi di __________ (loc. cit., p. 1-2). Le
+informazioni di polizia acquisite nel frattempo indicano lo stesso __________
+quale capo di grossa e pericolosa organizzazione criminale (loc. cit., p. 2).
+L’accusata istante, essenzialmente utilizzata quale prestanome per operazioni
+immobiliari, societarie e finanziarie, ha assunto un atteggiamento oltremodo
+reticente, fornendo fra l’altro più contraddittorie versioni in merito
+all’origine dei beni in questione (loc. cit., p. 2). Sussisterebbero ancora
+numerosi atti istruttori da effettuare, segnatamente nuove audizioni, la
+completazione dell'acquisizione della documentazione bancaria e l'inoltro di
+commissione rogatoria in __________, comportante fra l’altro l’audizione di
+persone in __________, per le quali è indispensabile garantire l’impossibilità
+di contatto con l’accusata (loc. cit., p. 2). L’assenza di legami con la
+Svizzera e la prospettiva di una condanna severa per l’accusa di riciclaggio
+aggravato, poi, sostanziano pericolo di fuga, non ovviabile con l’esigua
+cauzione offerta (ibid.). La breve carcerazione finora subita viene infine
+ritenuta senz’altro proporzionata (loc. cit., p. 3).
+D.
+In sede di
+osservazioni (inc. Giar 389.2001.2 doc. 4), __________ polemizza in primo luogo
+per la vaghezza delle contestazioni mossele e per il negato accesso agli atti,
+accusando il Procuratore Pubblico di portare avanti consapevolmente una
+gestione insufficientemente trasparente dell’inchiesta (loc. cit., pto. 2 p. 2)
+e formulando richieste inconferenti in questa sede (loc. cit., pto. 2 p. 3).
+Ella ribadisce la propria estraneità a qualsivoglia (ma comunque contestata)
+attività criminale di __________ (loc. cit., pto. 5 p. 3), ricordando come
+spetti alla pubblica accusa dimostrare l’esistenza dei presupposti dei reati
+imputatile (loc. cit., pto. 5 p. 4). Le prove necessarie sarebbero state già
+assunte, da cui discende che non sussistono più necessità istruttorie; se ciò
+invece non fosse già avvenuto, chiede di assegnare al magistrato inquirente un
+termine di 7 giorni per completare l’istruttoria (loc. cit., pto. 7 p. 4).
+Ribadisce da ultimo la propria disponibilità al versamento di una cauzione di
+Frs. 30'000.— (loc. cit., pto. 9 p. 4-5).
+Considerato
+in diritto:
+1.
+Va preliminarmente
+constatata l’irricevibilità delle conclusioni subordinate proposte
+dall’accusata in sede di osservazioni (p. 5): a prescindere dal fatto che non
+si possono mai formulare nuove conclusioni in sede di osservazioni, si tratta
+di richieste che vanno formalmente sottoposte, in prima battuta, al magistrato
+inquirente, contro la cui decisione (rispettivamente, contro l’omissione di
+tempestiva decisione) potrà in seguito essere inoltrato reclamo a questo
+giudice. La giurisprudenza della lod. Camera dei ricorsi penali del Tribunale
+di appello, che esamina il diniego di accesso agli atti eccepito
+contestualmente con un ricorso contro una decisione di conferma dell’arresto
+(Rep. 129 [1996] n. 104), non può applicarsi alla decisione di questo giudice
+su istanza di libertà provvisoria, non fosse che per i tempi ristretti che la
+legge gli impone (art. 108 cpv. 2 CPP), e che non valgono per l’autorità di
+ricorso. Inoltre, l’accusato che vuole inoltrare fondata istanza di libertà
+provvisoria ha la possibilità di prioritariamente chiedere l’accesso agli atti
+necessari nei tempi e nei modi suindicati.
+2.
+L'art. 95 CPP
+- corrispondente all’art. 33 scaturito dalla revisione parziale 23 settembre
+1992 / 1. gennaio 1993 (per cui mantiene validità la pregressa giurisprudenza:
+v. decisione 10 gennaio 1996 in re T. H., inc. GIAR 2.96.2) - dopo evidenza al
+cpv. 1 del principio secondo cui l'accusato si trova di regola in libertà,
+consente al cpv. 2 arresto, perdurare ed eventualmente proroga del carcere
+preventivo a norma dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - segnatamente i bisogni dell’istruzione e pericolo di
+recidiva (senza dimenticare che l’arresto, quale misura processuale
+cautelativa, non serve unicamente ai bisogni dell’istruttoria, ma anche ad
+assicurare la presenza dell’accusato al processo e a garantire l’eventuale
+espiazione della pena: DTF 109 Ia 323 consid. c, e riferimenti; sentenza 16
+novembre 1993 del Tribunale federale in re A.H., 1P.477/1993, consid. 3; Rep.
+132 [1999] n. 116).
+I menzionati
+presupposti vanno approfonditi con maggior rigore nella loro valutazione, quanto
+più si è protratta la restrizione della libertà e quanto più si avvicina la
+conclusione delle indagini (Rep. 1988 pag. 416; 1989 pag. 287 ss.) – ritenuto
+implicito il rispetto della proporzionalità (Rep. 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381). Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (Rep. 1980 pag.
+128).
+3.
+Con la
+verosimiglianza sufficiente a questo stadio del procedimento ed in questa sede,
+si può con tranquillità concludere per la presenza di seri e concreti indizi di
+colpevolezza a carico di __________, e relativi ad un suo coinvolgimento nei
+fatti inquisiti. Ella risulta infatti essere l’intestataria formale di tutte le
+relazioni bancarie che hanno ospitato i fondi poi confluiti nella società __________
+(v. rapporto preliminare 19/2001 27 agosto 2001 dell’équipe finanziaria del MP,
+agli atti MP s.n., pto. 3.3 p. 3, e allegati). Si dice, in verità, anche
+effettiva avente diritto economico di tali attivi (v. verbale MP __________ del
+22 agosto 2001, ore 14.00,
+passim
+, in specie p. 3 in fine): ma
+sull’origine di tale denaro l’accusata non solo non ha saputo fornire prova
+documentale alcuna, ma anzi ha fornito molteplici, contraddittorie spiegazioni
+(parlando prima del reddito di attività sportiva, poi di una clinica dentaria,
+infine di una propria attività quale prostituta di lusso, v. ad es. verbale MP
+22 agosto 2001 ore 14.00, p. 5, 7).
+Ora, per
+controbattere direttamente un’eccezione sollevata dall’accusata in sede di
+osservazioni (loc. cit., pto. 6 p. 4), se è senz’altro vero che spetta
+all’accusa dimostrare l’esistenza degli elementi costitutivi dei reati
+ipotizzati a carico dell’accusato, è d’altro canto ovvio che l’accusato
+medesimo non può pretendere che, in mancanza di prove conclusive, si debba
+credere acriticamente a qualsiasi storia egli racconti: la versione da lui
+proposta deve apparire perlomeno verosimile, almeno altrettanto verosimile
+dell’ipotesi sostenuta dall’accusa. In ciò consiste l’essenza del processo
+indiziario. Ciò vale a maggior ragione in questo stadio procedurale, nel quale
+lo scrivente giudice, nell’ambito delle proprie competenze limitate alla
+valutazione della legittimità della carcerazione preventiva, è unicamente
+autorizzato ad un esame sommario di verosimiglianza del grado di responsabilità
+dell’accusato istante (v., come qui, anche la decisione 19 aprile 2000 in re
+C.F., inc. GIAR 124.2000.2 consid. 2b p. 4). E, almeno nell’ottica di mera
+verosimiglianza, gli argomenti che il magistrato inquirente apporta a suffragio
+dell’ipotesi accusatoria da lui sostenuta (l’intensa relazione affettiva con __________,
+personaggio sospettato di intensa attività criminale, ed il ruolo di prestanome
+che ella avrebbe svolto per lui, v. preavviso negativo, cit., p. 2) non sono
+peregrini al punto da far apparire la stessa tendenzialmente o
+preponderantemente insostenibile, tanto più che l’accusata – come già detto –
+non è neppure stata in grado di esporre con precisione l’entità dei propri
+guadagni e delle proprie (asseritamente effettive e reali) partecipazioni (v. i
+verbali MP 17 agosto 2001 ore 15.00, p. 3, rispettivamente 22 agosto 2001 ore
+14.00, p. 2-3; senza menzionare che il coaccusato __________, nel proprio
+verbale MP 6 agosto 2001 ore 15.00, p. 2, aveva dichiarato che la clinica
+dentaria è di proprietà di __________, per poi cambiare versione a verbale MP
+23 agosto 2001 ore 14.30 p. 6).
+4.
+a)        Non vi sono da
+spendere molte parole sulle esigenze istruttorie ancora aperte: come spiega in
+dettaglio il Procuratore Pubblico (v. preavviso negativo, cit., p. 2), devono
+ancora essere sentiti (in parte risentiti) altri testi e coaccusati, alcuni dei
+quali sulla scorta di documentazione ancora in fase di acquisizione. Queste
+risultanze dovranno poi essere prospettate all’accusata istante, fatto salvo il
+diritto di lei di chiedere il confronto con terze persone. Aggiungasi la
+concreta prospettiva dell’inoltro di una rogatoria alle autorità spagnole
+(ibid.).
+L’obiezione
+dell’accusata, secondo la quale tali prove sono già state assunte (v. istanza,
+cit., pto. 2 p. 2 e pto. 4.5 p. 5-6), non trova conforto negli atti (fatto non
+necessariamente noto all’accusata, non godendo ella dell’accesso all’incarto
+medesimo), ed è comunque infondata: per l’organica istruzione di un incarto
+sono di regola ovviamente necessarie più di un’audizione di ogni persona,
+secondo un ritmo dettato dalle dichiarazioni degli altri personaggi coinvolti.
+Non si può, allora, astrattamente declamare che gli interrogatori già
+effettuati devono bastare. Va anche detto che la necessità oggettiva di
+acquisire prioritariamente determinate testimonianze può essere valutata in
+termini differenti secondo l’atteggiamento che l’accusato assume: nei confronti
+di colui che avesse dato prova di desiderio di fare chiarezza, sarà possibile
+fare fiducia assumendo talune prove dopo la sua messa in libertà provvisoria,
+mentre nei confronti di accusato reticente – quale senz’altro è, come detto, la
+qui istante – si imporrà la massima prudenza, segnatamente l’anticipata
+assunzione anche di prove che potrebbero apparire secondarie (come qui v.
+decisione 2 agosto 2001 in re A., inc. Giar 23.2001.8 consid. 3.a p. 5).
+Del tutto
+irrealistica è la richiesta subordinata dell’accusata istante (v. osservazioni,
+cit., pto. 7 p. 4), che vorrebbe si imponesse al magistrato inquirente un
+termine massimo di sette giorni per la completazione dell’istruttoria: in un
+caso come questo, complesso in fatto ed in diritto, con marcata connotazione
+internazionale, e reso di ancor più difficile gestione dall’atteggiamento
+reticente dei due accusati, la speranza che l’inchiesta possa essere conclusa
+entro sette giorni è del tutto illusoria (ed il fatto che a formulare una tale
+richiesta sia un’accusata che non ha certo contribuito all’avanzamento delle
+indagini, configura atteggiamento al limite del temerario). Comunque, va
+abbondanzialmente ricordato all’accusata istante che il controllo della
+legittimità della carcerazione preventiva può essere operato in ogni tempo
+tramite l’inoltro di nuova istanza di libertà provvisoria.
+b)        Notoriamente non basta che vi siano ancora passi istruttori
+da esperire. Il mantenimento della carcerazione preventiva dell’accusato è
+giustificato soltanto se – e nella misura in cui – la prematura rimessa in
+libertà di lui possa essere di nocumento proprio nell’ottica dell’assunzione
+delle prove che ancora mancano. Si è soliti parlare, in questo contesto, di
+pericolo di collusione, quando è lecito temere l’intervento dell’accusato su
+terze persone (siano esse correi, parti lese o semplici testi), mentre il
+termine più ampio di inquinamento delle prove sta ad indicare altri
+atteggiamenti suscettibili di falsare l’assetto probatorio, come la
+soppressione o l’alterazione di mezzi di prova eccetera (come qui,
+verbatim
+,
+v. decisione 2 agosto 2001 in re A., inc. Giar 23.2001.8 consid. 3.b p. 5).
+Come già
+constatato, nel caso di __________ tale pericolo emerge a sufficienza dal suo
+atteggiamento processuale, apertamente improntato al confondere le carte, e si
+concretizza sia nei confronti di persone residenti in Svizzera (tutte le
+persone legate alla gestione dei fondi in discussione) che di quelle residenti
+in __________, segnatamente il più volte menzionato __________, ma pure quell’__________
+cui vengono attribuiti ruoli di uomo di paglia nell’ambito della costituzione
+della società __________.
+5.
+a)        Il pericolo di fuga, per giustificare la carcerazione
+preventiva, deve essere concreto e rivestire il carattere di una certa
+probabilità: in altri termini si ammette siffatto pericolo quando l’accusato,
+fosse posto in libertà, si sottrarrebbe con una certa verosimiglianza al
+perseguimento penale e all’esecuzione della pena. La gravità della presumibile
+pena, di per sé, non basta a motivare la carcerazione preventiva; piuttosto,
+l’insieme delle circostanze, quali il carattere dell’interessato, la sua
+morale, i suoi legami familiari, l’assenza di un domicilio fisso, la sua
+professione, la sua situazione finanziaria e le sue risorse economiche, deve
+essere valutato e vanno accertati motivi concreti che rendano la fuga non solo
+possibile, ma probabile (così
+verbatim
+DTF 19 gennaio 1999 in re G.S.,
+consid. 5a p. 7-8, con rinvio a DTF 117 Ia 69 consid. 4).
+b)        __________ non ha legame alcuno con la Svizzera. Anzi, tutti
+i suoi interessi (familiari, affettivi e personali) portano in __________, paese
+di cui lei possiede la cittadinanza (ragione per cui non sarebbe estradabile).
+L’accusata ha manifestato con coerenza l’assenza di ogni e qualsiasi intenzione
+di fare chiarezza e, di riflesso, l’assenza di un qualsiasi ravvedimento. Se si
+considera inoltre la non poi tanto remota possibilità di una sua condanna a
+pena detentiva da espiare (soprattutto se si dovesse cementare l’accusa di
+riciclaggio aggravato), si deve concludere che non un solo elemento di giudizio
+parla a favore dell’accusata: non si vede assolutamente cosa potrebbe spingerla
+a tenersi a disposizione della giustizia svizzera per la completazione
+dell’istruttoria, la celebrazione del dibattimento e l’espiazione di
+un’eventuale pena.
+c)         Allo stadio attuale dell’inchiesta, non sono proponibili
+misure sostitutive quale il versamento di una cauzione (v. istanza, cit., pto.
+4.4 p. 4-5). Tali misure sono semmai atte a contrastare il pericolo di una
+fuga: nel caso di specie, tuttavia, il manifesto pericolo di fuga va ad
+aggiungersi a grave pericolo di collusione ed inquinamento delle prove –
+pericolo, quest’ultimo, al quale la cauzione proposta non può per definizione
+ovviare.
+6.
+Tralasciato
+il pericolo di recidiva, neppure sollevato dal magistrato inquirente, resta da
+dire che l’inchiesta, di per sé complessa per la sua connotazione
+internazionale oltre che per gli aspetti contabili, e comunque resa
+ulteriormente difficile dall’atteggiamento reticente dell’accusato, sembra
+nondimeno procedere a ritmo sufficientemente celere, in consonanza con i
+dettami di legge. Il carcere preventivo sofferto (in termini assoluti, ancora
+relativamente breve – poco più di un mese) e prospettabile appare allora ancora
+rispettoso del principio di proporzionalità, con riferimento sia alla
+presumibile pena, sia alla presumibile durata dell’evasione delle necessità
+istruttorie ancora incombenti.
+Resta
+sottinteso l’obbligo, per il magistrato inquirente, di trattare con priorità i
+casi in cui l’accusato è in detenzione (art. 102 cpv. 1 e 176 cpv. 3 CPP).
+7.
+In
+conclusione, nella misura in cui sia ricevibile l’istanza in discussione
+dev’essere respinta, con la presente decisione impugnabile entro dieci giorni
+alla Camera dei ricorsi penali del Tribunale di appello (art. 284 cpv. 1 lit. a
+CPP), e senza conseguenza di tassa e spese.
+Per i quali motivi,
+visti gli
+artt. 95 ss., 107 s., 279 ss. e 284 cpv. 1 lit. a CPP
+d e c i d e :
+1.
+In quanto ammissibile,
+l’istanza di libertà provvisoria inoltrata in data 24 agosto 2001 da __________
+è respinta.
+2.
+Non si percepiscono né
+tassa né spese giudiziarie.
+3.
+Contro la presente
+decisione è dato il rimedio del ricorso alla Camera dei ricorsi penali del
+Tribunale di appello entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+giudice Luca Marazzi
