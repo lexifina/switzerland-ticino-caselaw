@@ -1,0 +1,199 @@
+---
+decision_id: "ti_gerichte_INC.2002.23503"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.23503"
+decided: "2003-02-26"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=97170&nX40_KEY=4711350&nTrefferzeile=61&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-013.md", "switzerland/bund/acts/312.0/art-142.md"]
+---
+
+# TI Gerichte INC.2002.23503
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 26.02.2003 INC.2002.23503
+Tessin Il Giudice dell'istruzione e dell'arresto 26.02.2003 INC.2002.23503
+Ticino Il Giudice dell'istruzione e dell'arresto 26.02.2003 INC.2002.23503
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2002.23503
+Lugano
+26 febbraio 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto supplente
+Claudio Lepori
+sedente per statuire sul
+reclamo presentato il 12 settembre 2002 da
+__________
+rappr. dall'avv. __________
+contro
+contro la decisione 4
+settembre 2002 del
+Procuratore pubblico
+avv. Giovan Maria Tattarletti
+che ha rifiutato di sottoporre il reclamante a perizia psichiatrica nel
+procedimento contro lo stesso pendente per titolo di reati patrimoniali;
+viste
+le osservazioni 26 settembre 2002 del magistrato inquirente, che postula la
+reiezione del reclamo;
+letti
+ed esaminati gli atti;
+ritenuto
+e considerato
+in fatto e in diritto
+:
+che
+-       nei confronti di __________ è in
+corso un procedimento penale per titolo di truffa, appropriazione indebita e
+amministrazione infedele, avendo tra il 1988 e dicembre 2001, nella sua veste
+di consulente finanziario presso diversi istituti bancari e da ultimo presso la
+banca __________, disposto operazioni a ampio rischio, contrariamente alle
+indicazioni dei clienti, con conseguenti elevate perdite, e distratto
+ripetutamente somme di denaro da conti di clienti per farle confluire su
+proprie relazioni bancarie;
+-       con istanza 7 giugno 2002 al
+magistrato inquirente, la difesa ha chiesto di sottoporre __________ a perizia
+psichiatrica, con l'appoggio del rapporto datato 26 aprile 2002 del dott. __________,
+essendo "
+probabile la sussistenza della scemata responsabilità
+"
+per "
+l'impulso al gioco d'azzardo
+" (AI non classificato
+dell'inc. MP __________): con decisione 4 settembre 2002, il Procuratore
+pubblico ha respinto l'istanza, in quanto i dati medici non hanno evidenziato
+una concreta patologia ed eventuali problemi di natura caratteriale non sono
+tali da portare a scemata responsabilità;
+-       __________ è qui insorto contro
+la menzionata decisione con il reclamo in discussione, tempestivo e proveniente
+da parte ovviamente legittimata, per cui è data ricevibilità in ordine (art.
+280 e rel. CPP);
+-       fatta un premessa sul
+comportamento processuale di __________ ("
+di ampia, anzi totale,
+disponibilità nel chiarimento dei fatti
+") e con aggiunte di
+perplessità e di critiche sul non accettabile "
+metodo istruttorio di
+indagine
+" (che invero esulano dal presente contesto), il reclamante,
+sempre fondandosi su pareri del dott. __________, insiste nella necessità di
+una perizia psichiatrica per potersi presentare al processo con "
+un'altra
+attenuante specifica
+", oltre a quella del sincero pentimento, con
+riproposta del condizionamento negativo della "
+tendenza al gioco
+d'azzardo patologico
+": da parte sua, il Procuratore pubblico, nel
+chiedere la reiezione del reclamo, sottolinea che la difesa non ha portato
+nessun importante nuovo elemento tale da far sospettare concrete patologie, al
+di là di quello che costituisce un comportamento tipico di chi delinque nel
+campo finanziario;
+-       di principio il Procuratore
+pubblico è autonomo nell'assunzione delle prove e nella valutazione di
+completezza delle indagini predibattimentali (art. 193 e 196 CPP: v. decisione
+12 aprile 1995 in re M.A., GIAR 284.94.2), con le limitazioni poste dal
+rispetto del principio di legalità e della buona fede, in concorso con
+l'esigenza di operare in modo leale (PIQUEREZ, Précis de procédure pénale
+suisse, Losanna 1987, n. 876 ss. E 890 ss.; SCHMID, Strafprozessrecht, Zurigo
+1989, pag. 164/169);
+-       tra le prove a disposizione
+delle autorità inquirenti e giudicanti vi è la perizia ossia il ricorso
+all'esperto ogniqualvolta occorre stabilire fatti e circostanze
+all'accertamento dei quali siano indispensabili speciali cognizioni (art. 142
+cpv. 1 CPP): nelle cennate prospettive, al magistrato penale è allora riservata
+ampia facoltà nella scelta delle prove e quindi anche in tema di referto
+peritale, ritenuta comunque e sempre perlomeno apparenza di utilità e
+pertinenza in connessione con la fattispecie inquisita, secondo le imputazioni
+ed in vista delle conclusioni di competenza del giudice penale, ed ancora
+congiuntamente (per riprendere con altre parole il testo di legge) che
+determinati fatti non siano ancora chiariti o sufficientemente chiariti o
+chiaribili attraverso altri mezzi di prova e che il magistrato non abbia le
+specifiche conoscenze professionali per giungere a tali accertamenti (v. decisione
+19 aprile 1995 in re C.J., GIAR 695.94.2, e riferimenti);
+-       ritenuto che in materia non
+vale il principio "
+in dubio pro reo
+", "
+l'esame
+dell'imputato
+" e cioè l'allestimento di una perizia psichiatrica sono
+dovuti, per quanto è qui in discorso, quando l'autorità istruttoria o
+giudicante "
+si trovi in dubbio circa la…responsabilità
+"
+dell'accusato (art. 13 cpv. 1 CP): deve in ogni modo trattarsi di un dubbio
+serio, indipendentemente dalla sua origine, quale la gravità e le modalità
+dell'infrazione inquisita, le motivazioni di un agire aberrante oppure
+antecedenti concernenti lo stato mentale dell'interessato, ma non certo
+semplicemente allegazioni di quest'ultimo sulla sua insanità (v. José Hurtado
+Pozo, Droit pénal, Partie générale II, Schultess, 2002, pag. 170 n.535: nello
+stesso senso v. Stefan Trechsel, Kurzkommentar, Zurigo 1997, ad art. 13 nota 2,
+e Favre, Pellet e Stoudmann, Code pénal annoté, Editions Bis et Ter, Lausanne
+1997, ad art. 13 note 1);
+-       nel caso di specie, non
+risultano problemi d'ordine psichiatrico antecedenti alla scoperta ed
+all'ammissione delle malversazioni: certo, a quest'ultimo momento, __________
+ha manifestato "
+un episodio depressivo grave
+", come
+diagnosticato il 13 dicembre 2001 dal dott. __________ (certificato allegato all'AI
+2 dell'inc. MP), e si è poi affidato alle cure del dott. __________ a far tempo
+dal 22 gennaio 2002 (certificato 16 aprile 2002, annesso alla lettera 10
+settembre 2002 della difesa), ma si tratta di esiti comprensibili e
+giustificabili per l'apertura del procedimento e l'affossamento della posizione
+personale e professionale, con tema certa di conseguenze d'ordine penale,
+lavorativo e famigliare, senza nessuno spunto di precedenti difetti della
+sanità mentale;
+-       ora il dott. __________
+sottolinea "
+una tendenza al gioco d'azzardo patologico
+",
+sembrerebbe riferita alle modalità della commissione dei reati (mentre, in
+senso corrente,__________ non è giocatore, come neppure mai ha sostenuto e come
+indirettamente accertato da indagini di polizia: v. rapporto 8 luglio 2002
+della Polizia giudiziaria): ma lo stesso professionista ebbe pure a costatare
+che "
+sul piano psicopatologico ed escludendo l'attuale disturbo
+depressivo severo presente dallo scorso autunno ed in fase di lenta ma positiva
+remissione, non ho messo in evidenza elementi clinici anamnestici inquietanti
+che possono evocare la presenza di un'organizzazione patologica della
+personalità o disturbi gravi del funzionamento cognitivo cha dal 97 in poi
+abbiano potuto alterare le sue capacità di discernimento
+" (certificato
+26 aprile 2002, cit.), e tutti i numerosi interrogatori in istruttoria non
+fanno assolutamente stato di deficienze o carenze nell'espressione volitiva
+delle inquisite malversazioni;
+-       non vi sono conseguentemente
+sufficienti seri motivi per ipotizzare una scemata responsabilità o un disturbo
+della sanità mentale di __________ in connessione con i reati confessati ed
+istruiti, per cui il reclamo è respinto con la presente decisione definitiva(
+art. 284 cpv. 1 lett. a CPP, e contrario) e con carico di tassa e spese
+giudiziarie al reclamante soccombente (art. 39 lett. f TG);
+richiamati
+i citati articoli di legge,
+decide
+:
+1.
+Il reclamo è respinto.
+2.
+La tassa di giustizia di fr. 300.-
+e le spese di fr. 30.- sono a carico del reclamante.
+3.
+La presente decisione è
+definitiva.
+Intimazione:
+giudice
+Claudio Lepori, supplente
