@@ -1,0 +1,108 @@
+---
+decision_id: "ti_gerichte_INC.2003.46002"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.46002"
+decided: "2003-08-07"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=67973&nX40_KEY=4711331&nTrefferzeile=63&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-005.md", "switzerland/bund/acts/818.101/art-004.md"]
+---
+
+# TI Gerichte INC.2003.46002
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 07.08.2003 INC.2003.46002
+Tessin Il Giudice dell'istruzione e dell'arresto 07.08.2003 INC.2003.46002
+Ticino Il Giudice dell'istruzione e dell'arresto 07.08.2003 INC.2003.46002
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.46002
+Lugano
+7 agosto 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire sul reclamo presentato il 25 luglio
+2003 da
+__________
+(patrocinato di fiducia dall'avv.
+__________)
+contro
+le modalità di detenzione presso le carceri pretoriali di
+Lugano;
+visto il reclamo con il quale si
+chiede, in via principale, che il GIAR ordini le necessarie misure, se del caso
+la liberazione immediata, affinché cessi lo stato di illegalità della
+detenzione cui è sottoposto __________ (non concessione dell'ora d'aria
+giornaliera);
+preso atto che __________ è stato
+scarcerato il 30 luglio 2003 (cfr. scritto 31.07.2003 avv.__________);
+preso atto che con scritto 31
+luglio 2003 (inoltrato via telefax) la difesa di __________ segnala che,
+nonostante l'avvenuta scarcerazione, gradirebbe una decisione di questo ufficio
+avendo un interesse procedurale in merito;
+ritenuto e considerato che:
+oggetto del reclamo sono le
+condizioni materiali della detenzione e la loro costituzionalità (e non i
+presupposti legali della carcerazione preventiva: CRP 19 agosto 2002 in re S.,
+60.2001.00313) di principio (se non dettate dal magistrato inquirente per
+ragioni d'inchiesta) di competenza della SEPEM, rispettivamente della direzione
+del penitenziario (art. 4 LEP e art. 43 REP; GIAR 11 febbraio 1993 in re G.,
+inc. 17.1993.2) e che le competenze del GIAR, in relazione alle condizioni di
+detenzione si limitano (per così dire) alla verifica della costituzionalità / proporzionalità
+delle decisioni del magistrato inquirente;
+nel caso in esame il reclamante
+si è rivolto direttamente al GIAR senza prima richiedere od ottenere decisione
+del magistrato inquirente;
+anche a prescindere dalla ricevibilità
+del reclamo, per il motivo sopra esposto, lo stesso risulta essere comunque
+divenuto privo d'oggetto in quanto:
+"
+nell'ambito della carcerazione preventiva, secondo
+costante giurisprudenza, il requisito            dell'interesse       pratico e
+attuale non è di massima adempiuto quando, come è qui il caso, l'accusato sia
+stato nel           frattempo posto in libertà provvisoria
+"
+(DTF 30 maggio 2001 in re A., 1P.239/2001; si veda anche 125 I 394 e sempre in
+materia di libertà personale anche se non in ambito penale  DTF 109 II 350 e
+109 Ia 169)
+gli elementi che permettono di,
+eccezionalmente, prescindere dalla presenza di tale requisito (interesse
+pubblico sufficiente e rischio che i quesiti sollevati si ripetano con
+impossibilità di sottoporli ad un tempestivo esame) non sono presenti già per
+il solo fatto che è lo stesso reclamante ad indicare le altre procedure atte a
+permettere (con interesse pratico ed attuale) di esaminare il problema posto
+(estromissione dagli atti dei verbali, indennità per ingiusta carcerazione);
+alla luce di quanto sopra, nella
+misura in cui il reclamo è ricevibile, si giustifica lo stralcio senza carico
+di tasse e spese (trattandosi di questione inerente la libertà personale) e con
+facoltà di ricorso alla CRP;
+P.Q.M.
+viste le norme applicabili,
+segnatamente gli artt. 95 ss., 280 ss CPP, art. 4 Legge cantonale
+sull'esecuzione delle pene e art. 43 REP, art. 10 CF e art. 5 CEDU,
+decide
+1.
+Il reclamo,
+nella misura in cui è ricevibile, è stralciato dai ruoli.
+2.
+Non si prelevano
+tasse e spese.
+3.
+Contro il
+presente è dato reclamo alla CRP, Lugano, entro 10 giorni dall'intimazione.
+4.
+Intimazione:
+giudice Edy Meli
