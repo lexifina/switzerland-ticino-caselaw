@@ -1,0 +1,343 @@
+---
+decision_id: "ti_gerichte_INC.2003.28104"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.28104"
+decided: "2003-07-30"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59485&nX40_KEY=4711332&nTrefferzeile=60&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-096.md", "switzerland/bund/acts/312.0/art-110.md"]
+---
+
+# TI Gerichte INC.2003.28104
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 30.07.2003 INC.2003.28104
+Tessin Il Giudice dell'istruzione e dell'arresto 30.07.2003 INC.2003.28104
+Ticino Il Giudice dell'istruzione e dell'arresto 30.07.2003 INC.2003.28104
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.28104
+Lugano
+30 luglio 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+__________
+sedente per statuire sull'istanza di libertà provvisoria
+presentata il 21/22 luglio 2003 da
+__________
+,
+attualmente detenuto presso le Carceri pretoriali di
+Bellinzona
+(patrocinato dall'avv. __________)
+e qui trasmessa il 25/28 luglio
+2003 con preavviso negativo dal
+Procuratore pubblico __________
+;
+viste le osservazioni 29 luglio
+2003 dell’accusato, che conferma contenuti e conclusioni dell’istanza;
+letti ed esaminati gli atti, in
+particolare (e per quanto concerne l'inc.  __________/2003) quelli successivi
+al 30 giugno 2003;
+ritenuto e considerato
+in fatto e in
+diritto
+che:
+-
+__________ è stato arrestato il 7 maggio 2003, con contestuale
+promozione dell’accusa nei suoi confronti per infrazione aggravata sub.
+semplice, alla LFStup (art. 19 cifra 1 e 2 lett. c. LFStup), ciò nell’ambito
+dell’inchiesta denominata “indoor”, avente per oggetto il perseguimento di
+produttori di canapa indoor per la successiva rivendita quale prodotto
+stupefacente; in data 9 luglio 2003 la promozione dell’accusa è stata estesa
+all’aggravante della banda di cui all’art. 19 cifra 2 lett. b LFSup;
+-
+pure il 7 maggio 2003, a __________, nell’ambito della suddetta
+inchiesta, sono stati perquisiti i locali della __________ SA, nell’ambito
+della quale l’accusato sembra svolgere funzioni dirigenziali;
+-
+l'arresto è stato confermato dal GIAR il giorno 8 maggio 2003,
+ritenuti presenti gravi indizi di colpevolezza, pericolo di fuga e necessità
+istruttorie (doc. _ inc. GIAR __________);
+-
+il 30 maggio 2003, il GIAR ha respinto una prima istanza di
+libertà provvisoria presentata dall'accusato, confermando presenza di gravi indizi
+di colpevolezza e necessità istruttorie (GIAR 30.05.2003, inc. __________);
+nella decisione in questione si è ritenuto superfluo approfondire nuovamente la
+questione del pericolo di fuga, ritenuto che la presenza di necessità
+istruttorie, in uno con i gravi indizi di colpevolezza, é sufficiente per
+giustificare il mantenimento della misura cautelare. Contro la decisione di
+questo ufficio, l'accusato ha ricorso alla CRP con atto del 6 giugno 2003 (doc.
+_, inc. GIAR __________); la CRP ha respinto il ricorso con decisione 25 giugno
+2003, riconoscendo l’esistenza di gravi e concreti indizi di colpevolezza e
+concreti pericoli di collusione e di inquinamento delle prove legati ai bisogni
+dell’istruttoria (doc. _, inc. GIAR __________);
+-
+il 20 giugno 2003 (pendente il reclamo alla CRP) l’accusato ha
+presentato una seconda istanza di libertà provvisoria, che il GIAR ha respinto
+con decisione 30 giugno 2003, ribadendo la presenza di gravi indizi di
+colpevolezza e di necessità istruttorie (GIAR 30.06.2003, inc. __________);
+-
+il 21 luglio 2003, l’accusato ha presentato l’istanza di libertà
+provvisoria ora in esame; con la nuova istanza si fanno valere, quali nuovi
+elementi a favore della messa in libertà, “il lungo tempo trascorso
+dall’arresto e dall’ultima decisione in merito alla libertà provvisoria”, che
+fanno sì che la carcerazione ha raggiunto una “durata record” nell’ambito
+dell’inchiesta “indoor” e quindi un richiamo ad “un giudizio equilibrato sulla
+proporzionalità del carcere preventivo”, nonchè l’assenza di un concreto
+pericolo di collusione e di inquinamento delle prove, come pure di un pericolo
+di fuga, quest’ultima esclusione in ragione della relazione sentimentale
+dell'accusato con persona domiciliata in Ticino (Istanza 21 luglio 2003).
+Il preavviso negativo del Procuratore pubblico, ribadisce il perdurare di
+necessità istruttorie/pericolo di collusione e di inquinamento delle prove
+(confronti con i correi che hanno posizioni divergenti rispetto a quelle
+dell’accusato, che ha una “ostinata posizione di diniego di qualsiasi suo
+coinvolgimento nei traffici di canapa a scopo stupefacente”), stante anche
+l'indole dell'accusato, “autoritaria” e quindi “intimidatoria, soprattutto con
+i suoi ex dipendenti”, con conseguente “notevole pericolo di interferenza da
+parte sua sulla loro spontaneità e linearità”, come pure il pericolo di fuga;
+-
+con le osservazioni del 29 luglio 2003, la difesa contesta
+nuovamente che vi sia un pericolo di collusione e di inquinamento delle prove
+“concreto e probabile”, segnatamente che l’accusato abbia un’indole
+“intimidatoria” e che possa pertanto esercitare indebite influenze sugli
+ex-dipendenti della __________ SA; ritiene pure pretestuosa la necessità
+avanzata dal magistrato inquirente di procedere a dei confronti e ribadisce che
+il pericolo di fuga è inesistente;
+-
+l'istanza, proveniente dall'accusato e detenuto, è presentata da
+persona legittimata; questo giudice non può certo, anche nell’esame di questa
+terza e nuova istanza di libertà provvisoria, prescindere dalle considerazioni
+contenute nella sentenza 25 giugno 2003 della CRP, per nulla smentite (o anche
+solo indebolite) dall'istanza qui in discussione;
+-
+va pertanto ribadito che i gravi indizi di colpevolezza, anche
+con riferimento all'effettivo ruolo svolto da __________ (e, conseguentemente,
+al suo effettivo grado di responsabilità), sono dati e presenti (pur con
+riserva dei necessari approfondimenti) così come indicati dalla CRP (sentenza
+25 giugno 2003, cons. 2):
+"..
+- è nella fattispecie pacifico, considerato come l'effettiva attività di
+__________ SA (di proprietà di __________ ed __________, latitanti all'estero)
+ed il coinvolgimento del ricorrente nei fatti di cui all'inchiesta penale
+trovino riscontro agli atti. __________, già collaboratore della citata
+società, ha infatti riferito che "
+(…) l'unica finalità era il mercato
+degli stupefacenti
+" (verbale di interrogatorio PP 8.5.2003, p. 2, cfr.
+anche p. 3; cfr. inoltre verbale di interrogatorio PP 27.5.2003, ore 16.45, p.
+4), che "
+(…) venivano distillati dopo l'essicazione solo i rami e le
+foglie di canapa e fiori piccoli, mentre i fiori essicati e depositati nei
+bidoni blu venivano portati via di notte per essere commercializzati come
+stupefacenti, (…)
+" (verbale di interrogatorio PO 8.5.2003, p. 2) e che
+"
+quando veniva di notte il furgone della "Post Express",
+ricordo che alla guida vi era un uomo, non era un postino, e __________ lo
+aiutava a caricare i bidoni di fiori di canapa essicati, (…)"
+(verbale
+di interrogatorio PO 8.5.2003, p. 2 e 3). Non era inoltre un semplice impiegato
+della società, ma "
+(…) era il capo e l'intermediario tra i __________ e
+noi dipendenti
+" (verbale di interrogatorio PO 13.5.2003, ore 10.00, p.
+3); lui del resto "
+(…)
+era il responsabile del posto e inoltre
+comandava tutto il personale e lui personalmente si occupava di aprire quelle
+porte che erano sotto sicurezza
+" (verbale di interrogatorio PP
+27.5.2003, ore 16.45, p. 3; cfr. anche verbale di interrogatorio PO 7.5.2003,
+ore 11.20, p. 3) e determinava l'accesso al locale distilleria [il ricorrente
+"
+(…) digitava il codice per l'apertura elettronica della porta
+d'accesso al locale distilleria ubicato al primo piano (è sempre stato lui ad
+aprirmi quella porta e nessun altro)
+", verbale di interrogatorio PP
+27.5.2003, ore 16.45, p. 2; "
+(…), io da allora non ho mai più potuto
+accedere al piano superiore poiché mi era stato drasticamente proibito da
+__________, non sono in grado di dire dove finissero con certezza i fiori di
+canapa essicati e depositati nei bidoni blu. Io sono sempre stato in fiducia a ciò
+che __________ mi diceva cioè che i fiori di canapa secchi venissero lambiccati
+(…)
+", verbale di interrogatorio PO 7.5.2003, ore 11.20, p. 6 e 7],
+dove - contrariamente a quanto sostiene il ricorrente (cfr. per es. verbale di
+interrogatorio PP 17.6.2003) - "
+(…) i fiori che venivano distillati
+erano ben pochi e quei pochi erano piccoli o presentavano muffa
+"
+(verbale di interrogatorio PO 26.5.2003, ore 15.20, p. 2). Per il che "
+(…)
+egli non poteva non conoscere la destinazione della canapa prodotta dall'attività
+da lui diretta
+" (decisione 30.5.2003, p. 3)."
+-
+anche le necessità istruttorie (sentenza CRP citata, cons. 3.1)
+sono tutt’ora presenti e concrete, così come già indicato dall'istanza
+superiore:
+"
+Come
+detto, il ricorrente non era un "
+semplice impiegato
+", ma
+"
+(…) era il capo e l'intermediario tra i __________ e noi dipendenti
+"
+(verbale di interrogatorio 13.5.2003, ore 10.00, p. 3); ne discende quindi come
+il suo ruolo all'interno di __________ SA fosse ben più rilevante di quanto
+voglia far intendere, ciò che rende concreto il pericolo di collusione e di
+inquinamento delle prove. Il commercio di canapa riconducibile alla suddetta
+ditta aveva un giro di affari di milioni di franchi (cfr. verbale di
+interrogatorio PP 8.5.2003 di __________, p. 3), per cui si può ritenere che il
+ricorrente - quale "
+uomo di fiducia
+" di __________ ed
+__________ ("
+Devo dire che __________ e il figlio __________ all'inizio
+non si vedevano quasi mai, mentre durante i periodi di raccolto della canapa
+erano presenti quasi giornalmente e anche __________ dava delle direttive, ma
+posso dichiarare che il capo e direttore di tutto era __________
+",
+verbale di interrogatorio PO 21.5.2003, ore 09.00, p. 4) - faccia, se
+scarcerato, tutto quanto in suo potere per sminuire la credibilità delle prove,
+e ciò anche considerato che "
+il valore di queste dichiarazioni è quindi
+ancora tutto da dimostrare
+" (ricorso 6/10.6.2003, p. 3). Certo, il
+fatto che abbia esercitato il diritto di tacere o che abbia contestato le
+accuse mosse a suo carico non è sufficiente per giustificare un pericolo di
+collusione (cfr. sentenza TF 20.11.2002 in re X., inc. 1P.577/2002/dxc; cfr.
+anche M. RUSCA / E. SALMINA / C. VERDA, op. cit., n. 21 ad art. 95 CPP);
+nondimeno, dagli atti (cfr. verbali di interrogatorio PO 21.5.2003, ore 09.00,
+23.5.2001, ore 10.22, PP 20.6.2003, ore 10.20) si evince che __________ SA
+agiva in collaborazione con persone facenti capo ad altre società, i cui ruoli
+e le cui mansioni all'interno di quella che sembra un'organizzazione dedita al
+traffico di stupefacenti devono ancora essere chiariti, ritenuto altresì che il
+rischio di collusione può aumentare in presenza di un accusato che faccia parte
+di un'organizzazione criminale con membri ancora in libertà, come nella
+fattispecie (M. RUSCA / E. SALMINA / C. VERDA, op. cit., n. 25 ad art. 95 CPP).
+Allo stadio attuale del procedimento la scarcerazione di __________, uomo di
+punta in seno a __________ SA ["
+Con i __________ è arrivato anche il
+direttore __________ (…)
+", verbale di interrogatorio PP 8.5.2003 di
+__________, p. 2], appare pertanto prematura. Ciò esclude quindi l'adozione di
+una misura sostitutiva a' sensi dell'art. 96 CPP, essendo tali misure notoriamente
+inadatte a scongiurare il pericolo di collusione (cfr. M. RUSCA / E. SALMINA /
+C. VERDA, op. cit., n. 2 ad art. 110 CPP)."
+-
+le circostanze indicate (a poco più di un mese dalla sopra citata
+decisione dell’istanza superiore) non sono mutate, nè sono state nel frattempo
+smentite o confutate da nuovi elementi; il ruolo di punta dell’accusato in seno
+a __________ SA e il suo coinvolgimento consapevole nel traffico illecito di
+ingenti quantitativi di fiori di canapa destinati ad uso stupefacente, ha anzi
+trovato conferma recentemente nelle dichiarazioni di __________ (cfr. verb. PP
+23 luglio 2003 p. 5 e 7) là dove, riferendosi a __________ , questi afferma
+che:
+”era lui il responsabile di tutto quello che si faceva alla __________. Dava
+gli ordini agli operai, distribuiva le mansioni, comandava tutti i dipendenti.
+Gerarchicamente non c’era nessuno sopra di lui salvo il __________ come
+proprietario. Era lui che mi diceva cosa fare nel locale distilleria e che mi
+apriva la porta d’accesso sia per entrare sia per uscire. Mi aveva anche
+impartito l’ordine di non far entrare nessuno nel locale distilleria anche in
+quelle occasioni in cui la porta rimaneva aperta perchè andava via la corrente
+e il meccanismo elettronico non funzionava”
+e,
+riferendo delle sue mansioni, aggiunge:
+”Confermo che nei bidoni blu con coperchio nero da 120 litri l’uno, venivano
+stoccati solo i fiori secchi di canapa che non venivano da me distillati come
+ho già indicato. I bidoni pieni venivano carcati sul furgone giallo della
+__________ mentre io lambiccavo sopra. Era __________ o lo __________ che poi
+mi chiamavano al telefono o venivano di sopra a dirmi che il furgone era carico
+e che dovevo quindi portarli a __________ presso il deposito della __________
+dove io trovavo sempre lo __________ siccome lui aveva la chiave del deposito
+che nè io nè il __________ l’avevamo. Sul furgone ci stavano circa 40 bidoni e
+la prima volta che ho dovuto effettuare il trasporto a __________ nel corso del
+mese di giugno 2002, avevo anche constatato che una parte di questi bidoni era
+piena di fiori secchi e l’altra era vuota ... altri viaggi analoghi da
+__________ a __________ con i bidoni li ho effettuati nel corso del mese di
+settembre 2002 e posso quantificare complessivamente i viaggi da me fatti in
+circa 6-7 viaggi sempre col furgone pieno di bidoni di cui almeno la metà pieni
+e l’altra vuoti ... ogni bidone conteneva circa 6-7 kg di fiori secchi da quel
+che potevo stimare io alzandolo. Potrebbero però anche essere di più nel senso
+di 8-10 kg siccome io non ho mai pesato i bidoni perchè lo facevano presso la
+__________ ”
+-
+va
+dunque ribadito quanto già detto dal GIAR nella decisione 30 giugno 2003 e
+meglio che, se è vero che il carcere preventivo non può (e non deve) essere
+utilizzato per ottenere confessioni, è altrettanto vero che
+chi delinque in correità con altri deve
+sopportare almeno in parte anche le necessità istruttorie che valgono nei loro
+confronti, e non solo quelle strettamente legate alla sua personale posizione –
+almeno fino a quando ciò sia compatibile con il principio della proporzionalità
+(GIAR 19 agosto 1999 in re L., inc. 386.1999.9, cons. 4 d.) e che un accusato
+che non collabora (come suo diritto) può dover in qualche modo sopportare le
+eventuali conseguenze che questa scelta potrebbe avere sull'evoluzione ed i
+tempi dell'istruttoria, in particolare se i fatti si sono svolti in un lasso di
+tempo importante, hanno molte ramificazioni, anche a livello internazionale,
+necessitano, per il chiarimento, l'espletamento di numerosi interrogatori e
+verifiche documentali e non tutti gli indagati sono (al momento) presenti all'inchiesta
+(cfr. SJ 1998 p. 247; GIAR 386.99.9, sentenza 19.08.1999 in re L. cons. 2. d
+.);
+-
+vi
+è in particolare l’esigenza istruttoria di mettere l’accusato – che persiste
+nel negare ogni sua responsabilità – a confronto con le altre persone implicate
+nell’inchiesta , che lo coinvolgono con le loro dichiarazioni; la posizione
+negatoria dell’accusato e il suo “fare autoritario” (attestato da __________ ;
+cfr. verb. PP 23 luglio 2003 p.5) rendono palesi il pericolo di collusione e di
+inquinamento delle prove e la necessità di procedere ai confronti con
+l’accusato in stato detentivo;
+-
+il perdurare del carcere preventivo non è, a tutt’oggi, lesivo
+del principio di proporzionalità , ritenuto che nei confronti dell’accusato
+vengono ipotizzate infrazioni aggravate alla LFStup (art. 19 cifra 2 lett. b e
+c LFStup). Il magistrato inquirente dovrà comunque procedere celermente agli
+accertamenti (o atti istruttori) mancanti , (come peraltro sembra avvenire:
+cfr. allegati al preavviso negativo, doc. _ inc. GIAR __________), segnatamente
+ai confronti; la (sola) latitanza di alcuni compartecipi potrà, in futuro, non
+essere più sufficiente a giustificare (dal profilo della proporzionalità) il
+mantenimento della privazione di libertà;
+-
+in conclusione, l’istanza in discussione, nella misura in cui è
+ricevibile, deve essere respinta con la presente decisione, esente da tassa e
+da spese giudiziarie (art. 39 lett. f TG e contrario) e impugnabile entro dieci
+giorni alla Camera dei ricorsi penali del Tribunale d’appello (art. 284 cpv. 1
+lett. a CPP).
+P.Q.M.
+richiamati gli artt. 19 cifra 2 e
+1 LFStup, 95 ss, 96, 102, 107, 108, 280 e 284 CPP,
+decide
+1.
+L’istanza
+di libertà provvisoria, nella misura in cui è ricevibile, è respinta.
+2.
+Non
+si percepiscono nè tassa né spese giudiziarie.
+3.
+Contro
+la presente decisione è dato ricorso alla Camera dei ricorsi penali entro dieci
+giorni dall’intimazione.
+4.
+Intimazione:
+-
+avv. __________, per sé e per l’istante;
+-
+Procuratore pubblico __________
+(con copia delle
+osservazioni 29 luglio 2003 dell’accusato).
+giudice
+__________
