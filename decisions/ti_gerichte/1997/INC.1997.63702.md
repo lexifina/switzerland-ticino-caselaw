@@ -1,0 +1,257 @@
+---
+decision_id: "ti_gerichte_INC.1997.63702"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1997.63702"
+decided: "1997-10-27"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=96194&nX40_KEY=4711523&nTrefferzeile=82&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-176.md", "switzerland/bund/acts/312.0/art-194.md"]
+---
+
+# TI Gerichte INC.1997.63702
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 27.10.1997 INC.1997.63702
+Tessin Il Giudice dell'istruzione e dell'arresto 27.10.1997 INC.1997.63702
+Ticino Il Giudice dell'istruzione e dell'arresto 27.10.1997 INC.1997.63702
+
+Sentenza o decisione senza scheda
+
+N. 637.97.2 L - 639.97.2 L                                        Lugano,
+27 ottobre 1997
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Claudio Lepori
+sedente per statuire sulle
+istanze di libertà provvisoria presentate congiuntamente in un unico esposto il
+17 ottobre 1997 da
+__________
+,
+e da
+__________
+(entrambi patrocinati dall’avv.__________)
+e trasmesse il 23 ottobre 1997
+con preavviso negativo dal
+Procuratore pubblico
+avv. Jacques Ducry;
+viste le osservazioni odierne del
+patrocinatore degli accusati, che si conferma nelle rispettive istanze;
+letti ed esaminati gli atti;
+atteso che la presentazione
+congiunta delle istanze e l’identità di fattispecie inquisita e di contenuti
+per postulare la libertà provvisoria consentono un unico giudizio;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+__________ e __________ sono
+stati arrestati il 1. ottobre 1997 (unitamente a __________, rilasciata due
+giorni dopo), con contestuale promozione dell’accusa nei confronti di entrambi
+per titolo di truffa per mestiere, subordinatamente truffa, falsità in
+documenti e infrazioni alla LADI.
+Come alla denuncia 25 settembre
+1997 dell’__________ e come sin qui accertato in istruttoria, segnatamente __________
+e __________ nel periodo dal settembre 1993 all’arresto hanno indebitamente
+lucrato personalmente di prestazioni sociali dell’ordine di fr. 1,6 mio. e per
+terzi di circa fr. 300’000.- producendo a cinque __________ falsi contratti di
+lavoro e relative disdette e false notifiche di riduzione del lavoro.
+__________ si è rifiutato di
+essere interrogato da agenti della Pubblica Sicurezza e non ha sottoscritto il
+verbale 23 ottobre 1997 dinnanzi al Procuratore pubblico, nonostante
+corrispondenza alle sue dichiarazioni (di sostanziale ammissione degli addebiti
+riassunti sopra) di quanto nel testo raccolto, come alla seguente nota
+conclusiva del magistrato inquirente: “
+Il verbalizzante prende atto che il
+prevenuto __________ non firma il verbale poiché, pur avendo detto quanto
+sopra, non è presente il suo difensore
+”.
+Da parte sua, __________ -
+interrogato lo stesso giorno dal Procuratore pubblico - ha confermato i
+precedenti verbali di polizia [n.d.r. a dire il vero informalmente, rispetto a
+quanto previsto dall’art. 61 cpv. 3 seconda frase CPP, per l’assenza del
+patrocinatore], con confessione riassuntiva globale corrispondente alla
+fattispecie inquisita e con la seguente conclusione: “
+Ammetto di conseguenza
+di aver falsificato delle firme su diversi documenti come pure di avere
+maggiorato gli ammontari relativi ai salari proprio allo scopo di ottenere
+delle indennità maggiori ... Sia io, sia __________ eravamo consapevoli di fare
+qualcosa di illegale ...
+”. Circa le motivazioni di questo agire, non ancora
+del tutto approfondite nella loro concretezza, __________ così ha riferito
+(verbale di polizia 16 ottobre 1997, ore 15.20, pag. 2): “
+Ritengo che la
+causa di tutto questo disastro finanziario, ivi comprese le 
+messe in atto da noi nei confronti dell’ufficio del lavoro, per quanto mi concerne,
+sia da imputare a due grossi miei difetti e cioè: megalomania e avidità
+”.
+In attesa di sentire le giustificazioni di __________, non si può che costatare
+la voragine finanziaria
+spalancata dai due accusati,
+oltretutto con esecuzioni in corso e già attestati di carenza beni di fr.
+542’851, 25 per il __________ e di fr. 126’138,65 per il __________.
+2.
+L’istanza di libertà provvisoria
+- invero assai scarna (e quindi poco seria) - considera necessaria di “
+attento
+chiarimento
+” la qualifica dei reati inquisiti che sembrerebbero solo di
+diritto amministrativo con comminatoria di pena evidentemente più mite. Gli
+accusati sono incensurati e “
+non si sono mai rifiutati di collaborare
+”
+(“
+... in particolare __________
+”), mentre __________ necessiterebbe
+quotidianamente di cure mediche e psicologiche. Le prove sono di massima
+documentali e le persone coinvolte sono state “
+praticamente tutte già
+interrogate
+”, per cui non vi è pericolo di collusione. Allora ed in modo
+inammissibile la protrazione della privazione della libertà è dovuta - per gli
+istanti - “
+essenzialmente all’onere di lavoro che pesa sulla magistratura
+”.
+Il Procuratore pubblico ha
+espresso preavviso negativo nei confronti di entrambe le istanze, osservando
+che permane la qualifica giuridica degli addebiti come alle promozioni
+dell’accusa (semmai poi con discussione dinnanzi alla Corte del merito), e che
+l’istruttoria è ancora in essere con necessità di interrogazione di numerose
+altre persone e di esame rispettivamente contestazione di richiamata
+documentazione bancaria e degli Uffici AVS. Aggiunge che __________ “
+si è
+fatto interrogare
+” solo il 23 ottobre 1997, rifiutandosi di firmare il
+verbale (come evidenziato nel punto precedente).
+Con le osservazioni odierne, gli
+accusati sottolineano “
+il carattere del tutto generale e aprioristico
+”
+delle motivazioni del Procuratore pubblico, concernenti il solo presupposto del
+pericolo di collusione, che scema sino a sparire quando i fatti sono ammessi,
+come “
+sostanzialmente
+” avveratosi in casu.
+3.
+L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi
+di colpabilità per un crimine o
+un delitto e nel contempo sono presenti preminenti motivi di interesse pubblico,
+quali - per quanto qui concerne - i bisogni dell’istruzione, con particolare
+riguardo a pericolo di collusione e di inquinamento delle prove.
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128).
+4.
+Gli istanti non contestano
+l’esistenza a loro carico di seri e concreti indizi di colpabilità, limitandosi
+a sollevare perplessità sulla qualifica giuridica della fattispecie, senza
+spendervi più di quel tanto sforzo di motivazione. Allora in proposito anche
+questo giudice può limitarsi a rinviare a quanto deciderà la Corte del merito,
+stante che il Procuratore pubblico mantiene le imputazioni contemplate nelle
+promozioni dell’accusa: si aggiunge solo, abbondanzialmente, che i due accusati
+istanti non si sono limitati a fornire “
+indicazioni inveritiere o incomplete
+”,
+ma hanno (ripetutamente) costruito falsi documenti per indebitamente ottenere
+le prestazioni assicurative in discorso.
+5.
+I bisogni dell’istruttoria sono
+evidenti, al di là dell’immotivato assunto dell’istanza di libertà provvisoria
+e delle sbrigative osservazioni al preavviso negativo.
+L’inchiesta deve così proseguire
+senza pericolo di collusione e di inquinamento delle prove, avuto anche
+riguardo al comportamento processuale di __________ che - dopo generica
+ammissione di colpevolezza in sede di audizione dinnanzi a questo giudice
+(verbale del 2 ottobre 1997) - ha rifiutato di essere interrogato dagli agenti
+di polizia (inquirenti a ciò legittimamente delegati dal Procuratore pubblico,
+come all’art. 194 CPP) rispettivamente di firmare il verbale dinnanzi al
+magistrato inquirente. Né si può affermare che sia uno
+“
+stato confusionale e ansioso
+”
+ad impedire al __________ di essere interrogato, al cospetto di immotivato
+rifiuto pur sentendosi “
+molto meglio rispetto a qualche giorno fa
+”, come
+annotato nel citato verbale del 23 ottobre 1997 (“
+Il verbalizzante mi chiede
+formalmente se sono disposto da oggi in poi a farmi verbalizzare dall’isp. __________.
+Non nego di avere inizialmente detto al qui presente verbalizzante di essere
+eventualmente disposto a farmi verbalizzare dall’isp. __________ previo
+colloquio con il mio legale, ma ora dichiaro di non essere assolutamente
+disposto di farmi verbalizzare solo dall’isp.__________
+”).
+La fattispecie è complessa e
+ramificata, con molte persone in diversi modi interessate e coinvolte che vanno
+tutte interrogate (meglio se anche dal Procuratore pubblico e non solo da
+funzionari inquirenti come sino ad ora) e voluminoso materiale documentario da
+vagliare, approfondire e quindi sottoporre agli accusati per contestazione.
+Andranno anche esperiti contraddittori, specie in confronto tra gli accusati -
+una volta acquisiti gli altri elementi di prova indicati - per esattamente
+determinare le rispettive responsabilità. La libertà degli istanti sarebbe tale
+da pregiudicare tranquillante definizione del quadro probatorio, anche contro
+il loro stesso interesse di corretto affidante chiarimento delle rispettive
+situazioni.
+6.
+Il carcere preventivo sin qui
+sofferto dagli istanti e quello presumibile nella proiezione delle necessità
+istruttorie sono rispettosi del principio di proporzionalità (art. 176 cpv. 2
+CPP), soprattutto avendo presente il complesso dei fatti, l’alto numero di
+persone per più versi coinvolte e il comportamento reticente di __________ (che
+non propizia di certo conclusioni rapide), senza dimenticare la gravità
+oggettiva e soggettiva degli addebiti (di truffa anche aggravata e di falsità
+in documenti) e così della verosimilmente severa misura della pena.
+Se corrisponde a nota realtà
+l’importante “
+onere di lavoro che pesa sulla magistratura
+”, come
+accennato nell’istanza in discussione, è improprio ed errato farne causa del
+mantenimento e del prolungarsi della privazione della libertà: l’istruttoria -
+secondo quanto emerge dagli atti - se svolge in tempi coerenti (anche per
+rispetto al descritto comportamento di __________), come vogliono i precetti
+dettati dagli art. 102 cpv. 1 e 176 cpv. 3 CPP.
+7.
+L’istanza è conseguentemente
+respinta con la presente decisione, esente da tassa e spese giudiziarie (art.
+39 lett. f TG e contrario) e suscettibile di impugnazione alla Camera dei
+ricorsi penali (art. 284 cpv. 1 lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza
+di libertà provvisoria é respinta.
+2.
+Non
+si percepiscono né tassa né spese giudiziarie.
+3.
+Contro
+la presente decisione è dato ricorso alla Camera dei ricorsi penali entro dieci
+giorni dall’intimazione.
+Intimazione:
+giudice
+Claudio Lepori
