@@ -1,0 +1,200 @@
+---
+decision_id: "ti_gerichte_INC.2002.5411"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.5411"
+decided: "2003-06-30"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59512&nX40_KEY=4711336&nTrefferzeile=20&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.2002.5411
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 30.06.2003 INC.2002.5411
+Tessin Il Giudice dell'istruzione e dell'arresto 30.06.2003 INC.2002.5411
+Ticino Il Giudice dell'istruzione e dell'arresto 30.06.2003 INC.2002.5411
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+2002.5411
+Lugano
+30 giugno 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+__________
+Sedente per statuire sul reclamo presentato il 12/13
+giugno 2003 da
+__________
+, detenuto c/o PCT La Stampa, Cadro
+(Avv. __________)
+Contro
+la decisione 26 maggio 2003 del Procuratore generale
+__________ che rifiuta i complementi istruttori proposti con istanza del 14
+maggio 2003;
+viste le osservazioni al reclamo,
+presentate dal Procuratore generale (25/26 giugno);
+visionato, per quanto necessario,
+l'inc. MP __________;
+ritenuto e considerato
+in fatto ed in diritto
+che:
+-   __________ è stato arrestato il 31 gennaio 2002 (quando si
+trovava, in espiazione pena e regime di semilibertà, presso il carcere di
+__________ /ZH) con l'accusa di aver organizzato, con terzi, un importante
+traffico di stupefacenti tra il Sudamerica e l'Europa, nel corso del 2001
+(oltre 200 Kg di cocaina, sequestrati ad Atene l'8 gennaio 2002: cfr. doc. _
+inc. GIAR __________), nonché di aver riciclato la somma di USD 400'000.--
+consegnatagli da persone implicate nel traffico in questione, membri (secondo
+l'accusa) di un'organizzazione criminale (inc. GIAR __________, doc. _);
+-   il carcere preventivo, cui è astretto __________, perdura
+tutt'ora a seguito di tre decisioni di proroga (inc. GIAR __________);
+-   a seguito del deposito degli atti effettuato dal Procuratore
+generale (art. 196 cpv. 1 CPP), l'accusato ha richiesto l'assunzione,
+rispettivamente l'espletamento, di cinquantadue atti istruttori (cfr. istanza
+14 maggio 2003);
+-   con decisione datata 26 maggio 2003, il Procuratore generale ha
+respinto, in toto, le richieste in quanto "
+l'istanza di complementi
+istruttori difetta a tal punto del requisito della motivazione che neppure
+rende possibile verificare se alle singole prove richieste possa essere
+riconosciuto, cumulativamente, il requisito di novità, rilevanza e pertinenza
+alle successive conclusioni di mia
+(n.d.r. del Procuratore generale)
+competenza,
+requisiti indispensabili per un possibile loro accoglimento
+";
+-   con il presente reclamo, la difesa ribalta sulla decisione
+impugnata l'obiezione di insufficiente motivazione ed afferma anche che sono
+stati violati anche il diritto di essere sentito, il divieto di formalismo
+eccessivo, la presunzione d'innocenza (con riferimento, prevalentemente a fatti
+e/o decisioni avvenuti in corso d'istruttoria); di seguito riprende le singole
+richieste così come formulate nell'istanza del 14 maggio 2003, aggiungendo ad
+ognuna un commento (in caratteri corsivi) a giustificazione della stessa o
+asserendo che la "
+domanda è pertinente ed ovvia
+" (per es.
+reclamo, p.18);
+-   con osservazioni del 25 giugno 2003, il Procuratore generale
+contesta le generiche eccezioni di limitazione dei diritti della difesa e
+considera sintomatico che il reclamante censuri d'insufficiente motivazione la
+decisione impugnata; a giudizio del magistrato inquirente l'atteggiamento
+processuale del reclamante, che legittimamente si è avvalso della facoltà di
+non rispondere, non permette di sostenere ovvietà (sottointesa) delle richieste
+di complemento e imponeva ancor di più una, ancorché minima, motivazione delle
+stesse; da ultimo, le motivazioni contenute nel reclamo sono ritenute tardive
+e, comunque, relative a presunte violazioni formali, mai sollevate prima;
+-   il reclamo è presentato da persona legittimata e tempestivo;
+-   l'art. 196 CPP consente alle parti, una volta
+conclusa l'istruttoria a giudizio del Procuratore pubblico nella sua attività
+di magistrato inquirente, di formulare istanza di complemento di inchiesta,
+indicando i mezzi di prova da assumere (si veda anche REP 1997 n. 107; 1998 n.
+122): la norma non fa che riprendere, e nei successivi capoversi meglio
+precisare, quanto disposto dall'art. 58 cpv. 3 CPP/1941 e poi dall’art. 157
+CPP/1993 (v. Messaggio aggiuntivo concernente la revisione totale del CPP del
+20 marzo 1991, pag. 163; Rapporto della Commissione speciale del Gran Consiglio
+del 22 luglio 1992, pag. 67), per cui mantiene validità la pregressa
+giurisprudenza in materia della Camera dei ricorsi penali e di questa istanza
+di reclamo, che sottopone l'ammissibilità delle prove così proposte a questo
+stadio del procedimento a tre concorrenti ordini di considerazioni e
+presupposti: i complementi di prove devono essere motivati per quanto attiene
+al loro oggetto ed al loro scopo in diretta connessione con la fattispecie
+inquisita; tali mezzi di prova devono avere i requisiti della novità, della
+rilevanza e della pertinenza alle successive conclusioni del Procuratore
+pubblico, dopo la definitiva chiusura dell'istruttoria dibattimentale, e poi -
+se ne sarà il caso - del giudice del merito; le stesse prove devono essere di
+difficile produzione all'eventuale dibattimento, avute presenti le finalità
+dell'art. 189 CPP (corrispondente agli art. 147 CPP/1941 e 148 CPP/1993),
+inteso appunto tra altro ad assicurarne in tale sede la non interrotta
+assunzione (v. CRP 24 gennaio 1990 in re L.P., inc. 337/89; GIAR 17 febbraio
+1993 in re L.P., inc. 135.93.1, 21 agosto 1996 in re G.C., GIAR 512.96.1);
+-   istanze e gravami (così come le decisioni)
+debbono essere convenientemente motivate (entro i termini, sia in fatto che in
+diritto, senza limitarsi a dichiarazioni di principio; CRP 76/93 in re V.
+Stiftung e altri) per consentire alle controparti e all'autorità di prendere
+adeguata posizione rispettivamente decisione (CRP 20 luglio 1994 in re D.T.,
+inc. 249/94; GIAR 13 marzo 2001 in re C., inc. 436.2000.6);
+-   la motivazione non può essere
+"sottointesa", o "ovvia"; in materia di richiesta di prove,
+durante l'inchiesta come in sede di complementi, la motivazione deve estendersi
+ai requisiti indicati più sopra; non è, per esempio, sufficiente indicare che
+il testimone, di cui si chiede l'audizione, dovrebbe essere a conoscenza di un
+fatto (GIAR 9 maggio 1994 in re R.A., inc. 336.94.1);
+-   non occorrono molte parole per evidenziare la
+carenza assoluta di motivazione dell'istanza 14 maggio 2003 (non bastando la
+premessa di ritenere "
+indispensabile procedere all'acquisizione dei
+seguenti ulteriori accertamenti
+"; istanza 14 maggio 2003, p. 1), per
+cui è corretta la reiezione per così dire in ordine da parte del Procuratore
+generale;
+-   né il reclamo si presta a miglior lettura, per
+quanto attiene all'ammissibilità delle prove richieste, non contenendo
+particolari cenni concreti sulla novità, rilevanza e pertinenza delle stesse
+e/o sulle ragioni per anticiparne l'assunzione in sede di istruzione formale
+(per esempio in caso di richiesta di un contraddittorio): non compete evidentemente
+(ed anche contro prudenza) a questo giudice interpretare le richieste in base
+alla loro pretesa ovvietà o alla valenza delle prove in sede dibattimentale;
+-   a titolo puramente abbondanziale, e a conferma
+di quanto detto nel paragrafo precedente, si rileva come vi siano richieste
+incomprensibili, come quella di cui al no. 4 (p. 7 del reclamo):
+"l'incarto completo" relativo alle sorveglianze non si trova presso
+la DATEC che riceve l'ordine e la decisione di approvazione (o non approvazione)
+del GIAR, ordine, richiesta d'approvazione (e relativi allegati) si trovano
+nell'inc. MP (o almeno dovrebbero) e la decisione del GIAR anche, visto che
+viene notificata;
+-   il diritto di essere sentito non ha nulla a
+che vedere con le questioni trattate nella presente decisione: è garantito
+dalla facoltà di presentare istanza (se poi l'interessato non lo concretizza
+motivando correttamente, è altro problema);
+-   esigere una motivazione non è un formalismo
+eccessivo; permettere di presentare la motivazione di una istanza, dopo la
+scadenza dei termini per il suo inoltro, non si giustifica (se non per
+impedimenti oggettivi) e potrebbe aprire la strada a degli abusi di diritto
+(DTF 13 luglio 1995 in re B., inc. 2°.311/1994);
+-   per quanto concerne la (pretesa) violazione della
+presunzione d'innocenza (principio che regola l'onere della prova [nella fase
+istruttoria] e/o l'apprezzamento della prova [in sede di giudizio]), mal si
+comprende l'invocazione nel caso in esame; quindi, da un lato non è questione
+che concerne direttamente complementi istruttori, dall'altro è proprio
+l'assenza di motivazione nell'istanza ad impedire una valutazione corretta, da
+parte dell'inquirente, dell'utilità delle prove richieste e, se del caso, la
+verifica di tale valutazione da parte di questo giudice;
+-   in conclusione, la decisione del Procuratore
+generale del 26 maggio 2003, che respinge l'istanza di complementi istruttori
+per carenza (meglio assenza) di motivazione, è corretta e va protetta (altra
+questione, non oggetto di questo giudizio, è l'utilizzabilità di quanto agli
+atti, ed il suo apprezzamento, in sede di merito);
+-   ricordato che la presente decisione è
+definitiva (art. 284 cpv. 1 lett. a CPP e contrario), il reclamo si avvera
+conseguentemente e per più versi irricevibile: le connesse spese giudiziarie
+vanno a carico del reclamante soccombente;
+richiamati i citati articoli di
+legge,
+decide:
+1.
+Il reclamo, nella misura in cui è ricevibile, è respinto.
+2.
+La tassa di giustizia di fr. 300.-- e le spese di fr. 20.-- sono a
+carico di __________.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+-
+Avv. __________, per sé e per il reclamante;
+-
+Procuratore generale __________ (con copia del reclamo).
+giudice
+__________
