@@ -1,0 +1,265 @@
+---
+decision_id: "ti_gerichte_INC.2002.54403"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.54403"
+decided: "2003-03-11"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59578&nX40_KEY=4711349&nTrefferzeile=2&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/142.20/art-014.md", "switzerland/bund/acts/142.31/art-008.md", "switzerland/bund/acts/142.31/art-010.md", "switzerland/bund/acts/142.31/art-046.md", "switzerland/bund/acts/432.30/art-002.md"]
+---
+
+# TI Gerichte INC.2002.54403
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 11.03.2003 INC.2002.54403
+Tessin Il Giudice dell'istruzione e dell'arresto 11.03.2003 INC.2002.54403
+Ticino Il Giudice dell'istruzione e dell'arresto 11.03.2003 INC.2002.54403
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2002.544.03
+Lugano
+11 marzo 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+__________
+sedente per statuire sul
+reclamo presentato il 27 gennaio 2003 da
+__________
+rappr. dall’avv. __________
+contro
+il ritiro del passaporto
+(rispettivamente la mancata riconsegna) da parte della Polizia cantonale;
+viste le osservazioni 14 febbraio 2003 dell’Ufficio
+giuridico della Sezione dei permessi e dell’immigrazione e constatato che il
+Comando della polizia cantonale ha lasciato trascorrere infruttuoso il termine
+assegnato;
+letti ed esaminati gli atti dell'incarto trasmesso
+dalla SPI;
+ritenuto e considerato
+in fatto ed in diritto
+1.
+Il ricorrente, giunto in Svizzera nel dicembre 1998, è
+stato sottoposto ad audizione quale asilante il 18.12.1998, con consegna dei
+documenti di legittimazione (passaporto e CI: cfr. verbale audizione
+18.12.1998). Con decisione del 29.12.1998, l'UFR ha deciso che il sig.
+__________ non aveva qualità di rifugiato, ha respinto la sua domanda d'asilo e
+gli ha assegnato un termine per lasciare la Svizzera. Il termine è poi stato
+sospeso nell'attesa dell'esito della procedura ricorsuale.
+In data 30 maggio 2002 la CRA ha respinto il ricorso e
+l'UFR ha assegnato al qui ricorrente un ulteriore termine (29 agosto 2002) per
+lasciare la Svizzera. Poco dopo, più precisamente il 17.06.2002, l'URS (con
+comunicazione alla SPI) ha restituito i documenti di legittimazione al signor
+__________.
+Il termine di partenza è stato ulteriormente sospeso
+dalla CRA, a seguito di ricorso poi stralciato dai ruoli e demandato per
+competenza (riesame della domanda d'asilo) all'UFR. Questa autorità ha emanato
+la sua decisione, negativa, il 2.11.2002 imponendo a __________ di lasciare immediatamente
+la Svizzera.
+L'UFR ha inoltre dichiarato privo d'effetto sospensivo
+l'eventuale ricorso; il 17.12.2002 la CRA ha sospeso l'esecuzione
+dell'allontanamento.
+2.
+I documenti di legittimazione del qui ricorrente,
+consegnati all'autorità amministrativa al momento della domanda d'asilo, gli
+sono stati restituiti (come già detto) il 17.06.2002. I documenti in questione
+sono attualmente nelle mani della Polizia cantonale. La documentazione agli
+atti non contiene nulla che permetta di determinare con precisione quando e per
+quale motivo (rispettivamente in base a quale norma) siano stati ritirati. Né
+il reclamo né le osservazioni della SPI apportano sufficiente chiarezza su
+questo punto e la Polizia cantonale non ha ritenuto di doversi esprimere.
+Emerge comunque chiaramente che per l'autorità
+amministrativa (in casu SPI) i documenti di legittimazione del signor
+__________ sono in sue mani. Ciò risulta sia dallo scritto 9.12.2002 della SPI
+alla Polizia cantonale, sia dallo scritto 9.01.2003 della stessa SPI al legale
+del qui ricorrente.
+3.
+Con il reclamo in oggetto, il signor __________ chiede
+l'annullamento della "decisione" (non notificata e, a suo dire,
+basata sull'art. 2 LAMCL), mediante la quale la Polizia Cantonale ha
+"sequestrato" i suoi documenti di legittimazione, e la restituzione
+degli stessi; in via subordinata chiede che venga fatto ordine alla Polizia
+cantonale di emanare formale decisione, in merito al sequestro dei documenti, e
+di operare affinché sugli stessi venga apposto il visto per il Canada.
+La SPI, nelle sue osservazioni del 14 febbraio 2003,
+contesta la competenza di questo giudice asserendo che il
+ritiro/sequestro/trattenuta dei documenti di legittimazione costituisce
+provvedimento amministrativo adottato sulla base dei combinati disposti degli
+artt. 8 cpv. 1 lett. b e 10 LAsi, nonché 2 Oasi 1, che farebbero obbligo
+all'autorità di trattenere i documenti sino all'esaurimento della procedura
+d'asilo. Non si tratterebbe quindi di una "misura coercitiva" ai
+sensi della LMC e relativa normativa cantonale d'applicazione.
+4.
+Occorre preliminarmente che questo giudice si
+determini sulla sua competenza.
+Il ritiro/sequestro/trattenuta dei documenti di
+legittimazione è oggetto di più norme, contenute sia nella LDDS che nella LAsi,
+e può avvenire in momenti diversi e con finalità diverse (garanzia di
+esecuzione dell'allontanamento, accertamento dell'identità) ciò che può essere
+fonte di confusione ed insicurezza giuridica.
+Questo giudice fonda la sua competenza, in materia di
+diritto degli stranieri, sulla LALMC (artt. 4 e 32) ed ha già avuto modo di
+stabilire che questa non è limitata alla verifica della legalità e adeguatezza
+della carcerazione (rispettivamente alla sua proroga), ma si estende alle
+misure coercitive in generale:
+"…se è pur vero che gli artt. 4 e 31 LMC,
+assegnando la competenza a questo giudice in materia di misure coercitive,
+fanno riferimento alla carcerazione di cui all’art. 13c cpv. 2 LDDS, va detto
+che l’art. 32 LMC estende la competenza a tutte le altre decisioni
+dell’autorità amministrativa. Tra queste rientrano senza dubbio anche le misure
+messe in atto in applicazione dell’art. 14 cpv. 3 LDDS aventi per scopo di
+mettere al sicuro i documenti di legittimazione degli stranieri da allontanare.
+Del resto la trattenuta del documento di
+legittimazione messa in atto in applicazione di questa norma di legge é
+senz’altro assimilabile per analogia, in ragione dei suoi effetti (segnatamente
+quello di limitare allo straniero la possibilità di circolare e di varcare il
+confine), al deposito dei documenti previsto dall’art. 2 LMC quale
+provvedimento sostitutivo della carcerazione. L’Ufficio giuridico non contesta
+che questo giudice sia competente a decidere i ricorsi contro le decisioni
+adottate in applicazione di quest’ultimo articolo.
+L’assegnazione della competenza alla medesima autorità
+di ricorso per le misure previste dall’art. 14 cpv. 3 LDDS e quelle previste
+dall’art. 2 LMC, appare quindi inderogabile per evitare disparità di
+trattamento e per unità di materia."
+(GIAR 14 febbraio 2003, inc. 35.2001.1).
+5.
+Nel caso in esame, la SPI sostiene incompetenza di
+questo giudice per il fatto che la misura sarebbe stata adottata in virtù degli
+artt. 8 e 10 LAsi che impongono all'autorità amministrativa (tra cui deve
+essere annoverata anche la Polizia) di prendere in consegna e mettere al sicuro
+i documenti di viaggio e di legittimazione e ciò fino ad esaurimento della
+procedura (nel caso specifico ancora in corso fino alla decisione finale della
+CRA).
+L'argomentazione non convince.
+Gli artt. 8 e 10 della LAsi (del 26 giugno 1998,
+revisione globale), sostituiscono, di fatto, anche l'art. 12b introdotto con la
+LMC del 1995 (cfr. FF 1996 II p.11ss, 30 e 44 in particolare) e pertanto v'è da
+chiedersi se non si tratti comunque di misura coercitive alle quali si applica
+la legge cantonale d'applicazione ed il relativo art. 32 (cfr. sentenza citata
+al punto 4 della presente decisione). Inoltre, come peraltro affermato dalla
+stessa SPI lo scopo degli artt. 8, 9 e 10 Lasi è quello di assicurare il
+controllo d'identità al momento del deposito della domanda ma anche di
+assicurare, se del caso, l'allontanamento (Osservazioni p.2; cfr. pure FF 1998
+I 273 ss, 300 e 302, FF 1996 II p. 1 ss., p.44) e quest'ultimo compete ai
+cantoni (art. 46 LAsi). La competenza decisionale esclusiva dell'UFR (Direttiva
+20.09.1999; art. 10 LAsi), nel secondo caso (allontanamento)  non appare così
+granitica come pretende la SPI.
+Nel caso in esame, tuttavia, appare superfluo ogni
+ulteriore approfondimento in merito dato che nulla, nell'incarto, indica che la
+presa in consegna/trattenuta dei documenti d'identità del ricorrente si fondi
+sugli articoli citati. Infatti, i documenti sono stati depositati al momento
+della presentazione della domanda (cfr. verbale di audizione del 18.12.1998),
+quindi in applicazione dell'art. 8 LAsi, e restituiti il 17 giugno 2002 con
+l'assenso della SPI che, ancora il 9 gennaio 2003, comunicava al legale del
+ricorrente che chiedeva lumi sull'operato della polizia, che i documenti erano
+già stati restituiti. Nella sua decisione del 2 dicembre 2002 l'UFR non fa'
+alcun riferimento alla necessità di mettere al sicuro i documenti di
+legittimazione.
+Alla luce di quanto sopra si può legittimamente
+ritenere che l'art.8 LAsi non sia (più) invocabile e che il richiamo all'art.
+10 (in particolare cpv. 2) non sia pertinente in assenza di un qualsiasi
+richiamo in merito da parte dell'UFR o di una qualsiasi comunicazione all'UFR
+(ufficio di "destinazione" dei documenti nella norma citata). L'assenza
+di una decisione, o anche solo di una comunicazione al ricorrente, che indichi
+la base legale della misura intrapresa dalla polizia, così come il fatto che
+non siano state presentate osservazioni (da parte di chi ha assunto di fatto la
+misura) sembrano confermare questa conclusione.
+6.
+In virtù di tutto quanto sopra si deve concludere che
+la misura adottata dalla Polizia cantonale costituisce una misura coercitiva ai
+sensi della LCALMC (rispettivamente sull'art. 2 lett. c. o 2 lett. e. del
+RLALMC) con conseguente competenza di questo ufficio a statuire sul ricorso.
+Infatti, al momento in cui è in corso una procedura
+d'allontanamento, le misure adottabili dall'autorità preposta allo stesso
+(ancorché nel caso specifico l'allontanamento sia ancora in sospeso come da
+decisione del CRA) sono quelle di cui agli artt. 13° ss. e 14 LDDS. L'art. 14
+cpv. 3 LDDS è stato introdotto nella legge federale sulla dimora e il domicilio
+degli stranieri (LDDS) con la legge federale del 14 marzo 1994 concernente
+misure coercitive in materia di diritto degli stranieri (in vigore dal 1
+febbraio 1995) e meglio dalla stessa legge che ha introdotto gli artt. 13a -13e
+LDDS. La misura della perquisizione dello straniero allo scopo di reperire il
+suo documento di legittimazione o più semplicemente l’obbligo fatto allo stesso
+di depositare detto documento per metterlo al sicuro in vista
+dell’allontanamento, previsti dall’art. 14 cpv. 3 LDDS, sono dunque da
+annoverarsi tra le misure coercitive stesse.
+Molto esplicito in tal senso é del resto il Messaggio
+del Consiglio federale là dove, commentando l’introduzione di questa normativa,
+rileva che:
+“le autorità competenti in materia di stranieri devono
+poter contare sul fatto che gli stranieri, in procedura di allontanamento o di
+espulsione, abbiano a consegnare i documenti, allo scopo d’accertamento
+dell’identità ed attuazione della relativa decisione. Il fatto che spesso molti
+richiedenti l’asilo ed anche altri stranieri omettano di farlo rende più
+difficile o addirittura impossibile l’esecuzione dell’allontanamento o
+dell’espulsione ordinati. Entrano quindi in linea di conto, come misura
+coercitiva allo scopo di procurare i giustificativi necessari per l’espulsione
+o lo sfratto, in primo luogo la perquisizione dello straniero e degli oggetti
+che porta con sé” (FF 1994 I 300).
+Il ricorso 27 gennaio 2003 avverso l'operato della
+Polizia cantonale é ricevibile.
+7.
+Per quanto attiene il merito della misura si deve,
+innanzitutto, constatare come l'assenza di  una qualsivoglia motivazione che
+permetta di verificare la legalità della misura adottata, per rapporto alla
+situazione concreta ed alla base legale, faccia si che la misura stessa non
+possa essere protetta. Il fatto che la legge non preveda che la misura debba
+essere preliminarmente intimata per iscritto allo straniero mediante decisione
+(Nicolas Wisard: Les renvois et leur exécution en droit des étrangers et en
+droit d’asile, pag. 242), non significa che si possa operare senza dover
+fornire un minimo di motivazione, anche per garantire il diritto di essere
+sentito della persona che subisce la misura.
+Comunque, dall'incarto non emergono elementi concreti
+che permettano di ritenere la "messa al sicuro dei documenti" una
+misura necessaria. Da un lato le competenti autorità avevano già provveduto
+alla restituzione dopo l'emanazione di una decisione negativa e la CRA, nella
+decisione del 30 maggio 2002, menziona esplicitamente il possesso dei documenti
+di legittimazione (da parte del qui ricorrente) come elemento se non necessario
+perlomeno utile alla preparazione del rimpatrio.
+I documenti di legittimazione del ricorrente debbono
+essergli restituiti.
+Restando riservata l'emanazione di (ulteriore) misura
+da parte dell'autorità competente con relativa motivazione ancorché sommaria.
+8.
+Il ricorrente chiede pure il gratuito patrocinio per
+la presente procedura. Tale misura, visto l'esito del reclamo e l'assegnazione
+di ripetibili, non è necessaria.
+Visti i citati articoli di legge,
+decide:
+1.
+Il ricorso è accolto.
+2.
+La decisione di fatto della
+Polizia cantonale con la quale sono stati trattenuti i documenti d'identità del
+signor __________ é annullata; i documenti debbono essere restituiti.
+3.
+La tassa di giustizia di FRS
+300.00 e le spese di FRS 50.00 sono a carico dello Stato che rifonderà al
+ricorrente FRS 400.00 a titolo di ripetibili.
+4.
+Contro la presente decisione é
+dato ricorso al Tribunale cantonale amministrativo entro 15 (quindici) giorni
+dall’intimazione.
+5.
+Intimazione a:
+-
+avv. __________, per sé e per il
+ricorrente;
+-
+Ufficio giuridico della Sezione
+dei permessi e dell’immigrazione, Viale Stefano Franscini 15, 6500 Bellinzona,
+con l'incarto di ritorno;
+-
+Comando della Polizia del Cantone
+Ticino, 6500 Bellinzona.
+giudice
+__________
