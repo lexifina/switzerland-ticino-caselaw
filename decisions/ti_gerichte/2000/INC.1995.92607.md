@@ -1,0 +1,92 @@
+---
+decision_id: "ti_gerichte_INC.1995.92607"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1995.92607"
+decided: "2000-05-22"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56956&nX40_KEY=4711469&nTrefferzeile=21&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.1995.92607
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 22.05.2000 INC.1995.92607
+Tessin Il Giudice dell'istruzione e dell'arresto 22.05.2000 INC.1995.92607
+Ticino Il Giudice dell'istruzione e dell'arresto 22.05.2000 INC.1995.92607
+
+Sentenza o decisione senza scheda
+
+N. 926.1995.7 L                                                         Lugano,
+22 maggio 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+"
+cautelativo
+" presentato il 18 maggio 2000 da
+__________
+(patrocinata dall'avv.
+__________)
+contro una non meglio descritta
+decisione 8 maggio 2000 del Procuratore pubblico generale, con riferimento
+all'incarto 99.1448 MR;
+atteso che:
+-
+ogni impugnativa deve essere convenientemente motivata, per consentire
+alle eventuali controparti di prendere adeguata posizione ed al giudice di
+convenientemente statuire (decisione 29 novembre 1999 in re A.B., inc. GIAR
+248.94.2; sentenza 20 luglio 1994 in re E.B., CRP 250/94);
+-
+ora, dallo scritto qui in discussione, non è dato di ben comprenderne le
+motivazioni e soprattutto le finalità, in proposito facendo difetto un preciso
+petitum sostenuto da adeguate corrispondenti ragioni;
+-
+infatti dall'esame degli incarti presso il Ministero pubblico appare
+essere qui dedotta la decisione 8 maggio 2000 di sequestro di una cassetta
+registrata e l'apparente reclamo nella stessa frase contraddittoriamente
+conclude per "
+l'inammissibilità del sequestro
+" e per la
+legittimità dell'uso di registrazioni quali mezzi di prova, mentre quanto
+precede non ha diretto nesso con l'una o l'altra di queste conclusioni;
+-
+simile gravame è conseguentemente irricevibile (senza necessità di
+chiamare le controparti a presentare superflue osservazioni), con carico delle
+spese giudiziarie alla reclamante soccombente, riservato il diritto di ricorso
+alla Camera dei ricorsi penali entro dieci giorni dall'intimazione;
+visti gli art. 280 ss. CPP,
+decide:
+1.
+Il reclamo è irricevibile.
+2.
+La tassa di giustizia di fr. 120.- e le spese di fr. 20.- sono a carico
+di __________.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall'intimazione.
+4.
+Intimazione:
+-
+avv.
+__________, per sé e per la reclamante;
+-
+avv.
+__________, per sé e per il dott. __________ (con
+copia del reclamo);
+-
+Procuratore
+pubblico generale, sede (con copia del reclamo e con gli inc.
+NLP 1130 e 1175 di
+ritorno).
+giudice
+__________
