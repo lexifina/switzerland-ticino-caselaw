@@ -1,0 +1,305 @@
+---
+decision_id: "ti_gerichte_INC.2003.63903"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.63903"
+decided: "2003-11-14"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59382&nX40_KEY=4711321&nTrefferzeile=66&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/142.20/art-023.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2003.63903
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 14.11.2003 INC.2003.63903
+Tessin Il Giudice dell'istruzione e dell'arresto 14.11.2003 INC.2003.63903
+Ticino Il Giudice dell'istruzione e dell'arresto 14.11.2003 INC.2003.63903
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.63903
+Lugano
+14 novembre 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+__________
+sedente per statuire sull’istanza di libertà provvisoria
+presentata in data 10 novembre 2003 da
+__________
+, cittadina della Bosnia
+Herzegovina, già residente a __________ e soggiornante in via __________,
+attualmente detenuta c/o PCT La Stampa, Cadro
+e qui trasmessa il 12 novembre 2003 con preavviso negativo
+dalla
+Procuratrice pubblica __________
+viste le osservazioni 13 novembre
+2003 dell’accusata, che conferma contenuti e conclusioni dell’istanza e il
+complemento di informazioni 14 novembre 2003 della magistrata inquirente;
+letti ed esaminati gli atti,
+segnatamente l’inc. MP __________/2003;
+ritenuto,
+in fatto:
+A.
+__________ è stata arrestata a
+__________ il 3 ottobre 2003, con contestuale promozione dell’accusa nei suoi
+confronti per infrazione aggravata alla LFStup (art. 19 cifra 2 LFStup) e
+infrazione alla LDDS (art. 23 LDDS).
+L’arresto è stato confermato dal
+GIAR il 4 ottobre 2003, ritenuti presenti gravi e concreti indizi di
+colpevolezza, pericolo di fuga, bisogni dell’istruzione e pericolo di
+collusione (doc. _, inc. GIAR __________).
+B.
+La sera del 3 ottobre 2003 i
+Carabinieri di __________ comunicavano agli inquirenti svizzeri di aver
+provveduto all’arresto di __________ (figlia di __________) e di __________ e
+di aver trovato questi ultimi in possesso di 1550 pastiglie di ecstasy. Ritenuto
+che dai controlli telefonici in atto emergeva che __________ era pienamente a
+conoscenza di quanto stava facendo sua figlia, gli inquirenti svizzeri
+provvedevano pure al suo arresto (AI _).
+L’accusata ha inizialmente
+ripetutamente negato di essere a conoscenza delle attività illegali della
+figlia __________ (v. verb. PO 4.10.2003, ore 01.38; verb. PO 4.10.2003, ore
+10.20 e verb. PO 8.10.2003 ore 10.08). Nel seguito ha poi ammesso di essere a
+conoscenza dei suddetti traffici (v. verb. PO 16.10.2003, ore 9.00) e di
+esserne pure personalmente coinvolta, per avere quantomeno messo a disposizione
+della figlia FRS: 5'000.- per l’acquisto in Bosnia di 1’600/1'700 pastiglie di
+ecstasi (v. verb. PO 16.10.2003, ore 13.45; verb. PP 20.10.2003, ore 14.00 e
+verb. PO 30.10.2003, ore 09.23; verb. PP 31.10.2003, ore 09.40).
+In data 6 ottobre 2003, gli
+inquirenti svizzeri hanno arrestato anche __________ c, pure risultato
+coinvolto nel traffico di stupefacenti in oggetto (AI 17).
+C.
+Con istanza 10 novembre 2003,
+__________ chiede di essere immediatamente posta in libertà provvisoria.
+L’accusata non contesta la
+presenza di gravi indizi di colpevolezza e dice di aver confessato quanto
+commesso. A sostegno della sua richiesta rileva che sua figlia __________,
+minorenne di 15 anni, sarebbe attualmente allo sbando, ciò in quanto l’altra
+sua figlia __________, che si occupava della sorella durante la sua
+carcerazione in Germania, è oggi pure in stato di arresto. D’altro canto non vi
+sarebbe, a suo dire, nè il pericolo di fuga, nè il pericolo di recidiva.
+D.
+Con preavviso negativo 12
+novembre 2003, dopo aver evidenziato i gravi e concreti indizi esistenti a
+carico dell’accusata, passando segnatamente in rassegna le ammissioni di
+quest’ultima, la magistrata inquirente ha indicato sussistenza di bisogni
+istruttori; ciò in particolare in relazione alla necessità di procedere a
+rigorosa verifica e approfondimento delle dichiarazioni dell’accusata e di
+effettuare la rogatoria in Italia “per poter ben definire il ruolo dei differenti
+protagonisti”.
+Vi sarebbe inoltre il pericolo di
+collusione e di inquinamento delle prove con la figlia __________ e con “la
+mente” del traffico in Bosnia. Vi sarebbe poi pericolo di fuga, ritenuto che la
+stessa ha “sposato nel settembre 2003 un cittadino che risiede in Svizzera” ma
+non è cittadina svizzera e “non risulta affatto che ... abbia mai vissuto con
+il marito”. Neppure il legame con la figlia __________, secondo la Procuratrice
+pubblica, impedirebbe all’accusata di “lasciare il territorio”.
+Vi sarebbe infine un pericolo di
+recidiva, in ragione delle precedenti condanne esistenti a carico dell’accusata
+in Svizzera e in Germania.
+E.
+Con le osservazioni 13 ottobre
+2003 al preavviso negativo, l’accusata contesta la sussistenza di bisogni
+istruttori, come pure di un pericolo di collusione e di inquinamento delle
+prove. La commissione rogatoria sarebbe stata “formulata ben un mese dopo
+l’arresto dell’accusata, ritenuto che già ab inizio doveva e poteva essere nota
+l’eventuale opportunità ... di interrogare anche la figlia”. L’accusata
+ribadisce poi che non sussiste neppure il pericolo di fuga, essendo ella
+sposata con un cittadino svizzero e ritenuto che “in Ticino vive la figlia
+__________ ”. Contesta l’affermazione della magistrata inquirente secondo cui
+non avrebbe vissuto mai sotto lo stesso tetto del coniuge __________.
+Considerato,
+in diritto:
+1.
+La legittimazione di __________,
+accusata detenuta, all'inoltro della presente istanza, trasmessa a questo
+ufficio nei termini di legge, è pacifica.
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui riproposti:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne – il pericolo di fuga, il pericolo di recidiva e i bisogni
+dell’istruzione, con particolare riguardo al pericolo di collusione che, - sia
+detto qui a futura memoria - può continuare ad esistere sino al pubblico
+dibattimento (sentenza della I Corte di diritto pubblico del Tribunale federale
+del 23 marzo 2000 in re S.B., consid. 4a). Si aggiunge, sempre con riferimento
+al caso in esame, che l’elenco dei motivi di interesse pubblico nell’art. 95
+cpv. 2 CPP non è esaustivo (Messaggio aggiuntivo del 20 marzo 1991 concernente
+la revisione del CPP, ad art. 27, pag. 32, nota 3), tra altri possibili,
+essendovi quello della tutela dell’ordine pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc.
+520.2001.5)
+3.
+Sufficienti presupposti di legge,
+come anche esplicati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di __________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà.
+3.1.
+I seri e concreti indizi di
+colpevolezza a carico di __________ (non formalmente contestati dalla difesa,
+ma comunque soggetti a verifica d’ufficio da parte di questo giudice) sono
+senz’altro dati: l’accusata ha infatti ammesso il suo diretto coinvolgimento
+nell’acquisto da parte di sua figlia __________ di un consistente quantitativo
+di ecstasy destinate ad essere rivendute, segnatamente di aver messo a
+disposizione della figlia l’importo di FRS. 5'000.—per l’acquisto di
+1’600/1'700 pastiglie di ecstasy (v. verb. PO 16.10.2003, ore 13.45; verb. PP
+20.10.2003, ore 14.00 e verb. PO 30.10.2003, ore 09.23; verb. PP 31.10.2003,
+ore 09.40).
+Il coinvolgimento di __________
+nel traffico di stupefacenti trova del resto conferma nelle intercettazioni
+telefoniche (già contestate all’accusata e annesse ai verbali di interrogatorio
+di PO del 5.11.2003, ore 11.10 e 14.39), come pure nelle dichiarazioni del
+correo __________ (v. AI __  e AI __).
+3.2
+Anche le altre condizioni che
+permettono il mantenimento della carcerazione preventiva, sono pure (e ancora)
+presenti nella fattispecie in oggetto.
+3.2.1
+La magistrata inquirente stà
+procedendo negli interrogatori dell’accusata e del correo __________, pure in
+arresto in Svizzera. Per l’audizione dei correi __________ e __________
+(detenuti in Italia), la Procuratrice pubblica in data 3 novembre 2003 ha
+avviato una commissione rogatoria alla competente autorità giudiziaria italiana
+(AI __).
+La magistrata inquirente fa
+valere a giusta ragione i bisogni istruttori con il connesso pericolo di
+collusione, ciò in relazione all’esecuzione dei suddetti atti d’inchiesta, ma
+anche alle ammissioni fatte dall’accusata negli interrogatori di polizia del 5
+novembre 2003 di un suo più ampio coinvolgimento nell’organizzazione del
+traffico di stupefacenti (con contatti con persona residente in Bosnia).
+3.2.2
+La Procuratrice pubblica fa pure
+valere il pericolo di fuga.
+I criteri determinanti per
+stabilire se esista pericolo di fuga sono il carattere del prevenuto, il suo
+domicilio, la sua professione, la sua situazione familiare ed i suoi legami con
+lo Stato in cui egli è inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in
+re S. C. del Tribunale federale, sentenza 20 ottobre 1994 in re M.A., CRP
+314/94) e l'apprezzamento di tutte tali circostanze, per invocare appunto un
+rischio di fuga, deve lasciar presumere che le conseguenze di una fuga appaiono
+rispetto all'accusato come un male minore rispetto a quello derivante per lui
+dall'ulteriore carcerazione, con maggior forza quanto più i reati imputati
+comportino pene edittali od eventualità di pena concreta importante (in questo
+senso M. Luvini, in Rep. 1989, p. 292 e ss. e riferimenti ivi indicati;
+sentenza 14 novembre 1994 in re S.V., CRP 341/94).
+A mente di questo giudice tale
+pericolo è in questo caso dato e concreto. __________ è cittadina della Bosnia
+Herzegovina e dopo aver terminato di espiare la pena per una condanna in
+Germania, in data 10 maggio 2003 è giunta in Svizzera, dove ha risieduto
+illegalmente a partire dalla scadenza del visto d’entrata (7.8.2003: v. AI __,
+verb. PO 4.11.2003 p. 2). Dal 22 settembre 2003 l’accusata è sposata con il
+cittadino italo-svizzero __________, residente presso l’Albergo __________.
+L’accusata ha tuttavia dichiarato di non aver fino ad ora vissuto sotto lo
+stesso tetto del coniuge __________(v. verb. PO 12 novembre 2003, ore 15.49),
+ciò a conferma della labilità del rapporto esistente con il marito, che
+traspare del resto in tutta evidenza dal menzionato verbale di interrogatorio.
+A giusta ragione la magistrata inquirente rileva dunque che “i rapporti tra i
+coniugi non sembrano essere tali da far ritenere che l’accusata rimarrebbe in
+Svizzera a disposizione delle autorità inquirenti, rispettivamente che non si
+sotrarrebbe al procedimento penale”, considerato il fatto che essa è certamente
+consapevole del rischio di essere confrontata con una pena di una certa
+consistenza.
+Neppure la presenza in Svizzera
+di __________, figlia quindicenne della __________, depone a favore di una
+scarcerazione dell’accusata, ciò in ragione della coscienza da parte di
+quest’ultima del rischio sopraddetto. Non cambia la conclusione neppure la
+circostanza che __________ sia rimasta sola dopo l’arresto della sorella
+__________e il nuovo arresto della madre; spetterà infatti semmai all’autorita
+tutoria competente prendere gli opportuni provvedimenti cautelari.
+3.2.3
+La Procuratrice pubblica fa anche
+valere il pericolo di recidiva.
+Il pericolo di recidiva deve
+essere concreto (DTF 105 Ia 31) e risultare da una valutazione dell’insieme
+delle circostanze, tra cui i precedenti dell’accusato, il suo comportamento
+durante l’istruttoria, la sua personalità, la sua costituzione fisica e
+soprattutto psichica e le modalità di commissione dei reati che gli vengono
+addebitati, così che la reiterazione appaia assai verosimile (LUVINI, I
+presupposti materiali del carcere preventivo nel processo penale ticinese, REP
+1989, pag. 294; Gérard PIQUEREZ, Manuel de procédure pénale suisse, Zurich
+2001, n.1479/1483).
+A carico di __________ vi sono
+precedenti condanne sia in Svizzera che all’estero. Dall’estratto del
+casellario giudiziale svizzero risulta che l’accusata è stata condannata una
+prima volta l’11.12.1997, con DA del Ministero Pubblico di Lugano, a 15 giorni
+di detenzione (sospesi condizionalmente per un periodo di prova di due anni)
+per infrazione alla LDDS e una seconda volta il 9.11.2000, dalle Assise
+correzionali di Lugano, a 3 mesi di detenzione (sospesi condizionalmente per un
+periodo di prova di quattro anni) per truffa (v. AI 40). __________ risulta
+pure essere stata condannata il 31.5.2002, dal Tribunale di
+__________(Germania), a tre anni di detenzione per traffico illecito di
+clandestini (v. AI 51), pena che ha espiato tra il 9.11.2000 e il 19.3.2003 (v.
+dichiarazioni dell’accusata: verb. PO 4.10.2003, ore 01.38 e verb. PO
+30.10.2003, ore 09.23).
+Il pericolo di recidiva è dunque
+manifestamente dato, ritenuto che l’accusata è addirittura recidiva specifica e
+l’arresto per i nuovi fatti a lei imputati è avvenuto a poco meno di sette mesi
+dall’espiazione di un’importante pena detentiva.
+3.2.4
+Visto il breve lasso di tempo
+intercorso fra l’arresto e l’istanza ora in esame (38 giorni), va infine
+rilevato che il carcere preventivo sofferto e ipotizzabile, in un procedimento
+che risulta essere condotto con coerente sollecitudine nonostante la presenza
+di più persone coinvolte, è rispettoso del principio della proporzionalità, con
+riferimento alla presumibile pena.
+Resta sottointeso l’obbligo, per
+la magistrata inquirente, di trattare con priorità i casi in cui l’accusato è
+in detenzione (art. 102 cpv. 1 e 176 cpv. 3 CPP).
+4.
+In conclusione, l’istanza in
+discussione si appalesa infondata e come tale deve essere respinta con la
+presente decisione, esente da tassa e da spese giudiziarie (art. 39 lett. f TG
+e contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali
+del Tribunale d’appello (art. 284 cpv. 1 lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione a:
+-
+avv. __________, per sé e per l’istante;
+-
+Procuratrice pubblica __________
+(con
+copia delle osservazioni e l’incarto MP __________/2003 di ritorno).
+giudice
+_____________
