@@ -1,0 +1,201 @@
+---
+decision_id: "ti_gerichte_INC.2000.50604"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.50604"
+decided: "2002-01-16"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59454&nX40_KEY=4711433&nTrefferzeile=92&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-058.md", "switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2000.50604
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 16.01.2002 INC.2000.50604
+Tessin Il Giudice dell'istruzione e dell'arresto 16.01.2002 INC.2000.50604
+Ticino Il Giudice dell'istruzione e dell'arresto 16.01.2002 INC.2000.50604
+
+Sentenza o decisione senza scheda
+
+N. 506.2000.4 L                                                         Lugano,
+16 gennaio 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato il 5 giugno 2001 da
+____________
+,
+(patrocinata dall'avv. __________)
+contro la decisione 22 maggio
+2001 del
+Procuratore pubblico
+avv. __________, che ha rifiutato il
+dissequestro di beni sequestrati nel contesto del procedimento pendente a
+carico di
+____________
+(patrocinato dall'avv. __________);
+viste le osservazioni 15 giugno
+2001 del magistrato inquirente, che postula la reiezione del reclamo, e quelle
+15 giugno 2001 di ____________, che di contro ne postula la reiezione;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+per diversi anni ____________ è stata segretaria dell'avv. ____________,
+arrestato il 24 agosto 2000 con le imputazioni di truffa estorsione, corruzione
+attiva e riciclaggio di denaro, con istruttoria tuttora in corso, che ha
+evidenziato tra altro un ampio contesto di riciclaggio di importanti somme
+di denaro specialmente connesse con traffici di stupefacenti ed estensione
+quindi dell'accusa all'ipotesi di organizzazione criminale;
+-
+le indagini hanno portato al sequestro di averi rivendicati dalla reclamante
+ed in particolare, per quanto qui concerne in quanto tuttora gravati dal
+provvedimento, il conto bancario __________ presso l'__________ di Lugano, il
+libretto di risparmio __________ della Banca __________, un orologio ed alcuni
+gioielli;
+-
+con decisione 22 maggio 2001, il Procuratore pubblico ha respinto la
+domanda di dissequestro formulata da ____________, stringatamente argomentando
+che orologio e gioielli costituiscono "
+elargizioni riferite all'avv.
+____________
+" e che non ha ancora potuto essere definita l'origine
+degli averi bancari e "
+quindi la reale pertinenza economica degli
+attivi e delle movimentazioni intervenute
+";
+-
+con la subordinata richiesta di un confronto con ____________
+sull'oggetto  dei contestati sequestri, in via principale il reclamo vuole la
+restituzione dei beni sequestrati, trattandosi di pertinenze proprie di
+____________, in quanto il conto __________ ha dimostrate origini interne alla
+famiglia della reclamante ed estranee alle attività inquisite, il libretto di
+risparmio è stato alimentato con risparmi della stessa interessata ed orologio
+e gioielli sono regali ricevuti da ____________, in grazia anche ad una
+transitoria loro "
+relazione sentimentale
+";
+-
+il Procuratore pubblico chiede la reiezione del reclamo, essendovi sufficienti
+sospetti di connessione tra averi in discussione e attività indagate a carico
+di ____________: il libretto al portatore della Banca __________ si trovava con
+altri affidati da quest'ultimo alla reclamante, con importi confluitivi da
+contanti a disposizione del menzionato legale, in successione di accrediti,
+senza riscontro di asseriti prestiti; presso l'__________ si appoggiavano altri
+conti inquisiti ed era abitudine della reclamante di "
+intestarsi conti
+altrui
+"; il sospetto su orologio e gioielli deriva dal loro valore e
+dalle attività di ____________, rispettivamente dall'origine dei suoi contanti;
+-
+l’art. 161 cpv. 1 CPP impone al Procuratore Pubblico di ordinare il
+sequestro di tutti gli oggetti che possono avere qualche importanza per il
+processo, sia come mezzi di prova sia perché soggetti a confisca o a
+devoluzione allo Stato: la norma - meglio poi specificata nei capoversi
+successivi -
+corrisponde all’art. 120 CPP/1941, per cui ancora soccorre la giurisprudenza
+della Camera dei ricorsi penali sul tema (REP. 1987, p. 265; 1989, p. 599;
+sentenze 30 gennaio 1992 in re O.C., CRP 282/91 e 17 marzo 1992 in re G.M., CRP
+38/92; decisione 17 gennaio 1996 in re CS, GIAR 1.95.5: v. ora REP 1996, n.
+107), ed allora il sequestro, per la sua qualità di provvedimento eminentemente
+cautelare, ha lo scopo di acquisire e conservare gli oggetti di cui sopra al
+dispiegamento della procedura e quindi alle necessità dell’istruzione
+preliminare, alle decisioni del magistrato requirente ed a quelle del giudice del
+merito nella duplice prospettiva - alternativa o cumulativa - della produzione
+e valutazione delle prove (sequestro probatorio) e delle decisioni di confisca,
+restituzione o devoluzione, come gli art. 58 ss CP rispettivamente 270-271 CPP
+(sequestro confiscatorio), ritenuto che, come in tutti gli istituti procedurali
+tali da intaccare eccezionalmente i diritti individuali per prevalenza di
+interesse pubblico, il sequestro é legittimo unicamente in presenza concorrente
+di sufficienti indizi di reato e di connessione tra questo e l’oggetto che così
+occorre salvaguardare agli incombenti dell’autorità requirente ed inquirente,
+con sempre accresciuta esigenza probatoria indiziante approssimantesi alla
+verità materiale (cfr. in contesto più generale:
+Gérard Piquerez
+,
+Précis de procédure pénale suisse, Lausanne 1987, p. 191 n. 926 ss);
+-
+per quanto concerne il conto __________, il Procuratore pubblico avanza
+solo ipotesi, derivate dalla sua collocazione presso lo stesso istituto
+bancario a cui faceva capo l'avv. ____________ e da "
+abitudine
+"
+della reclamante di figurare titolare di conti altrui, mentre non viene addotto
+nessun altro oggettivo riscontro di sospetto: sull'opposto fronte ____________
+(come al reclamo, agli allegati prodotti ed alle risultanze istruttorie) porta
+sufficiente giustificazione di provenienza del capitale iniziale da fonte
+estranea, per cui il sequestro non si giustifica, tenuto altresì conto che non
+esce dalla norma per una segretaria appoggiarsi allo stesso istituto bancario
+presso il quale opera il datore di lavoro e che nulla si può direttamente
+dedurre dall'aver prestato il proprio nome ad altri conti di terzi e neppure
+dall'aver successivamente erogato dubbi prestiti;
+-
+non è possibile collegare direttamente orologio e gioielli regalati alle
+attività criminose di ____________, perlomeno neppure risulta avanzata
+l'ipotesi che ____________ potesse ritenere quei presenti siccome sospetti
+nella loro provenienza, intesa quale origine del loro pagamento: è d'altro
+canto notorio che l'avv. ____________ era uso beneficiare terzi di doni, di
+minor o maggior valore, e quindi non appare fuori del normale che egli avesse
+voluto favorire la propria collaboratrice, al di fuori dello stipendio
+contrattuale;
+-
+il rinvenimento del libretto al portatore della Banca __________ con
+altri affidati alla reclamante e le movimentazioni evidenziate dal magistrato
+inquirente, con provento da contanti nelle disponibilità di ____________,
+nell'ottica delle imputazioni mosse a quest'ultimo, e l'assenza di divergenti
+documentate ragioni permettono di considerare in questo caso legittimo e
+giustificato il mantenimento del sequestro: né vale a quest'ultimo solo
+proposito un'audizione in confronto con ____________, che già ha affermato
+essere anche quel libretto di "
+spettanza della reclamante
+" (v.
+osservazioni al reclamo), mentre occorrerà un approfondimento complessivo delle
+transazioni attinenti all'attività criminosa imputata a quest'ultimo;
+-
+di conseguenza, ricordato il diritto di ricorrere alla Camera dei
+ricorsi penali (art. 284 cpv. 1 lett. a CPP), il reclamo è parzialmente
+accolto, senza seguito di tassa di giustizia né di ripetibili, per la
+compensazione tra parte vincente e perdente;
+visti i citati articoli di legge,
+decide:
+1.
+Il reclamo è parzialmente accolto.
+1.1.1
+Di conseguenza il Procuratore pubblico disporrà il dissequestro del
+conto __________ presso l'__________ di Lugano e del bracciale "
+Bogialli
+",
+dell'orologio "
+Rolex
+", dell'anello, della collanina e del
+ciondolo "__________" e della collana e bracciale "
+Goldhouse
+".
+2.
+Non si percepiscono spese giudiziarie e non si attribuiscono ripetibili.
+3.
+Contro la presente decisione è dato ricorso, entro dieci giorni
+dall'intimazione, alla Camera dei ricorsi penali.
+4.
+Intimazione:
+-
+avv. __________, per sé e per la reclamante (con copia delle
+osservazioni del magistrato inquirente);
+-
+avv. __________, per sé e per ____________ (con copia delle
+osservazioni del magistrato inquirente);
+-
+Procuratore pubblico avv. __________, sede.
+giudice
+__________
