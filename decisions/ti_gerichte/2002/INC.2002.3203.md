@@ -1,0 +1,459 @@
+---
+decision_id: "ti_gerichte_INC.2002.3203"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.3203"
+decided: "2002-09-05"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=99603&nX40_KEY=4711365&nTrefferzeile=33&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-164.md", "switzerland/bund/acts/312.0/art-183.md", "switzerland/bund/acts/313.0/art-020.md", "switzerland/bund/acts/313.0/art-021.md", "switzerland/bund/acts/313.0/art-022.md", "switzerland/bund/acts/313.0/art-062.md"]
+---
+
+# TI Gerichte INC.2002.3203
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 05.09.2002 INC.2002.3203
+Tessin Il Giudice dell'istruzione e dell'arresto 05.09.2002 INC.2002.3203
+Ticino Il Giudice dell'istruzione e dell'arresto 05.09.2002 INC.2002.3203
+
+Sentenza o decisione senza scheda
+
+N. 32.2002.3                                                               Lugano,
+5 settembre 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Edy Meli
+Sedente per statuire sul reclamo
+2/5 agosto 2002 presentato da
+__________
+(patr.
+dallo Studio legale __________)
+contro l’ordine di perquisizione
+e sequestro bancario 23 luglio 2002 emanato dal Procuratore Pubblico avv.
+Giuseppe Muschietti, Bellinzona, nell’ambito di procedimento penale di cui
+all’inc. MP __________;
+richiamata l'ordinanza di
+intimazione del 5 agosto 2002 (rinvio all'art. 164 CPP e non intimazione del
+reclamo alle parti civili);
+viste le osservazioni del
+Procuratore pubblico datata 7 agosto 2002;
+visto l'incarto MP __________;
+ritenuto
+in fatto
+A.
+A seguito di un esposto inerente
+"
+fatti di rilevanza penale
+", presentato da __________ il 13
+settembre 2001, il Ministero pubblico ha avviato informazioni preliminari, per
+le ipotesi di reato di cui agli artt. 140 e 158 CP, nei confronti di __________
+(AI 1, 2, 39, 42); allo stadio attuale dell'inchiesta non risultano promozioni
+formali dell'accusa.
+Nel corso dell'assunzione
+d'informazioni preliminari, il magistrato inquirente ha proceduto a notificare,
+a più di un istituto di credito, ordini di perquisizione e sequestro.
+Questi ordini hanno colpito,
+presso la __________ (ora __________), __________, sia una relazione intestata
+a __________, sia relazioni intestate a terzi e per le quali __________ risulta
+essere (o essere stato) al beneficio di un "Mandato di
+Amministrazione" (cfr. AI 2, 4, 5, 10, 22; Rapporto EFIN __________).
+B.
+Con ordine del 23 luglio 2002,
+ipotizzando una violazione dell'art. 19 LFid in aggiunta alle ipotesi di reato
+di cui agli artt. 140 e 158 CP (quindi estendendo le informazioni preliminari
+anche al menzionato reato), il magistrato inquirente ha ordinato una
+(ulteriore) perquisizione, presso la __________, ed il sequestro di
+documentazione inerente i rapporti contrattuali dell'indagato con l'istituto di
+credito e le retrocessioni conferitegli.
+Il tutto a fini probatori in
+relazione con l'ipotesi di violazione della LFid (cfr. Ordine 23 luglio 2002).
+C.
+Con il presente reclamo, __________,
+dopo alcune richieste procedurali (evase con l'ordinanza del 5 agosto scorso),
+chiede l'annullamento dell'ordine 23 luglio 2002 per "
+incompetenza del
+Pubblico Ministero
+", subordinatamente per infondatezza dello stesso
+"
+sia in fatto che in diritto
+" (cfr. petitum del Reclamo 2
+agosto 2002).
+Egli sostiene, in via principale,
+incompetenza del Procuratore per l'applicazione dell'art. 19 LFid. A suo dire
+spetta all'autorità amministrativa determinare preventivamente se un caso sia
+grave oppure no e ciò in base alla ratio legis che vuole evitare applicazione
+disomogenea della norma, nonché a causa delle difficoltà nello stabilire il
+confine tra consulenza ed attività fiduciaria (Reclamo, pagine 2 e 3).
+In via subordinata, e sempre
+secondo il reclamante, l'ordine impugnato costituisce ricerca indiscriminata di
+prove in quanto il Procuratore pubblico  "
+non dispone del ben che
+minimo indizio di infrazione alla Lfid
+" (Reclamo pagine 4 e 5) e viola
+il principio di proporzionalità in quanto per accertare un reato di "
+carattere
+minore
+" si richiede ad una banca la produzione di una "
+massa
+di documenti straordinariamente ampia
+" (Reclamo pagina 6).
+D.
+Diametralmente opposta la
+posizione del Procuratore pubblico che, con le sue osservazioni del 7 agosto
+2002, chiede la reiezione del gravame.
+Il magistrato inquirente contesta
+che il Ministero pubblico non possa decidere, autonomamente, di procedere nei
+casi in cui è presunta una violazione grave della LFid e debba attendere una
+sorta di "autorizzazione a procedere" da parte dell'autorità
+amministrativa (Osservazioni 7 agosto 2002, pagine 1 e 2). Il fatto che la
+legge preveda una comunicazione da parte dell'autorità amministrativa a quella
+penale (art. 19 cpv. 5 LFid), quando la prima abbia conoscenza di un caso
+"grave", è semplicemente un richiamo all'obbligo di comunicare
+notizie di reato da parte delle autorità amministrative ma non sottointende alcuna
+esigenza di autorizzazione da parte di questa autorità (Osservazioni, pagina
+2).
+In seguito, il magistrato indica
+gli indizi d'infrazione (grave) alla LFid sui quali ha fondato l'ordine
+(sostanzialmente i verbali dello stesso indagato, rispettivamente di coindagati
+nei reati patrimoniali - cfr. Osservazioni, pagine 2 e 3) e su tale base
+contesta che il provvedimento sia fondato sul nulla, costituisca una fishing
+expedition e violi il principio di proporzionalità.
+Delle altre argomentazioni ed
+indicazioni delle parti, si dirà, se necessario, nei considerandi che seguono.
+Considerato
+in diritto
+1.
+Il reclamante, indagato nel
+procedimento (per infrazione grave alla LFid), è legittimato ad interporre
+reclamo contro l'ordine del 23 luglio 2002 che, tra l'altro, è volto ad
+acquisire documentazione che lo concerne.
+Il reclamo è tempestivo.
+2.
+La tesi del reclamante secondo
+cui il procuratore pubblico è incompetente a procedere autonomamente per
+infrazione (grave) alla LFid, in assenza di una decisione preventiva
+dell'autorità amministrativa che accerti l'esistenza di un "caso
+grave" e, con ciò, determini competenza del Ministero pubblico, non può
+essere accolta.
+a)
+L'attribuzione, da parte del
+legislatore cantonale, alla sola autorità amministrativa della facoltà di
+stabilire (a posteriori, visto l'utilizzo nel reclamo della forma verbale
+"abbia") se un'attività sia soggetta all'obbligo d'autorizzazione e,
+conseguentemente, l'impossibilità per l'autorità penale di procedere (ex art.
+19 cpv. 5 LFid) in assenza di tale (preventiva) determinazione, non si deduce
+né dalla "
+chiara ed ineccepibile
+" ratio legis, né dai lavori
+parlamentari, né dalla giurisprudenza (evocata ma non indicata dal reclamante).
+Non una parola, su questa
+tematica, emerge dal Messaggio n. 2697 dell'8 marzo 1983. Nella sua parte
+generale, il documento si occupa quasi esclusivamente della compatibilità della
+regolamentazione con l'art. 31 della CF (allora in vigore). L'art. 16 del
+progetto non menziona esplicitamente le competenze per i casi
+"semplici" e quelle per i casi "gravi" o di
+"recidiva", tantomeno lo fa il messaggio nel commento all'articolo.
+L'art. 17 del progetto richiama l'obbligo delle autorità giudiziarie ed
+amministrative di informare il CdS delle decisioni di condanna di carattere
+penale o amministrativo, ma con riferimento ad ogni tipo di condanna, in
+Svizzera o all'estero, e per le finalità delle decisioni d'autorizzazione o di
+revoca (commento ad art. 18 del progetto). La precisazione relativa alla
+competenza della Procura pubblica (ora Ministero pubblico) per i casi (gravi)
+punibili anche con l'arresto (art. 19 cpv. 5, con formulazione che corrisponde
+all'attuale) è stata proposta dalla Commissione della legislazione, nel suo
+rapporto del 6 aprile 1984 e nell'ambito di una sostanziale rielaborazione del
+testo degli articoli per motivi di tecnica legislativa e di maggior completezza
+(Rapporto punto 3.1), senza alcun commento per quanto concerne la problematica
+posta dal reclamo (Rapporto ad art. 19). In Gran consiglio la legge é stata
+approvata (senza voti contrari e con 4 astensioni) senza discussione
+particolare; l'art. 19, rispettivamente il suo contenuto, non è neppure stato
+menzionato (cfr. Verbale G.C. Sessione primaverile - Seduta VIII: lunedì 18
+giugno 1984).
+Successivi interventi, anche
+recenti ed in parte ancora in fase di consultazione, non hanno mai interessato
+la norma in questione (cfr. messaggi 3110 del 2.12.1986, 3831 del 8.10.1991,
+4727 del 4.03.1998 [poi ritirato]).
+Alla luce di quanto sopra, affermare,
+come fa il reclamante, che il legislatore ha stabilito in modo chiaro una
+procedura (che la decisione impugnata sovvertirebbe), è perlomeno azzardato.
+b)
+Non giova alla tesi del
+ricorrente, il richiamo alla prassi della CFB.
+L'art. 51 bis LFB distingue le
+infrazioni di competenza dei Cantoni, da quelle di competenza del Dipartimento
+federale delle finanze (art. 51 bis cpv. 1 e cpv. 2 LFB). I Cantoni sono
+competenti per il procedimento ed il giudizio relativo alle fattispecie
+menzionate dagli artt. 47 e 48 LFB, l'autorità amministrative per
+quelle menzionate dagli artt. 46, 49, 50 e 50 bis LFB. La gravità di una
+specifica infrazione non rientra tra i criteri di determinazione della
+competenza.
+La stessa norma precisa che il
+Dipartimento, per i casi che rientrano nella sua competenza, dove applicare le
+norme procedurali del DPA (art. 51 bis cpv. 2 in fine).
+Questa chiara determinazione
+delle competenze diminuisce (se non addirittura elimina) le probabilità di un
+conflitto di competenza. Comunque, si sottolinea che la legge non afferma che i
+Cantoni, per procedere (artt. 47 e 48 LFB), devono attendere che l'autorità
+amministrativa determini se la fattispecie rientri (effettivamente) tra quelle
+di loro competenza.
+Il rinvio alle norme procedurali
+del DPA (per i casi di cui all'art. 51 bis cpv. 2 LFB) permette, all'autorità
+amministrativa, di demandare il giudizio (ma non l'inchiesta - cfr. art. 20
+DPA) all'autorità giudiziaria (di norma un tribunale cantonale - cfr. art. 22
+DPA), qualora reputi esistano gli estremi per ordinare una misura privativa
+della libertà (art. 21 cpv. 1 DPA). È in questo preciso ambito che il Tribunale
+federale ha avuto modo di affermare che l'autorità amministrativa deve
+concludere l'inchiesta e, solo successivamente, può demandare al Cantone
+l'incarto, per il solo giudizio previa decisione formale ex art. 62 ss. DPA , e
+ciò anche se presso l'autorità cantonale è pendente un procedimento contro la
+stessa persona per altri reati (DTF 121 IV 326).
+L'Alta corte giunge a questa conclusione
+fondandosi da un lato sugli artt. 20 e 21 DPA che distinguono chiaramente tra
+procedura e giudizio, dall'altro sui lavori parlamentari (relativi sia al DPA
+che alla LFB) che evidenziano la volontà del legislatore di affidare
+l'inchiesta per determinate infrazioni all'autorità amministrativa, in virtù
+delle sue particolari competenze (specialistiche).
+Nulla di tutto questo è
+trasponibile alla LFid qui in discussione, come già evidenziato sopra
+(considerando 2 a.).
+c)
+Non si può negare, quantomeno dal
+profilo teorico, che vi sia un rischio di applicazione disomogenea della legge
+(peraltro esistente anche laddove la stessa norma è applicata da magistrati
+dello stesso ordine ma che non decidono in collegio). Tuttavia, nulla indica
+che spetti all'amministrazione (e non al giudice) stabilire quali violazioni
+siano gravi e quali no, ritenuto che il giudice penale, se investito della
+questione, non è certamente tenuto a ratificare la "decisione"
+dell'autorità amministrativa (si veda, oltre al DTF citato al considerando 2
+b., e per la questione in termini più generali: A. Grisel, Traité de droit
+administratif, Neuchâtel, 1984, vol. 1 pp. 181 ss.).
+In tal senso si è pronunciata
+anche autorevole dottrina cantonale:
+"
+Infine, per completare il quadro delle relazioni fra
+il diritto penale e la legge sui fiduciari, si rileva che l'unica infrazione
+penalmente perseguibile prevista consiste nell'esercizio della professione
+senza autorizzazione oppure l'uso di designazioni che inducono a ritenere che
+sussista un'autorizzazione (art. 19 cpv. 1). La ripartizione delle
+competenze procedurali è quella consueta: dipartimentale per i casi ordinari,
+essendo punibili con la multa, giudiziaria per i casi gravi oppure (condizione
+alternativa e non cumulativa) di recidiva. Rimane quindi aperta la facoltà per
+l'autorità penale di acquisire gli elementi per stabilire la sussistenza
+dell'infrazione suddetta allorché venga commessa nella sua modalità aggravata,
+cioè proprio in quei casi crassi la scoperta dei quali ha creato le premesse
+per la promulgazione della legge: società
+finanziarie che raccolgono fondi fra il pubblico senza
+essere al beneficio dell'autorizzazione prescritta (art. 7 litt. d) potranno
+essere bloccate non appena
+dovessero dare avvio alla loro attività abusiva. Una
+volta raccolte le prove di tale abuso da parte dell'autorità giudiziaria, che
+dispone a tale scopo di strumenti investigativi ben più incisivi di quelli
+dell'autorità amministrativa, quest'ultima sarà consultata dalla prima onde
+stabilire l'attribuzione della competenza per il giudizio. A questa
+interpretazione non fa ostacolo la seconda frase del quinto capoverso dell'art.
+19, che è pleonastica.
+"
+(P. Bernasconi,
+Misure amministrative per la prevenzione della criminalità economica, in RDAT
+1984 p.271 ss., p. 281/282)
+D'altro canto, e a titolo
+puramente abbondanziale, il legislatore ha voluto limitare la competenza
+dell'autorità amministrativa alla sola multa demandando all'autorità penale i
+casi per i quali la comminatoria prevede anche l'arresto. Non sembra logico che
+sia la prima a decidere "preventivamente" i casi in cui sia possibile
+una condanna all'arresto.
+d)
+In virtù di tutto quanto
+riportato nei paragrafi precedenti, si deve concludere che la LFid non
+subordina la competenza del Ministero pubblico ad una decisione dell'autorità
+amministrativa che definisca il caso "grave o di recidiva", né
+prevede che la procedura volta ad accertare l'esistenza delle condizioni di cui
+all'art. 19 cpv. 5 LFid sia appannaggio di quest'ultima autorità, con
+trasmissione degli atti a quella penale (per il giudizio) solo al termine della
+procedura in questione.
+La competenza del Ministero
+pubblico per avviare indagini in materia di infrazione alla LFid, ed assumere
+le relative prove, è pertanto data.
+3.
+I principi applicabili ad una
+decisione di perquisizione e sequestro, seppur noti al patrocinatore del
+reclamante ed al magistrato inquirente, posso essere riassunti nel modo
+seguente:
+"
+Il sequestro (in casu: bancario) può rappresentare un
+attentato ai diritti personali, o causarne un pregiudizio. Come ogni misura
+d’inchiesta, pertanto, deve soddisfare tre
+presupposti sostanziali: deve poggiare sull’esistenza
+di gravi indizi di colpevolezza, deve apparire necessario per il giudizio di
+merito (nel senso che deve essere connesso con l’oggetto che occorre
+salvaguardare agli incombenti processuali e di giudizio, v. decisione 17 agosto
+1998 in re E.F., inc. Giar 501.98.2 consid. 2), infine deve essere rispettoso
+del
+principio di proporzionalità (v. Gérard Piquerez, Précis de procédure pénale
+suisse, 2. éd. Lausanne 1994, margin. 1441, 1454 e 1469, con rinvii). La
+verifica della fondatezza di questi presupposti, per il doveroso scrupolo di
+rispetto dei diritti individuali, deve essere costante negli incombenti
+dell’autorità inquirente e requirente, con sempre accresciuta esigenza
+probatoria indiziante approssimantesi alla verità materiale, a partire dal
+sospetto all’apertura del procedimento, che va in seguito ed indilatamente
+approfondito con gli accertamenti probatori del caso (v., in contesto più
+generale, Piquerez, cit., margin
+.
+1116
+ss.). Quindi, ovviamente, anche a giustificazione del suo perdurare.
+"
+(GIAR 16
+agosto 2002 in re M., inc. 39.2002.5)
+Ovviamente, quanto vale per il
+sequestro ha da valere anche per la perquisizione che lo precede.
+Occorre pertanto verificare se,
+nel caso specifico, le condizioni menzionate siano presenti.
+4.
+Il procedimento nei confronti di __________
+si trova, formalmente, ancora allo stadio delle informazioni preliminari, per
+tutti i reati ipotizzati (140 e 158 CP, 19 LFid).Questa circostanza non pone
+ostacoli all'emanazione di un ordine di perquisizione e sequestro, se le
+condizioni menzionate al considerando precedente sono riunite, ancorché sia
+auspicabile non rinviare la formalizzazione dell'accusa quando le condizioni
+(determinazione del carattere penale del fatto ed identificazione del possibile
+reo) sono presenti (art. 183 CPP; L. Marazzi, IL GIAR l'arbitro nel processo
+penale, Lugano, 2001, p.12 ss.).
+Non vi è dubbio che, nel caso in
+esame, l'ordine impugnato è stato emanato unicamente in relazione all'ipotesi
+di violazione della LFid (cfr. Ordine 23 luglio 2002, p.1 secondo paragrafo).
+Di conseguenza, è per rapporto a questa sola ipotesi di reato che deve essere valutata
+la sua fondatezza.
+Come detto più sopra il
+reclamante afferma inesistenza di "un benché minimo indizio" di
+reato, nonostante i molti mesi di indagine e gli approfonditi e dettagliati
+interrogatori dell'indagato (Reclamo pagina 5). Di contro, il magistrato
+inquirente afferma che proprio dagli interrogatori dell'indagato emergono
+indizi di reato, rafforzati dal ruolo di "gestore" di conti di
+clienti presso le banche (Osservazioni, pagina 2).
+La semplice visione di una parte
+della documentazione bancaria già raccolta (Classificatore "Conti bancari
+1") permette di individuare almeno tre relazioni bancarie diverse con
+conferimento di "Mandato amministrativo" al reclamante, contestuale
+all'apertura della relazione (relazioni denominate __________, __________ e __________
+presso __________). Dai verbali resi dal reclamante emerge che le tre indicate
+non sono le uniche, che egli si riferisce a tali persone come a
+"clienti", che li ha (perlomeno alcuni) conosciuti in quanto
+collaboratore di una __________ di __________, che vi era un accordo (non si sa
+se scritto o solo verbale) tra la
+__________ e la __________ e che egli fungeva da "collettore" di
+retrocessioni (per clientela apportata) che la banca versava (Verbali PP __________
+5 febbraio 2002 p. 1, 4 e 5 e 7 febbraio p. 4 e 6).
+La consulenza in relazione
+all'apertura di un (solo) conto bancario e l'assunzione del relativo mandato
+d'amministrazione, rientra nel campo d'applicazione dell'art. 19 LFid (DTF
+20.12.1990 in re B.; Assise Criminali Lugano 24 settembre 1997 in re V. [di
+transenna si segnala che in questa sentenza la Corte non ha messo in
+discussione la competenza di indagine del Ministero pubblico pur in assenza di
+preventiva decisione dell'amministrazione]). Che ciò sia avvenuto a più riprese
+nei confronti di persone diverse e non legate tra loro, con compito di
+"raccolta" delle commissioni/retrocessioni, non solo per sé ma anche
+per altri verosimilmente operanti con analoghe modalità, può (e sia detto senza
+pregiudizio per le competenze del giudice del merito) rientrare nel caso grave
+di cui all'art. 19 cpv. 5 LFid.
+Gravi indizi di reato a
+giustificazione dell'ordine di perquisizione e sequestro documentale, sono
+dati.
+5.
+Stabilita la presenza di gravi
+indizi di reato (tutt'altro che "
+sociologici
+" - Reclamo, p.
+4.), va pure detto che l'ordine impugnato non ha le caratteristiche di una
+ricerca indiscriminata di prove ed appare rispettoso del principio di
+proporzionalità.
+L'ordine è stato notificato ad un
+unico istituto di credito (quello presso il quale risultano esservi relazioni
+amministrate dall'indagato), la documentazione richiesta, oltre ad essere
+individuata in modo preciso e sulla base di quanto emerge da altri documenti
+agli atti e/o dalle verbalizzazioni effettuate sino ad oggi (eventuali rapporti
+contrattuali tra l'accusato -direttamente o tramite le società con le quali
+collabora- e la banca, note interne relative all'attività in questione,
+retrocessioni - cfr. Ordine 23 luglio 2002), appare di sicuro interesse
+probatorio per il seguito dell'inchiesta, e l'eventuale giudizio, in quanto
+atta (se esiste) a meglio definire l'effettiva attività svolta dall'indagato,
+le modalità della stessa ed il relativo compenso.
+Priva d'oggetto, anche a
+prescindere dalla pertinenza, l'obiezione secondo cui sarebbe chiesta alla
+banca la produzione di
+"… una massa di documenti straordinariamente
+ampia
+…" (Reclamo, p.6). Infatti, l'istituto di credito ha già
+provveduto a trasmettere la documentazione in una busta (chiusa in applicazione
+e con richiamo dell'art. 164 CPP) il cui spessore non supera il centimetro.
+Anche dal profilo della
+pertinenza e della proporzionalità, l'ordine impugnato merita protezione.
+6.
+Accertata la legittimità
+dell'ordine impugnato, occorre ora occuparsi della  messa sotto suggello della
+documentazione, da parte dalla sequestrataria (cfr. scritto 14 agosto 2002 __________
+- ex __________, doc. 5 inc. GIAR 32.2002.3).
+In realtà, l'istituto di credito
+non ha prodotto la documentazione sotto suggello (con richiesta di decisione
+del GIAR ex art. 164 CPP) perché non voleva consentirne l'esame, a seguito
+dell'ordine del procuratore pubblico. Molto più semplicemente, la produzione
+della documentazione, con la modalità menzionata, è conseguente all'ordinanza
+del 5 agosto 2002 di questo giudice che ha evaso la richiesta d'effetto
+sospensivo presentata dal reclamante con esplicito rinvio alla procedura
+dell'art. 164 CPP (doc. 3 inc. GIAR citato). Infatti, lo scritto della banca fa
+esplicito riferimento all'ordinanza menzionata ed è privo di motivazione
+specifica in relazione al contenuto dell'art. 164 CPP, segnatamente
+all'eventuale estraneità della documentazione per rapporto al processo (questo
+giudice, che non ha compiti istruttori e non può determinarsi in prima istanza
+sulle prove spulciando magari l'intero incarto e tutta la documentazione
+bancaria sin qui acquisita, necessita di contestazioni precise per potersi
+esprimere in merito - sentenza GIAR 20 giugno 2002 in re S., inc. 325.2002.2).
+Neppure il reclamante fornisce elementi in tal senso.
+L'unico motivo che ha indotto la
+sequestrataria a richiamare la procedura di messa sotto suggello, è,
+manifestamente, quello di produrre la documentazione richiesta dall'ordine ma,
+contemporaneamente, non permetterne visione da parte del magistrato inquirente
+fino ad evasione del presente reclamo (come detto, a seguito dell'ordinanza del
+5 agosto 2002).
+Da quanto sopra deriva inutilità
+di un esame della documentazione da parte di questo giudice, che può quindi
+essere trasmessa all'autorità inquirente, così come ricevuta, per l'esecuzione
+materiale della perquisizione e conferma (o smentita) del sequestro a seguito
+dell'esecuzione di quest'ultima, che il magistrato inquirente non ha, di fatto,
+ancora effettuato (art. 164 CPP, ultima frase; GIAR 23 marzo 1994, inc.
+224.94.1).
+7.
+Il reclamo contro l'ordine di
+perquisizione e sequestro 23 luglio 2002 è respinto con contestuale
+trasmissione della documentazione posta sotto suggello al Procuratore pubblico
+per la perquisizione e l'eventuale seguito del sequestro.
+Reiezione del gravame comporta
+carico di tasse e spese al reclamante con decisione suscettibile di reclamo ex
+art. 284 cpv. 1 lett. a) CPP.
+P.Q.M.
+viste le norme applicabili ed in
+particolare gli artt. 19 LFid, 140, 158 CP, 157 ss., 161, 164, 280, 284 CPP,
+decide
+1.
+Il reclamo 2 agosto 2002 presentato da __________ contro l'ordine di
+perquisizione e sequestro del 23 luglio 2002 è respinto.
+2.
+La documentazione bancaria oggetto di procedura di messa sotto suggello
+è consegnata al Procuratore pubblico Giuseppe Muschietti per i suoi incombenti,
+come ai considerandi.
+3.
+La tassa di giustizia fissata in FRS 800.-, e le spese di FRS 70.-, sono
+a carico del reclamante.
+4.
+Contro la presente decisione è dato reclamo alla CRP entro 10 (dieci) giorni
+dall'intimazione.
+5.
+Intimazione a:
+giudice
+Edy Meli
