@@ -1,0 +1,142 @@
+---
+decision_id: "ti_gerichte_INC.2000.63801"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.63801"
+decided: "2000-10-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=57073&nX40_KEY=4711461&nTrefferzeile=41&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-117.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2000.63801
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.10.2000 INC.2000.63801
+Tessin Il Giudice dell'istruzione e dell'arresto 23.10.2000 INC.2000.63801
+Ticino Il Giudice dell'istruzione e dell'arresto 23.10.2000 INC.2000.63801
+
+Sentenza o decisione senza scheda
+
+N. 638.2000.1 L                                                         Lugano,
+23 ottobre 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato il 17 ottobre 2000 da
+__________
+(patrocinato dall'avv.
+__________)
+contro la domanda di assistenza
+giudiziaria cantonale formulata il 6 ottobre 2000 dal
+Procuratore pubblico
+avv. __________, nel procedimento condotto allo stadio delle informazioni
+preliminare contro il reclamante per titolo di truffa e di concorrenza sleale;
+viste le osservazioni 19 ottobre
+2000 del magistrato inquirente che postula in via principale la reiezione del
+reclamo;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che
+-
+il fallimento della ditta __________, tramite per forniture di merce
+alla __________, ha portato all'apertura di procedimento penale con raccolta di
+informazioni preliminari, tra altri nei confronti di __________, a mente del
+magistrato inquirente "
+dominus incontrastato della __________
+", per le ipotesi di truffa in danno dei fornitori e di concorrenza sleale
+per aver approfittato dei contatti commerciali stabiliti dalla __________, dopo
+il fallimento di quest'ultima;
+-
+considerando necessario sentire __________ e di fronte al suo rifiuto di
+deporre, il Procuratore pubblico ha fatto capo all'assistenza giudiziaria
+cantonale per l'interrogatorio del reclamante dinnanzi al Verhöramt di
+__________, autorità competente del domicilio dell'interessato, come all'atto
+formale del 6 ottobre 2000, qui impugnato;
+-
+in sostanza il reclamo vuole l'annullamento della rogatoria, in quanto
+__________ ha già chiaramente e formalmente espresso la sua volontà di
+avvalersi del diritto di non rispondere garantitogli dagli art. 118 cpv. 2 e
+126 CPP, per cui la "
+querelata domanda di assistenza giudiziaria
+"
+sarebbe "
+espressione di un formalismo eccessivo, non sorretto da un
+qualsiasi interesse pubblico sostanziale, che non merita quindi di essere
+giudiziariamente tutelato
+";
+-
+il Procuratore pubblico obbietta come, a garanzia di un corretto
+svolgimento della procedura, __________ deve comparire dinnanzi ad un'autorità
+"
+anche solo per formalizzare la sua volontà di avvalersi della facoltà
+di non rispondere
+";
+-
+l'atto in discussione è in sé una citazione, per cui ci si potrebbe
+chiedere se si tratta di un provvedimento genericamente impugnabile a norma
+dell'art. 280 CPP, con dovere quindi dell'indicazione dei rimedi di diritto:
+comunque __________ ha rispettato i termini di legge, senza pregiudizio per
+l'esposizione delle sua ragioni, ed allora il reclamo è sotto questo punto di
+vista ricevibile;
+-
+di contro, le argomentazioni avanzate nel reclamo non sono di peso;
+-
+nei confronti di __________ non è stata promossa l'accusa (art. 184 cpv.
+1 e 188 ss. CPP), ma è chiaramente sottoposto ad informazioni preliminari con
+precise ipotesi di reato, per cui gode dei diritti dell'accusato (Rusca,
+Salmina e Verda, Commento del CPP, ad art. 47 nota 2), ma anche degli obblighi
+che questa veste comporta;
+-
+in questo senso egli deve dare seguito alle citazioni "
+sotto
+comminatoria di comparizione forzata in caso di disobbedienza
+", come
+all'art. 117 cpv. 1 CPP, il quale, guarda caso si rivolge anche all'"
+indiziato
+"
+(figura introdotta con il Messaggio dell'11 marzo 1987 concernente la revisione
+totale del CPP, non altrimenti ripresa nelle successive modifiche del codice di
+rito);
+-
+sarà dinnanzi al magistrato competente che egli, a conoscenza degli
+addebiti e dei propri diritti, potrà in particolare far valere quello di non
+rispondere, secondo l'art. 118 cpv. 2 CPP;
+-
+né si tratta di superflua formalità, ma di confronto diretto con
+l'inquirente, necessario per il seguito del procedimento, avendo una diversa
+valenza uno scritto come la lettera 12 ottobre 2000 ed una presa di posizione
+inserita nel contesto processuale;
+-
+il reclamo è pertanto respinto con la presente decisione definitiva
+(art. 284 cpv. 1 lett. a CPP e contrario), le spese giudiziarie seguendo la
+soccombenza;
+visti i citati articoli di legge,
+decide:
+1.
+Il reclamo è respinto.
+2.
+La tassa di giustizia di fr. 300.- e le spese di fr. 20.- sono a carico
+di __________.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+-
+avv. __________, per sé e per il reclamante (con copia delle
+osservazioni del magistrato inquirente);
+-
+Procuratore
+pubblico avv. __________, sede.
+giudice
+__________
