@@ -1,0 +1,331 @@
+---
+decision_id: "ti_gerichte_INC.1998.99114"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1998.99114"
+decided: "2002-02-20"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=86037&nX40_KEY=4711431&nTrefferzeile=78&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/312.0/art-009.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.1998.99114
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 20.02.2002 INC.1998.99114
+Tessin Il Giudice dell'istruzione e dell'arresto 20.02.2002 INC.1998.99114
+Ticino Il Giudice dell'istruzione e dell'arresto 20.02.2002 INC.1998.99114
+
+Sentenza o decisione senza scheda
+
+N. 991.1998.14 L                                                       Lugano,
+20 febbraio 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Claudio Lepori
+sedente per statuire sul reclamo
+presentato il 1. maggio 2001 da
+________________
+,
+(patrocinato dall'avv. __________)
+contro la decisione 19 aprile
+2001 del
+Procuratore pubblico
+avv. Emanuele Stauffer, che ha rifiutato
+la congiunzione del procedimento a carico del reclamante con quelli concernenti
+collaboratori rispettivamente dipendenti di quest'ultimo;
+viste le osservazioni 8 maggio
+2001 del magistrato inquirente, 10 maggio 2001 di __________ recte __________, (patrocinato
+dall'avv. __________), 10 maggio 2001 di __________ (patrocinato dall'avv. __________),
+11 maggio 2001 di __________ (patrocinato dall'avv. __________), 14 maggio 2001
+di __________ (patrocinato dall'avv. __________), 15 maggio 2001 di __________
+(già patrocinata dall'avv. __________ ed ora dall'avv. __________), 17 maggio
+2001 di __________ (patrocinato dall'avv. __________,), e 18 maggio 2001 di __________
+(patrocinato dall'avv. __________), tutti concludenti per la reiezione del
+reclamo;
+costatato che non hanno preso
+posizione gli intimati __________ (patrocinato dall'avv. __________), __________,
+e __________;
+letti ed esaminati gli atti;
+ritenuto
+in fatto:
+A.
+________________, medico
+psichiatra, venne arrestato il 1. dicembre 1998 con promozione dell'accusa nei
+suoi confronti per titolo di truffa e falsità in documenti, reati commessi con
+varie modalità in danno di pazienti, casse malati, assicurazioni sociali e case
+farmaceutiche, in particolare attraverso fatturazioni di prestazioni
+professionali mai eseguite, anche con asseriti ricoveri di pazienti in realtà
+non degenti nelle cliniche dirette dall'accusato o in congedo: la fattispecie è
+qui nota, per precedenti decisioni in materia di libertà personale e di
+provvedimenti processuali, dovendosi solo ricordare che ________________
+ottenne la libertà il 24 dicembre 1999, dopo accordo con la parte civile
+Federazione Ticinese Casse Malati (FTCM), comportante un risarcimento
+complessivo di 10 milioni di franchi (v. sentenza 24 dicembre 1999 della Camera
+dei ricorsi penali, CRP 60.1999.344).
+Evidentemente, sin dall'inizio e
+poi meglio in corso di istruttoria, sono emersi coinvolgimenti del personale
+medico e paramedico, nonché di amministratori, perlomeno nell'accettare e
+mettere in atto le direttive del ________________ ________________, intese ad
+ottenere lievitazione di fatturazioni e poi di incassi. In particolare è stata
+formalmente promossa l'accusa nei confronti delle persone qui chiamate a
+prendere posizione, con procedimenti pacificamente disgiunti con decisione 17
+marzo 2000 da quello nei confronti del reclamante, come a disposizione
+dell'allora Procuratore pubblico avv. Marco Bertoli.
+B.
+La perizia giudiziaria affidata
+con decreto 30 marzo 1999 al ________________ __________, intesa all'esame
+della "
+documentazione medica e clinica sequestrata
+" allo scopo
+di "
+stabilire, a mano dei riscontri oggettivi e delle registrazioni
+mediche ed amministrative, l'effettiva durata dei periodi di degenza presso le
+cliniche, rispettivamente le prestazioni offerte in clinica e presso lo studio
+medico
+", con l'indicazione dell' "
+ammontare della
+sovrafatturazione posta in atti
+e, se del caso, con quali modalità
+", è giunta a quantificare un
+maggior danno di quanto oggetto della convenzione con la FTCM, richiamata
+sopra, concludendo con un importo complessivo di non meno di 20 milioni di
+franchi, come già anticipato ad un'udienza per incombenti del 5 ottobre 2000
+(tanto da indurre la FTCM a chiedere di essere riammessa al procedimento in
+veste di parte civile, pretesa respinta da questo giudice: v. decisione 24
+ottobre 2000, inc. GIAR 991.98.13).
+Dopo aver espresso, con lettera
+27 febbraio 2001 al Procuratore pubblico, sorpresa e incredulità per i nuovi
+risultati emersi dagli approfondimenti peritali, ________________ ha
+formalmente chiesto, con istanza 17 aprile 2001, la congiunzione del suo
+procedimento con quelli diretti contro il personale dirigente medico e
+amministrativo, non dovendo egli farsi carico individualmente di situazioni
+processuali che toccano terzi. Con decisione 19 aprile 2001, il Procuratore
+pubblico ha respinto l'istanza, sostanzialmente in quanto l'aumento del danno
+non ha influenza sull'assetto accusatorio e sulle responsabilità dei singoli.
+C.
+Il reclamo insiste per la
+postulata congiunzione dei procedimenti, come già fatto valere con la reietta
+istanza, in presenza di sorprendente ipotesi di danno più che raddoppiato,
+rispetto al convenuto risarcimento con la FTCM, e ciò attraverso migliaia di
+pretese false iscrizioni operate da professionisti e personale sanitario "
+di
+prim'ordine
+", con loro responsabilità emergente "
+solo ora, in
+queste dimensioni
+". Sono pertanto dati i presupposti dell'unicità di
+fatti, luoghi e modalità, per cui la disgiunzione dei procedimenti tornerebbe
+di notevole pregiudizio per il ________________ ________________, con risvolti
+anche d'ordine fiscale.
+Il Procuratore pubblico chiede la
+reiezione del reclamo, la sola quantificazione del danno non essendo in
+connessione con congiunzione o disgiunzione, ritenuto che quest'ultima non
+mette in pericolo i diritti della difesa né sarebbe tale da influenzare le
+conseguenze d'ordine civile.
+Come annotato in entrata, pure
+gli altri interessati che si sono espressi, postulano la reiezione del gravame:
+mentre il ________________ lapidariamente si limita ad esprimere il suo pieno
+dissenso, viene in particolare evidenziato, nell'ordine di entrata delle
+rispettive osservazioni:
+-
+dal ________________, che non ha tratto alcun vantaggio economico o
+d'altro genere, semmai solo danni per la sua carriera professionale;
+-
+dalla ________________, che la disgiunzione venne già disposta il 13
+marzo 2000 e che l'argomento dell'aumento del danno ora avanzato è pretestuoso,
+nulla
+mutando nella sostanza, senza dimenticare ragioni di opportunità per il
+maggiore e determinante coinvolgimento del ________________ ________________
+che, quale vero beneficiario, ha voluto, provocato e suggerito gli abusi di cui
+l'opponente si è resa complice;
+-
+dal ________________, che egli si trova coinvolto per l'allestimento di
+un solo certificato medico, redatto su richiesta del ________________ ________________,
+per il resto esprimendosi analogamente alla ________________ ;
+-
+dalla signora __________, che la disgiunzione del 13 marzo 2000 fu
+decisa in identica situazione processuale, appunto immutata per l'accertato
+aumento del danno;
+-
+dal ________________, che il reclamo può essere rivolto solo nei
+confronti della decisione di disgiunzione del 13 marzo 2000, per cui è
+manifestamente tardivo, e che in ogni modo tale disposizione è sorretta da
+motivi di opportunità per il rispetto di un processo equo per ogni accusato,
+anche per l'eventualità di competenze di merito di diverse Corti a dipendenza
+della gravità delle singole responsabilità;
+-
+dal signor __________, a sua volta, che la disgiunzione in atto venne
+presa per ragioni di opportunità e come tale fu accettata dal ________________ ________________,
+le cui nuove argomentazioni non sono convincenti.
+e considerando
+in diritto:
+1.
+________________, in quanto
+accusato, fruisce ovviamente del diritto di presentare reclamo in questa sede
+contro tutti i provvedimenti e le omissioni del Procuratore pubblico entro
+dieci giorni dalla loro conoscenza (art. 280 ss. CPP): in quanto
+tempestivamente diretto contro il rifiuto di congiunzione opposto dal
+magistrato requirente con la decisione 19 aprile 2001 alla corrispondente
+richiesta del reclamante, il gravame è formalmente ricevibile.
+Il resistente ________________ sostiene
+tuttavia la sua intempestività, non essendo stata impugnata nei termini di rito
+la precedente decisione del 17 marzo 2000, che ragionatamente aveva disposto la
+disgiunzione, da tutti gli interessati pacificamente accettata. Ora di massima
+determinati provvedimenti presi in corso di istruttoria dal Procuratore
+pubblico o decisi dalle autorità di ricorso o reclamo non sono definitivi, ma
+possono essere revocati o modificati a
+dipendenza dell'evoluzione del procedimento (ad esempio complementi di prova
+respinti in fasi preparatorie potranno ancora essere riproposti in sede di
+deposito degli atti, a ragione di successive emergenze che li fanno nuovi,
+rilevanti o pertinenti: REP 1997 n. 97): ciò vale anche in caso di congiunzione
+o disgiunzione, per evitare insorgere di situazioni anomale, insoddisfacenti o
+inopportune. Ne segue che, anche sotto questi aspetti, il reclamo vuole esame
+del merito.
+2
+Il processo penale svizzero è
+retto dal principio dell’indivisibilità del perseguimento penale, secondo il
+quale non si può frazionare un’azione penale, in caso di pluralità di
+infrazioni commesse dallo stesso accusato, per istruire distinti procedimenti
+per ognuna di esse oppure per esercitarla separatamente contro singoli
+accusati. Di principio quindi un procedimento va ritenuto indivisibile allorché
+più incriminazioni sono contemporaneamente mosse alla stessa persona ed anche
+quando concerne più persone in qualità di autori o coautori, istigatori e
+complici. Solo preminenti divergenti motivi consentono in tali casi l’eccezione
+della disgiunzione, quando la ponderazione degli interessi in gioco la fanno
+più favorevole oppure quando la connessione può risultare iniqua per un
+accusato: in questa prospettiva è necessario che il mantenimento della
+congiunzione abbia la conseguenza di gravi inconvenienti, sia per l’istruzione
+formale, sia per il pubblico dibattimento, ad esempio quando l’autore si trovi
+in carcere preventivo ed il correo sia latitante oppure quando un accusato è
+solo coautore in un reato minore o marginale rispetto agli altri maggiormente
+aggravati (REP 1980 pag. 371 ss., 1997 n. 93) oppure quando rispetto
+all’accusato una parte delle imputazioni sono oggetto di non luogo a procedere
+(decisioni 15 dicembre 1993  in re E.O., GIAR 982.93.1; 3 luglio 1997 in re
+I.K., GIAR 119.93.16).
+E' quanto in sostanza disposto
+dagli art. 35 e 36 CPP (che hanno ripreso i previgenti art. 10 e 11 CPP/1941),
+che proclamano il principio della congiunzione personale e fattuale,
+consentendo trattazione separata di "
+cause
+" di per sé
+connesse, "
+per motivi di opportunità
+" e "
+purché ciò
+non pregiudichi i diritti degli altri accusati
+". Il magistrato
+competente (il Procuratore pubblico nella fase predibattimentale, essendo
+riservato gravame in questa sede) può allora "
+in via eccezionale
+"
+procedere alla disgiunzione, con decisione diretta "
+limitata dal
+pregiudizio che essa può comportare per altri accusati
+" (Rapporto 8
+novembre 1994 della Commissione speciale del Gran Consiglio per l'esame del
+Codice di procedura penale, ad art. 35, pag. 24).
+3.
+La decisione di disgiunzione del
+17 marzo 2000 era assisa su di un complesso di ragioni di convergente
+opportunità, che l'hanno fatta solida, tanto da essere stata pacificamente
+accettata anche del ________________ ________________, che poteva apparire come
+il meno interessato al provvedimento. Si è parlato allora di numerose persone
+coinvolte nell'inchiesta, delle diverse loro responsabilità oggettive e
+soggettive, sia per tempi, sia per modalità, sia per funzioni diverse, quando
+già il ________________ ________________ si era caricato del risarcimento alla
+parte civile FTCM di 10 milioni di franchi, pari a qual momento al presunto
+danno complessivo.
+Ora il reclamante assevera che
+l'importante aumento di questa posta è tale da esigere congiunzione con altre
+persone perseguite per evitargli pregiudizio difensivo. L'argomento non è
+pertinente e non scuote le fondamenta della pregressa citata decisione. Senza
+che dal verosimile maggior danno si possano trarre conclusioni su di una
+diversa partecipazione, permangono infatti e sono preminenti le premesse di
+opportunità di allora, nulla appunto essendo mutato nel presunto eventuale
+coinvolgimento di questo o quell'altro indagato, sempre in situazione che può
+essere considerata marginale rispetto a quella del ________________ ________________
+e che sicuramente condurrà a possibile esito dinnanzi ad altro giudice del
+merito, di grado inferiore, rispetto a quello di verosimile deferimento del
+reclamante. Quest'ultimo argomento, nella contemperazione degli interessi, fa
+prevalere quello degli altri perseguiti a contenuto clamore per le loro vicende
+giudiziarie, commisurato all'effettiva gravità dei reati loro imputati (REP
+1980, pag. 371), rispetto a quello del ________________ ________________ ad un
+processo unico, al quale - per i singoli episodi che li concernono - potranno
+essere citati anche i qui resistenti, rimanendo peraltro intatto il diritto del
+reclamante di far capo, in istruttoria formale ed al dibattimento, di tutti i
+mezzi di prova ritenuti pertinenti. Né vengono pregiudicate parallele pendenze
+fiscali, semmai conseguenti e non direttamente attinenti al procedimento
+penale.
+4.
+Il reclamo è conseguentemente
+respinto con la presente decisione definitiva (art. 284 cpv. 1 lett. a CPP, e
+contrario): le spese giudiziarie vanno a carico del reclamante soccombente, con
+suo obbligo di rifondere ai resistenti ripetibili commisurate al rispettivo impegno
+(art. 9 cpv. 6 CPP, con riferimento per analogia all'art. 150 CPC).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+Il reclamo è respinto.
+2.
+La tassa di giustizia di fr. 300.- e le spese di fr. 60.- sono a carico
+di ________________, il quale rifonderà a titolo di ripetibili le somme di:
+2.1
+fr. 150.- ad __________;
+2.2
+fr. fr. 20.- a __________;
+2.3
+fr. 250.- a __________;
+2.4
+fr. 250.- a __________;
+2.5
+fr. 300.- a __________;
+2.6
+fr. 450.- a __________;
+2.7
+fr. 150.- ad __________.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+-
+avv. __________, per sé e per il reclamante (con copia delle
+osservazioni del magistrato inquirente e dei resistenti);
+-
+avv. __________, per sé e per __________ (con copia delle
+osservazioni del magistrato inquirente e degli altri resistenti);
+-
+avv. __________, per sé e per __________ (con copia delle
+osservazioni del magistrato inquirente e degli altri resistenti);
+-
+avv. __________, per sé, per __________ (con copia delle
+osservazioni del magistrato inquirente e degli altri resistenti);
+-
+avv. __________, per sé e per __________ (con copia delle
+osservazioni del magistrato inquirente e degli altri resistenti);
+-
+avv. __________, per sé e per __________ (con copia delle
+osservazioni del magistrato inquirente e degli altri resistenti);
+-
+avv. __________, per sé e per __________ (con copia delle
+osservazioni del magistrato inquirente e degli altri resistenti);
+-
+avv. __________ per sé e per __________;
+-
+__________;
+-
+__________;
+-
+Procuratore pubblico avv. Emanuele Stauffer, sede (con copia
+delle osservazioni dei resistenti).
+giudice
+Claudio Lepori
