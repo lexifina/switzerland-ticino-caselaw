@@ -1,0 +1,179 @@
+---
+decision_id: "ti_gerichte_INC.1999.14504"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.14504"
+decided: "2000-02-22"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56899&nX40_KEY=4711474&nTrefferzeile=66&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.1999.14504
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 22.02.2000 INC.1999.14504
+Tessin Il Giudice dell'istruzione e dell'arresto 22.02.2000 INC.1999.14504
+Ticino Il Giudice dell'istruzione e dell'arresto 22.02.2000 INC.1999.14504
+
+Sentenza o decisione senza scheda
+
+N. 145.99.4 M                                                             Lugano,
+22 febbraio 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull’istanza inoltrata in data 14/15 febbraio
+2000 dal
+Procuratore
+Pubblico
+avv. __________
+intesa ad ottenere la proroga di tre mesi, ovvero sino al 2 giugno
+2000, del carcere preventivo cui è astretto
+__________
+,                        __________
+detenuto presso il __________
+(patrocinato
+dall’avv. __________)
+nel procedimento penale a suo carico per titolo di reato di omicidio
+intenzionale e rapina aggravata;
+lette le osservazioni 17/18 febbraio 2000 dell’accusato, che per il
+tramite del difensore aderisce alla proroga richiesta;
+letti ed esaminati gli atti formanti l’inc. MP 2196/95/MB;
+ritenuto e
+considerato
+in
+fatto ed in diritto:
+che
+-
+la carcerazione preventiva cui è astretto
+__________ è già stata prorogata una volta con decisione 6 agosto 1999 (inc.
+GIAR 145.99.3) alla quale può essere fatto integrale rinvio per quella che è la
+cronistoria dell'azione penale nei confronti di lui (loc. cit., p. 2);
+-
+nei mesi trascorsi dalla succitata proroga,
+l'inchiesta condotta in Ticino ha potuto essere portata avanti in modo
+decisivo, segnatamente tramite l'audizione dei tre correi di __________ nella
+tragica rapina in discussione (v. istanza, inc. GIAR 145.99.4, doc. _, pto 3,
+p. 2);
+-
+con l'istanza qui discussa, il Procuratore
+pubblico, ribaditi gli indizi di colpabilità ed il pericolo di fuga già
+ritenuti nella precedente decisione di questo giudice (6 agosto 1999, cit., p.
+4), menziona quali necessità d'inchiesta tali da giustificare la proroga
+richiesta essenzialmente l'acquisizione delle trascrizioni dei verbali esperiti
+in Italia, la loro contestazione a __________, infine il deposito degli atti
+con la contestuale possibilità, per lui, di chiedere complementi istruttori
+(istanza, cit., pti 3 e 4, p. 2);
+-
+l'accusato ha già espresso il proprio consenso
+al Procuratore pubblico con scritto 9 febbraio 2000 (allegato all'istanza, inc.
+GIAR 145.99.4, doc. _), confermandolo direttamente a questo giudice con scritto
+17 febbraio 2000 (inc. GIAR 145.99.4, doc. _);
+-
+l'art. 95 CPP, dopo evidenza al cpv. 1 del principio secondo cui
+l'accusato si trova di regola in libertà, consente al cpv. 2 arresto, perdurare
+e - segnatamente come nel caso in discussione - proroga del carcere preventivo
+a norma dell'art. 103 CPP, quando esistono a carico dello stesso accusato gravi
+e concreti indizi di colpabilità per un crimine o un delitto e nel contempo
+sono presenti preminenti motivi di interesse pubblico, quali - per quanto qui
+concerne - segnatamente i bisogni dell’istruzione (senza dimenticare che
+l’arresto, quale misura processuale cautelativa, non serve unicamente ai
+bisogni dell’istruttoria, ma anche ad assicurare la presenza dell’accusato al
+processo e a garantire l’eventuale espiazione della pena: DTF 109 Ia 323 consid
+c, e riferimenti; sentenza 16 novembre 1993 del Tribunale federale in re A.H.,
+1P.477/1993, consid. 3), e ritenuto implicito il rispetto della proporzionalità
+(REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381);
+-
+per quanto attiene all'esistenza di sufficienti indizi di
+colpevolezza e di concreto pericolo di fuga, può bastare integrale rinvio alle
+considerazioni esposte nella decisione 6 agosto 1999 (cit., p. 4);
+-
+le esigenze istruttorie menzionate dal Procuratore pubblico,
+segnatamente l'acquisizione delle trascrizioni dei verbali dei correi e la loro
+contestazione all'accusato, sono indubbiamente atte a giustificare la proroga
+richiesta, tanto più che l'accusato medesimo attribuisce loro rilevante grado
+di utilità (v. scritto 9 febbraio 2000 al magistrato inquirente, cit., p. 1);
+-
+per quanto riguarda la proporzionalità della proroga richiesta,
+va annotato preliminarmente che anche nell'ultima fase l'istruzione del
+procedimento  contro l'accusato ha sofferto di momenti di stasi inconciliabili
+con il principio di celerità - basti pensare che le audizioni in Italia erano
+state completate già lo scorso mese di novembre 1999, ma non hanno ancora
+potuto essere prospettate all'accusato;
+-
+va tuttavia precisato che i menzionati ritardi non sono
+imputabili al magistrato d'accusa né ad __________, ma sembrano essere dovuti
+ai tempi lunghi necessari per la trascrizione delle registrazioni dei verbali
+italiani (v. scritto di sollecito 10 febbraio 2000 all'Autorità rogata,
+allegato all'istanza, inc. GIAR 145.99.4, doc. _);
+-
+il Procuratore pubblico ha nel frattempo comunicato oralmente che
+le trascrizioni sono arrivate, motivo per la cui la durata della proroga
+richiesta può essere valutata senza dover tenere conto degli spesso aleatori
+parametri legati all'evasione di commissione rogatoriale all'estero;
+-
+la protrazione di tre mesi postulata dal magistrato inquirente
+può essere considerata di durata abbondante, ma non insostenibilmente lunga, se
+si pon mente al fatto che per compiutamente contestare all'accusato le
+dichiarazioni dei suoi correi potranno essere necessari più verbali, che
+l'ampiezza degli atti potrà giustificare un termine per il loro deposito
+superiore al minimo di legge, e che, infine, non si può escludere la
+formulazione di istanze di complemento istruttorio;
+-
+il procedimento penale contro __________ sfocerà con tutta
+verosimiglianza in una condanna ad una importante pena privativa della libertà,
+di durata comunque ben superiore alla carcerazione preventiva già subita ed
+ancora prospettabile, da cui discende la proporzionalità della proroga
+richiesta sia con riferimento alla durata complessiva del carcere preventivo
+sia con riguardo ai passi istruttori ancora da compiere;
+-
+resta ovviamente impregiudicato l’obbligo del magistrato
+inquirente di procedere alla conclusione dell’istruttoria formale ed
+all’emanazione dell’atto d’accusa con la massima celerità possibile (artt. 102
+e 176 cpv. 3 CPP);
+-
+in conclusione, l’istanza di proroga appare giustificata in
+considerazione delle necessità istruttorie ancora da evadere e dell’evidente
+pericolo di fuga. Essa è pure ragionevolmente agevole nella durata, e deve
+dunque essere accolta, con la presente decisione esente da tassa e spese di
+giudizio (art. 39 lit. f TG
+e contrario
+) e suscettibile di impugnazione
+entro 10 (dieci) giorni alla Camera dei ricorsi penali del Tribunale di appello
+(art. 284 cpv. 1 lit. a CPP).
+Per i quali
+motivi,
+richiamati
+gli articoli menzionati e gli artt. 103, 280 ss. e 284 CPP
+decide:
+1.
+L’istanza 14/15
+febbraio 2000 di proroga del carcere preventivo cui è astretto __________ è
+accolta.
+§     Di
+conseguenza, la detenzione preventiva cui è astretto l’accusato viene prorogata
+sino al prossimo
+2 giugno 2000
+compreso.
+2.
+Non si percepiscono né
+tassa né spese giudiziarie.
+3.
+Contro la presente
+decisione è data facoltà di ricorso alla Camera dei ricorsi penali del
+Tribunale di appello entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+-      avv. __________, per sé e per l’accusato __________;
+-      Procuratore
+Pubblico avv. __________, con copia delle osservazioni 17/18 febbraio 2000
+dell’accusato e con l’inc. 2196/95/MB di ritorno.
+giudice __________
