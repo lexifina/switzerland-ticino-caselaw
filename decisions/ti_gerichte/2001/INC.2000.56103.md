@@ -1,0 +1,251 @@
+---
+decision_id: "ti_gerichte_INC.2000.56103"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.56103"
+decided: "2001-01-05"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59648&nX40_KEY=4711457&nTrefferzeile=7&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-105.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.2000.56103
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 05.01.2001 INC.2000.56103
+Tessin Il Giudice dell'istruzione e dell'arresto 05.01.2001 INC.2000.56103
+Ticino Il Giudice dell'istruzione e dell'arresto 05.01.2001 INC.2000.56103
+
+Sentenza o decisione senza scheda
+
+N. 561.2000.3                                                            Lugano,
+5 gennaio 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 22 dicembre 2000 / 2 gennaio 2001 da
+____________
+,                   attualmente presso il
+Penitenziario cantonale
+(patrocinato
+dall'avv. __________)
+e qui trasmessa con preavviso
+negativo il 3 gennaio 2001 dal
+Procuratore pubblico
+avv. __________;
+osservato che, sentito oggi
+verbalmente, il patrocinatore dell'accusato si conferma in contenuti e
+conclusioni dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+____________ venne arrestato il
+14 settembre 2000, con contestuale promozione dell'accusa nei suoi confronti per
+titolo di appropriazione indebita, truffa, amministrazione infedele e falsità
+in documenti.
+Il procedimento penale ha preso
+avvio con la denuncia 1. settembre 2000 delle signore ____________ e
+____________ (doc. 1 dell'inc. MP 5622), scopertesi spogliate dall'accusato
+degli importi per oltre complessivi fr. 600'000, affidati a quest'ultimo nella
+sua qualità di amministratore unico della fiduciaria ____________ S.A. (da lui
+definita "
+un piccolo ufficio cambi di Lugano
+": v. verbale di
+conferma dell'arresto 15 settembre 2000, doc. 10), con tentativo di mascherare
+la malversazioni attraverso presentazione di falsi estratti di conto. In
+seguito si sono manifestate due altre analoghe vicende, con perdita di 370 mio.
+di lire da parte della famiglia ____________ (doc. 23, verbale A 11) e di 90
+mio. di lire da parte di ____________ (verbale A 18). ____________ per diverso
+tempo ha respinto ogni addebito, facendo riferimento ad investimenti e
+responsabilità di terzi: confrontato poi con le risultanze di diligente
+istruttoria, nel verbale 13 dicembre 2000 dinnanzi al Procuratore pubblico (A
+21), egli ha stringatamente ammesso i suoi torti:
+"
+Dopo
+aver riflettuto su quanto accaduto e dopo aver preso atto di quanto acquisito
+agli atti dell'inchiesta ritengo opportuno rettificare quanto detto finora al
+PP.
+…
+In sostanza
+posso dire che gli averi affidati dalla famiglia ____________ e dalla famiglia
+____________ sono stati da me utilizzati per far fronte a mie spese, nel senso
+che sono stati da me utilizzati. Non sono mai stati investiti.
+Questo
+denaro, per me, è servito anche ad una specie di valvola di sfogo. In questo
+periodo mi trovavo in situazioni di stress che tentavo di alleviare appunto con
+questi soldi.
+"
+2.
+La libertà provvisoria viene
+chiesta per le costatazioni di conclusione dell'istruttoria, senza necessità di
+complementi e quindi con cessato pericolo di collusione, di esclusione di
+pericolo di fuga per la situazione economica disastrata dell'accusato e di
+improponibilità di pericolo di recidiva, quello accennato nella perizia
+psichiatrica non potendo trovare concreta attuazione per la perdita di lavoro.
+Oltretutto occorre far spazio al trattamento ambulatorio, suggerito dalla
+stessa perizia psichiatrica, in libertà.
+Con il suo preavviso negativo,
+dopo breve istoriato dell'evoluzione istruttoria e sottolineatura della
+reticenza dell'accusato, il Procuratore pubblico manifesta la necessità di
+mantenere in essere la carcerazione preventiva cui è astretto ____________, per
+presenza di pericolo di fuga, in quanto gli interessi dell'accusato -
+confrontato con pesanti accuse, di cui invero ha ben poca coscienza - si
+trovano in Italia, e per effettivo pericolo di recidiva, come confermato dalla
+perizia psichiatrica, ed ancora a ragione di mancata resipiscenza. Peraltro la
+durata del carcere preventivo è ridotta e proporzionata alla gravità degli
+addebiti.
+3.
+L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali - per quanto qui concerne - il pericolo di recidiva e
+quello di fuga (senza dimenticare che l’arresto, quale misura processuale
+cautelativa, serve anche ad assicurare la presenza dell’accusato al processo e
+a garantire l’eventuale espiazione della pena: DTF 109 Ia 323 consid c, e
+riferimenti; sentenza 16 novembre 1993 del Tribunale federale in re A.H.,
+1P.477/1993, consid. 3).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128).
+4.
+Sufficienti presupposti di legge,
+come anche esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di ____________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà, sino al dibattimento
+processuale.
+4.1
+Non è necessario soffermarsi
+sugli indizi di colpevolezza in presenza della confessione dell'accusato, come
+al richiamato verbale del 13 dicembre 2000, sostenuta dagli accertamenti nel
+frattempo assicurati dall'istruttoria. Vi è solo da evidenziare la gravità dei
+fatti nella loro consistenza di danno e soprattutto nel contesto soggettivo in
+cui si sono svolti.
+4.2
+La personalità ed il comportamento
+dell'accusato istante consente di considerare dato il presupposto del pericolo
+di recidiva, richiamando come lo stesso debba essere concreto (DTF 105 Ia 31) e
+risultare da una valutazione dell’insieme delle circostanze, tra cui i
+precedenti dell’accusato, il suo atteggiamento durante l’istruttoria, il suo
+carattere, la sua costituzione fisica e soprattutto psichica e le modalità di
+commissione dei reati che gli vengono addebitati, così che la reiterazione
+appaia assai verosimile (LUVINI, loc. cit., pag. 294; Gérard PIQUEREZ, Précis
+de procédure pénale suisse, Lausanne 1987, n. 1186/7).
+In questa direzione spiccano e si
+assommano: la disinvoltura e le finalità con le quali ____________ ha agito, in
+breve tempo dilapidando un patrimonio acquisito solo per proprio vantaggio; gli
+spavaldi approcci con le vittime, con sequela di bugie e di inganni (anche
+documentali) per mascherare le malversazioni; la banalizzazione in istruttoria
+delle proprie responsabilità, dapprima negate con artificiose giustificazioni e
+poi riferite a proprio disagio psicologico; la sua disastrata situazione
+economica, non ben percepita e forse neppure accettata; l'incapacità ad un
+lavoro ordinato di contro ad abitudine a vita dispendiosa. Questo quadro, con
+l'impressione soggettiva di impunità che deriverebbe da facile ottenimento
+della libertà, è tale da propiziare ricaduta nel reato patrimoniale, anche
+senza necessità di riferirsi alle conclusioni della perizia psichiatrica
+prodotta dalla dott. __________, che pure ha rilevato (doc. 58.7, pag. 16):
+"
+Ha si
+sé un'immagine grandiosa, che lo porta a preoccuparsi di gratificare i propri
+bisogni e le proprie necessità rispetto a quelle degli altri; tende ad imporre
+se stesso, poco importa come.
+…
+Il
+periziando sa cos'è la realtà, a cui è ben ancorato, ma non ne tiene conto,
+impegnato com'è a soddisfare i suoi bisogni. Manca della capacità di capire
+quali sono le ripercussioni, di cui non tiene conto.
+…
+Presenta un
+disturbo di personalità grave e manifesto, che pur consentendogli di valutare
+il carattere illecito dell'atto gli impedisce di agire secondo tale valutazione
+(art. 11 CPS).
+Viste le
+difficoltà di controllare i propri impulsi non è escludibile una ripetizione
+dei reati
+".
+Occorre allora che ____________
+sia confrontato in concreto con le conseguenze penali delle consumate malversazioni,
+senza dimenticare l'ausilio del suggerito trattamento ambulatorio, che può
+iniziare anche in corso di carcerazione preventiva (art. 105 CPP, per
+analogia), senza essere necessariamente ed unicamente attuabile in libertà
+(art. 43 cfr. 2 cpv. 2 CP, la sospensione dell'esecuzione della pena essendo
+solo un'eventualità).
+4.3
+Per quanto concerne il pericolo
+di fuga, si ricorda che i criteri determinanti per stabilire se questo
+presupposto sia dato o meno sono il carattere del prevenuto, il suo domicilio,
+la sua professione, la sua situazione famigliare e i suoi legami con lo Stato
+in cui egli é inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in re S.C.
+del Tribunale federale; sentenza 20 ottobre 1994 in re M.A., CRP 314/94).
+L'apprezzamento di tutte le circostanze, per invocare appunto un rischio di
+fuga, deve lasciar presumere che le conseguenze di una fuga appaiano per
+l’accusato come un male minore rispetto a quello derivante per lui
+dall'ulteriore carcerazione, con maggior forza quanto più i reati imputati
+comportino pene edittali od eventualità di pena concreta importanti (in questo
+senso Mario
+Luvini
+; in REP 1989,
+pag. 292, con i riferimenti ivi indicati; sentenza
+14 novembre 1994 in
+re S.V., CRP 341/94).
+Questo presupposto può avere valenza
+solo abbondanziale, per considerazioni analoghe a quelle esposte in precedenza
+ed avuto presente che effettivamente gli interessi personali di ____________
+sono in Italia (e soprattutto se egli fruisce della doppia nazionalità). Ma più
+che di pericolo di fuga vero e proprio, si potrebbe parlare di latitanza nei
+confronti del seguito processuale, in ogni modo da evitare.
+5.
+Il carcere preventivo sin qui sofferto e
+ipotizzabile sino al deferimento al giudice del merito, in un procedimento che
+risulta essere stato condotto con coerente sollecitudine nonostante
+l’atteggiamento vanamente defatigatorio dell’accusato, è pienamente rispettoso
+del principio di proporzionalità: il deposito degli atti a norma dell'art. 196
+CPP si è concluso il 29 dicembre scorso (v. doc. 69), per cui entro breve verrà
+emanato l'atto di accusa, come assicurato dal Procuratore pubblico.
+6.
+L’istanza è così respinta con la presente
+decisione, esente da tassa e spese giudiziarie (art. 39 lett. f TG e contrario)
+e suscettibile di impugnazione alla Camera dei ricorsi penali (art. 284 cpv. 1
+lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-    avv. __________, per sé e per l’istante;
+-    Procuratore pubblico avv. __________, sede (con l’incarto
+MP __________ di ritorno).
+giudice
+__________
