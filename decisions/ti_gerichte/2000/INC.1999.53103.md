@@ -1,0 +1,175 @@
+---
+decision_id: "ti_gerichte_INC.1999.53103"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.53103"
+decided: "2000-01-05"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56834&nX40_KEY=4711477&nTrefferzeile=51&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.1999.53103
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 05.01.2000 INC.1999.53103
+Tessin Il Giudice dell'istruzione e dell'arresto 05.01.2000 INC.1999.53103
+Ticino Il Giudice dell'istruzione e dell'arresto 05.01.2000 INC.1999.53103
+
+Sentenza o decisione senza scheda
+
+N. 531.99.3 R                                                          Lugano,
+5 gennaio 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+3/4 gennaio 2000 formulato da:
+__________
+,                    c/o
+Penitenziario "La Stampa", Lugano
+(patrocinato dall’avv.
+__________);
+contro la decisione 23 dicembre
+1999 della PP avv. __________ in materia di prove;
+sentita verbalmente la PP avv.
+__________ che rinuncia a formulare specifiche osservazioni al gravame;
+avuti gli atti a disposizione,
+considerato;
+in fatto ed in
+diritto
+-    che nei confronti di __________ e contro la ex convivente dello
+stesso __________ la PP avv. __________ ha aperto un procedimento penale ed ha
+promosso l'accusa per titolo di infrazione aggravata alla Legge Federale sugli
+Stupefacenti;
+-    che, in particolare, a carico di __________ vi sono chiamate in
+correità per importanti vendite di cocaina. Il nome dell'accusato è stato fatto
+inizialmente da __________ che lo ha riconosciuto come importante acquirente di
+__________ e facente capo a __________ per i suoi acquisti di stupefacente;
+-    che anche l'accusato __________ ha ammesso di avere venduto al
+duo __________ /__________ cocaina;
+-    che, a carico di __________, vi sono poi le deposizioni della
+stessa __________ (v. 11 agosto 1999) che ha ammesso acquisti importanti
+(superiori al chilogrammo) sia dalla __________ che da __________;
+-    che lo stesso __________ ha ammesso, inizialmente, acquisti di
+cocaina per non meno di 9 etti, circostanza ridimensionata dinnanzi alla PP
+avv. __________ nel verbale 12 agosto 1999 con ammissione di acquisti per non
+meno di 6 etti;
+-    che successivamente l'accusato ha ritrattato il suo dire
+ammettendo traffico per quantitativi contenuti;
+-    che in sede istruttoria - prima ancora del deposito degli atti -
+la difesa di __________ ha chiesto alla PP avv. __________ di sottoporre
+__________ a perizia psichiatrica, di voler procedere - tra gli altri -
+all'audizione di __________;
+-    che, con decisione 23 dicembre 1999, la PP avv. __________ ha
+negato l'erezione di una perizia psichiatrica indicando l'assenza dei
+presupposti legali per tale atto non sussistendo dubbi sulla responsabilità
+penale della giovane. Anche la proposta audizione del teste __________ è stata
+negata con il rilievo che __________ sarebbe inattendibile per gravi problemi
+di tossicodipendenza e pregresso tentativo di suicidio;
+-    che, insoddisfatto della decisione della magistrata, __________
+si è aggravato a questo giudice evidenziando la contraddittorietà della chiamata
+in correità della __________ rispetto anche al dire delle altre persone
+coinvolte nell'istruttoria. Ciò sarebbe sintomo di "forte problema a
+livello di personalità". Lo strano comportamento della __________
+deriverebbe da prime ammissioni importanti e susseguenti ritrattazioni. Anche
+l'audizione di __________ sarebbe importante poiché permetterebbe di accertare
+che __________ spacciava  prima di conoscere __________ circostanza questa
+sottaciuta;
+-    che, di principio, il magistrato d'accusa deve chinarsi sulle
+richieste di complemento istruttorio a completamento della sua istruttoria e
+dopo il deposito degli atti. Se lo fa antecedentemente, come in casu, è
+certamente data la facoltà di impugnativa per la parte interessata. Il reclamo
+risulta quindi ricevibile;
+-    che, per essere ammesse, le prove offerte in conseguenza a
+deposito degli atti (ed anche nelle fasi precedenti se giudicate dal magistrato
+inquirente) debbono adempiere tre concorrenti ordini di considerazioni e
+presupposti: i complementi di prove devono essere motivati per quanto attiene
+al loro oggetto ed al loro scopo in diretta connessione con la fattispecie
+inquisita, debbono avere il requisito della novità, della rilevanza e della
+pertinenza alle successive conclusioni del magistrato inquirente, dopo
+definitiva conclusione dell'istruttoria dibattimentale, e poi - se ne sarà il
+caso - del giudice del merito. Le prove debbono poi essere di difficile
+produzione all'eventuale dibattimento (cfr. Giar 668.99.1 del 14 dicembre 1999
+in re GB);
+-    che di principio il magistrato d'accusa è libero ed autonomo
+nell'assunzione delle prove e nella valutazione della completezza delle
+indagini predibattimentali e, tra le prove cui può far capo, vi è il ricorso
+all'esperto ogniqualvolta occorra stabilire fatti e circostanze
+all'accertamento delle quali siano indispensabili speciali cognizioni. In
+particolare, per quanto attiene alla perizia psichiatrica, la procedura penale
+prevede unicamente la possibilità per il magistrato d'accusa di ordinare tale
+accertamento peritale mentre le condizioni materiali per procedere in tal senso
+sono espressamente fissate nel CPS all'art. 13. Tale norma prevede che
+l'autorità dell'istruzione rispettivamente quella di giudizio possono ordinare
+l'esame dell'accusato se vi sia dubbio circa la sua responsabilità o se
+un'informazione sullo stato psichico dello stesso sia necessaria per l'adozione
+di una misura di sicurezza;
+-    che una perizia può essere ricusata nella misura in cui non
+sussistano dubbi quanto alla responsabilità dell'accusato (JdT 1982 34);
+-    che, nel concreto caso, la responsabilità dell'accusata
+__________ non sembra fare difetto. Dagli atti non appaiono elementi tali da
+far dubitare della consapevolezza delle ammissioni dell'accusata, ammissioni
+(non meno di quelle formulate dal qui reclamante) di seguito in parte almeno
+rettificate. Nel suo gravame __________ non indica alcun serio e valido
+elemento tale da indurre il sospetto che lo stato di salute mentale della
+correa possa essere in qualche modo alterato. Certo __________ ha una difficile
+vita alle spalle, come gli atti permettono di ritenere, e non meno del
+reclamante ha abusato di sostanze stupefacenti. Il reclamo non fonda però su
+tali elementi - comunque di per se insufficienti ad ordinare una perizia psichiatrica
+- le sue richieste. __________ evidenzia il dire apparentemente contraddittorio
+dell'accusata, la divergenza tra la sua versione con le altre raccolte in corso
+di istruttoria (senza peraltro specificarle) e da ciò desume forti problemi a
+livello della personalità. La valutazione circa la credibilità della chiamata
+in correità della signora __________ spetta al giudice del merito. Qui va
+ribadito che __________ è stata spontanea nelle sue ammissioni, e che ciò possa
+disturbare il reclamante è comprensibile, e le sue ammissioni, con le
+successive rettifiche o precisazioni, non possano costituire un elemento tale
+da imporre l'erezione di una perizia psichiatrica;
+-    che la prova offerta, comunque non riferita al reclamante stesso
+bensì a terza persona e quindi di tutta evidenza inconferente per __________,
+non può essere ammessa in questa sede ed il reclamo va quindi respinto su
+questo specifico punto;
+-    che il reclamante chiede l'audizione di __________ che potrebbe
+attestare come la signora __________ spacciasse anche prima della sua
+conoscenza con __________. Si tratterebbe di spaccio di certa importanza.
+Quanto indicato con l'istanza di complemento costituisce una segnalazione di
+reato alla magistratura e la PP deve, conformemente al dettato di legge, porsi
+nella condizione di verificare se promuovere l'accusa o meno per i fatti
+segnalati. L'audizione del teste __________ appare quindi necessaria già per
+questo fatto. D'altra parte, nell'ottica dell'istruttoria, appare rilevante
+sentire il teste proposto per accertare, o smentire, la circostanza secondo cui
+la signora __________ abbia commerciato cocaina solo con il reclamante o meno.
+La PP non ha rifiutato la prova siccome irrilevante, non pertinente od
+inconferente. Essa l'ha scartata siccome il teste sarebbe inaffidabile sia per
+la tossicomania che per un pregresso tentativo di suicidio. La prova come tale
+va ammessa ed il magistrato d'accusa, rispettivamente gli agenti di polizia
+giudiziaria dalla stessa delegati, interpelleranno __________ sui fatti
+d'interesse. L'affidabilità del teste sarà saggiata nel corso dell'audizione
+(il teste potrà o meno ricordare i fatti, potrà o meno essere preciso sugli
+stessi fornendo informazioni circostanziate, …) senza che un accertamento
+peritale si imponga;
+-    che, visto l'esito del gravame, parzialmente ammesso, si
+giustifica di non caricare tasse di giustizia e spese al reclamante e di non
+attribuire ripetibili. La presente decisione è definitiva.
+Pqm, visti le norme procedurali
+citate e gli artt. 280 e segg. CPP;
+decide:
+1.
+Il reclamo è parzialmente accolto nel senso dei considerandi. Di
+conseguenza è ammessa unicamente l'audizione della deposizione di __________.
+2.
+Non si percepiscono tasse e spese e non si allocano ripetibili.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione al reclamante per il tramite dell'avv. __________ ed alla PP
+avv. __________.
+giudice
+__________
