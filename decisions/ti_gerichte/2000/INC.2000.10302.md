@@ -1,0 +1,199 @@
+---
+decision_id: "ti_gerichte_INC.2000.10302"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.10302"
+decided: "2000-03-14"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=97636&nX40_KEY=4711473&nTrefferzeile=52&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-184.md", "switzerland/bund/acts/312.0/art-188.md", "switzerland/bund/acts/312.0/art-191.md", "switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2000.10302
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 14.03.2000 INC.2000.10302
+Tessin Il Giudice dell'istruzione e dell'arresto 14.03.2000 INC.2000.10302
+Ticino Il Giudice dell'istruzione e dell'arresto 14.03.2000 INC.2000.10302
+
+Sentenza o decisione senza scheda
+
+N. 103.2000.2 M                                                        Lugano,
+14 marzo 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Luca Marazzi
+sedente per
+statuire sul reclamo inoltrato in data 10/13 marzo 2000 da
+__________
+(patrocinato di fiducia dall’avv__________)
+avverso la
+decisione di promozione dell’accusa 2 marzo 2000, emanata nei confronti del
+reclamante dal
+Procuratore Pubblico
+avv. Claudia Solcà per titolo di
+appropriazione indebita, amministrazione infedele, falsità in documenti e
+riciclaggio;
+preso atto
+della domanda di concessione dell’effetto sospensivo, formulata contestualmente
+al reclamo;
+avuti a
+disposizione gli atti formanti l’inc. MP __________;
+ritenuto
+in fatto:
+A.
+Dall’autunno
+1997 è condotto un procedimento penale nei confronti dell’accusato qui
+reclamante, sospetto autore di malversazioni ai danni di __________.
+L’inchiesta, condotta dall’inizio del 1998 dall’attuale Procuratore Pubblico
+incaricato, dopo aver inizialmente permesso l’acquisizione di una prima serie
+di documentazione bancaria e l’audizione di personaggi coinvolti in diversi
+ruoli, sta vivendo un momento di stasi a seguito di reclami inoltrati nel corso
+delle ultime settimane dal reclamante e da funzionario di banca, sospettato di
+avere aiutato il primo (v. incc. GIAR 849.99.1, 849.99.2 e 103.2000.1). La
+decisione qui impugnata dimostra che il magistrato inquirente ha nondimeno
+ritenuto di disporre di elementi sufficienti per promuovere formalmente
+l’accusa nei confronti di __________.
+B.
+__________
+insorge contro detta decisione sia avanti a questo giudice sia avanti alla
+lodevole Camera dei ricorsi penali del Tribunale di appello (qui di seguito:
+CRP), pur consapevole che la legge prevede unicamente quest’ultimo rimedio di
+diritto (v. reclamo, inc. GIAR 103.2000.2 doc. 1, pto. I.1 p. 2-3). Nel merito,
+il reclamante eccepisce carenza di motivazione della decisione impugnata (v.
+reclamo, cit., pto. II.A. p. 3), segnatamente violazione dell’art. 188 CPP (v.
+reclamo, cit., pto. II.B. p. 4-6), chiedendo contemporaneamente la concessione
+dell’effetto sospensivo al proprio reclamo in questa sede, in quanto qualsiasi
+ulteriore atto di istruzione formale costituirebbe “
+un pregiudizio
+irreparabile per l’accusato ed una violazione essenziale dei suoi diritti di
+difesa
+” (reclamo, cit., pto. II.C.6 p. 7), con preteso ulteriore “
+pregiudizio
+irreparabile
+” qualora la promozione dell’accusa venisse comunicata a terze
+persone (v. reclamo, cit., pto. II.C.7 p. 7).
+Non sono
+state chieste osservazioni al magistrato inquirente.
+Considerato
+in diritto:
+1.
+Per mezzo
+della promozione dell’accusa, il Procuratore Pubblico procede alla “
+comunicazione
+formale all’accusato e avviso alle parti
+” di aver “
+trovato motivi
+sufficienti [per] procedere all’istruzione del processo
+” (art. 184 cpv. 1
+CPP). Questa formalità è andata a sostituire la trasmissione degli atti al
+Giudice istruttore, con la quale secondo il vecchio codice di rito veniva
+aperta l’istruzione formale (v. Rapporto 22 luglio 1992 della speciale
+Commissione granconsiliare per l’esame del CPP, ad art. 150 p. 65; Salvioni,
+CPP annotato, Locarno 1999, ad art. 191 CPP p. 320).
+2.
+Secondo il
+diritto anteriore, contro l’apertura dell’istruzione formale tramite
+trasmissione dell’incarto al Giudice istruttore non era dato alcun rimedio di
+diritto (v. Rapporto 22 luglio 1992, loc. cit.; Salvioni, cit., ibid.). La
+Commissione speciale del Gran Consiglio ha deciso invece di seguire quanto
+proposto in sede di Messaggio aggiuntivo 20 marzo 1991 (ad art. 146 quinquies,
+p. 147), prendendo spunto dall’art. 164 cpv. 1 cfr. 3 vCPP (sul ricorso contro
+l’atto d’accusa), ed ha introdotto il rimedio del ricorso, precisando tuttavia
+che ciò può avvenire “
+soltanto in casi esattamente definiti, ossia per
+opporre le eccezioni che sospendono od escludono la persecuzione del reato
+oppure che escludono il carattere di reato nell’azione od omissione incriminata
+”
+(Rapporto 22 luglio 1992, loc. cit.; Salvioni, cit., p. 320-321).
+Ne discende,
+senza ombra di dubbio, che il legislatore ha inteso istituire, contro la
+promozione dell’accusa, unicamente il rimedio del ricorso alla Camera dei
+ricorsi penali (CRP), che viene a sostituirsi – e non ad affiancarsi – al
+generico reclamo a questo giudice. Detto altrimenti, l’art. 191 CPP è
+lex
+specialis
+per rapporto all’art. 280 cpv. 1 CPP.
+Tale
+conclusione deriva in primo luogo dalla natura delle eccezioni che possono
+essere sollevate contro la promozione dell’accusa – eccezioni formali che
+sospendono o escludono la persecuzione del reato, ma anche eccezioni di
+carattere sostanziale, che escludono il carattere di reato nell’azione o
+omissione incriminata, e che nella prospettiva adottata a suo tempo dal
+legislatore in punto a ruolo e funzione del giudice dell’istruzione e
+dell’arresto non possono essere devolute ad altri se non alla CRP quale
+autorità avente “
+la competenza di decisione sulle conclusioni
+predibattimentali di merito del procuratore pubblico
+” (Messaggio aggiuntivo
+20 marzo 1991, cit., p. 27).
+3.
+La
+correttezza di tale conclusione è, poi, confermata espressamente nei lavori
+preparatori, segnatamente nel già citato Messaggio aggiuntivo 20 marzo 1991
+(nota 1 ad art. F [attuale art. 191 CPP], p. 224; Salvioni, loc. cit., ad art.
+284 CPP, p. 446), dove di competenza della CRP sono designati “
+decisioni-provvedimenti
+del Procuratore pubblico che sfuggono alla competenza del GIAR, come alla
+riserva dell’art. B [l’attuale art. 280 cpv. 1 in fine CPP, n.d.r.]
+”.
+E tale
+distinzione di competenze era manifestamente ben chiara al legislatore anche
+quando la speciale Commissione granconsiliare ebbe ad esaminare e respingere
+una proposta di emendamento, nella quale era discorso di trasferire dalla CRP a
+questo ufficio la “
+competenza a decidere sull’istanza di promozione
+dell’accusa presentata dalla parte civile, [...] rispettivamente sul reclamo contro
+la promozione dell’accusa da parte del Procuratore pubblico, oggetto dell’art.
+191
+” (v. Rapporto 8 novembre 1994 sulla revisione totale del CPP, ad art.
+186, cit. da Salvioni, loc. cit., p. 315).
+Neppure
+guasta, infine, rilevare che la sussistenza di competenze parallele, seppur
+distinte, di questo giudice (per gli aspetti formali della decisione di
+promozione dell’accusa) e della CRP (per gli aspetti sostanziali della
+medesima), come vorrebbe il reclamante (v. reclamo, cit., pto. I.3 p. 2),
+originerebbe sovrapposizioni e conflitti di competenze dai contorni quasi
+insolubili: ad essi deve essere senz’altro preferita l’esclusiva competenza
+della CRP, naturalmente chiamata a pronunciarsi preliminarmente anche su quelle
+eccezioni di forma – quali la qui lamentata carenza di motivazione – aventi un
+impatto sul merito del ricorso.
+4.
+Constatato,
+in conclusione, che in nessun caso è dato il rimedio del reclamo a questo
+giudice contro la promozione dell’accusa, non resta che dichiarare irricevibile
+il gravame proposto da __________, lasciando alla Camera dei ricorsi penali di
+pronunciarsi sulle censure formali e sostanziali da lui proposte. Il presente
+reclamo va allora respinto in ordine, con la presente decisione definitiva e
+con conseguenza di tassa e spese a carico del reclamante soccombente.
+L’immediata
+evasione del reclamo rende superflua una decisione provvisionale in punto alla
+postulata concessione dell’effetto sospensivo – richiesta che, visto l’esito
+del reclamo, diviene senz’altro priva d’oggetto.
+Per i quali motivi
+in
+applicazione degli artt. 191, 280 e 284 CPP
+d e c i d e :
+1.
+Il
+reclamo 10/13 marzo 2000 di __________ contro la promozione dell’accusa nei
+suoi confronti è irricevibile.
+§   La contestuale
+domanda di concessione dell’effetto sospensivo al reclamo è evasa siccome
+divenuta priva d'oggetto.
+2.
+La
+tassa di giustizia di fr. 450.— e le spese di fr. 50.—, in tutto fr. 500.—,
+sono poste a carico del reclamante __________.
+3.
+La
+presente decisione è definitiva.
+Intimazione:
+giudice Luca Marazzi
