@@ -1,0 +1,225 @@
+---
+decision_id: "ti_gerichte_INC.2001.41302"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.41302"
+decided: "2001-09-04"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59707&nX40_KEY=4711442&nTrefferzeile=86&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2001.41302
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 04.09.2001 INC.2001.41302
+Tessin Il Giudice dell'istruzione e dell'arresto 04.09.2001 INC.2001.41302
+Ticino Il Giudice dell'istruzione e dell'arresto 04.09.2001 INC.2001.41302
+
+Sentenza o decisione senza scheda
+
+N. 413.2001.2 L                                                         Lugano,
+4 settembre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 29 agosto 2001 da
+__________
+(patrocinato dall'avv.
+__________)
+e qui trasmessa con preavviso
+negativo il 3 settembre 2001 dal
+Procuratore pubblico
+avv. __________;
+viste le osservazioni 4 settembre
+2001 dell'accusato, che si conferma in contenuti e conclusioni dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+__________ è stato arrestato il 7
+agosto 2001, con contestuale promozione dell'accusa nei suoi confronti per
+titolo di ripetuto furto: per quanto risulta dagli atti istruttori seguirà
+l'estensione a ripetuta violazione di domicilio e ripetuto danneggiamento per
+quelle fattispecie assistite da querela (come già avvenuto per la moglie e
+correa __________: v. verbale 23 agosto 2001
+dinnanzi al Procuratore pubblico, doc. __________ dell'inc. MP __________,
+secondo l'attuale numerazione).
+In sostanza e come ammesso dagli
+accusati, __________ ha commesso una serie impressionante di furti notturni in
+abitazioni, a partire dal 1999, spesso con il fratello __________ - a sua volta
+tuttora in carcere preventivo - e la di lui moglie __________, a volte anche
+con la propria moglie __________. Dopo il ricupero ed il vaglio dell'importante
+refurtiva e sopralluoghi per determinarne la provenienza, l'accusato istante ha
+identificato e ammesso la sua partecipazione a ventisei azioni di furto,
+comportanti refurtiva del valore complessivo di oltre fr. 500'000.-, nel
+dettagliato verbale 19 agosto 2001 (v. classatore separato), dal quale appaiono
+le seguenti sue dichiarazioni, qui di interesse:
+"
+Prendo
+atto che dai sopralluoghi sono emersi ulteriori casi di furto e che inoltre,
+considerato il modo d'operare e la tipologia di refurtiva, vi sono degli
+episodi di reato che mi verranno esposti e contestati nel proseguio
+d'inchiesta.
+Ciò in
+considerazione che alcune parti lese non sono ancora state identificate e
+relativamente anche per il fatto che taluni casi non risultano ancora
+denunciati.
+…
+Dichiaro
+poi che vi sono ancora degli oggetti provento di reato e prossimamente e già
+sin d'ora con il mio consenso, sarà di nuovo eseguita una perquisizione di
+dettaglio per il ricupero della merce.
+"
+2.
+L'istanza fa presente che
+__________ ha pienamente collaborato sin dall'inizio con gli inquirenti, tanto
+che l'inchiesta si può considerare conclusa, salvo per il chiarimento di
+circostanze marginali, come è dato di sapere al suo patrocinatore, non ancora
+ammesso all'esame degli atti (una richiesta in tal senso del 9 agosto scorso
+non essendo sino ad ora stata evasa). Essendo escluso pericolo di fuga per un
+ticinese ed anche pericolo di collusione per la piena confessione, si aggiunge
+che __________ è gravemente ammalato ed ha programmato importanti lavori di
+ritinteggio, per cui il mantenimento della carcerazione preventiva si avvera
+sproporzionato e arbitrario.
+Il Procuratore pubblico ha
+formulato preavviso negativo al cospetto di un'istruttoria ancora del tutto
+aperta per i necessari chiarimenti di altri furti e per eventuali confronti tra
+i correi per definire le loro singole responsabilità. Esiste poi pericolo di
+fuga per la precaria situazione finanziaria in uno con contatti in Tailandia,
+paese di provenienza della moglie. In questo contesto si ha rispetto della
+proporzionalità, ritenuto che __________ è stato trasferito al
+Penitenziario, avuto riguardo alle sue condizioni di salute, che peraltro non
+gli avevano impedito di consumare un numero elevato di furti.
+Con le sue osservazioni,
+__________ ribadisce la sostanziale conclusione delle indagini, come appare
+anche dalle possibilistiche ulteriori assunzioni di prova avanzate dal
+Procuratore pubblico, e nega pericolo di fuga, per ovviare al quale basta il
+deposito del passaporto, senza sua disponibilità non essendo dato di
+trasferirsi in Tailandia.
+3.
+L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali - per quanto qui concerne - i bisogni dell'istruzione
+ed il pericolo di fuga (senza dimenticare che l’arresto, quale misura
+processuale cautelativa, non serve unicamente ai bisogni dell’istruttoria, ma
+anche ad assicurare la presenza dell’accusato al processo e a garantire
+l’eventuale espiazione della pena: DTF 109 Ia 323 consid c, e riferimenti;
+sentenza 16 novembre 1993 del Tribunale federale in re A.H., 1P.477/1993,
+consid. 3).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128; si veda anche, per quanto sopra esposto: REP 1998 n. 103).
+4.
+Sufficienti presupposti di legge,
+come anche esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di __________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà.
+4.1
+Non occorrono molte parole per
+considerare presenti seri e concreti indizi di colpevolezza, peraltro non posti
+in discussione dall'accusato istante: basta rinviare ai cenni riprodotti in
+entrata ed al riassunto del preavviso negativo del magistrato inquirente. E si
+aggiunge che numero di furti, modalità di loro commissione e ammontare della
+refurtiva non permettono di banalizzare le responsabilità dei correi.
+4.2
+La citazione letterale del
+verbale di polizia 19 agosto 2001 è sufficiente a dimostrare esistenza di
+bisogni istruttori, in particolare avuto riguardo all'affinamento delle
+perquisizioni ed al chiarimento di tutte le operazioni delittuose, senza
+possibilità per gli accusati di concordarsi o nascondere.
+4.3
+Per quanto concerne il pericolo
+di fuga, si ricorda che i criteri determinanti per stabilire se questo
+presupposto sia dato o meno sono il carattere del prevenuto, il suo domicilio,
+la sua professione, la sua situazione famigliare e i suoi legami con lo Stato
+in cui egli é inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in re S.C.
+del Tribunale federale; sentenza 20 ottobre 1994 in re M.A., CRP 314/94).
+L'apprezzamento di tutte le circostanze, per invocare appunto un rischio di
+fuga, deve lasciar presumere che le conseguenze di una fuga appaiano per
+l’accusato come un male minore rispetto a quello derivante per lui
+dall'ulteriore carcerazione, con maggior forza quanto più i reati imputati
+comportino pene edittali od eventualità di pena concreta importanti (in questo
+senso Mario
+Luvini
+; in REP 1989,
+pag. 292, con i riferimenti ivi indicati; sentenza
+14 novembre 1994 in
+re S.V., CRP 341/94).
+__________ si trova confrontato
+con importanti accuse, ha qui una alquanto precaria situazione lavorativa ed
+economica ed ha già l'abitudine di svernare in Tailandia, paese di sua moglie,
+ciò che potrebbe sostenere la scelta
+della fuga e della latitanza rispetto alle conseguenze d'ordine penale. D'altro
+canto egli ha pure qui interessi personali e famigliari e l'indisponibilità del
+passaporto sarebbe di notevole intralcio all'espatrio. Data l'attuale
+preminenza dei bisogni istruttori, il quesito dell'esistenza di concreto
+pericolo di fuga potrà trovare soluzione solo ad istruttoria conclusa, che
+consentirà miglior valutazione delle menzionate contrapposte ragioni.
+5.
+Il carcere preventivo sin qui sofferto ed
+ipotizzabile per la continuazione dell'attività istruttoria, in un procedimento
+che risulta essere condotto con coerente sollecitudine, è pienamente rispettoso
+del principio di proporzionalità, tenuto anche conto del complesso dei fatti da
+accertare e delle persone coinvolte, come autori e come vittime.
+Le circostanze attinenti allo
+stato di salute di __________ sfuggono ad esame in questa sede, essendo di
+stretta competenza medica: in ogni modo egli ha beneficiato di anticipato
+trasferimento al Penitenziario, i cui servizi medici sono stati allertati dal
+magistrato inquirente (v. lettera 31 agosto 2001, doc. 68).
+Né il mancato accesso agli atti
+può trovare qui riscontro di approfondimento. La difesa deve dapprima ottenere
+una decisione da parte del Procuratore pubblico e solo poi, in caso di esito
+negativo, far capo alla procedura di reclamo. Risulta comunque che già da tempo
+sono stati concessi colloqui liberi (v. doc. __________) e permanenti (doc.
+__________), per cui vi è stata possibilità di conoscenza degli addebiti e
+delle prese di posizione dell'accusato.
+6.
+L’istanza è conseguentemente respinta con
+la presente decisione, esente da tassa e spese giudiziarie (art. 39 lett. f TG
+e contrario) e suscettibile di impugnazione alla Camera dei ricorsi penali
+(art. 284 cpv. 1 lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-    avv. __________, per sé e per l’istante;
+-    Procuratore pubblico avv. __________, sede (con copia
+delle osservazioni dell’istante e con gli atti dell’incarto MP __________ di
+ritorno).
+giudice
+__________
