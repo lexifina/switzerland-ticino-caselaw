@@ -1,0 +1,138 @@
+---
+decision_id: "ti_gerichte_INC.2001.62603"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.62603"
+decided: "2002-04-29"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59532&nX40_KEY=4711427&nTrefferzeile=80&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-176.md"]
+---
+
+# TI Gerichte INC.2001.62603
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 29.04.2002 INC.2001.62603
+Tessin Il Giudice dell'istruzione e dell'arresto 29.04.2002 INC.2001.62603
+Ticino Il Giudice dell'istruzione e dell'arresto 29.04.2002 INC.2001.62603
+
+Sentenza o decisione senza scheda
+
+N. 626.2001.3 L                                                         Lugano,
+29 aprile 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull’istanza
+presentata il 19 aprile 2002 dalla
+Procuratrice pubblica
+avv. __________
+intesa ad ottenere la proroga di
+tre mesi del carcere preventivo cui è astretto
+__________
+,            attualmente presso il
+Penitenziario cantonale
+(patrocinato dall'avv.
+__________)
+nel procedimento pendente contro
+quest’ultimo per titolo di atti sessuali con fanciulli e altri reati;
+viste le osservazioni 24 aprile
+2002 dell’accusato;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che
+-
+__________ è stato arrestato il 17 novembre 2001, con contestuale
+promozione dell'accusa nei suoi confronti per titolo di ripetuti atti sessuali
+con fanciulli e violazione del dovere d'assistenza o educazione: con decreto 4
+gennaio 2002 (doc. 48 dell'inc. MP 7918/2001), l'accusa venendo poi estesa ai
+reati di atti sessuali con persone dipendenti, pornografia e incesto (donde è
+da considerare siccome frutto di momentaneo vuoto di memoria, la prospettiva di
+ipotizzare anche questi reati, considerata nell'istanza in esame);
+-
+l'accusato sin dall'inizio ha ammesso quanto addebitatogli e cioè di avere
+in più occasioni abusato sessualmente delle figlie __________ (nata il
+__________), con la quale dopo iniziali toccamenti e masturbazioni reciproche
+manuali e orali ha compiuto ripetutamente la congiunzione carnale, e __________
+(nata il __________), con identici approcci, ad esclusione di quest'ultimo;
+-
+la proroga del carcere preventivo è chiesta a ragione di necessità
+istruttorie (con particolare riguardo ai risvolti che deriveranno dalla
+produzione della perizia psichiatrica), quindi con pericolo di collusione
+(essendo previsto interrogatorio della moglie), senza dimenticare l'incombente
+pericolo di recidiva;
+-
+la difesa concorda con l'indirizzo di un approfondimento delle
+responsabilità dell'accusato, anche attraverso le emergenze peritali, e fa presente
+la volontà propria di __________ di sottoporsi ad adeguata terapia per
+contrastare ricadute, ma contesta evidenza di pericolo di collusione: non
+vengono avanzati commenti sulle conclusioni dell'istanza;
+-
+come al dettato di legge ed a giurisprudenza (REP 1998 n. 103), l'art.
+95 CPP (corrispondente all’art. 33 scaturito dalla revisione parziale 23
+settembre 1992 / 1. gennaio 1993) dopo evidenza al cpv. 1 del principio secondo
+cui l'accusato si trova di regola in libertà, consente al cpv. 2 arresto, perdurare
+e (come è qui il caso) proroga del carcere preventivo a' sensi dell'art. 103
+CPP, quando esistono a carico dello stesso accusato gravi e concreti indizi di
+colpabilità per un crimine o un delitto e nel contempo sono presenti preminenti
+motivi di interesse pubblico, quali - per quanto qui concerne - i bisogni
+dell'istruzione, nella specie del pericolo di collusione, ed il pericolo di
+recidiva, senza dimenticare l'allarme sociale e soprattutto famigliare per
+determinate delicate fattispecie come la presente (REP 1998 n. 105);
+-
+pacificamente sono dati seri, concreti e convergenti indizi di
+colpevolezza, per abusi di intensa gravità, sia per il loro genere, sia per la
+reiterazione nel tempo, sia perché in danno delle proprie giovani figlie;
+-
+il pericolo di collusione appare alquanto ipotetico, essendo comunque
+nell'interesse della ricerca della verità (anche a favore dell'accusato) la
+raccolta delle ultime prove indicate senza neppure il sospetto di possibili
+manovre intese ad inquinarle;
+-
+anche se non ancora definito peritalmente in modo preciso, vi è
+sicuramente pericolo di recidiva, stante la forma mentale di __________ ed il
+suo distorto approccio alla sessualità delle figlie minorenni, perlomeno sino a
+seria presa a carico terapeutica, della quale lo stesso accusato sente
+necessità;
+-
+non va dimenticato poi che l'eventualità di un ritorno in famiglia andrà
+valutato con estrema prudenza, oggi di certo non essendone dati i presupposti,
+per il grave turbamento nelle relazioni in particolare con le figlie, che vanno
+tutelate sino a definizione del procedimento penale e di approntamento di
+convenienti modalità di eventuale reinserimento;
+-
+il carcere preventivo sin qui sofferto e ipotizzabile sino alla
+conclusione dell'istruttoria ed al deferimento al giudice del merito, in un
+procedimento che risulta essere condotto con coerente sollecitudine, è
+rispettoso del principio di proporzionalità, fermo restando il noto obbligo del
+Procuratore pubblico di non protrarre la privazione della libertà personale
+oltre il necessario (art. 102 cpv. 1 CPP) e di agire celermente (art. 176 cpv.
+3 CPP): di conseguenza l’istanza di proroga del carcere preventivo è accolta
+come proposta dal magistrato inquirente, con la presente decisione, esente da
+tassa e spese giudiziarie (art. 39 lett. f TG e contrario), e suscettibile di
+impugnazione alla Camera dei ricorsi penali (art. 284 cpv. 1 lett. a CPP);
+per i quali motivi, richiamati i
+citati articoli di legge,
+decide:
+1.      L’istanza è accolta.
+Di conseguenza il carcere preventivo cui è astretto
+__________ è prorogato di tre mesi e cioè sino al 16 agosto 2002, compreso.
+2.      Non si percepiscono né tassa né spese giudiziarie.
+3.      Contro la presente decisione è dato ricorso alla Camera dei
+ricorsi penali entro dieci giorni dall’intimazione.
+4.      Intimazione:
+-    avv__________, per sé e per l’istante;
+-    Procuratrice pubblica avv. __________, sede (con copia delle
+osservazioni dell’accusato);
+-    Direzione del Penitenziario cantonale, Lugano-Cadro.
+giudice
+__________
