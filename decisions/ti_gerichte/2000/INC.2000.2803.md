@@ -1,0 +1,134 @@
+---
+decision_id: "ti_gerichte_INC.2000.2803"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.2803"
+decided: "2000-04-07"
+published: "2000-04-06"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56937&nX40_KEY=4711472&nTrefferzeile=24&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2000.2803
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 06.04.2000 INC.2000.2803
+Tessin Il Giudice dell'istruzione e dell'arresto 06.04.2000 INC.2000.2803
+Ticino Il Giudice dell'istruzione e dell'arresto 06.04.2000 INC.2000.2803
+
+Sentenza o decisione senza scheda
+
+N. 28.00.3 R                                                               Lugano,
+7 aprile 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 3 aprile 2000 da:
+__________
+, detenuto presso le Carceri pretoriali di
+__________
+(patrocinato dal difensore
+d'ufficio avv. __________)
+trasmessa a questo giudice con
+preavviso negativo del 4 aprile 2000 dal Procuratore pubblico avv. __________;
+offerto all'accusato di formulare
+contro osservazioni e letto lo scritto 6 aprile 2000 della difesa che dichiara
+di ritirare l'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+__________ è stato arrestato il
+26 gennaio 2000 con l'accusa d'infrazione e contravvenzione alla LF Stup.
+estesa poi all'Infrazione della LCStr. L'inchiesta ha permesso di accertare
+importanti consumi di stupefacente e vendite per complessivi ca. 650 gr.
+d'eroina a vari consumatori. L'accusato è apparso sostanzialmente confesso ed
+il suo dire ha trovato riscontro nelle deposizioni raccolte dagli inquirenti. I
+fatti si situano nel tempo in particolare dal maggio 1999 all'arresto
+dell'accusato e __________, che da anni è consumatore d'eroina, risulta essere
+ricaduto pesantemente nei consumi senza riuscire a gestire gli stessi e quindi
+procedendo alle vendite narrate.
+L'istruttoria a suo carico appare
+sostanzialmente al termine e, nel corso delle indagini, le parti hanno
+individuato la possibilità di procedere ad un collocamento anticipato di
+__________ presso __________ in vista della possibile applicazione dell'art. 44
+CPS. Da evidenziare che l'accusato, con formazione scolastica medio superiore e
+con diploma di docente conseguito nella svizzera interna, risulta pregiudicato
+avendo subito un processo il 30 marzo 1994 per infrazione alla LFStup. oltre
+che per furto consumato e tentato, truffa, violazione di domicilio,
+danneggiamento ed altri reati. In quella circostanza a __________ furono
+inflitti 18 mesi di detenzione sospesi condizionalmente per 2 anni. Il 2 agosto
+1995 l'accusato è stato ulteriormente condannato a 14 giorni di arresto oltre
+alla multa per circolazione nonostante la revoca della licenza di condurre. Il
+10 agosto successivo il MP ticinese gli ha inflitto una multa per infrazione e
+contravvenzione alla LFStup e furto di lieve entità. Altra multa è stata
+inflitta a __________ ad __________ per circolazione in stato d'ebrietà il 16
+settembre 1996 mentre il successivo 30 aprile 1998, per lo stesso reato, a
+__________ gli sono stati inflitti 21 giorni di detenzione da espiare (oltre
+alla multa). Il 12 aprile 1999 per furto di poca entità l'accusato è stato
+condannato dalle autorità ticinesi 3 giorni di arresto, sospesi per un periodo
+di prova di 1 anno.
+2.
+Con l'istanza in discussione la
+difesa di __________ evidenzia la durata della detenzione preventiva sin qui
+sofferta presso le pretoriali prima di __________ e quindi di __________, ciò
+che induce a temere che venga meno la motivazione per il collocamento. Secondo
+la difesa, consapevole del rischio di ricaduta, un periodo di libertà prima di
+anticipare il collocamento permetterebbe all'accusato di rinfrancare i legami
+famigliari (__________è sposato e padre di una figlia di 15 anni). Per la
+difesa l'istruttoria è terminata, non vi sono motivi istruttori tali da imporre
+il mantenimento dell'arresto ed il "teorico rischio di recidiva" non
+sarebbe sufficiente stante la volontà di essere collocato. Nelle more della
+procedura è stata verificata la carcerabilità dell'accusato.
+All'istanza si oppone il PP con
+il preavviso negativo 4 aprile 2000 che evidenzia i gravi e concreti indizi di
+colpevolezza in uno con un concreto rischio di recidiva, richiamando inoltre il
+previsto collocamento che inizierà il prossimo 10 aprile 2000.
+La difesa dell'accusato ha
+comunicato a questo Giar in data 6 aprile 2000 di ritirare l'istanza.
+3.
+Il ritiro dell'istanza da parte
+della difesa, consenziente l'accusato, permette a questo giudice di stralciare
+la procedura non senza rilevare come, se la richiesta di libertà fosse stata
+mantenuta, la stessa sarebbe stata respinta a fronte di un importante rischio
+di recidiva. Nel caso concreto, infatti, non può essere omesso di rilevare come
+l'accusato sia consumatore da anni di sostanze stupefacenti, in questo senso
+oltre il suo dire anche le precedenti condanne in materia. Questa dipendenza,
+in particolare la grave ricaduta dei mesi passati, ha condotto allo spaccio
+oggetto dell'indagine. Va poi ritenuto il lungo periodo di tempo durante il
+quale l'accusato ha delinquito in particolare nel corso di gran parte del 1999.
+A queste considerazioni vanno aggiunte le numerose condanne inflitte a
+__________ nel corso dei passati anni ed evocate sub. 1. La condanna del 1994
+non è stata deterrente sufficiente e neppure i moniti costituiti dalla mancata
+revoca della sospensione condizionale. A questa condanna vanno aggiunte le due
+successive a pene detentive e le due multe. Va ancora evidenziata la
+possibilità, che si concretizzerà il prossimo 10 aprile 2000, di entrare in
+comunità ai fini della verifica della misura di cui all'art. 44 CPS. Questo
+collocamento sta a dimostrare la necessità per __________ di lavorare
+attivamente per uscire dalla sua tossicodipendenza
+5.
+L’istanza è allora stralciata dai ruoli,
+esente da tassa e spese giudiziarie (art. 39 lett. f TG e contrario).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria 3 aprile 2000 formulata da __________ è
+stralciata dai ruoli siccome ritirata.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Intimazione:
+-     avv. __________, per sé e per l’istante;
+-     Procuratore pubblico avv. __________, con gli atti di ritorno.
+giudice __________
