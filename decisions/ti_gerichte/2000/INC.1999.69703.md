@@ -1,0 +1,125 @@
+---
+decision_id: "ti_gerichte_INC.1999.69703"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.69703"
+decided: "2000-03-03"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56911&nX40_KEY=4711473&nTrefferzeile=93&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md"]
+---
+
+# TI Gerichte INC.1999.69703
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 03.03.2000 INC.1999.69703
+Tessin Il Giudice dell'istruzione e dell'arresto 03.03.2000 INC.1999.69703
+Ticino Il Giudice dell'istruzione e dell'arresto 03.03.2000 INC.1999.69703
+
+Sentenza o decisione senza scheda
+
+N. 697.99.3 L                                                              Lugano,
+3 marzo 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull’istanza
+presentata personalmente il 28 febbraio / 2 marzo 2000 da
+__________
+,              __________
+(patrocinato
+dall’avv. __________)
+intesa ad ottenere la libertà
+provvisoria;
+visto il preavviso negativo 2
+marzo 2000 del
+Procuratore pubblico
+avv. __________;
+preso atto della comunicazione
+odierna della
+Presidente
+della Corte delle Assise correzionali giudice
+avv. __________, che si rimette alla decisione di questa Autorità giudiziaria;
+costatato che il patrocinatore
+dell'accusato istante ha rinunciato a presentare osservazioni;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+__________ è stato arrestato il 22 ottobre 1999, con contestuale
+promozione dell'accusa per titolo di infrazione aggravata alla legge federale
+sugli stupefacenti, segnatamente per aver trafficato haschisch, marijuana ed
+altre sostanze presso il suo negozio __________;
+-
+con atto di accusa 20 gennaio 2000 (ACC 7/2000), il Procuratore pubblico
+ha deferito __________ alla Corte delle Assise correzionali, con l'imputazione
+di cui sopra, riferentesi in particolare alla vendita di 11 kg. di haschisch e
+13 kg. di marijuana;
+-
+con sentenza 17 febbraio 2000 (CRP 60.00.39), il Presidente della Camera
+dei ricorsi penali ha prorogato il carcere preventivo sino al 5 aprile 2000 per
+la celebrazione del dibattimento, dopo aver preso atto che l'accusato non si è
+opposto alla correlativa istanza e costatando la presenza di tutti i
+presupposti di legge per mantenere in essere il provvedimento di privazione
+della libertà personale;
+-
+la libertà provvisoria è ora chiesta, asseverando assenza di pericolo di
+fuga e di recidiva e sottolineando la conclusione dell'inchiesta;
+-
+non occorre dispendio di motivazione per concludere al persistere dei
+presupposti dell'art. 95 cpv. 2 CPP a sostegno dell'improponibilità
+dell'istanza in discussione, specie (come pertinentemente avanzato dal
+Procuratore pubblico) dopo l'accordo alla proroga del carcere preventivo in
+vista dell'aggiornamento del processo per l'ormai prossimo 5 aprile 2000;
+-
+in effetti, se è vero che non sussiste pericolo di collusione a ragione della
+conclusione dell'istruttoria formale, e che non è ipotizzabile pericolo di fuga
+per la preponderanza di interessi sociali e famigliari in Svizzera, di peso è
+il pericolo di recidiva in presenza di specifici concreti precedenti (tanto che
+già con decisione 8 settembre 1997, inc. GIAR 308.97.4, per l'allora
+procedimento in essere, la libertà provvisoria venne rifiutata per marcato
+pericolo di recidiva, quasi malauguratamente una profezia);
+-
+per le stesse ragioni ed in uno con la gravità della ricaduta, il
+carcere preventivo sin qui sofferto appare rispettoso del principio di
+proporzionalità;
+-
+di conseguenza l'istanza è respinta con la presente decisione,
+suscettibile di ricorso alla Camera dei ricorsi penali entro dieci giorni
+dall'intimazione (art. 284 cpv. 1 lett. a CPP), senza conseguenza di spese
+giudiziarie (art. 39 lett. f TG e contrario);
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L'istanza è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall'intimazione.
+4.
+Intimazione:
+-
+__________,
+Penitenziario cantonale, Lugano-Cadro;
+-
+avv.
+__________;
+-
+Procuratore
+pubblico avv. __________;
+-
+Presidente
+della Corte delle Assise correzionali, sede.
+giudice
+__________
