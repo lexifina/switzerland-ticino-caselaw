@@ -1,0 +1,234 @@
+---
+decision_id: "ti_gerichte_INC.1998.50109"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1998.50109"
+decided: "2003-12-02"
+published: "2003-12-02"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=92822&nX40_KEY=4711320&nTrefferzeile=1&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/220/art-475.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/312.0/art-009.md", "switzerland/bund/acts/312.0/art-125.md"]
+---
+
+# TI Gerichte INC.1998.50109
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 02.12.2003 INC.1998.50109
+Tessin Il Giudice dell'istruzione e dell'arresto 02.12.2003 INC.1998.50109
+Ticino Il Giudice dell'istruzione e dell'arresto 02.12.2003 INC.1998.50109
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.1998.50109
+Lugano
+2 dicembre 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Franco Lardelli
+sedente per statuire sull’istanza presentata il 7 maggio
+2003, 28 novembre 2003/1. dicembre 2003 da
+__________
+(rappr. dall’avv. __________)
+intesa ad ottenere il
+dissequestro dell’importo di FRS. 300'000.-- versato al Ministero pubblico di
+Lugano in data 24 giugno 1998 dall’avv. __________, allora patrocinatore di __________,
+nell’ambito del procedimento penale pendente contro quest’ultimo di cui
+all’inc. MP __________, ora oggetto dell’ACC __________;
+ritenuto di poter prescindere dal
+chiedere osservazioni al Procuratore pubblico ed alle altre parti interessate;
+visto per quanto necessario
+l’inc. ACC __________;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-   con decisione 24 agosto 1998, l’allora Procuratore pubblico Marco
+Bertoli aveva rifiutato l’istanza formulata dall’accusato __________, tendente
+alla restituzione dell’importo di FRS. 300'000.- versato al Ministero pubblico
+di Lugano in data 24 giugno 1998 dall’avv. __________, allora patrocinatore
+dell’accusato, nell’ambito del procedimento penale pendente a carico
+dell’accusato;
+-   questo ufficio, con decisione 11 settembre 1998 (v. doc. 7, inc.
+GIAR 501.98.3), aveva dichiarato irricevibile il reclamo presentato in data 4
+settembre 1998 da __________ contro la suddetta decisione del magistrato
+inquirente e ciò per i motivi qui di seguito riprodotti:
+“il 24 giugno 1998 __________ ha ottenuto la libertà
+provvisoria (v. doc. 17 e 18 dell’inc. MP). avendo avuto esito positivo quanto
+concordato in sede di audizione dell’accusato dinnanzi al Procuratore pubblico,
+come al seguente testo (verbale n. 5 pag. 5):
+“
+A questo punto l’avv__________ dichiara che
+dovrebbe riuscire ancora nel corso della giornata a depositare presso il MP la
+somma di Frs. 300 mila, così come richiesto dal magistrato e destinati
+all’eventuale confisca a dipendenza dell’esito della procedura penale in corso.
+Il PP preso atto di questa disponibilità ritiene che
+non appena sarà depositato l’importo suddetto, contestualmente con la
+trattenuta del documento di legittimazione e con il mio formale impegno a
+presentarmi a semplice richiesta per essere eventualmente interrogato ordinerà
+la mia scarcerazione secondo le esigenze di polizia
+.”;
+al patrocinatore avv. __________ si è in seguito
+affiancato in collegio l’avv. __________ (v. lettera 27 luglio 1998, doc. 44
+dell’inc. MP), il primo legale comunicando poi di non più rappresentare
+l’accusato (v. sua lettera 19 agosto 1998, doc. 61 dell’inc. MP);
+nell’esposto 21 agosto 1998 al magistrato inquirente
+(doc. 62 dell’inc. MP), l’avv. __________ ha tra altro scritto:
+“
+Il mio cliente mi ha informato inoltre delle
+circostanze in cui egli è stato rimesso in libertà il 24 giugno 1998.
+Cortesemente le chiedo di formalizzare - con decisione
+soggetta a ricorso - la sua decisione relativa alla cauzione di fr. 300’000.-
+importo che sinceramente mi pare alquanto sproporzionato.
+”;
+il 24 agosto 1998 (doc. 63 dell’inc. MP) il
+Procuratore pubblico ha confermato che l’importo depositato non è stato
+considerato quale cauzione (anche se nella sostanza ne ha avuto gli effetti),
+ma aveva ed ha il valore di disponibilità in vista di un’eventuale confisca, ed
+ha abbondanzialmente respinto l’istanza di restituzione;
+il reclamante si dice sorpreso nell’apprendere che la
+somma depositata non costituisce cauzione, per cui trattandosi di deposito
+libero ne chiede la restituzione secondo le norme del diritto delle
+obbligazioni (segnatamente l’art. 475 CO), subordinatamente eccependone la
+sproporzione - “volendo pur considerare la somma depositata quale cauzione” -
+con le stesse conclusioni di integrale liberazione;
+senza necessità di riferirsi alle osservazioni del
+Procuratore pubblico e delle parti civili (di cui si dirà - se del caso - più
+innanzi), va subito detto che è il giusdicente ad essere sorpreso dalle
+impostazioni in fatto e in diritto dell’accusato, il testo dell’accordo e conseguente
+decisione messo a verbale il 24 giugno 1998 essendo chiaro ad escludere
+prestazione cauzionale (anche se ad __________ si farà verbalizzare nel
+contesto dell’accertamento della provenienza di denaro che era poi servito “per
+pagare la cauzione”: v. verbale 28 luglio 1998, n. 10, pag.7), e che l’attuale
+patrocinatore (si presume peraltro doverosamente edotto di ogni circostanza del
+procedimento dall’avv. __________) disponeva almeno a far tempo dal 13 agosto
+di tutti i verbali degli interrogatori sino a quel momento assunti (v. sua
+lettera con quella data al Procuratore pubblico: doc. 56 dell’inc. MP);
+poco importa se d’apparenza l’attuale patrocinatore
+non ha letto attentamente i verbali (stando anche al gratuito, inveritiero ed
+offensivo cenno sull’interrogatorio della moglie dell’accusato, la quale
+“giusta l’art. 125 CPP non avrebbe potuto essere obbligata a deporre”, come
+sostenuto nel reclamo, quando la signora __________, assistita da proprio
+patrocinatore, prima di essere interrogata venne puntualmente tra altro “resa
+edotta sul contenuto degli art. 124, 125 e 126 del Codice di Procedura Penale
+ticinese, relativi all’eventuale facoltà di rifiutarsi di rispondere, con la
+precisazione che può avvalersi di tale facoltà in ogni momento dell’interrogatorio”:
+verbale n. 4 del 24 giugno 1998);
+allora l’istanza 21 agosto 1998 (doc. 62 dell’inc. MP)
+era chiaramente irricevibile, in quanto diretta verso un oggetto inesistente
+(e, accademicamente detto, tardiva nell’ipotesi del preteso deposito cauzionale);
+la somma di fr. 300’000.- è stata depositata ai fini
+di confisca, secondo i chiari intendimenti degli interlocutori (negletti
+dall’attuale patrocinatore), ed implicitamente ricevuta con valenza di
+sequestro risarcitorio, pur senza i richiami agli art. 59 ss. CP e 161 CPP
+(come indicato nelle osservazioni del Procuratore pubblico e come ancora
+possibile, se si vuole perfezione di formalità);
+il reclamo è allora pure irricevibile, in quanto non
+discute di sequestro, ma di deposito civile la cui mancata restituzione di
+certo sfugge alla competenza di questo giudice (senza poi neppure
+nell’impugnativa avere per illustrato e discusso né i motivi di questo
+inconsueto deposito né nuove o diverse emergenze che lo vedrebbero non più
+lecito giustificato o sostenibile);
+in via abbondanziale ed a futura memoria, si ha per
+legittimo e doveroso il sequestro confiscatorio, per la fondata verisimiglianza
+di provenienza di quel denaro dalle inquisite operazioni truffaldine, secondo
+le osservazioni del magistrato inquirente corrispondenti agli accertamenti agli
+atti (e come anche succintamente illustrato nella decisione 17 agosto 1998,
+GIAR 501.98.2, di questo giudice, nota alle parti);
+conseguentemente il reclamo va disatteso siccome
+irricevibile, con la presente decisione di massima impugnabile alla Camera dei
+ricorsi penali (art. 284 cpv. 1 lett. a CPP) e con le spese giudiziarie
+commisurate all’importanza della soccombenza sfiorante la temerarietà (leggasi:
+offesa alla buona fede processuale) a carico del reclamante, che dovrà inoltre
+versare alle parti civili ripetibili corrispondenti all’impegno delle loro
+osservazioni (conformemente a quanto stabilito dall’art. 9 cpv. 6 CPP e secondo
+i criteri dettati dall’art. 150 CPC, applicabile per analogia: v. sentenza 19
+febbraio 1998 in re A.L., CRP 60.96.407;”
+-   con atto d’accusa __________ emanato in data __________ dal
+Procuratore pubblico Giovan Maria Tattarletti, __________ è stato deferito alla
+Corte delle Assise correzionali di __________ per ripetute appropriazioni indebite
+per complessive LIT. 580 milioni e ripetute falsità in documenti; nell’atto
+d’accusa, alla posizione “sequestri” viene pure elencato l’importo di FRS.
+306'295.-, corrispondente alla valuta al 26 giugno 2002 del “versamento
+iniziale di __________ di data 24.06.1998 di FRS. 300'000.- ai fini di
+confisca”;
+-   con istanza 7 maggio 2003, indirizzata al Presidente della Corte
+delle Assise correzionali, la signora __________, moglie di __________,
+sostiene di aver messo a disposizione l’importo di FRS. 300'000.- versato al
+Ministero pubblico di Lugano in data 24 giugno 1998 e chiede che quell’importo
+venga “dissequestrato in quanto riconosciuto di sua esclusiva proprietà”, ma
+che rimanga “tuttavia in deposito a garanzia della presenza del signor __________
+al procedimento” e “di seguito, confermata la presenza del medesimo”, venga
+liberato in favore di lei stessa. L’importo in questione proverrebbe, a suo
+dire, dalla vendita di beni immobili appartenenti alla sua famiglia di origine
+e sarebbe in regime di separazione dei beni dal 7 settembre 1977; avrebbe messo
+a disposizione l’importo in quanto informata dall’avv. __________ che, per
+ottenere la scarcerazione del marito, “era necessario il versamento di una
+cauzione a garanzia del pericolo di fuga ravvisato dal PP”;
+-   in data 28 novembre 2003/1 dicembre 2003, il Tribunale penale
+cantonale ha trasmesso la suddetta istanza a questo giudice, ciò in quanto, nel
+lasso di tempo che intercorre tra l’emanazione dell’atto di accusa e l’apertura
+del dibattimento, la CRP (30.7.2002 in re B, inc. 60.2002.00174) ha constatato
+un “vuoto legislativo” e l’ha colmato assegnando tale competenza al GIAR; in
+ragione di ciò, questo giudice ha del resto già riconosciuto, a più riprese, la
+sua competenza per decidere (comunque e sempre in via incidentale) anche
+istanze di dissequestro presentate dopo l’emanazione dell’atto d’accusa e prima
+dell’apertura del dibattimento (un chiarimento tra le varie autorità coinvolte
+ha confermato questa conclusione; cfr. decisione 14 ottobre 2003 in re F.K.,
+inc. GIAR 268.1997.2 e decisione 17 ottobre 2003 in re M.P., inc. GIAR
+144.2003.2);
+-   per quanto qui concerne, va evidenziato che, sull’importo di FRS.
+300'000.-- versato al Ministero pubblico di Lugano in data 24 giugno 1998
+dall’avv. __________, per conto dell’accusato __________, questo ufficio ha già
+avuto modo di pronunciarsi con la decisione 11 settembre 1998 (v. doc. 7, inc.
+GIAR 501.98.3), cresciuta in giudicato e i cui considerandi sono stati sopra
+riprodotti;
+-   se è pur vero che, nella suddetta decisione, al versamento in
+oggetto era stata riconosciuta valenza di sequestro risarcitorio, va ribadito
+che l’importo in questione era stato messo a disposizione volontariamente
+dall’accusato al fine di essere destinato “all’eventuale confisca a dipendenza
+dell’esito della procedura in corso” (v. verb. n. 5 del 24 giugno 1998 p. 5).
+La signora __________, moglie dell’accusato __________, non è stata oggetto di
+provvedimento di sequestro, da parte del magistrato inquirente, in relazione
+all’importo in questione, nè tantomeno è stata considerata sequestrataria; già
+per questo motivo l’istanza ora in esame va respinta in quanto irricevibile,
+per carenza di legittimazione attiva dell’istante;
+-   a titolo abbondanziale va comunque pure detto che l’istante mai
+ha comprovato o reso verosimile di essere la proprietaria esclusiva dei fondi
+versati al Ministero pubblico di Lugano in data 24 giugno 1998 dall’avv. __________.
+Dagli atti dell’incarto emerge per contro che, secondo il dire dell’accusato __________,
+i suddetti fondi, almeno nella misura di FRS. 258'000.- e fino al 22 dicembre
+1997, erano depositati sul conto bancario __________ della __________, per il
+quale pure l’accusato è indicato quale avente diritto economico (v. deposizione
+dell’accusato, 28 luglio 1998, verb. n. 10 p. 7; AI 28 e AI 42); il che
+smentisce platealmente l’istante là dove, attestando di essere in regime di
+separazione dei beni dal 7 settembre 1977, rivendica la proprietà esclusiva di
+fondi che più di venti anni dopo erano anche nell’effettivo dominio del marito;
+-   alla luce di quanto sopra esposto, l’istanza va dunque dichiarata
+irricevibile, con la presente decisione suscettibile di ricorso alla Camera dei
+ricorsi penali (art. 284 cpv. 1 lett. a CPP), con carico di tassa e spese
+giudiziarie all’istante soccombente (art. 39 lett. f TG).
+Per questi motivi,
+visti i citati articoli di legge,
+decide:
+1.
+L’istanza è irricevibile.
+2.
+La tassa di giustizia di
+FRS. 250.-- e le spese di FRS. 50.-- sono a carico dell’istante.
+3.
+Contro la presente decisione
+è dato ricorso alla Camera dei ricorsi penali entro dieci
+giorni dall’intimazione.
+4.  Intimazione:
+giudice
+Franco Lardelli
