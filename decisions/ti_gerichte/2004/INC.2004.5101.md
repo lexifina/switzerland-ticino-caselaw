@@ -1,0 +1,545 @@
+---
+decision_id: "ti_gerichte_INC.2004.5101"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.5101"
+decided: "2004-05-03"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=99390&nX40_KEY=4711304&nTrefferzeile=89&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/312.0/art-142.md", "switzerland/bund/acts/312.0/art-144.md", "switzerland/bund/acts/312.0/art-184.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.2004.5101
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 03.05.2004 INC.2004.5101
+Tessin Il Giudice dell'istruzione e dell'arresto 03.05.2004 INC.2004.5101
+Ticino Il Giudice dell'istruzione e dell'arresto 03.05.2004 INC.2004.5101
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2004.5101
+Lugano
+3 maggio 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire sul
+reclamo presentato il 2/3 febbraio 2004 da
+__________
+(rappr. dallo studio legale __________)
+contro
+la
+decisione 22 gennaio 2004 del Procuratore pubblico che rifiuta di ordinare,
+in sede di complementi istruttori, una perizia giudiziaria nell'ambito
+dell'inc. MP __________ contro __________ per amministrazione infedele e falsità
+in documenti,
+viste
+le osservazioni dell'accusato (5/9 febbraio 2004), della parte civile __________
+(13/16 febbraio 2004) e del Procuratore pubblico (10 febbraio 2004);
+visto
+l'incarto MP __________;
+ritenuto
+in fatto
+A.
+Il
+15 maggio 2002, nei confronti di __________ è stata promossa l'accusa per
+amministrazione infedele e falsità in documenti (AI 1). I fatti alla base della
+decisione dovrebbero (in assenza d'indicazioni nella promozione stessa) essere
+quelli che emergono dal verbale __________ di analoga data (Verbale A1). Il 31
+marzo 2003, in successivo verbale, l'accusa è stata estesa ai reati di cui agli
+artt. 146 e 147 CP (Verbale A10).
+Per
+quanto è dato comprendere, visto che nella presente procedura nessuno si
+preoccupa di indicare o riassumere i fatti, l'inchiesta concerne
+"operazioni autonome" effettuate dall'accusato sul conto del
+reclamante presso la __________ (Verbale A1). Quest'ultimo si è costituito
+parte civile (AI 4).
+B.
+Il
+14 luglio 2003, il magistrato inquirente ha proceduto al deposito degli atti
+(AI 41) ed il 9 settembre, a seguito di alcune proroghe del termine, __________
+ha presentato una richiesta di complementi istruttori articolata in quattro
+punti: annessione agli atti di una dichiarazione, perizia giudiziaria per la
+ricostruzione delle operazioni illecite, richiesta di edizione (nei confronti
+della banca) della documentazione sulla quale si fonda il rapporto
+dell'ispettorato interno agli atti (AI 40) ed interrogatorio dell'accusato sul
+contenuto dello stesso, richiesta di produzione (sempre alla banca) di
+regolamenti interni e audizione dell'accusato (AI 42).
+II
+10 settembre, il magistrato inquirente ha ammesso l'acquisizione agli atti
+della dichiarazione e sospeso la decisione circa la richiesta di una perizia giudiziaria,
+in attesa di ulteriore e più dettagliato rapporto da parte della banca,
+rispettivamente dell'ispettorato interno, e non ha preso posizione sulle altre
+(AI 43). Il qui reclamante si è detto d'accordo di attendere l'ulteriore
+rapporto della banca per confermare o meno la sua richiesta di perizia
+giudiziaria (AI 44).
+Acquisito
+il rapporto complementare (AI 47), il Procuratore pubblico ha invitato il qui
+reclamante a esprimersi nuovamente sulla richiesta di perizia (AI 48). Preso
+atto della conferma della richiesta, motivata con la carenza di obiettività
+della banca (ripetitivamente dell'ispettorato interno) coinvolta in parallela
+causa civile (AI 49), il magistrato inquirente l'ha respinta in quanto, a suo
+dire, il fatto che un rapporto provenga da una parte civile, non é sufficiente
+a sancirne l'inutilizzabilità, nell'ambito penale. Inoltre, sempre per il
+magistrato la richiesta di perizia giudiziaria è carente nella motivazione (AI
+50).
+C.
+Con
+il presente reclamo, __________ chiede che la decisone del magistrato
+inquirente venga annullata e venga ordinata la nomina di un perito, che
+analizzi gli atti ed il rapporto dell'ispettorato interno della banca, con
+facoltà (da esercitarsi successivamente) alle parti (sempre secondo il
+reclamante) di porre quesiti relativi agli accertamenti fattuali.
+A
+suo dire, la decisione impugnata costituisce un rovesciamento dell'onere della
+prova (Reclamo 2 febbraio 2004, punto 2), laddove afferma che egli (il
+reclamante) non avrebbe sostanziato la necessità di una perizia, ed è
+superficiale, laddove fa riferimento ad una prassi del Ministero pubblico di
+fondarsi su rapporti dell'ispettorato interno di istituti di credito
+(indipendentemente dall'esistenza di conflitti d'interesse).
+Egli
+si interroga, inoltre, sulle modalità operative di un (eventuale) perito, sulla
+possibilità che quest'ultimo si discosti dalle conclusioni dell'ispettorato
+interno della banca e sull'opportunità di una perizia giudiziaria, in termini
+estremamente generali e senza riferimenti al caso concreto (Reclamo, punto 4).
+Infine,
+sempre il reclamante, afferma che il rapporto interno della banca non fornisce
+elementi per una ricostruzione delle operazioni svolte "
+tramite
+fiduciari fittizi
+" e che sarebbe importante avere la valutazione di un
+perito circa la "
+plausibilità del castello di manomissioni messo in
+atto da __________ per operare all'insaputa del cliente per ben 8 anni
+"
+(Reclamo punto 5).
+D.
+Con
+le sue osservazioni (10 febbraio 2004) il magistrato inquirente segnala che,
+sebbene non vi sia stato un incarico vero e proprio, il compito di "
+ricostruire
+i flussi finanziari ed i risultati delle operazioni effettuate senza il
+consenso del cliente
+" è stato affidato all'ispettorato interno della
+banca con il consenso di tutti; l'attuale richiesta è, di conseguenza, lesiva
+della buona fede processuale (Osservazioni, pag. 1). Aggiunge che la
+ricostruzione agli atti è fondata, oltre che sulla documentazione bancaria,
+sulle indicazioni fornite dall'accusato (che si è autodenunciato) e dal
+reclamante. La ricostruzione è stata sottoposta alla parte civile (qui
+reclamante), sia nella sua prima versione che in quella più dettagliata: non
+sono state formulate critiche che giustifichino di ordinare una perizia
+giudiziaria. Quest'ultima richiesta, sempre secondo il magistrato inquirente, è
+fondata unicamente su di una questione di principio e, quindi, priva di
+motivazione (Osservazioni, pag. 2). Da ultimo, il Procuratore pubblico sembra
+porre in dubbio la legittimazione della parte civile a richiedere una perizia
+per la quantificazione del danno ed afferma che la ricostruzione da parte
+dell'ispettorato interno di una banca, a che se non equiparabile ad una
+perizia giudiziaria, non può essere considerata quale "
+inattendibile
+presa di posizione di una parte
+"; e ciò alla luce delle norme legali e
+regolamentari che reggono l'attività ed i requisiti dell'ispettorato interno
+(Osservazioni, pag. 2).
+In
+conclusione è chiesto il respingimento del reclamo.
+L'accusato
+si rimette sostanzialmente alla decisione di questo giudice (Osservazioni 5
+febbraio 2004).
+La
+__________ (anch'essa parte civile nel procedimento), dopo aver precisato che
+l'ispettorato è organo indipendente, afferma che la richiesta del reclamante è
+carente nella motivazione (assenza di concrete censure in relazione alla
+ricostruzione effettuata), di impossibile realizzazione (in quanto
+l'"attribuzione" - in base alla conoscenza delle stesse - di singole
+operazioni, all'accusato o alla parte civile reclamante, è compito del giudice
+e non del perito) e strumentale a procedura civile pendente (Osservazioni 13
+febbraio 2004, punti II 2. II 3., II 4., in particolare).
+E.
+Con
+scritto del 23 marzo 2004, indirizzato al Procuratore pubblico, questo giudice
+ha chiesto di conoscere l'esito dato alle due richieste di complemento che non
+risultavano evase con la decisione del 10 settembre 2003, tantomeno con quella
+qui impugnata. Ciò sia per motivi di economia di giudizio che per completezza
+di argomentazione (doc. 7, inc. GIAR 51.2004.1).
+A
+seguito di tale scritto vi è stato uno scambio di corrispondenza tra il
+magistrato inquirente ed il patrocinatore del reclamante, trasmesso in copia a
+questo ufficio (doc. 9 e 10, inc. GIAR 51.2004.1), a conclusione del quale il
+patrocinatore di __________ ha comunicato di aver ritirato le altre richieste
+di complemento, mantenendo unicamente quella relativa all'erezione di una
+perizia giudiziaria.
+Delle altre osservazioni/argomentazioni delle parti,
+si dirà, qualora necessario, nei considerandi che seguono.
+Considerato
+in diritto
+1.
+Il reclamo, formulato dalla parte civile entro il
+termine previsto dalla legge (art. 20 cpv. 1 e 3 CPP) è ricevibile in ordine.
+Analogamente sono ricevibili le osservazioni
+dell'accusato, del magistrato inquirente e della parte civile __________.
+2.
+a)
+Preliminarmente è utile ribadire i principi generali
+in materia di complementi istruttori, nonché quelli che presiedono l'assunzione
+della prova peritale, sebbene gli stessi siano noti al Procuratore ed ai
+patrocinatori delle parti.
+b)
+b.a.)
+Per
+meritare di essere assunte, le prove proposte dalle parti contestualmente al
+deposito atti (art. 196 CPP), o in altro momento dell’istruttoria (artt. 60
+cpv. 1 e 79 cpv. 1 CPP), devono rispettare tre concorrenti ordini di
+considerazioni: esse devono essere motivate per quanto attiene al loro oggetto
+ed al loro scopo in diretta connessione con la fattispecie inquisita; tali
+mezzi di prova devono avere i requisiti della novità, della rilevanza e della
+pertinenza alle successive conclusioni di competenza del Procuratore pubblico,
+dapprima per decidere se promuovere l’accusa oppure non far luogo al
+procedimento e poi (dopo conclusione dell’istruzione formale) se decretare
+messa in stato di accusa o abbandono, sino se del caso a quelle del giudice di
+merito; per quest’ultima evenienza, le stesse prove devono essere di difficile
+produzione al dibattimento, avute presenti le finalità dell’art. 189 CPP,
+inteso appunto tra l’altro ad assicurarne la non interrotta assunzione (v.
+sentenza 24 gennaio 1990, inc. CRP 337/89; v. decisioni 17 febbraio 1993 in re
+L.P., inc. GIAR 135.93.1; 3 novembre 1993 in re G.G., inc. GIAR 862.93.1, e 14
+giugno 1995 in re F.M., inc. GIAR 1093.93.5). Se, in particolare per
+l’accusato, la facoltà di proporre mezzi di prova è espressione del diritto di
+essere sentito ai sensi dell’art. 4 Cost. fed. (ora, art. 8 cpv. 1 della nuova
+Cost. fed.; v., da ultimo, DTF 124 I 49, consid. 3a p. 51; DTF 121 I 306,
+consid. 1b p. 308) e del “
+fair trial
+” ai sensi dell’art. 6 CEDU (v.
+Frowein/Peukert
+,
+EMRK-Kommentar, 2. Aufl. Kehl/Strassburg/Arlington 1996, nota 99 ad art. 6
+CEDU), il giudice del merito (ed il magistrato inquirente) è tenuto, in
+applicazione delle norme procedurali corrispondenti, a considerare
+rispettivamente ammettere soltanto quei mezzi di prova che “
+nach seinem
+richterlichen Ermessen entscheidungserheblich sind
+” (
+Frowein/Peukert
+,
+loc. cit. p. 231). Con riferimento specifico all’audizione di testi, il
+magistrato può rifiutare la prova proposta “
+wenn er die zu erwartende
+Antwort bzw. Aussage nach seiner freien Ermessensentscheidung für die
+Wahrheitsfindung nicht für beachtlich hält
+” (
+Frowein/Peukert
+, loc.
+cit., nota 202 ad art. 6 CEDU, con rinvii), nelle parole di
+Niklaus Schmid
+(Strafprozessrecht, 3.
+Aufl.
+Zürich 1997, margin. 270, con rinvii a DTF 103 Ia 491 et al. in nota 321) “
+wenn
+sie den rechtlich relevanten Sachverhalt als genügend geklärt erachten
+”.
+Di conseguenza, non è data violazione dell’art. 6 CEDU
+se il giudice del merito rifiuta un mezzo di prova dopo averne esaminato la pertinenza
+(v.
+Frowein/Peukert
+, loc. cit., nota 203 ad art. 6 CEDU, con rinvio al
+noto caso Vidal; come qui, v. decisione 17 giugno 1998 in re F.F., inc. GIAR
+55.98.1 consid. 1).
+b.b.)
+La fase in
+cui si colloca la presente discussione del complemento probatorio in questione
+è quella dell’istruttoria predibattimentale, finalizzata in primo luogo a
+permettere alla pubblica accusa di determinarsi sulle questioni se promuovere
+l’accusa o meno, indi se deferire l’accusato alla Corte competente oppure se
+pronunciare l’abbandono del procedimento (art. 184 cpv. 1 CPP, rispettivamente
+artt. 196 cpv. 1 e 198 cpv. 1 CPP combinati). Per costante dottrina e
+giurisprudenza, invece, l’eventuale utilità o opportunità della prova proposta
+nell’ottica del giudice del merito è elemento a favore della sua assunzione già
+nella fase predibattimentale unicamente qualora l’amministrazione di tale prova
+in sede dibattimentale sia impossibile, o vi sia concreto rischio che lo
+diventi.
+c)
+c.a)
+Tra
+le prove a disposizione delle autorità inquirenti e giudicanti vi è la perizia,
+ossia il ricorso all’esperto ogni qualvolta occorra stabilire fatti e
+circostanze all’accertamento dei quali siano indispensabili speciali cognizioni
+(art. 142 ss. CPP). Al magistrato competente è riservata, di principio, ampia
+facoltà nella scelta delle prove e quindi anche in tema di referto peritale,
+ritenuta comunque e sempre perlomeno apparenza di utilità e pertinenza in
+connessione con la fattispecie inquisita, secondo le imputazioni e le
+conclusioni di competenza del giudice penale, nel rispetto dei diritti delle
+parti. Inoltre ed in più, per giustificare il ricorso al perito occorre
+congiuntamente, per riprendere con altre parole il testo di legge, che
+determinati fatti non siano ancora chiariti o chiaribili attraverso altri mezzi
+di prova e che il magistrato non abbia le specifiche conoscenze professionali
+per giungere a tale necessario chiarimento (
+sic, verbatim
+, in decisione
+6 luglio 1999 in re S.D., inc. GIAR 861.98.1 consid. 1; cfr. decisione 24
+luglio 1998 in re M.H.G., inc. GIAR 649.96.2, p. 3, con rinvio a decisione 9
+settembre 1993 in re A.A., GIAR 209.93.3).
+Non
+spetta al perito, invece, la valutazione giuridica dei fatti da lui medesimo
+accertati (G.
+Piquerez
+, Procédure pénale suisse, 2000, n. 2222; N.
+Oberholzer
+,
+Grundzüge des Strafprozessrechts, Bern 1994, pto. 21.1 p. 288), rispettivamente
+la determinazione di fatti che possono (o potrebbero) avere rilevanza dal
+profilo del diritto.
+c.b.)
+Va pure
+detto, che nel nostro ordinamento il magistrato gode di ampia facoltà nella
+scelta dei mezzi di prova. Per determinati accertamenti può far capo a
+funzionari del Ministero pubblico o della polizia senza che questi vengano
+necessariamente nominati quali periti ai sensi dell'art. 142 ss. CPP (Sentenza
+GIAR 29.09.1999, già citata), anche se una nomina in tal senso non è esclusa
+(N. Schmid, Strafprozessrecht, ed. 2004, n. 666). Ciò vale in particolare, a
+giudizio di questo giudice, laddove gli accertamenti così esperiti siano più
+prossimi alla constatazione che all'interpretazione ed all'apprezzamento.
+In questi
+casi, ovviamente, gli accertamenti in questione non hanno valenza di perizia e
+il loro valore probatorio (nella competenza del giudice del merito), a
+dipendenza delle modalità concrete d'assunzione e della eventuale base
+documentale, può anche ridursi a mera allegazione di parte (cfr., per analogia,
+sentenza GIAR 9.9.1993, 209.1993.3).
+Neppure in
+materia di reati patrimoniali, economici o finanziari che dir si voglia, esiste
+un obbligo/diritto, di principio, all'allestimento di una perizia giudiziaria.
+Senza necessità di determinare se si tratti di una vera e propria prassi (cfr.
+Decisione 22 gennaio 2004, impugnata), è notorio che la ricostruzione, in sede
+di procedimento penale, di determinati fatti di natura
+contabile/patrimoniale/finanziaria non sono sempre (e necessariamente) affidati
+a periti giudiziari, ma possono essere effettuati dallo stesso magistrato, in
+base alla documentazione raccolta ed altri atti d'inchiesta, con la
+collaborazione/ausilio di funzionari del Ministero pubblico (per. es. équipe
+finanziaria), di agenti di polizia giudiziaria, e in alcuni casi delle stesse
+parti coinvolte, in particolare quando si tratta di istituti di credito (o
+Enti) coinvolti (per tutte, Assise Criminali Lugano, 8 marzo 1996 in re S.).
+c.c.)
+Ad ulteriore
+sostegno di quanto detto sopra, possono essere qui riprese le considerazioni
+contenute in una sentenza di questo ufficio (9 settembre 1993 in re A., GIAR
+209.93.3) che, su reclamo, annullava l'ordinanza del magistrato inquirente
+relativa all'erezione di una perizia giudiziaria contabile:
+"Il contestato ordine di perizia sembra
+essere lo sbocco di due ragionamenti (se non pregiudizi). Da una parte la
+ricostruzione contabile effettuata presso la Banca non sarebbe degna di
+completa fede, come si evince dall'avvio del primo quesito ("verifichi, se
+necessario integri, il perito la ricostruzione contabile...") e dalla
+sostanza delle osservazioni ai reclami (tra altro con riferimento alla reale
+complessità della fattispecie, "tale da non poter essere chiarita
+unicamente dalla ricostruzione effettuata da una delle parti, cioé dalla Banca,
+il cui interesse è evidentemente quello di minimizzare il danno subito dai
+clienti"). Inoltre sarebbe d'uopo meglio tutelare il diritto a pieno
+risarcimento per i clienti, come si desume dall'ammissione di quesiti peritali
+specifici formulati da titolari dei conti ed ancora dalle citate osservazioni
+(oltre alla riportata frase, con la citazione di divergenze tra la Banca e
+clienti e l'adombrata attribuzione alla banca dell'intenzione di risarcire le
+"perdite soltanto nella misura della diminuzione del capitale").
+…
+omissis …
+Il
+primo ragionamento non merita per contro tutela alcuna. A parte l'inesistenza
+di motivi oggettivi per dubitare della completezza della ricostruzione
+contabile, questa è più di mera allegazione di parte, in quanto non solo è
+risultanza di esame in contraddittorio tra accusato e parte civile (con
+direttamente coinvolta responsabilità degli organi di revisione della Banca),
+ma è avvenuta nell'ambito dell'istruttoria formale, con il consenso del
+Procuratore pubblico."
+3.
+a)
+Nel
+caso in esame, la richiesta di allestimento di una perizia giudiziaria è stata
+formulata per la prima volta in sede di deposito atti e ribadita dopo aver
+accettato una sospensione della relativa decisione (di competenza del
+Procuratore pubblico) in attesa di un complemento (se si preferisce di un
+documento più dettagliato) della ricostruzione allestita dall'ispettorato
+interno della banca (cfr. AI 42, 43, 44, 49).
+La
+richiesta (istanza) si fonda, sostanzialmente, sulla (presunta) mancanza di
+oggettività e di senso critico della ricostruzione agli atti, in quanto
+effettuata dall'ispettorato interno della banca coinvolta nel procedimento penale
+ed in uno civile parallelo (cfr. AI 44, AI 49, Reclamo 2 febbraio 2004 punto
+4), nonché (ma solo in sede di reclamo) sulla (pretesa) assenza di elementi
+relativi alle operazioni "
+tramite i fiduciari fittizi
+" e di
+una valutazione circa la "
+plausibilità del castello di manomissioni e
+omissioni messo in atto da __________ per operare all'insaputa del cliente
+"
+(Reclamo, punto 5).
+Per
+il magistrato inquirente, e per la parte civile __________, la richiesta è
+lesiva della buona fede processuale e carente nella motivazione. Occorre,
+pertanto, verificare in primo luogo queste censure.
+b)
+Sebbene
+non sia dato sapere (nulla emerge agli atti) quando e come sia stato deciso di
+procedere in tal senso, il qui reclamante era a conoscenza sin dal luglio 2002
+che una ricostruzione sarebbe stata effettuata dall'ispettorato interno della
+banca (AI 11), ha sollecitato la produzione del relativo rapporto (19.07.2002,
+AI 12; 22.08.2002, AI 13) nulla eccependo in merito e limitandosi a chiedere la
+produzione di ulteriori documenti a suo dire essenziali per la valutazione del
+comportamento di __________, "
+per rapporto al contenuto delle
+ricostruzioni messe a disposizione della
+[recte:dalla] __________ (13
+febbraio 2003, AI 27; 3 marzo 2003 AI 28; 26 marzo 2003, AI 34).
+Inoltre,
+il reclamante ha accettato che il magistrato inquirente tenesse in sospeso la
+sua richiesta di perizia giudiziaria in attesa di ulteriore
+"rapporto" da parte della banca (AI 44). Fino al momento del deposito
+atti, quindi, il reclamante ha manifestamente accettato tale modo di procedere
+alla ricostruzione, sia per quanto concerne oggetto, metodo e incaricati.
+Nella
+misura in cui è motivata con la (presunta e/o fondata su criteri oggettivi)
+mancanza di oggettività e di senso critico dell'ispettorato interno, cui è
+stata affidata la ricostruzione (quindi, una sorta di "ricusa" che
+anche nei confronti del perito giudiziario deve essere presentata in termini
+stretti - cfr. art. 144 cpv. 4 CPP, ritenuto che l'art. 6 cifra 1 della CEDU
+non è applicabile ai periti: DTF 3 maggio 1994 in re P. 1P.643/1993), la
+richiesta di perizia è, a giudizio dello scrivente giudice, tardiva e lesiva
+del principio della buona fede processuale (N. Schmid, Strafprozessrecht, 2004,
+n. 247).
+c)
+Al
+di là del principio dell'obbligo generale di motivazione che concerne (anche)
+istanze e gravami per consentire alle controparti ed all'autorità di prendere
+adeguata posizione, ripetitivamente decisione (CRP 20.07.1994 in re D.T.,
+249/94), in materia di prove esiste uno specifico obbligo di motivazione quo
+alla novità, rilevanza e pertinenza (alle successive conclusioni di competenza
+del Procuratore pubblico) della prova proposta (cfr. cons. 2. b.a.).
+Affermazioni
+generiche sull'attendibilità della ricostruzione (per il ruolo
+dell'ispettorato), sul modo in cui è stata stilata (per rapporto a quale altra
+modalità e con quali conseguenze?), sull'assenza di riferimento agli atti
+istruttori (quali?), sulla lacunosità della quantificazione di determinati
+importi (con indicazione unicamente dell'importo totale del danno e della sua
+differenza con le dichiarazioni iniziali di __________ - peraltro già a quel
+momento per nulla date con certezza: cfr. verbale __________ 15 maggio 2002,
+pag. 5), sulla complessità della fattispecie, contenute nella richiesta di
+complemento (AI 42), neppure ribadite nello scritto del 19 gennaio 2004 (AI 49)
+successivo alla produzione del secondo rapporto, non permettono a questo
+giudice (che, lo si ripete, non è giudice del merito né autorità di
+"vigilanza" sull'impostazione istruttoria del magistrato inquirente)
+di determinarsi sulla novità, rilevanza e pertinenza della prova richiesta.
+Ciò, a maggior ragione quando il tutto è privo di riferimenti concreti ai fatti
+oggetti di indagine, agli atti istruttori ed alle varie parti (e/o tabelle)
+delle ricostruzioni contestate. Non soccorrono, in questo senso ed a
+prescindere dalla tardività, le affermazioni (altrettanto generiche e prive di
+riferimento alla fattispecie oggetto d'indagine, nonché all'incarto) contenute
+nel reclamo (punto 5.) circa l'assenza di elementi per la ricostruzione delle
+asserite operazioni tramite i "fiduciari fittizi" e la determinazione
+della "plausibilità del castello di manomissioni e omissioni" messo
+in opera da __________ per operare all'insaputa del cliente.
+Ritenuto
+che non spetta a questo giudice ricostruire sulla base dell'intera
+documentazione agli atti, le tesi del reclamante (cfr. CRP 5 dicembre 1997,
+60.97.00175), la richiesta di perizia giudiziaria deve essere quindi
+considerata (perché lo è) carente nella motivazione sia per quanto concerne
+novità rilevanza e pertinenza della prova richiesta ai fini delle successive
+decisioni del magistrato inquirente, sia per quanto concerne i fatti il cui
+accertamento necessiterebbe di speciali cognizioni.
+4.
+In
+sede di reclamo, ancorché in modo non formale, il reclamante accenna al fatto
+che l'utilizzo, per la ricostruzione, di una modalità diversa da quella della
+perizia giudiziaria, ha avuto quale conseguenza per le parti (tra le altre
+cose) l'assenza della facoltà di ricusa, della partecipazione alla posa dei
+quesiti, insomma di quei diritti e facoltà garantiti dagli artt. 142 ss CPP (in
+particolare si vedano gli artt. 144, 146, 148 CPP).
+Il
+principio della libertà della prova, richiamato anche dal CPP (art. 113 cpv.
+2), ha dei limiti. Questi si concretizzano sia a livello della prova in quanto
+tale (esclusione di alcune modalità di "prova" in contrasto con i
+principi generali del diritto - per es. dignità umana, DTF 124 IV 34, 117 Ia
+341) sia nel rispetto delle regole procedurali che regolano la
+"raccolta" della prova (legalità formale e amministrazione della
+prova). Per completezza è quindi opportuno chiedersi se la scelta del
+magistrato inquirente (ancorché avversata solo in sede di deposito atti) non
+risulti volta ad aggirare un qualche divieto del mezzo di prova, oppure violi
+formalità che costituiscono requisito (ineludibile) di validità della prova
+stessa (Schmid, op. cit., n. 608).
+La
+risposta, negativa, è in gran già contenuta nelle considerazioni espresse ai
+punti c.b. e c.c. del considerando 2. della presente, laddove si constata che
+non vi è nessun obbligo/diritto a che la ricostruzione di movimenti
+patrimoniali/finanziari avvengano tramite perizia giudiziaria. Pertanto, la
+scelta di procedere altrimenti alla ricostruzione non aggira divieti di mezzi
+di prova illeciti né viola formalità essenziali per la validità della prova
+stessa. Molto più semplicemente, la ricostruzione in questione non ha valenza
+di perizia giudiziaria, il suo valore probatorio (nella competenza del giudice
+del merito), a dipendenza delle modalità concrete d'assunzione, può anche
+ridursi a mera allegazione (cfr., per analogia, sentenza GIAR 9.9.1993,
+209.1993.3).
+Abbondanzialmente,
+ci si potrebbe chiedere se, quando si procede ad una ricostruzione su base
+documentale di una certa complessità che sfocia in uno scritto riassuntivo o in
+una sintesi, non sia opportuno che dall'incarto emergano chiaramente oggetto e
+modalità del lavoro, rispettivamente che venga offerta alle parti una
+possibilità di partecipazione attiva all'impostazione, approfondimento e
+comprensione della ricostruzione (non senza benefici per l'attività di
+competenza dell'eventuale giudice del merito ed anche dello scrivente).
+La
+risposta di questo giudice, quale considerazione generale, è certamente
+positiva, ma non può condurre automaticamente all'accoglimento di una richiesta
+di perizia giudiziaria. Ciò in primo luogo per i motivi già esposti nei
+precedenti considerandi, in secondo luogo perché (in parte) si tratta di
+questioni di opportunità legati alla conduzione dell'istruttoria che è e rimane
+nelle competenze del Procuratore pubblico, in terzo luogo perché se l'assenza
+delle menzionate possibilità (o di altre analoghe) comporta violazione di
+determinati diritti (per es. 79 o 57, 118 cpv. 4 CPP, diritto al
+contraddittorio), questi debbono/essere fatti valere (o invocati - ovviamente
+tempestivamente) in quanto tali e, da ultimo, perché all'eventuale
+"oscurità" o "mancanza di chiarezza" di determinati atti
+istruttori si può ovviare con la richiesta di prove idonee a tale scopo (per
+es. deposizioni testimoniali), senza necessariamente ricorrere ad una perizia
+giudiziaria.
+Invero,
+il reclamante aveva, in parte, proceduto a richiedere complementi volti a
+chiarire contenuto e risultanze della ricostruzione agli atti (AI 42, pag. 7);
+in seguito vi ha rinunciato ritirando la relativa istanza (doc. 11, inc. GIAR
+51.2004.1).
+5.
+In
+conclusione, sulla base di quanto indicato nei considerandi precedenti, il
+reclamo, nella misura in cui è ricevibile, viene respinto per tardività,
+violazione del principio della buona fede processuale e carenza di motivazione,
+con la presente decisione definitiva. Tasse, spese e ripetibili seguono la
+soccombenza.
+A
+titolo abbondanziale, ed a scanso di equivoci, la presente decisione non
+costituisce in alcun modo giudizio sulle conclusioni della ricostruzione agli
+atti e/o sulla sua completezza/chiarezza.
+P.Q.M
+viste
+le norme applicabili ed in particolare gli artt. 159, 251, 146, 147 CP, 1ss.,
+142 ss., 280 ss., 284 e contrario CPP,
+decide
+1.
+Nella misura in cui è ricevibile, il reclamo è
+respinto.
+2.
+La tassa di giustizia, fissata in FRS 600.-, e le
+spese in FRS 100.-, sono a carico del reclamante che rifonderà FRS 400.- alla
+parte civile __________ (resistente al reclamo con relativa richiesta) a titolo
+di ripetibili.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+giudice
+Edy Meli
