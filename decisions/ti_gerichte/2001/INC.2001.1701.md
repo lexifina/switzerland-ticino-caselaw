@@ -1,0 +1,405 @@
+---
+decision_id: "ti_gerichte_INC.2001.1701"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.1701"
+decided: "2001-07-20"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59749&nX40_KEY=4711445&nTrefferzeile=41&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/142.20/art-013.md"]
+---
+
+# TI Gerichte INC.2001.1701
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 20.07.2001 INC.2001.1701
+Tessin Il Giudice dell'istruzione e dell'arresto 20.07.2001 INC.2001.1701
+Ticino Il Giudice dell'istruzione e dell'arresto 20.07.2001 INC.2001.1701
+
+Sentenza o decisione senza scheda
+
+N. 17.2001.1 M                                                          Lugano,
+20 luglio 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente in
+qualità di Giudice delle misure coercitive per statuire sul ricorso inoltrato
+in data 9/10 gennaio 2001 da
+__________
+,            __________
+(patrocinato dall’avv. __________)
+avverso
+l’ordine di regolare comparizione emanato dalla Polizia del Cantone Ticino in
+data 19 dicembre 2000;
+lette le
+osservazioni 24 gennaio 2001 della Polizia cantonale, che postula la reiezione
+del ricorso;
+visto lo
+scritto 12 marzo 2001 del Direttore dell’Ufficio federale degli stranieri
+all’Ufficio cantonale degli stranieri e qui trasmesso per conoscenza;
+letto ed
+esaminato l’inc. di polizia __________;
+ritenuto
+in fatto:
+A.
+Con sentenza
+15 giugno 1983 __________ è stato condannato dalle Assise criminali di Lugano
+alla pena di 10 anni di reclusione per violazione aggravata alla LFStup.,
+nonché alla pena accessoria dell’espulsione dalla Svizzera per un periodo di 15
+anni (v. sentenza cit., dispositivo cifre 2.1 e 2.2). Con decisione 19 aprile
+1990 (inc. Giar doc. _), il Consiglio di vigilanza del Cantone Ticino –
+l’autorità preposta per legge a concedere la liberazione condizionale del
+condannato e la sospensione della sua espulsione (art. 339 cpv. 1 litt. a e
+litt. f CPP) – ha, appunto, liberato condizionalmente __________, sospendendo
+la sua espulsione ex art. 55 CPS per un periodo di prova della durata di 5
+anni.
+Ciononostante,
+l’Ufficio federale degli stranieri ha giudicato il ricorrente “straniero
+indesiderabile” ai sensi dell’art. 13 LDDS, ed ha emanato in data 25 ottobre
+1990 un divieto d’entrata in Svizzera (non all’incarto di polizia); il divieto
+è stato confermato in seconda istanza dal Dipartimento federale di giustizia e
+polizia, e ribadito nel 1993, dalle due medesime istanze, in occasione di una
+richiesta di riesame formulata dall’interessato (v. anche ricorso 9/10 gennaio
+2001, inc. Giar doc. _, pto. 1 p. 2).
+A partire dal
+1991, __________ ha più volte soggiornato in Svizzera. Un primo decreto
+d’accusa 31 luglio 1991 dell’allora sostituto Procuratore Pubblico
+sottocenerino per violazione della LDDS è stato annullato dal Pretore di Lugano
+con sentenza 14 gennaio 1992, che l’ha prosciolto “perché il fatto non
+costituisce reato” (sentenza cit., inc. Giar doc. _ p. 11). __________ è stato
+prosciolto in altre due occasioni: dal magistrato requirente ticinese in data
+11 gennaio 1994 (v. inc. Giar, doc. _) ed in data 23 novembre 1995 dalla
+competente autorità svittese (inc. Giar, doc. _).
+Per sua
+stessa ammissione, in tutti questi anni il ricorrente “è entrato regolarmente
+in Svizzera, soggiornandovi per alcuni periodi, sempre tuttavia nei limiti di
+un soggiorno turistico” (ricorso, cit., pto. 4 p. 4). Questo comportamento è
+sfociato nel decreto d’accusa 22 gennaio 2001 del Procuratore Generale del
+Cantone Ticino, oggetto di pendente opposizione.
+B.
+In data 19
+dicembre 2000, la Polizia cantonale ticinese, per mano del responsabile della
+Gendarmeria Sottoceneri cap __________, ha emanato la qui impugnata decisione:
+ribadita la cronistoria testé esposta (
+supra
+, consid. A) e constatato
+come sulla scorta delle dichiarazioni del ricorrente medesimo parrebbe che
+__________, almeno a decorrere dal 1997, “lascia anzi ora intendere negli atti
+ufficiali di risiedere regolarmente in Ticino” (decisione impugnata, inc. Giar
+doc. _ p. 1) pur senza disporre di permesso di dimora o domicilio, anzi
+nonostante la riconfermata esistenza di un divieto d’entrata emanato
+dall’Ufficio federale degli stranieri (ibid.), l’autorità di polizia ha
+ritenuto di dover far rispettare al ricorrente “quantomeno le più elementari
+regole della LDDS, segnatamente quo al controllo della sua presenza [...]”
+(loc. cit., p. 2). Gli ha pertanto fatto ordine di notificare ogni volta il proprio
+arrivo sul e la propria partenza dal territorio ticinese, con la comminatoria
+di provvedimenti più incisivi e di punibilità giusta l’art. 292 CPS (ibid.).
+C.
+Il ricorso in
+discussione (inc. Giar doc. _) esordisce riassumendo i fatti e commentando la
+sentenza pretorile 14 gennaio 1992 (v. inc. Giar doc. _, cit.). Ripropone la
+figura modello del ricorrente, persona con comportamento sempre corretto, con
+importanti interessi professionali in Ticino e con relazioni strette con i
+gemelli avuti dall’allora compagna (ricorso, cit., pto. 4 p. 4). La decisione
+impugnata, “chiaramente finalizzata non già ad impedire l’entrata in Svizzera
+del ricorrente, ma a controllarla” (loc. cit., pto. 5 p. 5), non può fondarsi
+sull’esigenza di raccogliere prove circa un’eventuale stabile residenza in
+Ticino (ibid.), né appare rispettosa dei principi di interesse pubblico o di
+proporzionalità: __________ non rappresenterebbe alcun pericolo per la
+sicurezza collettiva (loc. cit., pto. 5a p. 5), e la misura adottata configurerebbe
+“una limitazione della libertà personale completamente sproporzionata al fine
+che le autorità amministrative vogliono perseguire” (loc. cit., pto. 5b p. 5).
+D.
+Nelle proprie
+osservazioni (inc. Giar doc. _), l’ufficiale di polizia estensore della decisione
+impugnata – rammentati senso, portata e presupposti delle misure coercitive
+(loc. cit., pto. 2 p. 1-2) – si concentra sulla particolare situazione del
+ricorrente. Quest’ultimo trarrebbe “spunto da una situazione ambigua per
+ovviare al rispetto di un divieto di entrata non solamente emesso dall’ufficio
+federale degli stranieri ma pure confermato dall’autorità superiore e
+ripetutamente dall’ufficio federale medesimo” (loc. cit., pto. 4 p. 2); la
+sentenza pretorile cui egli si appella sarebbe superata dalla più recente
+giurisprudenza (ibid.); ma soprattutto, egli tenta di minimizzare gli sforzi da
+lui fatti per tornare a risiedere stabilmente in Ticino nonostante il divieto
+d’entrata (loc. cit., pto. 4 p. 3). L’autorità cantonale, tenuta al controllo
+del soggiorno di tutti i cittadini stranieri “soprattutto di quelli senza
+autorizzazione” (loc. cit., pto. 5 p. 3), ha optato per una decisione meno
+incisiva di quella – di per sé possibile – di un divieto di accesso (loc. cit.,
+pto. 7 p. 3): ha voluto in tal modo ossequiare al principio di proporzionalità
+e tener conto del fatto che “la presenza del signor __________ non è scevra da
+responsabilità di altre autorità” (ibid.). Postula, in conclusione, la
+reiezione del ricorso (loc. cit., pto. 9 p. 4).
+E.
+In uno con
+l’intimazione del ricorso per osservazioni (inc. Giar doc. _), questo giudice
+ha respinto la richiesta di concessione dell’effetto sospensivo al ricorso.
+Considerato
+in diritto:
+1.
+a)        La Legge federale 18 marzo 1994 concernente misure coercitive
+in materia di diritto degli stranieri (LMC; RU 1995 146, 152) ha introdotto
+nella Legge federale sulla dimora ed il domicilio degli stranieri (LDDS; RS
+142.20) la possibilità della carcerazione dello straniero allo scopo di
+garantire la procedura di allontanamento (art. 13a LDDS) rispettivamente di
+eseguire l’allontanamento (art. 13b LDDS). La carcerazione è ordinata
+dall’autorità del Cantone competente per l’esecuzione dell’allontanamento o
+dell’espulsione (art. 13c cpv. 1 LDDS). La legge prevede pure la possibilità di
+vietare allo straniero l’accesso, rispettivamente l’abbandono di un determinato
+territorio (art. 13e LDDS). Entrambe le misure coercitive devono essere
+sottoposte al controllo da parte di un’autorità giudiziaria (art. 13c cpv. 2
+risp. art. 13e cpv. 3 LDDS).
+b)        La legislazione esecutiva emanata in proposito dal Cantone
+Ticino ha demandato al Consiglio di Stato la facoltà di designare – tramite
+regolamento – le autorità amministrative competenti per ordinare ed eseguire le
+misure LMC (v. art. 3 cpv. 1 Legge cantonale di applicazione della LMC [LALMC],
+RL 1.2.2.2; Regolamento della LALMC, RL 1.2.2.2.1). Ha inoltre esteso il
+ventaglio delle misure ipotizzabili a quelli che la legge definisce
+“provvedimenti sostitutivi” (art. 2 LALMC). È discorso di misure non previste
+dalla legislazione federale, ma dette possibili se atte a raggiungere lo scopo
+della carcerazione: cauzione, deposito dei documenti, regolare comparizione,
+residenza in luogo determinato e simili (art. 2 cpv. 1 LALMC). Nel caso di
+specie, la misura avversata fa parte di quest’ultima categoria, come peraltro
+espressamente indicato al primo capoverso della decisione impugnata.
+c)         Il Giudice dell’istruzione e dell’arresto è l’autorità
+giudiziaria cantonale giusta la legislazione federale (art. 4 LALMC).
+Coerentemente con l’avvenuta estensione delle misure coercitive a quelle di cui
+al citato art. 2 cpv. 1 LALMC, il giudice non è competente unicamente per le
+misure previste dalla LDDS, bensì anche per ogni altra decisione dell’autorità
+amministrativa (art. 32 LALMC), fra le quali ricadono appunto i provvedimenti
+sostitutivi.
+d)        È pertanto data la competenza di questo giudice
+ratione
+materiae
+.
+2.
+Né la legge
+cantonale, né tantomeno il regolamento, precisano quale procedura sia
+applicabile. La natura amministrativa delle norme della LDDS non è tuttavia
+contestabile: ne fa stato l’approfondita discussione sull’opportunità o meno di
+designare questo giudice a giudice delle misure coercitive, in ragione della
+connotazione penale della sua attività (v. Messaggio LALMC 4598 del 20 novembre
+1996, pto. II.2 p. 728-732; Rapporto LALMC 4598 R dell’11 marzo 1997, part. p.
+752). Ciò si è concretizzato, fra l’altro, nella designazione del Tribunale
+cantonale amministrativo quale ultima autorità giudiziaria cantonale (artt. 31
+e 32 cpv. 2 LALMC), e nel termine di 15 giorni per l’inoltro del rimedio di
+diritto (ibid.), identico a quello per il contenzioso amministrativo (v. art.
+46 Legge di procedura per le cause amministrative [LPAmm.], RL 3.3.1). Ne
+discende che anche alla presente procedura si applica la legge per le cause
+amministrative, e di riflesso la sospensione dei termini ricorsuali per ferie
+giudiziarie (art. 13 LPAmm.).
+Il ricorso 9
+gennaio 2001 avverso la decisione del 19 dicembre 2000 appare dunque senz’altro
+tempestivo, come peraltro neppure contestato dall’Ufficio resistente.
+3.
+a)        Al fine di garantire l’attuazione della procedura di
+allontanamento, l’autorità competente può incarcerare un cittadino straniero
+sprovvisto di un permesso di residenza o soggiorno per un periodo massimo di
+tre mesi, se sono soddisfatte le condizioni di cui all’art. 13a LDDS (v., fra
+le tante, sentenza 8 giugno 2001 della II Corte di diritto pubblico del
+Tribunale federale in re H., inc. 2A.239/2001/bol, consid. 1, riguardante un
+caso di applicazione dell’art. 13a lit. e LDDS; DTF 125 II 368 consid. 3b.bb p.
+375 s.).
+b)        La carcerazione è poi anche possibile nei confronti dello
+straniero contro il quale è stata già emanata una decisione di allontanamento;
+quest’ultima non deve essere necessariamente cresciuta in giudicato. La sua
+esecuzione, sebbene non ancora eseguibile, deve essere possibile in fatto ed in
+diritto, ed attuabile entro un lasso di tempo di durata prevedibile. Inoltre
+devono essere dati i motivi di incarcerazione giusta l’art. 13b LDDS. In
+applicazione del principio di celerità, la richiesta dei documenti di identità
+dello straniero deve essere perseguita con decisione. La carcerazione dura
+anche in questo caso di principio tre mesi, tuttavia prorogabili qualora
+dovessero emergere particolari difficoltà nell’attuazione dell’allontanamento
+(v., da ultimo, la sentenza 3 maggio 2001 della II Corte di diritto pubblico
+del Tribunale federale in re A., inc. 2A.190/2001/bol, consid. 2, con numerosi
+rinvii).
+c)         Le due forme di carcerazione poggiano su premesse diverse e
+si escludono vicendevolmente (DTF 125 II 377, consid. 2b p. 379-380).
+d)        Come ogni misura suscettibile di limitare la libertà
+personale, anche la carcerazione in via di allontanamento deve rispettare il principio
+di proporzionalità (DTF 125 II 377, consid. 4a p. 383): ciò significa che
+nessun’altra misura deve apparire atta a garantire l’esecuzione
+dell’allontanamento (DTF 119 Ib 193, consid. 2c p. 198). Il legislatore
+cantonale ha voluto ancorare esplicitamente nella legge di applicazione questo
+principio giurisprudenziale: “considerato come la privazione della libertà
+costituisca una sorta di ultima ratio nei confronti della persona straniera da
+allontanare, occorre sottolineare la possibilità ed il dovere per l’autorità,
+del resto già sancito dalla prassi del TF (DTF 121 II 105 segg.; DTF del 22
+maggio 1996 in re Abdel Khalek) di deviare, laddove possibile, su misure meno
+incisive, quali il divieto di accesso o di abbandono di un territorio,
+l’obbligo di notifica della presenza alla polizia, il deposito di una cauzione,
+ecc. (DTF del 13 luglio 1995 in re K.; DTF del 4 ottobre 1995 in re Bahri)”
+(Messaggio LALMC n. 4598 del 20 novembre 1996, pto. III.1 p. 732 s.).
+e)        La logica di questa soluzione non appare del tutto
+convincente: come lo stesso Tribunale federale rileva, se già deve venire
+ammesso il concreto pericolo che lo straniero intenda sottrarsi all’espulsione,
+difficilmente una misura meno incisiva della carcerazione – ad es., appunto, un
+obbligo di notifica della presenza – potrà essere riconosciuta come atta a
+garantire l’esecuzione dell’allontanamento (DTF 119 Ib 193, consid. 2c p. 198
+s.). Ma in una più recente sentenza si legge che anche qualora non fossero
+soddisfatti i requisiti per la carcerazione ex art. 13b LDDS, alla competente
+autorità cantonale non è vietato procedere con i preparativi in vista
+dell’allontanamento, se del caso accompagnando i medesimi con l’obbligo per lo
+straniero di rimanere a sua disposizione e di non abbandonare un determinato
+territorio (v. DTF 122 II 148, consid. 4a p. 154).
+f)          Se ne deve concludere, riassumendo, che nei confronti di un
+cittadino straniero privo di permesso di dimora o domicilio possono essere
+ordinate misure restrittive della sua libertà personale (quali quelle qui in
+discussione) sia quali misure sostitutive della carcerazione in attesa di
+allontanamento, sia quali misure atte a prevenire la messa in pericolo della
+sicurezza e dell’ordine pubblici.
+4.
+Nel caso di specie, la misura avversata si appalesa
+ingiustificata, e ciò per due ordini di ragioni.
+a)        In primo luogo, se la misura ordinata vuole trovare
+fondamento nell’art. 2 LALMC – e, più genericamente, nel rispetto del principio
+di proporzionalità (
+supra
+, consid. 3d) – essa deve apparire finalizzata
+all’attuazione della procedura di allontanamento di __________, rispettivamente
+all’esecuzione del suo allontanamento: è legittima solo se sostituisce la più
+incisiva carcerazione, a sua volta ammessa unicamente alle condizioni previste
+dagli artt. 13a e 13b LDDS. Ciò non è manifestamente il caso: da un lato,
+emerge dagli atti che nei confronti del ricorrente già vige un divieto
+d’entrata dell’Ufficio federale degli stranieri, e dunque non vi sarebbe spazio
+per una procedura ex art. 13a LDDS. D’altro canto, tanto dalla motivazione
+della decisione impugnata quanto dalle osservazioni al ricorso appare evidente
+come l’unico scopo perseguito dall’autorità resistente sia stato quello di un
+controllo del soggiorno ticinese del ricorrente (v. decisione impugnata, cit.,
+p. 1-2; osservazioni, cit., pto. 5 p. 3) e non di una preparazione di un suo
+allontanamento: anzi, dice l’autorità di polizia, pur potendo emettere
+direttamente una decisione di divieto di accesso, si è preferito procedere con
+“una misura di controllo più soft, segnatamente giusta l’art. 2 della legge
+cantonale“ (loc. cit., pto. 7 p. 3).
+b)        Di nessun aiuto per l’autorità resistente, inoltre, è il
+richiamo all’art. 13e LDDS (in tal senso v. osservazioni, cit., pto. 2 p. 2):
+questa norma permette di ordinare misure restrittive della libertà di movimento
+unicamente nei confronti di cittadino straniero privo di permesso di dimora o
+domicilio, e che cumulativamente mette in pericolo la sicurezza e l’ordine
+pubblico. Nel caso di __________, questi requisiti non sono manifestamente
+soddisfatti: i reati penali da lui commessi risalgono a parecchio tempo fa (in
+ogni caso antecedenti il 1° gennaio 1995, per cui in applicazione dei combinati
+artt. 13 ss. LDDS e 2 delle disposizioni finali della modificazione del 18
+marzo 1994 non giustificherebbero neppure l’incarcerazione a scopo di
+allontanamento, v. DTF 122 II 148, consid. 2a p. 151). Tant’è vero che neppure
+l’autorità di polizia vi fa riferimento a sostegno della misura. In tempi più
+recenti, __________ non è stato fatto oggetto di inchieste penali (a parte il
+decreto 22 gennaio 2001 [v.
+supra
+, consid. A], comunque successivo alla
+decisione impugnata e scaturente dal medesimo complesso di fatti), né ha in
+altro modo disturbato l’ordine pubblico. L’art. 13e LDDS, pertanto, non ha
+alcuna attinenza con la fattispecie qui discussa.
+c)         Ne discende che la decisione impugnata si appalesa
+infondata. In accoglimento del ricorso, essa deve pertanto essere annullata.
+5.
+La situazione
+di __________ nei confronti delle autorità amministrative e penali svizzere
+appare confusa: esiste un divieto d’entrata emanato dal competente Ufficio
+federale degli stranieri, contraddetto da una sentenza pretorile del 1992 ma
+successivamente riaffermato dal medesimo Ufficio. Per ammissione dello stesso
+ricorrente, negli anni scorsi il divieto d’entrata è stato ripetutamente e
+deliberatamente disatteso: ciò ha dato origine a due decisioni di non luogo a
+procedere (v. allegati al ricorso, cit., inc. Giar doc. _) e, successivamente
+all’inoltro del ricorso qui discusso, ad un decreto d’accusa 22 gennaio 2001
+del Procuratore Generale del Cantone Ticino, oggetto di pendente opposizione.
+Appaiono dunque date le premesse affinché la situazione di __________ venga
+definitivamente chiarita, se non altro per evitare che il ricorrente continui
+impunemente a trarre beneficio dalla confusa situazione. Per scrupolo di
+completezza, ed a scanso di futuri equivoci (nel presente caso senz’altro
+possibili, come dimostrano gli atti), sia comunque espressamente precisato che
+la presente decisione non ha alcun influsso sulla questione della validità del
+divieto d’entrata emanato a suo tempo dall’Ufficio federale degli stranieri, né
+sull’eventuale punibilità penale del soggiorno illegale di __________ in
+Svizzera: essa si limita a constatare che, quale che sia la posizione del
+ricorrente di fronte alle autorità amministrative, la misura ordinata dalla
+Polizia cantonale ticinese non soddisfa i requisiti di legge. In nessun caso
+questo giudizio deve essere strumentalizzato al fine di creare ulteriore
+parvenza di diritto di soggiorno in Svizzera.
+6.
+In
+conclusione, il ricorso 9/10 gennaio 2001 di __________ deve essere accolto,
+poiché il provvedimento impugnato non soddisfa i requisiti di legge. La
+decisione 19 dicembre 2000 della Polizia cantonale deve pertanto essere
+annullata, con la presente decisione esente da tassa e spese di giudizio ed
+impugnabile entro 15 (quindici) giorni avanti al Tribunale cantonale
+amministrativo.
+7.
+a)        Il patrocinatore di __________ ha protestato ripetibili.
+La LALMC è
+silente, e neppure il Regolamento si esprime in proposito. Già
+supra
+(consid. 2), parlando di termini e di ferie giudiziarie, si è lamentata la
+mancanza di un rinvio alla procedura applicabile; in quel contesto si è evidenziata
+la natura amministrativa delle misure coercitive in tema di stranieri,
+deducendone l’applicabilità per analogia della LPAmm. In tema di ripetibili,
+tuttavia, neppure questo rinvio alla LPAmm. aiuta: all’art. 31, infatti, essa
+conferisce la facoltà di attribuire ripetibili unicamente al Consiglio di Stato
+ed al Tribunale cantonale amministrativo, oltretutto agenti quali autorità di
+ricorso – anche se quest’ultima restrizione è stata fortemente relativizzata
+dalla giurisprudenza (v.
+Marco Borghi/Guido Corti
+, Compendio di
+procedura amministrativa ticinese, CFPG collana blu volume 1, Lugano 1997, ad
+art. 31 LPAmm. p. 159 s.). Il Giudice delle misure coercitive (art. 4 LALMC)
+non è annoverato fra le autorità legittimate ad attribuire ripetibili. Si è
+dunque in presenza di una lacuna di legge.
+b)        La maggior parte dei codici di rito prevede l’attribuzione di
+ripetibili: non solo queste non hanno carattere straordinario, ma anzi la loro
+assegnazione persegue lo scopo “di evitare che un riserbo eccessivo nella concessione
+di indennità alla parte vincente possa causare immeritati ed eccessivi aggravi
+a carico di chi, giustificatamente, si è valso dei mezzi offerti dalla
+giustizia amministrativa” (
+Borghi/Corti
+, loc. cit. p. 159, con rinvii).
+Ciò deve valere
+a fortiori
+quando la misura che si è poi appalesata
+ingiustificata abbia leso dei diritti fondamentali, quale è
+in casu
+la
+libertà personale. Si deve pertanto escludere che la lacuna di legge
+riscontrata nella LALMC (e nella LPAmm.) sia di natura impropria (“unechte
+Lücke”), ovvero voluta dal legislatore ed espressa tramite silenzio
+qualificato: con tutta verosimiglianza, essa è frutto di una dimenticanza.
+Sarebbe altrimenti inspiegabile, fra l’altro, che il ricorrente possa chiedere
+il beneficio del gratuito patrocinio (art. 10 LALMC), ma non l’attribuzione di
+un’indennità per le spese di patrocinio.
+c)         Per i motivi appena espressi, la lacuna va allora colmata
+con il riconoscimento del principio in virtù del quale lo straniero oggetto di
+misure coercitive ha diritto all’attribuzione di ripetibili, qualora il rimedio
+di diritto da lui inoltrato si riveli fondato.
+Per i quali
+motivi
+in
+applicazione degli artt. 13 ss. LDDS; 2, 4 e 32 LALMC; 13, 31 e 46 LPAmm.
+d e c i d e :
+1.
+Il
+ricorso inoltrato in data 9/10 gennaio 2001 da __________ avverso la decisione
+19 dicembre 2000 della Polizia del Cantone Ticino è accolto.
+§   L’obbligo di notifica dell’arrivo in
+e della partenza dal Ticino è annullato.
+2.
+Non
+si prelevano tassa né spese gi giustizia. Il Cantone Ticino verserà al ricorrente
+l’importo di fr. 400.— a titolo di ripetibili.
+3.
+Contro
+la presente decisione è dato il rimedio del ricorso al Tribunale cantonale
+amministrativo entro 15 (quindici) giorni dall’intimazione.
+4.
+Intimazione:
+-    avv. __________, per sé e per il ricorrente,
+con copia delle osservazioni dell’autorità resistente;
+-    Polizia del
+Cantone Ticino, e per essa al responsabile della Gendarmeria Sottoceneri cap
+__________, Lugano, per esecuzione.
+giudice __________
