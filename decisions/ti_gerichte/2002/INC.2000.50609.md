@@ -1,0 +1,79 @@
+---
+decision_id: "ti_gerichte_INC.2000.50609"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.50609"
+decided: "2002-12-19"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59647&nX40_KEY=4711357&nTrefferzeile=6&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2000.50609
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 19.12.2002 INC.2000.50609
+Tessin Il Giudice dell'istruzione e dell'arresto 19.12.2002 INC.2000.50609
+Ticino Il Giudice dell'istruzione e dell'arresto 19.12.2002 INC.2000.50609
+
+Sentenza o decisione senza scheda
+
+Inc. 506.2000.9                                           Lugano,
+19 dicembre 2002
+Dinanzi al Giudice
+dell'istruzione e dell'arresto __________
+compaiono:
+L'
+avv. __________
+,
+patrocinatore di __________
+e
+il
+Procuratore Pubblico
+__________
+per
+prendere atto e discutere l'esito del reclamo inoltrato il 18 dicembre 2002 da
+__________, contro il rifiuto di dissequestro parziale dei suoi averi bancari e
+postali.
+Premesso
+che
+né accusa né difesa si prevarranno della decisione odierna per fondare
+motivazioni in sede di merito,
+che
+sicuramente una parte di quanto sequestrato all'avv. __________ è di
+provenienza lecita e
+che
+si vuole consentire all'accusato di far fronte ai propri doveri famigliari,
+rispettivamente
+si
+vuole così evitare di far capo al gratuito patrocinio
+Preso
+atto che gli altri interessati __________ e __________ hanno già comunicato di
+non avere obiezioni all'istanza di dissequestro a favore di __________ e
+contestualmente intimato il reclamo al Magistrato inquirente,
+dopo
+discussione e su proposta del Giudice si conviene:
+1.       Il Procuratore Pubblico
+procederà a dissequestrare il conto corrente dello studio legale __________ e
+il conto corrente postale presso l'ufficio postale di __________, nonché a
+liberare fr. 60'000.-- dal libretto  __________ al portatore, presso la Banca
+__________ ed altrettanti fr. 60'000.-- dal libretto __________ al portatore
+presso la Banca __________.
+2.
+L'avv. __________ ritira il
+reclamo.
+3.
+Non si percepiscono né spese né
+tasse di giustizia
+4.
+Intimazione seduta stante a:     avv.
+__________ (per __________)
+PP __________ (inc. __________)
+Il Giudice                        Il
+Procuratore Pubblico               Avv. __________ __________
+__________          __________
