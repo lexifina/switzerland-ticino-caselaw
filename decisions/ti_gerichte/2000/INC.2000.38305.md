@@ -1,0 +1,212 @@
+---
+decision_id: "ti_gerichte_INC.2000.38305"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.38305"
+decided: "2000-12-04"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=57096&nX40_KEY=4711458&nTrefferzeile=59&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2000.38305
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 04.12.2000 INC.2000.38305
+Tessin Il Giudice dell'istruzione e dell'arresto 04.12.2000 INC.2000.38305
+Ticino Il Giudice dell'istruzione e dell'arresto 04.12.2000 INC.2000.38305
+
+Sentenza o decisione senza scheda
+
+N. 383.2000.5 L                                                         Lugano,
+4 dicembre 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 24 novembre 2000 da
+__________
+, cittadino turco, attualmente presso il
+Penitenziario cantonale
+(patrocinato
+dall'avv. __________)
+e qui trasmessa con preavviso
+negativo il 29 novembre / 1. dicembre 2000 dal
+Procuratore pubblico
+avv.
+__________;
+viste le osservazioni 4 dicembre
+2000 dell'accusato, che si conferma in contenuti e conclusioni dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che
+-
+__________ venne arrestato il 13 giugno 2000, con contestuale promozione
+dell'accusa nei suoi confronti per titolo di furto e infrazione alla legge
+federale sulle armi e sulle munizioni: a verbale del 13 luglio 2000 (doc. _
+dell'inc. MP 3129/2000, secondo l'attuale numerazione: in precedenza doc. _),
+il Procuratore pubblico ha esteso l'accusa ai reati di truffa, danneggiamento,
+infrazione e contravvenzione alla legge federale sugli stupefacenti e messa in
+circolazione di monete false;
+-
+questo giudice è già stato chiamato due volte a pronunciarsi su istanze
+di libertà provvisoria formulate dall'accusato, respingendole entrambe
+rispettivamente con decisione 21 luglio 2000 (inc. GIAR 383.2000.3) e con
+decisione 31 agosto 2000 (inc. GIAR 383.2000.4), ritenuti pacifici gravi e
+concreti indizi di colpabilità e presenti pericolo di collusione, di fuga e di
+recidiva;
+-
+la nuova, per così dire, composita istanza conferma le ammissioni di
+colpevolezza, considera conclusi gli accertamenti ed esclude pericolo di fuga
+per chiedere quindi in via principale la chiusura dell'istruzione formale, la
+disgiunzione del procedimento concernente __________ da quelli contro i correi
+e l'adozione della procedura abbreviata: in via subordinata è postulata la
+libertà provvisoria senza condizioni rispettivamente dietro versamento di
+cauzione e disposizione di altre misure sostitutive;
+-
+il Procuratore pubblico fa presente di avere proprio lo stesso 29
+novembre 2000 proceduto alla chiusura dell'istruzione formale (v. doc. _, per
+quanto concerne l'istante), non vi sono pertanto motivi per procedere a
+disgiunzione o per far capo al rito al rito abbreviato, mentre permangono
+pericolo di fuga e di recidiva, per cui l'istanza di libertà provvisoria va
+respinta;
+-
+le osservazioni a detto preavviso negativo, a conferma dell'istanza,
+insistono specialmente sul difetto di proporzionalità della lunga carcerazione
+rispetto ai reati ipotizzati, considerati i verosimili lunghi tempi di
+aggiornamento del processo, mentre che a pericolo di fuga e di recidiva ("
+se
+esistessero
+") si può parare con opportune misure sostitutive;
+-
+anche per i pregressi citati giudizi è noto che:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso) proroga del
+carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello
+stesso accusato gravi e concreti indizi di colpabilità per un crimine o un
+delitto e nel contempo sono presenti preminenti motivi di interesse pubblico,
+quali - per quanto qui concerne - [ … ] il pericolo di fuga e quello di
+recidiva (senza dimenticare che l’arresto, quale misura processuale
+cautelativa, non serve unicamente ai bisogni dell’istruttoria, ma anche ad
+assicurare la presenza dell’accusato al processo e a garantire l’eventuale
+espiazione della pena: DTF 109 Ia 323 consid. c, e riferimenti; sentenza 16
+novembre 1993 del Tribunale federale in re A.H., 1P.477/1993, consid. 3).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato
+codificazione in una chiara base legale (di diritto cantonale: DTF 114 Ia 283
+cons. 3), in corrispondenza ed a superamento di quanto già dettato dalla
+giurisprudenza della Camera dei ricorsi penali - nel solco di quella del
+Tribunale federale -, ritenuto implicito il rispetto della proporzionalità (REP
+1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128).";
+-
+gravi e concreti indizi di colpevolezza vennero già verificati in
+precedenza e quanto meno corrispondono alle ammissioni dell'accusato, il tutto
+ora consegnato negli atti dell'istruttoria formale definitivamente chiusa e
+prossimamente nell'atto di accusa (per il rifiuto del Procuratore pubblico di
+far capo alla procedura di giudizio abbreviata, secondo la discrezionalità
+riconosciutagli dalla legge: art. 316 a cpv. 2 CPP): è così caduto il pericolo
+di collusione;
+-
+la richiesta di riattivazione della procedura di esame della domanda di
+asilo nulla muta rispetto alle ragioni che fondano il pericolo di fuga, come
+esposte nelle passate decisioni, tranquillamente cresciute in giudicato:
+"Per quanto concerne il pericolo di fuga, si
+ricorda che i criteri determinanti per stabilire se questo presupposto sia dato
+o meno sono il carattere del prevenuto, il suo domicilio, la sua professione,
+la sua situazione famigliare e i suoi legami con lo Stato in cui egli é
+inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in re S.C. del Tribunale
+federale; sentenza 20 ottobre 1994 in re M.A., CRP 314/94). L'apprezzamento di
+tutte le circostanze, per invocare appunto un rischio di fuga, deve lasciar
+presumere che le conseguenze di una fuga appaiano per l’accusato come un male minore
+rispetto a quello derivante per lui dall'ulteriore carcerazione, con maggior
+forza quanto più i reati imputati comportino pene edittali od eventualità di
+pena concreta importanti (in questo senso Mario
+Luvini
+; in REP 1989, pag. 292, con i riferimenti ivi
+indicati; sentenza
+14 novembre 1994 in re S.V., CRP 341/94).
+E' ben vero che __________ ha qui parenti e afferma di
+essersi "
+assimilato
+", non intendendo pertanto rimpatriare (v.
+verbale di polizia 29 giugno 2000, doc. _, pag. 4 e 5), comunque già la sua
+permanenza è precaria, non essendo ancora stata decisa la sua domanda di asilo,
+e soprattutto si trova confrontato con le riferite importanti imputazioni e con
+altri chiarimenti tali da oggettivamente aggravare la sua posizione
+processuale, per cui la scelta di latitanza è eventualità concreta, sia per
+evitare confronti e accertamenti, sia per sfuggire alla condanna ad una pena
+detentiva verosimilmente da espiare, con possibile seguito comunque di
+espulsione.";
+-
+del pari si ha in punto al pericolo di recidiva, affatto sfiorato
+dall'istanza in discussione e solo nominato nelle osservazioni al preavviso
+negativo (e comunque non ovviabile con altre misure meno incisive):
+"Anche se non evocato al momento della conferma dell'arresto e
+neppure avanzato dal Procuratore pubblico, può ora essere discorso di pericolo
+di recidiva, osservando come lo stesso debba essere concreto (DTF 105 Ia 31) e
+risultare da una valutazione dell’insieme delle circostanze, tra cui i
+precedenti dell’accusato, il suo comportamento durante l’istruttoria, la sua
+personalità, la sua costituzione fisica e soprattutto psichica e le modalità di
+commissione dei reati che gli vengono addebitati, così che la reiterazione
+appaia assai verosimile (Mario LUVINI, in REP 1989, pag. 294; Gérard PIQUEREZ,
+Précis de procédure pénale suisse, Lausanne 1987, n. 1186/7).
+Il complesso degli addebiti, sia pure solo
+considerando quanto ammesso dall'accusato, ed il comportamento processuale di
+quest'ultimo dimostrano disponibilità a ripetuta indiscriminata partecipazione
+a reati, in quanto "
+sprovvisto di mezzi finanziari
+" (v.
+verbale di polizia 13 giugno 2000, annesso al doc. _, e come ricordato
+nell'istanza). Ora egli è disoccupato, vale a dire nella stessa situazione di
+squattrinato, facile indirizzo al reato, avuto anche presente che una
+liberazione prima del completo accertamento dei fatti e della conclusione del
+procedimento indurrebbe a banalizzazione di quanto commesso, senza quindi
+sufficiente influsso di prevenzione speciale.";
+-
+la libertà provvisoria essendo stata chiesta in via subordinata alla
+chiusura dell'istruttoria (avvenuta) ed alla disgiunzione dei procedimenti per
+ricorso al rito abbreviato (con tempi non dissimili da quelli per il
+deferimento alla competente Corte d'assise nelle vie normali), vi è implicito
+riconoscimento di proporzionalità del carcere preventivo tuttora corrente (176
+cpv. 2 e 3 CPP), ricordando che qui possono valere solo i termini di legge per
+l'aggiornamento del pubblico dibattimento (art. 102 cpv. 3 e 230 CPP);
+-
+l’istanza è conseguentemente respinta con la
+presente decisione, esente da tassa e spese giudiziarie (art. 39 lett. f TG e
+contrario) e suscettibile di impugnazione alla Camera dei ricorsi penali (art.
+284 cpv. 1 lett. a CPP);
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-    avv. __________, per sé e per l’istante;
+-    Procuratore pubblico avv. __________ (con copia delle
+osservazioni dell’istante e con gli atti dell’incarto MP 3129/2000 di ritorno).
+giudice
+__________
