@@ -1,0 +1,187 @@
+---
+decision_id: "ti_gerichte_INC.2004.19503"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.19503"
+decided: "2004-06-14"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=60943&nX40_KEY=4711302&nTrefferzeile=77&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-175.md"]
+---
+
+# TI Gerichte INC.2004.19503
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 14.06.2004 INC.2004.19503
+Tessin Il Giudice dell'istruzione e dell'arresto 14.06.2004 INC.2004.19503
+Ticino Il Giudice dell'istruzione e dell'arresto 14.06.2004 INC.2004.19503
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2004.19503
+Lugano
+14 giugno 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sul reclamo presentato il 12 maggio
+2004 da
+__________
+patr. d'ufficio dall'__________
+contro
+la decisione 6 maggio 2004 del
+Procuratore pubblico Antonio Perugini in materia di accesso agli atti nel
+procedimento aperto contro il reclamante per titolo di furto, danneggiamento
+e violazione di domicilio, di cui all'inc. MP __________;
+preso atto delle osservazioni 21
+maggio 2004, con le quali il Procuratore pubblico postula la reiezione del
+gravame;
+visto, per quanto necessario,
+l'inc. MP __________;
+ritenuto
+in fatto
+A.
+Nei confronti di __________ e del
+di lui figlio __________ - entrambi in detenzione preventiva dal 17 aprile 2004
+- è in atto un procedimento penale per titolo di furto aggravato siccome
+commesso per mestiere ed in banda, ripetuto danneggiamento e ripetuta
+violazione di domicilio. In particolare, i due accusati sono stati arrestati in
+flagranza di reato il 17 aprile 2004 a Losone; l'arresto è stato confermato il
+giorno successivo da questo giudice, essendo dati, seri e concreti indizi di
+colpevolezza, pericolo di fuga e bisogni istruttori (inc. GIAR 195.2004.1 doc.
+3).
+B.
+Con decisione 6 maggio 2004 il
+Procuratore pubblico ha respinto la richiesta del difensore dell'accusato di
+poter avere accesso agli atti, in quanto
+"allo stadio attuale
+dell'inchiesta questo non è possibile per motivi istruttori (correi con
+versioni non collimanti e in fase di verifica sulla base di riscontri oggettivi
+in corso di allestimento)".
+Di qui il presente reclamo con il
+quale la difesa di __________ chiede l'accesso agli atti del procedimento.
+Evidenziate dottrina e giurisprudenza in materia, la difesa rileva che la
+limitazione totale dell'accesso agli atti violerebbe i diritti della difesa
+(parità delle armi) ed inoltre che, risalendo l'arresto al 17 aprile 2004, non
+vi sarebbero più contrarie esigenze d'inchiesta, ovvero preminenti motivi di
+interesse pubblico e privati tali da giustificare - peraltro neppure
+sostanziati dal magistrato inquirente nella decisione impugnata - la suddetta
+limitazione. Osserva pure che il Procuratore pubblico ha avuto tutto il tempo per
+assumere i riscontri oggettivi e procedere alle verifiche delle versioni
+divergenti dei correi, a maggior ragione tenuto conto che, per quanto è dato
+sapere alla difesa, unico correo è il figlio __________, anch'egli in
+detenzione preventiva.
+C.
+In sede di osservazioni il
+Procuratore pubblico si è riconfermato nella decisione impugnata. In
+particolare, dopo aver rilevato che sia __________ che __________ fanno parte
+unitamente a numerosi correi di una banda, fra cui una nipote di __________,
+dedita alla commissione di furti in abitazioni private del Ticino e di altri
+Cantoni sin dal 2002, e che dall'inchiesta in corso continuano ad emergere
+ulteriori indizi di furti, ha evidenziato che, allo stadio attuale del
+procedimento, la complessità dell'inchiesta e dei fatti da accertare, le
+incongruenze delle versioni sino ad ora rese dai due correi ed i tentativi di
+inquinamento delle prove messi in atto - come risulta dalla nota confidenziale
+della polizia del 19 maggio 2004 - fanno si che per motivi istruttori l'accesso
+agli atti debba essere negato. Il magistrato inquirente ha pure osservato che
+quanto vale per l'accusato vale anche per il difensore, qualora, come nel
+presente caso, quest'ultimo abbia un permesso di visita libero con il suo
+patrocinato.
+D.
+Con scritto 9 giugno 2004 il
+Procuratore pubblico ha comunicato a questo giudice di aver fissato
+l'interrogatorio di __________ e di __________ per il prossimo 23 giugno 2004.
+E ritenuto
+In diritto
+1.
+La legittimazione di __________,
+accusato nel procedimento e destinatario della decisione impugnata, è pacifica.
+Il reclamo tempestivo è quindi ricevibile in ordine.
+2.
+Per l'ovvia e fondamentale
+importanza che la conoscenza degli atti riveste nell'ambito di una difesa
+penale, vige notoriamente il principio che gli stessi sono liberamente
+accessibili all'accusato, salvo comunque contrarie esigenze d'inchiesta (art.
+58 cpv. 1 e 60 cpv. 2 CPP).
+"Fondamentale "esigenza
+d'inchiesta" è l'immediatezza delle dichiarazioni dell'accusato: egli non
+deve poter ricevere informazioni sino a quel momento note unicamente agli
+inquirenti prima che le stesse gli siano state formalmente contestate. In caso
+contrario, verrebbe ripristinato quel pericolo di collusione che aveva magari
+già giustificato l'arresto dell'accusato; ed inoltre, quest'ultimo potrebbe
+costruirsi ad arte una linea di difesa compatibile con quanto
+l'accusa
+già conosce"
+(L. Marazzi, Il GIAR, Lugano 2001, § 3.II.2.1. p. 22, con
+rinvii a giurisprudenza e dottrina in nota 79 ibidi.). Va inoltre ricordato che
+il problema si pone in termini analoghi per l'accusato ed il suo patrocinatore,
+in particolare nei casi come quello in esame, il patrocinatore ha colloqui
+liberi con l'accusato arrestato (cfr. Rep. 1994, n. 114, p. 114-115).
+Se è corretto (proceduralmente
+parlando) limitare l'accesso agli atti fino alla prospettazione/contestazione
+degli stessi per garantire immediatezza (delle risposte), non è altrettanto
+corretto ritardare oltre misura queste operazioni d'inchiesta ed il relativo
+divieto di prenderne visione. Da un lato l'art. 175 cpv. 2 CPP sancisce il
+principio della celerità dell'istruttoria per tempestiva definizione del
+procedimento, dall'altro il ritardo nella prospettazione d'eventuali prove (o
+indizi) a carico può pregiudicare (o rendere più difficoltosa) l'acquisizione
+di prove a discarico o di elementi di approfondimento di quanto prospettato.
+Pertanto la necessità di garantire l'immediatezza delle dichiarazioni
+dell'accusato non può essere invocata quale impedimento all'accesso agli atti
+se vi è un ritardo eccessivo nella loro contestazione.
+Dagli atti risulta che l'accusato
+ha mantenuto un atteggiamento non collaborativo per tutto il corso
+dell'inchiesta, che le versioni da lui rese e quelle del figlio non collimano e
+che vi sono già stati tentativi di collusione (cfr. osservazioni PP). In
+siffatte circostanze risposte preconfezionate sulla base di atti già visionati
+non solo non sarebbero utili alla ricerca della verità, ma anzi rischierebbero
+di essere di nocumento per la credibilità dell'accusato reclamante (che, non lo
+si dimentichi, ha comunque piena facoltà di rifiutarsi di rispondere). Se è
+vero che l'accusato sa di entrare in considerazione per altri furti commessi in
+Ticino, è altrettanto vero che egli non può sapere che cosa abbia dichiarato il
+figlio e tutto quanto hanno raccolto le autorità inquirenti. Le suddette
+considerazioni rafforzano la necessità di vietare all'accusato ed al suo
+difensore (che, come detto, beneficia sin dall'inizio dell'inchiesta di
+colloqui liberi con l'accusato) l'accesso agli atti fino al chiarimento dinanzi
+al magistrato di deposizioni verbalizzate in un primo tempo dalla sola polizia.
+Se è vero che __________ si trova
+in carcere dal 17 aprile 2004, giova evidenziare che il Procuratore pubblico in
+data 9 giugno 2004 ha spiccato una citazione per l'accusato ed il coaccusato
+per il 23 giugno prossimo. Vista l'imminenza degli interrogatori in questione,
+ancora si giustifica la non concessione dell'accesso fino ad espletazione degli
+stessi per salvaguardare il principio dell'immediatezza (anche a favore
+dell'accusato), ritenuto che il periodo intercorrente fra la presente decisione
+e l'effettivo accesso non è tale da ledere il principio di proporzionalità. Va
+da sé che al termine dei menzionati interrogatori l'accesso agli atti sarà dato
+e completo e che, in ogni caso, il problema dell'accesso agli atti sarà
+superato dalle prospettazioni che avverranno nei verbali di prossimo
+espletamento.
+3.
+In conclusione, il reclamo è
+evaso con la presente decisione definiva, nel senso che l'accesso agli atti
+integrale è procrastinato a dopo le audizioni previste per il 23 giugno 2004.
+Visto l'esito si prescinde dal carico di tasse e spese e dall'assegnazione di
+ripetibili.
+P.Q.M.
+visti gli art. 139, 144 e 186 CP, 60 ss, 280 ss CPP,
+decide
+1.
+Il reclamo è evaso ai sensi dei considerandi.
+2.
+Non si prelevano né tassa di giustizia, né spese. Non
+si assegnano ripetibili.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+giudice
+Ursula Züblin
