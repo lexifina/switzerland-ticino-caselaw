@@ -1,0 +1,348 @@
+---
+decision_id: "ti_gerichte_INC.2004.24103"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.24103"
+decided: "2004-05-13"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59412&nX40_KEY=4711304&nTrefferzeile=2&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2004.24103
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 13.05.2004 INC.2004.24103
+Tessin Il Giudice dell'istruzione e dell'arresto 13.05.2004 INC.2004.24103
+Ticino Il Giudice dell'istruzione e dell'arresto 13.05.2004 INC.2004.24103
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2004.24103
+Lugano
+13 maggio 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+__________
+sedente per statuire sull'istanza di libertà provvisoria
+presentata il 7 maggio 2004 da
+__________
+, c/o Carceri pretoriali, 6500 Bellinzona
+patr. di fiducia dall'avv. __________
+e qui trasmessa con preavviso negativo il 10/11 maggio
+2004 dal
+Procuratore pubblico __________
+, Bellinzona
+viste le osservazioni al
+preavviso negativo, presentate dalla difesa il 12 maggio 2004;
+visto l'inc. MP /2004;
+ritenuto
+in fatto
+A.
+____________ è stato arrestato il
+28 aprile 2004 con l'accusa di infrazione alla LFStup e di contravvenzione alla
+medesima legge.
+L'arresto è stato confermato da
+questo giudice il giorno successivo, ritenuti presenti gravi indizi di
+colpevolezza, pericolo di fuga e bisogni istruttori (doc. 3, inc. GIAR
+241.2004.1).
+Il magistrato inquirente addebita
+sostanzialmente all'accusato di aver detenuto, venduto, trafficato, trasportato
+e consumato sostanze stupefacenti.
+B.
+Con istanza maggio 2004,
+____________ chiede di essere immediatamente posto in libertà provvisoria.
+L'accusato contesta l'esistenza
+di un concreto pericolo di fuga, ritenuto che egli è privo di mezzi finanziari,
+quindi non potrebbe darsi alla latitanza all'estero, e che sia i suoi genitori
+che suo fratello risiedono in Ticino. In ogni caso per scongiurare un eventuale
+pericolo di fuga sarebbe sufficiente il deposito del passaporto.
+Neppure sarebbero dati bisogni
+istruttori, ritenuto che ____________ è già stata sentita dalle autorità
+inquirenti e che l'isp. __________ lo avrebbe informato che la deposizione di
+quest'ultima coincideva con quella dell'istante e che pertanto l'istruttoria
+era da ritenersi chiusa.
+In siffatte circostanze una
+proroga della carcerazione preventiva sarebbe contraria al principio di
+proporzionalità, "
+avuto riguardo alla grande verosimiglianza di una
+pena condizionale nei limiti di un decreto d'accusa"
+, avuto riguardo
+ai quantitativi e al fatto che egli non ha mai venduto sostanze stupefacenti.
+C.
+Con preavviso negativo 10/11
+maggio 2004 il magistrato inquirente indica la sussistenza di bisogni
+dell'istruzione, pericolo di collusione ed inquinamento delle prove, nonché di
+quello di fuga. Delle relative argomentazioni si dirà in dettaglio per quanto
+necessario ed al fine di evitare inutili ripetizioni nei considerandi in
+diritto.
+Con osservazioni 12 maggio 2004
+la difesa si riconferma nelle argomentazioni dell'istanza di libertà provvisoria.
+In particolare, per quanto riguarda il pericolo di fuga, pur ammettendo che
+____________ ha intenzione di stabilirsi in Brasile, ribadisce che una sua
+partenza per l'estero sarebbe inverosimile tenuto conto del fatto che egli non
+ha mezzi finanziari, è a tutt'oggi domiciliato presso il comune di __________
+(come confermato telefonicamente dall'Ufficio del controllo abitanti al
+patrocinatore) e la sua famiglia vive in Ticino, e che, comunque, si potrebbe
+ovviare a tale pericolo con il deposito del passaporto. Per quanto concerne
+invece i bisogni dell'istruzione, la portata e l'entità del traffico sarebbero
+già state chiarite, il tutto corroborato dalla deposizione di ____________
+"che
+stando alla polizia corrisponderebbe con quello dell'istante";
+neppure
+sarebbe dato il rischio di collusione ed inquinamento delle prove ritenuto che
+____________ non ha mai venduto, quindi non esistono acquirenti, che i suoi due
+natel sono stati sequestrati e che l'ascolto telefonico potrebbe perdurare
+anche in stato di libertà provvisoria e che le altre persone che ancora devono
+essere interpellate, come asserito dall'accusa, sono già al corrente
+dell'arresto dell'istante
+"per cui se avevano qualcosa da nascondere
+questo è già avvenuto da tempo".
+Un'equa ponderazione degli interessi
+permetterebbe la messa in libertà provvisoria di ____________ con
+l'applicazione di misure sostitutive, segnatamente il deposito del passaporto e
+l'obbligo di presentarsi due volte la settimana in Polizia.
+Considerato
+in diritto
+1.
+La legittimazione di
+____________, accusato detenuto, all'inoltro della presente istanza, trasmessa
+a questo ufficio nei termini di legge, è pacifica.
+2.
+I principi che
+reggono la materia, pur se noti alle parti, vengono qui riproposti:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con maggior
+rigore nella loro valutazione, quanto più si è protratta la restrizione della
+libertà e quanto più si avvicina la conclusione delle indagini (REP 1988 pag.
+416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei ricorsi
+penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag. 128)."
+(per
+tutte: sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+3.
+I seri e concreti indizi di
+colpevolezza a carico di ____________ (non formalmente contestati dalla difesa,
+ma comunque soggetti a verifica da parte di questo giudice) sono senz'altro
+dati. Dagli atti risulta infatti che ____________ ha dichiarato di aver
+accettato di barattare canapa contro la consegna di un computer con
+____________ e che si sarebbe dovuto recare a Zurigo da ____________, a suo
+dire per la prima volta, per consegnargli da parte di ____________ del denaro,
+delle pastiglie di extasy, delle capsule ed un sasso di MDMA, che nel viaggio
+di ritorno avrebbe pure dovuto prendere in consegna della cocaina per conto di
+____________, nonché che ____________ gli aveva proposto di collaborare con lui
+in traffici di droga, ma che la proposta non si è mai concretizzata (cfr.
+verbale polizia 30 aprile 2004). Successivamente ha ammesso di aver contattato
+all'inizio di marzo 2004 ____________ chiedendogli del MDMA, il quale per posta
+gli avrebbe inviato 200 pastiglie di extasy e 1 sasso di MDMA e che era sua
+intenzione riportare le pastiglie di extasy a ____________, mentre la parte di
+sasso MDMA l'ha sbriciolato e messo in capsule per comodità di consumo e non
+per venderlo al dettaglio, preso atto che le pastiglie di extasy rinvenute
+nell'appartamento preso a prestito da ____________ erano uguali a quelle
+trovate in suo possesso, si è limitato ad un
+"non so cosa dire"
+;
+infine, con riferimento al computer, ritrattando quanto detto precedentemente
+(baratto con canapa), ha dichiarato di doverlo ancora ricevere. L'accusato ha
+pure fornito versioni differenti sulla provenienza della scheda inserita nel
+suo natel (dapprima di averla ricevuta da parte di __________, poi da
+____________ ed infine di averla personalmente acquistata). In sostanza
+____________ nel corso dell'istruttoria ha fornito versioni diverse in merito a
+più punti.
+A ciò si aggiunge che quanto da
+lui dichiarato, contrariamente a quanto sostenuto nell'istanza e ricordato che
+l'incarto era comunque a disposizione presso questo ufficio, non trova
+riscontro nelle dichiarazioni di ____________, che, sin dal primo
+interrogatorio, ha dichiarato di essere al corrente che ____________ aveva
+"delle
+storie di droga con ____________"
+e di aver saputo che l'istante vende
+pastiglie nelle discoteche e nei locali, negando nel contempo di avergli
+consegnato le pastiglie di extasy, il sasso di MDMA e le capsule di MDMA per
+riportarle a ____________ (cfr. verbale pol. 4 maggio 2004); successivamente
+nel corso del verbale dinanzi al Procuratore pubblico ha precisato
+"Contesto
+nel modo più assoluto di aver consegnato o trafficato con il ____________ o con
+altri in extasy o MDMA. Sapevo però, per sentito dire, che lui spacciava extasy
+nelle discoteche e nei locali del locarnese e da lui avevo saputo che consumava
+extasy. Questo tipo di droghe che la polizia mi ha detto di aver trovato in
+possesso del ____________ al momento del suo arresto, non hanno nulla a che
+fare con me, benché abbia saputo che lui dica il contrario. Io non gli ho mai
+fornito tali sostanze e posso aggiungere che da lui stesso avevo saputo che spacciava
+questo genere di sostanze per compensare i suoi acquisti di cocaina dal
+____________. Da quanto mi risulta, sempre per avermelo detto il ____________,
+anche queste sostanze era il ____________ a fornirgliele e lui se le procurava
+in pagamento di altre forniture di droga ad altri clienti che non potevano
+pagare in contanti. Su questa storia delle droghe sintetiche non ho altro da
+aggiungere è tutto quello che so"
+(verb. PP 5 maggio 2004).
+Alla luce di tutto quanto sopra
+esposto, con la verosimiglianza sufficiente a questo stadio del procedimento
+(nelle sue battute iniziali) ed in questa sede (che non è deputata a
+pronunciarsi sul merito delle accuse e deve evitare di pregiudicare l'eventuale
+giudizio di merito), si può concludere per la presenza di seri e concreti
+indizi, a carico di ____________ nel traffico di stupefacenti.
+4.
+I bisogni istruttori, atti a
+giustificare la misura restrittiva della libertà personale, non s'identificano
+semplicemente con gli atti istruttori in quanto tali, o con gli accertamenti
+(ancora) da effettuare, bensì con il pericolo di collusione o d'inquinamento
+delle prove che (eventualmente) espone a rischio la corretta raccolta (o
+conservazione) di tali atti (G. Piquerez, Procédure pénale suisse, ZH 2000, no.
+2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, no. 697 ss.; RDAT 1988 no.
+24). In quest'ottica il fatto che l'inchiesta sia tuttora in corso non è, di
+per sé, decisivo. Occorre che l'indagato, se posto in libertà (o comunque se
+non sottoposto alle misure proprie di un regime di carcerazione preventiva),
+possa pregiudicarne (o comprometterne) il corretto svolgimento e,
+conseguentemente, l'esito.
+Il rischio deve emergere da
+elementi concreti, rilevabili dall'incarto, di carattere oggettivo o soggettivo
+(con maggior rigore nelle fasi avanzate dell'inchiesta).
+Tra questi elementi si possono
+annoverare l'atteggiamento dell'accusato nell'ambito del procedimento, o anche
+prima dell'avvio del procedimento, l'eventuale influenza esercitabile nei
+confronti di terzi (siano essi correi, complici o testi) in base a particolari
+rapporti (personali o professionali), la convergenza d'interesse tra l'accusato
+ed i terzi, con particolare attenzione per le fattispecie complesse che toccano
+più persone o commesse da più persone (DTF 117 Ia p. 261; REP 1980 p. 45; DTF
+19 giugno 1997 in re V; CRP 10 aprile 1997 in re V.; CRP 24.12.1985 in re L.;
+GIAR 2 agosto 2001 in re A.; REP 1988 p. 414; GIAR 4 aprile 2001 in re J.; SJ
+1081 p. 379/380 e relative citazioni; SJ 1979 p. 374; N. Schmid, Strafprozessrecht,
+ZH 1997, no. 701a; Donatsch/Schmid, Kommentar zur Strafprozessordnung des
+Kantons Zurich, ZH 2000, § 58 no. 40 e 42 in particolare).
+Allo stadio attuale l'inchiesta é
+in corso da circa due settimane.
+E' ben vero che ____________ è
+già stata sentita, tuttavia, come detto, la sua versione dei fatti non collima
+affatto con quella di ____________. Accertamenti sono ancora da effettuare: in
+particolare si deve ancora procedere all'audizione di testi - tra cui eventuali
+acquirenti - e all'individuazione e successiva verbalizzazione delle almeno due
+possibili persone coinvolte, ____________ e ____________, che lavorano e/o
+vivono fuori Cantone (e forse ve ne sono altre), nonché ad indagini in merito
+alla portata del traffico che concerne varie sostanze (cocaina, extasy,
+marijuana, MDMA). La necessità di salvaguardare i relativi accertamenti da
+possibili interventi collusivi (verso i possibili testi, rispettivamente tra i
+correi ancora a piede libero o ancora non identificati) o d'inquinamento è senz'altro
+data. La circostanza che ____________ e ____________ sappiano dell'avvenuto
+arresto non permette affatto di escludere il pericolo di inquinamento e
+collusione delle prove: tale pericolo non concerne infatti unicamente la
+possibilità di
+"nascondere qualcosa",
+ma anche, ad esempio,
+quella di accordarsi sulle versioni dei fatti da dare alle autorità
+inquirenti.
+La circostanza che il
+procedimento si trovi allo stadio iniziale ed il comportamento affatto
+trasparente di ____________, impongono che la raccolta degli ulteriori elementi
+avvenga senza possibilità di perturbamento della loro amministrazione, e ciò
+anche nell'interesse dell'accusato stesso (M. Luvini, I presupposti materiali
+del carcere preventivo, in REP 1989, p. 290).
+In virtù di tutto quanto sopra
+esposto, nel caso in esame il rischio di collusione ed inquinamento delle prove
+è concreto; siamo lontani dalla semplice "
+theoretische Möglichkeit
+"
+(DTF 117 Ia 257), dal semplice fatto che non tutte le prove sono già state
+acquisite (N. Schmid, op. cit., n. 701a). Da ultimo va precisato che il fatto
+che non tutti gli accertamenti siano stati effettuati non può essere ritenuto
+lesivo del principio di proporzionalità, essendo l'inchiesta all'inizio e
+coinvolgendo più persone, alcune delle quali non dimoranti in Ticino e alcune
+ancora da identificare. Ovviamente ciò vale per il momento attuale: l'autorità
+inquirente è quindi invitata a procedere celermente agli accertamenti mancanti
+(nel rispetto dell'art. 102 cpv. 1 CPP), caso contrario non potranno ulteriormente
+essere fatti valere per giustificare il mantenimento del carcere preventivo del
+qui istante.
+5.
+Il Procuratore pubblico fa pure
+valere il pericolo di fuga.
+I criteri determinanti per
+stabilire se esista pericolo di fuga sono il carattere del prevenuto, il suo
+domicilio, la sua professione, la sua situazione familiare ed i suoi legami con
+lo Stato in cui egli è inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in
+re S. C. del Tribunale federale, sentenza 20 ottobre 1994 in re M.A., CRP 314/94)
+e l'apprezzamento di tutte tali circostanze, per invocare appunto un rischio di
+fuga, deve lasciar presumere che le conseguenze di una fuga appaiono rispetto
+all'accusato come un male minore rispetto a quello derivante per lui
+dall'ulteriore carcerazione, con maggior forza quanto più i reati imputati
+comportino pene edittali od eventualità di pena concreta importante (in questo
+senso M. Luvini, in Rep. 1989, p. 292 e ss. e riferimenti ivi indicati;
+sentenza 14 novembre 1994 in re S.V., CRP 341/94).
+Se è ben vero che ____________ è
+cittadino svizzero e che la sua famiglia risiede qui, è altrettanto vero che lo
+stesso, per sua stessa ammissione è in procinto di trasferirsi in Brasile, dove
+ha una relazione sentimentale con una ragazza di quel Paese (cfr. verb. POL 28
+aprile 2004, p. 2 ), ciò che rende concreto il pericolo che lo stesso possa
+rendersi irreperibile.
+Detto pericolo non può essere
+ovviato con l'adozione di misure sostitutive ex art. 95 ss CPP, essendo le
+stesse inadatte a scongiurare il pericolo di collusione ed inquinamento delle
+prove, pure dato nella fattispecie (cfr. consid. 4).
+6.
+Visto il lasso di tempo
+intercorso fra l’arresto e l’istanza ora in esame (circa 15 giorni), va infine
+rilevato che il carcere preventivo sofferto e ipotizzabile, in un procedimento
+che risulta essere condotto con coerente sollecitudine nonostante la presenza
+di più persone coinvolte, è rispettoso del principio della proporzionalità, con
+riferimento alla presumibile pena.
+Resta sottointeso l’obbligo, per
+il magistrato inquirente, di trattare con priorità i casi in cui l’accusato è
+in detenzione (art. 102 cpv. 1 e 176 cpv. 3 CPP).
+L’istanza di libertà provvisoria
+deve quindi essere respinta con la presente decisione, esente da tassa e da
+spese giudiziarie (art. 39 lett. f TG e contrario) e impugnabile entro dieci
+giorni alla Camera dei ricorsi penali del Tribunale d’appello (art. 284 cpv. 1
+lett. a CPP).
+P.Q.M
+visti gli
+artt. 19 cifra 1 e 19a cifra 1 LFStup, 95 ss., 107 s., 279 ss. e 284 cpv. 1
+lit. a CPP;
+decide
+1.
+L’istanza
+di libertà provvisoria 7 maggio 2004 presentata da ____________ è respinta.
+2.
+Non
+si percepiscono né tassa né spese giudiziarie.
+3.
+Contro
+la presente decisione è dato il rimedio del ricorso alla Camera dei ricorsi
+penali del Tribunale di appello entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+-    avv. __________, per sé e per l’accusato;
+-    Procuratore Pubblico avv. __________, 6500 Bellinzona
+(con l'inc. MP 1134/2004 di ritorno e le osservazioni 12 maggio
+2004 della difesa).
+giudice
+__________
