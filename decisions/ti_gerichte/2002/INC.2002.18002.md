@@ -1,0 +1,112 @@
+---
+decision_id: "ti_gerichte_INC.2002.18002"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.18002"
+decided: "2002-04-08"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59484&nX40_KEY=4711429&nTrefferzeile=16&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2002.18002
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 08.04.2002 INC.2002.18002
+Tessin Il Giudice dell'istruzione e dell'arresto 08.04.2002 INC.2002.18002
+Ticino Il Giudice dell'istruzione e dell'arresto 08.04.2002 INC.2002.18002
+
+Sentenza o decisione senza scheda
+
+N. 180.2002.2 L                                                         Lugano,
+8 aprile 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria personalmente presentata il 29 marzo / 2 aprile 2002 da
+__________
+,
+(patrocinato dall'avv.
+__________)
+e qui trasmessa con preavviso
+negativo il 3/4 aprile 2002 dal
+Procuratore pubblico
+avv. __________;
+preso atto della comunicazione 8
+aprile 2002 dell'avv. __________ di ritiro dell'istanza in oggetto, anche a
+nome del proprio assistito, che da parte sua nulla ha qui significato nel
+termine assegnatogli;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che
+-    __________ è stato arrestato il 28 marzo 2002, con contestuale
+promozione dell'accusa nei suoi confronti per titolo di infrazione aggravata
+subordinatamente semplice e contravvenzione alla legge federale sugli
+stupefacenti, essendo risultato fornitore di eroina e cocaina come a chiamate
+di correo e ad emergenze di conversazioni telefoniche;
+-    l'accusato, anche all'udienza di conferma dell'arresto del 29
+marzo 2002, ha negato qualsiasi suo coinvolgimento e quindi, lo stesso giorno,
+ha presentato istanza di libertà provvisoria, protestandosi innocente ed
+avanzando di "
+non essere giudicato in modo corretto
+", senza
+altre specificazioni in proposito;
+-    nell'esprimere preavviso negativo, il Procuratore pubblico
+illustra i convergenti concreti indizi di colpevolezza, con necessità di
+chiarimenti senza pericolo di collusione e di inquinamento delle prove: ed a
+verbale di polizia del 4 aprile 2002 __________ in effetti ha ammesso sua
+partecipazione a traffici di eroina e cocaina, che va comunque ancora
+approfondita;
+-    come al dettato di legge ed a giurisprudenza (REP 1998, pag. 333
+ss.), l'art. 95 CPP - corrispondente all’art. 33 scaturito dalla revisione
+parziale 23 settembre 1992 / 1. gennaio 1993 - dopo evidenza al cpv. 1 del
+principio secondo cui l'accusato si trova di regola in libertà, consente al
+cpv. 2 arresto, perdurare e (poi, se del caso) proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell'istruzione, nella specie del pericolo di
+collusione e dell'inquinamento delle prove;
+-    in presenza di istanza introdotta personalmente dall'accusato e
+non dallo stesso formalmente ritirata, si entra succintamente nel merito, per
+concludere a conferma della carcerazione preventiva, del tutto proporzionata
+alla fattispecie da indagare, a breve tempo dalla privazione della libertà:
+infatti, dalle concorrenti emergenze che hanno condotto all'arresto di __________,
+e dalle sue recenti ammissioni, si hanno concreti indizi di colpevolezza per
+non trascurabile coinvolgimento in traffici di stupefacenti e non contempo
+necessità di completare l'assetto probatorio senza possibilità di collusione
+con terzi compartecipi;
+-    l’istanza è quindi respinta con la presente decisione, esente
+da tassa e spese giudiziarie (art. 39 lett. f TG e contrario) e suscettibile di
+impugnazione alla Camera dei ricorsi penali (art. 284 cpv. 1 lett. a CPP);
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-
+__________, Carceri pretoriali di Mendrisio;
+-
+avv. __________
+-
+Procuratore pubblico avv. __________, sede (con l'inc. 2229.2002
+di ritorno).
+giudice
+__________
