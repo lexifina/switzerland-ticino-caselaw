@@ -1,0 +1,560 @@
+---
+decision_id: "ti_gerichte_INC.2003.16504"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.16504"
+decided: "2003-07-02"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59509&nX40_KEY=4711335&nTrefferzeile=82&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-102.md", "switzerland/bund/acts/311.0/art-111.md", "switzerland/bund/acts/311.0/art-112.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/311.0/art-183.md", "switzerland/bund/acts/311.0/art-305.md", "switzerland/bund/acts/312.0/art-019.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-125.md"]
+---
+
+# TI Gerichte INC.2003.16504
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 02.07.2003 INC.2003.16504
+Tessin Il Giudice dell'istruzione e dell'arresto 02.07.2003 INC.2003.16504
+Ticino Il Giudice dell'istruzione e dell'arresto 02.07.2003 INC.2003.16504
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.16504
+Lugano
+2 luglio 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+__________
+Vista l'istanza di libertà provvisoria 21/24 giugno 2003
+presentata da
+__________,
+attualmente detenuta
+presso il PCT La Stampa, Cadro
+patrocinata d'ufficio dall'avv.
+__________
+e qui trasmessa con preavviso
+negativo del 27/30 giugno/1 luglio 2003 dal PP __________;
+viste le osservazioni al
+preavviso negativo, presentate dalla difesa con scritto 1. luglio 2003
+visto l'incarto MP. __________;
+ritenuto
+in fatto:
+A.
+__________ è giunta in Ticino, e
+qui arrestata, il 21 marzo 2003, proveniente dalla Germania (a seguito di una
+procedura estradizionale avviata con il suo arresto in quel paese il 6 dicembre
+2002). L'arresto è stato confermato dal Giar il 22 marzo 2003 (inc. Giar
+__________).
+__________ è imputata di
+istigazione, sub. correità in assassinio (art. 112 CP), sub. omicidio
+intenzionale (art. 111 CP), sequestro di persona e rapimento (art. 183 CP),
+sub. coazione (art. 181 CP), favoreggiamento (art. 305 CP) e meglio, come
+risulta dalla richiesta di conferma di arresto stilata dal Procuratore pubblico
+(doc. _ inc. Giar citato).
+B.
+Le accuse mosse a __________ sono
+tutte in relazione con fatti in qualche modo connessi all'uccisione violenta di
+__________ avvenuta a __________ il 3 dicembre 2002 ad opera di __________
+(marito della qui istante) e di tale __________.
+Per il (presunto) concorso, a
+vari titoli, negli stessi fatti, sono pure stati arrestati __________ (in
+Romania e là inquisito), __________ e __________ (estradati dalla Romania) e,
+recentemente di __________ (estradato dalla repubblica Ceca), nonché di tali
+__________ e __________ (arrestati in Moldavia).
+Altre persone, in particolare
+colui che viene indicato quale autore materiale dell'uccisione __________, sono
+allo stato attuale ancora ricercate.
+C.
+La conferma dell'arresto, decisa
+il 22 marzo 2003, è stata impugnata da __________ davanti alla CRP con atto
+ricorsuale del 1/2 aprile 2003 (doc. _ inc. Giar __________), che con sentenza
+9 maggio 2003 ha confermato l'arresto, limitatamente all'ipotesi di reato di
+favoreggiamento ed alle necessità istruttorie, nonché pericolo di fuga,
+connesse con questo reato. Per le altre ipotesi di reato, formulate dal
+magistrato inquirente, la CRP ha ritenuto insufficienti gli indizi presentati
+(e che emergevano dall'incarto) a carico di __________ (cfr. sentenza CRP 9
+maggio 2003, cons. 3 in particolare).
+Delle dettagliate argomentazioni
+della CRP, con puntuali riferimenti giurisprudenziali ed agli atti di
+inchiesta, si dirà nel seguito della presente decisione. Ci si limita qui a
+richiamare il fatto che la CRP ha sottolineato l'importanza sempre crescente
+del principio di proporzionalità, in relazione al mantenimento dell'arresto, e
+la necessità di un'oggettiva valutazione degli indizi pur nel tristissimo e
+gravissimo contesto dei fatti (sentenza CRP citata, cons. 4).
+D.
+Con il reclamo qui in esame,
+__________ chiede la revoca dell'arresto, rispettivamente la messa in libertà
+provvisoria o scarcerazione.
+A suo dire gli interrogatori e
+gli altri atti d'inchiesta, effettuati dopo il 9 maggio 2003, non hanno fatto
+emergere nulla di nuovo in relazione alle ipotesi di reato che già la CRP aveva
+ritenuto insufficientemente indiziati ai fini della giustificazione della
+restrizione della libertà personale.
+In merito all'ipotesi di reato di
+favoreggiamento, l'istante afferma che in ben 7 interrogatori effettuati
+(sempre dopo la sentenza CRP) hanno, di fatto, "eliminato" le
+necessità istruttorie atte a giustificare il mantenimento della carcerazione
+preventiva. In oltre, il principio di proporzionalità non è più rispettato
+(alla luce del cpv. 2 dell'art. 305 CP) e l'arresto essendo avvenuto il 6.12.2002,
+il termine di 6 mesi (art. 102 cpv. 2 CP) è ormai trascorso senza che sia stata
+decisa una proroga.
+E.
+Con il preavviso negativo del 27
+giugno 2003, il PP chiede che l'istanza sia respinta.
+Dopo aver ripercorso i fatti che
+hanno condotto __________ e il suo correo __________ a __________ il 3 dicembre
+2002 (Preavviso pag. 2/3/4), afferma che, dopo la sentenza 9 maggio 2003 della
+CRP,
+"si sono rafforzati i gravi e concreti indizi di reato,
+soprattutto per quanto riguarda l'ipotesi di complicità in assassinio (sub
+omicidio) così come quella subordinata di favoreggiamento"
+(preavviso
+pag. 5). Di seguito, elenca gli elementi (a suo giudizio) indizianti emersi nei
+confronti di __________ (Preavviso pag. 5/6), sui quali nel dettaglio si
+tornerà, se del caso, nel seguito della presente decisione, e si diffonde in
+considerazioni relative alla personalità dell'accusata per confutare quanto
+asserito dalla CRP (Preavviso pag. 7). Quanto alle necessità istruttorie ancora
+presenti, segnala l'inoltro di due commissioni rogatorie (Preavviso p. 8). La
+prima alle autorità germaniche relativamente ai movimenti di denaro
+dell'accusata rispettivamente agli oggetti depositati presso __________, con
+anche richiesta d'interrogatorio di quest'ultima circa i rapporti tra l'accusata
+ed il marito. La seconda in Romania ai fini di un ulteriore interrogatorio di
+__________ per contestargli le risultanze dell'inchiesta. Segnala inoltre che
+nel frattempo altre due persone coinvolte nei fatti sono state arrestate in
+Moldavia (vedi cons. B. della presente).
+Sottolinea il pericolo concreto
+di fuga in capo all'accusata che non ha legami personali o professionali con il
+territorio svizzero e che stava già cercando di raggiungere la Romania da dove
+non potrebbe neppure essere estradata (Preavviso p. 9).
+La gravità dei reati (recte:
+fatti) ed i gravi indizi di complicità in assassinio con conseguente rischio di
+una pena severa, fanno si che la carcerazione, quella sin qui sofferta (circa 3
+mesi, ritenuto come il carcere estradizionale non può essere considerato in
+questa sede) e quella ancora da subire, sia ancora rispettosa del principio di
+proporzionalità.
+Merita qui essere sottolineato
+come il preavviso negativo, che consta di 10 pagine di cui praticamente 8
+contenenti indicazioni di fatti rispettivamente indizi, non menzioni
+praticamente alcun atto istruttorio e non indichi dove, nel corposo incarto, si
+trovino gli elementi indizianti menzionati (confronta pag. 5/6 del preavviso),
+con la sola eccezione delle considerazioni sul carattere dell'accusata che
+emergerebbero dal comportamento tenuto durante i confronti del 10 e 12 giugno.
+A prescindere dal fatto che
+questo ufficio ha soli 3 giorni per emanare la decisione (per cui la lettura
+completa e dettagliata di certi incarti voluminosi, come quello in questione, è
+problematica), l'assenza di indicazione su dove si trovino gli elementi
+indizianti  può anche far si che gli stessi vengano individuati erroneamente o
+comunque non necessariamente laddove intende il Procuratore pubblico (o, peggio,
+neppure individuati - cfr. la descrizione dei prelevamenti ed il contenuto
+degli estratti conto, laddove presenti). E' compito e responsabilità del
+magistrato inquirente, e rientra nell'obbligo di motivazione, indicare con un
+minimo di precisione da quali atti emergono i vari elementi indizianti di cui
+parla, per permetterne individuazione e verifica.
+F.
+Con osservazioni del 1. luglio
+2003, la difesa non contesta la ricostruzione dei fatti operata dal Procuratore
+pubblico e sottolinea come non si sia opposta all'estradizione, collaborando
+con le autorità inquirenti già durante la detenzione ai fini dell'estradizione
+(Osservazioni, p. 2).
+Riprende, poi, quanto accertato
+dalla CRP nella sentenza del 9 maggio 2003 (Osservazioni p. 3) ed afferma che
+nei successivi interrogatori __________ ha sostanzialmente confermato quanto
+detto nei verbali precedenti, circostanza confermata dal fatto che lo stesso
+magistrato inquirente, nell'elenco degli elementi indizianti, non effettua
+alcun rinvio a tali atti. Passa poi in rassegna gli indizi di reato elencati
+dal Procuratore pubblico, precisando (con rinvio ai singoli atti) che tutto é
+già stato vagliato dalla CRP e ribadendo che non sono emersi (nuovi) indizi di
+reato (Osservazioni, p. 4, 5 e 6).
+Contesta le ulteriori  necessità
+istruttorie indicate dal magistrato inquirente: non c'è pericolo di collusione
+con il marito detenuto in Romania e gli atti richiesti alla Germania, in
+relazione a __________, sarebbero già stati effettuati o privi d'importanza (
+p. 8).
+Da ultimo, afferma che il termine
+di 6 mesi di cui all'art. 102 cpv. 2 CPP deve essere computato a partire
+dall'inizio della detenzione ai fini dell'estradizione (p. 9).
+Delle altre
+argomentazioni/osservazioni delle parti, si dirà se del caso nei considerandi
+che seguono.
+Considerato
+In diritto:
+1.
+__________, accusata e detenuta,
+è pacificamente legittimata a presentare istanza di libertà provvisoria.
+2.
+L'istanza, presentata il 21
+giugno 2003, è giunta al Ministero pubblico il 24 giugno 2003. Il termine per
+l'inoltro del preavviso (e trasmissione dell'incarto) scadeva quindi il 27
+giugno 2003 (108 cpv. 1 CPP). L'incarto è giunto a questo ufficio il 30 giugno
+2003, consegnato brevi man da un agente di polizia (ore 10.25 circa - cfr. nota
+su copia elenco atti in inc. Giar __________) che l'ha ritirato da Bellinzona
+quella stessa mattina. Il preavviso in originale e l'istanza sono qui giunti,
+via posta, il 1. luglio 2003. Questi documenti risultano esser stati consegnati
+alla Messaggeria dell'amministrazione cantonale di Bellinzona, il 27.6.2003 e
+spediti, sempre da Bellinzona, il 30.6.2003.
+I termini fissati dal CPP non
+sono prorogabili (art. 19 CPP) in materia di libertà personale la scadenza dei
+termini (perentori) conduce, di norma, alla decadenza della misura cautelare
+con conseguente scarcerazione ope legis dell'accusato (DTF 114 Ia 281,
+considerando 4b; Piergiorgio Mordasini in "La riforma del Codice di
+procedura penale ticinese", Lugano 1994 pag. 66/67; Giar 15 maggio 2003 in
+re K., inc. 255.2003.2).
+Ciò nonostante, qualora il
+mancato rispetto del termine per la scarcerazione o presentazione del preavviso
+negativo con trasmissione dell'incarto al GIAR (art. 108 CPP) dovesse non
+risultare rispettato causa un disguido, la dottrina cantonale sembra ammettere
+la possibilità di sanare la cosa (Rusca/Salmina/Verda, Commento del CPPT, nota
+4 ad art. 108).
+Nel caso in esame, accertamenti
+effettuati presso la Cancelleria del Ministero pubblico di Bellinzona e presso
+la Messaggeria della Residenza Governativa, sempre di Bellinzona, indicano che
+il preavviso negativo è stato consegnato, alla Messaggeria appunto, venerdì 27
+giugno 2003 e che questa ha provveduto alla spedizione raccomandata solo la
+mattina del 30 giugno 2003 (confronta timbri sulla busta di spedizione,
+rispettivamente timbro sul libretto delle raccomandate). Il motivo per cui il
+preavviso non è stato spedito venerdì pare imputabile al servizio Messaggeria
+in quanto, nonostante il furgone che si reca in Posta era ancora presente,
+"… le mappe erano già chiuse …" (sic! - cfr. scritto 30 giugno 2003
+MP/Segreteria CdS, doc. _ inc. GIAR __________).
+Alla luce di quanto sopra, questo
+giudice ritiene che il ritardo nella spedizione sia effettivamente imputabile
+ad un disguido, avendo il Ministero pubblico comunque consegnato il preavviso
+per la spedizione ancora nei termini. Ne consegue che, applicando la dottrina
+citata, il ritardo può, nel caso specifico, essere sanato. Ritenuto inoltre,
+che questo ufficio ha ricevuto brevi manu l'incarto il 30 giugno 2003 e che
+nello stesso erano presenti copia sia dell'istanza che del preavviso,
+l'emanazione della decisione entro i termini applicabili nel caso di corretta
+ricezione il 30 giugno (conseguente a spedizione per posta il 27), non
+compromette i termini normali per la decisione imposti dalla legge e quindi i
+diritti della reclamante.
+Va da sé che qualora un disguido
+analogo dovesse ripetersi, non potrà più essere considerato tale. Incombe a chi
+deve rispettare un termine fare di tutto perché ciò avvenga assicurandosi
+dell'effettiva spedizione e delegando ad altri questo compito solo se vi è
+certezza di immediata e corretta esecuzione.
+3.
+I principi che
+reggono la materia della detenzione cautelare, pur se noti alle parti, vengono
+qui ribaditi:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con maggior
+rigore nella loro valutazione, quanto più si è protratta la restrizione della
+libertà e quanto più si avvicina la conclusione delle indagini (REP 1988 pag.
+416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei ricorsi
+penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag. 128)."
+(per tutte:
+sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+4.
+a)
+Come detto, sommariamente, nei
+considerandi sui fatti, la CRP ha ritenuto insufficienti gli indizi di reato
+relativi all'ipotesi di istigazione e/o correità (ed anche quella di complicità
+seppur non menzionata dal magistrato inquirente nella richiesta di conferma, né
+nell'ordine d'arresto) in assassinio, sub. omicidio, sequestro di persona e
+rapimento, sub. coazione, in relazione all'uccisione di __________. Lo ha fatto
+(senza pregiudizio per il merito e con esclusivo riferimento alle condizioni
+per la carcerazione preventiva) con una decisione dettagliatamente motivata,
+sia con riferimento alla giurisprudenza sulle nozioni di correità, complicità e
+istigazione (sentenza 9 maggio 2003, cons. 2), sia con riferimento alle
+emergenze dell'istruttoria (sentenza citata, cons. 3), e non certo affrettata
+(la decisione è stata prolata ad un mese dalle osservazioni del Procuratore
+pubblico). Ne consegue che queste conclusioni (rispettivamente accertamenti)
+dell'autorità superiore possono  essere  modificati solo in presenza di nuovi
+elementi di giudizio (cfr. per analogia sentenze CRP 10 aprile 1997 in re V.,
+GIAR 26 settembre 1996, GIAR 30 giugno 2003 in re B.; e neppure avrebbe molto
+senso essendo autorità di ricorso anche per rapporto alla presente decisione).
+L'arresto e la carcerazione preventiva sono, quindi, stati confermati
+unicamente in relazione all'ipotesi di reato di favoreggiamento.
+b)
+Si tratta qui, pertanto, di
+verificare quelli che il magistrato inquirente afferma essere nuovi elementi
+emersi dall'inchiesta, dopo il 9 maggio 2003, che rafforzano i gravi indizi di
+complicità (ipotesi a cui l'accusa non risulta essere stata estesa ma che può
+essere considerata compresa in quella di correità, vista la possibilità di
+subordinazione e lo stesso complesso di fatti - CRP 27 ottobre 1994 in re R.)
+in assassinio, sub. omicidio.
+Dopo aver affermato rafforzamento
+degli indizi, il magistrato inquirente presenta un elenco di indizi
+sostanzialmente identico (con qualche modifica redazionale o suddivisione in
+due) a quello contenuto nelle osservazioni presentate alla CRP l'8/9 aprile
+(cfr. Preavviso p. 5 e 6, Osservazioni 8 aprile 2003 p. 3). Trattasi quindi di
+elementi già analizzati dall'autorità superiore con l'unica (apparente)
+eccezione dei menzionati prelevamenti di EUR 7'000.- dalla __________ e (per la
+stessa cifra) dalla __________.
+Per quanto concerne questi ultimi
+due elementi (o indizi che dir si voglia), il magistrato inquirente li menziona
+senza indicare da dove emergano, rispettivamente in quali atti istruttori si
+trovi il relativo accertamento. Questo giudice ha reperito della documentazione
+bancaria unicamente per quanto concerne la __________ (AI __________). Da tale
+documentazione non emerge un prelevamento per 7'000.- EUR (neppure a due
+riprese), bensì una serie di movimenti molto più piccoli che sull'arco di un
+paio di mesi (cfr. allegato allo scritto 12.12.2002 della banca) possono anche
+raggiungere quella cifra. Per quanto concerne i movimenti presso la __________,
+non è stata reperita documentazione né nell'AI __________ né nel gli AI
+__________, rispettivamente __________, entrambi relativi a documentazione
+pervenuta dalla Germania. D'altro canto, la documentazione relativa a questo
+conto viene chiesta con rogatoria del 26 giugno 2003 (AI __________) con
+riferimento alle dichiarazioni dell'accusata del 17 aprile 2003, conseguenti a
+richieste circa la provenienza del denaro trovato in suo possesso al momento
+dell'arresto (cfr. VI __________, pagina 6 in particolare).
+Sia come sia, neppure questi
+elementi (a prescindere dalla loro valenza) hanno carattere di novità per
+rapporto alle conclusioni della CRP, che ne era a conoscenza al momento della
+sua decisione e li ha considerati (cfr. sentenza CRP, p. 6 primo capoverso e
+ultime 4 righe con citazione del verbale 17 aprile 2003).
+Pertanto, gli indizi elencati
+alle p. 5 e 6 del preavviso negativo non sono emersi successivamente alla
+decisione della CRP che li ha già considerati tutti (forse con l'eccezione,
+ininfluente, del ritiro di EUR 645.- il 3.12.2002) ritenendoli insufficienti a
+giustificare il perdurare della detenzione cautelare per le ipotesi di
+istigazione e/o concorso ai reati contro la vita e la libertà personale.
+c)
+Neppure dai verbali successivi
+(alla decisione della CRP - VI da 28 a 40), emergono elementi di rilievo per
+una valutazione diversa della posizione dell'accusata. Lo stesso Procuratore
+pubblico non ne indica, se non con riferimento ai verbali di confronto tra
+__________ e __________ e per dire che la lucidità, la capacità di ragionare e
+il carattere dimostrato dall'accusata nel sostenere il confronto, lo hanno
+maggiormente convinto che si tratti di una donna diversa da quella descritta
+dalla CRP (Preavviso, p. 7).
+Questo giudice non può che
+constatare che (nei confronti menzionati) __________ non fa che ribadire, anche
+di fronte a __________, la versione dei fatti fornita in precedenza (e sulla
+cui linearità si è già espressa anche la CRP- sentenza 9 maggio 2003, p. 7
+prima riga). E ciò sebbene tale conferma non le sia necessariamente favorevole.
+Inoltre, elementi forniti da terzi paiono rafforzarne la credibilità della sua
+versione. In particolare si rileva che la versione dell'accusata, in contrasto
+con quella di __________, secondo cui il marito si sarebbe presentato a loro
+come persona operante nel settore dell'incasso crediti (Verbale di confronto
+10.06.2003, p. 4, VI 36) sembra supportata dalle dichiarazioni di __________
+(che, peraltro, non menziona mai l'accusata parlando dei rapporti avuti con
+__________) allorquando afferma che __________ si è presentato a lui
+dichiarando di operare nel settore dell'incasso crediti (Verbale PP __________
+16 giugno 2003, p.7, VI 38).
+Da tuttoquanto sopra consegue
+che, al di là delle opinioni sul carattere, da questi verbali non emergono
+(neppure sono concretamente indicati) elementi nuovi che giustificano la
+modifica delle conclusioni della CRP in relazione all'esistenza di
+sufficientemente gravi indizi di reato (per quanto concerne le ipotesi di
+istigazione, correità e complicità in assassinio, sub. omicidio) a fondamento
+del perdurare della carcerazione preventiva (ovviamente, sempre senza
+pregiudizio per il merito). L'indebolimento della concludenza degli indizi a
+carico di __________ (sempre per le ipotesi di partecipazione ai reati contro
+la persona e la libertà), accertato dalla CRP (sentenza p. 7 ultima righe) non
+può certo dirsi sovvertita dalle successive emergenze istruttorie.
+d)
+Analogamente, tuttavia, gli atti
+d'inchiesta esperiti dopo la sentenza della CRP non hanno evidenziato elementi
+di rilievo che inducano a conclusioni diverse (da quelle della CRP) in merito
+agli indizi (e la loro gravità) che fondano l'ipotesi di favoreggiamento
+(sentenza CRP 9 maggio 2003, cons. 5). La "gestione" (in tutte le sue
+forme: prelevamento, custodia, consegna o atti finalizzati a questa) della
+liquidità di "famiglia", il nascondere (ancorché in gran parte presso
+la suocera) oggetti e documenti di possibile utilità all'inchiesta, sono
+confermati (Verbali PP  __________ 22 maggio 2003, p. 2/3 e 7 e 5 giugno 2003 p.
+8/9; VI 30 e 35) e sufficienti ad indiziare gravemente la commissione del reato
+(REP 1989 p. 462, DTF 5 giugno 1996 6S.152/1996, in Plädoyer 4/96).
+e)
+In conclusione, per quanto
+concerne i gravi indizi di reato non sono stati addotti nuovi elementi, né gli
+stessi sono stati individuati nell'incarto, atti a modificare la conclusione
+contenuta nella sentenza dalla CRP che viene qui ripresa e confermata:
+"Non
+potendosi più concludere attualmente sull'esistenza di indizi sufficientemente
+gravi per giustificare la privazione della libertà della ricorrente sulla base
+delle ipotesi di reato sostenute dal magistrato per istigazione, sub. correità
+- ma neppure per complicità - in assassinio, sub. omicidio intenzionale,
+sequestro di persona e rapimento, sub. coazione, nemmeno dev'essere esaminata
+l'esistenza di preminenti motivi di interesse pubblico, quali in particolare il
+pericolo di fuga, i bisogni dell'istruzione, la cui esistenza in caso contrario
+sarebbe pacifica, e del pericolo di recidiva".
+ma
+"Il
+comportamento tenuto dalla ricorrente, in particolare dopo la concreta messa in
+atto da parte del marito della vendetta, fonda per contro a suo carico indizi
+sufficientemente seri e concreti a sostegno dell'ipotesi di reato di
+favoreggiamento, seppure non le si possa rimproverare di non aver segnalato
+all'autorità penale i propositi delinquenziali del marito (cfr. DTF 120 IV 98
+consid. 2c)".
+5.
+a)
+Per quanto concerne l'ulteriore
+necessario elemento, che deve sommarsi alla presenza di gravi indizi di reato,
+a giustificazione della detenzione preventiva, il magistrato inquirente
+sostiene l'esistenza di necessità istruttorie e di un pericolo di fuga
+(Preavviso p. 8 e 9).
+Il primo è fatto valere in
+relazione all'esistenza di un pericolo di collusione sia con le persone ancora latitanti,
+sia con chi deve essere sentito a seguito della recenti commissioni rogatorie
+(in particolare il marito e la suocera; cfr. AI __________ e __________). Il
+secondo in base alla totale assenza di legami dell'accusata con il territorio
+svizzero ed al fatto che al momento dell'arresto (estradizionale) in Germania,
+si stava preparando a lasciare quel paese per quello d'origine. Questo giudice
+deve, vagliarne l'esistenza in relazione unicamente all'ipotesi di reato di cui
+all'art. 305 CP, la sola sufficientemente indiziata ai fini della decisione
+sulla detenzione cautelare.
+b)
+Pericolo di collusione ed
+inquinamento delle prove appaiono concretamente presenti in particolare per
+quanto concerne gli accertamenti di cui ai punti 2 e 4 della commissione rogatoria
+presentata alle autorità germaniche il 26 giugno 2003 (AI 197). Il rapporto di
+parentela con la persona da interrogare (la suocera __________) e, ovviamente,
+il coinvolgimento del marito (rispettivamente figlio della teste) potrebbero
+indurre l'accusata, se posta in libertà a concordare versioni, rispettivamente
+distruggere documenti (qualora fossero ancora presenti), non solo per
+migliorare la propria situazione (o quella del marito), ma anche per evitare il
+rischio di un coinvolgimento della suocera nell'inchiesta (cfr. Verbali PP
+__________ 22 maggio 2003, p. 2 e 3 giugno 2003 p. 8;  VI 30 e 33).
+Meno concreto, visto lo stato
+detentivo perdurante dello stesso, ma comunque non da escludere (non essendo
+note le condizioni di detenzione in Romania e la possibilità di rapporti con
+l'esterno dei detenuti - i __________, dopo l'arresto estradizionale, sono
+stati intervistati insieme dalla __________, se la memoria non inganna)
+presente un pericolo di collusione con il marito.
+Questa conclusione vale facendo
+astrazione dal principio di proporzionalità, di cui si dirà in seguito.
+c)
+Pure presente e concreto il
+pericolo di fuga. L'accusata non ha, né mai ha avuto, legami con il territorio
+svizzero. Tutti i suoi legami, in particolare quelli famigliari, si trovano
+altrove (in particolare in Romania). Al momento dell'arresto stava lasciando il
+paese di residenza (la Germania) per recarsi nel paese d'origine (la Romania)
+portando con sé tutti i suoi (rispettivamente della famiglia) averi, quindi con
+l'intenzione di rimanervi. Ciò dimostra l'assenza d'interesse (come di volontà)
+a subire fino in fondo il procedimento in corso in Svizzera e che, con grande
+verosimiglianza, qualora dovesse essere rilasciata si sottrarrebbe allo stesso
+(DTF 12 gennaio 1982 in re F.; DTF 18 dicembre 1999 in re G.; SJ 1980 p. 186).
+Misure sostitutive (ritiro del passaporto) non sono atte allo scopo trattandosi
+di cittadina straniera.
+Il rischio di una pena, anche
+severa e non necessariamente posta al beneficio della sospensione condizionale,
+non può essere escluso, neppure in virtù del cpv. 2 dell'art. 305 CP. Sebbene
+si tratti di un reato contro l'amministrazione della giustizia in generale, la
+gravità dello stesso non può prescindere totalmente dalla gravità del reato
+commesso dalla persona "favorita" (l'amministrazione della giustizia
+è maggiormente compromessa dall'impossibilità o difficoltà di perseguire reati
+gravi che reati bagatella). Il cpv. 2 dell'art 305, va qui ricordato,
+conferisce al giudice una "semplice" facoltà (DTF 106 IV 193) la cui
+applicazione presuppone sì un comportamento umanamente comprensibile e
+moralmente giustificabile, quindi scusabile, in virtù dei rapporti personali,
+ma che deve anche corrispondere ad un concetto di valori e ad un etica
+generalmente riconosciuti a livello sociale (BL ABOG 1992, p. 63); anche in
+questo ambito, il reato commesso dalla persona "favorita" non è privo
+d'importanza per la valutazione; siamo in una situazione diversa da quella
+prevista dall'art. 125 CPP (facoltà di non deporre).
+Certo, non si può dimenticare che
+la possibilità d'applicazione del cpv. 2 norma esiste (anche se di totale
+competenza del giudice del merito), ma appare più corretto considerarla
+nell'ambito della determinazione del rispetto del principio di proporzionalità
+(della durata del carcere preventivo), come fatto dalla CRP (sentenza 9 maggio
+2003, cons. 5 ultimo paragrafo), trattandosi di una questione connessa alla
+pena e non alla perseguibilità.
+6.
+a)
+Gravi indizi di reato (quo
+all'ipotesi di favoreggiamento) sono quindi ancora presenti in capo a
+__________. Pure presenti sono (ancorché residue) necessità istruttorie e un
+concreto pericolo di fuga.
+V'è ora da chiedersi se, alla
+luce di quanto sopra (nonché del richiamo operato dalla stessa CRP nella più
+volte citata sentenza - cfr. considerandi 5 e 6) è ancora rispettato il
+principio di proporzionalità.
+Parte degli accertamenti che la
+CRP ha ritenuto di dover salvaguardare da pericolo di collusione ed
+inquinamento sono stati effettuati con le verbalizzazioni già citate (e
+posteriori alla sentenza). Incomprensibilmente (nessuna indicazione è fornita
+con il preavviso) la commissione rogatoria alle autorità germaniche, relativa
+all'interrogatorio di __________, alla perquisizione domiciliare della stessa
+ed alla perquisizione bancaria presso la __________, è stata inoltrata solo il
+26 giugno 2003, quindi a quasi 2 mesi dalla sentenza in questione e dopo la
+ricezione dell'istanza di libertà provvisoria. Ne consegue che il mantenimento
+della detenzione ai fini dell'espletamento della rogatoria in questione non
+sarebbe più rispettoso del principio di proporzionalità (art. 102 cpv. CPP), a
+maggior ragione quando è noto che la necessità di acquisire elementi probatori
+all'estero è già, di per sé, causa di dilatazione dei tempi d'inchiesta
+(Preavviso p. 9). Analogo discorso vale per la commissione rogatoria presentata
+alle autorità rumene, con richiesta di nuovo interrogatorio di __________,
+anch'essa datata 26 giugno 2003. Se è vero che le due rogatorie menzionate non
+contengono unicamente richieste relative alla qui istante, è altrettanto vero
+che nulla impediva la formulazione delle richieste che la concernono in modo
+più tempestivo (se del caso limitatamente alla sua posizione) per dar seguito
+alle chiare indicazioni della CRP (sentenza considerando 6).
+b)
+La carcerazione preventiva di
+__________ potrebbe (e può) essere, oggi, considerata rispettosa del principio
+di proporzionalità, solo con riferimento al perdurante pericolo di fuga ed ai
+fini della celere chiusura dell'istruttoria per il reato di favoreggiamento. A
+tale scopo, l'ulteriore periodo di carcerazione prospettabile (e dettato dalle
+norme di cui all'art. 196 e 197 CPP) appare ancora proporzionato, tenuto conto
+del fatto che il carcere subito all'estero (nelle more della procedura di
+estradizione) non può essere computato come carcere preventivo durante
+l'istruttoria secondo le norme sulla detenzione preventiva (REP 1986 p. 161).
+Trascorso tale periodo il perdurare della carcerazione di __________ non
+sarebbe più proporzionato e l'inchiesta dovrà, se del caso (a dipendenza delle
+decisioni del magistrato inquirente) continuare con l'accusata a piede libero.
+A scanso di equivoci, si
+sottolinea che le decisioni relative al seguito, rispettivamente alla
+conclusione, dell'istruttoria sono di competenza del magistrato inquirente.
+Quanto sopra espresso deve quindi essere riferito unicamente alla situazione di
+carcerazione preventiva dell'accusata, ed alle condizioni di legge applicabili
+a tale misura, la cui verifica d'esistenza compete a questo ufficio.
+In conclusione, ritenuto che nei
+confronti di __________ sono presenti gravi indizi di commissione del reato di
+favoreggiamento, che è pure presente il pericolo di fuga e che il principio di
+proporzionalità è ancora rispettato (e lo sarà per il tempo necessario alla
+chiusura dell'istruttoria e la decisione di merito), l'istanza di libertà
+provvisoria viene respinta.
+P.Q.M.
+richiamati gli artt. 111, 112,
+183, 181, 24, 25, 305 CP, 95 ss, 96, 102, 107, 108, 280 e 284 CPP,
+decide :
+1.
+L’istanza
+di libertà provvisoria è respinta, come ai considerandi (in particolare n. 6).
+2.
+Non
+si percepiscono né tasse né spese giudiziarie.
+3.
+Contro
+la presente decisione è dato ricorso alla Camera dei ricorsi penali entro dieci
+giorni dall’intimazione.
+4.
+Intimazione:
+-
+avv. __________, per sé e per l'istante;
+-
+Procuratore pubblico __________ (con copia delle osservazioni
+dell’accusato e l'incarto di ritorno).
+giudice
+__________
