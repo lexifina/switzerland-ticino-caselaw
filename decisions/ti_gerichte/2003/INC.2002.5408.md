@@ -1,0 +1,299 @@
+---
+decision_id: "ti_gerichte_INC.2002.5408"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.5408"
+decided: "2003-05-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59521&nX40_KEY=4711338&nTrefferzeile=100&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2002.5408
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.05.2003 INC.2002.5408
+Tessin Il Giudice dell'istruzione e dell'arresto 28.05.2003 INC.2002.5408
+Ticino Il Giudice dell'istruzione e dell'arresto 28.05.2003 INC.2002.5408
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2002.5408
+Lugano
+28 maggio 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+__________
+sedente per statuire sull'istanza di proroga presentata il
+16/19 maggio 2003 dal
+Procuratore Generale __________
+, Ministero pubblico
+di Lugano
+nei confronti di
+__________
+, attualmente detenuto c/o PCT La
+Stampa
+(rappr. dall'avv. __________)
+accusato dei reati di cui agli
+artt. 19 cifra 2 LFStup. e 305 bis cifra 2 CP;
+viste le osservazioni 26 maggio
+2003 dell'accusato (presentate per il tramite del patrocinatore);
+visto l'incarto MP __________;
+ritenuto e considerato
+in fatto ed in
+diritto
+che:
+-        __________ è stato arrestato il 31 gennaio
+2002 (quando si trovava, in espiazione pena e regime di semilibertà, presso il
+carcere di __________ /ZH) con l'accusa di aver organizzato, con terzi, un
+importante traffico di stupefacenti tra il Sudamerica e l'Europa, nel corso del
+2001 (oltre 200 Kg di cocaina, sequestrati ad Atene l'8 gennaio 2002: cfr. doc.
+_ inc. GIAR __________), nonché di aver riciclato la somma di USD 400'000.-
+consegnatagli da persone implicate nel traffico in questione, membri (secondo
+l'accusa) di un'organizzazione criminale (inc. GIAR __________, doc. _);
+-        l'arresto è stato confermato da questo
+giudice l'1 febbraio 2002, ritenuti presenti gravi indizi di reato, pericolo di
+recidiva, pericolo di fuga e necessità istruttorie (inc. GIAR __________, doc.
+_);
+-        l'accusato è già stato oggetto di due
+decisioni di proroga del carcere preventivo, la prima emanata il 24 luglio
+2002, fino al 31 gennaio 2003, e la seconda il 29 gennaio 2003, fino al 31
+maggio 2003 (inc. GIAR __________);
+-        con la richiesta qui in discussione il
+Procuratore pubblico chiede un'ulteriore proroga del carcere fino al 31 agosto
+2003, al fine di poter decidere in merito agli oltre 50 complementi istruttori
+presentati dalla difesa a conclusione del deposito atti, rispettivamente
+permettere l'evasione di quelli accolti e/o la conclusione della procedura
+ricorsuale in relazione a quelli eventualmente respinti; per gli indizi di
+colpevolezza, pericolo di fuga e di recidiva, rinvia alle precedenti istanze di
+proroga ed al rapporto di polizia giudiziaria, ritenendo la situazione immutata
+e gravemente indiziante l'accusato; i bisogni istruttori sono invocati ai fini
+dell'evasione dell'istanza di complemento e relative implicazioni;
+proporzionalità è, sempre per il Procuratore pubblico, ancora data;
+-        __________ si oppone alla proroga "
+per
+sostanzialmente gli stessi motivi esposti nelle precedenti osservazioni
+";
+contesta la consistenza degli elementi acquisiti dagli inquirenti italiani,
+nonostante il loro volume, e la non correlabilità tra la sua persona ed il
+"geometra", anche per questioni temporali; analoghe asserzioni
+concernono le acquisizioni di atti dalla Grecia, Colombia e Spagna;
+-        né accusa né difesa hanno corredato il loro
+esposto con riferimenti o indicazioni concrete, limitandosi al rinvio a favore
+di esposti precedenti; se ne deve dedurre che la fase finale dell'inchiesta non
+ha portato particolari elementi né a (ulteriore) carico né a discarico di
+__________, per rapporto a quanto acquisito in precedenza;
+-        l'art. 95 CPP - corrispondente all’art. 33 scaturito dalla
+revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo evidenza al cpv.
+1 del principio secondo cui l'accusato si trova di regola in libertà, consente
+al cpv. 2 arresto, perdurare e proroga del carcere preventivo a' sensi
+dell'art. 103 CPP, quando esistono a carico dello stesso accusato gravi e
+concreti indizi di colpabilità per un crimine o un delitto e nel contempo sono
+presenti preminenti motivi di interesse pubblico, quali - per quanto qui
+concerne - i bisogni dell’istruzione, con particolare riguardo al pericolo di
+collusione che, - sia detto qui a futura memoria - può continuare ad esistere
+sino al pubblico dibattimento (sentenza della I Corte di diritto pubblico del
+Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si aggiunge,
+sempre con riferimento al caso in esame, che l’elenco dei motivi di interesse
+pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio aggiuntivo del 20
+marzo 1991 concernente la revisione del CPP, ad art. 27, pag. 32, nota 3), tra
+altri possibili, essendovi quello della tutela dell’ordine pubblico (REP 1998
+n. 105).
+L'eccezione
+della cautelare privazione della libertà personale ha così trovato
+codificazione in una chiara base legale (di diritto cantonale: DTF 114 Ia 283
+cons. 3), in corrispondenza ed a superamento di quanto già dettato dalla
+giurisprudenza della Camera dei ricorsi penali - nel solco di quella del
+Tribunale federale -, ritenuto implicito il rispetto della proporzionalità (REP
+1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381).
+I menzionati
+presupposti vanno approfonditi con maggior rigore nella loro valutazione,
+quanto più si è protratta la restrizione della libertà e quanto più si avvicina
+la conclusione delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss);
+-        gli indizi, gravi, di reato accertati nella decisione del 29
+gennaio 2003 sono ancora presenti, e vengono qui ripresi:
+"
+Contrariamente all'assunto della difesa, l'identificazione del
+"geometra" nella persona di __________ non è (più) mera ipotesi,
+bensì indiziata da elementi di fatto quali l'identificazione dell'uso (da parte
+sua) di un collegamento telefonico che altri partecipanti all'operazione
+attribuiscono al geometra __________.L'intercettazione del citato collegamento
+ha permesso di seguire i contatti relativi all'operazione in corso sulla Grecia
+ed i vari collegamenti telefonici utilizzati (con frequenti cambi o utilizzi
+alternati [cfr. documentazione relativa agli ordini di controllo telefonico -
+inc. MP __________, AI __________- nonché gli apparecchi e le schede trovate in
+possesso dell'accusato al momento del fermo e della perquisizione del luogo di
+lavoro e della cella - cfr. elenchi degli oggetti sequestrati dalla Polizia
+cantonale di Zurigo il 31.12.2002) fino a giungere a quelli in possesso di
+__________ al momento dell'arresto e comunque il cui utilizzo è stato da lui
+riconosciuto (in particolare __________ e __________8: cfr. Verbale PS
+__________ 1.02.2002 ore 11.00, p.2, nonché Verbale PS __________ 29.04.2002,
+p. 2 e 3, nonché gli elenchi menzionati più sopra). Alla luce di questi fatti,
+le telefonate tra terzi (con riferimento al traffico) nelle quali si menziona
+il "geometra" ed il suo ruolo, costituiscono gravi indizi nei
+confronti dell'accusato;
+Il contenuto di alcune telefonate intercettate sulle utenze in uso a
+__________ e relative ai contatti con la moglie (che si trovava in Grecia e lì
+è stata arrestata dopo il sequestro della cocaina) e ad altre persone
+interessate al traffico (che, tra l'altro, fanno esplicito riferimento alla
+moglie di __________ e a un suo ruolo nella vicenda: cfr. telefonata 31.12.2001
+ore 21.10 utenza __________, Verbale PS __________ del 23.05.2002), poste in
+relazione con il sequestro della cocaina avvenuto l'8.01.2002 e con la
+documentazione trovata in possesso della moglie di __________ (cfr. rapporto
+d'arresto inc. MP __________, AI _), costituiscono ulteriori gravi indizi di
+reato nei confronti dell'accusato. A titolo esemplificativo, per quanto
+necessario al presente giudizio (che non concerne il merito), si vedano: il
+colloquio telefonico del 31.12.2001 ore 21.10 (già citato) nell'ambito del
+quale si fa riferimento ad un affare (che in qualche modo coinvolge anche la
+moglie di __________ che si trova sul posto) che sta subendo degli intoppi e
+per il quale é stata anticipata a __________ un'importante somma; i colloqui
+del 5.01.2002 ore 10.58 e 11.20, con la moglie, nei quali si fa riferimento al
+rischio di conseguenze per qualche cosa che sta succedendo con conseguente
+"apertura" di "scatole" e ci si preoccupa per la
+documentazione che potrebbe essere reperita presso la donna e consiglio a stare
+fuori casa per un po’ (cfr. Verbale PS __________ 24.05.2002); il colloquio del
+9.01.2002 ore 14.14 con persona che parla greco e riferisce quanto riportato
+dai media in merito a qualche cosa "che era destinato per l'estero" e
+in relazione al quale "per 4, 5 persone di qua formeranno un atto
+processuale" (cfr. Verbale PS __________ 27.05.2002).
+-      Non da ultimo, vi é pure
+il fatto che verso la fine di dicembre del 2001 __________        risulta avere
+disponibilità finanziaria non indifferente così da poter consegnare         USD
+30'000.- a __________ e prometterle ulteriore consegna in tempi brevi, ai            fini
+dell'acquisto, da parte di quest'ultima di una vettura del costo di USD
+88'000.-            (cfr. Verbale PP __________ 2.05.2002; Verbale PS
+__________ 3.05.2002).
+Gli indizi in questione, certamente gravi, non sono stati smentiti
+da seguito dell'istruttoria, né nella loro esistenza né nel loro significato
+per rapporto ai fatti oggetto d'indagine. Anzi, ulteriori elementi di fatto,
+acquisiti nel corso dell'istruttoria, si aggiungono a quelli indicati,
+rispettivamente li rafforzano o, per meglio dire, li confermano e li precisano
+(G. PIQUEREZ, Procédure pénale suisse, Zurigo 2000, no. 2333). Ci si riferisce,
+in particolare, ai contatti ed ai viaggi della moglie dell'accusato e del
+nominato __________
+in Colombia, ai
+contatti ed agli invii di denaro, sempre in Colombia (da parte della moglie e
+del figlio dell'accusato) a favore di tale __________
+(che nega di conoscere i parenti di __________, rispettivamente
+contatti con quest'ultimo da diversi mesi - cfr. il complemento di rogatoria
+inviato in Colombia e di cui all'AI _), alla documentazione ricostruita in base
+alla perquisizione dei PC in uso alla moglie ed alla figlia dell'accusato (cfr.
+AI _, e allegati ai complementi di rogatoria del 29.11.2002 e 13.01.2003, AI _)
+relativa ai contatti con lo spedizioniere __________
+(sempre in Colombia) e alla spedizione oggetto d'inchiesta.
+Affermare che questi elementi non sono attribuibili a __________,
+rispettivamente che sono a lui estranei, significa fare astrazione dai rapporti
+tra __________, la moglie e __________, così come emergono dalle
+intercettazioni telefoniche effettuate all'inizio dell'inchiesta (segnatamente:
+possesso, da parte dell'accusato, di telefoni e carte SIM utilizzati per i
+contatti relativi all'operazione in questione con i __________
+[attivi nel traffico sia in Colombia che in
+Italia] e con la moglie in Grecia; la presenza di __________ a Zurigo nel
+novembre 2001; la disponibilità d'importanti fondi da parte dell'accusato agli
+inizi del 2002; il contenuto di numerose telefonate intercettate; ecc.),
+rispettivamente al contenuto di queste intercettazioni (cfr. decisione
+d'arresto, doc. _ inc. GIAR __________; decisione prima proroga, inc. GIAR
+__________), senza dimenticare che la citata Aurita, già al PCT con l'accusato,
+afferma di conoscere (e aver avuto contatti con) lui e non la moglie e/o il
+figli (cfr. AI _).
+Su gran parte di questi elementi, va detto che all'accusato è stata
+data possibilità di esprimersi (cfr. Verbale PS __________, 9.01.2003).
+"
+si dirà dopo
+se tali  indizi sono (ancora) sufficienti per giustificare, dal profilo della
+proporzionalità, la proroga richiesta;
+-       anche per pericolo di fuga e recidiva si può far capo alla
+precedente decisione, anche qui con riserva di proporzionalità, nulla essendo
+cambiato in proposito:
+"__________
+,
+già condannato (due volte) a pene importanti per fatti relativi al traffico di
+stupefacenti, é gravemente indiziato per atti analoghi commessi durante il
+regime di semilibertà; ciò é sufficiente a configurare concreto pericolo di
+recidiva (M. Luvini, in REP 1989 p.295).
+Vista la gravità del reato imputato (non da ultimo per il
+quantitativo) ed i precedenti, in caso di condanna é certamente prevedibile una
+pena importante da espiare (comminatoria: reclusione), l'età dell'imputato,
+l'assenza di legami particolari con il territorio svizzero (tali non sono la
+presenza della figlia per motivi di studio, né quella dell'amica __________)
+permettono di presumere che le conseguenze di una fuga possano apparirgli quale
+male minore per rapporto a quello derivante dal rischio di ulteriore
+carcerazione (M. Luvini, op. cit., p. 292); irrilevanti, in questo contesto, sia
+il fatto che egli non abbia approfittato della semi libertà per sottrarsi alla
+rimanente espiazione della pena precedente, essendosi modificata
+sostanzialmente la sua situazione, sia la possibilità di una ricerca
+internazionale con successiva (eventuale) estradizione alla Svizzera;
+"
+-
+a
+titolo di bisogni
+istruttori viene fatta valere unicamente la necessità di  decidere sui
+complementi presentati; non si tratta, invero, di bisogni istruttori in senso
+tecnico, bensì della necessità di concludere l'istruttoria salvaguardando
+pericolo di fuga e di recidiva;
+-        la questione centrale relativa all'istanza
+presentata dal magistrato inquirente è, quindi, quella della proporzionalità;
+-        __________ è detenuto dal 31 gennaio 2002
+per ipotesi di reato certamente gravi (crimini) e per i quali, in caso di
+condanna, è verosimile che egli non possa fruire della sospensione condizionale
+della pena (sia per le comminatorie di pena dei reati in questione, sia per i
+precedenti) ed è altrettanto verosimile ipotizzare pene ben maggiori del
+carcere preventivo sin qui sofferto ed ancora da soffrire; se anche fosse che
+quanto acquisito nell'ultima fase dell'istruttoria non ha aggiunto ulteriori
+indizi (o prove) a quelli presenti al momento dell'ultima decisione di proroga
+(e sostanzialmente, nonché dettagliatamente, riassunte nel rapporto di Polizia
+giudiziaria del 31 marzo 2003 - AI __________- alle pagine da 7 a 34) neppure
+questi risultano indeboliti e, a giudizio dello scrivente (per quanto nelle sue
+competenze e senza voler invadere il campo del giudice del merito) questi
+appaiono sufficientemente consolidati e gravi da giustificare il mantenimento
+il perdurare del carcere preventivo ai fini del prospettato rinvio a giudizio
+per i reati ascritti; come già detto nella precedente decisione nella
+valutazione della proporzionalità debbono pure essere considerati altri
+elementi che influiscono sulla durata dell'istruttoria: le ramificazioni
+internazionali dei reati imputati e la scelta del silenzio da parte
+dell'imputato (SJ 1998 p.247; GIAR 386.99.9, sentenza 19.08.1999 in re L. cons.
+2. d.);
+-        alla luce di tutto quanto sopra espresso,
+la proroga di tre mesi richiesta, e volta a determinarsi (ciò che dovrà essere
+fatto celermente come già prospettato dal magistrato inquirente) sui complementi
+istruttori proposti dalla difesa appare ancora rispettosa del principio di
+proporzionalità.
+P.Q.M.
+richiamati gli articoli 19 cifra
+2 LFStup. e 305 bis CP, 95 ss. 102, 103, 279 ss, 284 CPP;
+decide
+1.
+L’istanza è
+parzialmente accolta.
+Di conseguenza
+il carcere preventivo cui è astretto __________ è prorogato
+sino al 31
+agosto 2003 (compreso).
+2.
+Non si
+percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera
+dei ricorsi penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-
+Procuratore generale avv. __________
+(con fotocopia delle osservazioni del patrocinatore
+dell'accusato);
+-
+avv. __________ a, per sé e per l’accusato;
+-
+Direzione del Penitenziario cantonale, 6904 Lugano-Cadro.
+giudice
+_____________
