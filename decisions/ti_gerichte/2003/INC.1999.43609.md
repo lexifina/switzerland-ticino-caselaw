@@ -1,0 +1,190 @@
+---
+decision_id: "ti_gerichte_INC.1999.43609"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.43609"
+decided: "2003-04-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59533&nX40_KEY=4711343&nTrefferzeile=60&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.1999.43609
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 25.04.2003 INC.1999.43609
+Tessin Il Giudice dell'istruzione e dell'arresto 25.04.2003 INC.1999.43609
+Ticino Il Giudice dell'istruzione e dell'arresto 25.04.2003 INC.1999.43609
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.1999.43609
+Lugano
+25 aprile 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+__________
+sedente per statuire sull’istanza 31 marzo 2003 inoltrata
+dal
+Procuratore Pubblico
+__________
+e volta ad ottenere il
+sequestro della eccedenza di Frs. 7'384.45 risultante dalla vendita forzata
+della part. __________ RFD __________, già di proprietà di
+__________
+,
+coniugato con __________, latitante in Italia, __________
+(patrocinato di fiducia
+dall’avv. __________)
+versata
+dall’Ufficio esecuzione e fallimenti di Bellinzona sul CCP __________ del
+Tribunale penale cantonale con riferimento all’inc. __________;
+nell’inchiesta
+penale sfociata nell’atto d’accusa ACC __________ del 16 ottobre 2000 con il
+quale l’accusato __________ viene deferito alla Corte delle Assise correzionali
+di __________ per appropriazione indebita, ripetuta e parzialmente continuata,
+nonché ripetuta falsità in documenti;
+preso atto che
+l’accusato (per il tramite del proprio patrocinatore) con le osservazioni del 7
+aprile 2003 ha chiesto l’integrale reiezione dell’istanza, rinviando per le
+motivazioni a quanto da lui espresso “nei due ricorsi presentati alla CRP il 13
+marzo 2003”;
+viste le
+osservazioni 3 aprile 2003 della parte civile ___________ che si associa
+integralmente alla posizione e alle richieste formulate dal Procuratore
+pubblico;
+avuti a
+disposizione gli atti formanti l’inc. ACC __________,
+letti ed
+esaminati gli atti;
+ritenuto e
+considerato
+in fatto e in
+diritto
+1.
+Nei confronti di __________, il
+Ministero Pubblico del Cantone Ticino ha condotto un’inchiesta penale sfociata
+nell’atto d’accusa ACC __________ del 16 ottobre 2000, con il quale l’accusato
+viene deferito alla Corte delle Assise correzionali di __________ per
+appropriazione indebita, ripetuta e parzialmente continuata, nonché ripetuta
+falsità in documenti; tutti reati da lui commessi fra gli anni 1989 e 1995
+quando, in qualità di responsabile del Consorzio __________ (qui di seguito: __________),
+ha impiegato a profitto proprio o di terzi poco più di 4,4 milioni di franchi
+svizzeri, restituiti in misura di poco meno di fr. 1 milione (v. atto d’accusa
+citato).
+2.
+In data 28 maggio 2002, la
+Presidente della Corte delle Assise correzionali (di seguito Presidente della
+Corte) aveva deciso il sequestro della rendita mensile di previdenza di Frs.
+3'383.-- versata all’accusato dalla Cassa pensione per il personale, Fondazione
+della Società __________ ed il versamento della stessa sul conto n. __________
+intestato al MP presso la Banca __________, come pure il sequestro del saldo
+attivo di quest’ultimo conto, misure che, a seguito del ricorso 10/11 giugno
+2002 presentato dall’accusato, sono state annullate dalla Camera dei ricorsi
+penali del Tribunale d’Appello con decisione 30 luglio 2002 per incompetenza
+del magistrato che le ha ordinate (v. decisione CRP __________).
+Con decisione 28 febbraio 2003,
+questo giudice – su istanza 19 agosto 2002 del Procuratore pubblico __________
+– ha decretato analogo sequestro.
+3.
+In data 5 luglio 2002, la
+Presidente della Corte aveva pure deciso la cancellazione della menzione del
+divieto della facoltà di disporre (blocco RF) iscritto – a seguito di ordine di
+sequestro 15.6.1999 dell’allora Procuratore pubblico __________ - il 16.6.1999
+sulla particella n. __________ RFD di __________ di proprietà di __________ e
+il contestuale sequestro dell’eccedenza di Frs. 7'384.45 risultante dalla
+vendita forzata, da parte dell’Ufficio esecuzione e fallimenti di __________,
+della suddetta particella.
+Contro questo provvedimento
+l’accusato non ha ricorso.
+Solo in data 19 settembre 2002,
+__________, richiamando la sentenza della CRP del 30 luglio 2002, ha scritto
+alla Presidente della Corte eccependo la nullità della decisione 5 luglio 2002
+ed ha chiesto che gli fosse messo a disposizione l’importo di Frs. 7'384.45.
+Il 13 marzo 2003, __________, non
+avendo ottenuto la restituzione del suddetto importo, ha interposto ricorso
+alla Camera dei ricorsi penali per “denegata e ritardata giustizia della
+Presidente della Corte delle Assise correzionali di __________ in tema di
+restituzioni di averi colpiti da sequestro nullo”.
+In data 25 marzo 2003 la
+Presidente della Corte ha trasmesso per conoscenza a questo giudice una copia
+delle osservazioni inoltrate alla Camera dei ricorsi penali, con “allegata la
+parte dell’incarto relativa al sequestro dell’eccedenza di Frs. 7'385.15 per i
+suoi incombenti”.
+Il 31 marzo 2003, il Procuratore
+pubblico __________, con riferimento allo scritto 25 marzo 2003 della
+Presidente della Corte alla CRP, ha inoltrato l’istanza di sequestro qui in
+esame.
+4.
+La fattispecie ora in esame
+appare diversa da quella oggetto della decisione della CRP del 30 luglio 2002 e
+della decisione 28 febbraio 2003 di questo giudice. In quel caso trattavasi
+infatti di un nuovo sequestro , resosi necessario dopo l’emanazione dell’atto
+d’accusa.
+Diversamente da quanto sostiene
+__________ nel menzionato ricorso 13 marzo 2003 alla CRP, la decisione 5 luglio
+2002 della Presidente della Corte – per altro da lui non impugnata – è valida
+ed esplica tuttora i suoi effetti. A mente di questo giudice, non trattasi
+infatti di un nuovo sequestro, ma di un semplice provvedimento – messo in atto
+con l’accordo delle parti - di sostituzione dell’oggetto del sequestro che era
+stato decretato in data 15 giugno 1999 dall’allora Procuratore pubblico
+__________. Questo provvedimento, consistente nel trasferimento del sequestro
+dal bene immobile (la part. __________ RFD di __________ nel frattempo
+realizzata dall’UEF di __________) all’eccedenza di Frs. 7'384.45 risultante
+dalla vendita forzata dell’immobile, rientra certamente nelle competenze della
+Presidente della Corte. D’altronde, nelle competenze della Presidente della
+Corte rientra pure la cancellazione della menzione del divieto della facoltà di
+disporre (blocco RF) iscritto sulla part. n. __________ RFD di __________, che
+nessuno – neppure __________ - ha mai posto in dubbio.
+Del resto, procedendo alla
+sostituzione dell’oggetto del sequestro e alla suddetta cancellazione, la
+Presidente della Corte aveva accertato l’esistenza del consenso di tutti gli
+interessati, ivi compreso del consenso scritto del 24 giugno 2002 dell’avv.
+__________, nuovo patrocinatore di __________.
+Alla luce di quanto sopra questo
+giudice non ha competenza per sequestrare quanto risulta già essere oggetto di
+sequestro fin dal 15 giugno 1999 (a seguito di ordine di sequestro dell’allora
+Procuratore pubblico __________); provvedimento, questo, che è stato mantenuto
+dalla Presidente della Corte con decisione 5 luglio 2002 – con il consenso di
+tutti gli interessati – sull’eccedenza di Frs. 7'384.45 risultante dalla
+vendita forzata della part. __________ RFD di __________ e con contestuale
+cancellazione della menzione del blocco iscritto a RF sulla suddetta
+particella.
+L’istanza 31 marzo 2003 del
+Procuratore pubblico __________ va dunque dichiarata irricevibile, con la
+presente decisione esente da tassa e spese di giudizio (art. 39 lett. f TG) e
+impugnabile alla Camera dei ricorsi penali del Tribunale d’appello entro dieci
+giorni dall’intimazione (art. 284 cpv. 1 lett. a CPP).
+Per i quali motivi, visti i
+citati articoli di legge,
+decide
+1.
+L’istanza 31 marzo 2003 del Procuratore pubblico __________ in
+materia di sequestro é irricevibile.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è data facoltà di ricorso alla Camera
+dei ricorsi penali del Tribunale di appello entro 10 (dieci) giorni
+dall’intimazione.
+4.
+Intimazione a:
+-
+Presidente della Corte delle Assise correzionali, giudice
+__________ (con inc. TPC __________ di ritorno);
+-
+Procuratore pubblico __________;
+-
+avv. __________, per sé e per l’accusato __________;
+-
+avv. __________, per sé e per la PC __________.
+giudice
+__________
