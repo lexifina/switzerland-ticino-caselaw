@@ -1,0 +1,243 @@
+---
+decision_id: "ti_gerichte_INC.1999.80003"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.80003"
+decided: "2000-02-03"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56891&nX40_KEY=4711475&nTrefferzeile=75&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-058.md", "switzerland/bund/acts/312.0/art-281.md"]
+---
+
+# TI Gerichte INC.1999.80003
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 03.02.2000 INC.1999.80003
+Tessin Il Giudice dell'istruzione e dell'arresto 03.02.2000 INC.1999.80003
+Ticino Il Giudice dell'istruzione e dell'arresto 03.02.2000 INC.1999.80003
+
+Sentenza o decisione senza scheda
+
+N. 800.99.3 M                                                             Lugano,
+3 febbraio 2000
+N. 801.99.2 M
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo congiuntamente inoltrato
+in data 14/16 dicembre 1999 da
+__________
+,                                    __________
+e
+__________
+,                                    __________
+(entrambi difesi di fiducia dall’avv. __________)
+avverso la
+decisione 30 novembre 1999, con la quale il
+Procuratore Pubblico
+avv.
+__________ ha disposto il sequestro del negozio __________ e dell’importo di
+fr. 27'500.— nell’ambito del procedimento penale condotto nei confronti dei due
+reclamanti per titolo di infrazione aggravata, sub. semplice, e contravvenzione
+alla LFStup.;
+viste le
+osservazioni 21 dicembre 1999 del magistrato inquirente, che postula la
+reiezione dei gravami;
+letti ed
+esaminati gli atti formanti l’inc. MP 7378/99/PE;
+ritenuto e considerato
+in fatto e in
+diritto:
+che
+-
+gli accusati reclamanti, conviventi e cointeressati nella
+gestione del canapaio __________ – lui quale titolare, lei quale venditrice – ,
+sono stati arrestati in data 30 novembre 1999 in quanto sospetti autori dei
+reati menzionati in ingresso (v. rapporto d’arresto 30 novembre 1999, inc. GIAR
+800.99.1 doc. _).Il giorno successivo, questo giudice ha confermato l’arresto,
+con contestuale intimazione della promozione dell’accusa (v. inc. GIAR cit.,
+doc. _; inc. GIAR 801.99.1 doc. _ per __________);
+-
+l’accusa nei loro confronti è di avere venduto canapa, fra
+l’altro anche a minorenni, nella consapevolezza che era destinata ad essere
+fumata – accusa che i reclamanti hanno subito ammesso essere fondata (v.
+verbale GIAR 1° dicembre 1999, cit., p. 2);
+-
+contestualmente all’arresto dei due reclamanti, il magistrato
+inquirente ha disposto la perquisizione dei locali a loro disposizione ed il
+conseguente sequestro dell’ingente quantitativo di sostanza stupefacente
+rinvenuta, nonché del ragguardevole importo di denaro parimenti trovato nella
+disponibilità primariamente di __________ (v. rapporto d’arresto 30 novembre
+1999, inc. GIAR 800.99.1 doc. _, p. 2-3);
+-
+con il reclamo qui in discussione, gli accusati, ricordata la
+loro collaborazione, evidenziano l’assenza di esigenze d’inchiesta tali da
+giustificare il mantenimento del sequestro (v. reclamo, cit., pti. 3 a 6, p.
+3-4). Definiscono “
+timori di recidiva del tutto destituiti di fondamento
+”
+(loc. cit., pto. 6 p. 4), e sottolineano come il protrarsi della chiusura del
+negozio peggiori non solo la loro situazione economica, ma anche quella
+psicofisica (loc. cit., pti. 7 e 8, p. 4-5). Ne deducono il carattere vessatorio
+del mantenimento del sequestro (loc. cit., pto. 9 p. 5-6);
+-
+dal canto suo il Procuratore Pubblico, nelle proprie osservazioni
+(inc. GIAR 800.99.3 doc. _), giustifica l’avvenuto sequestro del negozio con il
+carattere di strumento di reato del medesimo, e motiva il perdurare del
+sequestro con l’evidente pericolo di recidiva, desumibile dalla richiesta di
+riprendere la propria attività commerciale reiteratamente formulata dai
+reclamanti, richiesta che va valutata nella consapevolezza che “
+in questo
+ramo d’attività non si campa con la vendita di vestiti, corde, cosmetici ed
+alimentari (tra l’altro mercanzia in gran parte inesistente nell’assortimento
+del negozio!)
+” (loc. cit., p. 1). Pacifico sarebbe il sequestro del denaro,
+riconosciutamente per la maggior parte provento dell’attività illecita
+contestata agli accusati, ed ingiustificata sarebbe la richiesta di
+dissequestrarne almeno fr. 5'000.— (loc. cit., p. 2);
+-
+pur nella rinnovata forma in vigore dal 1° agosto 1994, le norme
+sulla confisca penale (artt. 58 ss. CPS) ribadiscono l’obbligo di confisca di
+ogni e qualsiasi vantaggio patrimoniale ottenuto in maniera illecita: la
+definizione dei valori patrimoniali di cui all’art. 59 cfr. 1 cpv. 1 CPS
+riprende le previgenti dottrina e giurisprudenza (v.
+Niklaus Schmid
+, Das
+neue Einziehungsrecht nach Art. 58 ff. StGB, in: RPS 113 [1995], p. 321 ss.,
+pto. 4.2.1 p. 331 e nota 45, con rinvii). Sottostanno a tale tipo di confisca
+ai sensi dell’art. 59 cfr. 1 cpv. 1 CPS anche cosiddetti valori sostitutivi
+(“Surrogate”, v.
+Schmid
+, cit., pto. 4.3.2, p. 334 ss.). Completamente
+rivisto è l’istituto della confisca risarcitoria ai sensi dell’art. 59 cfr. 2
+cpv. 1 CPS: essa permette al giudice (di merito) di ordinare un risarcimento in
+favore dello Stato (con eventuale successiva assegnazione alla parte lesa in
+applicazione dell’art. 60 CPS), se - pur essendo dati i presupposti per una
+confisca ex art. 59 cfr. 1 cpv. 1 CPS - i valori patrimoniali di cui all’art.
+59 cfr. 1 cpv. 1 CPS non siano più reperibili (v.
+Schmid
+, cit., pto.
+4.3.1, p. 333 s.; pto. 4.3.2, p. 336) oppure debbano venir attribuiti
+direttamente alla parte lesa in applicazione dell’art. 59 cfr. 1 cpv. 1 ultima
+frase CPS (v.
+Schmid
+, cit., pto. 4.4.1, p. 339). Infine, la misura può
+essere ordinata non solo nei confronti dell’autore, bensì anche di terzi che
+abbiano beneficiato dei proventi del reato, a meno che non trovino applicazione
+le eccezioni contemplate all’art. 59 cfr. 1 cpv. 2 CPS (art. 59 cfr. 2 cpv. 1
+ultima frase CPS; v.
+Schmid
+, cit., pto. 4.3.3, p. 336 ss.). Per non
+vanificare la portata di questa norma, il magistrato inquirente può ordinare il
+sequestro di tali beni a titolo probatorio, confiscatorio (art. 161 cpv. 1 e 2
+lit. b CPP; v.
+Schmid
+, cit., pto. 6.3, p. 362) oppure risarcitorio (art.
+59 cfr. 2 cpv. 3 CPS);
+-
+un ordine di perquisizione e sequestro bancario può rappresentare
+un attentato ai diritti personali, o causarne un pregiudizio. Come ogni misura
+d’inchiesta, pertanto, deve soddisfare tre presupposti sostanziali: deve
+poggiare sull’esistenza di gravi indizi di colpevolezza, deve apparire
+necessario per il giudizio di merito (nel senso che deve essere connesso con
+l’oggetto che occorre salvaguardare agli incombenti processuali e di giudizio,
+v. decisione 17 agosto 1998 in re E.F., inc. GIAR 501.98.2 consid. 2), infine
+deve essere rispettoso del principio di proporzionalità (v.
+Gérard Piquerez
+,
+Précis de procédure pénale suisse, 2. éd. Lausanne 1994, margin. 1441, 1454 e
+1469, con rinvii). La verifica della fondatezza di questi presupposti, per il
+doveroso scrupolo di rispetto dei diritti individuali, deve essere costante
+negli incombenti dell’autorità inquirente e requirente, con sempre accresciuta
+esigenza probatoria indiziante approssimantesi alla verità materiale, a partire
+dal sospetto all’apertura del procedimento, che va in seguito ed indilatamente
+approfondito con gli accertamenti probatori del caso (v., in contesto più
+generale,
+Piquerez
+, cit., margin. 1116 ss.);
+-
+va preliminarmente rilevato, in ordine, come il reclamo sia
+manifestamente irricevibile: in quanto rivolto contro l’ordine di perquisizione
+e sequestro eseguito il 30 novembre 1999, esso – inoltrato in data 14 dicembre
+1999 – è evidentemente tardivo (art. 281 cpv. 1 CPP); in quanto rivolto contro
+la pretesa omissione di revoca del sequestro, non solo esso è del tutto privo
+di motivazione, ma addirittura trae spunto da due scritti 7 e 9 dicembre 1999,
+con i quali viene lapidariamente (e senza esauriente motivazione) postulata la
+riapertura del negozio (inc. MP doc. _), tanto da apparire dubbia la loro
+ricevibilità quali istanze di dissequestro;
+-
+abbondanzialmente, il reclamo dovrebbe comunque essere respinto,
+almeno parzialmente, nel merito. Il denaro confiscato è quasi tutto (“
+per
+almeno il 90%
+”, verbale di polizia 30 novembre 1999 ore 16.48 dell’accusato
+__________, allegato al rapporto d’arresto, cit., p. 3) manifestamente provento
+di reato, e come tale passibile di definitiva confisca ai sensi dell’art. 59
+cpv. 1 CPS. Eventuali ristrettezze economiche in cui venissero a trovarsi gli
+accusati reclamanti non sono da annoverarsi fra i motivi che impediscono per
+principio la confisca; e per evitare che venga vanificata la possibilità per la
+corte di eventualmente decidere diversamente (rinunciando, eventualmente in
+parte, alla confisca, v. art. 59 cfr. 1 cpv. 2 ultima frase CPS), il
+mantenimento del sequestro deve essere garantito fino al giudizio di merito;
+-
+quanto alla liberazione del negozio, va detto che già in sede di
+osservazioni al reclamo (cit., p. 2) il Procuratore Pubblico anticipava la
+possibilità di accogliere la richiesta dei reclamanti, come già fatto in altri
+casi. Ed a verbale MP 3 dicembre 1999 (inc. MP doc. _ per __________, p. 5;
+doc. _ per __________, p. 6) erano state anticipate le condizione per una
+ripresa dell’attività del negozio. Ora, premesso che al momento dell’inoltro
+del reclamo la perentoria richiesta degli accusati reclamanti appariva
+affrettata, ribadito che – in quanto fondato sulla censura di ritardata
+giustizia – il presente gravame non è sufficientemente motivato, ciò che ne
+impedisce l’accoglimento su questo punto, va pur ammesso che nulla sembra ormai
+ostare alla restituzione del negozio agli accusati: il magistrato inquirente
+non fa segnatamente valere precise necessità istruttorie. E se il suo timore che
+i reclamanti possano ricadere nei reati già inquisiti, poiché il commercio dei
+soli prodotti leciti non garantirebbe loro sufficienti entrate (v.
+osservazioni, cit., p. 1 in fine), non appare del tutto infondato, va pur detto
+che tale timore non giustifica ancora che nei confronti di __________ e
+__________ – persone, lo si ricorda, incensurate (inc. MP, doc. _) e che hanno
+effettivamente collaborato durante l’inchiesta – venga ritenuto un pericolo di
+recidiva tale da giustificare il mantenimento della chiusura del negozio;
+-
+nonostante la reiezione in ordine del presente gravame, allora,
+il Procuratore Pubblico è invitato ad evadere la richiesta di liberazione del
+negozio con la dovuta sollecitudine, dandovi seguito favorevole salvo
+sussistenza di ulteriori necessità istruttorie;
+-
+in conclusione, il reclamo deve essere respinto in ordine, con la
+presente decisione impugnabile alla Camera dei ricorsi penali del Tribunale di
+appello entro 10 (dieci) giorni dall’intimazione; l’esito sostanziale del
+reclamo giustifica che si prescinda dal prelevare tassa e spese di giudizio,
+comunque senza attribuzione di ripetibili.
+*   *   *
+Per i quali motivi
+richiamati i
+citati articoli di legge e gli artt. 280 ss. CPP
+decide:
+1.
+Il reclamo 14/16
+dicembre 1999 di __________ e __________ contro gli ordini di perquisizione e
+sequestro 30 novembre 1999 è irricevibile.
+2.
+Non si prelevano tassa
+né spese di giustizia. Non si attribuiscono ripetibili.
+3.
+Contro la presente
+decisione è dato il rimedio del ricorso alla Camera dei ricorsi penali del
+Tribunale di appello entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+-      avv.
+__________, per sé e per i reclamanti, con copia delle osservazioni del
+magistrato inquirente;
+-      Procuratore Pubblico avv. __________, con l’inc. MP 7378/99/PE
+di ritorno.
+giudice __________
