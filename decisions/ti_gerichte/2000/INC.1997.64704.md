@@ -1,0 +1,272 @@
+---
+decision_id: "ti_gerichte_INC.1997.64704"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1997.64704"
+decided: "2000-02-08"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56894&nX40_KEY=4711475&nTrefferzeile=31&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.1997.64704
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 08.02.2000 INC.1997.64704
+Tessin Il Giudice dell'istruzione e dell'arresto 08.02.2000 INC.1997.64704
+Ticino Il Giudice dell'istruzione e dell'arresto 08.02.2000 INC.1997.64704
+
+Sentenza o decisione senza scheda
+
+N. 647.97.4 R                                                             Lugano,
+8 febbraio 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 31 gennaio 2000 da
+__________
+,                 __________, attualmente
+presso le Carceri pretoriali di __________
+(patrocinato
+dall'avv. __________)
+trasmessa a questo giudice con
+preavviso negativo del 4 febbraio 2000 dal Procuratore pubblico avv.
+__________;
+offerto alla difesa dell'accusato
+di formulare delle contro osservazioni e letto lo scritto odierno della difesa
+che conferma l'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+I fatti posti alla base della
+presente decisione possono essere ripresi, nella loro sostanza, dalla decisione
+29 dicembre 1999 del Giar avv. __________ che si è chinato su di una prima
+richiesta di concessione della libertà formulata dall'accusato.
+Si può quindi qui ritenere come
+__________ sia stato arrestato il 23 novembre 1999 sulla scorta di ordine del
+Procuratore pubblico avv. __________ con le imputazioni di truffa, abuso di un
+impianto per l'elaborazione dei dati, abuso di carte-chèques o di credito e
+falsità in documenti. Le fattispecie inquisite, faticosamente ammesse dall'accusato
+al confronto di documentate contestazioni, consistono nell'acquisizione con
+falsi dati personali di carte di credito e del loro successivo ripetuto abuso
+anche per non trascurabili importi e per spese superfetanee in locali notturni,
+avendo nel contempo rivenduto un'automobile di certo pregio marca Audi A4 turbo
+diesel, ottenuta in leasing. Giova ricordare che per analoghi reati già era
+stato aperto - ed è tuttora pendente - un procedimento nel corso del 1997, con
+arresto di __________ il 3 ottobre 1997 (provvedimento non mantenuto da questo
+giudice). In precedenza l'istante, dopo una settimana di carcere preventivo,
+venne condannato con decreto di accusa 6 aprile 1992 alla pena di 90 giorni di
+detenzione per furto e successivamente fu in carcere in Italia dal 12 aprile
+1998 al 26 febbraio 1999, con seguito di condanna in contumacia per reati
+patrimoniali (sentenza 2 dicembre 1997 della Corte di Appello di Milano).
+Il procedimento in discussione si
+trova allo stadio del deposito atti ed appare quindi altamente verosimile,
+anche a fronte delle sostanziali ammissioni dell'accusato, che l'istruttoria
+possa essere chiusa in tempi decisamente contenuti e che la decisione del
+Procuratore Pubblico possa essere emanata ancora nei prossimi giorni. Tra gli atti
+acquisiti appare di rilievo indicare il Rapporto preliminare di polizia
+giudiziaria del 24 gennaio scorso che contestualizza le imputazioni
+all'accusato che avrebbe abusato di più carte di credito (__________ed
+__________) ottenute come sopra descritto utilizzandole al fine di conseguire
+un indebito profitto complessivo di ca. CHF 65'000.--, fatti avvenuti tra il
+giugno 1999 e l'arresto. __________ è inoltre accusato di essersi appropriato
+indebitamente di una vettura Audi del valore di CHF 25'000.-- ca. e di un
+furgone Renault del valore di ca. CHF 10'000.-- nel marzo e aprile 1999. Da
+notare che, grazie all'intervento degli inquirenti, è stato possibile evitare
+il rilascio di ulteriori carte di credito a nome di terze persone ma con
+richieste formulate dall'accusato.
+Agli atti è stato infine
+acquisito il casellario giudiziale italiano relativo all'accusato, che è di
+cittadinanza italiana e svizzera, con il rilievo che __________ risulta essere
+stato condannato non solo per quanto evidenziato più sopra ma anche ad una
+multa per emissione di assegni a vuoto nel 1991, a 4 mesi per furto nel 1994,
+ad ulteriore multa per emissione di assegni a vuoto nel 1996 ed ancora in
+quell'anno - per reati connessi alla circolazione stradale - ad 1 mese e 15
+giorni di detenzione. Sempre per circolazione "abusiva con veicolo avente
+carta di circolazione o targa ritirata" a __________ l'accusato è stato
+condannato ad 1 mese di arresto nel 1997.
+2.
+Con scritto 31 gennaio 2000 la
+difesa dell'accusato si è rivolta al PP avv. __________ chiedendo - nella
+sostanza - la concessione della libertà personale a __________. Richiamando la
+sentenza della competente Corte di appello di Milano del 2 dicembre 1997 la
+difesa ha indicato come non possa essere ritenuta una recidiva per __________ a
+fronte di sentenza che, in Italia, stante una contumacia, non può essere
+impugnata in sede di cassazione. La difesa ritiene che la sentenza dei giudici
+milanesi avrebbe infatti potuto essere cassata nel caso fosse stato possibile
+all'accusato impugnarla. L'assenza di possibilità di impugnativa sarebbe in
+contrasto con principi del diritto svizzero e la condanna non dovrebbe essere
+ritenuta per fondare una recidiva.
+Il Procuratore pubblico si oppone
+alla concessione della libertà all'accusato richiamando la decisione 29
+dicembre 1999 del Giar, indicando la scadenza del deposito degli atti per il
+prossimo 14 febbraio 2000 e quindi l'imminente emanazione dell'atto d'accusa in
+uno con l'esistenza e la concretezza di un pericolo di recidiva. Per il PP
+l'accusato è stato regolarmente condannato in Italia dal Tribunale di Milano
+con pena per la quale egli è stato privato della sua libertà per oltre 3 mesi.
+In sede di contro osservazioni la
+difesa di __________, pur dando per ammessi gravi indizi di reato per
+fattispecie da non sottovalutare, indica l'inesistenza degli estremi di una
+recidiva, violazione del principio di proporzionalità e possibilità di adottare
+misure sostitutive all'arresto.
+3.
+In diritto la materia è nota alle
+parti, l'art. 95 CPP - corrispondente all’art. 33 scaturito dalla revisione
+parziale 23 settembre 1992 / 1. gennaio 1993 - dopo evidenza al cpv. 1 del
+principio secondo cui l'accusato si trova di regola in libertà, consente al
+cpv. 2 arresto, perdurare e (poi, se del caso) proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per quanto
+qui concerne - i bisogni dell'istruzione, il pericolo di recidiva e quello di
+fuga (senza dimenticare che l’arresto, quale misura processuale cautelativa,
+non serve unicamente ai bisogni dell’istruttoria, ma anche ad assicurare la
+presenza dell’accusato al processo e a garantire l’eventuale espiazione della
+pena: DTF 109 Ia 323 consid. c, e riferimenti; sentenza 16 novembre 1993 del
+Tribunale federale in re A.H., 1P.477/1993, consid. 3).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128).
+4.
+Sufficienti presupposti di legge,
+come anche esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di __________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà sino al dibattimento
+processuale.
+4.1 Indizi di colpevolezza
+Come già evidenziato nella
+decisione 29 dicembre 1999 l'esistenza di gravi e concreti indizi di
+colpevolezza non è contestata dalla difesa stanti gli accertamenti oggettivi
+degli inquirenti, viste le deposizioni raccolte e le ammissioni dello stesso
+accusato confermate dinnanzi al magistrato inquirente (v. segnatamente il
+verbale 7 dicembre 1999). Gli episodi che coinvolgono __________ non sono certo
+trascurabili a fronte della ripetitività del suo agire ed alla luce della
+ricaduta nel reato, della ricerca di facile guadagno, nonché con attenzione
+alla ripetizione di malversazioni ed alla destinazione del maltolto.
+4.2 Esigenze istruttorie
+L'inchiesta non è ancora conclusa
+ed è in corso il deposito degli atti. Gli accusati sono stati sostanzialmente
+collaborativi ed appare più che probabile una chiusura dell'istruttoria - se
+non saranno presentate domande di complemento - verso la metà di febbraio 2000.
+Non possono quindi essere
+ritenuti sufficienti motivi istruttori, l'istanza va comunque respinta stante
+un concreto rischio di recidiva.
+4.3 Rischio di recidiva
+Per poter ritenere un rischio di recidiva occorre che
+l'accusato possa, con verosimiglianza, delinquere nuovamente e costituire così
+un rischio per la società. Al fine di ammettere un rischio di recidiva la
+possibilità di ricaduta deve essere concreta (DTF 105 Ia 31) e risultare da una
+valutazione dell'insieme delle circostanze, tra cui i precedenti, il
+comportamento in istruttoria, la personalità, la costituzione fisica e
+soprattutto psichica e le modalità di commissione dei reati (Luvini, REP 1989
+p. 287 ss; Piquerez n.1186/7). In particolare, tenendo anche conto del tempo
+trascorso dalla cessazione della attività criminosa, il rischio di recidiva
+sarà più facilmente ammesso quando l'accusato sia un delinquente abituale o uno
+squilibrato, più difficilmente quando si sia reso colpevole di un solo reato o
+di più reati concentrati in un breve lasso di tempo (Luvini con rif. a STF
+12.8.81 consid. 5 in re C.).
+Occorre quindi fondarsi su
+circostanze concrete che rendano l'eventualità della reiterazione assai
+verosimile, rispettando così il criterio di proporzionalità e senza dimenticare
+l'effetto deterrente del procedimento penale.
+Nel concreto caso va ricordata la
+precedente decisione del Giar del 29 dicembre 1999 rimasta incontestata in cui
+veniva ammessa una recidiva. L'istruttoria ha infatti permesso di evidenziare
+come l'accusato annoveri numerose condanne a suo carico e ciò sin dal 1991. Nessuno
+dei moniti delle autorità giudiziarie è stato sufficiente per trattenere
+__________ dal commettere nuovi reati. Come evidenziato sub. 1 __________ è
+stato condannato una prima volta ad una multa nel dicembre 1991, a questa
+condanna è seguito il decreto d'accusa del Ministero Pubblico del Cantone
+Ticino del 6 aprile 1992 per furto con cui è stata inflitta all'accusato una
+pena di 90 giorni di detenzione sospesi condizionalmente per un periodo di
+prova di 3 anni. Nel 1994 in Italia, sempre per furto, l'accusato è stato
+condannato a 4 mesi di reclusione. Nel 1996 vi sono poi due interventi della
+magistratura della vicina penisola, una multa per assegni a vuoto dell'aprile
+ed una condanna a 1 mese e 15 giorni per "circolazione abusiva con veicolo
+avente carta di circolazione o targa ritirata". Nel febbraio 1997 nuova
+condanna per lo stesso reato ad un mese di arresto. A ciò va aggiunta la
+condanna del 2 dicembre 1997 della Corte di Appello di Milano ad un anno e 5
+mesi di reclusione, pena parzialmente espiata dall'accusato. Va ancora
+ricordato l'arresto non mantenuto dal Giar dell'ottobre 1998 comunque
+costituente intervento a monito dell'autorità giudiziaria. L'accusato -
+nonostante questi ammonimenti anche severi (cfr. sentenza della Corte d'Appello
+di Milano) - ha continuato a delinquere in particolare dal marzo 1999, senza
+sostanziale soluzione di continuità rispetto al suo precedente agire. Questi
+elementi oggettivi vanno accompagnati dalla constatazione che __________ ha
+agito in maniera ripetuta e sprezzante del rispetto dovuto all'altrui
+patrimonio, egli ha voluto conseguire il facile guadagno in maniera pervicace.
+Rammentava il Giar nella
+decisione 29 dicembre 1999 come l'accusato avesse conseguito
+"non
+trascurabili importi e per spese superfetanee in locali notturni, avendo nel
+contempo rivenduto un'automobile di certo pregio marca Audi A4 turbo diesel,
+ottenuta in leasing"
+Gli oggettivi precedenti, la
+facilità e pervicacia con cui __________ ha delinquito, i facili guadagni
+voluti destinati comunque a spese inutili in locali notturni, permettono di
+seriamente ritenere un rischio di ricaduta nel reato da parte dell'accusato se
+liberato.
+L'adozione di misure sostitutive
+dell'arresto non appare idonea ad evitare la ricaduta nel reato. D'altra parte
+le precedenti condanne non sono state sufficienti. Non è impedendo a __________
+di frequentare particolari ambienti che lo si possa trattenere, ciò a maggior
+ragione se si analizza la natura dei reati commessi.
+5.
+Il carcere preventivo sin qui sofferto e
+ipotizzabile sino al deferimento al giudice del merito, in un procedimento che
+risulta essere alla sua conclusione (ciò pur considerando l’atteggiamento
+inizialmente defatigatorio dell’accusato), è pienamente rispettoso del
+principio di proporzionalità, tenuto anche conto del complesso dei fatti da
+accertare e delle persone coinvolte, nonché della prevedibile pena privativa
+della libertà, verosimilmente da espiare a ragione di concorrente recidiva e
+reiterazione. La durata della detenzione subita sin qui, e quella ancora
+prevedibile per giungere al processo, è valutata dalla stessa difesa come di
+entità inferiore alla probabile condanna che potrebbe essere inflitta a
+__________. Per giurisprudenza del TF viola il principio di proporzionalità la
+detenzione preventiva la cui durata superi quella della presumibile pena.
+__________ è privato della sua libertà da poco più di 2 mesi e mezzo. E'
+prevedibile, in caso di giudizio di condanna, l'inflizione di una pena più
+severa (ritenuta anche la recidiva).
+6.
+L’istanza è allora respinta con la
+presente decisione, esente da tassa e spese giudiziarie (art. 39 lett. f TG e
+contrario) e suscettibile di impugnazione alla Camera dei ricorsi penali (art.
+284 cpv. 1 lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-     avv. __________, per sé e per l’istante;
+-     Procuratore pubblico avv. __________.
+giudice
+__________
