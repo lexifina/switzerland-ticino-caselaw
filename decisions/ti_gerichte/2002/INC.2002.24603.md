@@ -1,0 +1,72 @@
+---
+decision_id: "ti_gerichte_INC.2002.24603"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.24603"
+decided: "2002-05-15"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59548&nX40_KEY=4711426&nTrefferzeile=75&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md"]
+---
+
+# TI Gerichte INC.2002.24603
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 15.05.2002 INC.2002.24603
+Tessin Il Giudice dell'istruzione e dell'arresto 15.05.2002 INC.2002.24603
+Ticino Il Giudice dell'istruzione e dell'arresto 15.05.2002 INC.2002.24603
+
+Sentenza o decisione senza scheda
+
+N. 246.2002.3 L                                                         Lugano,
+15 maggio 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 6 maggio 2002 da
+__________
+,
+(patrocinata
+dall'avv. __________)
+e qui trasmessa con preavviso
+negativo il 10/13 maggio 2002 dal
+Procuratore pubblico
+avv. __________;
+viste le osservazioni 14 maggio
+2002 dell'accusata (redatte in collaborazione per subdelega con l'avv.
+__________), che conferma contenuti e conclusioni dell'istanza;
+preso atto che
+-
+l'accusata è stata posta in libertà il 14 maggio 2002, dopo
+interrogatorio da parte del Procuratore pubblico e intimazione di decreto di
+accusa, in presenza del patrocinatore;
+-
+l'istanza è divenuta così priva di oggetto, con suo conseguente stralcio
+dai ruoli;
+-
+non vi sono spese giudiziarie a carico dell'istante, sostanzialmente
+vincente, né si attribuiscono ripetibili, essendo stato concesso il beneficio
+del gratuito patrocinio, con separata decisione;
+richiamati gli art. 95 ss. CPP,
+decreta:
+1.
+L'istanza è evasa, in quanto divenuta priva di oggetto.
+2.
+Non si percepiscono tasse di giustizia né si attribuiscono ripetibili.
+3.
+Intimazione:
+-
+avv. __________, per sé e per l'accusata;
+-
+Procuratore pubblico avv. __________ (con copia delle
+osservazioni dell'accusata e con l'inc. MP 388/2000 di ritorno).
+giudice
+__________
