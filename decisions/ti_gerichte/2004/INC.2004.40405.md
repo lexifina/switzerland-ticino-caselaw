@@ -1,0 +1,270 @@
+---
+decision_id: "ti_gerichte_INC.2004.40405"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.40405"
+decided: "2004-10-01"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=36265&nX40_KEY=4711296&nTrefferzeile=34&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2004.40405
+
+## Regeste
+
+istanza di scarcerazione
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 01.10.2004 INC.2004.40405
+Tessin Il Giudice dell'istruzione e dell'arresto 01.10.2004 INC.2004.40405
+Ticino Il Giudice dell'istruzione e dell'arresto 01.10.2004 INC.2004.40405
+
+Incarto n.
+INC.2004.40405
+Lugano
+1 ottobre 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire
+sull'istanza di scarcerazione presentata il 23 settembre 2004 da
+patr.
+d'ufficio dall'
+a seguito
+della carcerazione in vista si allontanamento ordinata il 13 agosto 2004
+dalla Sezione dei permessi e dell'immigrazione, confermata da questo ufficio
+il 19 agosto 2004;
+preso atto delle
+osservazioni 27 settembre 2004 della Sezione dei permessi e dell'immigrazione
+(in seguito SPI), concludenti per la reiezione dell'istanza di scarcerazione;
+viste le
+contro-osservazioni 28 settembre 2004 della patrocinatrice dell'istante;
+sentito
+l'incarcerato, nel corso dell'udienza 30 settembre 2004, il quale conferma
+l'istanza di scarcerazione;
+letti ed
+esaminati gli atti
+, segnatamente l’incarto messo a disposizione
+dall’Ufficio giuridico della Sezione dei permessi e dell’immigrazione;
+ritenuto e considerato:
+in fatto e in
+diritto:
+1.
+In data 19 agosto 2004 l'allora
+GIAR Franco Lardelli aveva mantenuto la carcerazione in vista di allontanamento
+di __________ con le seguenti motivazioni:
+"
+-
+dagli atti risulta l'esistenza
+di concreti indizi che fanno temere che il comparente intenda sottrarsi
+all'espulsione, in particolare perché non ha lasciato la
+Svizzera
+come a decisione del 26 marzo
+2004, ha declinato generalità diverse e false, restando in
+Svizzera
+anche dopo il 7 giugno 2004 (data
+alla quale gli è stato ricordato di lasciare immediatamente la
+Svizzera
+) e continuando a commettere
+reati (vendita di bolas di cocaina), quindi con esposizione a serio pericolo
+della salute altrui (cfr. art. 13b cpv. 1 lett. b e c LDDS, con riferimento
+all'art. 13a lett. e LDDS)"
+2.
+Con istanza 23 settembre 2004,
+l’incarcerato chiede di essere scarcerato. A suo dire, essendo egli privo dei
+documenti necessari per il rimpatrio ed impossibilitato a procurarseli, in
+quanto analfabeta, e quindi senza possibilità di mettersi in contatto con la
+madre, unica sua parente, per farsi mandare un documento comprovante la sua
+identità, poiché lei pure analfabeta e abitante in un piccolo villaggio del
+Botswana, l'esecuzione dell'allontanamento sarebbe inattuabile ai sensi
+dell'art. 13c cpv. 5 LDDS. Inoltre, sino ad ora, le autorità non avrebbero
+intrapreso alcuna pratica per rendere possibile tale esecuzione, in particolare
+non risulterebbe abbiano preso contatto con l'ambasciata del Botswana o
+richiesto informazioni all'Interpol o, ancora, sottoposto l'istante ad un test
+sulle sue conoscenze linguistiche o geografiche. La detenzione sarebbe quindi
+contraria al principio di proporzionalità.
+3.
+La SPI, con osservazioni del 27
+settembre 2004, si oppone all’istanza. Ricordata la giurisprudenza in materia,
+rileva che l’incarcerato è stato arrestato per infrazione aggravata sub
+semplice alla LStup, ha fornito informazioni inveritiere alle autorità
+(generalità e date di nascita diverse e provenienza), non ha collaborato con le
+autorità, le quali hanno comunque rispettato il principio di celerità
+sottopendolo all'esame LINGUA, esame dal quale sono emersi forti indizi che lo
+stesso sia cittadino nigeriano e non del Botswana come da lui sostenuto.
+Discenderebbe dalle suddette circostanze che le difficoltà nell'attuare il
+rimpatrio di __________ sarebbero da ricondurre all'atteggiamento dello stesso,
+segnatamente al suo rifiuto di collaborare per l'accertamento della sua
+origine, nonché l'esistenza di
+"seri e convergenti indizi che fanno
+ritenere (…) la presenza di un rischio estremamente elevato che l'interessato,
+se posto in libertà, si dia alla clandestinità per evitare l'espulsione dal
+territorio svizzero".
+In sede di contro osservazioni la
+patrocinatrice dell'incarcerato si è riconfermata nella primitiva istanza. Dopo
+aver contestato che il suo cliente abbia fornito false indicazioni in merito
+alle sue generalità ed alla sua provenienza, nonché omesso di collaborare con
+le autorità, ribadisce la violazione del principio di celerità da parte delle
+autorità (che sarebbero intervenute soltanto dopo 27 giorni). Di conseguenza
+"nella
+fattispecie vi sarebbe una violazione del principio di proporzionalità e del
+principio di adeguatezza a voler mantenere in carcere in vista di
+allontanamento l'istante poiché non vi è alcuna possibilità che
+l'allontanamento sia eseguito"
+. Contesta inoltre l'esistenza del
+pericolo di fuga e di quello di recidiva.
+Delle ulteriori rispettive
+argomentazioni si dirà, per quanto necessario, nel seguito.
+4.
+Durante l’udienza del 30
+settembre 2004, l’incarcerato ha confermato la propria istanza; mentre la SPI,
+rappresentata dall'
+avv.
+Gemnetti, ha confermato
+la propria opposizione alla suddetta istanza e ha prodotto copia dell'e-mail 30
+settembre 2004 di __________ della Divisione rimpatrio con precisazioni in
+merito al test LINGUA cui è stato sottoposto __________ e della sentenza DTF
+2A.309/2004 del 1° giugno 2004.
+5.
+L'istanza, presentata da
+__________, detenuto in attesa dell'allontanamento, a questo giudice nei
+termini di cui all'art. 13c cpv. 4 LDDS, è ricevibile (art. 13c LDDS e 4, 5 e
+28 LALMC).
+6.
+Giusta l'art. 13b cpv. 1 LDDS se
+è stata notificata una decisione di prima istanza d'allontanamento o
+espulsione, l'autorità cantonale competente, allo scopo di garantire
+l'esecuzione può, ai fini di assicurare l'esecuzione, incarcerare lo straniero,
+se indizi concreti fanno temere che lo stesso intende sottrarsi all'espulsione,
+in particolare perché non si attiene all'obbligo di collaborare secondo l'art.
+13 f LDDS e l'art. 8 cpv. 1 lett. a e cpv. 4 LASI (per quanto concerne gli
+indizi concreti che fanno temere un pericolo di fuga cfr. DTF 122 II 49 e 125
+II 369). Di principio la durata della detenzione non può eccedere i tre mesi:
+tuttavia se particolari ostacoli si oppongono all'esecuzione dell'allontanamento
+o dell'espulsione, con il consenso dell'autorità giudiziaria cantonale, la
+carcerazione può essere prorogata di sei mesi al massimo (cpv. 2). La
+detenzione è subordinata alla condizione che le autorità intraprendano senza
+ritardo le necessarie misure per l'esecuzione dell'allontanamento o
+dell'espulsione (cpv. 3, DTF 122 II 148). Secondo l'art. 13c cpv. 5 lett. a
+LDDS la carcerazione ha termine se il motivo della carcerazione è venuto a
+mancare o se risulta che l'esecuzione dell'allontanamento o dell'espulsione è
+inattuabile per motivi giuridici o effettivi.
+Per la messa in detenzione (così
+come per la proroga della stessa) deve essere rispettato il principio di
+proporzionalità, in particolare è necessario che l'esecuzione
+dell'allontanamento, benché momentaneamente impossibile (per esempio per
+mancanza di documenti di identità) sia possibile in un termine prevedibile,
+vale a dire nel periodo legale di detenzione amministrativa dello straniero
+(DTF 2A.523/2001 del 18 dicembre 2001).
+Va inoltre ricordato che con
+l'introduzione dell'art. 13 f LDDS e la modifica dell'art. 13 b cpv. 1 lett. c
+LDDS il legislatore ha inteso sottolineare ulteriormente l'importanza della
+collaborazione dello straniero (ed un suo dovere in tal senso) dandole un peso
+notevole anche per quanto concerne la privazione della libertà: la mancata
+collaborazione diventa indizio di pericolo di latitanza (FF 2003, p. 4993; DTF
+2A.278/2004 del 18 maggio 2004).
+Secondo la giurisprudenza del
+Tribunale federale il rilascio di informazioni contraddittorie o menzognere
+sulle proprie origini, sul viaggio intrapreso e sulle generalità lasciano
+presagire un pericolo di fuga, così come nel caso di persona con precedenti
+penali, in particolare reati che mettono in pericolo la salute altrui, è ragionevole
+ritenere un rischio maggiore di disobbedienza alle ingiunzioni delle autorità
+(DTF 122 II 49 con rif.; 122 II 148 e A. Wurzburger, La jurisprudence récente
+du Tribunal fdéral en matière de police des étrangers, p. 66 e 67, in Revue de
+droit administrativ et de droit fiscal, Revue genevoise de droit pubblic,
+settembre 1997, n. 4).
+7.
+I motivi che in data 19 agosto
+2004 avevano determinato la decisione di conferma della carcerazione di
+__________ restano tuttora validi, né, contrariamente a quanto sostenuto
+dall'istante, l'esecuzione dell'allontanamento appare inattuabile ai sensi
+dell'art. 13c cpv. 5 lett. a LDDS.
+Nel caso in esame
+l'allontanamento non è ancora stato possibile o comunque è reso più
+difficoltoso a causa della mancata collaborazione della persona interessata. In
+particolare, __________ ha sempre dichiarato di essere cittadino del Botswana,
+tuttavia l'esame LINGUA sembrerebbe indicare cittadinanza nigeriana (scritto
+23.9.2004 della Divisione rimpatrio), a conferma di dubbi precedenti, basati
+comunque anche su altri elementi, segnatamente la circostanza che l'istante
+abbia fornito differenti generalità e differenti date di nascita (cfr.
+decisione 26 marzo 2004 dell'UFR). A ciò si aggiunge che lo stesso, nel corso
+del ve
+rb
+ale 15 luglio 2004, ha sostenuto di
+avere telefonato a conoscenti residenti in Botswana affinché gli trasmettessero
+i documenti di identità o altro documento per poter rimpatriare, senza tuttavia
+produrre alcuna prova in tal senso e che successivamente egli non ha intrapreso
+alcun passo per l'ottenimento dei documenti necessari per il rimpatrio, come
+confermato anche dinnanzi a questo giudice nel corso dell'udienza del 30
+settembre 2004. A tale ultimo proposito non può giovare all'istante sostenere
+che ciò gli sarebbe (sarebbe stato) impossibile in quanto analfabeta: tale
+circostanza non gli preclude, infatti, di contattare telefonicamente i suoi
+parenti nel paese d'origine e/o la propria ambasciata in
+Svizzera
+. Giova infine rilevare che
+l'interessato ha dichiarato di non voler rientrare in Botswana (cfr. ve
+rb
+ale GIAR 30 settembre 2004).
+Va inoltre rilevato che il 15
+luglio 2004 __________ è stato arrestato e successivamente condannato con
+decreto 18 agosto 2004 (DA __________) - oltre che per infrazione alla LDDS e
+contravvenzione alla LStup - anche per infrazione alla LStup - segnatamente per
+avere venduto nel periodo aprile 2004 - luglio 2004 almeno 90 bolas di cocaina
+del peso stimato di 0.4/0.5 gr -, quindi per un reato tale da mettere in
+pericolo la salute pubblica (A. Wurzburger, op. cit., p. 68), reato per
+ammissione dello stesso istante, commesso anche dopo il 7 giugno 2004, data in
+cui era stato avvertito che doveva lasciare immediatamente la
+Svizzera
+(cfr. ve
+rb
+ale Pol. 7 giugno 2004; ve
+rb
+ale GIAR 19 agosto 2004 e 30 settembre 2004).
+In siffatte circostanze e alla
+luce della succitata giurisprudenza, vi è dunque conferma dei concreti indizi
+che fanno temere che l’incarcerato intenda sottrarsi all’espulsione.
+Né del resto risulta violato il
+principio di celerità. Secondo la giurisprudenza del Tribunale federale tale
+principio è leso soltanto quando le autorità preposte all'allontanamento non
+intraprendono nulla per oltre due mesi, senza che il ritardo sia imputabile
+allo straniero o a quello delle autorità estere (cfr. DTF II 51 e 2A.309/2004;
+A. Wurzburger, op. cit., p. 65). In concreto, tale termine è stato rispettato:
+ricordato che la decisione con cui è stata mantenuta la carcerazione in attesa
+di allontanamento di __________ è del 19 agosto 2004, dette autorità hanno
+infatti sollecitato l'intervento della Divisione di rimpatri per
+l'identificazione dell'istante (cfr. scritto 14 settembre 2004), peraltro già
+sottoposto all'esame LINGUA (cfr. e-mail 30 settembre 2004 Divisione
+rimpatrio), ciò al fine di presentarlo alla rappresentanza del suo Paese di
+origine e quindi ottenere un rilascio di un lasciapassare. Occorre inoltre
+tener conto del fatto che la mancanza di una fattiva collaborazione da parte
+dell'interessato - che non può evidentemente giustificare la sua messa in
+libertà (cfr. DTF 2A.523/2001) - rende necessario più tempo per l'accertamento
+della sua reale identità e del suo luogo d'origine, nonché per la successiva
+messa in contatto con le competenti rappresentanze estere in vista
+dell'ottenimento di documenti validi.
+7.
+In virtù di quanto precede
+l'istanza di scarcerazione deve essere respinta, dovendosi confermare la
+legalità e l’adeguatezza della carcerazione.
+Per questi motivi,
+richiamata la legge federale
+sulla dimora e il domicilio degli stranieri, segnatamente gli artt. 13 b, 13 c
+e 13 f LDDS, e la LALMC, segnatamente gli art. 4, 5 e 28;
+decide:
+1.
+L'istanza di scarcerazione è respinta.
+La
+carcerazione di __________ è mantenuta a norma di legge.
+2.
+Contro la
+presente decisione è dato ricorso al Tribunale cantonale amministrativo entro             15
+(quindici) giorni dall'intimazione (art. 31 LALMC).
+3.
+Intimazione (anticipata
+via fax e raccomandata):
+giudice
+Ursula Züblin
