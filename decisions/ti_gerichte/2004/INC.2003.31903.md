@@ -1,0 +1,150 @@
+---
+decision_id: "ti_gerichte_INC.2003.31903"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.31903"
+decided: "2004-04-06"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59400&nX40_KEY=4711307&nTrefferzeile=27&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2003.31903
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 06.04.2004 INC.2003.31903
+Tessin Il Giudice dell'istruzione e dell'arresto 06.04.2004 INC.2003.31903
+Ticino Il Giudice dell'istruzione e dell'arresto 06.04.2004 INC.2003.31903
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.31903
+Lugano
+6 aprile 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+__________
+sedente per statuire sull’istanza presentata il 23/26
+marzo 2004 personalmente da
+__________
+patrocinato dal dr. jur. __________
+intesa ad ottenere il dissequestro di due telefoni
+cellulari marca Nokia modello 6210 e 3210 sequestrati nel maggio 2003,
+nell’ambito del procedimento penale aperto a suo carico per infrazione
+aggravata alla Legge federale sugli stupefacenti e altri titoli di reato di
+cui all’ACC 81/2004 del Procuratore pubblico __________;
+viste le osservazioni 29/30 marzo
+2004 del magistrato inquirente e 5 aprile 2004 del dr. jur. __________;
+letti ed esaminati gli atti
+dell’inc. ACC 81/2003 messi a disposizione di questo giudice;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+nell’ambito del procedimento a carico di __________, per titolo di
+infrazione aggravata alla legge federale sugli stupefacenti e altri titoli di
+reato di cui all’ACC 81/2003, il Procuratore pubblico __________ ha
+sequestrato, tra le altre cose, il telefono cellulare marca Nokia (IMEI n.
+__________) con inserita la carta SIM __________ e il telefono cellulare marca Nokia
+(IMEI n. __________) con inserita la carta SIM __________ (v. AI 11, verb. di
+sequestro);
+-
+con istanza 23/26 marzo 2004, __________ chiede dissequestro dei
+suddetti telefoni cellulari, ciò in quanto, “quale paziente di __________ ormai
+prossimo al passaggio al terzo periodo”, non possiede “i soldi necessari
+all’acquisto di un telefono nuovo”;
+-
+con osservazioni 29/30 marzo 2004 il magistrato inquirente dichiara di
+opporsi al dissequestro in quanto è intenzionato a chiedere la confisca dei due
+telefoni cellulari, ritenuto che gli stessi sono stati utilizzati per lo
+spaccio di eroina;
+-
+con lettera 5 aprile 2004 il dr. jur. __________, patrocinatore
+dell’istante, dichiara di rimettersi al giudizio di questo giudice;
+-
+l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il sequestro
+di tutti gli oggetti che possono avere importanza per l’istruzione del
+processo, alternativamente o cumulativamente come mezzi di prova o in quanto
+passibili di confisca o devoluzione allo Stato. Il sequestro, per la sua
+qualità di provvedimento eminentemente cautelare, ha lo scopo di acquisire e
+conservare gli oggetti di cui sopra al seguito della procedura e quindi per le
+necessità dell’istruzione preliminare, per decisioni del magistrato requirente
+e quelle del giudice del merito, come evidenziato nella duplice prospettiva -
+alternativa o cumulativa - della produzione e valutazione delle prove
+(sequestro probatorio) e delle decisioni di confisca, restituzione o
+devoluzione (sequestro confiscatorio) (v. decisione 8 maggio 1998, inc.
+GIAR 516.97.3, in: Rep. 131 [1998] nr. 117, consid.
+1a p.
+359);
+-
+in materia di sequestro, nel lasso di tempo che intercorre tra
+l’emanazione dell’atto di accusa e l’apertura del dibattimento, la CRP
+(30.7.2002 in re B, inc. 60.2002.00174) ha constatato un “vuoto legislativo” e
+l’ha colmato assegnando tale competenza al GIAR. Non v’è ragione perché quanto
+detto dalla CRP nella sentenza citata non valga anche in tema di dissequestro.
+Di conseguenza questo giudice ha riconosciuto la sua competenza per decidere
+(comunque e sempre in via incidentale) istanze di dissequestro presentate dopo
+l’emanazione dell’atto d’accusa e prima dell’apertura del dibattimento (un
+chiarimento tra le varie autorità coinvolte ha confermato questa conclusione;
+cfr. decisione 14 ottobre 2003, doc. 12, inc. GIAR 268.1997.2);
+-
+questo giudice è dunque competente ad esaminare l’istanza 23/26 marzo
+2004, trattandosi di istanza giunta dopo l’emanazione dell’atto d’accusa;
+-
+a giusta ragione il Procuratore pubblico evidenzia che i due telefoni
+cellulari di cui è chiesto il dissequestro sono stati utilizzati da __________
+per intrattenere i contatti per i propri traffici di eroina; ciò risulta
+inequivocabilmente dalle dichiarazioni rese in sede istruttoria dall’accusato
+(v. verb. PO 16.5.2003 p. 2 e 5.6.2003 p. 1) e dai correi (v. verb. PO
+21.2.2003 p. 2 e 5.3.2003 p. 1 di __________; verb. PO 21.5.2003 p. 1 di
+__________); trattasi dunque di strumenti che sono serviti a perfezionare i
+reati per i quali __________ è perseguito;
+-
+il mantenimento del sequestro appare dunque necessario per salvaguardare
+mezzi di prova, che sono per altro passibili di confisca;
+-
+l’istanza è conseguentemente respinta, con la presente decisione
+suscettibile di gravame alla Camera dei ricorsi penali (art. 284 cpv. 1 lett. a
+CPP), senza carico di tassa e di spese giudiziarie.
+Per questi motivi,
+visti i citati articoli di legge,
+decide:
+1.
+L’istanza
+è respinta.
+2.
+Non
+si prelevano nè tassa nè spese di giustizia.
+3.
+Contro
+la presente decisione è dato ricorso alla Camera dei ricorsi penali entro dieci
+giorni dall’intimazione.
+4.
+Intimazione:
+-    PP
+__________ (con copia delle osservazioni 5 aprile 2004 del dr. jur.
+__________);
+-    __________
+(con copia delle osservazioni 29/30 marzo 2004 del magistrato inquirente e 5
+aprile 2004 del dr. jur__________;
+-    dr. jur. __________
+(con copia delle osservazioni
+29/30 marzo 2004 del magistrato inquirente);
+-    Presidente della Corte delle
+assise correzionali, Via Pretorio 16, 6900 Lugano
+(con copia delle osservazioni
+29/30 marzo 2004 del magistrato inquirente e 5 aprile 2004 del dr. jur.
+__________ e l’incarto 72.2003.75 di ritorno).
+giudice
+__________
