@@ -1,0 +1,256 @@
+---
+decision_id: "ti_gerichte_INC.2000.46304"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.46304"
+decided: "2001-01-26"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59665&nX40_KEY=4711455&nTrefferzeile=61&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-025.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.2000.46304
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 26.01.2001 INC.2000.46304
+Tessin Il Giudice dell'istruzione e dell'arresto 26.01.2001 INC.2000.46304
+Ticino Il Giudice dell'istruzione e dell'arresto 26.01.2001 INC.2000.46304
+
+Sentenza o decisione senza scheda
+
+N. 463.2000.4 L                                                         Lugano,
+26 gennaio 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull’istanza
+presentata il 17 gennaio 2001 dal
+Procuratore pubblico
+straordinario
+dott. __________
+intesa ad ottenere la proroga di
+due mesi del carcere preventivo cui è astretto
+____________
+,        attualmente presso l'Ospedale
+civico di Lugano
+(patrocinato dall'avv.
+__________)
+nel procedimento pendente contro
+quest’ultimo per titolo di complicità in corruzione passiva e infrazione
+ripetuta alla legge federale concernente la dimora e il domicilio degli
+stranieri;
+viste le osservazioni 25 gennaio
+2000 dell’accusato, che postula la reiezione dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+____________, già privato della
+libertà personale a Zurigo (Rumlang) per pendente procedura estradizionale
+promossa dalla competente autorità penale italiana, è stato arrestato il 6
+agosto 2000 nel contesto del procedimento affidato al Procuratore pubblico
+straordinario per sospetta connivenza con l'ex ____________ e con l'avv.
+____________, che nel frattempo si è sposata con quest'ultimo, in relazione a
+non trasparenti transazioni finanziarie e di interessamento in procedure nelle
+competenze del coaccusato ____________, allora Presidente del Tribunale penale
+cantonale. In sostanza la promozione dell'accusa per titolo di corruzione
+attiva nei confronti di ____________ era fondata sui contatti tra questo
+accusato e ____________ con comunicazioni di notizie riservate concernenti una
+procedura di confisca, riguardante ____________, e sull'erogazione di asseriti
+prestiti dell'ordine di mezzo milione di franchi all'avv. ____________ (v.
+verbali 7 agosto 2000 dinnanzi al magistrato inquirente e di conferma
+dell'arresto dinnanzi a questo, class. PPS 7/7.1 n. 19 e 20).
+Il seguito delle emergenze
+istruttorie ha portato alla precisazione delle imputazioni in complicità in
+corruzione passiva aggravata (art. 25 CP in relazione al previgente art. 315
+CP) ed in infrazione ripetuta alla LDDS (art. 23), come alle corrispondenti
+promozioni dell'accusa del 9 novembre e del 5 dicembre 2000 (class. PPS 11, n.
+11 e 21). Mentre il secondo reato concerne entrate e permanenze irregolari di
+____________ sul territorio svizzero, l'aiuto prestato ad atti corruttivi si
+inserisce nel concreto interesse dell'ex ____________ di poter ricevere gran
+parte di una somma che sarebbe stata dissequestrata giudizialmente a favore di
+____________.
+Questo, oltre a confermare
+l'arresto all'udienza del 7 agosto 2000 ("
+considerata l'esistenza a
+carico dell'accusato di gravi e concreti indizi di colpevolezza come alla
+promozione dell'accusa, rilevabili dagli atti istruttori, nonché la presenza di
+preminenti motivi di interesse pubblico e segnatamente: il pericolo di fuga,
+l'accusato essendo cittadino italiano, con interessi all'estero, confrontato
+con divieto di entrata ed oggetto di procedura estradizionale
+[e]
+i
+bisogni dell'istruzione e segnatamente il pericolo di collusione
+"), ha
+respinto un'istanza di libertà provvisoria con decisione 23 novembre 2000 (inc.
+GIAR 463.2000.3), avendo considerato che "…
+vi sono da un lato
+sufficienti indizi di reato, ____________ avendo ammesso di aver fatto da tramite
+tra l'allora ____________ e ____________ per favorire la rimessa al primo di un
+importante somma di denaro da dissequestrare nel contesto di un procedimento di
+confisca nella competenza dello stesso ____________ (v. verbale ____________
+dell'11 agosto 2000, pag. 6 ss.; confronto
+____________ / ____________ del 17 agosto 2000 e verbale 13 ottobre 2000 di
+____________), e dall'altro vi è palese pericolo di fuga, anche solo pensando
+agli esiti della tuttora pendente procedura di estradizione (per contro non
+ricorrono obbiettivamente bisogni dell'istruzione)
+".
+Ritenuta chiusa l'istruzione
+formale, con decreto 15 dicembre 2000 (class. PPS 11, n. 22), il Procuratore
+pubblico straordinario ha disposto il deposito degli atti a norma dell'art. 196
+CPP, con termine scadente il 19 gennaio 2001.
+2.
+Con l'istanza in oggetto, il
+Procuratore pubblico straordinario chiede la proroga di due mesi del carcere
+preventivo, al quale è astretto l'accusato ____________, a ragione
+dell'evasione di eventuali complementi di prova proposti dalle parti, ritenuto
+che continuerà ad operare con la massima celerità, così da emanare l'atto di
+accusa in tempi brevi dopo la definitiva chiusura dell'istruzione formale.
+Rilevata la gravità degli addebiti, in particolare come emersi dal confronto
+tra ____________ e ____________ (v. verbale del 17 agosto 2000, class. PPS
+7/7.1, n. 6 risp. 24) con un accordo corruttivo dell'ordine di almeno fr.
+800'000.-, per cui sono dati gravi e concreti indizi di colpevolezza, il
+magistrato inquirente sostiene esistenza di pericolo di fuga per un accusato in
+attesa di estradizione e già colpito da divieto di entrata e paventa
+possibilità di collusione "
+a dipendenza di preannunciati complementi
+d'istruzione
+".
+Con le sue osservazioni,
+____________ chiede in limine la convocazione ad un'udienza, ritenuta "
+indispensabile
+oltre che utile
+" al convincimento di questo, nonché acquisizione
+documentale e testimoniale di dati medici sulla sua carcerabilità. Nel merito
+evidenzia il ridimensionamento delle accuse nei suoi confronti, con ruolo
+secondario rispetto all'autore principale, che pure - come altri - si trova in
+libertà, e sottolinea la sua collaborazione. E' bensì in corso la procedura
+estradizionale, ma questa non può essere causa della detenzione del resistente
+e non pregiudicherà la sua presenza al processo, nel suo stesso interesse.
+Quindi, avuto presente che la possibile pena verrà posta al beneficio della
+sospensione condizionale, non vi è nessun pericolo di fuga, come è escluso
+quello di collusione. La protrazione della carcerazione urta poi con il suo
+stato di salute e non rispetta il principio di proporzionalità.
+3.
+L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto,
+perdurare e proroga del carcere preventivo a' sensi dell'art. 103 CPP, quando
+esistono a carico dello stesso accusato gravi e concreti indizi di colpabilità
+per un crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali - per quanto qui concerne - i bisogni
+dell’istruzione, segnatamente per evitare collusione, ed il pericolo di fuga
+(senza dimenticare che l’arresto, quale misura processuale cautelativa, non
+serve unicamente ai bisogni dell’istruttoria, ma anche ad assicurare la
+presenza dell’accusato al processo e a garantire l’eventuale espiazione della
+pena: DTF 109 Ia 323 consid. c, e riferimenti; sentenza 16 novembre 1993 del
+Tribunale federale in re A.H., 1P.477/1993, consid. 3).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo, come già la
+Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128).
+4.
+Considerata superflua un'udienza
+per la sufficienza dello scambio degli allegati, si ha pertanto che, nella
+situazione personale e processuale in discorso, la convergenza dei presupposti
+di legge, come esplicitati ed approfonditi dalla prassi e dalla giurisprudenza,
+legittima e giustifica il perdurare della cautelare privazione della libertà
+personale, cui è astretto ____________.
+4.1
+La presenza di gravi e concreti
+indizi di colpevolezza non sono revocati in dubbio, salvo - per la difesa - a
+minimizzarli in relazione al ridimensionamento delle accuse. Anche per evitare
+pregiudizio al seguito processuale, basta in proposito quanto riassunto in
+entrata, né è qui luogo per disquisire sulle qualifiche giuridiche del
+comportamento di ____________, essendo in ogni modo opportuno osservare che, se
+pure la complicità è una diminuente, il prestarsi a manovre corruttive di un
+____________ e per importi considerevoli (la metà di quanto sarebbe stato
+dissequestrato a favore di ____________ e cioè circa fr. 800'000.-) è di
+particolare rilievo oggettivo e soggettivo.
+4.2
+Mentre di poco spessore è il
+presupposto del pericolo di collusione, quando gli accertamenti essenziali sono
+stati assicurati e non è posta in discussione la materialità dei fatti, ha
+pregio quello del pericolo di fuga, per il quale i criteri determinanti di
+giudizio sono il carattere del prevenuto, il suo domicilio, la sua professione,
+la sua situazione famigliare e i suoi legami con lo Stato in cui egli é
+inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in re S.C. del Tribunale
+federale; sentenza 20 ottobre 1994 in re M.A., CRP 314/94). L'apprezzamento di
+tutte le circostanze, per invocare appunto un rischio di fuga, deve lasciar
+presumere che le conseguenze di una fuga appaiano per l’accusato come un male
+minore rispetto a quello derivante per lui dall'ulteriore carcerazione, con
+maggior forza quanto più i reati imputati comportino pene edittali od
+eventualità di pena concreta importanti (in questo senso Mario
+Luvini
+; in REP 1989, pag. 292, con i
+riferimenti ivi indicati; sentenza
+14 novembre 1994 in re S.V., CRP
+341/94).
+____________ è cittadino
+straniero, oggetto di divieto di entrata sul territorio svizzero (punto
+rispettato), confrontato con procedura estradizionale e coinvolto nel presente
+procedimento - come detto sopra - in modo sicuramente grave che assolutamente
+non permette di avere per sicura la sospensione condizionale della pena. La
+conclusione alternativa della richiesta di estradizione - in caso di reiezione
+dell'istanza in discussione - sarebbe ben concretamente tale da sottrarre
+l'accusato alla nostra giustizia: in caso di accoglimento, egli verrebbe
+indilatamente consegnato alle autorità penali richiedenti, mentre nell'altro,
+di rifiuto, egli avrebbe maggior interesse alla latitanza rispetto al rischio
+di una condanna con possibile sua esecuzione.
+5.
+Per quanto illustrato sopra in
+punto alla gravità delle imputazioni, nell'ambito di un'istruttoria complessa
+non da ultimo per le reticenze e le divergenze tra i protagonisti, ed avuto
+presente che la privazione della libertà personale sofferta da ____________ si
+è confusa con quella della procedura estradizionale, il principio di
+proporzionalità risulta rispettato, anche con la contenuta proroga ora
+postulata.
+Quanto alla carcerabilità sotto
+il profilo dello stato di salute dell'accusato, si ripetono i rilievi della
+decisione del 23 novembre 2000: si tratta di problema di esclusiva competenza
+clinica, se del caso da verificare peritalmente per moto del Procuratore
+pubblico straordinario rispettivamente delle autorità giudiziarie che verranno
+successivamente investite del procedimento. Ed allora qui non servono accertamenti
+medici.
+6.
+Di conseguenza l’istanza di
+proroga del carcere preventivo è accolta come proposta dal magistrato
+inquirente, con la presente decisione, esente da tassa e spese giudiziarie
+(art. 39 lett. f TG e contrario), e suscettibile di impugnazione alla Camera
+dei ricorsi penali (art. 284 cpv. 1 lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.      L’istanza è accolta.
+Di conseguenza il carcere preventivo cui è astretto
+____________ è prorogato di due mesi e cioè sino al 5 aprile 2001, compreso.
+2.      Non si percepiscono né tassa né spese giudiziarie.
+3.      Contro la presente decisione è dato ricorso alla Camera dei
+ricorsi penali entro dieci giorni dall’intimazione.
+4.      Intimazione:
+-    avv. __________, per sé e per l’istante;
+-    Procuratore pubblico straordinario dott. __________ (con
+copia delle osservazioni dell’accusato);
+-    Direzione del Penitenziario cantonale, Lugano-Cadro.
+giudice
+__________
