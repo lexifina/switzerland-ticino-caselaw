@@ -1,0 +1,286 @@
+---
+decision_id: "ti_gerichte_INC.1999.51004"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.51004"
+decided: "1999-10-22"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=58261&nX40_KEY=4711480&nTrefferzeile=80&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.1999.51004
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 22.10.1999 INC.1999.51004
+Tessin Il Giudice dell'istruzione e dell'arresto 22.10.1999 INC.1999.51004
+Ticino Il Giudice dell'istruzione e dell'arresto 22.10.1999 INC.1999.51004
+
+Sentenza o decisione senza scheda
+
+N. 510.99.4 L                                                              Lugano,
+22 ottobre 1999
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 18 ottobre 1999 da
+__________
+, 1960,
+cittadino portoghese
+(patrocinato dall'avv.
+__________)
+e qui trasmessa con preavviso
+negativo il 19/20 ottobre 1999 dalla
+Procuratrice pubblica
+avv.
+__________;
+viste le osservazioni 22 ottobre
+1999 dell'accusato, che si conferma in contenuti e conclusioni dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+-
+che questo giudice ebbe ad esaminare analoga istanza presentata il 19
+agosto 1999 e respinta con decisione 27 agosto 1999 (inc. GIAR 510.99.3), senza
+seguito di impugnazione alla Camera dei ricorsi penali, per cui si può fare
+ampiamente capo a questo giudizio, la situazione processuale dell'istante non
+essendo sostanzialmente mutata;
+-
+che sino alla fine di agosto l'accusato ha pervicacemente respinto qualsivoglia
+accusa di coinvolgimento in traffici di stupefacenti, come ai seguenti rilievi
+della menzionata decisione:
+"__________ venne arrestato il 22 luglio 1999,
+come ad ordine di arresto del giorno precedente, emanato nei suoi confronti
+dalla Procuratrice pubblica, con l'imputazione di infrazione aggravata
+subordinatamente semplice alla legge federale sugli stupefacenti, estesa poi -
+si fa per dire - a contravvenzione alla stessa legge con il deferimento a
+questo giudice, che ha confermato il provvedimento privativo della libertà.
+Sull'accusato gravavano e gravano importanti sospetti
+di ampio spaccio di cocaina, attività costantemente negata dall'interessato,
+anche al cospetto di numerose convergenti chiamate di correo…"
+-
+che dei contenuti e della portata delle ammissioni fatte dall'accusato a
+partire dal 1. settembre 1999 si dirà in seguito, quale specifica risposta agli
+assunti relativizzanti dell'istanza in oggetto;
+-
+che in effetti la libertà provvisoria fonda le sue ragioni, al di là di
+pretesa assenza di pericolo di fuga per non meglio illustrata "
+situazione
+professionale e famigliare del prevenuto
+", sull'assenza di pericolo di
+collusione, avendo ora l'accusato "
+sostanzialmente ammesso i fatti che
+gli erano stati addebitati
+" e che appaiono marginali in un suo ruolo
+ormai "
+ben definito
+";
+-
+che la Procuratrice pubblica postula la reiezione dell'istanza,
+l'inchiesta essendo ancora in corso e per di più ritardata dalle reticenze
+dell'accusato istante su modalità di partecipazione e quantitativi di stupefacenti
+trafficati al confronto di chiari indizi di colpevolezza, con permanenza quindi
+dei bisogni dell'istruzione e conferma di pericolo di recidiva e di fuga;
+-
+che le osservazioni di __________ al preavviso negativo ancora poggiano
+principalmente su di un soggettivo acritico apprezzamento delle risultanze
+istruttorie, con contestazione di maggior coinvolgimento di quanto ammesso
+(altrimenti non avrebbe "
+una montagna di debiti, relativi ai bisogni
+correnti dell'economia domestica
+") e ribadita negazione del pericolo
+di fuga ("
+per la prima volta … sollevato con il preavviso del
+Procuratore
+") e della proporzionalità del carcere preventivo rispetto
+alle necessità della famiglia ed al reinserimento dell'accusato che "
+eccezion
+fatta questo grave sbandamento, ha sempre mantenuto un ottimo comportamento
+";
+-
+che all'accusato sono note le disposizioni procedurali e la correlativa
+giurisprudenza in tema di privazione della libertà personale, come alla
+precedente decisione, e meglio:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso) proroga del
+carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello
+stesso accusato gravi e concreti indizi di colpabilità per un crimine o un
+delitto e nel contempo sono presenti preminenti motivi di interesse pubblico,
+quali - per quanto qui concerne - i bisogni dell'istruzione, il pericolo di
+recidiva ed eventualmente quello di fuga (senza dimenticare che l’arresto,
+quale misura processuale cautelativa, non serve unicamente ai bisogni
+dell’istruttoria, ma anche ad assicurare la presenza dell’accusato al processo
+e a garantire l’eventuale espiazione della pena: DTF 109 Ia 323 consid c, e
+riferimenti; sentenza 16 novembre 1993 del Tribunale federale in re A.H.,
+1P.477/1993, consid. 3).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+-
+che allora mantengono validità sufficienti presupposti di legge, proprio
+come esplicitati dalla prassi e dalla giurisprudenza, nella situazione
+personale e processuale di __________ a legittimare e giustificare il perdurare
+della cautelare privazione della sua libertà, sino al dibattimento processuale;
+-
+che non occorre oggi diffondersi sull'esistenza di importanti e concreti
+indizi di colpevolezza, non più contestati, dopo l'inizio di ammissioni di
+collaborazioni, acquisti e vendite fatte a verbale di polizia del 1. settembre
+1999 e confermate dinnanzi alla magistrata inquirente il 27 settembre 1999;
+-
+che tuttavia __________ persiste in reticenza e, quando ammette,
+contesta al ribasso i quantitativi venduti, rispetto a credibili chiamate di
+correo (perché l'esperienza e il corso normale delle cose escludono
+maggiorazioni per chi confessa, salvo deteriori intenti di vendetta, qui punto
+evidenti), come al seguente significativo esempio (verbale 27 settembre 1999
+dinnanzi alla Procuratrice pubblica, pag. 2):
+"
+La
+verbalizzante rileva che vi sono anche altre persone che sostengono di aver
+acquistato cocaina da me, nel periodo 1998/1999 …:
+o
+__________, 15 gr. A Frs. 150.--/gr; rispondo che non è
+assolutamente vero quello che afferma __________. Mi viene mostrata la
+fotocopia della foto no. 52691 e riconosco la persona alla quale ho
+effettivamente venduto gr. 3 di cocaina al massimo e non gr. 15 come da lui
+affermato. Non conosco il nome di questa persona, che la verbalizzante mi dice
+essere appunto __________.
+-
+che inoltre non vanno dimenticati altri episodi tuttora negati
+dall'accusato, quali le forniture di cocaina fattegli da certo __________ nei
+quantitativi da 50 a100 g. alla settimana per più mesi, di contro alle gratuite
+minimizzazioni dell'istanza e poi ancora delle osservazioni al preavviso
+negativo (nonostante la disponibilità dei verbali contenenti le chiamate di
+correo: v. lettera di trasmissione 12 ottobre 1999 del Ministero pubblico), per
+cui appare evidente il pericolo di collusione, valendo in proposito quanto
+sottolineato nella precedente decisione:
+"__________ è fortemente reticente e bugiardo ad
+evidente scopo di salvamento ed è quindi certo che in libertà avrebbe
+l'occasione di avvicinare fornitori, clienti e conoscenti - ed in particolare
+persone non ancora identificate - per ottenere versioni a lui favorevoli, ma
+contrarie a verità ed a giustizia."
+-
+che in proposito a poco vale trarre argomentazioni dalla situazione
+debitoria dell'accusato, semmai da ascrivere a comportamenti personali connessi
+con la frequentazione di esercizi notturni;
+-
+che l'istanza, in uno con le osservazioni, non spende una parola per
+contrastare l'assunto del pericolo di recidiva evidenziato nella precedente
+decisione, che allora va nuovamente riprodotto, di poca influenza essendo la
+riduttive ammissioni di questi ultimi tempi:
+"L'illustrato comportamento dell'accusato istante
+consente di considerare dato il presupposto del pericolo di recidiva,
+richiamando come lo stesso debba essere concreto (DTF 105 Ia 31) e risultare da
+una valutazione dell’insieme delle circostanze, tra cui i precedenti
+dell’accusato, il suo comportamento durante l’istruttoria, la sua personalità,
+la sua costituzione fisica e soprattutto psichica e le modalità di commissione
+dei reati che gli vengono addebitati, così che la
+reiterazione appaia assai verosimile (LUVINI, loc. cit., pag. 294; Gérard
+PIQUEREZ, Précis de procédure pénale suisse, Lausanne 1987, n. 1186/7).
+Negare l'evidenza significa - anche e nel contempo -
+mancata presa di coscienza dell'intollerabilità dei reati commessi e
+prospettiva di ripresa di lucroso traffico di stupefacenti, con la soggettiva
+convinzione di tolleranza per una scarcerazione senza completazione degli
+accertamenti istruttori e senza confronto di pena. L'attività lavorativa ed i
+rapporti famigliari non seppero minimamente trattenere l'accusato, per cui è
+pura ipotesi che nel futuro possano avere risvolti positivi, per rapporto anche
+ad una situazione economica - se regolare - non di certo brillante (come appare
+dai procedimenti esecutivi in corso, attestati dalla documentazione prodotta
+con l'istanza 26 agosto 1999 di ammissione
+al
+gratuito patrocinio)."
+-
+che del pari è il discorso sul pericolo di fuga, che permane - sempre
+come al precedente giudizio, indipendentemente dal fatto che la magistrata
+inquirente non l'abbia personalmente sollevato per prima - anche accentuato
+ormai dalle ammissioni e dalle contestazioni di precisi fatti:
+"Per quanto concerne il pericolo di fuga, si
+ricorda che i criteri determinanti per stabilire se questo presupposto sia dato
+o meno sono il carattere del prevenuto, il suo domicilio, la sua professione,
+la sua situazione famigliare e i suoi legami con lo Stato in cui egli é
+inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in re S.C. del Tribunale
+federale; sentenza 20 ottobre 1994 in re M.A., CRP 314/94). L'apprezzamento di
+tutte le circostanze, per invocare appunto un rischio di fuga, deve lasciar
+presumere che le conseguenze di una fuga appaiano per l’accusato come un male
+minore rispetto a quello derivante per lui dall'ulteriore carcerazione, con
+maggior forza quanto più i reati imputati comportino pene edittali od
+eventualità di pena concreta importanti (in questo senso Mario
+Luvini
+; in REP 1989, pag. 292, con i
+riferimenti ivi indicati; sentenza
+14 novembre 1994 in re S.V., CRP
+341/94).
+La Procuratrice pubblica non insiste sul ricorrere di
+questo presupposto ad impedire scarcerazione. Tuttavia il descritto
+atteggiamento dell'accusato istante consente di ritenere per concreta la scelta
+della fuga e della latitanza al cospetto della prospettiva ormai certa di
+essere riconosciuto colpevole di spaccio di stupefacenti e verosimile di
+importante privazione della libertà personale. __________ mantiene forti
+contatti con il suo paese d'origine, tanto che le figlie minori vi sono rimaste
+sino alla fine della scolarità, qui arrivando solo lo scorso mese di luglio,
+con richiesta 9 agosto 1999 di permesso di dimora (allegata all'istanza 26
+agosto per la concessione del gratuito patrocinio). Si tratta in ogni modo di
+valutazione abbondanziale rispetto alle altre ragioni che impediscono
+accoglienza dell'istanza ed in certo qual senso alternativa al pericolo di
+recidiva."
+-
+che, anche presentemente, il carcere preventivo
+sin qui sofferto e ipotizzabile sino al deferimento al giudice del merito, in
+un procedimento che risulta essere condotto con coerente sollecitudine
+nonostante l’atteggiamento nella sostanza tuttora inutilmente defatigatorio
+dell’accusato, è pienamente rispettoso del principio di proporzionalità, tenuto
+anche conto
+del complesso dei fatti da accertare e delle persone coinvolte, nonché della
+prevedibile pena privativa della libertà - come già osservato - verosimilmente
+da espiare (passando in secondo piano tanto la certamente difficile situazione
+della famiglia, quanto la proclamata volontà di reinserimento);
+-
+che, se la precedente istanza era stata definita
+inconsistente per rapporto alla realtà processuale, la presente è per altro
+verso inaccettabile, la difesa dovendo essere cognita dell'inaffidabilità delle
+asserzioni dell'accusato e non avendo per nulla ponderato le conclusioni della
+decisione negativa del 27 agosto 1999, ed allora questo nuovo identico giudizio
+rimane esente da tassa e spese giudiziarie (art. 39 lett. f TG e contrario) e
+suscettibile di impugnazione alla Camera dei ricorsi penali (art. 284 cpv. 1
+lett. a CPP), ma le corrispondenti prestazioni professionali del patrocinatore
+non verranno riconosciute nel contesto del beneficio del gratuito patrocinio;
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-
+avv. __________, per sé e per l’istante;
+-
+Procuratrice pubblica avv. __________ (con copia delle osservazioni
+dell’istante e con gli atti dell’incarto MP 4309/1999 di ritorno).
+giudice
+__________
