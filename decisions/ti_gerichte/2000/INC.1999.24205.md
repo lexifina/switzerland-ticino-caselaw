@@ -1,0 +1,85 @@
+---
+decision_id: "ti_gerichte_INC.1999.24205"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.24205"
+decided: "2000-02-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56900&nX40_KEY=4711474&nTrefferzeile=49&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-197.md"]
+---
+
+# TI Gerichte INC.1999.24205
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 25.02.2000 INC.1999.24205
+Tessin Il Giudice dell'istruzione e dell'arresto 25.02.2000 INC.1999.24205
+Ticino Il Giudice dell'istruzione e dell'arresto 25.02.2000 INC.1999.24205
+
+Sentenza o decisione senza scheda
+
+N. 242.99.5 L                                                           Lugano,
+25 febbraio 2000
+N. 243.99.5 L
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sulle
+istanze presentate il 15 febbraio 2000 dalla
+Procuratrice pubblica
+avv. __________,
+intese ad ottenere una nuova
+proroga di un mese del carcere preventivo cui sono astretti
+__________
+,            __________, attualmente presso il
+Penitenziario cantonale
+(patrocinato dall’avv.
+__________)
+e
+__________
+,                     __________, attualmente
+presso il Penitenziario cantonale
+(patrocinata dall’avv.
+__________)
+nel procedimento contro di loro
+pendente in istruttoria per vari titoli di reato;
+viste le osservazioni 21 febbraio
+2000 di __________, che si oppone all'istanza, mentre __________ non ha preso
+posizione nel termine all'uopo assegnatogli;
+atteso che:
+-    la proroga è stata prudenzialmente chiesta per consentire la
+chiusura dell'istruzione formale, con l'esaurimento della procedura probatoria
+e meglio dei complementi proposti da __________, mantenendo in essere la
+privazione della libertà personale degli accusati, dati per presenti in
+proposito tutti i presupposti di legge, a mente della magistrata inquirente;
+-    con decisione odierna (GIAR 242.99.6), questo giudice ha respinto
+il reclamo di __________ in materia di complementi di prova, per cui
+l'istruttoria va chiusa, con notifica alle parti a norma dell'art. 197 CPP;
+-    allora la carcerazione preventiva continua entro i termini di
+legge per formulare l'atto di accusa e poi per aggiornare il processo (art. 102
+cpv. 3 CPP) e conseguentemente le istanze di proroga in discorso diventano
+prive di oggetto;
+-    la presente decisione è ovviamente esente da tassa e spese
+giudiziarie e non comporta ripetibili per __________, in quanto al beneficio del
+gratuito patrocinio;
+richiamati i citati articoli di
+legge;
+decide:
+1. Le istanze sono evase, in
+quanto prive di oggetto.
+2. Non si percepiscono né tassa
+né spese giudiziarie.
+3. Intimazione:
+-   avv. __________, per sé e per
+__________;
+-    avv. __________, per sé e per __________;
+-   Procuratrice pubblica avv.
+__________.
+Giudice __________
