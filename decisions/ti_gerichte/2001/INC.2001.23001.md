@@ -1,0 +1,74 @@
+---
+decision_id: "ti_gerichte_INC.2001.23001"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.23001"
+decided: "2001-06-19"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59775&nX40_KEY=4711447&nTrefferzeile=19&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2001.23001
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 19.06.2001 INC.2001.23001
+Tessin Il Giudice dell'istruzione e dell'arresto 19.06.2001 INC.2001.23001
+Ticino Il Giudice dell'istruzione e dell'arresto 19.06.2001 INC.2001.23001
+
+Sentenza o decisione senza scheda
+
+N. 230.2001.1 M                                                        Lugano,
+19 giugno 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per
+statuire sul reclamo inoltrato in data 23 aprile 2001 da
+__________
+,
+(patrocinato
+dall’avv. __________)
+avverso
+l’ordine di perquisizione e sequestro emanato in data 4 marzo 2001 dal
+Procuratore
+Pubblico
+avv. __________, Lugano, nell’ambito del procedimento penale
+avviato nei confronti del reclamante per titolo di truffa, appropriazione
+indebita, amministrazione infedele e falsità in documenti;
+preso atto
+che con dichiarazione a verbale MP 9 maggio 2001, il reclamante ha ritirato il
+presente gravame, ciò di cui viene dato atto con la presente decisione,
+impugnabile entro 10 giorni presso la Camera dei ricorsi penali ed esente da
+tassa e spese di giustizia;
+ritenuto, abbondanzialmente,
+come l’esito del gravame – comunque irricevibile – impedisca l’attribuzione di
+ripetibili;
+in
+applicazione degli artt. 280 ss. e 284 cpv. 1 lit. a CPP
+decide:
+1.
+Il
+reclamo 23/24 aprile 2001 è stralciato dai ruoli a seguito del suo ritiro.
+2.
+Non
+si prelevano tassa né spese di giudizio, e non si attribuiscono ripetibili.
+3.
+Contro
+la presente decisione è dato, entro dieci giorni dall’intimazione, il rimedio
+del ricorso alla Camera dei ricorsi penali del Tribunale di appello in Lugano;
+4.
+Intimazione:
+-
+avv. __________, per sé e per il denunciato reclamante;
+-
+avv. __________, per sé e per il denunciante;
+-    Procuratore Pubblico avv.
+__________, Lugano.
+giudice __________
