@@ -1,0 +1,211 @@
+---
+decision_id: "ti_gerichte_INC.1997.42804"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1997.42804"
+decided: "2005-01-17"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56801&nX40_KEY=4711288&nTrefferzeile=29&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.1997.42804
+
+## Regeste
+
+Rifiuto proroga termine per deposito atti
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 17.01.2005 INC.1997.42804
+Tessin Il Giudice dell'istruzione e dell'arresto 17.01.2005 INC.1997.42804
+Ticino Il Giudice dell'istruzione e dell'arresto 17.01.2005 INC.1997.42804
+
+Rifiuto proroga termine per deposito atti
+
+Incarto n.
+INC.1997.42804
+Lugano
+17 gennaio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire sul
+reclamo presentato il 30 dicembre 2004/3 gennaio 2005 da
+__________
+, __________
+(rappr. dall'avv.
+__________, __________)
+contro
+la decisione 23 dicembre
+2004 del Procuratore pubblico Giuseppe Muschietti, che rifiuta una proroga
+del deposito degli atti (su complemento) ordinato il 6 dicembre 2004
+nell'ambito dell'inc. MP __________;
+viste le osservazioni del magistrato inquirente (5
+gennaio 2005) e della parte civile __________ (14 gennaio 2004);
+preso atto che la parte civile __________ non ha
+presentato osservazioni nel termine assegnato;
+visto l'inc. MP __________, limitatamente agli AI da
+70 a 90;
+ritenuto e considerato
+in fatto ed in diritto
+che:
+-
+per quanto concerne i fatti alla
+base del procedimento penale si può far capo a quanto detto in precedente
+decisione (sentenza 13 febbraio 2003, GIAR 428.1997.2), e meglio:
+"
+A.
+Per quanto è stato possibile
+ricostruire (visto che né il reclamante né l'osservante si sono dati la pena di
+riassumere con chiarezza i fatti essenziali per le varie ipotesi di reato
+oggetto dei complementi richiesti, rispettivamente rifiutati, o di indicare gli
+atti che le contengono - sfiorando così anche l'irricevibilità, rispettivamente
+l'accoglimento, del reclamo per carenza di motivazione), nei confronti di
+__________ è stata promossa l'accusa per il reato di truffa con l'intimazione,
+il 23 giugno 1997, dell'ordine d'arresto emanato il 16 giugno 1997. L'ordine in
+questione non contiene alcuna indicazione sui fatti oggetto d'inchiesta; dal
+contenuto del verbale reso alla polizia dall'accusato quello stesso 23 giugno,
+si desume che l'ipotesi di reato concerne la "ricezione" di una somma
+di FRS 30'000.--, nonché di una ulteriore somma di FRS 230'000.-- (pur se con
+modalità diverse e coinvolgenti altre persone), da tale ____________________
+tra il 1995 ed il 1996  (cfr. verbale PS __________ 23.06.1997).
+Il 28 luglio 1997 (Verbale PP
+__________ 28.07.1997) all'accusato viene contestata una ulteriore ipotesi di
+truffa, ai danni di tale __________ (verosimilmente già oggetto di una
+contestazione davanti alla polizia).
+In data 8.11.2002 vi sono ulteriori
+estensioni dell'accusa nei confronti del qui reclamante.
+Per l'episodio relativo ai FRS
+30'000.--, di cui si è detto sopra, si formalizza l'ipotesi (alternativa) di
+appropriazione indebita; alle ipotesi accusatorie si aggiunge anche quella di
+furto, in relazione alla "sottrazione dell'orologio ROLEX ai danni di
+__________ " (verbale SG+PP __________ 8.11.2002 ore 15.30, p.5: inc. MP
+__________ e 6334/1997). Da ultimo, con ulteriore verbale di identica data
+(inc. 1591/2000), Pace viene formalmente accusato d'infrazione alla LFStup e
+riciclaggio di denaro (Verbale SG+PP __________ 8.11.2002, p.4).
+Come questi verbali si siano
+concatenati temporalmente (uno risulta iniziato alle 15.00 e conclusosi alle
+17.10, l'altro, rispettivamente, alle 15.30 e alle 17.15) è un piccolo mistero
+che può restare tale, vista la presenza del difensore in entrambe le
+verbalizzazioni."
+-
+un primo deposito degli atti ha
+avuto luogo il 21.11.2002 e, con sentenza 13 febbraio 2003, il GIAR ha accolto
+parzialmente una richiesta di complemento istruttorio (richiesta di audizione
+di due persone; cfr. inc. GIAR 428.1997.2);
+-
+con ulteriore decisione del 29
+marzo 2004, sempre il GIAR, constatando evasione solo parziale dei complementi
+ammessi il 13 febbraio 2003, ordinava completazione della raccolta di prove
+(inc. GIAR 428.1997.3);
+-
+il relativo verbale
+d'interrogatorio (precedentemente mancante) è pervenuto al Ministero pubblico
+il 3 dicembre 2004 (AI 82); in data 6 dicembre 2004, il magistrato inquirente
+ha proceduto al deposito (ex art. 196 cpv. 4 CPP) fissando il temine, per
+eventuali ulteriori richieste di complemento, al 23 dicembre 2004 (AI 83);
+-
+con scritto 22 dicembre 2004, la
+difesa di __________, segnalando di non aver ancora ricevuto i documenti
+richiesti e non aver ormai più occasione di incontrare il cliente, ha chiesto
+una proroga del termine di scadenza del deposito degli atti fino al 15 gennaio
+2004 (AI 85);
+-
+il Procuratore pubblico ha
+respinto la richiesta (ritenendola lesiva del principio di proporzionalità)
+dopo aver constatato che gli atti sono stati visionati il 20 dicembre 2004 e la
+richiesta di fotocopie concerne un solo documento (AI 82, verbale __________ di
+tre pagine, più la documentazione di trasmissione della rogatoria);
+-
+con il reclamo oggetto della presente,
+la difesa ribadisce che non avendo ricevuto i documenti richiesti il 22
+dicembre, non era più in grado di organizzare un incontro con il cliente per
+valutare la necessità di ulteriore complemento; a suo dire la richiesta non
+viola alcun principio di proporzionalità, applicabile agli organi statali e non
+ai privati (doc. 1 inc. GIAR 428.1997.4);
+-
+con le osservazioni del 5 gennaio
+2005 (doc. 4, inc. GIAR 428.1997.4), il magistrato inquirente ribadisce (e
+precisa) quanto detto nella decisione impugnata, sottolineando che i motivi
+addotti a sostegno della richiesta di proroga non meritavano accoglimento in
+quanto generici e non pertinenti;
+-
+posizione analoga è espressa dalla
+parte civile osservante (doc. 5, inc. GIAR 428.1997.4);
+-
+__________, accusato e destinatario
+della decisione impugnata è certamente legittimato al reclamo;
+-
+giusta l'art. 196 CPP, il termine
+per il deposito degli atti (anche per quelli oggetto di un complemento) non
+deve essere inferiore ai quindici giorni; il termine è prorogabile e il codice
+di rito non indica i motivi particolari che giustificano una proroga (o un
+termine più lungo), quindi lascia una certa libertà al magistrato inquirente;
+questo giudice ritiene, pertanto, di dover intervenire unicamente laddove si
+verifica un abuso di diritto manifesto, una violazione della buona fede e/o una
+limitazione di fatto dei diritti delle parti;
+-
+nel caso in esame, non emerge
+dagli atti (né è sostenuto nel reclamo) che la decisione impugnata configuri
+una delle caratteristiche di cui al considerando che precede;
+-
+infatti, la scadenza del termine
+(23 dicembre 2004) era nota sin dal 7 dicembre 2004 ed è da quel momento che si
+poteva prevedere un incontro tra difensore ed accusato; non vi è ragione alcuna
+per attendere il 20 o 22 dicembre; in caso contrario basterebbe che difensore o
+accusato prendano visione degli atti la mattina del giorno di scadenza del
+termine per giustificare una proroga, senza contare che entrambi (accusato e
+difensore) hanno diritto a visionare gli atti;
+-
+non cambia la conclusione di cui
+sopra il fatto che le fotocopie richieste non erano ancora pervenute al
+difensore il 22 dicembre; non è necessario determinare in questa sede se la
+facoltà di ricevere copia degli atti costituisca parte integrante del accesso
+agli atti che permette l'esercizio dei diritti (cfr. artt.
+58 e 60 CPP; DTF 116 Ia 327; G. Piquerez, Procédure
+pénale suisse, n. 777), ritenuto come non risulti (e neppure é sostenuto dal
+reclamante) che sia stata rifiutata la consegna immediata delle fotocopie richieste
+o di quanto previsto dall'art. 196 cpv. 2 CPP, fermo restando (come detto
+sopra) che chi dovesse attendere l'ultimo giorno per formulare richieste di
+fotocopie non può pretendere, per questo solo motivo una proroga del termine di
+deposito;
+-
+tenuto conto anche
+dell'oggetto del deposito atti (sostanzialmente un verbale di tre pagine) e del
+fatto che l'accesso allo stesso è comunque avvenuto (il 20 dicembre), la
+decisione del magistrato inquirente non lede il diritto dell'accusato di fruire
+delle facilità necessarie per un corretto esercizio del diritto di difesa (cfr.
+Piquerez, op. cit., n. 1249 ss);
+-
+a scanso di equivoci si
+precisa che la presente decisione tralascia (per i motivi indicati nei considerandi
+che precedono) non si esprime sull'opportunità della decisione né sulla
+corretta e/o completa evasione dei complementi precedentemente ammessi; solo ci
+si esprime sul fondamento della richiesta di proroga e sul rifiuto della
+stessa;
+-
+in conclusione, il
+reclamo deve essere respinto con la presente decisione, definitiva a livello
+cantonale; tasse e spese seguono la soccombenza.
+P.Q.M.
+viste le norme applicabili citate, in
+particolare gli artt.196, 280 e 284
+e contrario
+CPP,
+decide
+1.
+Il reclamo è respinto.
+2.
+La tassa di giustizia di FRS 200.- e le
+spese di FRS 50.- sono a carico del reclamante. Non si assegnano ripetibili.
+3.
+Intimazione:
+-
+giudice
+Edy Meli
