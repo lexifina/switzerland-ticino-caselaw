@@ -1,0 +1,232 @@
+---
+decision_id: "ti_gerichte_INC.2000.76602"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.76602"
+decided: "2001-01-31"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59676&nX40_KEY=4711455&nTrefferzeile=22&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2000.76602
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 31.01.2001 INC.2000.76602
+Tessin Il Giudice dell'istruzione e dell'arresto 31.01.2001 INC.2000.76602
+Ticino Il Giudice dell'istruzione e dell'arresto 31.01.2001 INC.2000.76602
+
+Sentenza o decisione senza scheda
+
+N. 766.2000.2 L                                                         Lugano,
+31 gennaio 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 22 gennaio 2001 da
+____________
+,          attualmente presso le Carceri
+pretoriali di Mendrisio
+(patrocinato
+dall'avv. __________)
+e qui trasmessa con preavviso
+negativo il 26/29 gennaio 2001 dal
+Procuratore pubblico
+avv. __________;
+viste le osservazioni 31 gennaio
+2001 dell'accusato, che si conferma in contenuti e conclusioni dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+____________ venne arrestato dopo
+la mezzanotte del 5 dicembre 2000, scovato all'interno di uno stabile, dove - a
+suo dire - era penetrato in combutta con altri per sottrarre un televisore (v.
+rapporto di arresto e annesso verbale,
+doc. 1 - secondo l'attuale numerazione - dell'inc. __________, e verbale di
+conferma dell'arresto, doc. 8): nei suoi confronti è stata quindi promossa
+l'accusa per titolo di furto, danneggiamento, violazione di domicilio e
+infrazione alla legge federale sulla dimora e il domicilio degli stranieri
+(doc. 2).
+Dopo negazione di partecipazione
+ad altri furti (verbale di polizia 7 dicembre 2000: "
+Alla domanda degli
+agenti interroganti rispondo dicendo che per quanto mi riguarda non ho commesso
+altri furti in territorio Svizzero
+"), anche al cospetto di sue
+impronte digitali (verbale di polizia 11 dicembre 2000), e confrontato con le
+prime ammissioni del correo ____________ (suo verbale di polizia 12 dicembre
+2000), ____________ ha via via ammesso la partecipazione a numerosi furti.
+Complessivamente e per quanto sin qui accertato, l'accusato istante ha così
+commesso con altri 14 furti di autovetture e 4 di parti staccate di automobili,
+6 furti con scasso in automobili e in magazzini e 3 furti d'uso: il valore
+della refurtiva ammonta ad oltre fr. 350'000 (v. riassunto del 24 gennaio 2001,
+doc. 50)
+2.
+L'istanza di libertà provvisoria
+sottolinea la conclusione delle indagini, grazie alla collaborazione degli
+accusati, anche spontanea, con comportamento processuale quindi "
+eccezionalmente
+positivo
+": d'altro canto, nonostante l'apparenza del numero di furti
+commessi, la loro sostanza "
+non si configura certo tra le più gravi
+",
+tanto da poter prevedere la sospensione condizionale della pena. Non vi è
+pertanto più pericolo di collusione, mentre - tenuto conto anche di problemi di
+salute - l'opportunità ed anche la necessità di riprendere l'attività
+lavorativa, la residenza stabile a pochi chilometri dal confine con la Svizzera
+e l'inconsistenza dei precedenti penali escludono pericolo di fuga e di
+recidiva.
+Sinteticamente il preavviso
+negativo del Procuratore pubblico rinvia alla gravità degli addebiti, con la
+necessità di procedere agli interrogatori istruttori conclusivi, e fa cenno di
+riserva della prognosi, da valutare in aula in uno con il pericolo di recidiva.
+Vi è comunque pericolo di fuga, per la situazione personale dell'accusato
+istante. In ogni modo il principio di proporzionalità è rispettato.
+____________, nelle sue
+osservazioni al preavviso negativo, assevera che il magistrato inquirente non
+ha sostanziato alcun presupposto a giustificazione del mantenimento del carcere
+preventivo, a parare il pericolo di fuga potendo bastare il versamento di una
+cauzione. Per quanto concerne la proporzionalità, questa sarà violata, per i
+tempi lunghi di aggiornamento del processo, "
+tenendo conto del notorio
+carico di lavoro del Tribunale penale
+".
+3.
+L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali - per quanto qui concerne - i bisogni
+dell'istruzione, il pericolo di recidiva e quello di fuga (senza dimenticare
+che l’arresto, quale misura processuale cautelativa, non serve unicamente ai
+bisogni dell’istruttoria, ma anche ad assicurare la presenza dell’accusato al
+processo e a garantire l’eventuale espiazione della pena: DTF 109 Ia 323
+consid. c, e riferimenti; sentenza 16 novembre 1993 del Tribunale federale in
+re A.H., 1P.477/1993, consid. 3).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128).
+4.
+Sufficienti presupposti di legge,
+come anche esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di ____________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà, sino al dibattimento
+processuale.
+Si aggiunge che i problemi di
+salute, peraltro di qui ignota gravità, sfuggono alla competenza di questo
+giudice, la valutazione della carcerabilità essendo del medico.
+4.1
+Gravi e concreti indizi di
+colpevolezza emergono dalle ammissioni dello stesso accusato istante e non sono
+ovviamente contestati, per cui bastano i riferimenti in entrata. I reati
+commessi non vanno tuttavia banalizzati, come preteso nell'istanza: si è
+trattato infatti di un'attività criminosa finalizzata e importante per numero
+di colpi messi a segno, con costanza e ripetitività, dai risultati alquanto
+impressionanti per il valore complessivo della refurtiva.
+4.2
+Neppure si può dire che
+____________ sia stato pienamente collaborante, come rilevato sopra, e
+l'istruttoria deve essere ancora conclusa con i dovuti chiarimenti dinnanzi al
+Procuratore pubblico (che si vogliono solleciti), eventualmente con confronti
+da eseguire senza tema di collusione, nell'interesse di puntuale accertamento
+della verità, anche a vantaggio degli stessi accusati.
+4.3
+L'illustrato comportamento criminoso
+consente di considerare dato il presupposto del pericolo di recidiva,
+richiamando come lo stesso debba essere concreto (DTF 105 Ia 31) e risultare da
+una valutazione dell’insieme delle circostanze, tra cui i precedenti
+dell’accusato, il suo comportamento durante l’istruttoria, la sua personalità,
+la sua costituzione fisica e soprattutto psichica e le modalità di commissione
+dei reati che gli vengono addebitati, così che la reiterazione appaia assai
+verosimile (LUVINI, loc. cit., pag. 294; Gérard PIQUEREZ, Précis de procédure
+pénale suisse, Lausanne 1987, n. 1186/7).
+In questo ambito il peso deriva
+dall'elevato numero di azioni finalizzate a preciso profitto, senza alcuna
+remora né ritegno, così che l'ottenimento della libertà provvisoria - dopo
+relativamente breve carcerazione - sarebbe tale da infondere sentimento
+minimalista su quanto commesso, se non addirittura di impunità, allora con
+facile ricaduta negli stessi reati.
+4.4
+Per quanto concerne il pericolo
+di fuga, si ricorda che i criteri determinanti per stabilire se questo
+presupposto sia dato o meno sono il carattere del prevenuto, il suo domicilio,
+la sua professione, la sua situazione famigliare e i suoi legami con lo Stato
+in cui egli é inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in re S.C.
+del Tribunale federale; sentenza 20 ottobre 1994 in re M.A., CRP 314/94).
+L'apprezzamento di tutte le circostanze, per invocare appunto un
+rischio di fuga, deve lasciar presumere che le conseguenze di una fuga appaiano
+per l’accusato come un male minore rispetto a quello derivante per lui
+dall'ulteriore carcerazione, con maggior forza quanto più i reati imputati
+comportino pene edittali od eventualità di pena concreta importanti (in questo
+senso Mario
+Luvini
+; in REP 1989,
+pag. 292, con i riferimenti ivi indicati; sentenza
+14 novembre 1994 in
+re S.V., CRP 341/94).
+____________ è cittadino
+straniero senza particolari contatti con il nostro territorio, salvo quelli
+deleteri del reato, e si trova confrontato con gravi addebiti, che fanno
+verosimile corrispondente rilevante sanzione. Così la latitanza sarebbe per lui
+effettivamente scelta da privilegiare. Ed in questa prospettiva a poco serve
+una cauzione, proposta con le osservazioni al preavviso negativo senza
+quantificazione.
+5.
+Il carcere preventivo sin qui sofferto e
+ipotizzabile sino al deferimento al giudice del merito (per i cui tempi valgono
+quelli di legge), in un procedimento che risulta essere condotto senza soluzione
+di continuità, è pienamente rispettoso del principio di proporzionalità, tenuto
+anche conto del complesso dei fatti da accertare e delle persone coinvolte,
+nonché della prevedibile pena privativa della libertà.
+E certamente il Procuratore pubblico
+provvederà a chiudere la fase predibattimentale in tempi brevi nel rispetto
+della sollecitudine voluto dalla legge (art. 102 cpv. 1 e 176 cpv. 3 CPP).
+6.
+L’istanza è così respinta con la presente
+decisione, esente da tassa e spese giudiziarie (art. 39 lett. f TG e contrario)
+e suscettibile di impugnazione alla Camera dei ricorsi penali (art. 284 cpv. 1
+lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-    avv. __________, per sé e per l’istante;
+-    Procuratore pubblico avv. __________ (con copia delle
+osservazioni dell’istante e con gli atti dell’incarto MP __________ di
+ritorno).
+giudice
+__________
