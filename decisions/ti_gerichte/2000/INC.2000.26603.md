@@ -1,0 +1,295 @@
+---
+decision_id: "ti_gerichte_INC.2000.26603"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.26603"
+decided: "2000-10-19"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=57069&nX40_KEY=4711461&nTrefferzeile=58&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2000.26603
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 19.10.2000 INC.2000.26603
+Tessin Il Giudice dell'istruzione e dell'arresto 19.10.2000 INC.2000.26603
+Ticino Il Giudice dell'istruzione e dell'arresto 19.10.2000 INC.2000.26603
+
+Sentenza o decisione senza scheda
+
+N. 266.2000.3 L                                                         Lugano,
+19 ottobre 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull'istanza
+di libertà provvisoria presentata il 9 ottobre 2000 da
+__________
+(patrocinata dall'avv. __________
+e qui trasmessa con preavviso
+negativo il 13/16 ottobre 2000 dal
+Procuratore pubblico
+avv. __________)
+viste le osservazioni 18 ottobre
+2000 dell'accusata, che si conferma in contenuti e conclusioni dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+1.
+__________ detta __________ venne
+arrestata il 3 maggio 2000, con contestuale promozione nei suoi confronti
+dell'accusa per titolo di promovimento della prostituzione, tratta di esseri
+umani e infrazione alla legge federale sulla dimora e il domicilio degli
+stranieri.
+Conosciuto casualmente __________
+nell'estate del 1998, l'accusata ha poi convissuto con lui e lo ha aiutato
+nella conduzione del Ristorante __________, con particolare riguardo a lucrosa
+gestione di prostituzione. All'inizio __________ ha inteso negare e poi
+banalizzare la sua collaborazione, ma poi la puntuale istruttoria sorretta da
+corpose indagini di polizia ha permesso di accertare il ruolo importante
+dell'accusata nel procacciare, favorire l'arrivo in Svizzera, gestire la
+permanenza ed indirettamente l'attività di meretricio, nonché i connessi
+risvolti finanziari, di decine di straniere dell'est, collocate anche presso
+altri esercizi pubblici, e meglio come riassunto nel rapporto di polizia del 28
+agosto 2000 e come - perlomeno per quanto concerne la materialità dei fatti -
+ammesso via via nei verbali dell'interessata, confermati e precisati dinnanzi
+al Procuratore pubblico. In conclusione del verbale del 15 giugno 2000 il
+magistrato inquirente ha esteso l'accusa al reato di riciclaggio di denaro e
+nel corso di quello del 23 giugno 2000 al reato di contravvenzione alla legge
+federale sugli stupefacenti, per quanto emerso dalle indagini.
+L'istruttoria appare ora conclusa,
+dopo il decorso del deposito degli atti con termine prorogato al 13 ottobre
+2000 (v. AI 154 e 162 dell'inc. MP 2823/2000): non sembrano infatti essere
+stati proposti complementi di prove da parte di coaccusati, la stessa
+__________ già avendo comunicato di non averne di propri.
+2.
+Con l'istanza di libertà
+provvisoria, dopo aver negato rispettivamente messo in dubbio il ricorrere dei
+reati più gravi e considerata chiusa l'istruzione formale, __________ si
+appoggia essenzialmente sull'assenza del pericolo di fuga, per documentata sua
+intenzione di convolare a nozze con __________, non avendo quindi nessuna
+intenzione di lasciare il territorio svizzero. In questa situazione il
+mantenimento della carcerazione preventiva si avvera sproporzionato.
+Nell'esprimere preavviso negativo
+all'istanza, il Procuratore pubblico ricorda il complesso delle risultanze
+dalle quali "
+si evince in modo chiaro ed inequivocabile l'importante
+ruolo così avuto da __________
+", con conseguente configurazione delle
+imputazioni in oggetto che sostanziano anche rispetto della proporzionalità in
+uno con un procedimento senza "
+un qualsivoglia ingiustificato ritardo
+"
+ed ormai prossimo al dibattimento. Allora il carcere preventivo trova
+motivazione nel pericolo di fuga, atteso che l'istante non ha nessun
+particolare legame, a parte il rapporto affettivo con __________, peraltro
+cittadino italiano e con buona pace per la pretesa urgenza del matrimonio. In
+libertà l'accusata potrebbe lasciare indisturbata il nostro territorio
+per rimpatriare, presso i parenti ed il figlio di primo letto, se non invece
+riparare presso la famiglia del fidanzato in Italia e qui poi convolare a
+nozze.
+Le osservazioni al preavviso
+negativo nella sostanza ribadiscono le argomentazioni fatte valere con
+l'istanza: sono contestati i reati più gravi (anche se poi "
+le tesi
+dell'accusa e quella della difesa saranno sviluppate in altra sede
+"),
+la proporzionalità è lesa nei confronti della presunzione di innocenza e non
+v'è pericolo di fuga per l'intento di trovare qui la residenza definitiva. Ad
+ovviare a questo timore e trovare equilibrio con la libertà provvisoria
+concessa a __________, in grazia del beneficio del permesso C, potranno essere
+ordinate severe misure di controllo.
+3.
+L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo a' sensi dell'art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quale è - per quanto qui concerne - il pericolo di fuga
+(senza dimenticare che l’arresto, quale misura processuale cautelativa, non
+serve unicamente ai bisogni dell’istruttoria, ma anche ad assicurare la
+presenza dell’accusato al processo e a garantire l’eventuale espiazione della
+pena: DTF 109 Ia 323 consid c, e riferimenti; sentenza 16 novembre 1993 del
+Tribunale federale in re A.H., 1P.477/1993, consid. 3).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128).
+4.
+Sufficienti presupposti di legge,
+come anche esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di __________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà, sino al dibattimento
+processuale.
+4.2
+L'istante non trae direttamente
+motivo per le sue richieste dall'asserita (ma invero poco sostanziata) assenza
+di sufficienti indizi di colpevolezza: a giusta ragione ha indicato altra sede
+- quella dibattimentale - per la discussione in proposito, qui essendo
+sufficiente la verosimiglianza. E questa è sicuramente data anche solo per le
+ammissioni conclusive di __________, come risulta dal verbale 26 giugno 2000 di
+confronto con __________ dinnanzi al Procuratore pubblico e cioè - tra altro -
+che:
+-
+"…
+già a far stato dal mese di novembre 1998 __________, visto
+che il __________
+[
+n.d.r.:
+Ristorante __________
+]
+era un postribolo si
+impegnò, con l'assenso e l'accordo di __________, di far giungere presso l'EP
+delle ragazze dell'Est Europa affinché si prostituissero. Tale attività divenne
+sistematica a decorrere dal marzo 1999…
+";
+-
+"…
+a partire dal mese di novembre 1998 sino al giorno
+dell'arresto l'arrivo e la gestione delle ragazze (contatti con la Lettonia e
+con i vari emissari, invio dei soldi, loro gestazione e rapporti durante la
+loro permanenza al __________, incasso soldi camere, ecc. …) è stata eseguita
+di comune accordo e sullo stesso piano, da entrambi gli accusati …
+";
+-
+"…
+per quel che concerne l'arrivo delle ragazze era soprattutto
+__________ ad avere e svolgere il ruolo principale avendo lei i necessari
+contatti in Lettonia…
+";
+-
+" …
+quale compenso per il suo lavoro __________, sino a dicembre
+1999, oltre al comune suo sostentamento in Ticino assieme a __________ ha
+beneficiato da quest'ultimo di vari regali in denaro che lo stesso le elargiva
+a sua semplice richiesta. A partire da gennaio 2000, oltre a ciò, era suo
+diritto prelevare da ogni singolo pernottamento pagato un importo giornaliero
+di fr. 10.-/20.- (se per quelle ragazze già si doveva stornare la commissione
+all'emissario) o di fr. 30.- (se la ragazza era giunta privatamente o grazie
+alla diretta intermediazione di __________)…
+".
+Nello stesso verbale sono state
+quantificate in una cinquantina le "
+ragazze
+" così giunte e -
+si fa per dire - ospitate ai __________. Inoltre l'accusata, quale
+imprenditrice in proprio, ha fatto giungere una quarantina di prostitute per
+altri cinque locali del Cantone, con suo guadagno di poco meno di complessivi
+40'000.- dollari USA (loc. cit., foglio 6).
+4.3
+Per quanto concerne il pericolo
+di fuga, unico preminente motivo di interesse pubblico in discussione, si
+ricorda che i criteri determinanti per stabilire se questo presupposto sia dato
+o meno sono il carattere del prevenuto, il suo domicilio, la sua professione,
+la sua situazione famigliare e i suoi legami con lo Stato in cui egli é
+inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in re S.C. del Tribunale
+federale; sentenza 20 ottobre 1994 in re M.A., CRP 314/94). L'apprezzamento di
+tutte le circostanze, per invocare appunto un rischio di fuga, deve lasciar
+presumere che le conseguenze di una fuga appaiano per l’accusato come un male
+minore rispetto a quello derivante per lui dall'ulteriore carcerazione, con
+maggior forza quanto più i reati imputati comportino pene edittali od eventualità
+di pena concreta importanti (in questo senso Mario
+Luvini
+; in REP 1989, pag. 292, con i riferimenti ivi
+indicati; sentenza
+14 novembre 1994 in re S.V., CRP 341/94).
+L'accusata, ad escludere questa
+paventata eventualità, fa essenzialmente valere la sua intenzione di sposarsi
+con __________, con procedura matrimoniale già in corso, come attestato dalla
+dichiarazione 25 settembre 2000 dell'Ufficio dello stato civile di __________
+(prodotta con l'istanza e già figurante agli atti istruttori, sub AI 164).
+Ora il complesso delle altre
+emergenze personali di __________ annullano questo unico tenue argomento e per
+converso rendono concreta la preferenza della fuga, che non può essere
+contrastata con le misure ventilate nell'istanza, occorrendo poco per lasciare
+indisturbati il nostro territorio. Si ha infatti che:
+-
+l'accusata è cittadina straniera, da un lato avendo avuto soli
+comportamenti deteriori sul nostro territorio e nessun apprezzabile contatto
+con esso, dall'altro mantenendo contatti seri con la sua patria, anche solo per
+il fatto che vi risiede il figlio di primo letto;
+-
+anche __________ è cittadino straniero, con i genitori risiedenti nel
+paese natio, dove nel 1994 ha acquistato una casa assieme a due fratelli
+(indizio di attaccamento alle origini, come lo è il fatto di non aver neppure
+mai pensato all'eventualità della naturalizzazione), e presentemente si trova
+in una situazione alquanto compromessa per gli addebiti penali e per aggravio
+di debiti, con esecuzioni in corso e già, se pur di importo modesto, un
+attestato di carenza di beni (v. estratto UEF di __________, AI 153, e le
+informazioni fornite nel verbale 7 giugno 2000, foglio 8, dinnanzi al
+Procuratore pubblico);
+-
+per il concorso in gravi reati ed in comportamenti lesivi della decenza
+e della pubblica quiete, l'eventualità di un allontanamento è tutt'altro che
+ipotesi remota, tanto per __________ (a seguito di espulsione giudiziaria),
+quanto per __________ (perlomeno attraverso revoca del permesso di soggiorno),
+così che viene a cadere la connessione matrimonio / permanenza in Svizzera;
+-
+__________ ha qui praticamente solo delinquito a preciso scopo di lucro,
+dopo essere arrivata in Ticino all'iniziale preciso intento di prostituirsi
+(circostanza fermamente negata in più interrogatori e confermata poi nel
+verbale 23 giugno 2000, foglio 1, dinnanzi al Procuratore pubblico);
+-
+essa si è ben presto fatta attiva con l'altrui prostituzione, dalla
+quale ha derivato non indifferenti utili, né si è limitata, come visto, al solo
+ambito dei __________, come fu per __________ (in certo qual senso con la
+soggettiva scusante di ampliare l'attività del suo esercizio pubblico), altro
+elemento, detto di transenna, che ha giustificato la concessione della libertà
+provvisoria,
+-
+la prevedibile pena per __________ sarà quindi verosimilmente di sicura
+severità e da espiare.
+5.
+Il carcere preventivo sin qui sofferto e
+ipotizzabile sino all'ormai prossimo deferimento al giudice del merito, in un
+procedimento che risulta essere condotto con coerente sollecitudine, come anche
+riconosciuto dall'accusata, è pienamente rispettoso del principio di
+proporzionalità, tenuto anche conto del complesso dei fatti da accertare e
+delle persone coinvolte. E già si è accennato alla differente posizione
+personale e processuale di __________, per cui nulla si può qui dedurre dalla
+libertà allo stesso concessa.
+6.
+L’istanza è conseguentemente respinta con
+la presente decisione, esente da tassa e spese giudiziarie (art. 39 lett. f TG
+e contrario) e suscettibile di impugnazione alla Camera dei ricorsi penali
+(art. 284 cpv. 1 lett. a CPP).
+Per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-    avv. __________, per sé e per l’istante;
+-    Procuratore pubblico avv. __________, sede (con copia
+delle osservazioni dell’istante e con gli atti dell’incarto MP 2823/2000 di
+ritorno).
+giudice
+__________
