@@ -1,0 +1,253 @@
+---
+decision_id: "ti_gerichte_INC.2001.39011"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.39011"
+decided: "2002-05-10"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=101601&nX40_KEY=4711576&nTrefferzeile=3&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-283.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2001.39011
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 10.05.2002 INC.2001.39011
+Tessin Il Giudice dell'istruzione e dell'arresto 10.05.2002 INC.2001.39011
+Ticino Il Giudice dell'istruzione e dell'arresto 10.05.2002 INC.2001.39011
+
+Sentenza o decisione senza scheda
+
+N. 390.2001.8/11 M                                                   Lugano,
+10 maggio 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Luca Marazzi
+sedente per
+statuire sui reclami inoltrati in data 31 ottobre 2001 e 17/18 dicembre 2001 da
+__________
+,                                    __________
+(difeso dall'avv. __________);
+per omissioni
+del Procuratore Pubblico, rispettivamente per denegata giustizia, nell’ambito
+del procedimento condotto contro il reclamante per titolo di riciclaggio di
+denaro, estorsione (sub. coazione), riciclaggio aggravato e falsità in
+documenti;
+viste le
+osservazioni 31 dicembre 2001 del Procuratore Pubblico;
+sentite le
+parti in udienza ex art. 283 CPP in data 17 aprile 2002;
+avuti a
+disposizione gli atti formanti l’inc. MP __________;
+ritenuto
+in fatto:
+che
+-
+__________ e __________ sono stati arrestati in uscita dalla
+Svizzera, in data 25 luglio 2001, siccome trovati in possesso di documentazione
+finanziaria compromettente. Promosse nei loro confronti le accuse riportate in
+ingresso, sono stati liberati nel corso dell’autunno 2001 (v. decisione 8
+novembre 2001, inc. Giar 390.2001.9, dal cui consid. A si estrae questo
+riassunto dei fatti);
+-
+la liberazione dell’accusato reclamante, pur avendo risolto
+alcuni punti sollevati nel primo gravame qui discusso, ne ha lasciati aperti
+altri, ai quali si sono aggiunti – sovente su identico tema – quelli eccepiti
+con il secondo reclamo qui trattato;
+-
+considerato il sovrapporsi di diverse questioni, nonché in parte
+l’evoluzione conosciuta dall’incarto dopo la messa in libertà dell’accusato
+reclamante, questo giudice ha tenuto udienza ex art. 283 CPP, il cui verbale
+viene qui integralmente riportato, anche a valere quale disamina puntuale dei
+gravami:
+“Il GIAR
+passa in rassegna le richieste del reclamante che nel frattempo dovrebbero essere
+divenute prive d'oggetto:
+-           la
+richiesta di concessione del regime ordinario di carcerazione
+-           la
+liberazione di fr. 1'250.-- e Ptas. 600'000
+-           la
+richiesta di colloqui liberi.
+Per
+quanto riguarda i verbali del reclamante (sia di polizia che MP), il GIAR
+constata che di alcuni è stata concessa visione, ma non tutti hanno potuto
+essere trasmessi, stante l'assenza fisica dell'incarto (prima CRP e poi TF).
+Con l'accordo delle parti, si stabilisce di non procedere all'esame di ogni
+singolo verbale.
+Il PP
+dà atto che nulla più osta alla consegna integrale al reclamante dei suoi
+verbali, che avverrà prossimamente.
+Si
+appella al reclamante perché non ne dia assolutamente copia a terze persone. Il
+reclamante si dice d'accordo.
+In tema
+di oggetti personali asseritamente mancanti, il reclamante dà atto
+dell'avvenuta restituzione delle chiavi e del telefono, del portafoglio e degli
+oggetti di pulizia delle scarpe.
+Mancano
+sempre ancora le lettere personali e i disegni che il reclamante ritiene gli
+siano stati inviati dai famigliari durante il suo carcere preventivo. Il PP
+ne prende atto, e darà disposizioni in Polizia per le ricerche del caso.
+In tema
+di accesso agli atti, il PP, considerata l'evoluzione che l'incarto MP
+ha conosciuto nel frattempo, ritiene di poter venire incontro alle richieste
+del reclamante per quanto attiene alla visione dei verbali altrui.
+Concretamente, concede l'integrale accesso a tutti i verbali di tutte le
+persone sentite nell'ambito dell'inchiesta, salvo per i verbali __________, la
+cui audizione non è ancora conclusa, in vista di un possibile confronto con il
+reclamante. Il reclamante si dice d'accordo.
+In tema
+di richiesta di accesso alla documentazione bancaria e finanziaria, il PP
+propone al reclamante la concessione di copia del rapporto EFIN, che racchiude
+la ricostruzione del flusso finanziario confluito nella __________, con le
+pezze giustificative.
+Resta
+riservata l'acquisizione di ulteriore documentazione finanziaria.
+Sulla
+rogatoria __________, il PP informa che la documentazione è nel
+frattempo arrivata, ma ha dovuto essere scelta e tradotta la documentazione
+essenziale. La traduzione è appena stata ultimata. Le risultanze dovranno
+essere contestate al reclamante, e fino a quel momento la documentazione non
+può essere mostrata a nessuno. Dato che il rapporto preliminare di polizia
+contiene estratti della documentazione __________, non può essere neppure
+concessa visione del rapporto preliminare di polizia. La difesa mantiene
+la richiesta di accedere agli atti giunti in rogatoria dalla __________. Il
+reclamante pretende che gli siano indicati gli atti essenziali ( e che gli
+siano mostrati prima di essere sentito ) al fine di conoscere la posizione
+delle Autorità __________ e di eventualmente richiedere documentazione
+supplementare.
+Inoltre,
+la richiesta di accesso integrale agli atti è pure giustificata dal fatto che
+l'inchiesta dura da lungo. La difesa rileva poi che il contenuto della
+rogatoria è comunque già stato anticipato in sede di osservazioni al TF. E se
+le carte sono chiare, il reclamante non le può comunque alterare. Il PP
+rileva poi che, forse, alcune informazioni contenute nella rogatoria non sono
+ancora note al reclamante: deve essere salvaguardata l'immediatezza delle
+risposte di lui (che è oltretutto anche difensore di terzi, tramite ai quali
+può aver visto altra documentazione) La difesa contesta il rifiuto del
+PP sulla base di dubbi e timori ipotetici.
+Il GIAR
+anticipa gli argomenti che lo portano a decidere negativamente la richiesta del
+reclamante di accesso alla rogatoria, e offre la possibilità di ritirare il
+reclamo. Il reclamante si riserva di comunicare la sua decisione
+nell'immediato.
+Da
+ultimo, sulle agende, il PP ritiene che siano state consegnate le
+fotocopie. La difesa sottolinea invece che non sono state date le copie
+delle piccole agende. Il PP ne prende atto e si impegna a far pervenire
+al reclamante copia delle piccole agende subito. L'agenda grossa verrà invece
+liberata (almeno in copia) dopo il previsto verbale del reclamante a fine
+maggio / inizio giugno.
+In
+conclusione, il GIAR constata che tutti i punti dei due reclami sono
+evasi, salvo l'accesso agli atti della rogatoria, sulla quale il reclamante si
+esprimerà entro 10 giorni in punto al mantenimento del reclamo. Il PP fa
+presente che ci vorrà un po' di tempo per evadere materialmente le richieste
+della difesa.
+Segue
+decisione formale sui due reclami.”
+Considerato
+in diritto:
+che
+-
+nella misura in cui le questioni sollevate dai due reclami hanno
+potuto essere appianate in sede d’udienza, i due gravami possono essere evasi
+come agli accordi raggiunti;
+-
+nessun accordo, invece, ha potuto essere formalizzato in punto
+alla richiesta dell’accusato reclamante intesa ad avere accesso integrale agli
+atti rogatoriali trasmessi dalla __________. Entro il termine di dieci giorni
+assegnatogli in sede d’udienza, infatti, __________ non si è espresso;
+-
+per l’ovvia e fondamentale importanza che la conoscenza degli
+atti riveste nell’ambito di una difesa penale, vige notoriamente il principio
+secondo il quale gli stessi sono liberamente accessibili all’accusato, salve
+comunque contrarie esigenze d’inchiesta (artt. 58 cpv. 1 e 60 cpv. 2 CPP).
+“Fondamentale ‘esigenza d’inchiesta’ è l’immediatezza delle dichiarazioni
+dell’accusato: egli non deve poter ricevere informazioni sino a quel momento
+note unicamente agli inquirenti prima che le stesse gli siano state formalmente
+contestate. In caso contrario, verrebbe ripristinato quel pericolo di
+collusione che aveva magari già giustificato l’arresto dell’accusato; ed
+inoltre, quest’ultimo potrebbe costruirsi ad arte una linea di difesa
+compatibile con quanto l’accusa già conosce” (Marazzi, Il Giar, Lugano 2001, §
+3.II.2.1 p. 22, con rinvii a giurisprudenza e dottrina in nota 79 ibid.);
+-
+nel caso di specie, va premesso che – come ha esposto il
+magistrato inquirente in sede d’udienza – la rogatoria dalla __________ è
+giunta da poco, e doveva ancora essere tradotta prima di formare l’oggetto di
+un nuovo verbale dell’accusato reclamante. Dunque, il – relativamente – lungo
+tempo trascorso fra l’inoltro e l’evasione della rogatoria non può più formare
+l’oggetto di un reclamo per denegata giustizia, né può essere rimproverato al
+Procuratore Pubblico di non aver precedentemente deciso in proposito, visto che
+non disponeva ancora degli atti;
+-
+nel merito, va detto che gli atti trasmessi dalla __________ sono
+potenzialmente fondamentali, poiché da essi soltanto è (forse) possibile
+evincere se a monte degli atti di riciclaggio imputati all’accusato reclamante
+stiano fatti criminosi, rispettivamente quali. È allora senz’altro ovvio che
+l’audizione di __________ in proposito, per essere di una qualsiasi utilità per
+l’inchiesta (e, di riflesso, anche per l’accusato medesimo), dovrà soddisfare
+pienamente i carismi della trasparenza ed immediatezza posti da dottrina e
+giurisprudenza: risposte preconfezionate sulla base di documentazione digerita
+non solo non sarebbero utili alla ricerca della verità, ma anzi rischierebbero
+di essere di nocumento per la credibilità dell’accusato reclamante (che, non lo
+si dimentichi, ha comunque piena facoltà di rifiutarsi di rispondere);
+-
+questa conclusione si impone a maggior ragione se si considera
+che l’accusato reclamante potrebbe essere già coinvolto in almeno parte dei
+procedimenti __________ oggetto della rogatoria in qualità di patrocinatore. È
+vero, allora (come rileva giustamente la difesa), che è già al corrente dei
+procedimenti __________. Ma è altrettanto vero (come rettamente sottolinea la
+pubblica accusa), che __________ non può sapere se dalla __________ siano giunte
+informazioni a lui ancora ignote, rispettivamente – detto in altri termini – se
+lui sappia veramente tutto quanto gli inquirenti __________ hanno raccolto. Né
+è scontato che agli atti del procedimento penale ticinese vengano acquisite
+tutte le carte trasmesse dalla __________, potendosene trovare di quelle utili
+per una visione d’assieme, ma non riguardanti direttamente l’accusato
+reclamante. Queste ultime considerazioni rafforzano la necessità di vietare
+all’accusato reclamante l’accesso agli atti rogatoriali almeno fino alla sua
+verbalizzazione in tema;
+-
+nella misura in cui il reclamo contesta il rifiuto di accesso
+agli atti rogatoriali trasmessi dalla __________, in conclusione, esso deve
+allora essere respinto, con la presente decisione definitiva (art. 284 cpv. 1
+lit. a CPP
+e contrario
+);
+-
+tassa e spese di giustizia, ridotte in considerazione del fatto
+che, per il rimanente, il reclamo ha potuto essere evaso bonalmente in sede
+d‘udienza, devono essere poste a carico del reclamante soccombente.
+*   *   *
+Per i quali
+motivi,
+viste le
+norme menzionate e gli artt. 280 ss. CPP
+d e c i d e :
+1.
+In
+quanto rivolto contro il rifiuto del Procuratore Pubblico di concedergli libero
+accesso agli atti, ed in particolare alla documentazione trasmessa per via
+rogatoriale dalla __________, il reclamo 17 dicembre 2001 di __________ è
+respinto.
+§   Per
+il rimanente, i reclami 31 ottobre 2001 e 17 dicembre 2001 sono stralciati dai
+ruoli siccome divenuti privi d’oggetto a seguito degli accordi conclusi fra
+pubblica accusa e difesa in occasione dell’udienza Giar 17 aprile 2002.
+2.
+La
+presente decisione è definitiva.
+3.
+La
+tassa di giustizia (ridotta) di fr. 250.— e le spese di fr. 50.— sono poste a
+carico del reclamante soccombente.
+Intimazione:
+giudice Luca Marazzi
