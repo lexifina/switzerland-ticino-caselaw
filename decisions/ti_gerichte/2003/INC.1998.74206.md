@@ -1,0 +1,179 @@
+---
+decision_id: "ti_gerichte_INC.1998.74206"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1998.74206"
+decided: "2003-07-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59488&nX40_KEY=4711332&nTrefferzeile=84&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/272/art-130.md", "switzerland/bund/acts/312.0/art-019.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-021.md", "switzerland/bund/acts/312.0/art-204.md"]
+---
+
+# TI Gerichte INC.1998.74206
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.07.2003 INC.1998.74206
+Tessin Il Giudice dell'istruzione e dell'arresto 28.07.2003 INC.1998.74206
+Ticino Il Giudice dell'istruzione e dell'arresto 28.07.2003 INC.1998.74206
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.1998.74206
+Lugano
+28 luglio 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+__________
+sedente per statuire sul reclamo presentato il 6 giugno
+2003 da
+__________
+patrocinata dall’avv.__________
+contro
+la decisione 30 maggio 2003
+della Sost. Procuratrice Pubblica __________, emanata nel procedimento di cui
+all’inc. MP __________, che ha respinto la richiesta di proroga del deposito
+atti;
+viste le osservazioni 13 giugno
+2003 della Sost. Procuratrice Pubblica,
+visto l’inc. MP __________;
+ritenuto
+in fatto
+A.
+Con decreto d’accusa 25 settembre
+2000, l’allora Procuratore Generale __________ aveva messo in stato d’accusa
+__________ (qui reclamante) per aver diffamato il dott. __________ presso la
+sede del Ministero Pubblico di __________, nel corso di un verbale di
+interrogatorio. La querela era stata presentata dal dott. __________ in data
+29/30 maggio 2000.
+L’imputazione era stata in un
+primo tempo confermata dal Pretore del Distretto di __________ con decisione 13
+febbraio 2001, ma poi dichiarata nulla dalla Corte di cassazione e revisione
+penale del Tribunale d’appello con decisione 18 dicembre 2002, essendo stata
+lesa una norma essenziale di procedura. Quest’ultima Corte aveva trasmesso gli
+atti al Ministero Pubblico “per l’emanazione, dandosene il caso, di un nuovo
+decreto d’accusa, previo corretta applicazione dell’art. 204 cpv. 4 CPP”.
+In data 10 febbraio 2003 la Sost.
+Procuratrice Pubblica __________ ha dunque promosso accusa nei confronti della
+reclamante per diffamazione, per avere, nel corso del verbale di interrogatorio
+reso quale querelata il 2 marzo 2000 presso il Ministero Pubblico di
+__________, riferendo di un intervento di colonoscopia effettuato su di lei dal
+dott. __________ in data 15 aprile 1998, incolpato il medico di condotta
+disonorevole, descrivendo il suo comportamento come “demaniacale e a sfondo
+sessuale”, “godeva al mio dolore”, “godeva di questa situazione”, “più lui mi
+faceva male e più lui insisteva nel farmi male” e “egli provò un piacere
+sessuale”.
+B.
+Con decisione 8 maggio 2003, la
+Sost. Procuratrice pubblica, ritenuto raggiunto lo scopo dell’istruzione, ha
+ordinato il deposito degli atti fino al 26 maggio 2003.
+Con lettera datata e spedita con
+invio postale raccomandato il 26 maggio 2003, ma recapitata da La Posta al
+Ministero pubblico il 27 maggio 2003, la reclamante ha chiesto una proroga del
+deposito atti fino al 26 giugno 2003, “dovendosi effettuare ulteriori
+approfondimenti”.
+Con decisione 30 maggio 2003, la
+Sost. Procuratrice Pubblica ha respinto la richiesta di proroga siccome
+tardiva.
+C.
+Contro la decisione di non
+concedere la proroga del deposito atti, la reclamante si aggrava con reclamo 6
+giugno 2003. Il patrocinatore della reclamante rileva di aver ricevuto
+“l’istruzione di proroga ... dalla mandante il 26.05 in mattinata” e che, a suo
+dire, la richiesta di proroga sarebbe tempestiva, ritenuto che, con riferimento
+all’art. 20 cpv. 4 CPP, “quando la comunicazione di un atto si fa per posta, il
+termine si reputa osservato se la consegna alla posta è fatta prima della
+mezzanotte del giorno di scadenza”; la decisione impugnata sarebbe dunque
+“inficiata da eccessivo formalismo ... assimilato al diniego di giustizia
+formale come applicazione, nell’ambito procedurale, del principio della
+proporzionalità”.
+D.
+La Sost. Procuratrice Pubblica
+postula la reiezione del reclamo, ribadendo che, essendo la richiesta di
+proroga stata “inviata per lettera raccomandata l’ultimo giorno di scadenza del
+termine impartito dal magistrato”, l’istanza in oggetto non può essere
+considerata tempestiva.
+La magistrata inquirente osserva
+inoltre che la reclamante non ha in alcun modo motivato la propria istanza di
+proroga, limitandosi ad avanzare la necessità di “effettuare ulteriori
+approfondimenti”; di conseguenza, “l’istanza andava comunque respinta siccome
+priva di motivazione, ciò che per altro non sorprende atteso che in occasione
+del suo interrogatorio del 20.3.2003 ella ha espressamente affermato di mirare
+alla prescrizione del reato addebitatole”.
+Delle altre allegazioni e/o
+argomentazioni delle parti si dirà, se necessario, nei considerandi che
+seguono.
+in diritto
+1.
+Conformemente all’art. 19 cpv. 2
+CPP, i termini assegnati dal magistrato possono da questi essere
+convenientemente prorogati, su istanza motivata della parte interessata,
+presentata prima della scadenza. Questo disposto trova il suo corrispettivo, a
+livello cantonale, all’art. 130 cpv. 2 CPC, come pure, a livello federale,
+all’art. 33 cpv. 2 OG.
+La dottrina indica che un termine
+può essere prorogato dal giudice fintanto che continua a decorrere. La prassi
+unanime ammette tuttavia come sufficiente che l’istanza di proroga sia posta
+prima della scadenza del termine stesso (cfr. F. Kellerhals/M. Sterchi, Die
+Zivilprozessordnung für den Kanton Bern, ad art. 116 nota 2 p. 322 e
+riferimenti dottrinali ivi citati; cfr. anche B. Cocchi/F. Trezzini, Codice di
+procedura civile ticinese massimato e commentato, 2000, ad art. 130 cpv. 2 CPC
+nota 2 p. 372, con riferimento giurisprudenziale, che lascia aperto il quesito
+a sapere se una domanda di proroga del termine formulata l’ultimo giorno sia
+intempestiva).
+L’istanza di proroga presentata
+una volta spirato il termine è, in realtà, una richiesta di restituzione dei
+termini ai sensi dell’art. 21 CPP e va trattata secondo i parametri di
+quell’istituto, i quali sono assai più rigorosi rispetto a quelli richiesti
+dalla legge per ammettere la proroga di un termine (cfr. B. Cocchi/F. Trezzini,
+op.cit. nota 444 p.371).
+Ogni istanza o impugnativa deve
+comunque essere convenientemente motivata, per consentire alle controparti e
+all’autorità adita di prendere adeguata posizione, rispettivamente decisione
+(cfr. sentenza 24 gennaio 1990 in re F.P., CRP 339/89; sentenza 30 agosto 1993
+in re V., CRP 76/93; decisione 16 marzo 1994 in re J.B., GIAR 192.94.1;
+decisione 18 marzo 1994 in re E.B., GIAR 230.94.1; sentenza 28 giugno 1994 in
+re B.T., GIAR 263.94.2).
+Nel caso in esame non è neppure
+necessario disquisire sulla tempestività o meno dell’istanza presentata dalla
+reclamante; l’istanza in oggetto, facendo semplicemente riferimento a non
+meglio precisati “ulteriori approfondimenti”, appare infatti non
+sufficientemente motivata e quindi irricevibile sia come domanda di proroga,
+che come istanza di restituzione dei termini.
+Del resto, come rettamente
+evidenziato dalla magistrata inquirente, la reclamante non fa mistero di mirare
+alla prescrizione del reato che le viene addebitato (cfr, verbale
+d’interrogatorio della reclamante 20 marzo 2003 p .3). La mancata concessione
+della proroga si giustifica dunque anche per il fatto che ogni ritardo della
+procedura, messo in atto dalla reclamante con richieste non motivate, può
+arrecare pregiudizio agli interessi delle controparti.
+2.
+Il reclamo viene conseguentemente
+respinto, con la presente decisione definitiva (art. 284 cpv. 1 lett.a CPP e
+contrario) e con carico di tassa di giustizia e spese giudiziarie alla
+reclamante, correlate con la soccombenza (art.39 lett. f TG).
+per i quali motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.   Il reclamo è respinto.
+2.   La tassa di giustizia di fr. 250.-- e le spese di fr. 100.--
+sono a carico della reclamante.
+3.   La presente decisione è definitiva.
+4.   Intimazione:
+-    avv. __________, per sé e per la reclamante (con copia
+delle osservazioni 13 giugno 2003 della magistrata inquirente),
+-    Sost. Procuratrice pubblica __________ con restituzione
+degli inc.MP __________ e MP __________);
+-    avv. __________, per sé e per la parte civile (con copia
+del reclamo).
+giudice
+__________
