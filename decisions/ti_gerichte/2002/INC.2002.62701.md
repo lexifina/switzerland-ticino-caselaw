@@ -1,0 +1,331 @@
+---
+decision_id: "ti_gerichte_INC.2002.62701"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.62701"
+decided: "2002-12-10"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=95569&nX40_KEY=4711357&nTrefferzeile=76&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-161.md", "switzerland/bund/acts/312.0/art-164.md"]
+---
+
+# TI Gerichte INC.2002.62701
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 10.12.2002 INC.2002.62701
+Tessin Il Giudice dell'istruzione e dell'arresto 10.12.2002 INC.2002.62701
+Ticino Il Giudice dell'istruzione e dell'arresto 10.12.2002 INC.2002.62701
+
+Sentenza o decisione senza scheda
+
+N. 627.2002.1                                                            Lugano,
+10 dicembre 2002
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+Edy Meli
+sedente per statuire sul reclamo
+presentato il 4/5 novembre 2002 da
+__________
+(patrocinata
+dallo studio legale __________)
+contro l'ordine di perquisizione
+e sequestro datato 24 ottobre 2002, emanato dal Procuratore pubblico Arturo
+Garzoni, nel procedimento di cui all'incarto MP __________;
+viste le osservazioni del
+Procuratore pubblico (18 novembre 2002) e quelle degli accusati,
+rispettivamente indagati, __________, __________
+,
+__________ e le società __________ e __________ (8 novembre 2002);
+visto l'incarto MP __________;
+ritenuto
+in fatto
+A.
+Nei confronti di __________ è
+stata promossa l'accusa per infrazione aggravata, subordinatamente semplice,
+alla LFStup., il 24 ottobre 2002, in sede d'interrogatorio (cfr. AI 12, incarto
+MP __________).
+Oggetto dell'inchiesta è la
+vendita di canapa nella forma di "sacchetti odorosi" effettuata
+dall'accusata presso il negozio __________ di __________, che
+l'accusata gestisce (per sua stessa dichiarazione), con il marito e per conto
+del figlio __________, da circa due anni (AI 12 citato, p.1).
+La vendita dei sacchetti odorosi
+costituirebbe ca. l'80% dell'attività del negozio, che produce una cifra
+d'affari media giornaliera di 3/4'000.- FRS al giorno (AI 12, Verbale SG __________
+24 ottobre 2002, p. 4; AI 25, Verbale PS __________ 7 novembre 2002, p.9).
+B.
+Lo stesso giorno è stata promossa
+l'accusa (con analoga modalità e per la stessa imputazione) nei confronti di __________
+e di __________, nata __________ (AI 13 e 14).
+__________ è stato interrogato,
+quale indagato per gli stessi fatti ed analoghi reati, il 30 settembre 2002 dal
+magistrato inquirente e dalla polizia il 7 novembre 2002 (AI 25; rapporto PS 19
+novembre 2002). Nei suoi confronti non risultano, allo stato attuale
+dell'incarto, promozioni formali dell'accusa, egli è comunque indagato per
+infrazione alla LFStup (cfr. allegato all'AI 25: formulario ex artt. 207-207a
+CPP).
+C.
+Sempre il 24 ottobre 2002, il
+magistrato inquirente ha emanato alcuni ordini di perquisizione e sequestro
+bancari (__________ e __________) in relazione a "
+tutte le relazioni in
+essere o nel frattempo chiuse, intestate o comunque facenti capo …
+"
+alle persone indagate (AI 10 e 11).
+L'ordine ha (avrebbe) colpito,
+tra le altre, due relazioni bancarie, riconducibili alla reclamante: presso __________
+(titolare) e presso la __________ di __________ (avente diritto economico). Ciò
+risulta dal reclamo (punto 3), in quanto agli atti del procedimento non risulta
+che la __________ abbia già risposto all'ordine e la __________ ha inviato i
+documenti in busta chiusa (AI 20).
+D.
+Con il reclamo, __________, dopo
+averne affermato ricevibilità, chiede l'annullamento dell'ordine del
+Procuratore pubblico nella misura in cui tocca le sue relazioni presso __________
+e presso __________ di __________.
+A suo dire le due relazioni non
+riguardano l'attività del negozio __________. Sulla prima vi sono depositati
+unicamente gli stipendi ed i versamenti da parte dell'AVS; la seconda é stata
+aperta recentemente per un'operazione commerciale, estranea all'attività del
+negozio, e con deposito di FRS 5'000.-.
+Quanto sopra è, sempre a dire
+della reclamante, desumibile anche dalla contabilità della società che gestisce
+il negozio.
+__________, inoltre, ha chiesto
+effetto sospensivo nelle forme dell'art. 164 CPP. Ciò è stato concesso, ma solo
+la __________ ha proceduto all'invio della documentazione in busta chiusa (cfr.
+AI 20).
+E.
+Con le loro osservazioni, gli
+altri accusati e indagati (nonché le due società coinvolte nella vicenda) si
+limitano a confermare i fatti esposti dalla reclamante. Asseriscono che __________
+contesta sia l'esistenza delle condizioni per una confisca che la presenza
+d'indizi di reato, fatto (quest'ultimo) che non trova riscontro nel reclamo.
+F.
+Il magistrato inquirente, nel suo
+esposto, elenca gl'indizi di reato relativi all'attività del negozio __________,
+attività che (fors'anche con ruoli diversi) coinvolge tutti gli
+accusati/indagati, quindi anche la reclamante.
+In virtù della cifra d'affari
+generata, in gran parte costituita dalla vendita di sacchetti odorosi, ritiene
+più che lecito acquisire la documentazione necessaria per determinare impiego e
+destinazione del provento di tale attività (illecita). La documentazione
+bancaria richiesta costituisce, a suo dire, mezzo di prova in tal senso. Sempre
+a giudizio del magistrato inquirente, la reclamante non ha provato la provenienza
+lecita dei fondi che sarebbero confluiti sui conti in oggetto, uno dei quali
+risulta intestato ad una società panamense.
+Da ultimo, il Procuratore
+pubblico, segnala che qualora potrà disporre della documentazione bancaria
+richiesta, procederà senza indugio ad accertare l'eventuale estraneità per
+rapporto all'attività illecita disponendo, se del caso, il dissequestro di
+quanto inconferente.
+Delle altre affermazioni o
+argomentazioni delle parti si dirà, se del caso, nel seguito della presente
+decisione.
+considerato
+in diritto
+1.
+Il reclamo, introdotto entro il
+termine di 10 giorni dall'intimazione (per posta) alle banche, è tempestivo. La
+reclamante, accusata nel procedimento è legittimata.
+2.
+I principi generali in materia di
+perquisizione sequestro, sebbene noti ai patrocinatori delle parti ed al
+Procuratore pubblico, sono ricordati qui di seguito.
+a)
+In diritto, l’art. 161 cpv. 1 CPP
+impone al magistrato penale di ordinare il sequestro di tutti gli oggetti che
+possono avere importanza per l’istruzione del processo, alternativamente o
+cumulativamente come mezzi di prova o in quanto passibili di confisca o
+devoluzione allo Stato. Il sequestro, per la sua qualità di provvedimento
+eminentemente cautelare, ha lo scopo di acquisire e conservare gli oggetti di
+cui sopra al seguito della procedura e quindi per le necessità dell’istruzione
+preliminare, per le decisioni del magistrato requirente e quelle del giudice
+del merito, come evidenziato nella duplice prospettiva - alternativa o cumulativa
+- della produzione e valutazione delle prove (sequestro probatorio) e delle
+decisioni di confisca, restituzione o devoluzione (sequestro confiscatorio) (v.
+decisione 8 maggio 1998, inc. GIAR 516.97.3, in: Rep. 131 [1998] nr. 117,
+consid. 1a p. 359).
+b)
+Un ordine di perquisizione e
+sequestro bancario rappresenta un attentato ai diritti personali, e può
+causarne pregiudizio. Come ogni misura d’inchiesta, pertanto, deve soddisfare
+tre presupposti sostanziali: deve poggiare sull’esistenza di gravi indizi di colpevolezza,
+deve apparire necessario per il giudizio di merito (nel senso che deve essere
+connesso con l’oggetto che occorre salvaguardare agli incombenti processuali e
+di giudizio, v. decisione 17 agosto 1998 in re E.F., inc. GIAR 501.98.2 consid.
+2), infine deve essere rispettoso del principio di proporzionalità (v. Gérard
+Piquerez, Précis de procédure pénale suisse, 2. éd. Lausanne 1994, margin.
+1441, 1454 e 1469, con rinvii). La verifica della fondatezza di questi
+presupposti, per il doveroso scrupolo di rispetto dei diritti individuali, deve
+essere costante negli incombenti dell’autorità inquirente e requirente, con
+sempre accresciuta esigenza probatoria indiziante approssimantesi alla verità
+materiale, a partire dal sospetto all’apertura del procedimento, che va in
+seguito ed indilatamente approfondito con gli accertamenti probatori del caso
+(v., in contesto più generale, Piquerez, cit., margin. 1116 ss.). La misura
+ordinata dal Procuratore Pubblico deve inoltre
+essere rispettosa del principio di proporzionalità (v. Rep. 131 [1998] nr. 117,
+consid. 1a p. 360; decisione 31 marzo 2000 in re banche X e Y, inc. GIAR
+386/387.99.15, consid. 2b p. 6).
+c)
+Va, inoltre ricordato, che
+l'ordine di perquisizione e sequestro indirizzato ad un istituto bancario,
+contiene due atti procedurali (o momenti procedurali, se si preferisce) tra
+loro distinti: quello della perquisizione e quello del sequestro.
+Ovviamente la prima precede,
+generalmente, il secondo e ne determina la fondatezza sia per quanto concerne
+la (successiva) acquisizione agli atti della documentazione e/0 degli averi
+(REP 1997 no. 102; sentenza GIAR 2 novembre 1993 in re banca B., inc. 863.93.1;
+sentenza GIAR 23 marzo 1994 in re M-B., inc. 224.94.1).
+La prassi che ammette
+sostituzione della perquisizione "domiciliare" mediante trasmissione
+di un ordine scritto per posta, non deve far dimenticare questi due momenti.
+Occorre, pertanto e innanzitutto,
+verificare se le condizioni per la perquisizione siano date.
+3.
+a)
+Per quanto concerne l'esistenza di
+gravi indizi di colpevolezza in capo alla reclamante, si premette che
+nell’esame dell’esistenza di gravi indizi di reato, lo scrivente giudice deve
+imporsi precisi limiti, derivanti da un lato dalla sua funzione - che è quella
+di esaminare l’esistenza dei presupposti formali per l’emanazione dell’ordine
+contestato, e non di valutare nella sostanza l’esistenza di un reato -, e
+dall’altro - ma in maniera strettamente congiunta con quanto si viene di dire -
+dall’inopportunità di considerazioni di merito premature e, soprattutto, di
+competenza delle sedi di giudizio.
+b)
+Ciò premesso, e ritenuto che
+l'esistenza di sufficienti indizi di reato non è formalmente contestata dal
+reclamo, si può affermare che gli stessi sono dati anche sulla base delle
+considerazioni che seguono.
+Sia la reclamante che il figlio __________
+riconoscono che l'attività prevalente del negozio __________ è costituita dalla
+vendita di "sacchetti odorosi" contenenti canapa (__________ Verbale
+SG 24.10.2002 p. 1 e 4; __________ verbale PP 30 settembre 2002, p. 6 e Verbale
+PS 7.11.2002. p. 2). Inoltre, __________ afferma che i sacchetti in questione
+contenevano sostanza con tenore di THC superiore allo 0,3 % che, perlomeno in
+parte (e per usare un eufemismo) poteva essere utilizzata dagli acquirenti
+quale stupefacente (__________, verbali citati, rispettivamente p. 6, 7, 9 e p.
+2 e 10). Quest'ultimo fatto è
+ipotizzato anche dalla qui reclamante (__________, Verbale citato p. 3), alla
+quale è pure nota l'esistenza di un limite di THC consentito dalla legge.
+Le circostanze sopra descritte,
+costituiscono (alla luce della giurisprudenza recente in materia - DTF 124 IV
+146; DTF 126 IV 60; DTF 126 IV 199; DTF 24 maggio 2002 in re F.) indizi di
+reato sufficienti (anche indipendentemente dal ruolo di gestore per conto del
+figlio) a fondamento di un ordine di perquisizione e sequestro.
+c)
+In virtù della cifra d'affari
+dichiarata, dei rapporti famigliari tra gli accusati/indagati, nonché dei ruoli
+rispettivi nella gestione dell'attività del negozio __________, un ordine di
+perquisizione volto ad identificare le relazioni in qualche modo riconducibili
+ad ognuno di questi e ad acquisire la relativa documentazione allo scopo di
+definire il destino degli incassi provenienti da attività illecita (e tra
+questa vi è anche lo stipendio che la società versa a chi vi opera - FF 1993
+III, p.217).
+Nel caso specifico, inoltre,
+l'ordine è indirizzato in modo mirato a sole due banche ed è pacificamente
+rispettoso del principio di proporzionalità.
+4.
+Stabilita la legittimità della
+perquisizione, ci si deve ora occupare del sequestro, rispettivamente della
+procedura di messa sotto suggello richiesta dal reclamante (in sede di
+reclamo), quale forma d'effetto sospensivo.
+La seconda questione é attinente
+alla perquisizione della documentazione (art. 164 CCP; L. Marazzi, Sull'ordine
+di perquisizione e sequestro bancario - La legittimazione attiva della banca a
+interporre reclamo contro un ordine di perquisizione e sequestro, in Il Ticino
+ed il diritto, Lugano 1997 p. 501 ss, 502; DTF 114 Ib 357). Lo scopo di questa
+procedura, che può essere trattata contestualmente al reclamo contro l'ordine
+di perquisizione e sequestro, è quella di permettere, al detentore o all'avente
+diritto di carte, di far valere la loro (delle carte) estraneità al
+procedimento penale. Ciò comporta motivazione specifica in tal senso, con prova
+praticamente liquida d'estraneità affinché questo giudice, che non ha compiti
+istruttori (e non può determinarsi in prima istanza sulle prove spulciando magari
+l'intero incarto e tutta la documentazione bancaria sin qui acquisita), possa
+esprimersi in merito.
+Nel caso in esame, va detto che
+solo la documentazione relativa alla relazione presso la __________ è stata
+prodotta in busta chiusa (al Procuratore pubblico con scritto del 31 ottobre
+2002, AI 19), conformemente a quanto disposto all'art. 164 CPP.
+La reclamante sostiene, da un
+lato, che l'attività del negozio (__________) fa capo alla relazione bancaria
+aperta presso la __________ di __________, dall'altro che la relazione presso
+la __________ di __________ è stata aperta per un'operazione commerciale
+(indipendente) con deposito di FRS 5'000.-. Nulla è detto sulla tipologia
+dell'operazione commerciale né sulla provenienza (e pertinenza economica) della
+somma di FRS 5'000.-.
+Queste indicazioni non
+costituiscono prova liquida d'estraneità della documentazione bancaria in
+questione, per l'inchiesta.
+Anche se l'attività del negozio
+fa capo alla __________ di __________, è quantomeno indiziata incompletezza
+della contabilità "ufficiale" per rapporto agli incassi (AI 25, __________
+Verbale PS 7.11.2002, p.8). Inoltre, le entrate in conto (per versamento) non
+permettono di determinare la provenienza e, quindi di escludere quella illecita
+(non dimenticando che lo stesso stipendio della reclamante può rientrare in
+tale qualifica).
+Non vi è, quindi, sufficiente
+motivo per escludere perquisizione della documentazione ex art. 164 CPP.
+Il problema non deve neppure
+essere posto per la relazione presso la __________ di __________, già per il
+solo fatto che non vi è stata produzione della documentazione a questo giudice
+per verifica ex art. 164 CPP.
+Abbondanzialmente, se si tratta
+degli stipendi (ciò che la perquisizione ha comunque lo scopo di verificare)
+come asserito nel reclamo, si deve comunque concludere per la loro connessione
+con l'inchiesta sia a fini probatori che confiscatori o devolutivi allo Stato
+(artt. 161 CPP, in relazione con l'art. 59 cifra 1 e cifra 2 CP).
+5.
+Quanto al sequestro (sia dei
+documenti che degli averi in conto), come detto sopra, lo stesso segue la
+perquisizione e, nella misura in cui è già stato ordinato cautelativamente,
+deve trovare conferma o smentita a seguito dell'esecuzione di quest'ultima
+(art. 164 CPP, ultima frase; GIAR 23 marzo 1994, inc. 224.94.1), che il
+magistrato inquirente non ha, di fatto, ancora effettuato.
+Riservatezza, approfondito esame
+delle circostanze e quindi della proporzionalità sono garanzie che dovranno
+presiedere alla perquisizione, vale a dire alla presa di conoscenza ed
+all'esame della documentazione bancaria da parte del magistrato inquirente (cui
+spettano tali incombenti: CRP 21 gennaio 1991 in re C. D. B., inc. 354/90; GIAR
+2 novembre 1993, inc. 863.93.1), con restituzione (e quindi non acquisizione agli
+atti dell'istruttoria) di tutte quelle carte che si constateranno estranee al
+processo e contemporanea liberazione di fondi analogamente non pertinenti.
+6.
+Il reclamo contro gli ordini di
+perquisizione e sequestro 24 ottobre 2002 è respinto, con trasmissione (a
+crescita in giudicato della presente) della documentazione posta sotto suggello
+(aperta da questo giudice il 6.11.2002) al Procuratore pubblico per la
+perquisizione e l'eventuale seguito del sequestro.
+Reiezione del gravame comporta
+carico di tasse e spese alle parti soccombenti con decisione suscettibile di
+reclamo ex art. 284 cpv. 1 lett. a) CPP.
+P.Q.M.
+viste le norme applicabili ed in
+particolare gli artt. 19 cifra 1 e cifra 2 LFStup, 157 ss, 161, 164, 284 CPP,
+decide
+1.
+Il reclamo 4/5 novembre 2002 presentato da __________ contro gli ordini
+di perquisizione e sequestro del 24 ottobre 2002 indirizzati a __________ e __________,
+è respinto.
+2.
+La documentazione bancaria oggetto di procedura di messa sotto suggello
+sarà consegnata al Procuratore pubblico per i suoi incombenti, come ai
+considerandi, a crescita in giudicato della presente.
+3.
+La tassa di giustizia fissata in FRS 400.-, e le spese di FRS 60.-, è a
+carico del reclamante per 2/3 e degli osservanti __________, __________, __________,
+__________, __________ (in solido) per il rimanente 1/3.
+4.
+Contro la presente decisione è dato reclamo alla CRP entro 10 (dieci)
+giorni dall'intimazione.
+Intimazione:
+giudice
+Edy Meli
