@@ -1,0 +1,343 @@
+---
+decision_id: "ti_gerichte_INC.2003.3703"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.3703"
+decided: "2003-06-18"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59515&nX40_KEY=4711336&nTrefferzeile=96&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2003.3703
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 18.06.2003 INC.2003.3703
+Tessin Il Giudice dell'istruzione e dell'arresto 18.06.2003 INC.2003.3703
+Ticino Il Giudice dell'istruzione e dell'arresto 18.06.2003 INC.2003.3703
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.3703
+Lugano
+18 giugno 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+__________
+sedente per statuire sull'istanza di libertà provvisoria
+presentata il 10/11 giugno 2003, da
+__________
+, attualmente c/o PCT
+rappr. dall'avv. __________
+qui trasmessa con preavviso negativo del 16/17 giugno
+2003, dal Procuratore pubblico __________;
+viste le osservazioni della
+difesa, al preavviso negativo, di data 18 giugno 2003;
+visto l'incarto MP __________;
+ritenuto
+in fatto
+A.
+__________ è stato arrestato il
+22 gennaio 2003, con imputazioni di riciclaggio, infrazione aggravata alla
+LFStup e falsità in documenti; l'arresto è stato confermato da questo giudice
+il giorno successivo, ritenuti gravi indizi di reato, pericolo di fuga e
+bisogni dell'istruzione (doc. _,  inc. GIAR __________).
+L'accusato è giunto in Svizzera,
+alla data indicata sopra, a seguito d'estradizione dagli USA, richiesta dal
+Ministero pubblico di Lugano; l'arresto a fini estradizionali è avvenuto il 17
+gennaio 2002 a Miami (USA) in esecuzione di due ordini d'arresto internazionali
+(7 marzo 2001 e 29 gennaio 2002) emanati, appunto, dal Ministero pubblico (doc.
+_, inc. GIAR __________).
+B.
+Come risulta, in breve sintesi,
+dagli ordini d'arresto citati, __________ è accusato di aver riciclato ca. 3
+mio di USD tramite il conto bancario (presso la __________) della società
+__________., raccogliendo denaro (proveniente dal traffico di stupefacente) in
+Europa, con l'ausilio  di falsi documenti relativi a "sottoscrizioni"
+fasulle, trasferendolo poi in Sudamerica (Colombia e isole Cayman). Il denaro
+sarebbe stato utilizzato anche per (ri)finanziare il traffico di cocaina. I
+fatti in questione sarebbero avvenuti tra il 1998 ed il 1999, in Svizzera,
+Olanda, Stati Uniti e Colombia.
+C.
+Con l'istanza qui in discussione
+(10 giugno 2003), __________ sostiene che la carcerazione non è più compatibile
+con il principio di proporzionalità. Egli è detenuto da oltre 16 mesi, respinge
+le accuse mossegli ed ha collaborato con gli inquirenti per dimostrare la sua
+estraneità ai fatti che gli vengono imputati.
+Non vi sono più, secondo
+l'istante, bisogni istruttori sufficienti a giustificare la detenzione
+preventiva: egli ha sempre collaborato e fornito tutte le indicazioni in suo
+possesso (istanza punto 3.1.) e non vede dove possa situarsi il pericolo di
+collusione, a questo stadio dell'inchiesta.
+E' pure escluso, sempre a suo
+dire, il pericolo di fuga (ibidem, punto 3.3). Il padre ed il fratello,
+entrambi con cittadinanza svizzera e residenti nel Canton Ginevra, sono pronti
+a garantire per lui (in che modo non è detto).
+D.
+Di diverso avviso il magistrato
+inquirente (preavviso negativo del 16 giugno 2003).
+Dopo aver elencato quelli che
+ritiene essere gravi indizi di colpevolezza (costituzione della società da
+parte dell'accusato e del cognato; provenienza illecita del denaro transitato
+sui conti della predetta società accertata da sentenze precedenti ed Affidavit
+di autorità estere; gestione personale da parte dell'accusato della
+"raccolta di capitali", con falsi documenti, per l'operazione
+immobiliare mai sviluppata; trasferimento in Colombia delle somme e emissione
+di assegni a terzi, il magistrato inquirente precisa che i bisogni istruttori
+si identificano nella necessità di salvaguardare, dall'influsso dell'accusato,
+alcune prove (testimonianze) che quest'ultimo ha chiesto di assumere e sulle
+quali egli (il magistrato) si deve ancora pronunciare. Il pericolo di
+collusione è desumibile dall'atteggiamento dell'accusato che ha ritrattato
+precedenti ammissioni (preavviso p. 4). Concreto e presente, sempre secondo il
+magistrato inquirente, il pericolo di fuga. L'accusato, che fruisce della
+doppia nazionalità svizzera e colombiana, prima dell'arresto viveva e risiedeva
+tra la Colombia e gli Stati Uniti, dove è rimasto oltre un anno prima
+dell'estradizione effettiva, essendosi opposto alla stessa. Questi fatti, se
+aggiunti alla pena ipotizzabile in caso di condanna, concretizzano il pericolo
+di fuga.
+A quanto sopra, il magistrato
+inquirente aggiunge un'operazione del 1995 per 19,7 mio USD (accredito e
+addebito) su di un conto aperto presso la __________, istituto presso il quale
+l'accusato ha lavorato in quel periodo, e per la quale l'accusato si avvale del
+diritto di non rispondere.
+Da ultimo, l'inchiesta è nelle
+fasi conclusive ed il periodo di detenzione sofferta (ed eventualmente ancora
+da soffrire, anche nell'eventualità della concessione della proroga richiesta
+con atto separato) è ancora rispettosa del principio di proporzionalità.
+E.
+Con le osservazioni del 18
+giugno, l'accusato ribadisce il contenuto dell'istanza e sottolinea che l'aver
+richiesto la raccolta di alcune prove all'estero, non può influire sul
+perdurare della sua carcerazione. Le sue ammissioni, sono avvenute in un
+momento di confusione e davanti alla polizia. Da ultimo, la presunzione di
+condanna non è sufficiente a mantenere il carcere preventivo.
+Delle altre osservazioni e/o
+argomentazioni delle parti si dirà, se del caso, nei considerandi che seguono.
+Considerato
+in diritto
+1.
+__________, accusato e detenuto, è certamente legittimato
+alla presentazione dell'istanza, che è stata trasmessa a questo ufficio nei
+termini di legge.
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui riproposti:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc.
+520.2001.5)".
+3.
+I gravi indizi di colpevolezza
+sono dati, nel caso concreto.
+L'accusato sembra contestarli,
+respingendo le accuse. In realtà non ne contesta gli aspetti oggettivi bensì
+quelli soggettivi (cfr. verbale GIAR 23 gennaio 2003 p. 4).
+Sia come sia, la presenza di
+sufficienti indizi di colpevolezza deve essere verificata d'ufficio.
+Che la __________, sia stata
+utilizzata, di fatto, per riciclare denaro proveniente dal traffico di
+stupefacenti risulta sufficientemente indiziato (per le necessità della
+presente decisione) dagli accertamenti effettuati nell'ambito dell'inchiesta
+__________. E' questa inchiesta che ha dato origine agli ordini d'arresto
+concernenti il qui accusato. Gli indizi in questione concernono sia operazioni
+di traffico di cocaina concluse in Italia, sia operazioni concluse in Gran
+Bretagna (cfr. Assise criminali Lugano 15 febbraio 2001, pagine 92ss, 96, 10,
+103ss, 104, 105). Come si può rilevare dalla tabella relativa alla
+movimentazione bancaria della relazione bancaria della __________ presso
+__________ (Verbale PS __________ 10.02.2003), la maggior parte delle entrate
+provengono da tale __________ e da una società denominata __________. Entrambi
+questi nomi sono legati al traffico di stupefacenti come si evince dalla
+sentenza citata e da un Affidavit delle autorità britanniche (entrambi in doc.
+_ inc. GIAR __________).
+Quanto agli aspetti soggettivi va
+detto che la __________ è stata costituita per iniziativa dell'accusato
+(Verbale PS __________ 22 gennaio 2003, p. 1), che lo scopo per il quale la
+società è stata costituita (finanziamento progetti in Colombia e rientro
+capitali in Colombia: Verbale PS __________ 3 marzo 2003 p. 4 e 6) non risulta
+esser stato perseguito con particolare intensità (Verbali PP __________ 26
+febbraio 2003, p. 4 e 20 marzo 2003, p. 2), che tra i formulari che
+(pretesamente) si facevano firmare agli "investitori" ve ne sono di
+palesemente falsi (Verbale PS __________ 22 gennaio 2003 p. 4 e 11 febbraio
+2003 p. 1) e l'accusato afferma di averlo fatto sottoscrivere ad una sola
+persona (Verbale PS __________ 5 febbraio 2003, p. 2) gli altri essendo, a suo
+dire, "gestiti" da terzi (in particolare da tale __________: Verbale
+PP 7 maggio 2003, p. 3), che il denaro, una volta giunto in Sudamerica veniva
+prelevato mediante assegni e consegnato a terzi su indicazione del non meglio
+identificato LEAL (Verbale PP __________ 4 marzo 2003, p. 4).
+Quando sopra è sufficiente a
+permettere di ritenere presenti concreti indizi anche in relazione agli aspetti
+soggettivi senza che sia indispensabile far riferimento ai dubbi che lo stesso
+accusato afferma (non solo davanti alla polizia) di aver avuto, perlomeno ad un
+certo momento (Verbale PP __________ 7 maggio 2003 p. 2), o al fatto che la società
+costituita dall'accusato per un ben preciso fine (perlomeno stando a quanto da
+lui dichiarato) era di fatto (secondo le affermazioni dell'accusato) ai servizi
+ed agli ordini di tale __________, persona con attività non ben definita,
+neppure dall'accusato ( Verbali PP __________ 4 marzo 2003, p. 4).
+4.
+Nel caso in esame, oltre a gravi
+indizi di colpevolezza per i reati ascritti (in particolare quello di
+riciclaggio) è dato, in modo concreto, il pericolo di fuga.
+Per giustificare carcerazione
+preventiva, questo deve essere concreto e rivestire di una certa probabilità:
+in altri termini lo si ammette quando l’accusato, se posto in libertà, si
+sottrarrebbe con una certa verosimiglianza al perseguimento penale ed alla
+(eventuale) esecuzione della pena. La gravità della pena presumibile non basta,
+da sola, a motivare la carcerazione; occorre
+valutare l’insieme delle
+circostanze, tra cui il carattere dell’accusato, la sua morale, i legami
+famigliari, il domicilio, la professione, la situazione economica e tutti
+quegli elementi che rendono la fuga non solo possibile ma probabile (DTF 19
+gennaio 1999 in re G.S.; DTF 117 Ia 69).
+Pacifico che a poco valgono, per
+quest'analisi, le semplici dichiarazioni d'intenti dell'accusato stesso.
+__________ è cittadino svizzero e
+colombiano, residente in Colombia e negli Stati Uniti (in particolare negli
+ultimi anni). Gli attuali suoi legami con il nostro territorio sono limitati
+alla presenza nel Canton Ginevra del padre e del fratello. Questa circostanza
+non permette di affermare che in Svizzera l'accusato abbia il centro delle sue
+relazioni famigliari, sociali e economiche, relazioni che, al momento attuale,
+sono in altro continente.
+Se le accuse dovessero essere
+confermate il rischio di una pena non lieve, e senza il beneficio della
+condizionale, esiste (i reati per i quali è stata promossa l’accusa prevedono
+anche la reclusione), pur tenendo in debito conto il fatto che non risultano
+precedenti penali a suo carico. Quest'ultimo elemento, da solo, può non essere
+determinante, ma deve essere attentamente considerato se ad esso se ne sommano
+altri come sopra descritto (SJ 1980 186; SJ 1981 135; N. Schmid,
+Strafprozessrecht, ZH 1997, no. 701).
+Inoltre, deve essere considerato
+anche il fatto che l'accusato si è opposto all'estradizione. Era un suo
+diritto, ma è comunque indicativo del fatto che i suoi interessi sono altrove
+che in Svizzera.
+Alla luce di questi elementi, è
+lecito presumere che le conseguenze di una fuga possano apparirgli quale male
+minore per rapporto a quello derivante dal rischio di ulteriore carcerazione
+(M. Luvini, op. cit., p. 292) e il pericolo di fuga deve essere considerato
+presente in modo concreto (DTF 102 Ia 382; DTF 106 Ia 407; DTF 117 Ia 69; SJ
+1980 585).
+Irrilevanti, a questo proposito,
+le non meglio precisate "garanzie" che i famigliari sarebbero pronti
+a dare per far si che l'accusato rimanga a disposizione dell'autorità
+inquirente. Non va dimenticato che gli stessi famigliari (alto funzionario
+presso l'ONU il padre e medico chirurgo il fratello) hanno comunicato, solo
+qualche giorno fa, di non essere in grado di aiutare economicamente l'accusato
+(doc. _ inc. GIAR __________). E' quindi da escludere che le garanzie in
+questione possano assumere la forma della cauzione.
+5.
+Accertato il pericolo di fuga ci
+si occupa del pericolo di collusione solo a titolo abbondanziale.
+In relazione ai bisogni
+istruttori, atti a giustificare la misura restrittiva della libertà personale,
+occorre ricordare che questi non s'identificano semplicemente con gli atti istruttori
+in quanto tali, o con gli accertamenti         (ancora) da effettuare, bensì
+con il pericolo di collusione o d'inquinamento delle prove che (eventualmente)
+espone a rischio la corretta raccolta (o conservazione) di tali atti (G.
+Piquerez, Procédure pénale suisse, ZH 2000, nos. 2344 ss.; N. Schmid,
+Strafprozessrecht, ZH 1997, nos. 697 ss.; RDAT 1988 no. 24). In quest'ottica il
+fatto che l'inchiesta sia tuttora in corso non è, di per sé, decisivo, in
+quanto "
+Die Tatsache allein, dass noch nicht alle Beweise erhoben bzw.
+die Mitverdächtigen dingfest gemacht werden konnten oder dass der
+Angeschuldigte die Aussage verweigert, genügt nicht
+" (N. Schmid, op.
+cit., no. 701a). Occorre che l'indagato, se posto in libertà, possa
+pregiudicarne (o comprometterne) il corretto svolgimento e, conseguentemente,
+l'esito.
+Per far ciò occorre che le prove
+sulle quali potrebbe innestarsi un pericolo di collusione siano individuabili.
+Non basta che l'accusato possa chiederne (ipoteticamente) di nuove. Certo,
+questa affermazione deve essere relativizzata nei casi di fattispecie complesse
+con ramificazioni internazionali dove, in ossequio al principio di celerità,
+succede di rinunciare alla raccolta di prove "marginali" e/o
+"circostanziali". Nel caso in esame l'accusato ha chiesto l'audizione
+di persone in qualche modo coinvolte nella movimentazione di denaro oggetto
+d'inchiesta (cfr. Verbale PP __________ 12 giugno 2003, p. 4). Anche se non lo
+si può affermare con certezza, un rischio d'influenza, visti i rapporti
+intrattenuti con queste persone, non può essere escluso.
+6.
+La detenzione preventiva subita,
+e quella presumibilmente ancora da subire, non è lesiva del principio di
+celerità.
+Gravità dei reati imputati, pena
+prospettabile in caso di condanna, complessità della fattispecie e le sue
+ramificazioni internazionali fanno si che un ulteriore protrarsi della
+carcerazione preventiva non sia (ancora) lesivo di tale principio (SJ 1998 p.
+247). Inoltre, come segnalato dal magistrato inquirente, l'inchiesta è in fase
+conclusiva e risulta essere stata condotta in modo celere.
+Il fatto che l'accusato abbia
+subito ca. 12 mesi di carcere estradizionale non entra in questa valutazione,
+in quanto questo periodo "
+non può essere computato come carcere
+preventivo durante l'istruttoria secondo le norme sulla detenzione preventiva
+"
+(REP 1986 p.161).
+7.
+In conclusione, essendo presenti
+gravi indizi di reato, pericolo di fuga, pericolo di collusione (ancorché in
+misura minore) ed il perdurare della situazione privativa della libertà non
+essendo lesiva del principio di proporzionalità, l'istanza deve essere
+respinta. Ciò avviene con la presente decisione, esente da tasse e spese,
+impugnabile davanti la CRP.
+P.Q.M.
+richiamati gli articoli 305 bis e
+251 CP, 19 cifra 2 LFStup, 95 ss. 102, 103, 279 ss, 284 CPP;
+decide
+1.
+L’istanza di
+libertà provvisoria è respinta.
+2.
+Non si
+percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera
+dei ricorsi penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+-    Procuratore
+pubblico avv. __________;
+(con copia delle osservazioni 18 aprile 2003 del patrocinatore
+dell’accusato);
+-    avv.
+__________, per sé e per l’accusato;
+-    Direzione
+del Penitenziario cantonale, Lugano-Cadro.
+giudice
+__________
