@@ -1,0 +1,237 @@
+---
+decision_id: "ti_gerichte_INC.2002.20702"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.20702"
+decided: "2003-01-02"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=104374&nX40_KEY=4711568&nTrefferzeile=13&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-161.md", "switzerland/bund/acts/955.0/art-009.md"]
+---
+
+# TI Gerichte INC.2002.20702
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 02.01.2003 INC.2002.20702
+Tessin Il Giudice dell'istruzione e dell'arresto 02.01.2003 INC.2002.20702
+Ticino Il Giudice dell'istruzione e dell'arresto 02.01.2003 INC.2002.20702
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2002.20702
+Lugano
+2 gennaio 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Claudio Lepori
+Visto il reclamo presentato il 17 aprile 2002, presentato
+dalla
+__________
+patrocinata dall'avv. __________
+contro
+contro l'ordine di perquisizione e sequestro con divieto
+di informare gli interessati emanato il 10 aprile 2002 dalla
+Procuratrice
+pubblica
+avv. Claudia Solcà nel procedimento pendente contro __________, __________
+per titolo di appropriazione indebita e altri reati;
+viste le osservazioni 29 aprile
+2002 della magistrata inquirente, che postula la reiezione del reclamo;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto:
+A.
+Nei confronti di __________ è pendente
+procedimento penale per titolo di appropriazione indebita, amministrazione
+indebita aggravata subordinatamente semplice, falsità in documenti e
+riciclaggio di denaro, per avere nelle sue attività di fiduciario malversato
+fondi di clienti e dirottato anche a proprio favore somme di denaro importate
+clandestinamente, rispettivamente - come all'ordine impugnato - per "
+reati
+commessi in danno di clienti che hanno conferito mandato di gestione del loro
+patrimonio alle società dove ha lavorato e da lui gestiti personalmente, nonché
+per avere compiuto atti suscettibili di vanificare l'accertamento dell'origine,
+il ritrovamento e la confisca di valori patrimoniali sapendo o dovendo
+presumere che provenivano da crimini commessi da terze persone
+".
+In questo contesto la
+Procuratrice pubblica ha emanato diversi ordini di perquisizione e di sequestro
+bancari, anche con divieto di dare informazione del provvedimento a terzi, tra
+i quali evidentemente e principalmente i titolari o comunque aventi diritto ai
+relativi conti e averi, in applicazione dell'art. 161 cpv. 7 CPP: per quanto
+qui concerne si tratta della decisione del 10 aprile 2002, che cita
+espressamente, oltre all'accusato, altri nominativi di cittadini __________,
+per i quali è richiesta l'identificazione delle relazioni a partire dal 1.
+gennaio 1999, con il sequestro di ogni avere e la trasmissione della relativa
+documentazione. E si ricorda che lo stesso giorno la magistrata inquirente
+aveva disposto identico provvedimento nei confronti di "
+tutti gli istituti
+bancari del Cantone Ticino
+" né risultano in proposito impugnative, ma
+più o meno puntuale esecuzione, con successivi tempestivi dissequestri di quei
+conti risultati estranei al procedimento (v. in particolare gli atti sub C
+dell'inc. MP __________).
+B.
+L'istituto reclamante contesta
+unicamente il divieto di informare, che si rivela gravemente lesivo del diritto
+di essere sentito, per rapporto alla limitata possibilità di impugnativa
+riservata ad una banca, e che sarebbe proponibile solo al cospetto di
+preminenti motivi di interesse pubblico o di circostanze eccezionali, come a
+giurisprudenza e dottrina. Nel presente caso la Procuratrice pubblica ha
+formulato solo delle ipotesi di reato senza proporre un'accresciuta
+motivazione, voluta per l'eccepito divieto, per cui - in uno con la domanda
+preliminare di accesso agli atti e successiva facoltà di replica - nel merito
+viene postulato l'annullamento del divieto di informare gli interessati
+dell'emanazione del provvedimento di perquisizione e di sequestro, che potrà
+assumere efficacia solo alla sua crescita in giudicato nei confronti appunto di
+quegli interessati.
+La Procuratrice pubblica, nel
+postulare la reiezione del reclamo, osserva preliminarmente che non vi sono
+parti lese da reato di riciclaggio, che vuole proteggere l'amministrazione
+della giustizia e non il patrimonio dei singoli: d'altro canto la Banca __________
+non è parte al procedimento, per cui non può avere accesso agli atti, facoltà
+peraltro negata alle parti civili e parzialmente anche allo stesso accusato,
+data la particolarità della fattispecie inquisita. Per quanto concerne notizie
+sui contenuti del procedimento, è sufficiente che l'istituto reclamante - oltre
+alla conoscenza dei capi di imputazione mossi a __________ - sappia che "
+svariate
+relazioni bancarie, presso più banche svizzere, a suo nome
+[dell'accusato]
+e/o
+di clienti, sono state utilizzate anche per depositare e far transitare
+proventi illeciti di crimini commessi da terze persone all'estero, non si sa
+ancora con quale consapevolezza dei clienti stessi
+". Maggiori notizie
+sull'avvenuta perquisizione e sequestro potrebbero nuocere all'inchiesta e
+compromettere seriamente le indagini, consentendo agli interessati di
+intervenire su altri qui ignoti conti di collegamento, anche spostando beni
+destinati alla confisca. La Banca __________ dovrebbe inoltre rispettare l'art.
+9 LRD, per cui "
+mal si comprende
+" che "
+cavilli sul
+divieto o meno di informare i clienti quando rischia di non ottemperare
+addirittura ad un suo obbligo legale di segnalazione
+".
+e considerando
+in diritto:
+1.
+In quanto diretto contro
+contenuti dell'ordine di perquisizione e sequestro il reclamo è tempestivo e
+prodotto da terzo con un interesse legittimo, per cui è ricevibile in ordine,
+secondo gli art. 280 e rel CPP. Limitato ad una disposizione del decreto 10
+aprile 2002, quella appunto che fa divieto di informare, mentre non sono stati
+contestati perquisizione e sequestro come tali, non occorrerà entrare in
+discussione sulla loro pertinenza, peraltro data, come altrimenti già costatato
+da questo giudice.
+Irricevibile è per contro la
+domanda di accesso agli atti, che avrebbe dovuto essere indirizzata in prima
+sede alla Procuratrice pubblica e poi semmai dedotta con reclamo in questa
+sede. Abbondanzialmente si annota che vanno condivise le obiezioni proposte
+dalla magistrata inquirente in proposito, anche poi per l'esito complessivo
+della presente impugnativa.
+2.
+L’art. 161 cpv. 7 CPP consente di
+ordinare al detentore dell’oggetto del sequestro di non rendere noto a quanti
+ne sono concretamente colpiti il provvedimento o le sue cause, “
+quando ciò
+sia richiesto da importanti ragioni di inchiesta
+”.
+Questo istituto (v. decisione 5
+aprile 1996 in re F.M., GIAR 1093.93.21, massimata in REP 1996 n. 109) è stato
+introdotto con la revisione totale del CPP entrata in vigore il 1. gennaio
+1996, siccome derivato dalla corrispondente proposta del Messaggio dell’11
+marzo 1987, che ne ha dato la seguente motivazione (pag. 144, ad art. 120 nota
+6):
+“ E’ stato osservato che la notizia dell’avvenuto
+sequestro può essere nociva all’inchiesta, in particolare quando si tratti del
+sequestro di atti bancari. Il cpv. 4 (
+N.d.R. recte cpv. 5
+) ha per fine
+di dare una base legale all’ordine che l’inquirente può dare di non render noto
+il sequestro. Questo disposto non può diventar regola; va applicato solo quando
+sussistano importanti ragioni e quindi quando la comunicazione del sequestro
+possa intralciare l’inchiesta.”
+Evidentemente si tratta di una
+restrizione importante del diritto di essere sentito che si apparenta con le
+restrizioni nella compulsazione degli atti, cui può essere soggetto un
+accusato, rispettivamente con la facoltà di porre sotto controllo un’utenza
+telefonica senza preventiva informazione alla persona interessata. E allora
+(anche) questa limitazione del diritto di essere sentito deve essere
+giustificata da prevalenti motivi di interesse pubblico, con riferimento
+all’interesse-dovere dello Stato al perseguimento ed alla punizione di
+colpevoli di atti aventi rilevanza penale, ed in presenza di circostanze
+eccezionali. Occorre quindi che la fattispecie sia di particolare gravità
+affinché si possa imporre ad un terzo, come nel caso di specie la banca, di
+tacere nei confronti dell’interessato (qui neppure potenziale indagato), ed al
+contempo necessario che sussista un rischio di inquinamento probatorio o di
+fuga (si pensi al divieto di informare imposto ad una banca nel caso di un
+grosso trafficante di stupefacenti con relazioni bancarie che intenda prelevare
+danaro provento del traffico; od ancora al divieto formulato all’indirizzo
+della banca di informare di una perquisizione la moglie di malvivente
+attivamente ricercato).
+3.
+I contenuti del procedimento a
+carico di __________ rientrano sicuramente nella casistica accennata al
+considerando precedente, legittimando il contestato divieto.
+Ricordato che l'ordine di
+perquisizione e sequestro, diretto alla Banca __________, e quelli simili
+concernenti altri istituti bancari sono giustificati dalla concreta necessità di
+ricostruire tutte le movimentazioni operate da __________, avveratesi spesso
+sospette malversazioni a danno di clienti rispettivamente sospette transazioni
+di riciclaggio e connesso dirottamento di corrispondenti fondi, si ha che quel
+contesto vede coinvolti - oltre a probabilmente ignara clientela dell'accusato
+- anche altri criminali, interessati ed attivi in particolare nel riciclaggio
+di denaro, con necessità allora di accurate indagini bancarie tale da
+consentire di arrivare ad un quadro istruttorio completo ed affidabile, anche
+seguendo i percorsi della criminosa movimentazione di capitali, ovviamente
+senza che i sospettati mandanti o cooperatori delle manovre di quel riciclaggio
+- non assicurati alla giustizia di questa sede ed i cui nominativi sono in
+parte conosciuti - possano vanificare di principio l'inchiesta, attraverso
+manovre collusive a più o meno ampio raggio, ma soprattutto impedire o rendere
+problematico il ricupero di importi di valenza criminale. Senza necessità di
+scendere in dettagli concreti, sottoposti in ogni modo a segreto istruttorio,
+le notizie sul genere di reato e sulle sue implicazioni pur scarne a
+disposizione della reclamante, danno per sufficientemente dimostrata
+l'eccezionalità delle circostanze e quindi la prevalenza dell'interesse
+pubblico, pur tralasciando di approfondire il dovere di rispetto dell'obbligo
+di informazione dell'intermediario finanziario, quale è una banca, di fronte al
+solo sospetto di riciclaggio, come imposto dell'art. 9 LRD.
+Come già accennato in ingresso,
+si aggiunge abbondanzialmente che, nel giusto rispetto del principio di
+proporzionalità, la Procuratrice pubblica ha già dimostrato coerenza in
+concreto nei confronti di altri istituti bancari colpiti da analogo
+provvedimento coercitivo, procedendo ad esami senza indugi della documentazione
+bancaria via via sottopostale, con seguito di pronto dissequestro e
+contemporanea revoca del divieto di informare per quelle relazioni
+comprovatamente estranee al procedimento.
+4
+Il reclamo, in quanto ricevibile,
+è di conseguenza respinto con la presente decisione suscettibile di ricorso
+alla Camera dei ricorsi penali, in quanto riferita a materia connessa con il
+sequestro (art. 284 cpv. 1 lett. a CPP), con seguito di spese giudiziarie (art.
+39 lett. F TG).
+Per i quali motivi,
+visti i citati articoli di legge,
+decide:
+1.
+In quanto ricevibile, il reclamo è respinto.
+2.
+La tassa di giustizia di fr. 300.- e le spese di fr. 50.- sono a carico
+della Banca__________.
+3.
+Contro la presente decisione è dato ricorso, entro dieci giorni
+dall'intimazione, alla Camera dei ricorsi penali.
+4.
+Intimazione:
+giudice
+Claudio Lepori
