@@ -1,0 +1,100 @@
+---
+decision_id: "ti_gerichte_INC.1997.42805"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1997.42805"
+decided: "2005-01-18"
+published: "2005-01-18"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56875&nX40_KEY=4711288&nTrefferzeile=19&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-281.md"]
+---
+
+# TI Gerichte INC.1997.42805
+
+## Regeste
+
+Prove
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 18.01.2005 INC.1997.42805
+Tessin Il Giudice dell'istruzione e dell'arresto 18.01.2005 INC.1997.42805
+Ticino Il Giudice dell'istruzione e dell'arresto 18.01.2005 INC.1997.42805
+
+Prove
+
+Incarto n.
+INC.1997.42805
+Lugano
+18 gennaio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire sul
+reclamo presentato il 14/17 gennaio 2005 da
+__________
+, __________
+(rappr. dall'avv.
+__________, __________)
+contro
+la decisione 3 gennaio 2005
+del Procuratore pubblico Giuseppe Muschietti che dichiara intempestiva
+l'istanza di complemento istruttorio presentata il 30 dicembre 2004
+nell'ambito dell'inc. MP __________;
+considerata priva d'utilità la trasmissione del
+reclamo al magistrato inquirente ed alle parti civili, per osservazioni, in
+virtù di quanto si dirà in seguito;
+ritenuto, in fatto ed in diritto, che:
+-
+con decisione del 23 dicembre
+2004, il Procuratore pubblico ha respinto la richiesta di proroga del termine
+di deposito degli atti (su complemento) che giungeva a scadenza a quella stessa
+data;
+-
+contro tale decisione la difesa di
+__________ ha inoltrato reclamo (al GIAR) il 30 dicembre 2004 e, contestualmente,
+ha presentato un'istanza di complemento istruttorio;
+-
+il reclamo contro il rifiuto di
+concessione di una proroga del termine di deposito degli atti non ha, di per
+sé, effetto sospensivo, né tale effetto è stato concesso (art. 281 cpv. 2 CPP);
+-
+con decisione del 17 gennaio 2005,
+questo giudice ha respinto il reclamo contro il rifiuto di concessione della
+proroga del termine ex art. 196 CPP;
+-
+in virtù di quanto sopra esposto,
+il termine di deposito degli atti (e di inoltro delle eventuali richieste di complemento
+istruttorio) risulta essere giunto a scadenza il 23 dicembre 2004 e non
+prorogato;
+-
+la richiesta del 30 dicembre 2004
+è, quindi, intempestiva e non può essere considerata come inoltrata nell'ambito
+di una proroga del termine in questione;
+-
+il reclamo, attualmente anche privo d'oggetto, deve
+pertanto essere respinto;
+-
+la tassa di giustizia e le spese,
+possono essere poste a carico del reclamante cui era nota la scadenza del
+termine ed il fatto che la proroga era sub giudice.
+P.Q.M.
+viste le norme applicabili, in particolare gli artt.
+280 ss. nonché 9 CPP,
+decide
+1.
+Nella
+misura in cui non è divenuto privo d'oggetto, il reclamo è respinto.
+2.
+La tassa di giustizia (FRS 100.-) e le spese (FRS
+62.-) sono a carico del reclamante.
+3.
+Intimazione:
+giudice
+Edy Meli
