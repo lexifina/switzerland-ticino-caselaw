@@ -1,0 +1,69 @@
+---
+decision_id: "ti_gerichte_INC.2001.10801"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.10801"
+decided: "2001-04-19"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59756&nX40_KEY=4711450&nTrefferzeile=58&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2001.10801
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 19.04.2001 INC.2001.10801
+Tessin Il Giudice dell'istruzione e dell'arresto 19.04.2001 INC.2001.10801
+Ticino Il Giudice dell'istruzione e dell'arresto 19.04.2001 INC.2001.10801
+
+Sentenza o decisione senza scheda
+
+N. 108.2001.1 L                                                         Lugano,
+19 aprile 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+presentato il 23 febbraio 2001 dal
+Titolare del conto
+presso l'__________ di Lugano oggetto dell'ordine di perquisizione e sequestro
+13 febbraio 2001
+(patrocinato dall'avv.
+__________)
+contro il menzionato
+provvedimento, nel procedimento condotto con informazioni preliminari per
+sospetta carente diligenza in operazioni finanziarie a carico di __________
+(patrocinata dall'avv. __________);
+preso atto della comunicazione 18
+aprile 2001 della
+Procuratrice pubblica
+avv. __________ di immediato
+dissequestro di tutte le relazioni bancarie oggetto di provvedimento
+restrittivo nel citato procedimento, concluso con decreto di non luogo a
+procedere del 17 aprile 2001 (NLP __________);
+considerato che di conseguenza il
+gravame è divenuto privo di oggetto e come tale va stralciato dai ruoli senza
+seguito di spese giudiziarie;
+visti gli art. 161 e rel. e 280
+ss. CPP
+decide:
+1.
+Il reclamo è evaso, in quanto privo di oggetto.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Intimazione:
+-
+avv. __________, per sé e per il reclamante;
+-
+avv. __________, per sé e per la signora __________;
+-
+Procuratrice pubblica avv. __________.
+giudice
+__________
