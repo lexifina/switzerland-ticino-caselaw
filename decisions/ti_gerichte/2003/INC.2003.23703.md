@@ -1,0 +1,231 @@
+---
+decision_id: "ti_gerichte_INC.2003.23703"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.23703"
+decided: "2003-08-04"
+published: "2003-08-04"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59480&nX40_KEY=4711332&nTrefferzeile=20&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-013.md", "switzerland/bund/acts/312.0/art-146.md", "switzerland/bund/acts/312.0/art-193.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2003.23703
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 04.08.2003 INC.2003.23703
+Tessin Il Giudice dell'istruzione e dell'arresto 04.08.2003 INC.2003.23703
+Ticino Il Giudice dell'istruzione e dell'arresto 04.08.2003 INC.2003.23703
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.23703
+Lugano
+4 agosto 2003
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+__________
+sedente per statuire sul reclamo presentato il 17/18
+luglio 2003 da
+__________
+attualmente detenuto c/o PCT
+rappr. dall'avv. __________
+contro
+la decisione 4 luglio 2003 del Procuratore pubblico
+__________ che mette a disposizione del perito copia degli atti processuali.
+Viste le osservazioni della parte
+civile __________ (28/29 luglio 2003) e del magistrato inquirente (29 luglio
+2003);
+visto, per quanto necessario,
+l'inc. MP __________/2003;
+ritenuto e considerato
+in fatto ed in diritto
+che:
+-
+nei confronti di __________ è pendente un'istruttoria formale per
+le ipotesi di reato di appropriazione indebita qualificata, subordinatamente
+semplice, amministrazione infedele qualificata, subordinatamente semplice,
+mancato assassinio, subordinatamente mancato omicidio (doc. _ inc. GIAR
+__________);
+-
+in tale ambito, e con decisione del 21 maggio 2003, il magistrato
+inquirente ha ordinato l'erezione di una perizia psichiatrica volta a
+determinare "
+qual'è lo stato di salute dell'accusato oggi e qual era al
+momento dei fatti
+" (AI __________);
+-
+con scritto del 4 luglio 2003, indirizzato alla difesa, è stata
+disposta la messa a disposizione del perito degli atti processuali "
+che
+egli ritiene necessari per l'esecuzione del suo incarico
+" (AI
+__________);
+-
+avverso tale decisione insorge il reclamante chiedendo, sia in
+via principale che in via subordinata, che la decisione in questione venga
+annullata e che al magistrato inquirente venga ordinata l'emanazione di nuova
+decisione "
+ai sensi dei considerandi
+" (Reclamo 17 luglio 2003,
+p. 6, doc. _ inc. GIAR __________; per completezza si dirà che l'effetto
+sospensivo al reclamo è stato concesso con ordinanza del 21 luglio 2003; doc. _
+inc. GIAR __________);
+-
+a mente del reclamante (e appoggiandosi ad una citazione
+dottrinale - P. Maier / A. Möller, Das gerichtspsychiatrische Gutachten gamäss
+art. 13 StGB, Zurigo, 1999) la concessione al perito di un accesso totale agli
+atti (di cui peraltro l'indagato ancora non fruisce), lasciando a quest'ultimo
+la scelta di quelli utili per il suo lavoro, corrisponde ad un trasferimento di
+competenze (relative alla conduzione del procedimento) dal magistrato al
+perito, attribuendo al secondo un potere d'indagine che non rientra nelle sue
+facoltà; inoltre, la visione di tutti gli atti da parte del perito, quindi
+anche di quelli poi ritenuti non utili alla perizia, potrebbe condurre alla
+formazione di un'opinione personale (e non professionale) fuorviante; in
+sostanza, la scelta degli atti cui il perito può accedere deve essere fatta dal
+magistrato e, in casu, limitata ai soli verbali dell'accusato (da cui dovrebbe
+emergere la sua personalità senza mediazioni/deformazioni possibili),
+subordinatamente, se si ritiene che solo il perito possa determinarsi sugli
+atti utili al suo lavoro, la determinazione deve avvenire sulla base
+dell'elenco atti con successiva trasmissione di quelli indicati (dal perito)
+come utili/necessari;
+-
+la parte civile __________, nelle sue osservazioni del 28 luglio
+2003, segnala di aver poco da dire in merito allo specifico reclamo dato che i
+suoi dubbi concernono opportunità, rilevanza, attendibilità nonché adeguatezza
+economica di una perizia psichiatrica effettuata sulle sole carte processuali;
+-
+il magistrato inquirente, nelle sue osservazioni, sostiene che
+non spetta a lui decidere a quali atti il perito debba avere accesso in quanto,
+sostanzialmente, già la scelta degli atti utili allo scopo peritale necessita
+di conoscenze specialistiche: una limitazione degli atti accessibili al perito
+non sarebbe né facoltà né diritto del magistrato inquirente, a maggior ragione
+quando il perito ritiene di poter rassegnare un rapporto sulla base dei soli
+atti; quanto alla dottrina citata dal reclamante, il magistrato inquirente
+contesta che se ne possano trarre le conclusioni che questi pretende;
+-
+il reclamo, contro la concessione dell'accesso agli atti al
+perito nominato, emana da persona legittimata ed è tempestivo;
+-
+ammissibilità (nel senso di apparente utilità e pertinenza in
+connessione con la fattispecie inquisita) della prova, rispettivamente
+rilevanza e attendibilità della stessa, non sono oggetto del reclamo, quindi
+neppure della presente decisione; lo stesso dicasi per i quesiti peritali,
+anch'essi non oggetto d'impugnativa; solo è qui in discussione la possibilità
+per il perito di accedere a tutti gli atti del procedimento;
+-
+di principio, il fatto che il perito giudiziario possa accedere
+agli atti istruttori acquisiti sino al momento del suo intervento, non può
+essere messo in discussione (art. 146 cpv. 3 CPP; GIAR 7.10.1998 in re P., inc.
+926.95.5; N. Schmid, Strafprozessrecht, 1997, n. 668; G. Piquerez, Procédure
+pénale suisse, 2000, n. 2228);
+-
+limitazioni sono certo possibili, ad esempio per motivi di
+opportunità/economicità vista la loro inutilità per il perito (in casu
+psichiatrico; si veda il chiaro esempio contenuto nella dottrina citata dal
+reclamante - Reclamo 5.07.2003 p. 5) o a dipendenza della delimitazione del
+campo d'intervento del perito fissato dal magistrato inquirente a cui compete
+la direzione dell'istruttoria formale, quindi anche la decisione sulla
+necessità di una prova e sulle modalità di sua assunzione (art. 193 CPP; GIAR
+14.08.1998 in re M., inc. 352.1998.5, cons. 4 b.);
+-
+riconosciuta tale competenza del magistrato inquirente, occorre
+prudenza prima di censurare la scelta di accertamenti (GIAR 10.11.1997 in re
+J., inc. 789.96.2, cons. 2 e citazioni), rispettivamente (e come detto sopra)
+non è nell'ambito di questo reclamo che si possono mettere in discussione
+pertinenza e rilevanza della prova già decisa;
+-
+l'assenza di limitazioni all'accesso agli atti, non costituisce,
+nel caso in esame, una "
+spoliazione dell'inquirente delle sue
+competenze
+"; queste vengono esercitate principalmente in sede di
+formulazione dei quesiti e molto meno (per non escludere categoricamente la
+possibilità di qualche connessione) in relazione al metodo d'indagine del
+perito o al materiale cui può far capo (ritenuto che al perito è pure data
+facoltà di chiede "
+altri chiarimenti ed anche l'audizione di testimoni
+e dell'accusato
+" (art. 146 cpv. 3 CPP);
+-
+considerato anche il tipo di perizia (o meglio il fatto da accertare:
+la responsabilità), dopo consulto con il perito (invero un po' generico perché
+si sarebbe potuto chiedere quale tipo di atti gli fosse necessario), il
+magistrato inquirente ha ritenuto, con la decisione impugnata (quindi
+esercitando la sua competenza), di mettere a disposizione l'intero incarto;
+-
+i rischi paventati dal reclamante (formazione di una visione
+fuorviante a seguito della visione di ogni atto) non possono certo essere elusi
+in anticipo, già per il solo fatto che ciò presupporrebbe una determinazione di
+valenza ai fini peritali (quindi ai fini dell'accertamento tecnico scientifico
+della responsabilità che -questo no- il magistrato non è in grado di fare) dei
+singoli atti; è in sede di delucidazione o complemento che, semmai, andrà
+chiarito (se non emerge già dal referto stesso) la metodologia utilizzata, la
+valutazione data ai singoli elementi ed il fondamento delle conclusioni;
+-
+vi sono certamente atti (che anche il profano può giudicare) di
+poca utilità per il perito (non si vede, infatti, cosa il perito possa dedurre
+per esempio dall'ordine di traduzione forzata o dalla corrispondenza del
+magistrato inquirente) e per i quali si potrebbe evitare la trasmissione/messa
+a disposizione senza tema di incompletezza delle possibilità di accertamento;
+tuttavia una limitazione in tal senso è solo questione di opportunità (o di
+buon senso); infatti anche la dottrina citata dal reclamante, dopo la frase
+riportata nel reclamo (e relativa, a giudizio dello scrivente, unicamente
+all'utilità di determinati atti per il perito), prosegue asserendo che "
+In
+der Praxis werden dem Gutachter häufig sämtliche Akten zur Verfügun gestellt
+"
+(Maier/Möller, p. 127);
+-
+l'unica vera limitazione imposta al magistrato inquirente è, in
+realtà, quella di non mettere a disposizione del perito atti che non
+appartengono formalmente all'incarto:
+"
+Dabei
+ist darauf zu achten, dass keine Unterlagen mitgeben werden, die nicht zu den
+Akten gehören, weil sonst die Verteidigunsrechte des Angeklagten verletzt
+würden
+"
+(ibidem)
+-
+è in sede di valutazione del referto peritale (se del caso anche
+tramite delucidazioni e complemento) che l'interessato dovrà/potrà verificare
+gli atti utilizzati (e non) dal perito, la valenza loro attribuita e la
+correttezza/affidabilità delle conclusioni tratte (DTF 101 IV 129; e per
+analogia DTF 129 I 49); ovviamente, a quel momento, l'accusato dovrà aver
+accesso al materiale messo a disposizione del perito;
+-
+in conclusione il reclamo deve essere respinto con la presente
+decisione, non impugnabile davanti alla CRP (art. 284 CPP), con conseguente
+carico di tasse e spese;
+P.Q.M.
+viste le norme applicabili ed in
+particolare gli artt. 140, 158, 112, 111 CP, 142 ss, 146, 148, 280. 281, 284
+CPP,
+decide
+1.
+Il reclamo è respinto.
+2.
+La tassa di giustizia, fissata in FRS 200.-, e le spese, FRS 50.-, sono
+a carico del reclamante.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+-
+avv. __________, per sé e per il reclamante;
+-
+avv. __________, per sé e per la parte civile __________;
+-
+PP __________.
+giudice
+__________
