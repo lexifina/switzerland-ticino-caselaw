@@ -1,0 +1,403 @@
+---
+decision_id: "ti_gerichte_INC.2001.5101"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.5101"
+decided: "2001-09-19"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59675&nX40_KEY=4711441&nTrefferzeile=76&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2001.5101
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 19.09.2001 INC.2001.5101
+Tessin Il Giudice dell'istruzione e dell'arresto 19.09.2001 INC.2001.5101
+Ticino Il Giudice dell'istruzione e dell'arresto 19.09.2001 INC.2001.5101
+
+Sentenza o decisione senza scheda
+
+N. 51.2001.1 M                                                          Lugano,
+19 settembre 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente in qualità di Giudice delle misure coercitive per
+statuire sul ricorso inoltrato in data 24/25 gennaio 2001 da
+__________
+,                        __________
+(patrocinato di fiducia da __________)
+avverso la
+decisione di divieto di abbandono del territorio di __________ emanata nei suoi
+confronti dal lod. Dipartimento delle Istituzioni in data 28 dicembre 2000
+(decisione ABB. __________);
+lette le
+osservazioni 14/15 febbraio 2001 dell’autorità amministrativa, e per essa del
+Capo Ufficio giuridico della Sezione dei permessi e dell’immigrazione;
+letto ed
+esaminato l’incarto della Sezione dei permessi e dell’immigrazione s.n.;
+ritenuto
+in fatto:
+A.
+__________ è cittadino pakistano. Dal 1996 risiede in
+Svizzera, segnatamente in Ticino. La sua domanda d’asilo è stata respinta
+dall’Ufficio federale dei rifugiati con decisione 27 ottobre 1997, confermata
+dalla Commissione di ricorso con sentenza 31 marzo 1998. Il ricorrente non ha
+ossequiato al termine di partenza, fissato per il 31 maggio 1998, adducendo
+l’impossibilità di ottenere i documenti di viaggio dalle autorità consolari
+pakistane; egli ha reiterato tale sua posizione, da ultimo, con scritto 5
+dicembre 2000 alla Sezione dei permessi e dell’immigrazione (su tutto, v.
+ricorso, inc. Giar doc. _, pti. 1-5 p. 2-3).
+B.
+In data 28
+dicembre 2000, in applicazione dell’art. 13e cpv. 1 LDDS l’autorità
+amministrativa competente ha emanato l’impugnata decisione di divieto di
+abbandono del territorio della città di __________. Essa è motivata con il
+fatto che il ricorrente nulla avrebbe intrapreso per dar seguito all’ordine di
+partenza vigente da tempo, e che la decisione apparirebbe opportuna “per
+garantire l’esecuzione del suo allontanamento” (decisione impugnata, inc. Giar
+doc. _).
+C.
+Il ricorso in
+oggetto (inc. Giar doc. _) si fonda sulla constatazione che “al ricorrente non
+viene rimproverato un comportamento criminale tale da mettere in pericolo la
+sicurezza e l’ordine pubblico” (loc. cit., pto. 7b p. 4). Inoltre, in assenza
+di validi documenti di legittimazione il rimpatrio del ricorrente non sarebbe
+possibile (ibid.): si sarebbe anzi in presenza di “impedimento oggettivo
+all’esecuzione del rinvio” (loc. cit., pto. 8b p. 5), con conseguente invito
+all’Ufficio federale dei rifugiati perché pronunci l’ammissione provvisoria
+dell’interessato (ibid.). Il ricorrente postula pure la concessione
+dell’assistenza giudiziaria (loc. cit., pto. 10 p. 6); l’effetto sospensivo,
+pure postulato (loc. cit., pto. 9 p. 5-6), è stato negato contestualmente
+all’ordinanza di intimazione del reclamo per osservazioni (inc. Giar doc. _).
+D.
+L’autorità
+amministrativa competente, in sede di osservazioni 14/15 febbraio 2001 (inc.
+Giar doc. _), sottolinea il mancato rispetto, da parte di __________,
+dell’ordine di partenza del 1998, il suo disinteresse ad attivarsi per favorire
+il proprio rimpatrio, il rifiuto di una proroga del termine di partenza per
+procedura matrimoniale e l’intervento, da lui causato, dei servizi sociali e
+del giudice civile (loc. cit., pto. 2 p. 1-2). Rammentato “il massimo impegno”
+(loc. cit., pto. 3 p. 2) dell’Ufficio federale dei rifugiati per
+l’organizzazione del rimpatrio del ricorrente, l’autorità resistente
+stigmatizza la “mentalità” del ricorrente (loc. cit., pto. 4 p. 2),
+giustificando la restrizione imposta con la necessità di “fargli comprendere
+che il suo
+nulla-fare-per-la-partenza
+e il suo
+interessare-i-servizi-sociali
+devono avere un termine” (loc. cit., pto. 3 p. 2).
+Considerato
+in diritto:
+1.
+a)        La Legge federale 18 marzo 1994 concernente misure coercitive
+in materia di diritto degli stranieri (LMC; RU 1995 146, 152) ha introdotto
+nella Legge federale sulla dimora ed il domicilio degli stranieri (LDDS; RS
+142.20) la possibilità della carcerazione dello straniero allo scopo di
+garantire la procedura di allontanamento (art. 13a LDDS) rispettivamente di
+eseguire l’allontanamento (art. 13b LDDS). La carcerazione è ordinata
+dall’autorità del Cantone competente per l’esecuzione dell’allontanamento o
+dell’espulsione (art. 13c cpv. 1 LDDS). La legge prevede pure la possibilità di
+vietare allo straniero l’accesso, rispettivamente l’abbandono di un determinato
+territorio (art. 13e LDDS). Entrambe le misure coercitive devono essere
+sottoposte al controllo da parte di un’autorità giudiziaria (art. 13c cpv. 2
+risp. art. 13e cpv. 3 LDDS).
+b)        La legislazione esecutiva emanata in proposito dal Cantone
+Ticino ha demandato al Consiglio di Stato la facoltà di designare – tramite
+regolamento – le autorità amministrative competenti per ordinare ed eseguire le
+misure LMC (v. art. 3 cpv. 1 Legge cantonale di applicazione della LMC [LALMC],
+RL 1.2.2.2; Regolamento della LALMC, RL 1.2.2.2.1). Ha inoltre esteso il
+ventaglio delle misure ipotizzabili a quelli che la legge definisce
+“provvedimenti sostitutivi” (art. 2 LALMC). È discorso di misure non previste
+dalla legislazione federale, ma dette possibili se atte a raggiungere lo scopo
+della carcerazione: cauzione, deposito dei documenti, regolare comparizione,
+residenza in luogo determinato e simili (art. 2 cpv. 1 LALMC). Nel caso di
+specie, la misura avversata fa parte di quest’ultima categoria, come peraltro
+espressamente indicato al primo capoverso della decisione impugnata.
+c)         Il Giudice dell’istruzione e dell’arresto è l’autorità
+giudiziaria cantonale giusta la legislazione federale (art. 4 LALMC).
+Coerentemente con l’avvenuta estensione delle misure coercitive a quelle di cui
+al citato art. 2 cpv. 1 LALMC, il giudice non è competente unicamente per le
+misure previste dalla LDDS, bensì anche per ogni altra decisione dell’autorità
+amministrativa (art. 32 LALMC), fra le quali ricadono appunto i provvedimenti
+sostitutivi.
+d)        È pertanto data la competenza di questo giudice
+ratione
+materiae
+.
+2.
+Sebbene
+datata 28 dicembre 2000, la decisione impugnata è stata effettivamente intimata
+soltanto il successivo 15 gennaio 2001 (v. ricorso, cit., premessa p. 2;
+ricevuta d’intimazione dell’Ufficio regionale degli stranieri di __________,
+agli atti amministrativi s.n.). Il gravame è dunque tempestivo, come d’altronde
+neppure contestato dell’autorità resistente.
+3.
+Né la legge
+cantonale, né tantomeno il regolamento, precisano quale procedura sia
+applicabile. La natura amministrativa delle norme della LDDS non è tuttavia
+contestabile: ne fa stato l’approfondita discussione sull’opportunità o meno di
+designare questo giudice a giudice delle misure coercitive, in ragione della
+connotazione penale della sua attività (v. Messaggio LALMC 4598 del 20 novembre
+1996, pto. II.2 p. 728-732; Rapporto LALMC 4598 R dell’11 marzo 1997, part. p.
+752). Ciò si è concretizzato, fra l’altro, nella designazione del Tribunale
+cantonale amministrativo quale ultima autorità giudiziaria cantonale (artt. 31
+e 32 cpv. 2 LALMC), e nel termine di 15 giorni per l’inoltro del rimedio di
+diritto (ibid.), identico a quello per il contenzioso amministrativo (v. art.
+46 Legge di procedura per le cause amministrative [LPAmm.], RL 3.3.1). Ne
+discende che anche alla presente procedura si applica la Legge per le cause
+amministrative: questa non prescrive, per il patrocinatore, condizioni
+specifiche di capacità o requisiti personali (art. 15 LPAmm.;
+Marco
+Borghi/Guido Corti
+, Compendio di procedura amministrativa ticinese, CFPG
+Collana blu volume 1, Lugano 1997, nota 3 ad art. 15 LPAmm., p. 80). Alla
+ricevibilità del presente rimedio di diritto non osta, dunque, che esso sia
+stato inoltrato da persona non iscritta all'Albo degli avvocati del Cantone
+Ticino.
+4.
+a)        In senso stretto, l’art. 13e LDDS permette di ordinare misure
+restrittive della libertà di movimento nei confronti di cittadino straniero
+privo di permesso di dimora o domicilio, e che cumulativamente mette in
+pericolo la sicurezza e l’ordine pubblico.
+b)        La giurisprudenza ha tuttavia attribuito all’art. 13e LDDS
+anche un senso improprio. Secondo il Tribunale federale, anche la carcerazione
+in via di allontanamento, come ogni misura suscettibile di limitare la libertà
+personale, deve rispettare il principio di proporzionalità (DTF 125 II 377,
+consid. 4a p. 383): ciò significa che nessun’altra misura deve apparire atta a
+garantire l’esecuzione dell’allontanamento (DTF 119 Ib 193, consid. 2c p. 198).
+Ecco allora l’obbligo, per l’autorità, di “deviare, laddove possibile, su
+misure meno incisive, quali il divieto di accesso o di abbandono di un
+territorio, l’obbligo di notifica della presenza alla polizia, il deposito di
+una cauzione, ecc. (DTF del 13 luglio 1995 in re K.; DTF del 4 ottobre 1995 in
+re Bahri)” (Messaggio LALMC n. 4598 del 20 novembre 1996, pto. III.1 p. 732 s.)
+– obbligo che il legislatore cantonale ha codificato all’art. 2 LALMC.
+c)         La logica di questa soluzione non appare del tutto
+convincente: come lo stesso Tribunale federale rileva, se già deve venire ammesso
+il concreto pericolo che lo straniero intenda sottrarsi all’espulsione,
+difficilmente una misura meno incisiva della carcerazione – ad es., appunto, un
+obbligo di notifica della presenza – potrà essere riconosciuta come atta a
+garantire l’esecuzione dell’allontanamento (DTF 119 Ib 193, consid. 2c p. 198
+s.). Ma in una più recente sentenza si legge che anche qualora non fossero
+soddisfatti i requisiti per la carcerazione ex art. 13b LDDS, alla competente
+autorità cantonale non è vietato procedere con i preparativi in vista
+dell’allontanamento, se del caso accompagnando i medesimi con l’obbligo per lo
+straniero di rimanere a sua disposizione e di non abbandonare un determinato
+territorio (v. DTF 122 II 148, consid. 4a p. 154).
+d)        Se ne deve concludere, riassumendo, che nei confronti di un
+cittadino straniero privo di permesso di dimora o domicilio possono essere
+ordinate misure restrittive della sua libertà personale (quali quelle qui in
+discussione) sia quali misure sostitutive della carcerazione in attesa di
+allontanamento, sia quali misure atte a prevenire la messa in pericolo della
+sicurezza e dell’ordine pubblico.
+5.
+Nel caso di
+specie, la misura avversata si appalesa ingiustificata, sia che si interpreti
+l’art. 13e LDDS in senso proprio o improprio.
+a)        Nella misura in cui l’autorità amministrativa invoca, a
+sostegno della misura in discussione, l’utilità della stessa “per garantire
+l’esecuzione del suo allontanamento” (decisione impugnata, inc. Giar doc. _),
+la motivazione appare insufficiente, oltre che poco convincente. Può darsi che
+__________ non abbia alcuna intenzione di lasciare il territorio svizzero; e
+può pure essere che egli non si sia attivato con la dovuta solerzia per
+procurarsi il necessario documento di legittimazione (cosi l’autorità
+amministrativa in sede di osservazioni, cit., pto. 2 p. 1-2). Sembra tuttavia
+assodato che neppure l’Ufficio federale dei rifugiati sia riuscito, con tutto
+l’impegno del caso, ad ottenere un documento che permetta il rimpatrio del
+ricorrente (v. osservazioni, cit., pto. 4 p. 2): ne fanno fede i numerosi
+solleciti rivolti dalla Sezione dei permessi e dell’immigrazione all’UFR (14
+ottobre 1999, 15 novembre 1999, 15 dicembre 1999, 10 marzo 2000, 5 aprile 2000,
+28 aprile 2000, 3 ottobre 2000, tutti all’inc. amministrativo s.n.), tutti
+rimasti senza esito. Si deve poi rilevare che il ricorrente è ininterrottamente
+a disposizione delle autorità amministrative almeno dalla metà di ottobre 1999,
+quando – dopo un periodo di residenza in luogo ignoto – si era spontaneamente
+ripresentato (v. fax 14 ottobre 1999 della Sezione dei permessi e
+dell’immigrazione all’UFR, s.n. all’inc. amministrativo): pertanto non si può
+sostenere che egli si sia attivamente sottratto all’allontanamento. Ne deriva
+che a suo carico nessuna misura coercitiva intesa a favorire l'esecuzione del
+suo allontanamento appare al momento proponibile: certamente non
+l’incarcerazione ex art. 13b LDDS, ma neppure una restrizione della libertà di
+movimento ex art. 13e LDDS (quale
+minus in maiore
+), facendo apparentemente
+difetto almeno il requisito della verosimile intenzione di lui di sottrarsi
+all’allontanamento (v. art. 13b cpv. 1 lit. c LDDS).
+b)        Non più convincente è l’altra argomentazione, sottintesa
+nella decisione impugnata, e che emerge unicamente in sede di osservazioni:
+quella fondata sulla mentalità del ricorrente, accusato di abusare della
+facoltà di chiedere l’ammissione provvisoria (v. osservazioni, cit., pto. 4 p.
+2), di aver “cagionato l’intervento dei servizi sociali e, a dirimpetto, della pretura
+di Lugano” (loc. cit., pto. 2 p. 2), ed al quale parrebbe doveroso far
+“comprendere che il suo
+nulla-fare-per-la-partenza
+e il suo
+interessare-i-servizi-sociali
+devono avere un termine” (loc. cit., pto. 3 p. 2). Va fatto presente alle
+autorità amministrative che l’art. 13e LDDS (ed il parallelo art. 2 LALMC) non
+sono norme a carattere etico-educativo, da applicarsi quando lo straniero non
+si comporta secondo i canoni correnti: quand’anche dottrina e giurisprudenza
+non pongono “una soglia particolarmente alta” per la loro applicazione (v.
+osservazioni, cit., pto. 5 p. 3, e giurisprudenza citata; decisione 27 agosto
+2001 in re A.L., inc. Giar __________ p. 2, con rinvii), è pacifico che il
+comportamento dello straniero debba perlomeno creare una parvenza di disturbo o
+messa in pericolo della sicurezza e dell’ordine pubblico (art. 13e cpv. 1 LDDS)
+– ciò che nel caso di specie non si è verificato, ed in ogni caso non è
+debitamente sostanziato.
+c)         Con tutta evidenza, le norme in questione non perseguono neppure
+lo scopo di salvaguardare la vita famigliare della compagna del ricorrente, o
+di proteggere la serenità nonché l’integrità psichica e fisica dei figli di
+lei. Data ovviamente per scontata la prioritaria necessità di tutelare gli
+interessi dei due bambini, se – come emerge dagli atti relativi alla procedura
+di divorzio dell’attuale compagna del ricorrente, e prodotti all’incarto
+amministrativo dal competente Pretore (all’incarto amministrativo, s.n.) – il
+rapporto fra il ricorrente e la sua compagna è ricco di tensioni suscettibili
+persino di minare la salute psichica dei due minori (v. la segnalazione 5
+ottobre 2000 dei Servizi sociali di __________, loc. cit., invero parzialmente
+ridimensionata dal rapporto 7 dicembre 2000 del Servizio medico-psicologico di
+__________, ibid., p. 3-4), bisognerà farvi fronte sulla base delle pertinenti
+norme legali (artt. 176 cpv. 3, 272 e 275 CCS combin.). Aggiungasi,
+astrattamente ed a titolo del tutto abbondanziale, che se l’autorità
+amministrativa intendeva (di transenna) anche impedire che il ricorrente
+frequentasse l’abitazione della compagna e dei figli di lei, sarebbe stato ben
+più logico vietargli semmai l’accesso al territorio di __________, piuttosto
+che l’abbandono del territorio di __________.
+d)        La questione dell’ammissione provvisoria dell’interessato ai
+sensi della Lasi. (v. ricorso, cit., pto. 8 p. 4-5) non fa oggetto di precisa
+domanda, e dunque non va risolta in questa sede (comunque manifestamente
+incompetente).
+6.
+Il ricorso,
+in conclusione, appare fondato e deve essere accolto con la presente decisione,
+ovviamente esente da tassa e spese di giustizia e impugnabile entro 15
+(quindici) giorni al Tribunale cantonale amministrativo (art. 32 cpv. 2 LALMC).
+7.
+a)        Il patrocinatore di __________ ha protestato ripetibili (v.
+ricorso, cit.,
+petitum
+pto. 3 p. 7). L’autorità resistente vi si oppone,
+il legale non essendo iscritto all’Albo degli avvocati (v. osservazioni, cit.,
+pto. 7 p. 3).
+b)        La LALMC è silente, e neppure il Regolamento si esprime in
+proposito. Già
+supra
+(consid. 3), parlando della ricevibilità di
+allegato ricorsuale vergato da patrocinatore non iscritto all’Albo degli
+avvocati, si è lamentata la mancanza di un rinvio alla procedura applicabile;
+in quel contesto si è evidenziata la natura amministrativa delle misure
+coercitive in tema di stranieri, deducendone l’applicabilità per analogia della
+LPAmm. In tema di ripetibili, tuttavia, neppure questo rinvio alla LPAmm.
+aiuta: all’art. 31, infatti, essa conferisce la facoltà di attribuire ripetibili
+unicamente al Consiglio di Stato ed al Tribunale cantonale amministrativo,
+oltretutto agenti quali autorità di ricorso – anche se quest’ultima restrizione
+è stata fortemente relativizzata dalla giurisprudenza (v.
+Marco Borghi/Guido
+Corti
+, Compendio di procedura amministrativa ticinese, CFPG collana blu
+volume 1, Lugano 1997, ad art. 31 LPAmm. p. 159 s.). Il Giudice delle misure
+coercitive (art. 4 LALMC) non è annoverato fra le autorità legittimate ad
+attribuire ripetibili. Si è dunque in presenza di una lacuna di legge (come
+qui,
+verbatim
+, sentenza 20 luglio 2001 in re C.Y., inc. Giar 17.2001.1
+consid. 7a p. 8).
+c)         La maggior parte dei codici di rito prevede l’attribuzione
+di ripetibili: non solo queste non hanno carattere straordinario, ma anzi la
+loro assegnazione persegue lo scopo “di evitare che un riserbo eccessivo nella
+concessione di indennità alla parte vincente possa causare immeritati ed
+eccessivi aggravi a carico di chi, giustificatamente, si è valso dei mezzi
+offerti dalla giustizia amministrativa” (
+Borghi/Corti
+, loc. cit., ad
+art. 31 LPAmm. p. 159, con rinvii). Ciò deve valere
+a fortiori
+quando la
+misura che si è poi appalesata ingiustificata abbia leso dei diritti
+fondamentali, quale è
+in casu
+la libertà personale. Si deve pertanto
+escludere che la lacuna di legge riscontrata nella LALMC (e nella LPAmm.) sia
+di natura impropria (“unechte Lücke”), ovvero voluta dal legislatore ed
+espressa tramite silenzio qualificato: con tutta verosimiglianza, essa è frutto
+di una dimenticanza. Sarebbe altrimenti inspiegabile, fra l’altro, che il
+ricorrente possa chiedere il beneficio del gratuito patrocinio (art. 10 LALMC),
+ma non l’attribuzione di un’indennità per le spese di patrocinio (come qui,
+verbatim
+,
+decisione 20 luglio 2001 in re C.Y., inc. Giar 17.2001.1 consid. 7b p. 8).
+d)        Per i motivi appena espressi, la lacuna va allora colmata con
+il riconoscimento del principio in virtù del quale lo straniero oggetto di
+misure coercitive ha diritto all’attribuzione di ripetibili, qualora il rimedio
+di diritto da lui inoltrato si riveli fondato (come qui,
+verbatim
+,
+sentenza 20 luglio 2001 in re C.Y., inc. Giar 17.2001.1 consid. 7c p. 8).
+e)        Come detto, nell’evenienza specifica il patrocinatore è
+senz’altro persona formata giuridicamente, ma non è iscritto all’Albo degli
+avvocati. Contrariamente a quanto pretende l’autorità resistente, tale
+peculiarità non preclude in alcun modo l’attribuzione di ripetibili: ritenuto
+che, come visto (
+supra
+, consid. 3), nel contenzioso amministrativo il
+ricorrente può farsi patrocinare da chiunque, una limitazione del diritto alle
+ripetibili al solo avvocato iscritto all’Albo sarebbe non solo in aperta
+contraddizione con la logica del sistema, ma anche profondamente ingiusta nei
+confronti di chi avesse affidato la tutela dei propri interessi non ad un
+avvocato, ma a terzi: nel primo caso si vedrebbe riconoscere le protestate
+ripetibili, che invece – per identiche prestazioni – gli dovrebbero essere
+negate nel secondo. Quanto alla sentenza del Tribunale federale che l’autorità
+resistente adduce a sostegno della propria tesi (sentenza 11 settembre 2000 in
+re G., v. osservazioni, cit., pto. 7 p. 3), parrebbe che il rifiuto di
+ripetibili sia scaturito dal “procedimento scorretto adottato
+[dalla ricorrente, ndr.]
+in sede cantonale”
+(sentenza cit., consid. 6b p. 12) che non dal fatto che il patrocinatore (lo
+stesso di cui è qui discorso) non fosse avvocato.
+f)          In conclusione, al ricorrente viene riconosciuto l’importo
+di fr. 500.— a titolo di ripetibili – ripetibili che vengono ovviamente poste a
+carico dello Stato del Cantone Ticino “quale unico antagonista della parte che
+ha avuto successo” (
+Borghi/Corti
+, op. cit., nota 2b ad art. 31 LPAmm.,
+p. 161).
+L’esito del
+gravame – favorevole al ricorrente, con contestuale riconoscimento di
+ripetibili – rende la domanda di concessione del gratuito patrocinio (v.
+ricorso, cit.,
+petitum
+pto. 2 p. 7) priva d’oggetto.
+*   *   *
+Per i quali motivi
+in
+applicazione degli artt. 13 ss. LDDS; 2, 4 e 32 LALMC; 15, 31 e 46 LPAmm.
+d e c i d e :
+1.
+Il
+ricorso inoltrato in data 24/25 gennaio 2001 da __________ avverso la decisione
+28 dicembre 2000 del Dipartimento delle Istituzioni del Cantone Ticino è
+accolto.
+§   Il divieto di abbandono del
+territorio del Comune di __________ è annullato.
+2.
+Non
+si prelevano tassa né spese di giustizia. Il Cantone Ticino verserà al
+ricorrente l’importo di fr. 500.— a titolo di ripetibili.
+3.
+Contro
+la presente decisione è dato il rimedio del ricorso al Tribunale cantonale
+amministrativo entro 15 (quindici) giorni dall’intimazione.
+4.
+Intimazione:
+-    __________, per sé e per il ricorrente, con
+copia delle osservazioni dell’autorità resistente;
+-    lod.
+Dipartimento delle Istituzioni del Cantone Ticino, e per esso al Capo Ufficio
+giuridico della Sezione dei permessi e dell’immigrazione  lic. iur. __________,
+per esecuzione.
+giudice __________
