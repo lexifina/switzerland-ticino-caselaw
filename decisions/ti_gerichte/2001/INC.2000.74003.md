@@ -1,0 +1,405 @@
+---
+decision_id: "ti_gerichte_INC.2000.74003"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.74003"
+decided: "2001-07-02"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59766&nX40_KEY=4711446&nTrefferzeile=36&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2000.74003
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 02.07.2001 INC.2000.74003
+Tessin Il Giudice dell'istruzione e dell'arresto 02.07.2001 INC.2000.74003
+Ticino Il Giudice dell'istruzione e dell'arresto 02.07.2001 INC.2000.74003
+
+Sentenza o decisione senza scheda
+
+N. 740.2000.3 M                                                        Lugano,
+2 luglio 2001
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sull’istanza di libertà provvisoria
+inoltrata direttamente a questo Ufficio in data 25/26 giugno 2001 da
+__________
+,            __________
+(difeso d’ufficio dall’avv. __________)
+visto il
+preavviso negativo 27 giugno 2001 del
+Procuratore Generale
+avv.
+__________, e preso atto che il Presidente delle competenti Assise
+correzionali, con scritto 26 giugno 2001, si è rimesso a giustizia;
+letti ed
+esaminati gli atti formanti l’inc. MP __________;
+ritenuto
+in fatto:
+A.
+__________ è stato tratto in arresto lo scorso 22 novembre
+2000, in quanto indiziato di promovimento della prostituzione nella sua
+funzione di gestore di fatto del bar __________, sospetto postribolo. Il giorno
+successivo, questo giudice ha confermato l’arresto, con contestuale intimazione
+della promozione dell’accusa per titolo di promovimento della prostituzione ed
+infrazione aggravata della LDDS (v. inc. GIAR __________, doc. _ risp. _; cosi
+già in decisione 19 febbraio 2001, inc. Giar __________ doc. _, consid. A). A
+verbale MP 26 aprile 2001 (ore 11.05, inc. MP doc. __________, p. 2) l’accusa è
+stata estesa ai titoli di truffa e falsità in documenti.
+B.
+Dopo aver
+inizialmente negato che all’interno del suo locale venisse praticata la
+prostituzione (v. verbale di polizia 22 novembre 2000, ore 18.31, allegato al
+rapporto d’arresto, inc. GIAR __________), __________ ha perlomeno ammesso di
+essere stato a conoscenza dell’attività svolta al __________ (v. verbale GIAR
+23 novembre 2000, inc. GIAR __________). Tutte le ragazze venivano
+spontaneamente al suo locale, anche se, più avanti, ha ammesso di aver prestato
+mano nel farne arrivare alcune, segnatamente anticipando loro le spese di
+viaggio (v. verbale di polizia 28 novembre 2000, ore 09.45, R.1 p. 1-4). Nega,
+tuttavia, di essersene procurate tramite intermediari (v., ad es., verbale di
+polizia 28 dicembre 2000, ore 13.45, R.2), di aver tratto un qualsiasi
+beneficio dall’attività delle ragazze, oppure di aver imposto loro severe
+regole sul comportamento da tenere nel locale (v., ad es., verbale cit., R.3,
+R.5 e R.6; verbali di confronto MP 14 dicembre 2000). Posto a confronto con
+numerose e convergenti dichiarazioni di ragazze che affermano il contrario,
+l’accusato istante si difende dando loro delle bugiarde (v. verbale cit., R.10,
+R.11, R.12, R.17)(così già in decisione 19 febbraio 2001, inc. Giar __________
+doc. _, consid. B).
+Dopo la
+chiusura dell’istruzione formale in data 14 maggio 2001 (inc. MP doc.
+__________) e l’emanazione dell’atto d’accusa 13/15 giugno 2001 (inc.
+__________ doc. __________), il Procuratore Generale, dando seguito a
+corrispondente richiesta della difesa 10 maggio 2001 (inc. MP doc. __________),
+ha sentito in qualità di testi due ulteriori ragazze attive presso il pubblico
+esercizio gestito di fatto dall’accusato (v. verbali MP __________ del 18
+giugno 2001 e verbale MP __________ del 20 giugno 2001, agli atti MP, s. n.)
+C.
+__________
+aveva già chiesto in data 9/12 febbraio 2001 (inc. GIAR __________ doc. _) di
+essere posto in libertà provvisoria, affermando la propria collaborazione con
+gli inquirenti (loc. cit., pto. 3 p. 2), evidenziando come l’inchiesta nei suoi
+confronti fosse già praticamente conclusa a quel momento (loc. cit., pto. 7 p.
+4, pto. 8 p. 5), e negando infine tanto l’esistenza di un pericolo di recidiva
+(loc. cit., pto. 11 p. 6) quanto di un pericolo di una sua fuga (loc. cit.,
+pto. 13 p. 8). Questo giudice ha respinto l’istanza con decisione 19 febbraio
+2001 (inc. Giar __________), ritenendo l’esistenza di ulteriori necessità
+istruttorie accompagnate da pericolo di collusione (loc. cit., consid. 3) e
+concreto pericolo di recidiva (loc. cit., consid. 4).
+D.
+__________
+ripropone ora, direttamente a questo giudice l’atto d’accusa essendo nel
+frattempo stato inoltrato (art. 108 cpv. 3 CPP), nuova domanda di essere messo
+in libertà provvisoria (inc. Giar __________). Ribadita la propria innocenza
+(loc. cit., pto. I.3 p. 2) soprattutto alla luce dell’avvenuta audizione di
+altre ragazze (loc. cit., pto. I.6 p. 3), considerati ormai evasi i bisogni
+dell’istruzione (loc. cit., pto. II.8 p. 3), si concentra sull’inesistenza di
+pericolo di recidiva: non sarebbe lecito desumere tale pericolo dalla
+precedente condanna, considerata anche la sua anticipata liberazione
+condizionale per buona condotta, e la collaborazione fornita agli inquirenti
+nel corso della presente inchiesta (loc. cit., pto. II.10 p. 4). Contesta,
+infine, un qualsiasi pericolo di fuga, sempre per la propria collaborazione con
+gli inquirenti nonché per l’esistenza di radicati rapporti famigliari in Ticino
+(loc. cit., pto. II. 12 p. 6). Da ultimo, si appella a motivi di opportunità
+scaturenti dalla prossima sostituzione del difensore, con conseguente
+allungamento dei tempi sino al processo, vista la necessità di preparazione per
+il nuovo difensore (loc. cit., pto. II.15 p. 7).
+E.
+Il
+Procuratore Generale, dal canto suo (v. preavviso 27 giugno 2001, inc. Giar
+__________), ribadita la fondatezza delle ipotesi di reato a carico
+dell’istante e relativizzata la portata delle deposizioni assunte dopo
+l’emanazione dell’atto d’accusa, chiede la reiezione dell’istanza discussa in
+considerazione del pericolo di fuga – acuito dal “concretizzarsi delle ipotesi
+di reato e l’imminenza del dibattimento” (ibid.) – nonché del pericolo di
+recidiva, desumibile dal delinquere di __________ “in modo importante e
+diversificato durante il periodo di prova della liberazione condizionale” (ibid.).
+Considerato
+in diritto:
+1.
+L'art. 95 CPP
+- corrispondente all’art. 33 scaturito dalla revisione parziale 23 settembre
+1992 / 1. gennaio 1993 (per cui mantiene validità la pregressa giurisprudenza:
+v. decisione 10 gennaio 1996 in re T. H., inc. GIAR 2.96.2) - dopo evidenza al
+cpv. 1 del principio secondo cui l'accusato si trova di regola in libertà,
+consente al cpv. 2 arresto, perdurare ed eventualmente proroga del carcere
+preventivo a norma dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - segnatamente i bisogni dell’istruzione e pericolo di
+recidiva (senza dimenticare che l’arresto, quale misura processuale
+cautelativa, non serve unicamente ai bisogni dell’istruttoria, ma anche ad
+assicurare la presenza dell’accusato al processo e a garantire l’eventuale
+espiazione della pena: DTF 109 Ia 323 consid c, e riferimenti; sentenza 16
+novembre 1993 del Tribunale federale in re A.H., 1P.477/1993, consid. 3; Rep.
+132 [1999] n. 116).
+I menzionati
+presupposti vanno approfonditi con maggior rigore nella loro valutazione,
+quanto più si è protratta la restrizione della libertà e quanto più si avvicina
+la conclusione delle indagini (Rep. 1988 pag. 416; 1989 pag. 287 ss.) –
+ritenuto implicito il rispetto della proporzionalità (Rep. 1980 pag. 44; 1986
+pag. 158; 1988 pag. 413; DTF 102 Ia 381). Ed anche questo giudice, come già la
+Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (Rep.
+1980 pag. 128).
+2.
+Con la
+verosimiglianza sufficiente a questo stadio del procedimento ed in questa sede,
+si può con tranquillità concludere per la presenza di seri e concreti indizi di
+colpevolezza a carico di __________, e relativi ad un suo coinvolgimento nei
+fatti inquisiti (v.
+supra
+, consid. B).
+In quale
+misura gli indizi a suo carico siano seri e concreti, è questione che non può
+essere definitivamente risolta in questa sede. Nella precedente decisione 19
+febbraio 2001 si era detto che le numerose, convergenti e reiterate
+dichiarazione di molte delle ragazze “ospitate” (per usare un termine più che
+eufemistico) dall’accusato istante, e di terze persone, apparivano atte a
+suffragare l’ipotesi accusatoria sostenuta dal magistrato inquirente ben più di
+quanto la protestata estraneità ai fatti e le generiche contestazioni di
+__________ riuscissero a convincere immediatamente chi scrive della sua
+innocenza (loc. cit., inc. Giar __________, consid. 2). I dubbi che solleva la
+difesa, e apparentemente scaturenti dalle ultime due audizioni effettuate dopo
+l’inoltro dell’atto d’accusa (v. istanza, cit., pti. I.3 p. 2 e I.6 p. 3),
+rappresentano, a non dubitarne, obiezioni che vorranno approfondimento.
+Tuttavia, trattandosi di obiezioni di natura sostanziale, una valutazione
+definitiva della loro portata compete alla Corte di merito e non a questo
+giudice – nell’ambito delle proprie competenze limitate alla valutazione della
+legittimità della carcerazione preventiva, unicamente autorizzato ad un esame
+sommario di verosimiglianza del grado di responsabilità dell’accusato istante
+(v., come qui, anche la decisione 19 aprile 2000 in re C.F., inc. GIAR
+__________ consid. 2b p. 4).
+Almeno
+nell’ottica di mera verosimiglianza, comunque, le due nuove testimonianze
+__________ del 18 giugno 2001 e __________ del 20 giugno 2001 non sembrano
+sconvolgere l’impianto accusatorio: sebbene entrambe dichiarino all’unisono, in
+termini (forse anche troppo) simili, di non aver mai dovuto sottostare ad
+obbligo alcuno da parte di __________, ma anzi di essere stati tutti “come una
+famiglia” (verbale __________ MP 18 giugno 2001, ore 16.30, p. 6; v. anche
+verbale __________ MP 20 giugno 2001, ore 09.15, p. 3), la loro situazione
+personale (la __________ è legata sentimentalmente con __________, il fratello
+dell’accusato [verbale MP 18 giugno 2001, ore 16.30, p. 3], che l’ha
+interpellata per sapere se sarebbe stata “disposta a testimoniare per aiutare
+suo fratello” [verbale MP 18 giugno 2001, ore 16.30, p. 1], mentre la
+__________ è sentimentalmente legata a __________, che risulta conoscente
+dell’accusato [v. verbale MP 20 giugno 2001, ore 09.15, p. 2]) non può non
+suscitare qualche perplessità sulla credibilità di tali dichiarazioni. Ma
+soprattutto, nella misura in cui le due testi non sono in grado di esprimersi
+con fondatezza per tutte le ragazze che hanno lavorato per __________, le loro
+dichiarazioni non sono atte a dimostrare in termini concludenti l’innocenza di
+lui, al punto da porre in dubbio – in questa sede – l’esistenza di concreti
+indizi di colpevolezza da sottoporre all’esame della competente Corte di
+merito.
+3.
+Non esistono
+più, incontestatamente, esigenze istruttorie.
+4.
+a)        Notoriamente, il pericolo di recidiva deve essere concreto
+(DTF 105 Ia 31) e risultare da una valutazione dell’insieme delle circostanze,
+tra le quali i precedenti dell’accusato, il suo comportamento durante
+l’istruttoria, la sua personalità, la sua costituzione fisica e soprattutto psichica,
+e le modalità di commissione dei reati che gli vengono addebitati, così che la
+reiterazione appaia assai verosimile (v.
+Mario Luvini
+, I presupposti
+materiale del carcere preventivo nel processo penale ticinese, in: Rep. 122
+[1989], p. 287 ss., pto. 3 p. 294;
+Gérard Piquerez
+, Précis de procédure
+pénale suisse, 2ème éd. Lausanne 1994, margin. 1388 s.).
+b)        Già in sede di pronuncia 19 febbraio 2001, questo giudice
+scriveva (inc. Giar __________, cit., consid. 4 p. 5):
+“Emerge
+dagli atti che __________ ha scontato una pena privativa della libertà fra il
+1995 ed il 1998 per infrazione alla LFStup. (v. verbale di polizia 22 novembre
+2000, ore 18.31, allegato 1 al rapporto d’inchiesta di polizia giudiziaria 13
+gennaio 2001, all’inc. MP s.n., p. 1). Appena rilasciato, ha immediatamente
+riassunto la gestione di fatto del bar __________ (che già gestiva dal 1994,
+ibid.), accogliendovi ragazze dedite alla prostituzione, per la maggior parte
+di origine brasiliana ed ungherese, accompagnate rispettivamente procurate da
+terze persone (v. verbale di polizia 28 novembre 2000, ore 09.45, allegato 4 al
+rapporto d’inchiesta, cit., R.1 p. 2-3). In parole semplici, scontata parte di
+una lunga pena detentiva, non appena posto in libertà condizionale si è
+dedicato ad attività delittuosa (v.
+supra
+, consid. 2), quand’anche di
+natura diversa da quella che l’aveva portato in carcere prima. In siffatte
+circostanze, non si deve affermare che il passato di __________ “
+non lo
+disegna certo come un delinquente incallito, portato al crimine
+” (istanza,
+cit., pto. 11 p. 6): al contrario, l’impressione è proprio quella di trovarsi
+di fronte a persona perennemente dedita alla ricerca dei modi più facili e meno
+faticosi con i quali garantirsi una vita comoda e lussuriosa (dal suo punto di
+vista, ovviamente), e che non si lascia distogliere da tal fine neppure dalla
+prospettiva di infrangere la legge. Ne discende, a giudizio di chi scrive, un
+manifesto pericolo di recidiva insito nella struttura della sua personalità:
+nessuno sa cosa egli potrà fare, appena sarà tornato in libertà, ma è altamente
+verosimile che si tratterà di attività di più che dubbia liceità. Ne discende
+pericolo di recidiva.”
+c)         Gli argomenti che l’accusato adduce con la presente istanza
+non conducono a conclusione differente. In primo luogo, fa specie leggere che
+__________ pretenda di aver pienamente collaborato con gli inquirenti: come
+visto
+supra
+(consid. B), già ha ammesso a fatica di essere stato a
+conoscenza dell’attività svolta al __________ e di aver prestato mano nel fare
+arrivare alcune ragazze, segnatamente anticipando loro le spese di viaggio; ma
+ha sempre negato di essersene procurato tramite intermediari, di aver tratto un
+qualsiasi beneficio dall’attività delle ragazze, oppure di aver imposto loro
+severe regole sul comportamento da tenere nel locale. Posto a confronto con
+numerose e convergenti dichiarazioni di ragazze che affermano il contrario, si
+è sempre difeso dando loro delle bugiarde. I verbali di conferma, effettuati
+avanti al Procuratore Generale ed al suo Segretario giudiziario successivamente
+alla decisione 19 febbraio 2001, non modificano il senso delle dichiarazioni
+riportate (v. verbale MP 14 marzo 2001, inc. MP doc. __________; verbale MP 16
+marzo 2001, inc. MP doc. __________; verbale MP 25 aprile 2001, inc. MP doc.
+__________; verbale MP 26 aprile 2001, ore 09.20, inc. MP doc. __________). Già
+in sede di decisione Giar 19 febbraio 2001 (cit., consid. 3 p. 4 s.) si era
+evidenziato che “se va ribadito l’ovvio suo diritto di non rispondere, va pure
+– ed altrettanto ovviamente – rammentato che non qualsiasi strampalata ed
+insostenibile dichiarazione di innocenza da parte di un accusato gli può valere
+il riconoscimento di collaborazione in sede d’inchiesta”.
+d)        Ovviamente, il comportamento corretto di un detenuto, che
+permette poi a quest’ultimo di beneficiare della liberazione condizionale
+dall’espiazione di una pena detentiva (art. 38 CPS), non basta per escludere
+pericolo di recidiva: basti pensare che l’esame riguarda soltanto il
+comportamento tenuto nella struttura carceraria, gestita secondo regole ben
+precise, sull’arco di un lasso di tempo ridotto. Ed ancor meno ciò basta in un
+caso come il presente, dove appare che all’interno del locale __________ – a
+dire dello stesso __________ (v. verbale MP 16 marzo 2001, inc. MP doc.
+__________, p. 6) – si sia esercitata la prostituzione, con le modalità oggetto
+del presente procedimento penale, sin dalla fine del 1998, ovvero da meno di un
+anno dall’avvenuta liberazione dell’accusato: a ragione il Procuratore Generale
+richiama, a valere quale preoccupante indizio di pericolo di recidiva, il
+delinquere durante il periodo di prova (v. preavviso 27 giugno 2001, cit.).
+5.
+a)        Il pericolo di fuga, per giustificare la carcerazione
+preventiva, deve essere concreto e rivestire il carattere di una certa
+probabilità: in altri termini si ammette siffatto pericolo quando l’accusato,
+fosse posto in libertà, si sottrarrebbe con una certa verosimiglianza al
+perseguimento penale e all’esecuzione della pena. La gravità della presumibile
+pena, di per sé, non basta a motivare la carcerazione preventiva; piuttosto,
+l’insieme delle circostanze, quali il carattere dell’interessato, la sua
+morale, i suoi legami familiari, l’assenza di un domicilio fisso, la sua
+professione, la sua situazione finanziaria e le sue risorse economiche, deve
+essere valutato e vanno accertati motivi concreti che rendano la fuga non solo
+possibile, ma probabile (così
+verbatim
+DTF 19 gennaio 1999 in re G.S.,
+consid. 5a p. 7-8, con rinvio a DTF 117 Ia 69 consid. 4 e ad altra sentenza di
+imminente pubblicazione).
+b)        A prescindere dalla sua millantata piena collaborazione con
+l’autorità inquirente (v. istanza, cit., pto. II.12 p. 6), già stigmatizzata
+supra
+(consid. 4c), l’accusato non può certo trarre beneficio dal fatto di non aver
+posto in atto qualsiasi preparativo di fuga (v. istanza, cit., pto. II.12 p.
+6), se non altro per il fatto che, essendo detenuto, gli sarebbe stato assai
+difficile fare altrimenti.
+Il
+Procuratore Generale non contesta l’esistenza di legami personali con il
+territorio ticinese. Ma la questione è se tali rapporti siano di importanza ed
+intensità tale da efficacemente contrastare ogni pensiero di fuga. In altre
+parole, la mera esistenza di legami personali
+in loco
+deve essere vista
+nella prospettiva del loro effetto dissuasivo per rapporto ad una fuga: tali
+rapporti, dunque, per poter validamente controbilanciare il paventato pericolo
+di fuga, dovranno essere tanto più intensi quanto più pesanti le conseguenze
+che l’accusato può legittimamente attendersi dal procedimento penale in corso.
+Nel caso di specie, inesistenti – tanto da parte della pubblica accusa che
+della difesa – sono le informazioni in merito alla solidità dei legami
+familiari di __________; l’impressione, a leggere l’incarto, è quello di un
+vissuto relazionale piuttosto movimentato (v. ad es. verbale MP 14 dicembre
+2000 ore 15.50, inc. MP doc. __________ p. 3; verbale MP 14 marzo 2001, inc. MP
+doc. __________ p. 3), senza che da ciò si possa tuttavia trarre un giudizio
+definitivo. Le sue prospettive lavorative in Ticino sono tutt’altro che
+brillanti: anzi, se nel 1985 la pena accessoria dell’espulsione dal territorio
+svizzero pronunciata a carico di __________ era stata sospesa condizionalmente
+(v. sentenza 10 novembre 1995, inc. Giar __________, consid. 27 p. 97 e
+dispositivo pto. 11, p. 103), non è fuorviante ipotizzare che oggi, in
+considerazione della sua recidiva, la Corte possa voler far prevalere la
+preoccupazione di tutela dell’ordine pubblico, e che dunque questa pena accessoria
+venga pronunciata in termini effettivi. Quanto alla gravità della presumibile
+pena che attende __________, ci si può eccezionalmente esimere da una prognosi,
+ritenuto come già possa bastare – quale motivazione per una fuga all’estero –
+l’inevitabilità di una pena da espiare (art. 41 cfr. 1 cpv. 2 CPS) e la
+prospettiva di una revoca del terzo condonato nel 1998 (relativo alla condanna
+del 1995 e che da solo consiste in 18 mesi di detenzione).
+c)         Ne scaturisce, in conclusione, l’impressione di una persona
+– l’accusato – che ha trovato in Ticino l’
+humus
+fertile per farvi
+fiorire le proprie attività comunque illecite, ed i cui legami con questo
+territorio potrebbero facilmente affievolirsi qualora egli dovesse avere
+l’impressione che tali premesse operative più non sussistono. Deve pertanto
+essere ammesso anche un pericolo di fuga, forse non marcato al punto di
+giustificare, di per sé, il mantenimento dell’arresto, ma che nel caso concreto
+va ad affiancarsi al già ammesso concreto e grave pericolo di recidiva.
+6.
+Questo
+giudice è stato informato dalla cancelleria del Tribunale penale cantonale che
+il pubblico dibattimento contro __________ avrà luogo il prossimo 17 agosto
+2001. Si può dunque quantificare sin d’ora con precisione la durata del carcere
+preventivo cui va incontro l’accusato (riservate, ovviamente, divergenti
+decisioni di proroga, di competenza della lod. Camera dei ricorsi penali del
+Tribunale di appello, art. 103 cpv. 1 lit. b CPP): si tratta di un mese e mezzo
+circa. Un ulteriore lasso di tempo di questa durata in carcere preventivo,
+preso di per sé, non deve essere banalizzato. Nell’ottica della presumibile
+pena cui l’accusato va incontro, tuttavia, assortita dalla seria possibilità
+della revoca di ulteriori diciotto mesi di detenzione relativi alla precedente
+condanna, la carcerazione preventiva subita e prospettabile non appare lesiva
+del principio di proporzionalità.
+Va detto
+inoltre, per completezza, che il pubblico dibattimento non ha potuto essere
+fissato prima della data ora stabilita anche a causa dell’avvicendamento del
+difensore, scaturente dall’imprevista partenza all’estero dell’attuale legale.
+Ciò esige che al nuovo difensore venga concesso tempo sufficiente per
+addentrarsi in un incarto non proprio semplice. La carcerazione preventiva
+complessiva cui dovrà sottostare l’accusato istante appare allora
+a fortiori
+ragionevole. Ovviamente proprio il legale che, con la sua partenza, ha
+contribuito a rendere impossibile una più celere celebrazione del pubblico
+dibattimento, non può certo appellarsi a tali circostanze per giustificare la
+messa in libertà del proprio assistito (v., invece, istanza, cit., pto. II.15
+p. 7).
+7.
+In
+conclusione, l’istanza in discussione dev’essere respinta, con la presente
+decisione impugnabile entro dieci giorni alla Camera dei ricorsi penali del
+Tribunale di appello (art. 284 cpv. 1 lit. a CPP), e senza conseguenza di tassa
+e spese.
+*   *   *
+Per i quali motivi,
+visti gli
+artt. 95 ss., 107 s., 279 ss. e 284 cpv. 1 lit. a CPP
+d e c i d e :
+1.
+L’istanza di libertà
+provvisoria inoltrata in data 25/26 giugno 2001 da __________ è respinta.
+2.
+Non si percepiscono né
+tassa né spese giudiziarie.
+3.
+Contro la presente
+decisione è dato il rimedio del ricorso alla Camera dei ricorsi penali del
+Tribunale di appello entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+-      avv.
+__________, per sé e per l’accusato __________;
+-
+Procuratore Generale avv. __________;
+-
+lod. Tribunale penale cantonale, Lugano, con copia del preavviso
+negativo 27 giugno 2001 del magistrato requirente, e l’inc. __________ di
+ritorno.
+giudice __________
