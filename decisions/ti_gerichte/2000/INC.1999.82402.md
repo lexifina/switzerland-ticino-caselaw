@@ -1,0 +1,61 @@
+---
+decision_id: "ti_gerichte_INC.1999.82402"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.1999.82402"
+decided: "2000-04-06"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=56936&nX40_KEY=4711472&nTrefferzeile=25&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.1999.82402
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 06.04.2000 INC.1999.82402
+Tessin Il Giudice dell'istruzione e dell'arresto 06.04.2000 INC.1999.82402
+Ticino Il Giudice dell'istruzione e dell'arresto 06.04.2000 INC.1999.82402
+
+Sentenza o decisione senza scheda
+
+N. 824.99.2 R                                                             Lugano,
+6 aprile 2000
+IL GIUDICE DELL'ISTRUZIONE E
+DELL'ARRESTO
+DELLA REPUBBLICA E CANTONE DEL TICINO
+__________
+sedente per statuire sul reclamo
+30 marzo / 3 aprile 2000 formulato da
+__________
+(patrocinato dall'avv.
+__________)
+contro la decisione 22 marzo 2000
+del PP avv. __________ in materia di proroga del termine di deposito degli
+atti;
+preso atto della comunicazione 4
+aprile 2000 del PP avv. __________, con cui proroga il deposito degli atti sino
+al 21 aprile 2000;
+trasmessa alla difesa copia della
+decisione del PP direttamente da parte del Ministero Pubblico e ricevuta da
+questo giudice la comunicazione dal patrocinatore del reclamante secondo cui lo
+scritto 4 aprile 2000 del magistrato d'accusa rende privo d'oggetto l'impugnativa,
+la procedura può essere stralciata dai ruoli senza conseguenza di tasse e spese
+e senza attribuzione di ripetibili;
+visti gli artt. 280 e segg. CPP
+decide:
+1.
+Il reclamo 30 marzo 2000 di __________ è stralciato dai ruoli.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Intimazione:
+-    al
+Procuratore Pubblico avv. __________;
+-    all'avv. __________, per sé e per il reclamante.
+giudice
+__________
