@@ -1,0 +1,396 @@
+---
+decision_id: "ti_gerichte_INC.2002.47707"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.47707"
+decided: "2004-04-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59402&nX40_KEY=4711305&nTrefferzeile=84&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/142.20/art-013.md", "switzerland/bund/acts/142.20/art-020.md", "switzerland/bund/acts/142.20/art-023.md", "switzerland/bund/acts/312.0/art-002.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-120.md", "switzerland/bund/acts/312.0/art-151.md", "switzerland/bund/acts/312.0/art-159.md"]
+---
+
+# TI Gerichte INC.2002.47707
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.04.2004 INC.2002.47707
+Tessin Il Giudice dell'istruzione e dell'arresto 23.04.2004 INC.2002.47707
+Ticino Il Giudice dell'istruzione e dell'arresto 23.04.2004 INC.2002.47707
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2002.47707
+Lugano
+23 aprile 2004
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+__________
+sedente
+per statuire sul reclamo presentato il 23/24 marzo 2004 da
+__________
+(avv.
+__________)
+contro
+la
+mancata decisione dl Procuratore pubblico in materia di salvacondotto e
+accesso agli atti;
+viste le osservazioni 26 marzo 2004 della parte civile
+____________________, 2 aprile 2004 della parte civile __________ e 3 aprile
+2004 del Procuratore pubblico;
+visti gli atti (da AI 179 ad AI 203) dell'incarto MP
+4323/2001;
+ritenuto e considerato
+in fatto
+A.
+____________ è stato interrogato il 26 agosto 2002
+nell'ambito di un procedimento aperto nei suoi confronti per i reati (ipotizzati)
+di appropriazione indebita, truffa, amministrazione infedele, falsità in
+documenti e riciclaggio in relazione a fondi pervenutigli dalla Provincia di
+__________, rispettivamente in relazione alla Fondazione __________ (cfr.
+Verbale PP 26 agosto 2002, doc. 4 inc. GIAR 477.2002.1).
+Lo stesso 26 agosto 2002, a conclusione del verbale,
+gli è stata promossa l'accusa per i reati menzionati sopra ed è stato ordinato
+il suo arresto, poi confermato da questo giudice (doc. 7, inc. GIAR
+477.2002.1).
+Con decisione del 23 settembre 2003, questo giudice ha
+accolto l'istanza di libertà provvisoria presentata dall'accusato (GIAR
+477.2002.2);
+È noto a questo giudice che in sede di verbale davanti
+a Procuratore pubblico (12 febbraio 2003) le accuse di falsità in documenti e
+truffa sono state estese ad altra fattispecie (cfr. inc. GIAR 477.2003.3). Il
+verbale in questione è stato annullato per una carenza formale ma risulta che
+sia stato ripetuto ad una data successiva.
+B.
+Il 13 novembre 2003, con l'inchiesta penale ancora
+allo stadio dell'istruttoria formale, ____________è stato sfrattato dalla
+Svizzera sulla base di una decisione di divieto d'entrata (art. 13 LDDS)
+emanata il 25 ottobre 1990 dal __________, ora __________ (cfr. sentenza TRAM
+17.02.2004, doc. 8 inc. GIAR 477.2002.5).
+Il magistrato inquirente ha rilasciato un
+salvacondotto (validità due giorni) il 12 gennaio 2004 (AI 188), chiedendo,
+contestualmente (AI 189), all'__________ la sospensione del divieto d'entrata
+per gli stessi giorni. La sospensione è stata concessa con scritto
+dell'autorità federale del 14 gennaio 2004 (AI 190).
+Il 30 gennaio 2004, sempre il Procuratore pubblico, ha
+trasmesso all'__________ una ulteriore richiesta di sospensione del divieto
+d'entrata (AI 193), che l'__________ ha rifiutato con scritto del 12 febbraio
+2004, in quanto l'accusato non avrebbe documentato l'uscita dalla Svizzera
+entro la scadenza della precedente sospensione (AI 195).
+C.
+Il 10 febbraio 2004 (AI 194) l'accusato ha chiesto
+formalmente al magistrato inquirente l'accesso agli atti delle diverse
+inchieste penali a suo carico, il dissequestro di mobili e valori nonché quello
+di documenti e "
+con effetto immediato la sospensione del divieto
+d'entrata
+" del 25 ottobre 1990.
+Con scritto dell'8 marzo 2004 (AI 200), il nuovo (e
+attuale) difensore di __________, dopo aver richiamato le richieste contenute
+in quello precedente inoltrato dall'accusato (per esteso le quattro richieste),
+il fatto che in data 17 febbraio 2004 l'__________ avrebbe negato il rilascio
+di un salvacondotto nonché quello rilasciato dal Procuratore pubblico il 12
+gennaio (AI 195 ed AI 188), chiede che l'accusato possa entrare in Svizzera per
+esercitare il suo diritto alla difesa e che l'autorità penale lo autorizzi in
+tal senso garantendogli che non sarà perseguito per "
+altri reati
+".
+D.
+Mediante il ricorso in esame, la difesa di
+____________ lamenta la mancata decisione del magistrato inquirente in materia
+di salvacondotto e di consultazione atti (richiamando il suo scritto dell'8
+marzo 2004) e chiede a questo giudice di accordare all'accusato un
+salvacondotto e l'autorizzazione a consultare (personalmente) tutti gli atti
+del procedimento che lo riguardano (Ricorso 23 marzo 2004, pag. 1). Invero,
+nelle pagine conclusive del documento la difesa sembra andare oltre, sulla
+questione dell'entrata, affermando che a questo giudice sono aperte due
+possibilità: la prima sarebbe quella di dichiarare arbitrario il divieto
+d'entrata, la seconda quella di concedere un salvacondotto per tutta la durata
+della procedura penale;
+E.
+Con osservazioni del 3 aprile 2004, il Procuratore
+pubblico chiede integrale reiezione del gravame, con rinvio anche a
+considerazioni contenute in un suo scritto del 29 marzo 2003 alla difesa,
+asserendo che il reclamo è divenuto privo d'oggetto per quanto concerne la
+richiesta di accesso agli atti e inammissibile per quanto concerne il
+salvacondotto in quanto finalizzata, quest'ultima questione, ad
+"aggirare" il divieto d'entrata emanato dalla competente autorità
+amministrativa (Osservazioni 3 aprile 2004, pag. 1). Inoltre, e sempre secondo
+l'inquirente, la concessione di un salvacondotto da parte dell'autorità penale
+potrebbe essere invalidato dall'immediata espulsione da parte dell'autorità
+amministrativa che comunque risulterebbe disposta a rilasciarlo a determinate
+condizioni (richiesta da presentare alla rappresentanza Svizzera del suo
+attuale luogo di residenza).
+Le parti civili si sono limitate a rimettersi al
+giudizio di questo ufficio (doc. 3 e 5, inc. GIAR 477.2002.7).
+Delle altre osservazioni/argomentazioni delle parti si
+dirà, se del caso, nei considerandi che seguono.
+In diritto:
+1.
+a)
+In ordine va detto che ____________, accusato nel
+procedimento, è di principio legittimato a presentare reclamo contro (presunte)
+omissioni da parte del magistrato inquirente.
+b)
+Quanto al merito, questo giudice ha già chiarito e
+determinato, in sede di ordinanza d'intimazione (doc. 2 inc. GIAR 477.2002.7),
+che il reclamo è ricevibile unicamente laddove lamenta mancata (o ritardata)
+decisione del Procuratore pubblico. Le considerazioni enunciate in quella sede,
+note alle parti, vengono qui richiamate (DTF 123 I 31) e ribadite.
+Della ricevibilità delle censure sulle singole e
+specifiche omissioni si dirà nella trattazione delle stesse.
+c)
+Per completezza e chiarezza si precisa che, sebbene il
+reclamo richiami (a fondamento della censura di omissione) sia lo scritto 8
+marzo 2004 della difesa che quello del 10 febbraio 2004 dell'accusato, le
+richieste dei punti 2 e 3 di quest'ultimo scritto non sono oggetto delle
+domande di giudizio formulate nel reclamo. Neppure lo è, formalmente e come
+meglio precisato in seguito, la richiesta di cui al punto 3.
+2.
+Per quanto concerne l'accesso agli atti la situazione,
+perlomeno dal profilo formale, parrebbe essersi chiarita con lo scritto 29
+marzo 2004 del magistrato inquirente al difensore. In quello scritto si afferma
+esplicitamente che l'accesso integrale agli atti è dato sia al difensore che
+all'accusato; su questo punto il reclamo è divenuto privo d'oggetto.
+Certo, questo diritto (art. 58 CPP) deve potersi
+concretizzare e non rimanere semplicemente affermato; verifica in tal senso
+(pur nella consapevolezza del legame tra questa questione e quella del
+"salvacondotto") è questione che concerne il seguito della procedura.
+3.
+a)
+Per quanto concerne il "salvacondotto", la
+situazione appare più complessa (se si preferisce: intricata) e va chiarito
+preliminarmente cosa (e perché) è considerato oggetto del reclamo.
+L'accusato, con lo scritto del 10 febbraio 2004, ha
+chiesto la sospensione del divieto d'entrata 25.10.1990, mentre il difensore,
+con lo scritto 8 marzo 2004 che pur riprende le richieste dell'accusato,
+formula altra richiesta e cioè quella di un salvacondotto da parte
+dell'autorità penale (garanzia di non perseguibilità) di almeno un mese. In
+sede di reclamo (23 marzo 2004), come detto, si lamenta la non decisone del
+magistrato inquirente e si chiede (con le "domande di giudizio") che
+sia questo giudice a rilasciare un salvacondotto valido per tutta la procedura
+penale. Nelle argomentazioni del reclamo si afferma (pur senza farne formale
+domanda di giudizio) che questo giudice ha competenza per dichiarare arbitrario
+il divieto d'entrata.
+c)
+Il magistrato inquirente, da parte sua, ha rilasciato
+un salvacondotto (validità due giorni) il 12 gennaio 2004 chiedendo,
+contestualmente (AI 189), la sospensione del divieto d'entrata per gli stessi
+giorni (accordata, cfr. AI 190). Il 30 gennaio 2004 ha trasmesso "per
+competenza" all'__________ una ulteriore richiesta di sospensione del
+divieto d'entrata (AI 193), rifiutata con scritto del 12 febbraio 2004 in
+quanto l'accusato non avrebbe documentato l'uscita dalla Svizzera entro la
+scadenza della precedente sospensione (AI 195). Le successive richieste, dell'accusato
+e del suo difensore, sono rimaste senza risposta fino all'inoltro della
+presente procedura.
+Il 29 marzo 2004 il magistrato inquirente ha
+comunicato la sua incompetenza per sospendere il divieto d'entrata (negando
+quindi omissione), segnalando comunque una disponibilità in tal senso da parte dell'__________,
+a determinate condizioni, (cfr. doc. 4 inc. GIAR 477.2002.7). In sede
+d'osservazioni ha argomentato inutilità di un salvacondotto da parte sua che
+potrebbe essere invalidato da un allontanamento da parte dell'____________,
+ribadendo alla difesa che la strada da seguire è quella della domanda di
+sospensione all'____________ (lettera 5 aprile 2004 PP ad Avv. __________, doc.
+8 inc. GIAR 477.2002.7).
+Da ultimo, e con scritto 16 aprile 2004, il reclamante
+(tramite il suo difensore e siccome interpellato dallo scrivente giudice) ha
+precisato di preferire una decisione da parte di questa autorità in merito al
+rilascio del salvacondotto.
+e)
+Alla luce di quanto sopra riassunto, si può e si deve
+concludere che l'oggetto del reclamo (oltre alla questione dell'accesso agli
+atti, già risolta) è la non decisione del Procuratore pubblico sulla richiesta
+di un salvacondotto da rilasciarsi da parte dell'autorità penale.
+Le questioni più direttamente connesse al divieto
+d'entrata (emanato nel 1990, e sostanzialmente confermato nel 1993 a seguito di
+un'istanza di revoca - cfr.DTF 129 IV 246), quindi la sua sospensione, la
+revoca, il riesame, ecc., dello stesso (anche sulla base dell'ALC), evocate nel
+corpo del reclamo ma non nel petitum, non saranno oggetto della presente
+decisione.
+Abbondanzialmente, si rileva che tali questioni sono
+pure irricevibili per assenza di competenza di questo giudice (che non è
+giudice del merito) e, ancor prima, del Procuratore pubblico agente quale
+inquirente (cfr. art. 13 cpv. 1 LDDS; M.S. Nguyen, Droit public des étrangers,
+BE 2003, p. 608 ss., 610; N. Wisard, Les renvois et leur exécution en droit des
+étrangers et en droit d'asile, BS 1997, p. 139 § 5.4.1.1; Guide pratique du droit
+des étrangers, Edizioni WEKA, parte 5, capitolo 4.4; si vedano anche DTF 123 IV
+246, cons. 3.2. ultima frase e DTF 97 I 60).
+4.
+a)
+Il salvacondotto rilasciato dall'autorità penale è
+altra cosa per rapporto alla sospensione del divieto d'entrata. Trattasi di una
+sorta di garanzia/promessa (Zusage) di non arresto (per determinati reati) che
+l'autorità penale formula verso una persona per permettere/ottenere la sua
+presenza ad un atto di procedura (Hauser/Schweri, Schweizerisches Strafprozessrecht,
+BS 1999, § 91, ni. 5 ss., 10).
+Il salvacondotto è previsto
+de lege
+, a
+determinate condizioni e con specifiche limitazioni, dalla LAIMP (art. 73).
+Alcuni codici cantonali di procedura penale lo prevedono, così come la PPF (art.
+61).
+Per quanto concerne la procedura cantonale ticinese va
+detto che l'istituto (se così può essere definito) non è previsto. Tuttavia,
+risulta che in alcuni casi "
+assolutamente particolari di interesse
+pubblico (p. es. necessità di assumere una prova non altrimenti reperibile o
+reperibile solo con molte difficoltà, motivi personali validi, ecc.)
+"
+(CRP 25 marzo 1995 in re H., 60.94.00007) lo strumento sia stato utilizzato. In
+particolare è riconosciuta una sua utilità allorquando si tratta di garantire
+il principio di celerità (sentenza CRP citata, p. 4).
+b)
+Il salvacondotto, così come inteso dalle legislazioni
+che lo prevedono e dalla prassi, costituisce una sorta di garanzia di non
+adozione di provvedimenti restrittivi/coercitivi o d'autorità, di qualsiasi
+natura per fatti, e procedimenti, precedenti il suo rilascio e non una garanzia
+di immunità per fatti successivi, rispettivamente di non punibilità definitiva
+(o decadenza) per fatti precedenti o successivi al momento della sua
+concessione, rispettivamente per procedimenti in corso. Garanzie di
+quest'ultimo tipo non rientrano nella nozione di salvacondotto che, tra
+l'altro, di regola ha carattere temporaneo.
+Nel caso in esame, il salvacondotto richiesto concerne
+una situazione al limite delle due tipologie di concetti appena esposti.
+Infatti, è palese che la richiesta è volta ad evitare le conseguenze penali di
+un'entrata e di un soggiorno in Svizzera che potrebbero essere illegali (ex art.
+23 LDDS) vista l'esistenza del divieto d'entrata del 1990 (il condizionale è
+d'obbligo viste le note vicissitudini del reclamante in materia di infrazione
+alla LDDS - si veda, quale ultima decisione in materia DTF 123 IV 246).
+Tuttavia, visto lo scopo per il quale il salvacondotto è richiesto (diritto di
+partecipare all'istruttoria), ed il fatto che i reati che verrebbero commessi
+lo sarebbero (inevitabilmente) con la messa in opera di quanto necessario per
+realizzare tale scopo, questo giudice ritiene non potersi escludere che la
+prassi (e principi) della concessione di un salvacondotto possano trovare applicazione
+anche in casi come quello del qui reclamate.
+c)
+Alla luce di quanto sopra si deve concludere che la
+richiesta formale di salvacondotto formulata dalla difesa con scritto 8 marzo
+2004 non è ancora stata evasa dal magistrato inquirente. È vero che dagli atti
+successivi al reclamo che Procuratore pubblico ha indirizzato alla difesa, e
+dalle stesse osservazioni al reclamo, si potrebbe evincere intenzione negativa,
+ma è altrettanto vero che quegli atti non costituiscono decisione formale, sono
+orientati a trovare una soluzione pragmatica e non distinguono chiaramente il
+salvacondotto penale dalla sospensione del divieto d'entrata.
+d)
+Come si è già detto in merito alla ricevibilità,
+questo giudice non è competente per emanare provvedimenti (propri) in luogo e
+vece del Procuratore pubblico laddove si tratta di questioni strettamente
+connesse all'esercizio dell'azione penale ed alle competenze istruttorie:
+"
+Non sono di contro ricevibili le domande di un intervento del
+Giudice dell'istruzione e dell'arresto a sanare direttamente con propri
+provvedimenti - in casu di arresto e di sequestro - la denunciata inazione del
+magistrato inquirente.
+L'azione penale è esercitata dal
+Procuratore pubblico (art. 2 CPP), che quindi l'avvia, la conduce e la conclude
+(art. 151 cpv. 1 CPP), sino alla decisione che pone termine alle informazioni
+preliminari (art. 143 cpv. 1 e 2 CPP) e all'istruzione formale (art. 159 cpv. 1
+CPP). Segnatamente - avuto riguardo alle richieste del reclamante - è il solo
+Procuratore pubblico competente a emettere l'ordine di arresto durante
+l'istruzione formale (art. 35 lett. a CPP) e analogamente ad ordinare un
+sequestro (art. 120 CPP). Non v'è altra autorità giudiziaria con tali
+competenze per quella fase processuale: nessuna norma prevede o lascia
+intendere qualsivoglia possibilità di sostituzione.
+L'esame dell'autorità di reclamo nel
+contesto di censura per denegata o ritardata giustizia è così limitato
+all'accertamento dell'omissione, alla sua valutazione e - se del caso -
+all'invito/ordine di ovviarvi con la dovuta sollecitudine, fermi restando i
+successivi diritti di impugnativa di merito.
+"
+(GIAR, 17 marzo 1994 in re H, 204.94.1)
+Ne consegue che, indipendentemente dall'accertamento o
+meno di una ritardata/denegata giustizia, gli atti debbono tornare al
+Procuratore pubblico competente, per la decisione sulla richiesta.
+d)
+La, per ora, "mancata decisione" del
+magistrato inquirente lamentata dal reclamante, non configura ritardata o
+denegata giustizia.
+La richiesta di salvacondotto, datata 8 marzo 2004, è
+giunta al Ministero pubblico il 10 successivo. Il reclamo è stato inoltrato
+solo dodici/tredici giorni dopo: il tempo trascorso non è assolutamente sanzionabile
+quale ritardo (temporale).
+Il reclamo non indica alcun elemento che permetta di
+ritenere che il fatto di non aver deciso sull'istanza in questione nel periodo
+sopra indicato abbia comportato un pregiudizio processuale al reclamante, né
+che la decisione era dovuta (cioè che egli abbia un chiaro diritto alla stessa)
+entro un determinato termine.
+Inoltre, risulta chiaramente dagli scritti 29 marzo
+2004 e 5 aprile 2004 del Procuratore pubblico alla difesa, che l'autorità
+inquirente non è rimasta inoperosa per permettere l'entrata in Svizzera del
+reclamante ai fini della procedura penale pendente contro di lui.
+5.
+Ancorché, per certi aspetti, possa apparire
+effettivamente "kafkiana" la situazione della persona oggetto di un
+procedimento penale in Svizzera che, nel contempo, è oggetto di un divieto
+d'entrata amministrativo, nulla indica che l'esistenza di un procedimento
+penale comporti automaticamente un diritto di soggiorno a tempo indeterminato,
+rispettivamente un diritto alla sospensione (sempre a tempo indeterminato) di
+misure amministrative che ostano all'entrata. Nel contempo è pacifico che la
+presenza (non necessariamente costante e continua e non necessariamente
+corrispondente ad una effettiva presenza sul territorio) è elemento importante,
+in alcuni momenti determinante (e costitutiva di un diritto
+"formale"), della procedura penale (Hauser/Schweri, op. cit., § 91
+n.5) e, qualora l'impedimento all'entrata (senza colpa) dovesse impedisse il
+corretto esercizio di determinati diritti procedurali se ne dovranno trarre le
+necessarie conseguenze, sempre a livello procedurale.
+Come detto nei considerandi precedenti, esiste
+comunque la possibilità di permettere partecipazione alla procedura sia
+mediante la sospensione dell'eventuale provvedimento amministrativo sia
+mediante un salvacondotto penale.
+La sospensione del provvedimento amministrativo è di
+esclusiva competenza dell'autorità amministrativa (con decisione impugnabile e
+facoltà di ricorso estesa anche a "terzi interessati", cfr. art. 20
+cpv. 2 LDDS) e la necessità di partecipare ad un processo (o ad una sua fase) è
+spesso citata tra i motivi che ne giustificano la concessione (cfr. M.S. Nguyen,
+Droit public des étrangers, BE 2003, p. 608 ss., 610; N. Wisard, Les renvois et
+leur exécution en droit des étrangers et en droit d'asile, BS 1997, p. 139 §
+5.4.1.1; Guide pratique du droit des étrangers, Edizioni WEKA, parte 5,
+capitolo 4.4 ). L'eventuale concessione di un salvacondotto penale compete,
+invece, ai titolari dell'azione penale (nei casi in cui non è dato ex lege a
+motivo di una citazione - art. 73 LAIMP).
+6.
+In conclusione, ed alla luce di tutto quanto espresso
+ai considerandi precedenti, il reclamo deve essere dichiarato irricevibile
+laddove laddove in qualche modo chiede questo giudice di intervenire sul
+divieto d'entrata, rispettivamente di concedere direttamente un salvacondotto
+penale. Nella misura in cui lamenta denegata o ritardata giustizia per la
+mancata decisione del magistrato inquirente, il reclamo è respinto. Per quanto
+concerne la concessione dell'accesso agli atti, il reclamo è divenuto privo
+d'oggetto per esplicita adesione del magistrato alla richiesta.
+Vista la particolarità della questione, che concerne
+anche la libertà personale (salvacondotto), e la parziale adesione del
+magistrato inquirente alle richieste, in pendenza di reclamo, non si prelevano
+tasse e spese.
+Ritenuto che il salvacondotto può essere considerato
+atto connesso alla libertà personale, questo giudice non può escludere che la
+CRP investita di un ricorso ex art. 284 possa dichiararsi competente. La
+presente decisione non viene pertanto dichiarata definitiva.
+P.Q.M.
+viste le norme applicabili, quelle citate ed in
+particolare gli artt. 1 ss., 58, 280, 284 CPP,
+decide
+1.
+Il reclamo, nella misura in cui è ricevibile e non sia
+divenuto privo d'oggetto, è respinto. Il tutto come meglio precisato al considerando
+n. 6.
+2.
+Non si prelevano tasse e spese, non si assegnano
+ripetibili.
+3.
+Intimazione a:
+-    PP __________, Via Pretorio 16,
+6900 Lugano;
+-    avv. __________;
+-    avv.
+__________, per la Provincia di __________;
+-               avv.
+__________ per __________.
+giudice
+__________
