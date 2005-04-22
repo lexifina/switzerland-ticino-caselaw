@@ -1,0 +1,326 @@
+---
+decision_id: "ti_gerichte_INC.2005.15703"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.15703"
+decided: "2005-04-22"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=61005&nX40_KEY=4711282&nTrefferzeile=33&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/142.20/art-007.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-198.md"]
+---
+
+# TI Gerichte INC.2005.15703
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 22.04.2005 INC.2005.15703
+Tessin Il Giudice dell'istruzione e dell'arresto 22.04.2005 INC.2005.15703
+Ticino Il Giudice dell'istruzione e dell'arresto 22.04.2005 INC.2005.15703
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2005.15703
+Lugano
+22 aprile 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull'istanza di libertà
+provvisoria 20 aprile 2005 presentata da
+__________
+, in
+espiazione pena c/o __________
+patrocinato di fiducia dall'__________
+trasmessa direttamente a questo giudice ai
+sensi dell’art. 108 cpv. 3 CPP
+viste le
+osservazioni 21 aprile 2005 del Procuratore pubblico Luca Maghetti mentre che
+il Presidente della Pretura penale non ha presentato osservazioni;
+visto l’incarto n°
+__________ della Pretura penale e l’incarto MP di cui al DA __________ in
+opposizione;
+ritenuto e
+considerato
+in
+fatto e in diritto
+che:
+-   __________, alias __________, cittadino della
+__________ che risiede senza fissa dimora in Svizzera e senza permesso alcuno,
+è stato arrestato il 18 marzo 2005 con ordine d’arresto di stessa data emanato
+dal Procuratore pubblico Luca Maghetti per titolo di furto, ricettazione e
+danneggiamento per i bisogni dell’istruzione ed il pericolo di fuga in quanto
+persona definita __________ e senza alcun legame con la Svizzera;
+-   il 19 marzo 2005 il magistrato inquirente ha
+richiesto a questo ufficio la conferma dell’arresto, per i bisogni dell’istruzione,
+per accertare il suo ruolo nell’ambito di furti avvenuti nel __________
+attribuibili ad un gruppo di correi, per verifiche sulla refurtiva, pericolo di
+collusione con i correi non ancora identificati né arrestati e per pericolo di
+fuga siccome cittadino straniero senza alcun legame con la Svizzera, con
+contestuale promozione dell’accusa per titolo di ripetuto furto,
+danneggiamento, ricettazione, violazione del bando ed infrazione alla LFDDS,
+arresto che è stato confermato da questo giudice in data 19 marzo 2005 presso
+la __________ di __________, dove l’accusato era stato ricoverato a causa del
+suo stato alterato al momento dell’arresto, considerata l’esistenza a suo
+carico di gravi e concreti indizi di colpevolezza e la presenza di preminenti
+motivi di interesse pubblico quali i bisogni dell’istruzione ed il pericolo di
+fuga (Inc. GIAR 157.2005.1, doc. 6);
+-   in sintesi, per quanto riguarda i fatti,
+l’inchiesta ha avuto avvio il 13 marzo 2005 con l’arresto di tre persone (tra
+cui un minorenne) indiziate di avere commesso diversi furti con scasso
+(spaccate) in danno di negozi di __________ – furti avvenuti tra l’11 febbraio
+e l’8 marzo 2005 con una refurtiva complessiva del valore di circa CHF 95'000.-
+oltre i danni arrecati agli infissi ed al mobilio dei negozi derubati – tra i
+quali il negozio __________ di __________ a __________ che aveva subito un
+furto con scasso, la notte tra il 1° e il 2 marzo 2005, quando ignoti, dopo
+avere infranto il vetro della vetrina, erano penetrati all’interno del negozio
+e sottratto capi d’abbigliamento (87 pantaloni jeans del valore commerciale di
+CHF 199.- il paio) e denaro contante per complessivi CHF 17'373.-; il 18 marzo
+2005 un funzionario dell’Ufficio regionale degli stranieri di __________ aveva
+richiesto l’intervento della Polizia cantonale poiché allo sportello
+dell’ufficio si era presentato l’accusato che risultava colpito da espulsione;
+le persone prevenute colpevoli di avere commesso il furto in danno del negozio
+__________ di __________, tra i quali __________ e __________, hanno
+riconosciuto nella fotografia a colori di __________, che veniva loro mostrata
+dagli agenti della Polizia cantonale, un cittadino della __________ di nome
+__________ come la persona che la sera della spaccata al negozio __________, si
+trovava a casa di __________ e che in quell’occasione avrebbe acquistato da
+__________ due paia di jeans appena rubati;
+interrogato dalla Polizia, __________ ha dichiarato
+di essere entrato per la prima volta in Svizzera nel 2000 inoltrando domanda
+d’asilo che gli è stata respinta, e di avere continuato a soggiornare comunque
+in Svizzera, a __________, ed in __________; l’accusato ha poi dichiarato di
+avere un figlio dalla cittadina svizzera __________, nato il 9 novembre 2003 da
+lui legalmente riconosciuto presso l’ufficio stato civile di __________ in data
+10 febbraio 2005. __________ ha ammesso di essere al corrente non solo di non
+potere risiedere in Svizzera ma addirittura del fatto che avrebbe dovuto
+lasciare il Paese e collaborare con le Autorità elvetiche per procurarsi
+documenti di legittimazione validi per l’espatrio, come gli è stato intimato in
+data 14 ottobre 2004 presso l’Ufficio giuridico della Sezione permessi ed
+immigrazione. L’accusato ha però dichiarato a questo giudice in sede di verbale
+di conferma dell’arresto, di essersi procurato i propri documenti d’identità
+(trasferendosi in __________ per qualche mese) allo scopo di riconoscere il
+proprio figlio, affermando successivamente che non ha nessuna intenzione di
+lasciare la Svizzera d’altronde, appena il giorno prima, aveva sottratto agli
+agenti il proprio passaporto strappando la pagina con la fotografia ed i dati
+personali che aveva immediatamente fagocitato allo scopo di rendere il
+passaporto inutilizzabile;
+__________ ha negato, sia alla Polizia che a questo
+giudice di avere acquistato dei pantaloni così come gli veniva contestato,
+bensì ha affermato di essersi rifiutato di acquistare i pantaloni che gli
+venivano offerti poiché sapeva essere provento di un furto;
+con il DA __________ dell’11 aprile 2005, il
+Procuratore pubblico Luca Maghetti ha messo in stato d’accusa __________ per
+violazione del bando, per essere entrato in Svizzera, almeno nel mese di
+febbraio 2005, proveniente dall’__________, dove aveva soggiornato per circa
+due mesi, soggiornando illegalmente a __________ ed a __________ sino al giorno
+dell’arresto nonostante la pena accessoria dell’espulsione effettiva dal
+territorio svizzero per 3 anni inflittagli dal Ministero pubblico di Lugano con
+il DA __________ del __________ (cfr. Inc. DA __________, doc. D);
+-   con l’istanza qui in discussione (inc. GIAR
+157.2005.3, doc. 1), __________ – dopo avere interposto opposizione al DA
+__________ dell’__________ con lettera 12/13 aprile 2005 del suo difensore
+diretta al Ministero pubblico (cfr. Inc. DA __________, doc. A), il quale ha
+inviato l’opposizione, il DA impugnato ed l’incarto relativo all’istruzione
+formale alla Pretura penale con lettera 13/14 aprile 2005 (inc. __________
+della Pretura penale, doc. 1) – chiede di essere posto in libertà provvisoria;
+non contesta l’esistenza di gravi e concreti indizi di colpevolezza a suo
+carico per quanto riguarda il reato di violazione del bando mentre li nega per
+quanto riguarda il reato di ricettazione, a suo dire non sarebbero più presenti
+i bisogni istruttori come pure non vi sarebbe traccia di pericolo di fuga vista
+la volontà più volte espressa di volere rimanere in Svizzera e di ottenere un
+permesso di soggiorno per ricongiungimento famigliare che già avrebbe chiesto
+(cfr. doc. D allegato all’istanza di libertà provvisoria), in via subordinata
+chiede di essere messo in libertà provvisoria in applicazione di una misura
+sostitutiva dell’arresto quale il deposito del passaporto o di una cauzione
+(cfr. istanza di libertà provvisoria, p. 4);
+-   con osservazioni 21 aprile 2005 il Procuratore
+pubblico chiede la reiezione dell’istanza sostenendo che la posizione
+dell’accusato in Svizzera è precaria non essendo di fatto possibile un
+ricongiungimento famigliare. La donna dalla quale __________ ha avuto un figlio
+non intende ricongiungersi con l’accusato e non vuole avere contatto alcuno con
+quest'ultimo, tant’è che __________, durante il suo soggiorno in __________ e a
+__________ si sarebbe fatto ospitare da conoscenti dove meglio capitava; il
+Procuratore pubblico ritiene poi improponibili le misure sostitutive
+dell’arresto avanzate dall’istante poiché quest’ultimo ha inghiottito due
+pagine del suo passaporto rendendolo de facto inutilizzabile per lo scopo per
+il quale era stato rilasciato (Inc. GIAR 157.2005.3, doc. 4);
+-   non sono giunte osservazioni da parte del
+Presidente della Pretura penale e l’incarto è giunto a questo ufficio in tempo
+utile grazie alla buona sorte;
+-   l’accusato, detenuto, è pacificamente legittimato a
+presentare l’istanza di libertà provvisoria che ci occupa, ritenuta la sua
+ricezione da parte di quest’ufficio il giorno 20 aprile 2005;
+-   i principi applicabili, sebbene noti alle parti,
+vengono qui di seguito riproposti:
+“L’art. 95 CPP – corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 – dopo
+evidenza al cpv. 1 del principio secondo cui l’accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso) proroga del
+carcere preventivo ai sensi dell’art. 103 CPP, quando esistono a carico dello
+stesso accusato gravi e concreti indizi di colpabilità per un crimine o un
+delitto e nel contempo sono presenti preminenti motivi di interesse pubblico,
+quali i bisogni dell’istruzione, con particolare riguardo al pericolo di
+collusione e di inquinamento delle prove e il pericolo di recidiva.. Si
+aggiunge, che l’elenco dei motivi di interesse pubblico nell’art. 95 cpv. 2 CPP
+non è esaustivo (Messaggio aggiuntivo del 20 marzo 1991 concernente la revisione
+del CPP, ad art. 27 , pag. 32, nota 3), tra altri possibili, essendovi quello
+della tutela dell’ordine pubblico (REP 1998 n. 105).
+L’eccezione della cautelare privazione della
+libertà personale ha così trovato codificazione in una chiara base legale (di
+diritto cantonale: DTF 114 Ia 283 consid. 3) in corrispondenza ed a superamento
+di quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali –
+nel solco di quella del Tribunale federale -, ritenuto implicito il rispetto
+della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102
+Ia 381).
+I menzionati presupposti devono però sussistere
+anche quando, a seguito della chiusura dell’istruttoria o dell’emanazione
+dell’atto d’accusa o del decreto d’accusa, il carcere preventivo continua oper
+legis entro i termini massimi stabiliti dalla legge ai sensi dell’art. 102 cpv.
+3 CPP, con riferimento ai disposti degli art. 198 CPP e 230 CPP.
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all’arbitrio (REP 1980 pag.
+128)”.
+(per tutte: sentenza GIAR 21.12.2001 in re G., Inc. 520.2001.5);
+-   nel caso in esame è indubbio che vi siano, con
+verosimiglianza sufficiente a questo stadio del procedimento ed in questa sede,
+gravi e concreti indizi per i reati ascritti nei confronti del qui istante,
+rilevabili dalle ammissioni dell’accusato stesso (Inc. GIAR 157.2005.3, doc. 2
+e doc. 6, p. 2) e dalla flagranza di reato, per quanto riguarda l’accusa di
+violazione del bando, e dalla chiara e disinteressata chiamata in correità
+delle persone accusate dei furti in danno del negozio __________ di __________
+per quanto riguarda il reato di ricettazione (Inc. MP 2005.1144, AI 9, p.2; AI
+13, AI 14);
+-   per quanto riguarda il pericolo di fuga – la cui
+presenza già era stata considerata al momento della conferma dell’arresto (Inc.
+GIAR 157.2005.3, doc. 6) –, per giustificare carcerazione preventiva, deve
+essere concreto e rivestire di una certa probabilità: in altri termini lo si
+ammette quando l’accusato, se posto in libertà, si sottrarrebbe con una certa
+verosimiglianza al perseguimento penale ed alla (eventuale) esecuzione della
+pena. La gravità della pena presumibile non basta, da sola, a motivare la
+carcerazione; occorre valutare l’insieme delle circostanze, tra cui il
+carattere dell’accusato, la sua morale, i legami famigliari, il domicilio, la
+professione, la situazione economica e tutti quegli elementi che rendono la
+fuga non solo possibile ma probabile (DTF 19 gennaio 1999 in re G.S.; DTF 117
+Ia 69; SJ 1980 186; SJ 1981 135; N. Schmid, Strafprozessrecht, ZH 1997, no.
+701).
+Ritenuto che a poco valgono, per quest'analisi, le
+semplici dichiarazioni d'intenti dell'accusato stesso (per tutte: sentenza GIAR
+27 maggio 2002 in re P.) e che la concretezza del pericolo di fuga può essere
+accertata "Auch wenn keine konkrete Flüchtpläne u.ä. gefordet sind,
+…" (Schmid, ibidem);
+l'accusato
+è cittadino della __________ anche se vale la pena ricordare come in passato si
+sia presentato quale cittadino del __________ a mano di un permesso di
+soggiorno olandese, valido solo per l’__________; a suo dire sarebbe entrato in
+Svizzera per la prima volta nel 2000, ma cosa abbia fatto e dove abbia
+soggiornato almeno sino a dicembre 2002 (data della sua entrata illegale per
+cui è stato condannato con DA __________ del __________ validamente intimato) e
+persino dopo l’emanazione del precedente decreto d’accusa (intimatogli brevi
+manu al momento della scarcerazione) non è dato saperlo. __________ è stato
+sprovvisto di documenti di legittimazione e nulla ha fatto per procurarseli,
+sino almeno a febbraio 2005 quando si è procurato il passaporto tramite
+l’ambasciata del suo paese in Italia, all’unico scopo di potere richiedere il
+ricongiungimento famigliare per potere risiedere in Svizzera dopo avere
+riconosciuto il figlio __________ avuto a seguito di un rapporto con la
+cittadina Svizzera __________;
+a
+prescindere dal fatto che in tutto l’incarto non vi è traccia di una sola
+richiesta di permesso di visita inoltrata da __________, questo giudice si
+chiede che sorte possa avere anche l’istanza di ricongiungimento famigliare 11
+febbraio 2005 (doc. D allegato all’istanza di libertà provvisoria). L’art. 7
+LDDS prevede infatti che il coniuge straniero di un cittadino svizzero ha
+diritto al rilascio e alla proroga del permesso di dimora e che questo diritto
+si estingue qualora sorga un motivo d’espulsione, orbene non risulta a questo
+giudice che __________ abbia contratto matrimonio con l’accusato e neppure che
+conviva con lui, anzi sembrerebbe addirittura che non abbia nessuna intenzione
+di farlo. Peraltro l’istanza sarebbe irricevibile pure dal profilo formale
+avendo sottoscritto procura di rappresentanza all’avv. __________ (che tra
+l’altro scrive il falso definendo __________ quale “Ehefrau” di __________)
+soltanto l’accusato, il quale non può rappresentare __________ e neppure il
+figlio __________ non avendo verosimilmente autorità parentale su di lui.
+__________
+non ha un lavoro e non sembra che abbia lavorato in passato, non si sa quindi
+di cosa viva, non ha un domicilio in Svizzera come pure legami famigliari a
+parte quelli con il figlio che non sembra neppure esercitare e che peraltro non
+dimostra di avere fatto qualcosa sino ad oggi per il suo mantenimento o per la
+sua educazione.
+Egli è stato deferito davanti al Pretore penale con
+una proposta di pena di 40 giorni di detenzione da espiare e la revoca della
+sospensione condizionale della pena di 45 giorni di detenzione inflittagli con
+il DA __________ del __________, stante la sua situazione vi è un alto pericolo
+di compromissione della valutazione di una prognosi favorevole per quanto
+riguarda la sospensione condizionale della pena, considerata la reiterazione a
+delinquere e la distruzione dei suoi documenti d’identità (considerata la
+giurisprudenza delle Corti d’ Assise criminali e correzionali a questo
+proposito), distruzione a lui imputabile dal momento che ha dolosamente cercato
+di distruggere, anzi divorato in parte, il suo documento d’identità
+all’evidente scopo di non essere rimpatriato. Circostanze queste che rendono
+concreto il pericolo che __________, in caso di sua messa in libertà
+provvisoria, si dia alla fuga, rendendosi irreperibile in Svizzera, come ha
+fatto sino al giorno del suo arresto, o rifugiandosi all’estero – come in
+passato, il fatto di non disporre di documenti d’identità non è stato un
+deterrente per viaggiare al di fuori del suo Paese d'origine ed in generale in
+Europa (__________, Svizzera, __________) – e per non più ripresentarsi al
+momento del pubblico dibattimento per paura di essere in ogni caso rimpatriato
+forzatamente a seguito dell’esecutività dell’espulsione penale decretata il
+__________. Il rischio di fuga appare quindi probabile in modo del tutto
+concreto e non può essere evitato neppure con misure meno incisive, quali il
+deposito di una cauzione o del passaporto (che, ricordiamolo, è stato distrutto
+da __________), non avendo per di più l’accusato alcuna valida autorizzazione
+per rimanere in Svizzera e non disponendo di altri documenti. Il pericolo che
+__________, se posto in libertà provvisoria, si renda irreperibile, è
+avvalorato dal fatto che visto il sommarsi di procedimenti penali nei suoi
+confronti corre anche il rischio dell’avvio di una procedura di rimpatrio
+amministrativa nei suoi confronti;
+-   per quanto riguarda il principio di
+proporzionalità, lo stesso appare ancora rispettato. __________ è stato
+arrestato per quanto ci riguarda il 18 marzo scorso ed è stato condannato con
+il DA __________ dell’__________ – i tempi dell’inchiesta che hanno portato all’emanazione
+del decreto d’accusa sono stati rispettosi del principio di celerità – ad una
+pena di 40 giorni di detenzione da espiare, oltre alla revoca della sospensione
+condizionale concessa alla pena di 45 giorni di detenzione che gli era stata
+inflitta con il DA __________ del __________ (per cui ha sofferto solo due
+giorni di carcerazione preventiva) e che il Presidente della Pretura penale ha
+ricevuto il decreto d’accusa in opposizione il 14 aprile 2005, lo stesso giorno
+ha intimato l’ordinanza sulle prove assegnando un termine di 10 giorni per per
+notificare le prove da presentare al dibattimento e ha fissato il pubblico
+dibattimento per martedì 3 maggio 2005 (nei termini previsti dal CPP) ed ha poi
+prorogato, su richiesta della difesa, il termine per la presentazione della
+prove sino al 28 aprile 2005 (Inc. della Pretura penale n° __________, doc. 5 e
+7); di conseguenza l’accusato al giorno del processo avrà trascorso 46 giorni
+in carcere preventivo, meno di quanto proposto dal Procuratore pubblico nel suo
+decreto d’accusa compresa la revoca della precedente condanna; se confrontata
+quindi con le imputazioni promosse a __________ e con i gravi e concreti indizi
+di reato, rilevabili dagli atti e dalle ammissioni dell’accusato stesso, nonché
+con le motivazioni che lo hanno spinto a delinquere, con il fatto che i reati
+imputati a __________ sono avvenuti durante il periodo di prova di una condanna
+precedente sempre per reati connessi con il soggiorno illegale in Svizzera, si
+può desumere che la durata del carcere preventivo sofferto non viola il
+principio di proporzionalità;
+-   in conclusione, constatata l’esistenza di gravi
+indizi di reato, concreto pericolo di fuga, nonché rispetto del principio di
+proporzionalità della carcerazione sofferta nei termini suesposti, l’istanza
+deve essere respinta con il presente giudizio esente da tasse e spese.
+P.Q.M.
+visti
+gli art. 95 ss e 108 cpv. 3 CPP, 9, 10, 31 CF, 160 e 291 CP;
+decide:
+1.
+L’istanza di libertà provvisoria presentata
+direttamente a questo giudice in virtù dell’art. 108 cpv. 3 CPP, è respinta.
+2.
+Non si prelevano tasse e spese.
+3.
+Contro la presente decisione è dato ricorso
+alla Camera dei ricorsi penali, entro dieci giorni dall’intimazione.
+Intimazione a:
+giudice
+Claudia Solcà
