@@ -1,0 +1,192 @@
+---
+decision_id: "ti_gerichte_INC.2004.9505"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.9505"
+decided: "2005-04-27"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=60937&nX40_KEY=4711282&nTrefferzeile=14&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2004.9505
+
+## Regeste
+
+Proroga carcerazione preventiva in attesa di allontanamento
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 27.04.2005 INC.2004.9505
+Tessin Il Giudice dell'istruzione e dell'arresto 27.04.2005 INC.2004.9505
+Ticino Il Giudice dell'istruzione e dell'arresto 27.04.2005 INC.2004.9505
+
+Proroga carcerazione preventiva in attesa di allontanamento
+
+Incarto n.
+INC.2004.9505
+Lugano
+27 aprile 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull'istanza/decisione 18 aprile 2005
+della
+Sezione dei permessi e
+dell'immigrazione,
+Bellinzona
+relativa alla proroga della carcerazione in vista
+dell'allontanamento cui è astretto
+__________
+(patr. d'ufficio dall'__________)
+visti gli inc. GIAR 95.2004.1, 3
+e 5;
+proceduto all'audizione di __________
+il 26 aprile 2005;
+ritenuto e considerato
+in fatto
+1.
+__________ è stato incarcerato il
+3 febbraio 2005, a seguito di decisione 28 gennaio 2005 della SPI (artt. 13b e
+13f LDDS), allo scopo di garantire l'allontanamento (doc. 1, inc. GIAR
+95.2004.3). __________ __________ è stato sentito il giorno successivo da
+questo giudice che ha confermato legalità ed adeguatezza della carcerazione,
+con le seguenti motivazioni:
+"
+-
+dagli atti risulta l'esistenza
+di concreti indizi tali da ritenere che il comparente intenda sottrarsi
+all'allontanamento, perché non ha lasciato la Svizzera entro il termine
+impartitogli dalle competenti autorità (cfr. UFR 31.12.03 e CRA 8.3.2005),
+restando in CH e commettendo reati; inoltre non ha ottemperato all'obbligo di
+collaborazione per l'ottenimento dei documenti di legittimazione per il
+rimpatrio"
+(inc. GIAR 95.2004.3, doc. 3)
+2.
+Con decisione/istanza del 18
+aprile 2005 (se si preferisce, decisione soggetta a conferma: art. 13b cpv. 2
+seconda frase), approssimandosi la scadenza dei tre mesi (art. 13b cpv. 2 prima
+frase LDDS), la SPI ha disposto/chiesto che la carcerazione ai fini di
+allontanamento sia prorogata di tre mesi, se confermata dal GIAR (doc. 1 inc.
+GIAR 95.2004.5; artt. 3 cpv. 2 lett. a., 5, 29 Legge cantonale d'applicazione LMC,
+e art. 1 del relativo regolamento). La SPI, rilevato che l'autorità ha compiuto
+tutti gli sforzi necessari a mettere in atto l'allontanamento ai sensi
+dell'art. 13b cpv. 3 LDDS, ha evidenziato la costante mancanza di
+collaborazione della persona oggetto della misura, rendendo tal modo difficile
+all'autorità qualsiasi tentativo volto all'ottenimento dei documenti di viaggio
+necessari all'espatrio.
+3.
+Nel corso dell'udienza 26 aprile
+2005 l'interessato ha ribadito di non voler (poter) collaborare con le autorità
+per l'ottenimento dei documenti di legittimazione.
+4.
+La decisione di questo giudice
+che accertava legalità ed adeguatezza della carcerazione, si fondava su di una
+serie di riscontri che indicavano come lo straniero non avesse intenzione di
+lasciar la Svizzera, come egli avesse violato il suo obbligo di collaborazione
+e come la sua permanenza sul territorio abbia comportato condanne penali (doc.
+2, inc. GIAR 95.2004.3).
+5.
+La decisione sull’eventuale
+proroga della carcerazione in vista dell’esecuzione dell’allontanamento esige
+ovviamente un esame volto a determinare se i motivi che avevano condotto
+all’originaria decisione di incarcerazione mantengano ancora la propria
+validità.
+Inoltre, la concessione di una
+proroga della carcerazione esige la presenza di “
+particolari ostacoli [...]
+all’esecuzione dell’allontanamento o dell’espulsione
+” (art. 13b cpv. 2
+LDDS). Sono considerati tali il rifiuto dello straniero di collaborare, per
+quanto ragionevolmente esigibile, ai preparativi per la sua partenza, la durata
+eccezionalmente lunga della procedura di ottenimento dei documenti di viaggio,
+ma anche ragioni tecniche a carattere provvisorio (v.
+Nicolas Wizard
+,
+Les renvois et leur exécution en droit des étrangers et en droit d’asile, tesi
+di dottorato dell’Università di Ginevra, Basilea/Francoforte sul Reno 1997,
+pto. 3.3.4.1.2 p. 294 s.).
+6.
+Nel caso in esame
+l'allontanamento non è ancora stato possibile o comunque è reso più
+difficoltoso a causa della mancata collaborazione della persona interessata.
+Dagli atti risulta che la SPI con
+scritto 7 marzo 2005, al fine di verificare nuovamente l'intenzione di __________
+a collaborare in vista del suo rimpatrio, ha chiesto alla Polizia cantonale di
+procedere all'interrogatorio dell'interessato, - l'audizione ha avuto luogo il
+22 marzo 2005 -, con scritto 29 marzo 2005 ha sollecitato l'UFM ad agire nei
+confronti dell'Ambasciata algerina affinché la stessa si attivasse per il
+rilascio di un lasciapassare - con scritto 5 aprile 2005 l'UFM ha chiesto al Consolato
+algerino a Ginevra se lo stesso sia disposto a rilasciare un lasciapassare -
+ed, infine, con lettera 22 aprile 2005 ha chiesto all'UFM se la richiesta 5
+aprile 2005 abbia avuto esito positivo o meno. L'autorità ha quindi fatto
+quanto in suo potere per permettere l'allontanamento. Al contrario è manifesto
+come sia il comportamento del resistente (peraltro dichiarato) ad impedire il
+corretto rientro: egli infatti, nel corso del verbale di polizia 22 marzo 2005
+e dinanzi a questo giudice (cfr. verbale udienza 26.04.2005), ha affermato di
+non aver compiuto alcun passo per l'ottenimento di un documento di viaggio, di
+non aver contattato il suo Consolato a Ginevra e di non poter collaborare
+"in
+quanto le autorità algerine, se qualora rientrassi nel mio Paese, sarei un uomo
+morto"
+.
+Inoltre, __________, durante il
+suo soggiorno in Svizzera, ha più volte interessato le autorità penali, e
+meglio per i reati di ripetuto furto, infrazione e contravvenzione alla LStup,
+ricettazione e atti sessuali con fanciulli (DA __________ del __________; DA __________
+del __________ e DA __________ del __________), reati di indubbia gravità (cfr.
+A. Wurzburger, op. cit., p. 68) commessi nel corso del 2004, cioè dopo che con
+decisione 31.12.2003 l'UFR aveva deciso che lo stesso doveva lasciare
+immediatamente la Svizzera. Infine, giova ricordare che il 27 aprile 2004 il
+Dipartimento delle istituzioni del Canton Ticino ha emesso nei confronti di __________
+una decisione di divieto d'accesso al territorio di Lugano, il 7 settembre 2004
+il Dipartimento di giustizia e polizia del Canton Ginevra ha emesso analoga
+decisione con riferimento al territorio del Canton Ginevra ed il 10 dicembre
+2004 l'UFM ha pronunciato un divieto d'entrata di durata illimitata, in quanto
+"straniero
+il cui ritorno in Svizzera è indesiderato a motivo del suo comportamento e per
+motivi di ordine e di sicurezza pubblico (ricettazione, atti sessuali con
+fanciulli; infrazione e contravvenzione alla LF stupefacenti e ripetuto furto).
+7.
+In conclusione, i motivi per la
+carcerazione sono ancor dati. Decisiva diviene dunque una valutazione della
+protrazione richiesta nell’ottica della proporzionalità.
+Se si considerano i motivi primi
+della (originaria) incarcerazione, in particolare i reati (reiteratamente)
+commessi, il rifiuto di __________ di collaborare e la modifica dell'art. 13b
+cpv. 1 lett. c. LDDS, nonché il nuovo art. 13f (mediante il quale il
+legislatore ha inteso sottolineare ulteriormente l'importanza della
+collaborazione dello straniero - ed un suo dovere in tal senso - dandole un
+peso notevole anche per quanto concerne la privazione della libertà: la mancata
+collaborazione diventa indizio di pericolo di latitanza, cfr. FF 2003, pag.
+4993), nonché la non positiva evoluzione dell’atteggiamento dello straniero nei
+trascorsi mesi di carcerazione la protrazione di ulteriori tre mesi è da
+considerare giustificata e rispettosa del principio di proporzionalità. Da
+ultimo, giova precisare che l'assicurazione dell'interessato di voler
+abbandonare spontaneamente la Svizzera (cfr. verb. Pol. 22.03.2005) non può
+giustificare la sua scarcerazione senza il necessario possesso di documenti di
+viaggio che ne consentano il regolare espatrio (DTF 2A.309/2004 consid. 2.2).
+per questi motivi,
+richiamata la legge federale
+sulla dimora e il domicilio degli stranieri, segnatamente gli artt. 13 b, 13 c
+e 13 f LDDS, e la LALMC, segnatamente gli art. 4, 5 e 28;
+decide:
+1.
+La
+decisione/istanza 18 aprile 2005 di proroga della carcerazione in attesa di             allontanamento
+cui è astretto __________
+è ac
+colta.
+§     Di conseguenza, la carcerazione ai fini di allontanamento cui è
+astretto __________ è prorogata di tre mesi e verrà a scadere il giorno 3
+agosto 2005, compreso.
+2.
+Contro la
+presente decisione è dato ricorso al Tribunale cantonale amministrativo entro             15
+(quindici) giorni dall'intimazione (art. 31 LALMC).
+3.
+Intimazione:
+giudice Ursula Züblin
