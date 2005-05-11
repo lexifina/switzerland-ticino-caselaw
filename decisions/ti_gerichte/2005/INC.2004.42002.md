@@ -1,0 +1,182 @@
+---
+decision_id: "ti_gerichte_INC.2004.42002"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.42002"
+decided: "2005-05-11"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=60984&nX40_KEY=4711281&nTrefferzeile=40&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-039.md", "switzerland/bund/acts/312.0/art-100.md", "switzerland/bund/acts/312.0/art-272.md", "switzerland/bund/acts/312.0/art-284.md", "switzerland/bund/acts/312.0/art-290.md", "switzerland/bund/acts/312.0/art-294.md"]
+---
+
+# TI Gerichte INC.2004.42002
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 11.05.2005 INC.2004.42002
+Tessin Il Giudice dell'istruzione e dell'arresto 11.05.2005 INC.2004.42002
+Ticino Il Giudice dell'istruzione e dell'arresto 11.05.2005 INC.2004.42002
+
+Istanza di libertà provvisoria
+
+RACCOMANDATA
+telefono
+fax
+Funzionario
+Incaricato
+Via
+Bossi 3
+6900
+Lugano
+091 815 53 21
+091
+815 56 59
+Repubblica
+e Cantone
+del
+Ticino
+Ufficio
+dei Giudici
+dell'istruzione
+e dell'arresto
+6900 Lugano
+telefono
+Incarto n.
+INC.2004.42002
+Vs. riferimento
+Lugano
+11 maggio 2005
+Concerne__________, richieste
+10 maggio 2005
+Egregio Avvocato,
+ricevo il suo scritto menzionato
+a margine (erroneamente datato 2004) mediante il quale lei esplicitamente
+chiede l’immediata scarcerazione di __________, rispettivamente impugna lo
+scritto 10 maggio 2005 del Ministero pubblico che si dichiara incompetente a
+statuire sull’istanza di libertà provvisoria.
+Lo scritto in questione, ancorché
+sommariamente (o punto) motivato, potrebbe anche essere considerato istanza di
+libertà provvisoria.
+È evidente, sia dalla precedente
+richiesta da lei inoltrata al Ministero pubblico (e relative prese di posizione
+di quest'ultima autorità e del presidente della CCRP), sia dal fatto che lo
+scritto menzionato a margine si rivolge formalmente anche al TPC e alla CRP e,
+per conoscenza, alla CCRP, che la questione della competenza per decidere in
+merito al suo scritto è tutt’altro che scontata.
+Per quanto concerne
+quest’Ufficio, prendo posizione come segue.
+La richiesta di immediata
+scarcerazione, fondata unicamente sul dispositivo della sentenza 4 maggio 2005
+della CCRP, è irricevibile per incompetenza di quest’Ufficio.
+L’immediata scarcerazione, per
+decadenza dei motivi che giustificano l’ordine di arresto, rispettivamente decorrenza
+dei termini della carcerazione preventiva, deve essere ordinata dall’autorità
+giurisdizionalmente competente al momento in cui “l’evento” si verifica (se si
+preferisce, al momento in cui la constatazione ha luogo). Quindi se il
+dispositivo della sentenza CCRP 4 maggio 2005 comportasse immediata
+scarcerazione, spettava a tale autorità ordinarla contestualmente al suo
+proprio dispositivo. Il GIAR ordina l’immediata scarcerazione allorquando non
+conferma un arresto (art. 100 CPP), rispettivamente allorquando si esprime su
+un’istanza di libertà provvisoria, se del caso, preavvisata negativamente dal
+magistrato inquirente (108 cpv. 2 e 3 CPP) ma non ha competenza per ordinarla
+desumendola dal dispositivo di una Corte del merito, tantomeno è autorità d'esecuzione
+di decisioni altrui.
+Per quanto concerne l’impugnativa
+della decisione MP (di incompetenza ad esprimersi in materia di libertà
+provvisoria) del 10 maggio 2005, va detto che la stessa, oltre che di dubbia
+ricevibilità per carenza di motivazione, va comunque respinta in quanto, se c’è
+una cosa certa, questa è che dopo l’emanazione dell’atto di accusa il
+Procuratore pubblico non ha (in nessun caso tra tutti quelli previsti dal CPP)
+alcuna competenza in materia di libertà provvisoria. Ora, nel caso in esame si
+può forse argomentare abbondantemente sugli effetti della comunicazione del
+dispositivo della sentenza CCRP, ma tra questi argomenti certo non vi può
+essere quello che la procedura ritorna ad uno stadio precedente l'atto
+d'accusa.
+La questione della competenza è
+di contro molto più controversa qualora si dovesse considerare il suo scritto
+del 10 maggio 2005 quale istanza di libertà provvisoria.
+In primo luogo, non ritengo
+proponibile che il GIAR decida sulla sussistenza di indizi di reato, rispettivamente
+sulla proporzionalità della detenzione cautelare senza tener conto delle
+motivazioni del giudizio della CCRP (che, al contrario del GIAR, è giudice del
+merito).Quindi appare del tutto logico che questo giudice non possa essere
+considerato competente per decidere su un’istanza di libertà provvisoria,
+perlomeno fino all’emanazione delle motivazioni (considerandi) della sentenza
+CCRP. Inoltre ancora, e sebbene non spetti alla scrivente autorità esprimersi
+sulla competenza di altre, è perlomeno dubbio che la CCRP possa declinare la
+sua competenza ex art. 290 cpv.2 CPP (ed indicare quella del MP e del GIAR -
+cfr. scritto 10 maggio 2005 presidente CCRP) per il semplice fatto di aver
+comunicato il dispositivo della sentenza, sebbene questo sia immediatamente
+esecutivo (art. 294 cpv. 4 CPP). Infatti, a giudizio di quest’Ufficio,
+immediata esecutività non significa necessariamente crescita in giudicato,
+rispettivamente che tra la comunicazione del dispositivo e la sentenza completa
+(art. 294 cpv. 5 CPP) la Corte di cassazione non abbia più giurisdizione
+sull’incarto e/o abbia già ritornato gli atti, per competenza, alla Corte di
+prima istanza (cfr. per analogia N. Schmid, Strafprozessrecht, 4. edizione, p.
+413, nota 387; si veda anche, quale ulteriore argomento nel senso indicato,
+l'art. 272 cpv. 1 PPF).
+Quindi, in virtù di quanto sopra,
+questo Ufficio ritiene di non essere, perlomeno al momento attuale e in assenza
+delle motivazioni della decisione CCRP, competente per pronunciarsi
+sull’istanza di libertà provvisoria presentata il 10 maggio 2005. A questa
+conclusione si giunge non solo per motivi “formali”, ma anche per semplici
+considerazioni logiche. Infatti, qualora dovesse essere chiamato a decidere in
+queste condizioni, e non potendo certo prescindere dalle considerazioni della
+CCRP, questo Ufficio non potrebbe che constatare che l’annullamento parziale
+con rinvio non ha indotto la CCRP a ordinare la scarcerazione e, quindi, che il
+giudizio non ha comportato constatazione di decadenza degli indizi di reato né
+rischio di violazione del principio di proporzionalità della detenzione
+preventiva.
+Abbondanzialmente, a mio
+giudizio, è pure dubbio che il rinvio parziale da parte della CCRP al
+giudice del merito corrisponda ad un “ritorno” dell’incarto allo stadio
+dell’atto di accusa, ma nel rispetto del principio che ha voluto dare al GIAR
+la competenza nel periodo che intercorre tra l'atto d'accusa e l'inizio del
+dibattimento (evitare pre-giudizi da parte del Presidente della Corte, anche se
+il rinvio per nuova decisione "ai sensi dei considerandi" limita già
+questo principio), al momento in cui è emessa sentenza integrale (comprensiva ,
+quindi, delle motivazioni) questo ufficio è anche disposto ad riconoscersi
+competente a ricevere e decidere una istanza di libertà provvisoria.
+La presente decisione, che comunque concerne
+questioni relative alla libertà personale, è impugnabile alla CRP ex art. 284
+lit a CPP.
+La CRP è pure autorità competente a dirimere
+conflitti di competenza (art. 39 CPP), negativi e positivi, quale quello che
+sembra manifestarsi a seguito della presente decisione e dello scritto 10
+maggio 2005 del Presidente della CCRP, ancorché non sia nota la posizione del
+TPC a cui analoga istanza sembrerebbe essere stata indirizzata.
+P.Q.M
+.
+visti gli art. 108, 290, 294, 39
+CPP, 280 ss, 284 CPP ed ogni altra citata e applicabile, si
+decide
+1.
+Nella
+misura in cui chiede una decisione di immediata scarcerazione di __________,
+sulla base del dispositivo della sentenza 4 maggio 2004 della CCRP, la richiesta
+è irricevibile per incompetenza di questo ufficio.
+2.
+Nella
+misura in cui trattasi di una richiesta di messa in libertà provvisoria,
+l’istanza 10 maggio 2005 è irricevibile per incompetenza di quest’ufficio.
+3.
+Nella
+misura in cui si tratta di un reclamo contro la decisione del Ministero
+pubblico 10 maggio 2005, lo stesso è respinto.
+4.
+Contro
+la presente è dato reclamo alla CRP entro 10 (dieci) giorni dall’intimazione
+dell’originale.
+5.
+Non
+si prelevano tasse né spese.
+6.
+Intimazione:
+C.p.c.:
+giudice
+Edy Meli
