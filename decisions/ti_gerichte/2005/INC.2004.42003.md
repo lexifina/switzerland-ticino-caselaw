@@ -1,0 +1,439 @@
+---
+decision_id: "ti_gerichte_INC.2004.42003"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.42003"
+decided: "2005-05-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=61069&nX40_KEY=4711280&nTrefferzeile=67&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-023.md", "switzerland/bund/acts/311.0/art-144.md", "switzerland/bund/acts/311.0/art-289.md", "switzerland/bund/acts/312.0/art-106.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-277.md", "switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-290.md", "switzerland/bund/acts/312.0/art-294.md"]
+---
+
+# TI Gerichte INC.2004.42003
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.05.2005 INC.2004.42003
+Tessin Il Giudice dell'istruzione e dell'arresto 23.05.2005 INC.2004.42003
+Ticino Il Giudice dell'istruzione e dell'arresto 23.05.2005 INC.2004.42003
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2004.42003
+Lugano
+23 maggio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire
+sull'istanza di libertà provvisoria presentata il 12 maggio 2005 da
+__________
+, attualmente
+detenuto c/o __________, __________
+(patrocinato di fiducia
+dall'avv. __________, __________)
+ex
+art. 108 CPP e nell'ambito del procedimento di cui all'incarto MP __________
+e Acc. __________ (nonché __________ e __________ del TPC, __________ CCRP);
+viste le osservazioni 13/17 maggio 2005 del
+Procuratore pubblico, lo scritto 17 maggio 2005 del Presidente del TPC e le
+controsservazioni della difesa del 19/20 maggio 2005;
+visto l'incarto trasmesso dalla CCRP (__________);
+ritenuto
+in fatto
+A.
+__________ è stato posto in arresto a Lugano il 24
+luglio 2004, siccome prevenuto per infrazione alla LFStup (aggravata, sub
+semplice), furto (tentato e consumato), sottrazione di cose requisite o
+sequestrate (tentata e consumata) e danneggiamento, in relazione alla
+scomparsa/presa di possesso di un imprecisato quantitativo di canapa (ma,
+comunque, nell'ordine del migliaio di Kg) presso la __________ di __________
+(fatti dell'autunno 2003) dove era stata stoccata dagli inquirenti a seguito di
+precedenti sequestri (doc. 1 e 6, inc. GIAR 420.2004.1).
+__________ era giunto a __________ il giorno 23 luglio
+2004 in quanto estradato dalla __________ dove era stato arrestato il 20 marzo
+2004 (doc. 3, inc. GIAR 420.2004.1; Assise criminali di Bellinzona 2 settembre
+2004, pag. 2; AI 52 nella traduzione italiana).
+B.
+Giudicato da una Corte di merito il 2 settembre 2004, __________
+é stato ritenuto autore colpevole di ripetuto furto tentato e di furto
+consumato, nonché di infrazione alla LFStup e danneggiamento, con conseguente
+condanna ad una pena di due anni e nove mesi di reclusione, espulsione dal
+territorio svizzero per sette anni e revoca (con esecuzione subordinata
+all'autorizzazione dello stato estradante) della sospensione di una precedente
+condanna a diciotto mesi di detenzione ed all'espulsione dal territorio
+svizzero per tre anni (cfr. Assise criminali di Bellinzona 2 settembre 2004,
+pag. 97 e ss.).
+La Corte di merito ha, invece, prosciolto __________
+dall'accusa di sottrazione di cose requisite o sequestrate.
+La Corte di cassazione e revisione penale, con
+giudizio del 4 maggio 2005 ed accogliendo un ricorso del condannato, ha
+prosciolto __________ dalle accuse di furto, confermato la condanna per
+danneggiamento e annullato la condanna per infrazione alla LFStup senza
+proscioglimento, bensì con rinvio ad altra Corte d'assise per nuovo giudizio e
+ricommisurazione della pena (CCRP 4 maggio 2005, pag. 21).
+C.
+Il 10 maggio 2005, quindi nel periodo intercorrente
+tra la comunicazione del dispositivo e quella delle motivazioni/considerandi da
+parte della CCRP (art. 294 CPP), la difesa di __________ ha inoltrato a questo ufficio
+(ma anche ad altri) una richiesta di immediata scarcerazione, forse
+interpretabile anche quale istanza di libertà provvisoria, ed un reclamo contro
+il diniego di competenza opposto dal Ministero pubblico ad analoga richiesta
+datata 6 maggio 2005 (cfr. inc. GIAR 420.2004.2).
+La richiesta, l'istanza (se tale doveva essere
+considerata) ed il reclamo, sono stati evasi (negativamente) con decisione
+formale dell'11 maggio 2005 (doc. 3, inc. GIAR 420.2004.2). Per le motivazioni
+si rinvia alla citata decisione.
+D.
+Con scritto del 12 maggio 2005, a seguito della
+notifica (da parte della CCRP) delle motivazioni della sentenza, __________ ha
+presentato nuova ed ulteriore istanza di immediata scarcerazione e/o messa in
+libertà provvisoria (doc. 1, inc. GIAR 420.2004.3).
+A suo dire, il proscioglimento dalle accuse di furto e
+l'annullamento di quelle relative alla LFStup, con conferma di condanna
+unicamente per il reato di danneggiamento rendono sproporzionato il perdurare
+del carcere preventivo (Istanza, pag. 1).
+Inoltre, sempre a suo dire, il (motivo del) rinvio
+ordinato dalla CCRP non giustifica il mantenimento del carcere preventivo per
+pericolo di inquinamento delle prove (Istanza, pag. 2 seconda parte), non è
+dato pericolo di recidiva (
+ibidem
+), e non è neppure dato pericolo di
+fuga vista la residenza in Ticino della compagna e dei figli (Istanza, pag. 3).
+Da ultimo, come già accennato, l'istante chiede
+immediata scarcerazione in quanto la richiesta sarebbe pendente da diversi
+giorni e l'assenza di decisione in tempi ragionevoli sarebbe già di per sé
+lesiva del principio di proporzionalità (Istanza, pag. 2 prima parte).
+E.
+Il Procuratore pubblico chiede la reiezione dell'istanza.
+Dopo aver brevemente richiamato l'iter processuale
+delle accuse formulate ad __________ (con l'atto d'accusa) e comunicato che
+contro il proscioglimento per il titolo di furto verrà presentato ricorso al
+Tribunale federale (doc. 4, inc. GIAR 420.2004.3), il magistrato requirente
+afferma che gravi indizi di reato sono desumibili dalla sentenza di primo
+grado, che ha prosciolto l'accusato unicamente dall'ipotesi di reato di cui
+all'art. 289 CP (Osservazioni, pag. 2). Il carattere di stupefacente della
+canapa oggetto delle imputazioni è desumibile, sempre secondo il Procuratore
+pubblico, dagli accertamenti della Corte delle assise criminali, ritenuto che
+su questo punto la CCRP si è limitata al rinvio per nuovo giudizio (
+ibidem
+).
+Anche l'ipotesi di furto rimane, a dire del magistrato
+requirente, ancora fortemente indiziata in base agli accertamenti della prima istanza
+di merito e del preannunciato ricorso al TF.
+In capo ad __________ sussisterebbe, inoltre, pericolo
+concreto di fuga (assenza di valido titolo per rimanere sul territorio
+svizzero, precedente latitanza), non limitabile con misure sostitutive (
+ibidem
+).
+Il carcere preventivo sofferto dall'accusato (14 mesi)
+è, sempre secondo il Procuratore pubblico, rispettoso del principio di
+proporzionalità, se si considera l'eventualità di un accoglimento, da parte del
+TF, del ricorso da parte dell'accusa in relazione al proscioglimento per le
+ipotesi di furto.
+Da ultimo, il Procuratore pubblico segnala come
+all'istante sia stato recentemente notificato un ordine d'arresto
+internazionale emesso dalle autorità italiane.
+F.
+Mediante scritto del 17/18 maggio 2005, la presidente
+del TPC comunica che, anche in considerazione del fatto che le motivazioni
+della sentenza CCRP sono appena state trasmesse, il caso (per nuovo
+dibattimento) non è ancora stato assegnato. Comunque, visto lo stato di
+detenzione di __________, si precisa che verrà fatto il possibile per
+aggiornare il nuovo dibattimento non oltre il mese di luglio, eventualmente
+inizio agosto (doc. 8, inc. GIAR 420.2004.3).
+G.
+All'istante è stato assegnato un termine per
+presentare eventuali controsservazioni a quelle del magistrato requirente (doc.
+5, inc. GIAR 420.2004.3).
+Con scritto del 19/20 maggio 2005, la difesa rileva
+che la recente notifica di un ordine di arresto a fini estradizionali (a suo
+dire provvidenziale in quanto l'ordine sarebbe stato emesso da oltre due anni)
+può aver influsso, in questa sede, solo ad ulteriore conferma dell'inesistenza
+di un pericolo di fuga (doc. 9, inc. GIAR 420.2004.3).
+Inoltre, viene ribadito il fatto che __________ è, ad
+oggi, "colpevole" solo di danneggiamento e contestato che il ricorso
+al TF sulla questione del furto (per la quale __________ è stato prosciolto
+dalla CCRP) possa in qualche modo essere considerata in questa sede
+(Controsservazioni, pag. 2).
+La difesa, da ultimo, segnala come __________ sia in
+detenzione preventiva da oltre dieci mesi, circostanza sulla quale il
+magistrato requirente è silente (Controsservazioni, pag. 2).
+H.
+Con lettera del 17 maggio 2005, questo giudice ha
+chiesto al magistrato requirente di confermare se la canapa oggetto delle
+indagini e dei fatti imputati ad __________ è (immediatamente) disponibile per
+le incombenze della Corte del merito così come disposto dal rinvio della CCRP
+(cfr. CCRP 4 maggio 2005, cons. 2 h.). Con scritto del 17 maggio 2005, il
+Procuratore generale ha trasmesso una dichiarazione della polizia giudiziaria
+secondo cui la canapa prelevata dalla __________ di __________ "
+e poi
+recuperata in val __________ il 29 ottobre 2003, si trova tuttora depositata in
+luogo sicuro la cui ubicazione è considerata riservata. Il tutto a disposizione
+della Polizia e dell'Autorità
+" (doc. 7, inc. GIAR 420.2004.3).
+In diritto
+1.
+Sebbene la situazione di detenzione attuale
+dell'istante, così come la decisione emanata da questo ufficio il 12 maggio
+2005, possano far ritenere palese (rispettivamente già accertate) la
+legittimazione di __________ a postulare la messa in libertà e la competenza di
+questo giudice, alcune precisazioni si impongono, a scanso di equivoci, anche
+alla luce di alcune affermazioni contenute sia nell'istanza di libertà, sia
+nelle osservazioni del Procuratore pubblico.
+La decisione della CCRP ha confermato il proscioglimento
+di __________ per il reato di cui all'art. 289 CP e la condanna per il reato di
+cui all'art. 144 cpv. 3 CP. Inoltre, ha prosciolto __________ dalle accuse di
+furto.
+Su questi punti (se si preferisce, imputazioni) non vi
+è "ritorno" alla situazione post-atto d'accusa e pre-dibattimento: la
+sentenza CCRP è esecutiva (sin dalla notifica del dispositivo - art. 294 cpv. 4
+CPP) ed il ricorso al TF è ricorso straordinario, di mero diritto, senza
+effetto sospensivo (artt. 268 ss., 269, 272 cpv. 7, 277ter PPF). Qualora
+dovesse essere concesso tale effetto all'eventuale ricorso (quindi con
+eventuale sospensione dell'esecutività della decisione della CCRP), ciò non
+farebbe ritornare (in relazione a queste imputazioni) necessariamente il
+procedimento allo stadio tra l'atto d'accusa e l'apertura del dibattimento, con
+conseguente (perlomeno) dubbia competenza di questo giudice (cfr., per es.,
+art. 290 CPP).
+Solo la questione dell'eventuale infrazione alla
+LFStup, a seguito di annullamento e rinvio ad altra Corte delle assise
+criminali può essere considerata quale "ritorno" alla fase tra l'atto
+d'accusa e l'apertura del dibattimento.
+Quindi, nella misura in cui l'istanza di libertà
+provvisoria concerne il mantenimento della detenzione in relazione allo
+svolgimento del nuovo processo, la stessa è ricevibile. L'esame delle
+condizioni della detenzione cautelare da parte di questo giudice dovrà fondarsi
+unicamente su questa ipotesi di reato e non anche su quella di furto (reato per
+il quale __________ risulta prosciolto da una Corte di merito), ancorché
+perlomeno nella valutazione della proporzionalità della detenzione, non si
+potrà non considerare in qualche modo il fatto che per il danneggiamento la
+condanna è stata confermata e dovrà essere scontata o imputata in sede di nuovo
+giudizio (cfr. sentenza Assise criminali, n. 10 del dispositivo - pag. 103-,
+sentenza CCRP, dispositivo n. 1 b.).
+2.
+Il fatto che un'istanza di libertà provvisoria (invero
+una richiesta di immediata scarcerazione priva di ulteriori motivazioni) sia
+stata inoltrata il 6 maggio 2005 al Ministero pubblico e da lì sia sorto un
+conflitto negativo di competenza (poi risoltosi senza necessità d'intervento
+della CRP), non comporta immediata scarcerazione in questa sede. In primo
+luogo, non si comprende da cosa l'istante deduca che in presenza di un
+effettivo conflitto di competenza l'istanza debba essere accolta prima ancora
+che l'autorità preposta a dirimere il conflitto si pronunci; in secondo luogo,
+per le istanze di libertà provvisoria inoltrate dopo l'emanazione dell'atto
+d'accusa, il codice di rito non impone termini specifici per la loro evasione;
+in terzo luogo, e abbondanzialmente, questo ufficio ha ricevuto
+un'istanza/reclamo il 10 maggio 2005 ed ha deciso, su tutte le questioni, il
+giorno successivo (inc. GIAR 420.2004.2) e con motivazioni che ritiene fondate
+e che non ha alcuna ragione di modificare rivedere in questa sede.
+Pertanto, la precedente istanza è già stata decisa e
+qui ci si occupa (con la procedura prevista dall'art. 280 CPP: Rusca/Verda/Salmina,
+Commento al CPP, n. 9 ad art. 108) dell'istanza presentata il 12 maggio 2005,
+verificando (come segnalato dalla difesa - Istanza, pag. 2 terzo capoverso) se
+ai fini del nuovo dibattimento vi sono ancora i presupposti per il mantenimento
+della detenzione preventiva (gravi indizi di reato, bisogni dell'istruzione
+intesi come pericolo di collusione o inquinamento delle prove, pericolo di
+fuga, pericolo di recidiva e proporzionalità).
+3.
+Per quanto concerne l'esistenza di gravi indizi di reato,
+questo giudice non può non tener conto di quanto accertato e considerato dai
+giudici del merito (come peraltro la nuova Corte: cfr. per analogia art. 277
+cpv. 2 PPF).
+E allora, occorre constatare che il rinvio
+(conseguente all'annullamento del relativo dispositivo della sentenza di primo
+grado del 2 settembre 2004) concerne unicamente l'imputazione di infrazione
+aggravata alla LFStup e che la nuova Corte dovrà decidere "
+nel senso
+dei considerandi
+" (sentenza CCRP 4 maggio 2005, dispositivo n. 1 b.).
+Potrebbe bastare questa constatazione (di non proscioglimento), in uno con il
+fatto che il dispositivo della sentenza della CCRP non ha disposto la
+scarcerazione di __________ (art. 106 CPP), per affermare che sono ancora
+presenti gravi e sufficienti indizi del reato ascritto all'istante.
+Comunque, al di là di questa constatazione, risulta
+evidente anche dai considerandi della sentenza (della CCRP) che il carattere di
+stupefacente dei circa 1000 Kg di canapa, prelevati dall'accusato (e dai
+correi) ad __________, è fortemente indiziato. Gli indizi, in tal senso,
+ritenuti nel giudizio di prima istanza non sono stati giudicati arbitrari dalla
+CCRP (sentenza CCRP, cons. da 2 c. a 2 e.), ma solo insufficienti a fugare
+"
+ogni ragionevole dubbio
+" che al momento del prelevamento dal __________
+la canapa in questione (o parte di essa) avesse ancora un tenore di THC
+superiore allo 0.3%; da qui la necessità di procedere ad una analisi (o,
+meglio, perizia, "
+la Corte chiarirà per mezzo di uno specialista
+",
+sentenza CCRP pag. 13) per determinare il tasso di THC attuale e, se inferiore
+al 0,3%, quello al 26/27 ottobre 2005 (sentenza CCRP, cons. 2 h.).
+Di particolare rilevanza risulta essere il fatto che
+al momento dei sequestri nell'ambito dell'operazione __________, la canapa in
+questione aveva un tasso di THC compreso tra il 2,8% ed il 19,7% (sentenza
+CCRP, pag. 12). La stessa CCRP l'ha considerata fuori commercio in quanto
+stupefacente, laddove ha analizzato il reato di furto (sentenza CCRP, cons. 3a.
+e 3c.), pur nell' "
+ipotesi in cui fosse accertato un tenore di THC
+superiore allo 0,3%
+" (sentenza citata, cons. 3).
+In virtù di tutto quanto sopra riportato è evidente
+che il carattere di stupefacente della canapa prelevata ad __________
+dall'accusato e dai correi è tutt'altro che escluso, anzi fortemente indiziato.
+Quindi, sono (ancora) dati, in capo ad __________,
+gravi indizi di reato per l'infrazione LFStup, sulla quale la nuova Corte dovrà
+pronunciarsi.
+Va ancora detto che il fatto che la canapa prelevata
+con l'operazione oggetto d'inchiesta sia ancora presente, ed a disposizione
+dell'autorità (dispositivo n. 17 Assise criminali 2.09.2004, e documenti
+menzionati al considerando H. della presente), rende possibile l'accertamento
+menzionato dalla Corte di cassazione.
+4.
+Di principio:
+"Il pericolo di fuga, per giustificare
+carcerazione preventiva, deve essere concreto e rivestire di una certa
+probabilità: in altri termini lo si ammette quando l’accusato, se posto in
+libertà, si sottrarrebbe con una certa verosimiglianza al perseguimento penale
+ed alla (eventuale) esecuzione della pena. La gravità della pena presumibile
+non basta, da sola, a motivare la carcerazione; occorre valutare l’insieme
+delle circostanze, tra cui il carattere dell’accusato, la sua morale, i legami
+famigliari, il domicilio, la professione, la situazione economica
+e tutti quegli elementi che rendono la fuga non solo
+possibile ma probabile (DTF 19 gennaio 1999 in re G.S.; DTF 117 Ia 69).
+Pacifico che a poco valgono, per quest'analisi, le
+semplici dichiarazioni d'intenti dell'accusato stesso."
+(sentenza 26 ottobre 2001 in re A., GIAR 529.2001.2)
+Dopo i fatti, __________ (cittadino __________) si è
+reso latitante ed è stato arrestato all'estero ed estradato, allorquando si celava
+sotto false generalità (AI 7, Acc. __________).
+La latitanza è avvenuta indipendentemente dai legami
+affettivi che egli, ora, afferma di avere in Ticino per sostenere l'assenza di
+tale pericolo (Istanza, pag. 3).
+Va, inoltre, considerato il fatto che l'accusato è già
+stato oggetto di un'espulsione dalla Svizzera e che con la sentenza del 2
+settembre 2004 anche la sospensione della pena accessoria gli è stata revocata
+(rimanendo sospesa l'esecuzione per motivi legati alla procedura di
+estradizione) ed è stato condannato ad ulteriori 7 (sette) anni di espulsione.
+Queste circostanze evidenziano, innanzitutto, l'assenza di legami particolari
+con il territorio svizzero, meritevoli di particolare protezione, in secondo
+luogo il rinvio per nuova commisurazione della pena non può far dimenticare
+che, comunque, una parte della sentenza (danneggiamento) è stata confermata e
+che tale condanna potrebbe già da sola condurre ad una pena accessoria da
+scontare (per un crimine con pena edittale fino a cinque anni di reclusione -
+cfr. 144 cpv. 3 CP; cfr. pure M. Luvini, I presupposti materiali del carcere
+preventivo nel processo penale ticinese, in REP 1989 pag. 287 ss., pag. 292,
+note 31 e 32), con buona pace dei legami pretesi con il territorio svizzero.
+__________, quindi, non può vantare particolari legami
+(personali e/o professionali) con il territorio svizzero che possano essere
+considerati sufficientemente forti da scongiurare il pericolo di una nuova
+latitanza.
+I fatti oggetto del rinvio e, a questo stadio
+indiziati, sono gravi e il rischio di una pena da espiare non di lieve entità è
+concreto ancorché dipenda, in buona sostanza, dall'accertamento (della
+percentuale di THC al momento dei fatti) cui è chiamata la nuova Corte.
+Quest'elemento,
+pur non essendo, da solo, determinante, deve essere attentamente considerato in
+particolare quando se ne aggiungono altri come sopra descritto (SJ 1980 186; SJ
+1981 135; N. Schmid, Strafprozessrecht, ZH 1997, no. 701). Inoltre, non si può
+dimenticare la volontà dell'autore (cfr. verbali citati in sentenza Assise
+criminali, pag. 42 e 44) che può essere punita anche qualora l'oggetto del
+reato risulti non corrispondente a ciò che egli riteneva (art. 23 CP; cfr. per
+caso relativo a stupefacente: Favre, Pellet, Stoudmann, CP annoté, 2004, nota
+1.8 ad art. 23).
+A quanto sopra si può aggiungere il fatto che,
+attualmente, __________ risulta essere oggetto di una procedura estradizionale;
+anche il rischio (di consegna a stato terzo), derivante da tale procedura può
+essere elemento ulteriore per fargli preferire la fuga alla permanenza (e ciò
+indipendentemente dal fatto che al momento attuale la procedura di
+estradizione, comunque gestita dalle autorità federali, sembra essere
+assistita, anch'essa, da misura cautelare).
+Alla luce di tutti questi elementi, il pericolo di fuga
+è presente in modo concreto (DTF 102 Ia 382; DTF 106 Ia 407; DTF 117 Ia 69; SJ
+1980 585) e non appare limitabile da misure sostitutive quali quelle proposte
+dall'accusato (deposito documenti, firma in polizia e obbligo di residenza),
+già per il solo fatto che egli non è cittadino svizzero.
+5.
+Ritenuta l'esistenza di un pericolo di fuga, non è
+necessario approfondire più di tanto l'eventuale presenza di un pericolo di
+collusione e/o inquinamento delle prove, rispettivamente di un pericolo di
+recidiva (non segnalati neppure dal magistrato requirente).
+6.
+Anche nella valutazione della proporzionalità della
+durata del carcere preventivo non si può prescindere totalmente dalle
+determinazioni dei giudici di merito. L'ovvio rinvio della commisurazione della
+pena alla nuova Corte (che dovrà pronunciarsi previo accertamento sulla qualità
+di stupefacente della canapa prelevata) ha fatto sì che la CCRP non esaminasse,
+in concreto, la pena comminata (nel caso del qui istante due anni e nove mesi,
+oltre all'espulsione), ma si limitasse a rilevare che, comunque, le
+argomentazioni di __________ non erano significative in merito ad un eventuale
+arbitrio (sentenza CCRP 4 maggio 2005, cons. 5).
+Dal canto suo, la Corte di prima istanza ha precisato
+come, nella commisurazione della pena, poco peso abbiano avuto sia
+l'accertamento del concorso ideale tra più reati, sia i due tentativi di furto
+ed il furto compiuto (sentenza Assise correzionali 2 settembre 2004, cons. 9,
+pag. 87), se non quale elemento dell'intensità della volontà delittuosa.
+Inoltre, e per quanto concerne in modo più specifico il solo __________, è
+stato evidenziato il suo ruolo di organizzatore dell'operazione e reclutatore
+degli uomini necessari (che hanno agito dietro sue istruzioni e comando:
+sentenza, pag. 88), nonché il fatto che egli abbia delinquito durante il
+periodo di prova di una precedente condanna, ma anche la sua difficile
+situazione finanziaria, il fatto che abbia reclutato "dilettanti"
+nonché l'età (sentenza citata, pag. 89).
+Quanto appena richiamato evidenzia come in caso di
+condanna per l'ipotesi di infrazione alla LFStup, l'entità della pena con la
+quale l'accusato istante rischia di essere confrontato non è certamente
+inferiore o pari al carcere preventivo già sofferto e ancora da soffrire in
+attesa del nuovo dibattimento, che sarebbe di circa dodici mesi,
+rispettivamente quindici se si considera anche la detenzione in attesa
+dell'estradizione alla Svizzera (contra: M. Luvini, I presupposti materiali del
+carcere preventivo nel processo penale ticinese, in REP 1989 pag. 287 ss., pag.
+296 e nota 54).
+Da ultimo, e per quanto concerne il rischio di revoca
+della sospensione condizionale della pena comminata in procedimento precedente
+(diciotto mesi) che potrebbe aggiungersi alla pena da commisurare da parte
+della nuova Corte, nessuno ha segnalato richiesta di estensione
+dell'estradizione e questa non risulta dall'incarto ricevuto da questo ufficio
+(né negli atti dell'Acc. __________, né nel classatore relativo agli atti
+successivi all'atto d'accusa). Di conseguenza e anche avendo presente che la
+revoca potrebbe avvenire non solo in caso di condanna per infrazione alla
+LFStup, ma anche qualora la nuova Corte dovesse ricommisurare la pena
+unicamente tenendo conto della confermata condanna per danneggiamento, è
+alquanto aleatorio esprimersi in questa sede sulla questione, dato che le
+autorità competenti non hanno fornito indicazioni circa le loro intenzioni (e
+le possibilità di esito delle stesse).
+7.
+In conclusione, nei confronti di __________ sono
+ancora presenti gravi indizi del reato di infrazione alla LFStup in relazione
+con il prelevamento e il possesso di ca. 1000 Kg di canapa destinata alla messa
+in circolazione (oltre che condanna per danneggiamento) e concreto pericolo di
+fuga. Il mantenimento della detenzione cautelare, ancora rispettoso del
+principio di proporzionalità, è pertanto giustificato.
+L'istanza di libertà provvisoria del 12 maggio 2005
+viene pertanto respinta con la presente decisione impugnabile davanti alla CRP.
+P.Q.M
+viste le norme applicabili, in particolare gli artt.
+95 ss., 106, 108, 280 ss. 282, 284 e contrario, 290, 294 CPP, 268 ss. PPF, 29
+CF, 5 CEDU, 19 LFStup, ed ogni altra citata ed applicabile,
+decide
+1.
+L'istanza
+di libertà provvisoria è respinta.
+2.
+Non
+si prelevano tasse e spese.
+3.
+Contro
+la presente è dato ricorso alla Camera dei ricorsi penali del Tribunale di       Appello
+entro 10 (dieci) giorni dalla sua notifica.
+4.
+Intimazione:
+giudice
+Edy Meli
