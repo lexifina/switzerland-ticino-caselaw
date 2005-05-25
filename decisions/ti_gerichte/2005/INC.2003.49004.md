@@ -1,0 +1,341 @@
+---
+decision_id: "ti_gerichte_INC.2003.49004"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.49004"
+decided: "2005-05-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59401&nX40_KEY=4711323&nTrefferzeile=97&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-096.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2003.49004
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 16.10.2003 INC.2003.49004
+Tessin Il Giudice dell'istruzione e dell'arresto 16.10.2003 INC.2003.49004
+Ticino Il Giudice dell'istruzione e dell'arresto 16.10.2003 INC.2003.49004
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+2003.49004
+Lugano
+25 maggio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+__________
+sedente per statuire sull'istanza di libertà provvisoria
+presentata il 6/7 ottobre 2003 da
+__________,
+attualmente detenuto presso il PCT,
+6904 Lugano
+patrocinato dall'avv. __________
+e qui trasmessa il 10/13 ottobre 2003 con preavviso negativo
+dal
+Procuratore pubblico __________
+viste le osservazioni 14 ottobre
+2003 dell'istante, che conferma contenuti e conclusioni dell'istanza;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto ed in
+diritto
+che:
+-
+__________ è stato arrestato, a seguito dell'ordine di arresto
+internazionale 22 maggio 2003 emanato dal Procuratore pubblico ticinese,
+nell'ambito dell'inchiesta "Indoor 15", per titolo di infrazione
+aggravata sub. semplice, contravvenzione alla LFStup e riciclaggio, a
+__________ il 5 giugno 2003 e quindi trasferito presso le carceri di __________
+dove è rimasto fino al 30 luglio 2003, giorno in cui è stato estradato in
+Svizzera ed associato, dapprima alle Celle pretoriali di __________ e dal 30
+agosto al PCT, dove si trova tuttora;
+-
+in particolare __________ è accusato di
+"avere, senza essere
+autorizzato, in qualità di vice presidente/consulente della società __________
+con sede a __________, da solo ed in correità con altre persone tra le quali
+__________, __________, __________, coltivato, raccolto, preparato per la
+vendita, confezionato, trasportato e venduto imprecisati quantitativi di fiori
+di canapa essicati, sapendo o dovendo presumere, che gli stessi erano destinati
+al mercato illegale degli stupefacenti"
+(cfr. rapporto di arresto 30
+luglio 2003, doc. _ inc. GIAR 2003.__________). Egli avrebbe pure riciclato,
+quale membro di un'organizzazione criminale, i proventi di tale vendita e
+realizzato una grossa cifra d'affari o un guadagno considerevole facendo
+mestiere del riciclaggio;
+-
+l'arresto è stato confermato da questo giudice il giorno successivo al
+suo arrivo in Svizzera, per necessità istruttorie e pericolo di fuga (cfr. doc.
+_, inc. GIAR citato sopra);
+-
+da parte sua __________, sin dall'inizio dell'inchiesta, ha sostenuto
+che il suo ruolo all'interno della __________ era unicamente quello di
+consulente scientifico per la coltivazione della canapa, opera prestata anche
+per la __________ SA, e di non avere mai avuto nulla a che vedere con il
+traffico internazionale di fiori secchi di canapa; egli contesta quindi le
+accuse mosse nei suoi confronti di violazione alla LFStup e di riciclaggio;
+-
+il 12 settembre 2003 il GIAR ha respinto una prima istanza di libertà
+provvisoria presentata dall'accusato, ritenuti presenti gravi indizi di
+colpevolezza, necessità istruttorie e pericolo di fuga (GIAR 12.9.2003, inc.
+__________);
+-
+con la presente istanza __________ chiede di essere immediatamente posto
+in libertà provvisoria. Innanzitutto, a dire della difesa, gli atti istruttori
+esperiti avrebbero permesso di accertare che il ruolo svolto dall'accusato presso
+la __________ SA sarebbe stato unicamente quello di consulente
+tecnico-scientifico e di produttore di semi, poi rivenduti soprattutto tramite
+la sua società olandese: non vi sarebbero quindi gravi e concreti indizi di
+colpevolezza sulla produzione e commercializzazione di canapa, né tantomeno per
+il reato di riciclaggio. In secondo luogo, non sarebbe possibile sostenere
+l'esistenza di bisogni dell'istruzione per giustificare il mantenimento del
+carcere preventivo, ritenuto che tutte le persone, ad eccezione dei __________
+e di __________, coinvolte nell'attività della __________ e della __________
+sono già state scarcerate, e che l'accusato, in violazione del principio di
+celerità, dopo l'interrogatorio del 5 settembre 2003 è stato sentito soltanto
+il 1° ottobre 2003 in occasione dei confronti con __________i, __________ e
+__________. Infine, non vi sarebbe alcun pericolo di fuga, in quanto, come già
+evidenziato nella precedente istanza di libertà provvisoria, __________, prima
+dell'emissione del mandato di arresto internazionale, ha dato seguito alle due
+convocazioni delle autorità inquirenti svizzeri fornendo ampia collaborazione
+ed, inoltre, tale pericolo, potrebbe comunque essere ovviato con una cauzione
+ragionevole, il deposito dei documenti ed il trasferimento della dimora in
+Ticino;
+-
+con il preavviso negativo il Procuratore pubblico evidenzia innanzitutto
+che rispetto allo stato procedurale esistente al momento della precedente
+istanza di libertà provvisoria, è emerso il coinvolgimento di un'altra persona,
+__________ (detto __________), amico di __________ e suo "scudiero"
+ed esecutore di ordini, persona la cui audizione sarebbe indispensabile per
+chiarire il quadro delle responsabilità penali addebitate a __________, cui
+devono anche essere ancora contestati atti da cui emerge un suo coinvolgimento
+in seno all'attività della __________ ben maggiore di quello ammesso, atti
+tuttora coperti dal segreto istruttorio. Vi sarebbe pure pericolo di collusione
+ed inquinamento delle prove, segnatamente con __________: la messa in libertà
+di __________ impedirebbe una serena valutazione della credibilità di
+__________
+-
+da parte del giudice del merito,
+stante le bellicose censure che
+traspaiono dalle sue
+(n.d.r. di __________)
+stesse dichiarazioni e dal
+testo dell'istanza".
+Infine sarebbe dato un concreto pericolo di fuga,
+che non potrebbe essere ovviato dall'adozione di una misura sostitutiva ex art.
+96 CPP;
+-
+con osservazioni 14 ottobre 2003 la difesa ribadisce sostanzialmente i
+contenuti dell'istanza. Inoltre, con riferimento a quanto sostenuto nel
+preavviso negativo dal magistrato inquirente, contesta sia l'esistenza di
+bisogni istruttori in relazione all'audizione di __________, ritenuto che il
+suo coinvolgimento nelle attività di __________ era già noto al magistrato
+inquirente da tempo, sia quella di un pericolo di collusione con __________,
+poiché il 1° ottobre 2003 ha avuto luogo il verbale di confronto ed inoltre
+Igor __________ è già stato sentito a più riprese dagli inquirenti;
+-
+la legittimazione di __________, accusato e detenuto, all'inoltro della
+presente istanza, è pacifica;
+-
+i principi che reggono la materia, pur se noti alle parti, vengono qui
+riproposti:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine pubblico
+(REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc.
+520.2001.5)
+-
+i gravi indizi di colpevolezza, anche con riferimento all'effettivo
+ruolo svolto da __________ in seno alla __________ sono dati e presenti così
+come indicati da questo giudice nella decisione 12 settembre 2003:
+"3.1
+Con
+sufficiente verosimiglianza a questo stadio del procedimento ed in questa sede,
+si può concludere per l'esistenza di seri e concreti indizi di colpevolezza -
+contestati dalla difesa - a carico di __________ e relativi ad un suo
+coinvolgimento nei fatti inquisiti.
+Con
+riferimento al ruolo dell'accusato nell'ambito dell'attività della società
+__________, peraltro costituita per metà con capitale di __________ e che,
+ormai è assodato, aver trafficato almeno 4,5 tonnellate di canapa secca
+proveniente dalla __________ SA di proprietà di __________ e __________, sono
+significative le dichiarazioni di __________, __________, __________,
+__________ ed __________, che attestano il ruolo attivo e dirigenziale
+dell'istante in seno alla __________, segnatamente con riferimento al traffico
+internazionale di canapa per diverse tonnellate ad uso stupefacente (AI _:
+verb. POL. 1.9.2003, 3.21: verb. PP 28.8.2003, 3.22: verb. PP 29.8.2003, 3.24:
+verb. PP 3.9.2003 e 2.29: verb. PP 2.8.2003). In particolare, da tali
+deposizioni, rilasciate da persone di cui alcune nemmeno si conoscono fra loro,
+emergono seri indizi per ritenere che il qui istante abbia trasportato bidoni
+carichi di fiori secchi di canapa dalla __________ SA al magazzino di
+__________; fatto confezionare sacchetti di plastica sottovuoto da gr. 500
+l'uno da operai della __________ e da suoi amici e/o conoscenti che parlavano
+inglese, sacchetti che venivano poi inseriti in scatoloni (10 kg), messi su
+palette (ognuna conteneva 8 cartoni) e successivamente trasportate all'estero
+con camion targati Olanda (cfr. verbale PP __________ 5.9.2003 p. 7). Dagli
+atti emergono quindi sufficienti indizi a carico di __________ sul traffico/vendita
+di diverse tonnellate di fiori di canapa secchi, ciò che rende verosimile anche
+l'accusa di riciclaggio relativamente al provento di tale traffico".
+Giova inoltre
+rilevare che nel corso dei rispettivi confronti con __________ y, avvenuti il
+1° ottobre 2003, __________, __________ e __________ hanno confermato le loro
+precedenti dichiarazioni (cfr. verbali confronto 1.10.2003, _);
+-
+la detenzione preventiva di __________ è giustificata sussistendo,
+contrariamente a quanto sostenuto dalla difesa, un concreto pericolo di fuga.
+Valgono in proposito le considerazioni già espresse nella decisione 12
+settembre 2003:
+"3.3
+I criteri
+determinanti per stabilire se esista pericolo di fuga sono il carattere del
+prevenuto, il suo domicilio, la sua professione, la sua situazione familiare ed
+i suoi legami con lo Stato in cui egli è inquisito (SJ 103/1981, 135; sentenza
+31 marzo 1992 in re S. C. del Tribunale federale, sentenza 20 ottobre 1994 in
+re M.A., CRP 314/94) e l'apprezzamento di tutte tali circostanze, per invocare
+appunto un rischio di fuga, deve lasciar presumere che le conseguenze di una
+fuga appaiono rispetto all'accusato come un male minore rispetto a quello
+derivante per lui dall'ulteriore carcerazione, con maggior forza quanto più i
+reati imputati comportino pene edittali od eventualità di pena concreta
+importante (in questo senso M. Luvini, in Rep. 1989, p. 292 e ss. e riferimenti
+ivi indicati; sentenza 14 novembre 1994 in re S.V., CRP 341/94).
+L'imputato,
+cittadino straniero anglo-australiano, domiciliato a __________, senza
+particolari legami  con la Svizzera. La sua presenza in Ticino si fondava
+esclusivamente sull'attività per cui è ora inquisito, ciò che permette di
+ritenere che un suo reinserimento dal punto di vista lavorativo sia attualmente
+escluso. A ciò si aggiunge che, come peraltro rilevato anche dal magistrato
+inquirente nel preavviso negativo, l'istante è un
+"cittadino del
+mondo",
+in ragione dei numerosi viaggi effettuati e dei paesi in cui
+potrebbe riparare se libero (Olanda, Australia, Inghilterra ecc). Inoltre
+tenuto conto della possibile pena in caso di condanna, altamente verosimile che
+__________ non abbia alcun interesse a rimanere in Svizzera, visto anche il suo
+atteggiamento affatto collaborativo, e che preferisca darsi alla latitanza
+all'estero, così come già hanno fatto __________ e __________ ed __________.
+Tali circostanze, nonché l'atteggiamento sostanzialmente negatorio e reticente,
+rendono concreto il pericolo che __________, una volta messo in libertà
+provvisoria, tenti di sottrarsi al procedimento, dandosi alla fuga. Il fatto
+che all'inizio dell'anno l'istante si sia presentato a richiesta delle autorità
+inquirenti per essere interrogato non permette di sovvertire tale conclusione,
+ritenuto che a quel momento la sua situazione processuale era ben diversa da
+quella attuale.
+Il pericolo
+di fuga, a questo stadio della procedura, non potrebbe essere ovviato
+dall'applicazione di una misura sostitutiva, quale il versamento di una
+cauzione o il deposito dei documenti di legittimazione, come proposto dalla
+difesa, essendo tali misure notoriamente inadatte a scongiurare il pericolo di
+inquinamento e collusione delle prove, anch'esso dato nel caso in esame.";
+-
+va ribadito quanto già detto dal GIAR nella decisione 12 settembre 2003
+e meglio che, se è vero che il carcere preventivo non può (e non deve) essere
+utilizzato per ottenere confessioni, è altrettanto vero che
+chi delinque in correità con altri deve
+sopportare almeno in parte anche le necessità istruttorie che valgono nei loro
+confronti, e non solo quelle strettamente legate alla sua personale posizione –
+almeno fino a quando ciò sia compatibile con il principio della proporzionalità
+(GIAR 19 agosto 1999 in re L., inc. __________, cons. 4 d.) e che un accusato
+che non collabora (come suo diritto) può dover in qualche modo sopportare le
+eventuali conseguenze che questa scelta potrebbe avere sull'evoluzione ed i
+tempi dell'istruttoria, in particolare se i fatti si sono svolti in un lasso di
+tempo importante, hanno molte ramificazioni, anche a livello internazionale,
+necessitano, per il chiarimento, l'espletamento di numerosi interrogatori e
+verifiche documentali e non tutti gli indagati sono (al momento) presenti
+all'inchiesta (cfr. SJ 1998 p. 247; GIAR __________, sentenza 19.08.1999 in re
+L. cons. 2. d
+.);
+-
+in concreto - oltre al pericolo di fuga - sussistono tuttora necessità
+istruttorie. Innanzitutto deve ancora essere sentito __________: se è ben vero
+che tale persona era già nota al Procuratore pubblico nell'ambito di una
+precedente inchiesta e che altre persone inquisite lo hanno indicato nei propri
+verbali, è altrettanto vero che il suo coinvolgimento nell'illecita attività è
+emerso in maniera più chiara nel corso dell'ultimo mese (cfr. verbale POL
+__________ 19.9.2003 e verbali di confronti __________ /__________, __________
+/__________ del 1.10.2003). La sua audizione - indicata come
+"imminente"
+dal magistrato inquirente - si giustifica per chiarire le responsabilità
+penali addebitate al qui istante, il quale persiste nel minimizzare il proprio
+ruolo a quello di consulente per la coltivazione di canapa, rispettivamente di
+produttore di semi rivenduti per il tramite della propria società olandese; in
+secondo luogo all'accusato devono ancora essere prospettati atti acquisiti
+recentemente che attestano un suo coinvolgimento affatto marginale in seno alla
+__________; il magistrato inquirente dovrà comunque procedere indilatamente
+agli accertamenti (o atti istruttori) mancanti, (come peraltro assicurato nel
+preavviso negativo);
+-
+ciò premesso può restare indecisa l'esistenza di un pericolo di
+collusione con __________;
+-
+il perdurare del carcere preventivo non è, a tutt’oggi, lesivo del
+principio di proporzionalità, ritenuto che nei confronti dell’accusato vengono
+ipotizzate infrazioni aggravate alla LFStup e riciclaggio, ritenuto inoltre che
+la carcerazione subita ed ancora prospettabile appare comunque inferiore alla
+pena che gli verrebbe inflitta in caso di condanna;
+-
+in conclusione, l’istanza in discussione deve essere respinta con la
+presente decisione, esente da tassa e da spese giudiziarie (art. 39 lett. f TG
+e contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali
+del Tribunale d’appello (art. 284 cpv. 1 lett. a CPP).
+P.Q.M.
+richiamati gli articoli 19 cifra
+1 e 2, 19a LFStup, 305 bis CP, 95 ss. 102, 103, 279 ss, 284 CPP,
+decide:
+1.
+L’istanza
+è respinta.
+2.
+Non si
+percepiscono né tassa né spese giudiziarie.
+3.
+Contro la
+presente decisione è dato ricorso alla Camera dei ricorsi penali entro dieci
+giorni dall’intimazione.
+4.
+Intimazione:
+-
+Procuratore
+pubblico __________ (con copia delle osservazioni 11 settembre 2003 del
+patrocinatore dell’accusato e l'incarto MP 2003.__________ di ritorno);
+-
+avv.
+__________, per sé e per l’accusato.
+giudice
+___________
