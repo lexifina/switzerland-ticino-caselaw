@@ -1,0 +1,132 @@
+---
+decision_id: "ti_gerichte_INC.2003.1603"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.1603"
+decided: "2005-05-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59546&nX40_KEY=4711345&nTrefferzeile=44&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2003.1603
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 09.04.2003 INC.2003.1603
+Tessin Il Giudice dell'istruzione e dell'arresto 09.04.2003 INC.2003.1603
+Ticino Il Giudice dell'istruzione e dell'arresto 09.04.2003 INC.2003.1603
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+2003.1603
+Lugano
+25 maggio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+__________
+sedente per statuire sul reclamo presentato il 17 marzo
+2003 da
+__________
+attualmente detenuto al PCT
+(patrocinato dall’avv. __________)
+contro
+la decisione 11 marzo 2003 del
+Procuratore pubblico __________ di non concedere colloqui liberi tra
+l’accusato e i suoi parenti stretti;
+viste le osservazioni 31 marzo
+2003 del Magistrato inquirente;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto
+che:
+-
+__________ è in carcere preventivo dall’8 gennaio 2003 e contro di lui
+il Procuratore pubblico ha promosso accusa per titolo di incendio intenzionale
+aggravato, esplosione e lesioni colpose. L’arresto è conseguente
+all’incendio/esplosione intervenuti in data 1 gennaio 2003, attorno alle ore
+00.05, presso l’__________, che ha determinato gravi danni (all’__________
+menzionata, agli stabili vicini e a diverse automobili parcheggiate in zona),
+come pure il ferimento grave dell’accusato stesso e di __________. L’accusato
+ha sostanzialmente ammesso la propria responsabilità diretta
+nell’incendio/esplosione suddetti, con chiamata in correità di __________ e,
+almeno in parte, di __________, entrambi pure in arresto;
+-
+__________ dapprima ricoverato, in stato detentivo, presso l’Ospedale
+__________, è stato trasferito alle Carceri pretoriali di __________ e, a far
+tempo dal 17 febbraio 2003, al Penitenziario cantonale. Il Procuratore pubblico
+ha disposto contatti liberi con il solo patrocinatore a partire dal 13 gennaio
+2003. Dagli atti trasmessi a questo giudice emerge che in data 15 gennaio 2003
+è stato concesso un colloquio sorvegliato a __________ (sorella); non è dato
+sapere se la convivente ed altre persone abbiano usufruito di colloqui
+sorvegliati. Resta comunque il fatto che in data 10 marzo 2003 il patrocinatore
+dell’accusato ha chiesto colloqui liberi a favore dei “parenti stretti” di
+__________ e che tale richiesta è stata respinta dal Procuratore pubblico in
+data 11 marzo 2003 “sussistendo tutt’ora pericolo di collusione”;
+-
+con reclamo 17 marzo 2003, l’accusato contesta l’imposizione di colloqui
+sorvegliati con i "parenti stretti", sostenendo che la decisione
+impugnata sarebbe carente nella motivazione e che non vi sarebbe pericolo di
+pericolo di collusione;
+-
+il Procuratore pubblico, con le sue osservazioni 31 marzo 2003, chiede
+che il reclamo sia respinto e, in subordine, che il regime di sorveglianza per
+i diritti di visita sia mantenuto per altre tre settimane. Secondo il
+magistrato inquirente, il pericolo di collusione non sussiste solo nei rapporti
+con __________, ma “anche con le persone che potrebbero, a vario titolo, aver
+avuto qualche cosa a che fare con lui”. Le versioni dell’accusato e di
+__________ sarebbero divergenti su dettagli importanti e sembrerebbe che
+“__________ stia tentando di coprire sin dove possibile il presunto mandante”.
+I canali di comunicazione sarebbero “diversi e la compagna di __________,
+__________, non vi è estranea, come dimostra il verbale 8 marzo 2003”;
+-
+il reclamo, tempestivo, è prodotto da persona legittimata, in quanto
+accusata e direttamente colpita dal provvedimento impugnato, per cui è data
+ricevibilità in ordine (art. 280 e rel. CPP);
+-
+la terminologia di “parenti stretti”, utilizzata dall’accusato sia nella
+richiesta di liberi colloqui formulata per il tramite del patrocinatore in data
+10 marzo 2003, sia nel reclamo del 17 marzo 2003, appare generica e non
+codificata dalle vigenti norme di legge. Il concetto utilizzato dal reclamante
+non è neppure conforme con la terminologia di “congiunto” e di “membro della
+comunione domestica” di cui all’art. 110 cifra 1 e 2 CPS e dunque, in quanto
+impreciso, è destinato ad ingenerare confusione. Del resto la convivente
+__________ non rientra neppure nei parenti, non essendo vincolata all'accusato
+da vincoli di parentela. L’autorizzazione del magistrato inquirente – che
+dipende in gran parte anche dall’identità di colui con il quale il detenuto
+potrebbe entrare in contatto (cfr. Rusca, Salmina, Verda: Commentario del CPP,
+ad art.104 n. 20) - può comunque essere solo riferita ad una persona definita
+ed identificabile dagli addetti alla sorveglianza delle carceri. Nella misura
+in cui mira ad ottenere in modo generico il permesso di colloquio libero tra
+l’accusato e non meglio precisati “parenti stretti”, il reclamo deve essere
+respinto;
+-
+il reclamo è conseguentemente respinto con la presente decisione
+definitiva (art. 284 cpv. 1 lett. a e contrario), senza carico di spese
+giudiziarie e tasse di giustizia. All’accusato resta riservata la facoltà di
+sottoporre al magistrato inquirente - per decisione - l’esatto nominativo delle
+persone, che egli definisce “parenti stretti”, per le quali intende chiedere
+l’autorizzazione di colloquio libero.
+Per i quali motivi
+richiamate le norme di legge citate
+decide:
+1.       Il reclamo è respinto.
+2.       Non si prelevano nè tassa
+nè spese di giudizio.
+3.       La presente decisione è definitiva.
+4.       Intimazione
+:
+- avv.__________, per sè e per il reclamante (con copia
+delle osservazioni del magistrato inquirente);
+- Procuratore pubblico __________, con l'incarto di ritorno.
+giudice
+_______________
