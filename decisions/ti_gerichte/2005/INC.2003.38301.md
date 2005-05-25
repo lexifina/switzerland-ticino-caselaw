@@ -1,0 +1,70 @@
+---
+decision_id: "ti_gerichte_INC.2003.38301"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.38301"
+decided: "2005-05-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59511&nX40_KEY=4711336&nTrefferzeile=8&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2003.38301
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 01.07.2003 INC.2003.38301
+Tessin Il Giudice dell'istruzione e dell'arresto 01.07.2003 INC.2003.38301
+Ticino Il Giudice dell'istruzione e dell'arresto 01.07.2003 INC.2003.38301
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+2003.38301
+Lugano
+25 maggio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+__________
+sedente per statuire sul reclamo presentato il 16 giugno
+2003 da
+__________
+già patrocinato dall'avv. __________ ora patrocinato da
+avv. __________ o
+contro
+la mancata notifica da parte del Procuratore pubblico di
+copia dell'ordine di arresto spiccato nei suoi confronti o perlomeno delle
+motivazioni poste alla base del citato provvedimento (inc. MP __________);
+viste le osservazioni 27 giugno
+2003, con le quali il Procuratore pubblico comunica di aver provveduto a
+notificare alla difesa del reclamante copia dell'ordine di arresto 30 maggio
+2003 spiccato nei confronti del reclamante;
+ritenuto che, a questo punto, il
+reclamo menzionato in entrata è privo di oggetto e può essere stralciato dai
+ruoli, senza prelevamento di tassa e spese ma con assegnazioni di ripetibili al
+reclamante a carico dello Stato;
+richiamati gli art. 280 e rel.
+CPP,
+decide
+1.         Il reclamo
+è stralciato dai ruoli, in quanto divenuto privo di oggetto.
+2.
+Non si prelevano né tassa di giustizia né spese, al reclamante lo Stato
+rifonderà fr. 200.-- a titolo di ripetibili di questa sede.
+3.         Contro la presente decisione è dato reclamo alla Camera dei
+ricorsi penali, Lugano, entro 10 giorni dall'intimazione.
+4.
+Intimazione:
+- avv. __________, per sé e per il reclamante (con copia delle
+osservazioni del magistrato inquirente).
+- PP
+__________.
+giudice
+__________
