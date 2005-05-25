@@ -1,0 +1,172 @@
+---
+decision_id: "ti_gerichte_INC.2003.33805"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.33805"
+decided: "2005-05-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=59420&nX40_KEY=4711303&nTrefferzeile=85&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-009.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2003.33805
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 18.05.2004 INC.2003.33805
+Tessin Il Giudice dell'istruzione e dell'arresto 18.05.2004 INC.2003.33805
+Ticino Il Giudice dell'istruzione e dell'arresto 18.05.2004 INC.2003.33805
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.33805
+Lugano
+25 maggio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+____________
+sedente per statuire sul reclamo presentato il 30 aprile
+2004/3 maggio 2004 da
+__________
+,
+(patrocinato dall’avv. __________)
+per le omissioni, rispettivamente la denegata giustizia
+della Procuratrice pubblica __________ nel procedimento pendente a suo carico
+per mancato omicidio, sub. lesioni gravi di cui all’inc. MP 4064/2003;
+viste le osservazioni 12 maggio
+2004 del magistrato inquirente e le osservazioni complementari 14 maggio 2004
+del patrocinatore del reclamante;
+letti ed esaminati gli atti;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+nei confronti di __________ (qui reclamante) è pendente un procedimento
+penale per titolo di mancato omicidio e lesioni gravi, ciò in relazione al
+ferimento della signora __________, madre del reclamante, avvenuto a __________
+la mattina del 27 maggio 2003;
+-
+__________, scarcerato dalla magistrata inquirente in data 5 novembre
+2003, dopo una carcerazione preventiva che durava dal 27 maggio 2003, nega i
+fatti a lui imputati;
+-
+il reclamo, qui in esame, lamenta lo stallo in cui si troverebbe il
+procedimento, con violazione del principio di celerità, con conseguenze dirette
+sul reclamante, che non potrebbe “riprendere la sua professione di medico
+soltanto perché a suo carico è tuttora pendente un procedimento penale (cfr.
+decisione 7 gennaio 2004 del DSS)” e non avendo esercitato un’attività
+indipendente, non beneficierebbe “di prestazioni da parte dell’assicurazione
+disoccupazione”. L’istruttoria sarebbe “da ritenersi ampiamente terminata”; da
+ciò la richiesta di fare ordine alla Procuratrice pubblica di “procedere
+immediatamente al deposito degli atti”;
+-
+la magistrata inquirente, con le sue osservazioni al gravame del 12
+maggio 2004, elenca gli atti istruttori che intende ancora effettuare prima di
+depositare gli atti e di cui ha dato informazione al patrocinatore del
+reclamante con lettera di medesima data e meglio la richiesta di alcuni
+chiarimenti da parte del Prof. __________ sull’interrogabilità della vittima
+(che la Procuratrice pubblica dice di voler ancora interrogare), la richiesta
+di un rapporto da parte del Dr. __________, medico psichiatra di __________,
+sulla situazione di quest’ultimo dalla sua scarcerazione ad oggi (sul quale i
+periti giudiziari dovranno successivamente esprimersi) e un ultimo
+interrogatorio, da parte sua, di __________. La Procuratrice pubblica, tenuto
+conto di quanto sopra, ritiene “quindi corretto stimare che il deposito degli
+atti ... potrà essere ragionevolmente effettuato nel mese di settembre 2004” e
+conclude chiedendo la reiezione del reclamo;
+-
+il reclamante, con osservazioni complementari del 14 maggio 2004,
+contesta l’interrogabilità della vittima, sia per il diniego già da lei
+formulato, per il tramite del suo patrocinatore, ad essere interrogata, sia per
+lo stato di salute attestato dal Prof. __________; ritiene inoltre che l’audizione
+di __________ può avvenire immediatamente e il rapporto del Dr. __________ e la
+susseguente presa di posizione dei periti potranno giungere a compimento “al
+più tardi entro due o tre settimane”. Il reclamante chiede pertanto che sia
+fatto ordine alla magistrata inquirente di procedere al deposito degli atti
+“entro e non oltre il 15 giugno 2004”;
+-
+si ha denegata giustizia quando l'autorità alla quale compete
+l'emanazione di una decisione o l'impulso di un procedimento, semplicemente non
+vi pone mano oppure quando, pur dimostrandosi pronta a statuire, non lo fa
+tempestivamente e in modo adeguato alla natura delle cose e delle circostanze,
+ritenuto che il lamentato ritardo non sia compatibile con le esigenze
+processuali, segnatamente con i bisogni dell'istruttoria, con la complessità
+delle questioni di fatto e di diritto sollevate, nonché, ma in minor misura,
+con l'aggravio di pratiche pendenti (REP 1998, pag. 350, con riferimento a DTF
+107 I b 160);
+-
+dagli atti emerge che dopo la scarcerazione di __________, avvenuta in
+data 5 novembre 2003, la magistrata inquirente ha provveduto ad acquisire una
+cartina elaborata dalla Scientifica (21.11.2003, AI 332) e un complemento di
+rapporto della Scientifica sulle analisi DNA (26.12.2003, AI 342), a far interrogare
+dalla Polizia una teste, chiesta dalla difesa (20.1.2004, AI 347), ad acquisire
+documentazione medica sulle attuali condizioni di salute della vittima
+(3.2.2004, AI 351), ad una ricostruzione della tempistica alla presenza delle
+parti, chiesta dalla difesa nel corso del mese di febbraio 2004 (29.3.2004, AI
+362) e a chiedere al Prof. __________ informazioni sull’interrogabilità della
+vittima (22.4.2004, AI 370). Dopo la presentazione del reclamo, la Procuratrice
+pubblica ha acquisito il rapporto del Prof. __________, che attesta che la
+vittima, da un punto di vista medico e neuropsicologico, non è interrogabile
+(5/7.5.2004, AI 376) e ha chiesto al Dr. __________ un rapporto sul trattamento
+al quale è stato sottoposto l’accusato nel periodo novembre 2003/maggio 2004
+(12.5.2004, AI 378) e al Prof. __________ alcune precisazioni del suo rapporto
+anzidetto (12.5.2004, AI 380);
+-
+l’istruttoria, per stessa indicazione della magistrata inquirente, è
+nella fase conclusiva; gli atti che restano da compiere e che possono di certo
+essere compiuti (audizione dell’accusato, acquisizione del rapporto del Dr.
+__________ e dei periti giudiziari su quest’ultimo rapporto) sono limitati e
+velocemente assumibili. Anche le precisazioni chieste al Prof. __________
+possono essere acquisite rapidamente, ritenuto d’altronde che il rapporto 5
+maggio 2004 di detto medico è già molto esplicito sulla gravità dei traumi
+subiti da __________ e sull’impossibilità di procedere ad un interrogatorio
+attendibile sui fatti del 27 maggio 2003;
+-
+i tempi indicati dalla Procuratrice pubblica (settembre 2004) per
+procedere ai residui atti istruttori che restano da compiere e al deposito atti
+sono eccessivi e costitutivi di ritardata giustizia, quale omissione a norma
+dell’art. 280 CPP; non può infatti essere trascurato l’interesse del reclamante
+ad una rapida conclusione del procedimento, ritenuto che la sospensione dal
+libero esercizio della professione medica è strettamente connessa anche al
+procedimento penale pendente (v. decisione 7.1.2004 del DSS, AI 344);
+-
+viene dunque rivolto uno stringente appello alla magistrata inquirente
+ad indilatamente procedere nei rimanenti incombenti per giungere in tempi
+ragionevoli alla conclusione della fase predibattimentale; i tempi indicati dal
+reclamante nelle proprie contro osservazioni (15 giugno 2004) sono finanche
+magnanimi;
+-
+il sostanziale buon fine del gravame non vuole carico di spese
+giudiziarie, ma di contro riconoscimento di ripetibili (art. 9 cpv. 6 CPP);
+Per questi motivi,
+richiamato l’art. 280 CPP,
+decide:
+1.
+Il
+reclamo è accolto come ai considerandi.
+2.
+Non
+si percepiscono né tassa né spese giudiziarie.
+3.
+Lo
+Stato verserà al reclamante l’importo di FRS 250.-- a titolo di ripetibili.
+4.
+Intimazione
+a:
+-    avv. __________, per sé e per il
+reclamante;
+-    Procuratrice Pubblica __________, Via Pretorio 16, 6900 Lugano (con copia
+delle
+contro
+osservazioni del reclamante e l’inc. 2003.4064 di ritorno).
+giudice
+____________
