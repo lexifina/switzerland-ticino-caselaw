@@ -1,0 +1,123 @@
+---
+decision_id: "ti_gerichte_INC.2005.15704"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.15704"
+decided: "2005-06-08"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=61445&nX40_KEY=4711279&nTrefferzeile=54&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-279.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2005.15704
+
+## Regeste
+
+Altre misure. LDSS
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 08.06.2005 INC.2005.15704
+Tessin Il Giudice dell'istruzione e dell'arresto 08.06.2005 INC.2005.15704
+Ticino Il Giudice dell'istruzione e dell'arresto 08.06.2005 INC.2005.15704
+
+Altre misure. LDSS
+
+Incarto n.
+INC.2005.15704
+Lugano
+8 giugno 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sul reclamo/ricorso
+presentato il 3/6 giugno 2005 da
+__________,
+detenuto
+c/o __________, __________
+(patrocinato di fiducia dall’avv. __________,
+__________)
+Contro
+il trasferimento dallo Stampino al
+Penitenziario cantonale quale misura coercitiva camuffata che anticipa un
+presunto trasferimento detentivo ai sensi della LMC;
+premesso che per
+l'emanazione della decisione, visto l'esito, non è necessario assegnare ad
+altre Autorità un termine per le osservazioni, rispettivamente visionare
+l’incarto di riferimento, bastando gli atti già in possesso di questo ufficio (GIAR
+505.2000.1/2);
+in
+fatto ed in diritto
+che:
+-     il reclamante si trova attualmente in espiazione
+di una pena di 85 giorni complessivi di detenzione inflittagli con sentenza 3
+maggio 2005 del Presidente della Pretura penale di Bellinzona (GIAR 157.2005.1,
+doc. 7), espiazione che si concluderà il 10 giugno prossimo;
+-     __________, che era stato collocato il 20 maggio
+2005 dalla direzione del PCT in regime agevolato per pene di breve durata
+presso la Sezione aperta, è stato reintegrato negli scorsi giorni in Carcere
+chiuso su decisione della Direzione del Penitenziario e della SEPEM che, dopo
+avere saputo dell’intenzione della Sezione dei permessi e dell’immigrazione di
+trasferire il detenuto al termine della pena nel comparto carcerario di Basilea
+in via di allontanamento dalla Svizzera, hanno constatato non essere più
+presenti le condizioni di un regime detentivo progressivo non essendo
+prevedibile l’ottenimento di un regime lavorativo in semi prigionia nonché
+essendo ravvisabile il rischio d’allontanamento sul territorio del detenuto;
+-     contro questo trasferimento si aggrava __________
+a questo giudice sostenendo che il trasferimento in carcere chiuso costituisce
+un evidente provvedimento legato alle misure coercitive degli stranieri e che
+la SEPEM non sarebbe competente per misure limitative della libertà di
+conseguenza la sua decisione di trasferimento di __________ in altra sezione
+sarebbe nulla in quanto ordinata da Autorità incompetente che tra l’altro
+avrebbe agito in violazione del diritto di essere sentito e senza intimare
+alcuna decisione formale in merito;
+-     ai sensi dell’art. 279 CPP il Giudice
+dell’istruzione e dell’arresto è competente in materia di privazione e di
+limitazione della libertà personale, come alle disposizioni del titolo IV; il
+regime carcerario imposto dal PP può essere contestato davanti al GIAR con il
+reclamo dell’art. 280 CPP mentre che all’amministrazione penitenziaria resta
+invece il potere disciplinare e quello regolamentare. Contro i suoi
+provvedimenti non è dato ricorso al GIAR e alla CRP, ma al dipartimento
+competente (Rusca, Salmina, Verda, Commentario del codice di procedura penale
+ticinese, ad art. 104, n° 12);
+-     in Ticino l’ordinamento carcerario è disciplinato
+dalla Legge sull’esecuzione delle pene e delle misure di sicurezza e dal
+relativo regolamento, nonché dal Regolamento del penitenziario di Stato del
+Canton Ticino che non prevedono nessuna competenza di questo ufficio per
+statuire su ricorso interposto contro le loro decisioni;
+-     per quanto riguarda l’asserita applicazione
+preventiva dell’art. 13b LDDS la tesi del reclamante non può essere condivisa
+non essendo stata notificata nessuna decisione d’incarcerazione in vista di
+allontanamento (che peraltro, ai sensi dell’art. 27 della Legge d’applicazione
+alla LF concernente le misure coercitive in materia di diritto degli stranieri,
+si sarebbe dovuto sottoporre al vaglio di questo ufficio) a __________ ma
+trovandosi egli presso il PCT in espiazione di pena e che, ai sensi degli art.
+4 e 7 del Regolamento sull’esecuzione delle pene e delle misure di sicurezza
+per gli adulti le Autorità competenti per l’esecuzione delle pene sono il
+Dipartimento delle istituzioni, la Sezione esecuzione delle pene e delle misure
+e il Consiglio di vigilanza in conformità delle competenze stabilite dalle
+leggi cantonali e dal regolamento stesso, mentre che al condannato ad una pena
+massima di sei mesi e degno di fiducia, la Sezione può concedere l’esecuzione
+in forma di semiprigionia se motivi personali, famigliari, professionali o sociali
+lo giustificano e contro la decisione della Sezione è dato ricorso entro 5
+giorni al Dipartimento;
+-     visto quanto detto sopra è chiara la mancanza di
+competenza di questo ufficio a decidere sul reclamo in oggetto che deve di
+conseguenza essere dichiarato irricevibile con la presente decisione definitiva
+(art. 284 cpv. 1 lett. a CPP) esente da tasse e spese di giudizio;
+richiamati gli art.
+280 e rel. del CPP, nonché la Legge sull’esecuzione delle pene e delle misure
+di sicurezza per gli adulti ed il relativo regolamento;
+decide:
+1.
+Il reclamo è irricevibile.
+2.
+Non si prelevano tasse e spese di giudizio.
+3.
+Intimazione:
+giudice
+Claudia Solcà
