@@ -1,0 +1,397 @@
+---
+decision_id: "ti_gerichte_INC.2005.26303"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.26303"
+decided: "2005-06-24"
+published: "2005-06-20"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=61450&nX40_KEY=4711278&nTrefferzeile=32&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2005.26303
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 20.06.2005 INC.2005.26303
+Tessin Il Giudice dell'istruzione e dell'arresto 20.06.2005 INC.2005.26303
+Ticino Il Giudice dell'istruzione e dell'arresto 20.06.2005 INC.2005.26303
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2005.26303
+Lugano
+24 giugno 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 14 giugno 2005 da
+__________
+, attualmente detenuto c/o PCT
+(patr. dal lic. iur. __________)
+e qui trasmessa con preavviso negativo del 16 giugno 2005
+dal
+Procuratore pubblico Rosa Item,
+Lugano
+visto lo scritto della difesa
+dell’accusato 17 giugno 2005;
+visto l’incarto MP __________;
+ritenuto
+In fatto:
+A.
+__________ è stato arrestato il 7
+maggio 2005 dalla Polizia cantonale, dopo che era stato fermato al valico
+autostradale di Brogeda in entrata per la Svizzera, su ordine d’arresto 25 gennaio
+2005 della Procuratrice pubblica Rosa Item per titolo di ricettazione,
+infrazione aggravata sub. semplice e contravvenzione alla LStup poiché
+indiziato di “avere, ad Ascona, nel giugno 2004, ricevuto da __________,
+diversi capi d’abbigliamento per un valore complessivo di circa CHF 30'000.--
+che sapeva o doveva presumere provento di reati contro il patrimonio, in
+parziale pagamento del prezzo di vendita di circa 500 grammi di cocaina forniti
+da __________ a __________ nel periodo settembre/dicembre 2003 tra Locarno e
+Romont”. Con la richiesta di conferma dell’arresto 8 maggio 2005 il magistrato
+inquirente ha promosso a __________ l’accusa per titolo di ricettazione e
+infrazione alla LStup (Inc. GIAR 263.2005.1, doc. 1), mentre che questo giudice
+ha confermato l’arresto dell’accusato considerata la presenza di gravi e
+concreti indizi di colpevolezza e per i bisogni dell’istruzione – per la
+verifica delle dichiarazioni dei coaccusati (verifiche con __________ e
+confronti con __________) – e per il pericolo di fuga, essendo cittadino
+straniero con forti legami all’estero (Inc. GIAR 263.2005.1, doc. 4).
+A verbale di conferma
+dell’arresto, così come già davanti alla Polizia giudiziaria, __________ ha
+negato ogni addebito dal profilo penale ammettendo unicamente di avere
+conosciuto __________ e __________ ad una festa organizzata da __________,
+negando peraltro di avere mai avuto a che fare – a parte un vecchio precedente
+per importazione di marijuana dall’Olanda – con le sostanze stupefacenti (Inc.
+GIAR 263.2005.1, doc. 4, p. 3)
+B.
+Il 14 giugno 2005 __________, con
+l’istanza in discussione e per il tramite del suo difensore, chiede di essere
+posto in libertà provvisoria; a suo dire avrebbe sempre dichiarato la propria
+estraneità alle accuse mossegli fornendo nell’ambito del suo ultimo verbale di
+interrogatorio una dettagliata ricostruzione dei fatti e garantendo la massima
+collaborazione, non vi sarebbe pericolo di fuga essendo nato e cresciuto in
+Svizzera, dove risiede il figlio avuto dalla ex-moglie, beneficiando del
+permesso C e dove sarebbe impiegato come socio fondatore nell’attività di
+gestione del personale di una Sagl, e non vi sarebbero nemmeno più necessità
+d’inchiesta in considerazione del fatto che la versione dei fatti dell’ultimo
+verbale, fornirebbe una chiara ricostruzione mentre che da ultimo le condizioni
+di salute dell’istante non permetterebbero di prolungare oltre il periodo
+detentivo (Inc. GIAR 263.2005.3, doc. 2).
+C.
+Il magistrato inquirente, con
+preavviso negativo 16 giugno 2005 (Inc. GIAR 263.2005.3, doc. 1) ribadisce che
+esistono gravi e concreti indizi di colpevolezza evincibili dalle dichiarazioni
+di __________ e __________, nonché da riscontri oggettivi di cui si dirà, se
+del caso, in seguito.
+Per quanto riguarda i bisogni
+istruttori ed il pericolo di collusione, il Procuratore pubblico, con chiari
+riferimenti ai verbali dei correi, ne elenca una serie di certo non esaustiva
+sottindendeno che se posto in libertà provvisoria __________ potrebbe colludere
+con i testi e le persone informate sui fatti ancora da interrogare.
+A mente del magistrato inquirente
+vi sarebbe un concreto pericolo di fuga non avendo __________ entrate
+finanziarie da oltre un anno e mezzo e neppure una residenza in Svizzera, egli
+vive in Italia, presso la madre, unitamente alla sua compagna di nazionalità
+lituana dalla quale aspetta un figlio e quando viene in Svizzera, soltanto
+qualche giorno al mese, risiede in albergo. __________ ha debiti per circa CHF
+150'000.-- e per quanto riguarda la sua asserita nuova attività si riferisce ad
+una Sagl, appena costituita, nella quale ha una minima interessenza. Il carcere
+preventivo sofferto dall’istante sarebbe rispettoso del principio della
+proporzionalità se considerata l’istruttoria che è stata condotta con celerità
+e sollecitudine. Tale principio appare poi rispettato, a fronte della gravità
+dei reati prospettati, anche nell’ottica di una presumibile futura condanna. (Inc.
+GIAR 263.2005.1, doc. 1);
+D.
+L’istante, con osservazioni 17
+giugno 2005, si è limitato a riconfermarsi nella propria istanza.
+In diritto:
+1.
+L’accusato, detenuto, è pacificamente legittimato a
+presentare istanza di libertà provvisoria.
+Il preavviso del Procuratore pubblico, ritenuta ricezione
+dell’istanza il 14 giugno 2005, è tempestivo avendo trasmesso a questo ufficio
+il preavviso negativo 16 giugno 2005, nel termine quindi di 3 giorni.
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui di seguito riproposti.
+L’art. 95 CPP – corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 – dopo evidenza al cpv. 1 del principio secondo cui l’accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo ai sensi dell’art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali – per quanto qui concerne – i bisogni dell’istruzione,
+con particolare riguardo al pericolo di collusione e di inquinamento delle
+prove che, sia detto qui a futura memoria – può continuare ad esistere fino al
+pubblico dibattimento (sentenza della I Corte di diritto pubblico del Tribunale
+federale del 23 marzo 2000 in re S.B., consid. 4a). Si aggiunge, sempre con
+riferimento al caso in esame, che l’elenco dei motivi di interesse pubblico
+nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio aggiuntivo del 20 marzo 1991
+concernente la revisione del CPP, ad art. 27 , pag. 32, nota 3), tra altri
+possibili, essendovi quello della tutela dell’ordine pubblico (REP 1998 n.
+105).
+L’eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 consid. 3) in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali – nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggiore rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all’arbitrio (REP
+1980 pag. 128).
+(per tutte: sentenza GIAR
+21.12.2001 in re G., Inc. 520.2001.5).
+3.
+L’esistenza di gravi e concreti
+indizi di colpevolezza deve essere verificata d’ufficio nei limiti di
+competenza di questo giudice derivanti dalla sua funzione che è quella di
+esaminare l’esistenza dei presupposti per il mantenimento della misura
+restrittiva della libertà personale e non di valutare nella sostanza
+l’esistenza di un reato.
+Con verosimiglianza sufficiente,
+a questo stadio del procedimento ed in questa sede, si può concludere per la
+presenza di seri e di concreti indizi di colpevolezza a carico di __________
+relativi ad un suo coinvolgimento nei fatti inquisiti.
+__________, detenuto al PCT per
+titolo di furto ed infrazione aggravata alla LStup, ha dichiarato e ribadito di
+avere consegnato tutta la refurtiva oggetto del furto da lui commesso in danno
+della boutique __________ di __________, per un valore di CHF 30'000.--, a tale
+__________, identificato poi inequivocabilmente in __________, a pagamento di
+un debito per forniture di cocaina (circa 500 grammi) di settembre 2003 che __________
+aveva nei confronti di __________. __________ ha dichiarato di avere consegnato
+tutta la refurtiva del furto in danno della boutique __________ ad __________
+che l’avrebbe caricata su di un’auto VW Golf caravan di colore Grigio con
+targhe del canton Vaud.
+La chiamata di correo di __________,
+sostenuta anche in un verbale a confronto con __________, non ha alcuna
+finalità difensiva non giovando minimamente alla posizione processuale di __________
+che semmai, con queste dichiarazioni, si autoaccusa di furto e di infrazione
+alla LStup. Ma vi è di più, la dichiarazione di __________ è stata confermata,
+con __________ sempre detenuto, da __________ che ha anche ammesso di avere
+perpetrato il furto in danno della boutique __________ unitamente a __________.
+Il verbale di __________, che è circostanziato e non dimostra nessuna finalità
+difensiva per l’interrogata, combacia nei fatti salienti con le dichiarazioni
+di __________. Anche l’AI 15 dell’incarto penale conferma quanto dichiarato da __________
+a proposito dell’auto sulla quale __________ avrebbe caricato la refurtiva del
+furto in danno della boutique __________, e cioè che l’accusato ha circolato a
+bordo di due automobili marca VW nei periodo dal 12.05.2004 all’11.06.2004 (una
+Bora STW DS grigia) e dall’11.06.2004 al 16.09.2004 (una Golf STW blu) entrambe
+con targhe del canton Vaud.
+Non può infatti
+essere condivisa la tesi della difesa (cfr. osservazioni al preavviso negativo
+del 17 giugno 2005, p. 2) secondo cui __________, attraverso le accuse mosse
+nei confronti di __________, non cerchi forse solo di discolparsi, ma intende
+coinvolgere l’accusato in questa vicenda poiché non vi sarebbe mistero che tra
+i due non corresse buon sangue e le accuse di __________ sarebbero da
+considerare come un tentativo di vendicarsi per questioni personali mentre che
+le dichiarazioni di __________ sarebbero dettate dal risentimento nato a
+seguito della brusca interruzione della loro relazione sentimentale per opera
+di __________. I due (__________e __________) avrebbero sempre agito insieme e
+le loro dichiarazioni non possono essere considerate disinteressate.
+In primo luogo __________
+e __________ hanno fornito le loro dichiarazioni alla Polizia senza potersi
+parlare dal momento che __________ è stato arrestato il 13 novembre 2004 e si
+trova attualmente detenuto senza potere contattare __________, che non è stata
+arrestata, almeno da tale data. In secondo luogo né __________ né __________
+possono minimamente mutare a proprio favore la loro situazione processuale con
+le dichiarazioni qui in discussione. Infine non risulta sostenuta da nessun
+elemento – per non definirla tendenziosa – l’asserzione contenuta nelle
+osservazioni al preavviso negativo 17 giugno 2005 secondo cui non correrebbe
+buon sangue tra __________ e __________, rispettivamente __________ e che questi
+attriti starebbero a monte della chiamata in correità. A parte la mancanza di elementi
+oggettivi a tale proposito, __________ mai ha affermato nulla del genere ed ha
+anzi dichiarato al magistrato inquirente, in presenza del suo difensore, di non
+sapere per quale motivo __________ avrebbe dovuto inventarsi tutto quanto
+affermando che
+"non lo so. Io mi sto chiedendo se questa gente è fuori
+di testa"
+(AI 11 dell’Inc. MP 2005.3634, p. 3 in basso).
+Vi sono poi seri indizi anche a
+sostegno del coinvolgimento di __________ con il mondo degli stupefacenti.
+Benché __________ abbia dichiarato sia alla Polizia che a questo giudice in
+sede di verbale di conferma dell’arresto di non avere nulla a che vedere, a
+parte un vecchio precedente per importazione di marijuana (come ribadito anche
+dal suo difensore a p. 4 delle sue osservazioni 17 giugno 2005), con la droga,
+al momento dell’arresto egli è risultato positivo alla cocaina, alla marijuana
+e agli antidepressivi triciclici (cfr. AI 14 inc. MP 2005.3634). Ed ancora, sottoposto
+ad un esame tossicologico il 4 novembre 2004, durante un controllo stradale
+della Polizia del canton Lucerna (quando era stato fermato per un superamento
+della velocità e la Polizia aveva proceduto al test tossicologico
+constatandogli occhi rossi e apparenza letargica), era risultato positivo alla
+cocaina ed all’interno del veicolo da lui condotto era stata trovata una pipa
+ad acqua (cfr. AI 19 inc. MP 2005.3634). Anche allora __________ aveva negato
+ogni possibile legame con le sostanze stupefacenti, rispondendo alla Polizia
+che gli chiedeva spiegazioni a proposito dell’esito del test tossicologico che
+“ich habe Keinerlei Drogen Eingenommen.
+Weder Alkol, noch
+Medikamente und schon gar kein Kokain. Es kann nicht sein, dass dieser Test
+richtig ist. Die Wasserpfeife habe ich im Bahnhof Luzern gefunden. Weil sie mir
+gefiel, nahm ich sie einfach mit. Ich habe sie danach in den Kofferraum gelegt
+und bin weggefahren“ (cfr AI 19, inc.
+MP 2005.3634,
+rapporto della Polizia del canton Lucerna, p. 3 e 4) per poi ammettere, durante
+il suo verbale di Polizia del 1° giugno 2005 a p. 5 che “l’ultima volta che ho
+consumato cocaina è stato a Lucerna, nella circostanza in cui avevo trovato una
+pipa ad acqua presso la stazione di Lucerna”. E sempre per quanto riguarda gli
+stupefacenti va ricordata la condanna di __________ dell’8 maggio 2002 del
+Gerichtskreis VII di Konolfingen a 4 mesi di detenzione per infrazione alla LStup
+(cfr. estratto del casellario giudiziale svizzero agli atti dell’inc. MP __________).
+Nel suo ultimo
+verbale di Polizia __________ ha poi cambiato radicalmente versione adeguandosi
+ad alcune dichiarazioni di __________ e __________, ammettendo per esempio di
+avere ricevuto dei capi d’abbigliamento dai due con lo scopo di rivenderli in
+Svizzera interna, ma contestando comunque recisamente ogni imputazione,
+asserendo di essersi ritirato dall’affare dopo avere subodorato che “la storia
+riguardante i capi d’abbigliamento non era del tutto chiara” ed avere rifiutato
+l’offerta di __________ di vendergli 100 grammi di cocaina. (cfr. verbale di
+Polizia 1° giugno 2005, p. 4).
+4.
+L’accusato
+ritiene che non sussistano più bisogni istrutto
+ri dal momento che
+avrebbe chiarito la propria posizione e non avrebbe più nulla da aggiungere.
+Secondo il magistrato inquirente sussisterebbero invece ancora motivi
+istruttori e concreto pericolo di collusione in relazione alla necessità di
+effettuare nuovi verbali d’interrogatorio con riferimento a __________, sulla
+versione dei fatti resa dall’istante nel verbale del 1° giugno 2005, a __________,
+alla moglie di __________ e a __________ in relazione all’affermazione
+dell’istante di avere depositato presso di lui la pistola Beretta e di non
+averla mai ripresa da circa due anni a questa parte.
+A ragione il
+magistrato inquirente osserva che alla luce della versione dei fatti resa
+dall’accusato nel verbale 1° giugno 2005, si dovrà procedere a nuovi atti
+istruttori che, se da un lato sono sicuramente dovuti, dall’altro rischiano di
+essere inquinati da una messa in libertà provvisoria dell’accusato. Si dovrà
+sicuramente ancora risentire __________. Come pure dovrà finalmente essere
+interrogato __________ e __________ in merito alla pistola marca Beretta a lui
+asseritamente consegnata da __________.
+È pertanto necessario, oltre che
+opportuno nell’interesse dell’accusato stesso, che i previsti interrogatori e
+confronti avvengano senza che si possa avere il dubbio di contatti e reciproci
+atti d’influenza, dal momento che le persone ancora da interrogare o da
+reinterrogare gravitano tutte nella sfera personale dell’accusato (la ex
+moglie, un’ex amica, l’ex avvocato, un amico già condannato per infrazione alla
+Lstup).
+5.
+Per quanto riguarda il pericolo
+di fuga, per giustificare carcerazione preventiva, deve essere concreto e
+rivestire di una certa probabilità: in altri termini lo si ammette quando
+l’accusato, se posto in libertà, si sottrarrebbe con una certa verosimiglianza
+al perseguimento penale ed alla (eventuale) esecuzione della pena. La gravità
+della pena presumibile non basta, da sola, a motivare la carcerazione; occorre
+valutare l’insieme delle circostanze, tra cui il carattere dell’accusato, la
+sua morale, i legami famigliari, il domicilio, la professione, la situazione
+economica e tutti quegli elementi che rendono la fuga non solo possibile ma
+probabile (DTF 19 gennaio 1999 in re G.S.; DTF 117 Ia 69; SJ 1980 186; SJ 1981
+135; N. Schmid, Strafprozessrecht, ZH 1997, no. 701).
+Ritenuto che a poco valgono, per
+quest'analisi, le semplici dichiarazioni d'intenti dell'accusato stesso (per
+tutte: sentenza GIAR 27 maggio 2002 in re P.) e che la concretezza del pericolo
+di fuga può essere accertata "Auch wenn keine konkrete Flüchtpläne u.ä.
+gefordet sind, …" (Schmid, ibidem).
+L'accusato è cittadino italiano e
+sebbene abbia vissuto per diversi anni in Svizzera e sia a beneficio del
+permesso C non sembra avere più molti legami con il nostro Paese. In
+particolare __________ non ha un lavoro da diverso tempo e, a fronte di debiti
+per circa CHF 150'000.-, singolare appare anche la sua interessenza in una Sagl
+di recente costituzione per cui sembra di capire il suo ruolo si limiterebbe
+alla ricerca di manodopera in Italia. Egli non ha più un domicilio fisso e
+quando viene in Svizzera soggiorna in un albergo, mentre che da diverso tempo
+abita ormai presso i genitori in Italia con l’attuale compagna, una cittadina
+lituana dalla quale attende un figlio.
+Egli è confrontato con
+imputazioni di una certa gravità, ricettazione di un importante refurtiva
+ricevuta a pagamento di una partita di cocaina fornita da __________ a __________.
+Il rischio di fuga appare quindi
+concreto anche in considerazione del suo comportamento assunto in passato con
+le Autorità giudiziarie elvetiche di cui fanno stato i 18 tra ordini di arresto
+e ricerche di soggiorno elencati nel rapporto d’arresto 7 maggio 2005 della
+Polizia cantonale e non può essere evitato neppure con misure meno incisive,
+quali il deposito di una cauzione o del passaporto con obbligo di firma, non
+avendo per di più l’accusato ormai alcuna residenza effettiva in Svizzera e
+neppure il denaro per procurarsela (Inc. GIAR 263.2005.2, istanza di gratuito
+patrocinio). Il pericolo che __________, se posto in libertà provvisoria, si
+renda irreperibile, come d’altronde ha già fatto anche in passato, è avvalorato
+dal fatto che visto il sommarsi di procedimenti penali nei suoi confronti corre
+il rischio di una compromissione della prognosi ai fini di un’eventuale
+sospensione condizionale della pena nel caso in cui, se processato, dovesse
+venire condannato.
+D’altronde, anche il figlio di
+primo letto, che sembra ormai essere l’ultimo legame con la Svizzera, si trova
+in collegio e, in caso di fuga di __________, potrebbe benissimo incontrare il
+padre in Italia presso i nonni.
+6.
+La proporzionalità di una
+carcerazione (preventiva) deve essere analizzata da angolature diverse. Da un
+lato occorre mettere in relazione la durata del carcere preventivo con la
+gravità e complessità della fattispecie e con la pena presumibile e dall’altro
+occorre anche verificare il rispetto del principio di celerità (SJ 1981 p. 383
+e citazioni; art. 102 CPP).
+La proporzionalità della
+carcerazione sin qui sofferta, alla luce della gravità delle accuse, della
+presenza di concreti indizi di colpevolezza, e delle dimensioni dell’inchiesta,
+con più indagati sotto inchiesta e diversi atti istruttori compiuti e ancora da
+compiere è sicuramente data. Gli inquirenti hanno proceduto con celerità e non
+si sono limitati ad interrogare l’accusato ma hanno proceduto con confronti e
+la ricerca di riscontri oggettivi per le dichiarazioni dei terzi e delle altre
+persone coinvolte nell’inchiesta.
+Pure va ammessa nella sua
+eccezione più generale di rapporto tra la durata della carcerazione preventiva
+ed il rischio di pena se considerate le comminatorie di pena per i singoli
+reati imputati a __________.
+L’accusato è stato arrestato il 7
+maggio 2005 e ad oggi è in detenzione preventiva da circa 40 giorni. In questo lasso
+di tempo l’inchiesta appare procedere con celerità soprattutto per quanto
+riguarda l’indagine di Polizia che non ha subito alcun ritardo se non per
+quello imputabile al comportamento dell’accusato che ha mantenuto la stessa
+versione dei fatti sino al 1° giugno 2005 quando si è deciso a fornirne una
+nuova che dovrà essere attentamente vagliata dagli inquirenti.
+I reati imputati ad __________
+sono di sicura gravità, a prescindere dal fatto che si tratta di crimini non si
+può dimenticare anche gli importanti quantitativi di cocaina considerata
+nell’inchiesta e in caso di condanna il rischio di pena è certamente superiore
+alla detenzione preventiva sin qui sofferta ed a quella presumibilmente da
+soffrire per esperire gli atti istruttori necessari e summenzionati, in pieno
+rispetto del principio della proporzionalità.
+7.
+In conclusione sufficienti presupposti
+di legge, come anche esplicitati dalla prassi e dalla giurisprudenza, sono
+presenti nella situazione personale e processuale di __________ a legittimare e
+giustificare il perdurare della cautelare privazione della sua libertà. Di
+conseguenza, l’istanza di libertà provvisoria in discussione, deve essere
+respinta con la presente decisione, esente da tassa e spese giudiziarie (art.
+39 let. f TG e contrario) e impugnabile entro dieci giorni alla Camera dei
+ricorsi penali del Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
