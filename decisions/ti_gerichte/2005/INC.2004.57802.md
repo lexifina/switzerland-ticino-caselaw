@@ -1,0 +1,514 @@
+---
+decision_id: "ti_gerichte_INC.2004.57802"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.57802"
+decided: "2005-07-20"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=64622&nX40_KEY=4711276&nTrefferzeile=41&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/311.0/art-125.md", "switzerland/bund/acts/312.0/art-060.md", "switzerland/bund/acts/312.0/art-113.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-184.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.2004.57802
+
+## Regeste
+
+Prove
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 20.07.2005 INC.2004.57802
+Tessin Il Giudice dell'istruzione e dell'arresto 20.07.2005 INC.2004.57802
+Ticino Il Giudice dell'istruzione e dell'arresto 20.07.2005 INC.2004.57802
+
+Prove
+
+Incarto n.
+INC.2004.57802
+Lugano
+20 luglio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire sul
+reclamo presentato il 14/15 giugno 2005 da
+rappr. dall’__________
+contro
+la decisione 3 giugno 2005 del Sostituto Procuratore
+pubblico Chiara Borelli, in materia di complementi istruttori, emanata
+nell'ambito dell'inc. MP __________;
+viste le osservazioni della parte civile __________
+(21 giugno 2005) e del Sostituto Procuratore pubblico (24 giugno 2005);
+visto l'inc. MP __________;
+ritenuto
+in fatto
+A.
+Dall'incarto MP trasmesso a questo giudice risulta
+che, il 3 gennaio 2003, la Polizia cantonale ha trasmesso al Magistrato dei
+Minorenni un "Rapporto di constatazione" in relazione ad un
+"infortunio sportivo" occorso a __________ (1988) il 4 novembre 2002
+presso la piscina del Centro scolastico scuola media di __________, durante una
+lezione di nuoto facente parte del programma scolastico (AI 2).
+Il Ministero pubblico ha avviato informazioni
+preliminari, perlomeno il 23 luglio 2003 (AI 3).
+Il 24 luglio 2003 la polizia cantonale ha presentato
+un rapporto di complemento contenente le audizioni di alcuni minorenni, allievi
+della scuola media di __________ (AI 9).
+In data 10 ottobre 2003 si è proceduto all'audizione
+di __________ (docente di educazione fisica presso la scuola media di __________)
+quale indagato per lesioni colpose gravi ex art. 125 cpv. 2 CP (AI 11).
+B.
+L'accusa, nei confronti di __________, è stata promossa
+al termine del verbale del 22 marzo 2005 (AI 65).
+I fatti specifici (azione o omissione) di cui il
+reclamante è accusato non sono desumibili con precisione né dalla promozione
+dell'accusa, né dalla comunicazione fornita all'interrogato in apertura dei
+verbali 10 ottobre 2003 e 18 dicembre 2003, che indicano unicamente "
+in
+relazione all'infortunio avvenuto a __________ in data 4.11.2002 che ha visto
+quale parte lesa
+…".
+Dagli atti par di comprendere che il giovane __________
+si è infortunato a seguito di un tuffo "alla magiara" (AI 2 pag. 2) e
+che al docente è imputato di aver permesso/tollerato/non proibito,
+rispettivamente non sorvegliato, l'esecuzione di tuffi in una piscina dove
+dovrebbe vigere il divieto assoluto di tuffarsi (AI 8), se fosse pubblica, ma
+potrebbero essere ammessi con accorgimenti specifici trattandosi di piscina
+privata (AI 10, 37).
+C.
+Il 22 aprile 2005, il magistrato inquirente ha
+proceduto al deposito degli atti e con scritto del 9 maggio 2005, la difesa del
+qui reclamante ha presentato istanza di complementi istruttori (AI 66 e 68).
+In sostanza vengono chiesti: un sopralluogo con
+verifica dell'effettiva profondità della piscina e altezza dell'acqua (viste le
+discrepanze tra le indicazioni della polizia e quelle del perito), l'escussione
+di un certo numero di testi, in contraddittorio, al fine di meglio chiarire
+l'esatta dinamica del tuffo effettuato dalla parte civile (anche qui viste le
+discrepanze tra i vari testi), l'audizione del responsabile dell'Ufficio
+educazione fisica scolastica (per il chiarimento delle esatte normative
+applicabili) ed un complemento alla perizia medico-legale (sul possibile esito,
+dal profilo delle lesioni personali, di un tuffo d'entrata) da esperire dopo
+l'assunzione delle altre prove proposte.
+D.
+Il magistrato inquirente ha preso posizione sulla
+richiesta di complementi con decisione del 3 giugno 2005 (AI 71).
+La richiesta di sopralluogo è stata respinta in quanto
+"…
+non rispecchierebbe la situazione al momento dell'incidente
+";
+nel contempo, comunque, il Sostituto Procuratore pubblico ha comunicato che
+procederà ad un chiarimento con il perito in relazione alle discrepanze tra i
+vari documenti agli atti circa la profondità dell'acqua (e della piscina).
+La richiesta di riaudizione degli allievi è stata
+respinta in quanto alcuni tra gli allievi indicati non erano stati menzionati
+in precedenza quali "
+vicini alla vittima al momento dell'incidente
+",
+quelli sentiti hanno già riportato quanto visto e, inoltre, la distinzione tra
+tuffo a testa e tuffo di partenza è ininfluente dato che la perizia conclude
+per la proibizione di qualsiasi tipo di tuffo a testa nella corsia rossa. Pure
+respinta la richiesta di complemento peritale, sia perché i periti hanno già
+affermato che la lesione è stata determinata dall'impatto del capo contro il
+fondo della piscina, sia per la genericità del quesito (numero 2) proposto.
+Accolta, la richiesta di audizione del teste __________.
+E.
+Con il reclamo oggetto della presente (doc. 1, inc.
+GIAR 578.2004.2), la difesa __________ chiede che tutti i complementi rifiutati
+dal Sostituto Procuratore pubblico siano ammessi.
+Ribadisce necessità di risentire gli allievi, le cui
+deposizioni rese alla polizia non sarebbero chiare né sufficientemente
+dettagliate, per chiarire quale tipo di tuffo é stato consentito dal docente e
+quale tipo di tuffo abbia effettuato in concreto la giovane vittima. Non sono
+argomenti sufficienti a respingere la richiesta di audizioni, a giudizio del
+reclamante, né il tempo trascorso dai fatti, né quello secondo cui nella corsia
+rossa non sarebbe ammesso alcun tipo di tuffo "
+a testa
+";
+secondo la difesa, il nesso causale deve poter essere stabilito (o negato) per
+rapporto alle effettive disposizioni date dal docente e quanto effettivamente
+messo in opera dal giovane __________.
+Per quanto concerne i quesiti peritali complementari,
+il reclamante chiede che vengano ammessi per poter determinare se l'infortunio
+si sarebbe determinato anche qualora il giovane __________ si fosse attenuto
+alle istruzioni del docente (quindi sempre per la determinazione del nesso
+causale) visto che i periti indicano che le lesioni sono la conseguenza di un
+tuffo "
+alla magiara
+" che il reclamante sostiene di non aver in
+alcun caso consentito.
+Quanto al sopralluogo, le evidenti discrepanze tra le
+indicazioni fornite dalla polizia, quelle del perito (che non si sarebbe recato
+sul posto) e quelle fornite dallo stesso reclamante, impongono un rilevamento
+chiaro ed alla presenza delle parti dell'altezza della piscina e dell'acqua.
+F.
+Con osservazioni del 24 giugno 2005, il magistrato
+inquirente ribadisce la sua opposizione alle richieste di complemento. Per il
+richiesto sopralluogo rinvia alla decisione del 3 giugno 2005, mentre che per i
+complementi peritali afferma irricevibilità per il carattere giuridico dei
+quesiti proposti.
+Quanto alle audizioni, precisa che stante la
+proibizione di qualsiasi tuffo a testa (secondo le conclusioni peritali) dalla
+corsia rossa, qualsiasi tipo di precisazione circa il tipo di tuffo permesso è
+irrilevante. Inoltre, sempre a dire dell'inquirente, il diritto al
+contraddittorio ha valore assoluto solo laddove la deposizione è (o sarebbe)
+l'unica prova o quella determinante, ciò che non è il caso (secondo il SPP)
+nella presente fattispecie.
+La parte civile si rimette al giudizio dello scrivente
+(Osservazioni del 21 giugno 2005) non senza segnalare che chiedere agli allievi
+"…
+se il tuffo effettuato da __________ era consentito dal docente
+oppure no
+" non è ammissibile trattandosi di questione giuridica e non
+di fatto.
+Delle altre argomentazioni/osservazioni delle parti si
+dirà, se del caso, nei considerandi che seguono.
+Considerato
+in diritto
+1.
+Il reclamo, tempestivamente presentato dalla persona
+accusata, è ricevibile in ordine.
+2.
+I principi in base ai quali si deve determinare se la
+prova debba essere assunta (identici sia che la decisione avvenga in corso
+d'istruttoria, sia che avvenga alla conclusione della stessa e nel termine del
+deposito degli atti), seppur noti al magistrato ed ai patrocinatori delle
+parti, possono essere così riassunti:
+"Per meritare di essere assunte, le prove
+proposte dalle parti contestualmente al deposito atti (art. 196 CPP), o in
+altro momento dell’istruttoria (artt. 60 cpv. 1 e 79 cpv. 1 CPP), devono
+rispettare tre concorrenti ordini di considerazione: esse devono essere
+motivate per quanto attiene al loro oggetto ed al loro scopo in diretta
+connessione con la fattispecie inquisita; tali mezzi di prova devono avere i
+requisiti della novità, della rilevanza e della pertinenza alle successive
+conclusioni di competenza del Procuratore Pubblico, dapprima per decidere se
+promuovere l’accusa oppure non far luogo al procedimento e poi (dopo
+conclusione dell’istruzione formale) se decretare messa in stato d'accusa o
+abbandono, sino se del caso a quelle del giudice di merito; per quest’ultima
+evenienza, le stesse prove devono essere di difficile produzione al
+dibattimento, avute presenti le finalità dell’art. 189 CPP, inteso appunto tra
+l’altro ad assicurarne la non interrotta assunzione (v. sentenza 24 gennaio
+1990, inc. CRP 337/89; v. decisioni 17 febbraio 1993 in re L.P., inc. GIAR
+135.93.1; 3 novembre 1993 in re G.G., inc. GIAR 862.93.1, e 14 giugno 1995 in
+re F.M., inc. GIAR 1093.93.5). Se, in particolare per l’accusato, la facoltà di
+proporre mezzi di prova è espressione del diritto di essere sentito ai sensi
+dell’art. 4 Cost. fed. (ora, art. 8 cpv. 1 della nuova Cost. fed.; v., da
+ultimo, DTF 124 I 49, consid. 3a p. 51; DTF 121 I 306, consid. 1b p. 308) e del
+“fair trial” ai sensi dell’art. 6 CEDU (v. Frowein/Peukert, EMRK-Kommentar, 2.
+Aufl. Kehl/Strassburg/ Arlington 1996, nota 99 ad art. 6 CEDU), il giudice del
+merito (ed il magistrato inquirente) è tenuto, in applicazione delle norme
+procedurali corrispondenti, a considerare rispettivamente ammettere soltanto
+quei mezzi di
+prova che “nach
+seinem richterlichen Ermessen entscheidungserheblich sind” (Frowein/Peukert,
+loc. cit. p. 231). Con riferimento specifico all’audizione di testi, il
+magistrato può rifiutare la prova proposta “wenn er die zu erwartende Antwort
+bzw. Aussage nach seiner freien Ermessensentscheidung für die Wahrheitsfindung
+nicht für beachtlich hält” (Frowein/Peukert, loc. cit., nota 202 ad art. 6
+CEDU, con rinvii), nelle parole di Niklaus Schmid (Strafprozessrecht, 3.
+Aufl. Zürich 1997, margin. 270, con rinvii
+a DTF 103 Ia 491 et al. in nota 321) “wenn sie den rechtlich relevanten
+Sachverhalt als genügend geklärt erachten”.
+Di conseguenza, non è data violazione dell’art. 6 CEDU
+se il giudice del merito rifiuta un mezzo di prova dopo averne esaminato la
+pertinenza (v. Frowein/Peukert, loc. cit., nota 203 ad art. 6 CEDU, con rinvio
+al noto caso Vidal; come qui, v. decisione 17 giugno 1998 in re F.F., inc. GIAR
+55.98.1 consid. 1). .Non va, inoltre, dimenticato che la fase in cui si colloca
+la presente discussione del complemento probatorio in questione è quella
+predibattimentale, finalizzata in primo luogo a permettere alla pubblica accusa
+di determinarsi sulle questioni se promuovere l’accusa o meno, indi se deferire
+l’accusato alla Corte competente oppure se pronunciare l’abbandono del
+procedimento (art. 184 cpv. 1 CPP, rispettivamente artt. 196 cpv. 1 e 198 cpv.
+1 CPP combinati). Per costante dottrina e giurisprudenza, invece, l’eventuale
+utilità o opportunità della prova proposta nell’ottica del giudice del merito è
+elemento a favore della sua assunzione già nella fase predibattimentale
+unicamente qualora l’amministrazione di tale prova in sede dibattimentale sia
+impossibile, o vi sia concreto rischio che lo diventi."
+(GIAR 21
+giugno 2001 in re C.)
+Quanto
+sopra senza dimenticare che:
+"…sebbene la facoltà per la difesa di proporre
+prove (già nella fase predibattimentale - art. 60 CPP) non costituisca diritto
+assoluto alla loro assunzione (DTF 106 Ia 162; DTF 115 Ia 101; DTF 106 IV 85),
+questo giudice è dell'opinione che occorra prestare attenzione a che questa
+limitazione non conduca allo "svuotamento" del principio (nonché
+della norma di cui all'art. 60 CPP che in parte lo concretizza) in presenza di
+un sistema processuale che, di fatto, conferisce un ruolo molto importante agli
+accertamenti in fase istruttoria (M. Rusca, L'influenza della CEDU sulla
+riforma dell'ordinamento penale ticinese, RDAT II 1992, p. 469 ss e 476; CEDU
+24 maggio 1991 in re Q., Serie A no. 205), rispettivamente allorquando il
+rinvio della prova alla fase dibattimentale appare aleatorio."
+(GIAR 22 giugno 2004 in re B.)
+3.
+Ancora a titolo preliminare, va detto che per
+determinarsi su rilevanza e pertinenza delle prove proposte/rifiutate (e non solo
+per questo giudice, ma anche per le parti che formulano istanze e quelle che vi
+si oppone) è estremamente importante conoscere con chiarezza i fatti (o le
+omissioni) rimproverate e oggetto di sussunzione alla norma giuridica
+applicabile. Come questo ufficio ha già avuto modo di dire:
+"…in fattispecie di una certa complessità è
+alquanto rischioso, nell'ottica della sufficiente motivazione, omettere di
+"riassumere anche solo brevemente i fatti oggetto d'inchiesta,
+rispettivamente di far riferimento, a sostegno delle richieste e/o
+affermazioni, ad atti istruttori o accertamenti specifici agli atti, se non in
+modo alquanto generico o con riferimento ad alcune singole prove, dimenticando
+che non spetta al giudice del reclamo ricostruire la fondatezza delle tesi
+esposte sulla base di semplici asserzioni, neppure se si ha a disposizione
+l'intero incarto (CRP 5 dicembre 1997 in re P. e G. Est.; GIAR 17 giugno 1997
+in re S.E.I.M.I.S. SA e S.ET.IM.M. Est.)." (sentenza 4 settembre 2003 in
+re G., GIAR 39.2002.8).
+(GIAR 22 giugno 2004 in re B.)
+Ciò
+che vale per le parti vale anche per il magistrato inquirente.
+Nel caso in esame, come già accennato nei considerandi
+precedenti, i fatti (o le omissioni) imputati all'accusato non sono indicati
+nella promozione dell'accusa (art. 188 lett. b. CPP) né nella premessa ai
+verbali dell'indiziato (art. 118 cpv. 3 CPP), e neppure nell'ordinanza di
+perizia del 23 marzo 2004 (AI 37). Pertanto, solo a livello di ipotesi
+(ancorché fondata sull'ultima frase del punto AD 2 della decisione impugnata)
+si può ritenere, come ha fatto la difesa del reclamante (Reclamo punto 2), che
+il fatto imputato è quello di non aver vietato qualsiasi tipo di tuffo a testa
+dalla corsia rossa.
+Ora tale indeterminatezza non può essere priva
+d'influsso sulla decisione di rilevanza delle prove proposte (per accertare
+determinati fatti, nonché il nesso di causalità degli stessi con le lesioni
+patite dalla parte civile).
+4.
+a)
+L'audizione, rispettivamente la riassunzione a verbale
+di testi è chiesta per (tentare di) chiarire se e quali tipi di tuffi (tra i
+vari possibili e andando oltre la generica definizione di tuffo a testa) erano
+stati oggetto di disposizioni proibitive (rispettivamente ammessi) dal docente,
+nonché quale tipo di tuffo abbia effettuato il giovane __________ in occasione
+dell'incidente. In sostanza il reclamante chiede una più precisa e dettagliata
+riscostruzione dei fatti che fonderebbero la sua responsabilità,
+rispettivamente il nesso causale tra questa e la lesione occorsa alla parte civile.
+La determinazione di tali fatti come risulta dagli atti, non sarebbe precisa,
+né attendibile viste le contraddizioni tra le varie deposizioni degli allievi
+ed il fatto che al momento dell'interrogatorio non fosse noto agli inquirenti
+la distinzione tra le varie tipologie di tuffo e le relative conseguenze.
+b)
+Per il magistrato inquirente, le audizioni sarebbero
+inutili (prive di pertinenza) in quanto nella cosidetta corsia rossa qualsiasi
+tipo di tuffo era proibito, secondo le conclusioni peritali.
+c)
+Posto che sembra accertato, e non contestato, che
+nell'ambito dell'esercizio in corso in quel momento il "tuffo di
+partenza" dalla corsia rossa era consentito (cfr. allegati ad AI 16,
+ancorché ai giovani testi sia stata sottoposta una planimetria con posizioni
+predefinite e richiesta di conferma in luogo e vece che di
+descrizione/indicazione - artt. 134 ss. CPP), quanto richiesto dalla difesa non
+sembra, a questo giudice, privo di rilevanza.
+Infatti, se è vero che il perito indica in 120 cm
+l'altezza minima per un tuffo di partenza dai bordi della vasca, secondo le
+disposizioni FNS (ma la FINA indica 5 cm in meno - AI 39 pag. 6 e 7- e lo
+stesso perito indica in 80-100 cm, a volte anche 60-70 cm, la profondità
+raggiungibile dal corpo in un tuffo di partenza - AI 39 pag. 3), egli precisa
+anche che secondo le indicazioni del DECS, in sede di insegnamento, il livello
+adeguato di profondità dell'acqua è determinato dall'insegnante (cfr. AI 39,
+pag. 7 - il significato della frase successiva secondo cui i tuffi possono aver
+luogo anche da altezze superiori ai 100 cm è meno chiara allo scrivente in
+quanto potrebbe riferirsi al punto di partenza e non alla profondità
+dell'acqua). I successivi riferimenti a manuali vari non sembrano dare risposte
+uniformi (idem, pag. 8).
+Sostanzialmente nello stesso senso il teste __________
+(AI 10) che segnala come trattandosi di piscina scolastica (non pubblica) non
+sottostà a "
+eventuali normative svizzere ed europee
+"; il teste
+afferma poi che viste le esigue profondità, dai bordi non ci si può tuffare,
+salvo (par di intuire, in quanto così come riprodotta a verbale la frase è
+priva di senso) con degli accorgimenti speciali presi dal maestro di nuoto.
+Inoltre, pur trattandosi di struttura scolastica
+sembrano assenti disposizioni specifiche circa le modalità d'uso consentite e,
+sembrerebbe, anche altri docenti non hanno sistematicamente vietato i tuffi (di
+partenza) dalla parte meno profonda, corrispondente alla corsia definita rossa
+(cfr. verbale R.P. 15 novembre 2003, pag. 4).
+Da ultimo, se si pon mente al fatto che la perizia
+medico-legale sembra ritenere perlomeno improbabile che un tuffo senza impatto
+del capo con il fondo della vasca (AI 39, pag. 3) possa causare delle lesioni
+come quelle riscontrate al giovane __________ (AI 63, pag. 2 paragrafi 3 e 4),
+anche la determinazione del tipo di tuffo effettivamente eseguito dalla parte
+civile potrebbe non essere irrilevante per la determinazione del nesso causale
+adeguato (che è questione di diritto di competenza delle autorità del merito,
+sulla quale ci si può meglio determinare avendo conoscenza di tutti gli
+elementi di fatto).
+In conclusione, quindi, il complemento richiesto, per
+rapporto agli obiettivi, non appare privo di pertinenza, quantomeno in base
+alla stringata motivazione negativa del magistrato inquirente.
+d)
+Prive di rilevanza i rilievi del Sostituto Procuratore
+pubblico in merito al fatto che alcuni dei testi citati non sono mai stati
+sentiti, quelli già sentiti hanno già fornito la loro versione ed a distanza di
+così tanto tempo non potrebbero essere più precisi (Decisione, punto AD 2) e
+che comunque non si tratta di prove determinanti da giustificare la garanzia
+del contraddittorio.
+Le prime due argomentazioni, oltre ad essere tra loro
+contraddittorie, dimenticano che l'accesso ai verbali dei testi risulta essere
+stato concesso (all'indagato) il 27 settembre 2004 e quello ai referti peritali
+il 22 marzo 2005; il tempo trascorso può certo pregiudicare il ricordo dei
+testi (ma tale possibilità non può essere motivo per negare una prova) ma ciò
+non può andare a discapito dell'accusato; inoltre, è evidente che le
+deposizioni contenute nell'AI 2 sono, tra loro, tutt'altro che lineari (o
+univoche) e che gli inquirenti le hanno raccolte senza poi procedere a
+richieste di puntualizzazione, magari fondate sul dire degli altri testi, come
+invece fatto con la planimetria nei verbali in AI 21. Quanto alla seconda
+argomentazione basta rilevare che le (altre) prove determinanti non sono
+indicate e che la perizia medica fa riferimento alle deposizioni degli allievi
+per asserire in tipo di tuffo effettuato (AI 63 pag. 2 secondo paragrafo).
+e)
+In virtù di tutto quanto sopra le prove testimoniali
+proposte dalla difesa possono essere ammesse. Ciò indipendentemente dal fatto
+che si tratti di nuove audizioni o "riaudizioni", il reclamante
+avendo indicato chiaramente per tutti i testi, il loro ruolo e l'oggetto della
+deposizione.
+Quanto alla preoccupazione avanzata dalla parte civile
+(che i testi vengano chiamati a riferire sui fatti e non a fornire valutazioni
+di carattere giuridico - Osservazioni 21 giugno 2005), è compito del magistrato
+inquirente in sede di esecuzione della prova provvedere affinché le domande
+vertano sui fatti e siano poste in modo corretto. Lo stesso magistrato
+inquirente dovrà provvedere, se del caso, all'applicazione delle disposizioni
+per i testi minorenni.
+5.
+a)
+Il reclamante ha pure chiesto il sopralluogo per la
+verifica delle altezze di acqua e piscina in quanto, a suo dire, quelle
+indicate dal perito e dalla polizia scientifica sarebbero sbagliate. Egli
+afferma di aver proceduto personalmente alle misurazioni riscontrando
+un'altezza (della piscina) minima di cm 115 al limite destro della corsia rossa
+(cfr. AI 68). In effetti, il perito ha rilevato una non corretta ricostruzione
+planimetrica (AI 39) dei luoghi ed asserisce di aver effettuato delle
+correzioni a mano su di una copia della planimetria.
+A fronte di tali osservazioni la polizia scientifica
+ha precisato che, per una questione di leggibilità, del dislivello tra acqua e
+bordo non si è tenuto conto nella planimetria ed ha corretto le indicazioni
+circa la profondità, aumentandole di 10 cm, asseritamente anche sulla base di
+un confronto tra fotografie effettuate dalla stessa polizia scientifica e
+quelle della gendarmeria di __________, posando uno strumento di misurazione
+sul fondo della piscina (AI 41); le fotografie in questione non risultano
+annesse agli atti.
+b)
+Di fatto agli atti vi è la documentazione di cui
+all'AI 4 che indica la profondità minima dell'acqua in cm 90, poi corretti in
+100 (se si è ben capito), lo schizzo corretto dal perito a mano sul quale
+figurano varie indicazioni in nero ed in blu che non permettono al lettore di
+ben comprendere la situazione di fatto descritta e le indicazioni dell'accusato
+che forniscono dati ancora diversi, anche se per pochi centimetri (cfr. AI 39
+punto B pag. 6). Non vi sono, di contro e stranamente, le fotografie effettuate
+dalla polizia con lo strumento di misurazione. La richiesta di avere agli atti
+dati chiari (e, se possibile certi) è, di principio, legittima (come
+riconosciuto dal magistrato inquirente al punto AD1 della decisione impugnata).
+c)
+Con la decisione impugnata, il magistrato inquirente
+ha accolto, nella sostanza (preciso accertamento della profondità dell'acqua e
+dell'altezza della piscina), la richiesta della difesa, ma ritiene di darvi
+seguito con modalità diverse da quelle proposte dal reclamante.
+Ritenuto che nel nostro sistema processuale vige il
+principio della libera scelta del mezzo di prova (art. 113 cpv. 2 CPP; N.
+Schmid, Strafprozessrecht, 2004, n. 600) e che quello proposto (se si
+preferisce: scelto) dal Sostituto Procuratore pubblico non appare, a priori,
+inadeguato per l'accertamento richiesto (ritenuto che il perito dovrà comunque
+motivare le sue "delucidazioni", rispettivamente le parti avranno
+possibilità/facoltà di far precisare il loro fondamento e, inoltre, avrà la
+facoltà di mettere in opera quanto necessario per fornire le delucidazioni
+richieste - artt. 146, 148 CPP), si può ritenere che, nel suo oggetto, il
+complemento è stato ammesso.
+Anche qui, sarà compito del magistrato fare in modo
+che le delucidazioni avvengano in modo completo e corretto. Al qui reclamante,
+ed alle altre parti, rimangono comunque aperte le facoltà di cui all'art. 196
+cpv. 4 e 5.
+6.
+a)
+In merito alla richiesta di complemento alla perizia
+medica, par di comprendere che lo scopo dei quesiti proposti è quello di
+determinare se le lesioni patite dal giovane __________ avrebbero potuto
+verificarsi anche a seguito dell'entrata in acqua mediante un tuffo d'entrata
+(tuffo di partenza o tuffo allungato - AI 39; Verbale __________ 22 marzo 2005
+pag. 2), rispettivamente quali tipo di lesione può provocare un simile tuffo se
+effettuato in modo scorretto.
+Il magistrato inquirente ha respinto la richiesta ritenendo
+superfluo ed inutile il primo quesito e generico, nonché non riconducibile alla
+fattispecie, il secondo.
+b)
+I periti affermano che le lesioni riportate sono
+compatibili con "
+un urto del capo sul fondo di una piscina di scarsa
+altezza
+", ritenuto che tale urto "
+sia ampiamente giustificato
+dalla posizione d'entrata del corpo in acqua
+" nell'ambito di un "
+tuffo
+cosiddetto alla magiara
+" (AI 63, pag. 2 secondo paragrafo). Aggiungono
+poi che l'ipotesi di una dinamica lesiva diversa è quella di una "
+iperflessione
+ovvero iperestensione del capo al momento dell'ingresso in acqua
+" che
+da un lato non sembra essere comunque "
+causa efficiente per poter
+determinare una lesione cervico midollare come quella riportata
+",
+dall'altro, e comunque, "
+trova scarsa rilevanza nel caso pratico
+essendosi il giovane tuffato dal bordo della piscina
+".
+c)
+In virtù di quanto riportato al considerando che
+precede, questo giudice ritiene corretta la decisione del magistrato
+inquirente. In effetti, i quesiti proposti sono generici e poco definiti per
+permettere una risposta con cognizione di causa e non tengono conto di quanto
+già dichiarato dai periti nel loro referto.
+Se per il concetto di tuffo d'entrata si può far
+riferimento a quelli di tuffo d'entrata o tuffo a testa allungato così come
+definiti nell'AI 39, quello di "
+esecuzione scorretta
+" è troppo
+vago ed indeterminato (quesito proposto n. 2). Quanto al primo quesito,
+ritenuto che dovrebbe trattarsi (per opposizione al quesito 2) dell'ipotesi di
+un tuffo corretto/perfetto (quindi con le parti del corpo rivolte verso il
+basso che possono raggiungere gli 80/100 cm - AI 39 pag. 3), la risposta
+(invero ipotetica, ma non più di quanto lo sia il quesito proposto) sembra già
+contenuta nel referto presentato laddove si riferisce circa l'ipotesi di "
+iperestensione
+ovvero iperestensione
+" al momento dell'ingresso in acqua.
+Altra questione, comunque sempre ipotetica, non
+esplicitamente desumibile dai quesiti proposti (e probabilmente neppure di
+competenza di periti medico-legali), è quella a sapere se mediante un tuffo di
+partenza in acqua di determinata profondità è ipotizzabile (e in che misura) un
+impatto del capo con il fondo della piscina.
+7.
+In conclusione, il reclamo è accolto per quanto
+concerne la richiesta di audizione e riaudizione dei testi indicati al punto 4
+del reclamo stesso, respinto per le altre richieste (sopralluogo e complementi
+alla perizia medico-legale).
+Tasse e spese seguono la parziale soccombenza, che
+giustifica anche la non assegnazione di ripetibili.
+P.Q.M.
+viste le norme applicabili, in particolare gli artt.
+125 CP, 1 ss., 57 ss., 113 ss., 140, 146,
+147, 196, 280 ss, 284
+e contrario
+CPP, 10 LMM, si
+decide
+1.
+Il reclamo è
+parzialmente accolto, ai sensi dei considerandi.
+§
+Di conseguenza è accolta la richiesta di
+audizione dei testi indicati al punto 4 del reclamo 14 giugno 2005 (e a pag. 2
+primo paragrafo dell'istanza 9 maggio 2005).
+2.
+La tassa di giustizia,
+fissata in FRS 500.-, e le spese FRS 100.-, sono a carico del reclamante nella
+misura di ½ e per il rimanente a carico dello Stato, non si assegnano
+ripetibili.
+3.
+Intimazione:
+giudice
+Edy Meli
