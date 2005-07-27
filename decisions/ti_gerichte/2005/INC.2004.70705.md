@@ -1,0 +1,174 @@
+---
+decision_id: "ti_gerichte_INC.2004.70705"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.70705"
+decided: "2005-07-27"
+published: "2005-07-27"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=66750&nX40_KEY=4711276&nTrefferzeile=1&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2004.70705
+
+## Regeste
+
+Proroga della carcerazione in vista dell'allontanamento
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 27.07.2005 INC.2004.70705
+Tessin Il Giudice dell'istruzione e dell'arresto 27.07.2005 INC.2004.70705
+Ticino Il Giudice dell'istruzione e dell'arresto 27.07.2005 INC.2004.70705
+
+Proroga della carcerazione in vista dell'allontanamento
+
+Incarto n.
+INC.2004.70705
+Lugano
+27 luglio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull'istanza/decisione del 19 luglio
+2005 della
+Sezione dei permessi e dell'immigrazione,
+Bellinzona
+relativa alla proroga della carcerazione in vista
+dell'allontanamento cui è astretto
+__________,
+in detenzione
+a __________
+(patr. di fiducia dall’avv__________
+visti gli inc. GIAR
+707.2004.1/2/3/4/5;
+ritenuto e considerato
+in fatto ed in
+diritto
+1.
+__________ è stato incarcerato il
+3 maggio 2005, a seguito di decisione della stessa data della SPI (artt. 13b e
+13f LDDS), allo scopo di garantire l'allontanamento (doc. 1 inc. GIAR
+707.2004.4). __________ è stato sentito il 4 maggio 2005 dal GIAR che ha
+confermato legalità ed adeguatezza della carcerazione ritenuto che
+l'interessato non ha lasciato il territorio svizzero entro il 7 marzo 2003,
+termine stabilito dall'UFR con decisione 18 aprile 2002 (ribadita con lettera
+27 febbraio 2003), continuando a commettere reati, nonché omettendo di
+intraprendere passi per preparare la partenza e procurarsi i documenti per il
+rimpatrio (doc. 3 inc. 707.2004.4).
+2.
+Con decisione/istanza del 19
+luglio 2005 (se si preferisce, decisione soggetta a conferma: art. 13b cpv. 2
+seconda frase), approssimandosi la scadenza dei tre mesi (art. 13b cpv. 2 prima
+frase LDDS), la SPI ha disposto/chiesto che la carcerazione ai fini di
+allontanamento sia prorogata di tre mesi, se confermata dal GIAR (doc. 1 inc.
+GIAR 707.2004.5; artt. 3 cpv. 2 lett. a., 5, 29 Legge cantonale d'applicazione
+LMC, e art. 1 del relativo regolamento). La SPI, rilevato che l'autorità ha
+compiuto tutti gli sforzi necessari a mettere in atto l'allontanamento ai sensi
+dell'art. 13b cpv. 3 LDDS, ha evidenziato la costante mancanza di
+collaborazione della persona oggetto della misura.
+3.
+Preso atto che __________,
+sentito a verbale da questo giudice in data 25 luglio 2005, in presenza
+dell’interprete
+,
+ha dichiarato di
+non aver voluto parlare con le Autorità d’ambasciata dell’Algeria non volendo
+rientrare nel proprio paese avendo avuto dei problemi con la Polizia locale, ma
+di volere lasciare la Svizzera autonomamente malgrado non sia in possesso di
+documenti validi, trasferendosi in Francia dove avrebbe degli amici che
+potrebbero aiutarlo a rientrare in Algeria senza che le Autorità algerine ne
+siano informate.
+4.
+La decisione di questo giudice
+che accertava legalità ed adeguatezza della carcerazione, si fondava su di una
+serie di riscontri che indicavano come lo straniero non avesse intenzione di
+lasciar la Svizzera, come egli avesse violato il suo obbligo di collaborazione
+e come la sua permanenza sul territorio abbia comportato condanne penali (doc.
+3, inc. GIAR 707.2004.4).
+5.
+La decisione sull’eventuale
+proroga della carcerazione in vista dell’esecuzione dell’allontanamento esige
+ovviamente un esame volto a determinare se i motivi che avevano condotto
+all’originaria decisione di incarcerazione mantengano ancora la propria
+validità.
+Inoltre, la concessione di una
+proroga della carcerazione esige la presenza di “
+particolari ostacoli [...] all’esecuzione
+dell’allontanamento o dell’espulsione
+” (art. 13b cpv. 2 LDDS). Sono
+considerati tali il rifiuto dello straniero di collaborare, per quanto
+ragionevolmente esigibile, ai preparativi per la sua partenza, la durata
+eccezionalmente lunga della procedura di ottenimento dei documenti di viaggio,
+ma anche ragioni tecniche a carattere provvisorio (v.
+Nicolas Wizard
+,
+Les renvois et leur exécution en droit des étrangers et en droit d’asile, tesi
+di dottorato dell’Università di Ginevra, Basilea/Francoforte sul Reno 1997,
+pto. 3.3.4.1.2 p. 294 s.).
+6.
+Nel caso in esame, è evidente che
+l'allontanamento non è ancora (stato) possibile per la mancata collaborazione
+della persona interessata. L'autorità, con scritti 13 e 24 maggio e 7 luglio
+2005, ha sollecitato l'Ufficio federale della migrazione, Divisione rimpatrio,
+al fine di agire nei confronti dell’Ambasciata del paese di origine di __________
+affinché la stessa si attivasse per rilasciare un lasciapassare per lo
+straniero in questione e che in data 16 giugno 2005 ha chiesto alla Polizia
+cantonale di interrogare nuovamente __________ per verificare ancora una volta
+la sua intenzione di collaborare con le Autorità per ottenere un documento di
+viaggio, con ciò ha fatto quanto in suo potere per permettere l'allontanamento.
+Al contrario è manifesto come sia il comportamento del resistente (peraltro
+dichiarato) ad impedire il corretto rientro: egli infatti ha ripetutamente
+dichiarato di non intendere fare nulla per ottenere un documento di viaggio o
+dei documenti di identità non volendo essere rimpatriato in Algeria e neppure
+di intendere incontrare le Autorità consolari del suo Paese d’origine e ciò sia
+davanti alla Polizia in data 18 luglio 2005 che davanti a questo giudice in
+data 25 luglio 2005, dimostrando quindi la sua mancanza di volontà a voler
+rientrare nel proprio paese d’origine e a voler collaborare con le autorità
+all’ottenimento dei documenti di viaggio (cfr. doc. F allegato al doc. 1 inc.
+707.2004.5);
+Con l'introduzione dell'art. 13f
+LDDS e la modifica dell'art. 13b cpv. 1 lett. c. il legislatore ha inteso
+sottolineare ulteriormente l'importanza della collaborazione dello straniero
+(ed un suo dovere in tal senso) dandole un peso notevole anche per quanto
+concerne la privazione della libertà: la mancata collaborazione diventa indizio
+di pericolo di latitanza (FF 2003, pag. 4993).
+7.
+In conclusione, i motivi per la
+carcerazione sono ancora dati. Decisiva diviene dunque una valutazione della
+protrazione richiesta nell’ottica della proporzionalità.
+Se si considerano i motivi primi
+della (originaria) incarcerazione, in particolare i reati (reiteratamente)
+commessi, il rifiuto di __________ di collaborare e la modifica dell'art. 13b
+cpv. 1 lett. c. LDDS, nonché il nuovo art. 13f (mediante il quale il
+legislatore ha inteso sottolineare ulteriormente l'importanza della
+collaborazione dello straniero - ed un suo dovere in tal senso - dandole un
+peso notevole anche per quanto concerne la privazione della libertà),
+l’ulteriore protrazione è da considerare giustificata e rispettosa del
+principio di proporzionalità.
+Per i quali motivi,
+visti i menzionati articoli di
+legge,
+decide:
+1.   La
+decisione/istanza 19 luglio 2005 di proroga della carcerazione in attesa di
+allontanamento cui è astretto __________ è accolta.
+§    Di conseguenza, la carcerazione ai fini di allontanamento cui è
+astretto __________ è prorogata di
+tre (3)
+mesi e verrà a scadere il
+giorno
+2 novembre 2005
+, compreso.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è data facoltà di ricorso al Tribunale
+cantonale amministrativo entro 15 (quindici) giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
