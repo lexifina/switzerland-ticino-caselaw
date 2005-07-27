@@ -1,0 +1,273 @@
+---
+decision_id: "ti_gerichte_INC.2005.8604"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.8604"
+decided: "2005-07-27"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=66755&nX40_KEY=4711275&nTrefferzeile=100&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2005.8604
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 27.07.2005 INC.2005.8604
+Tessin Il Giudice dell'istruzione e dell'arresto 27.07.2005 INC.2005.8604
+Ticino Il Giudice dell'istruzione e dell'arresto 27.07.2005 INC.2005.8604
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2005.8604
+Lugano
+27 luglio 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 22/25 luglio 2005 da
+__________
+patr. d'ufficio dalla __________
+e qui trasmessa con preavviso negativo del 26 luglio 2005
+dal
+Procuratore pubblico Marco Villa
+, Lugano;
+preso atto delle osservazioni
+della difesa (26 luglio 2005);
+visto l'inc. MP __________;
+ritenuto e considerato
+in fatto ed in
+diritto
+che:
+-
+__________ è stata arrestata il 23 febbraio 2005 con l'accusa di
+ripetuto furto, subordinatamente complicità in furto tentato e consumato, e
+meglio,
+"per avere, agendo in correità con __________, rispettivamente
+aiutando quest'ultimo quale complice sia agendo come palo che per
+l'occultamento della refurtiva, a Gordola, Tenero, Cadenazzo, ed in altre
+località non meglio precisate, perlomeno nel periodo 11.08.2004/23.02.2005,
+onde procacciarsi un indebito profitto al fine di appropriarsene, ripetutamente
+sottratto rispettivamente tentato di sottrarre cose mobili altrui da
+appartamenti privati"
+(doc. 1, inc. GIAR 86.2005.1);
+-
+l'arresto è stato confermato da questo giudice il giorno successivo,
+vista l'esistenza di gravi e concreti indizi di colpevolezza, pericolo di fuga
+e bisogni dell'istruzione (doc. 3, inc. GIAR cit.);
+-
+__________, dopo aver inizialmente negato ogni addebito (cfr. verbale
+GIAR 24.02.2005), ha successivamente ammesso la sua partecipazione a numerosi
+furti consumati e tentati in correità con __________, precisando che suo
+compito era quello di aiutare __________ andando a suonare i campanelli delle
+abitazioni per verificare se all'interno vi fosse qualcuno (cfr. verb. PP
+16.03.2005); l'inchiesta ha inoltre permesso di stabilire che i furti hanno
+avuto luogo perlomeno a far tempo dall'estate 2004 e hanno interessato anche
+altri Cantoni;
+-
+il 6 maggio 2005 il GIAR ha respinto una prima istanza di libertà
+provvisoria presentata dall'accusata, ritenuti presenti gravi indizi di
+colpevolezza, necessità istruttorie e pericolo di fuga (GIAR 6.5.2005, inc.
+86.2005.2);
+-
+in data 12 luglio 2005 il Procuratore pubblico ha proceduto al deposito
+degli atti con scadenza al 29 luglio 2005 - termine che avrebbe permesso di
+esperire eventuali complementi istruttori prima della scadenza (23 agosto 2005)
+del termine di cui all'art. 103 CPP -; il termine del deposito atti è stato poi
+prorogato dal Procuratore pubblico sino al 12 agosto 2005 su richiesta della
+difesa di __________ (AI 108A, 109 e 110) e ha comportato l'inoltro
+dell'istanza 26 luglio 2005 di proroga del carcere preventivo per il periodo di
+1 mese;
+-
+con l'istanza qui in discussione, __________, per il tramite del
+difensore d'ufficio, chiede di essere immediatamente posta in libertà
+provvisoria: l'istante - la quale non contesta l'esistenza di seri concreti
+indizi di colpevolezza a suo carico - sostiene che nella fattispecie non
+sarebbero più dati bisogni istruttori, rispettivamente pericolo di collusione
+ed inquinamento delle prove, e che al pericolo di fuga si potrebbe invece
+ovviare con la presentazione di una cauzione (quantificata nell'ordine di fr.
+15'000.--); infine, si evidenzia l'impegno di __________ a presentarsi ad ogni
+eventuale citazione e al pubblico dibattimento, rilevando nel contempo che la
+madre dell'accusata si trova in un precario stato di salute e necessita di
+assistenza continua, assistenza che non può essergli fornita dal figlio
+dell'accusata, in quanto lo stesso ha problemi psichici;
+-
+il Procuratore pubblico preavvisa negativamente la richiesta (26 luglio
+2005): ribadita l'esistenza di gravi indizi di colpevolezza a carico di __________,
+rileva che, se è ben vero che, per l'accusa, a seguito del deposito atti non
+sono più dati bisogni istruttori e pericolo di collusione, resta nondimeno la
+possibilità dell'insorgenza di siffatti bisogni e/o rischi a seguito di
+eventuali richieste di complementi istruttori; sicuramente dato concreto
+pericolo di fuga e non ovviabile con una cauzione di fr. 15'000.--, importo
+insufficiente tenuto conto del numero di furti, della loro ripetitività, dei
+differenti periodi in cui sono stati commessi e del danno occasionato; infine,
+il carcere preventivo sofferto e ancora da esperire sarebbe rispettoso del principio
+di proporzionalità;
+-
+con osservazioni 26/27 luglio 2005 la difesa si è sostanzialmente
+confermata nella primitiva istanza, rilevando nel contempo che l'importo
+offerto quale cauzione sarebbe proporzionato alle capacità economiche
+dell'accusata;
+-
+__________, accusata e detenuta, è certamente legittimata all'inoltro
+della presente istanza; il preavviso negativo, consegnato unitamente
+all'incarto a questo ufficio il 26 luglio 2005, è tempestivo;
+-
+i principi che reggono la materia, pur se noti alle parti, vengono qui
+riproposti:
+"L'art.
+95 CPP - corrispondente all’art. 33 scaturito dalla revisione parziale 23
+settembre 1992 / 1. gennaio 1993 - dopo evidenza al cpv. 1 del principio
+secondo cui l'accusato si trova di regola in libertà, consente al cpv. 2 arresto,
+perdurare e proroga del carcere preventivo a' sensi dell'art. 103 CPP, quando
+esistono a carico dello stesso accusato gravi e concreti indizi di colpabilità
+per un crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali - per quanto qui concerne - i bisogni
+dell’istruzione, con particolare riguardo al pericolo di collusione che, - sia
+detto qui a futura memoria - può continuare ad esistere sino al pubblico
+dibattimento (sentenza della I Corte di diritto pubblico del Tribunale federale
+del 23 marzo 2000 in re S.B., consid. 4a). Si aggiunge, sempre con riferimento
+al caso in esame, che l’elenco dei motivi di interesse pubblico nell’art. 95
+cpv. 2 CPP non è esaustivo (Messaggio aggiuntivo del 20 marzo 1991 concernente
+la revisione del CPP, ad art. 27, pag. 32, nota 3), tra altri possibili,
+essendovi quello della tutela dell’ordine pubblico (REP 1998 n. 105).
+L'eccezione
+della cautelare privazione della libertà personale ha così trovato
+codificazione in una chiara base legale (di diritto cantonale: DTF 114 Ia 283
+cons. 3), in corrispondenza ed a superamento di quanto già dettato dalla
+giurisprudenza della Camera dei ricorsi penali - nel solco di quella del
+Tribunale federale -, ritenuto implicito il rispetto della proporzionalità (REP
+1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381).
+I menzionati
+presupposti vanno approfonditi con maggior rigore nella loro valutazione,
+quanto più si è protratta la restrizione della libertà e quanto più si avvicina
+la conclusione delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche
+questo giudice, come già la Camera dei ricorsi penali, non restringe la sua
+cognizione all'arbitrio (REP 1980 pag. 128)";
+(per tutte:
+sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+-
+gravi indizi di colpevolezza a carico di __________ sono dati e presenti
+così come indicati da questo giudice nella decisione 6 maggio 2005:
+"3.1
+Basti qui
+rilevare che l'accusata, da ultimo nel corso del verbale PP 16 marzo 2005 ha
+ammesso di aver partecipato a più furti, commessi in correità con __________.
+Sono pertanto dati i presupposti oggettivi e soggettivi del reato a lei
+prospettato.";
+-
+seri e concreti indizi di colpevolezza emergono anche dalle
+dichiarazioni rese dall'accusata nel corso dei successivi verb. PP 17.5.2005 e
+14.6.2005 (AI 59 e 101), noti alla difesa e ai quali pertanto si rimanda;
+-
+per quanto concerne i bisogni istruttori ed il pericolo di collusione,
+si rinvia a quanto evidenziato dal Procuratore pubblico nel proprio preavviso e
+meglio
+"benché ovviamente non più dati, perlomeno per l'accusa, a
+seguito del deposito atti (…) resta nondimeno da riservare la possibilità di
+eventuali richieste di complemento, con quindi l'insorgenza di al momento non
+noti e nuovi bisogni istruttori, se e qualora prima del 12.08.2005 (…) dai tre
+difensori e/o dalle parti civili";
+-
+in concreto è pure dato un concreto pericolo di fuga, valgono in
+proposito le considerazioni già espresse nella decisione 6 maggio 2005:
+"3.3
+Il pericolo
+di fuga, per giustificare carcerazione preventiva, deve essere concreto e
+rivestire una certa probabilità: in altri termini lo si ammette quando
+l’accusato, se posto in libertà, si sottrarrebbe con una certa verosimiglianza
+al perseguimento penale ed alla (eventuale) esecuzione della pena. La gravità
+della pena presumibile non basta, da sola, a motivare la carcerazione; occorre
+valutare l’insieme delle circostanze, tra cui il carattere dell’accusato, la
+sua morale, i legami famigliari, il domicilio, la professione, la situazione
+economica e tutti quegli elementi che rendono la fuga non solo possibile ma
+probabile (DTF 19 gennaio 1999 in re G.S.; DTF 117 Ia 69; SJ 1980 186; SJ 1981
+135; N. Schmid, Strafprozessrecht, ZH 1997, no. 701).
+Ritenuto che
+a poco valgono, per quest'analisi, le semplici dichiarazioni d'intenti
+dell'accusato stesso (per tutte: sentenza GIAR 27 maggio 2002 in re P.) e che
+la concretezza del pericolo di fuga può essere accertata "Auch wenn keine
+konkrete Flüchtpläne u.ä. gefordet sind, …" (Schmid, ibidem).
+Nel caso in
+esame, non occorrono grandi disquisizioni per accertarne l'esistenza.
+L'accusata non ha infatti particolari legami con il territorio svizzero (né
+familiari, né professionali).
+Inoltre, il
+suo comportamento processuale, come evidenziato al consid. 3.2, indica un
+atteggiamento che non può certo essere definito trasparente, legittimo in capo
+ad un accusato, ma che non esenta da valutazione per la verifica del rischio di
+fuga.
+La richiesta
+di fissare una cauzione può essere oggetto di discussioni (posto che tutti gli
+elementi per una sua determinazione siano dati, ciò che qui non è il caso vista
+l'impossibilità di stabilire un importo secondo i criteri minimi riconosciuti -
+N. Schmid, Strafprozessrecht, ZH 1997, n. 719; Hauser/Schweri, op. cit., § 68
+n. 44; DTF 105 Ia 187) allorquando l'unico motivo a giustificazione del
+mantenimento della detenzione preventiva è il pericolo di fuga. In presenza di
+altri motivi a fondamento della carcerazione (nel caso specifico il pericolo di
+collusione) la cauzione non entra comunque in linea di conto. In ogni caso, il
+versamento di una cauzione di soli fr. 5'000.--, come proposto dalla difesa,
+appare comunque, di primo acchito, insufficiente, a garantire la presenza
+dell'accusata agli atti istruttori, rispettivamente al dibattimento.";
+-
+neppure la cauzione ora proposta di fr. 15'000.--, che peraltro verrebbe
+"verosimilmente"
+versata da amici e persone di fiducia (e
+quindi non è affatto certo che possa essere depositata), appare importo
+sufficiente a garantire la presenza dell'accusata al pubblico dibattimento, ciò
+in considerazione del numero di furti, della loro ripetitività, del periodo in
+cui sono stati commessi e del danno causato, e meglio, 41 furti (quasi tutti
+ammessi), commessi dal luglio 2004 al febbraio 2005 con refurtiva denunciata
+pari ad un controvalore di oltre fr. 330'000.--; irrilevanti in tale contesto
+le condizioni di salute della madre e del figlio dell'accusata, circostanze che
+peraltro non le hanno impedito di venire più volte in Svizzera (e rimanervi di
+media due o tre giorni) a commettere furti;
+-
+il perdurare del carcere preventivo non è, a tutt’oggi, lesivo del
+principio di proporzionalità, ritenuto che nei confronti dell’accusata vengono
+ipotizzati furti seriali commessi da più persone, ripetuti, in differenti
+periodi di tempo ed in varie località e che l'accusata verrà deferita ad una
+Corte delle Assise Correzionali, e che la carcerazione subita ed ancora
+prospettabile appare comunque inferiore alla pena che gli verrebbe inflitta in
+caso di condanna, in un procedimento peraltro condotto con sollecitudine
+(nonostante le oggettive difficoltà dello stesso; cfr. in proposito sentenza
+GIAR 6 maggio 2005, consid. 4) e nel rispetto del principio di proporzionalità,
+ricordato inoltre che l'istanza di proroga della carcerazione preventiva è
+derivata dalla richiesta della difesa di __________ di proroga del termine del
+deposito atti e che comunque il Procuratore pubblico ha evidenziato il proprio
+formale impegno a chiudere l'istruttoria prima del 23 agosto 2005, qualora
+nessuna delle parti postuli complementi istruttori (cfr. preavviso negativo p.
+3);
+-
+in virtù di quanto precede, l'istanza deve essere respinta;
+-
+il presente giudizio, in tema di libertà personale, è esente da spese e
+tassa di giustizia.
+P.Q.M.
+richiamati gli articoli 21, 25 e
+139 CP, 95 ss. 102, 103, 279 ss, 284 CPP,
+decide:
+1.
+L'istanza
+22/25 luglio 2005 di __________ è respinta.
+2.
+Non
+si percepiscono né tassa né spese giudiziarie.
+3.
+Contro
+la presente decisione è dato ricorso alla Camera dei ricorsi penali entro dieci
+giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Ursula Züblin
