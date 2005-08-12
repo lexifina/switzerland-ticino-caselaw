@@ -1,0 +1,172 @@
+---
+decision_id: "ti_gerichte_INC.2000.39202"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.39202"
+decided: "2005-08-12"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=66983&nX40_KEY=4711275&nTrefferzeile=5&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2000.39202
+
+## Regeste
+
+Sequestro e dissequestro
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 12.08.2005 INC.2000.39202
+Tessin Il Giudice dell'istruzione e dell'arresto 12.08.2005 INC.2000.39202
+Ticino Il Giudice dell'istruzione e dell'arresto 12.08.2005 INC.2000.39202
+
+Sequestro e dissequestro
+
+Incarto n.
+INC.2000.39202
+Lugano
+12 agosto 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull'istanza presentata l’8/15 luglio
+2005 da
+__________
+, __________
+(patr. dall’avv. __________)
+intesa ad ottenere - nel procedimento penale a carico
+dell’ex marito __________ e di __________ di cui all'ACC. __________ del 23
+ottobre 2003 - lo sblocco (dissequestro) del fondo di cui alla particella n. __________
+RFD di __________ di proprietà della comunione ereditaria composta da __________
+n. __________, __________, __________ e __________ n. __________;
+viste le osservazioni 15 luglio
+2005 del Procuratore pubblico che preavvisa favorevolmente l’istanza di dissequestro;
+vista la comunicazione 13 luglio
+2005 dell’__________ che non si oppone all’istanza e 12 luglio 2005 di __________
+che non presenta osservazioni mentre che il coaccusato e le ulteriori parti
+civili non hanno presentato osservazioni;
+letti ed esaminati gli atti messi
+a disposizione di questo giudice di cui all'inc. ACC __________;
+ritenuto e considerato,
+in fatto ed in
+diritto
+che:
+-
+nell'ambito del procedimento penale a carico di __________ per titolo di
+amministrazione infedele aggravata e appropriazione indebita aggravata (fatti
+avvenuti nel periodo ottobre 1998 - giugno 2000), il Procuratore pubblico ha
+tra l'altro disposto, il 19 giugno 2000, il sequestro, con iscrizione a
+registro fondiario, delle proprietà immobiliari facenti capo, tra gli altri a __________
+ed all’allora consorte e qui istante __________ n. __________ (AI 18). Con
+estratto del Registro Fondiario Definitivo del comune di __________ del 20
+giugno 2000 (AI 30), l’Ufficio registri di __________ comunicava al magistrato
+inquirente di avere annotato con DG __________ la restrizione della facoltà di
+disporre limitata all’interessenza di __________ del fondo numero __________
+RFD di __________ di proprietà della comunione ereditaria  composta da __________,
+__________ n. __________, __________ n. __________ e __________ n. __________;
+-
+il 23 ottobre 2003 l’allora Procuratore pubblico Emanuele Stauffer
+firmava il rinvio a giudizio di __________ e __________ davanti alla Corte
+delle Assise correzionali di Lugano (ACC __________);
+-
+con istanza di dissequestro 8/11 luglio 2005 __________ ha chiesto a
+questo giudice la cancellazione dell'iscrizione di blocco del fondo di cui alla
+particella n° __________ RFD di __________. L’istante avrebbe preso
+recentemente atto, nell’ambito di una trattativa bancaria per un cambiamento
+delle ipoteche gravanti il fondo, unitamente alle altre componenti la comunione
+ereditaria, del blocco a Registro fondiario ordinato dal magistrato inquirente
+nell’ambito del procedimento penale pendente contro __________, ormai ex marito
+dell’istante. __________ ribadisce di non essere stata oggetto del procedimento
+penale in corso contro __________ dal quale ha poi ottenuto il divorzio. Il
+blocco della particella n° __________ RFD di __________ (o meglio dell’interessenza
+dell’istante) non avrebbe mai avuto ragione di esistere e di conseguenza
+neppure di essere mantenuto;
+-
+con osservazioni 15 luglio 2005 il Procuratore pubblico attualmente
+incaricato del procedimento ha preavvisato favorevolmente l’istanza di dissequestro
+in discussione sottolineando che il precedente titolare dell’inchiesta nonché
+firmatario dell’atto d’accusa “non ha assunto alcuna informazione preliminare a
+carico dell’allora moglie dell’accusato __________, la quale non risulta avere
+avuto alcuna parte nelle malversazioni del marito”. Sempre a mente del
+Procuratore pubblico “neppure risulta che i proventi di reati di cui al punto
+n. 2.2. dell’atto d’accusa siano stati utilizzati per finanziare l’immobile”;
+-
+la parte civile __________ ha comunicato di non avere nulla in contrario
+a che venga revocato il blocco in questione mentre che le altre parti civili e
+il correo non hanno presentato osservazioni;
+-
+l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il
+sequestro di tutti gli oggetti che possono avere importanza per l’istruzione
+del processo, alternativamente o cumulativamente come mezzi di prova o in
+quanto passibili di confisca o devoluzione allo Stato. Il sequestro, per la sua
+qualità di provvedimento eminentemente cautelare, ha lo scopo di acquisire e
+conservare gli oggetti di cui sopra al seguito della procedura e quindi per le
+necessità dell’istruzione preliminare, per le decisioni del magistrato
+requirente e quelle del giudice del merito, come evidenziato nella duplice
+prospettiva - alternativa o cumulativa - della produzione e valutazione delle
+prove (sequestro probatorio) e delle decisioni di confisca, restituzione o
+devoluzione (sequestro confiscatorio) (v. decisione 8 maggio 1998, inc.
+GIAR 516.97.3, in: Rep. 131 [1998] nr. 117, consid.
+1a p.
+359);
+-
+in materia di sequestro, nel lasso di tempo che intercorre tra
+l’emanazione dell’atto di accusa e l’apertura del dibattimento, la CRP
+(30.7.2002 in re B, inc. 60.2002.00174) ha constatato un “vuoto legislativo” e
+l’ha colmato assegnando tale competenza al GIAR. Non v’è ragione perché quanto
+detto dalla CRP nella sentenza citata non valga anche in tema di dissequestro.
+Di conseguenza questo giudice ha riconosciuto la sua competenza per decidere
+(comunque e sempre in via incidentale) istanze di dissequestro presentate dopo
+l’emanazione dell’atto d’accusa e prima dell’apertura del dibattimento (un
+chiarimento tra le varie autorità coinvolte ha confermato questa conclusione;
+cfr. decisione 14 ottobre 2003, doc. 12, inc. GIAR 268.1997.2);
+-
+questo giudice è dunque competente ad esaminare l’istanza 8/11 luglio
+2005, trattandosi di istanza giunta dopo l’emanazione dell’atto d’accusa e
+prima dell’apertura del dibattimento;
+-
+benché l’ordine all’origine del blocco sia silente a tale proposito si
+può dedurre che la natura dello stesso sia stata, oltre che di natura
+probatoria, anche confiscatoria e/o risarcitoria (art. 59 cifra 2 CP); in
+concreto appare però evidente, sia da un esame dell’atto d’accusa 121/2003 che
+dell’incarto relativo, che la qui istante non è mai stata oggetto del
+procedimento penale in corso contro l’ex marito __________ e __________,
+procedimento sfociato nel rinvio a giudizio del 23 ottobre 2003, ed è pure
+accertato che non vi è connessione alcuna tra gli accusati, il provento dei
+reati loro imputati ed il fondo in questione: infatti la qui istante, in quanto
+facente parte della CE del fu __________, è diventata proprietaria comune del
+fondo di cui alla particella n° __________ RFD di __________ per successione in
+data 8 luglio 1987, diversi anni prima quindi dei fatti contestati penalmente
+all’ex marito nell’atto d’accusa 121/2003 nell’ambito del cui procedimento è
+stato ordinato il blocco del fondo di cui si chiede il dissequestro, e neppure
+vi è il sospetto che il provento dei reati contestati ai due accusati o parte
+di esso sia servito per finanziare a qualsiasi titolo la particella di cui si
+chiede ora lo sblocco;
+-
+alla luce di quanto sopra esposto l’istanza deve essere accolta e di
+conseguenza ordinato lo sblocco della particella n° __________ RFD di __________
+(di cui alla DG __________) – interessenza di __________ (ora __________)
+31.10.1952 – con la presente decisione, esente da tassa e spese, suscettibile
+di ricorso alla Camera dei ricorsi penali (art. 284 cpv. 1 lett. a CPP).
+Per questi motivi,
+visti i citati articoli di legge,
+decide:
+1.
+L’istanza
+è evasa ai sensi dei considerandi.
+2.
+Non
+si prelevano né tasse né spese di giustizia.
+3.
+Contro
+la presente decisione è dato ricorso alla Camera dei ricorsi penali entro 10 giorni
+dall’intimazione.
+4.
+Intimazione
+a (con copia delle osservazioni presentate dalle parti):
+giudice
+Claudia Solcà
