@@ -1,0 +1,655 @@
+---
+decision_id: "ti_gerichte_INC.2005.15505"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.15505"
+decided: "2005-09-02"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=67206&nX40_KEY=4711273&nTrefferzeile=84&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-281.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2005.15505
+
+## Regeste
+
+Proroga del carcere preventivo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 02.09.2005 INC.2005.15505
+Tessin Il Giudice dell'istruzione e dell'arresto 02.09.2005 INC.2005.15505
+Ticino Il Giudice dell'istruzione e dell'arresto 02.09.2005 INC.2005.15505
+
+Proroga del carcere preventivo
+
+Incarto n.
+INC.2005.15505
+Lugano
+2 settembre 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia
+Solcà
+sedente per statuire sull'istanza di proroga del carcere
+preventivo presentata il 29 agosto 2005 dal
+Procuratore pubblico Rosa Item,
+MP Lugano
+nei confronti di
+__________
+,
+(__________)
+accusato per
+titolo di incendio intenzionale, danneggiamento, infrazione alla LF sulle armi,
+lesioni colpose;
+viste le
+osservazioni 31/31 agosto 2005 presentate dalla difesa;
+visto
+l'incarto MP __________;
+in fatto:
+A.
+__________ è stato arrestato il
+20 marzo 2005 dalla Polizia cantonale su ordine d’arresto di stessa data della
+Procuratrice pubblica Rosa Item. Con la richiesta di conferma dell’arresto 20
+marzo 2005 il magistrato inquirente ha promosso a __________ l’accusa per
+titolo di incendio intenzionale, danneggiamento e infrazione alla Legge
+federale sulle armi (Inc. GIAR 155.2005.1, doc. 1), mentre che questo giudice
+ha confermato l’arresto dell’accusato, considerata la presenza di gravi e
+concreti indizi di colpevolezza, per i bisogni dell’istruzione e per il
+pericolo di recidiva (Inc. GIAR 256.2005.1, doc. 5).
+Già a verbale di conferma
+dell’arresto, così come già davanti alla Polizia giudiziaria, __________, ha
+ammesso di avere appiccato gli incendi alla __________ di __________, al
+negozio __________ ed alla porta d’entrata dell’appartamento di __________.
+B.
+Il 31 maggio 2005 __________, che
+non ha mai negato la presenza di gravi e concreti indizi di colpevolezza a suo
+carico, ha chiesto di essere posto in libertà provvisoria condizionatamente al
+suo immediato e spontaneo ricovero presso la CPC di Mendrisio al fine di
+sottoporsi alle cure ritenute necessarie dai medici potendo lasciare la clinica
+soltanto al momento e secondo le modalità indicate dal personale di cura e ciò
+sotto comminatoria dell’art. 109 cpv. 1 in caso avesse contravvenuto a tali
+disposizioni. A mente dell’istante non sarebbero più stati presenti i motivi di
+interesse pubblico per giustificare un suo mantenimento in carcere preventivo.
+Per quanto riguarda in
+particolare il pericolo di recidiva non sarebbe più stato presente con
+riferimento alle conclusioni del perito psichiatrico.
+Il magistrato inquirente, con preavviso
+negativo 2 giugno 2005 (Inc. GIAR 155.2005.3, doc. 2), ribadendo l’esistenza di
+gravi e concreti indizi di colpevolezza, ha sollevato la presenza di motivi di
+interesse pubblico quali i bisogni istruttori ed il pericolo di recidiva, dal
+momento che mettere __________ in libertà provvisoria con la condizione di
+risiedere presso la CPC sottoponendosi alle cure ritenute necessarie dai medici
+di tale struttura non avrebbe dato la benché minima garanzia atta a scongiurare
+una possibile sua fuga dalla clinica ed una sua recidiva per i reati a lui
+imputati visto che lo stesso perito psichiatrico aveva subordinato l’esclusione
+di un pericolo di recidiva non solo alla condizione di adeguate misure
+terapeutiche ma soprattutto al miglioramento dell’attuale (all’epoca del
+verbale di delucidazione del 30 maggio 2005) florida patologia dell’accusato.
+C.
+Con decisione 6 giugno 2005 (inc.
+GIAR 155.2005.3, doc. 4) questo giudice – dopo avere constatato la pur non
+contestata presenza di gravi e concreti indizi di colpevolezza e avere negato
+la presenza di pericolo di collusione in relazione agli avanzati bisogni
+istruttori – ha respinto l’istanza di libertà provvisoria constatata
+l’esistenza di un concreto pericolo di recidiva che peraltro emergeva
+inequivocabilmente dalla perizia psichiatrica del dottor __________ e dal
+verbale di delucidazione dello stesso del 2 giugno 2005. La decisione non è
+stata impugnata alla CRP. Questo giudice aveva però avuto modo di osservare a
+questo proposito quanto segue, invitando il magistrato inquirente ad una
+costante valutazione del pericolo di recidiva tramite il decorso della
+psicopatologia dell’accusato.
+“Appare comunque evidente che, in ossequio del
+principio della celerità del procedimento penale ed in base alla norma di cui
+all’art. 102 cpv. 1 CPP, il trasferimento presso la CPC con mantenimento dello
+stato detentivo non esime il magistrato inquirente da una valutazione costante
+del pericolo di recidiva ai fini del mantenimento o meno della carcerazione
+preventiva sofferta da __________. Il magistrato inquirente dovrà quindi
+procedere ad una nuova e sollecita valutazione del caso qualora i medici che lo
+hanno in cura dovessero ravvisare un miglioramento della patologia di __________
+tale da costituire una riduzione del pericolo per la sicurezza pubblica o
+comunicare al magistrato inquirente – che lo si ribadisce dovrà tenersi in
+contatto costante con i sanitari che stanno seguendo da pochi giorni l’accusato
+– che la sua patologia può essere tenuta sotto controllo ai fini della sicurezza
+pubblica dalla struttura ospedaliera tramite le terapie applicate”.
+Il 10 giugno 2005 __________ è
+stato trasferito dalla CPC al PCT dopo che ne aveva fatto richiesta,
+trasferimento avvallato dal personale medico della CPC (AI 69) e avvenuto senza
+obiezioni da parte del perito psichiatrico (AI 73).
+D.
+Il 14 giugno 2005 la difesa di __________
+ha formulato istanza di chiarimento, completazione e attualizzazione della
+perizia psichiatrica (AI 75) che si è visto respingere dalla PP con decisione 17
+giugno 2005 (Inc. GIAR 155.2005.4, doc. 2), decisione che è stata impugnata
+davanti a questo giudice con reclamo 27/28 giugno 2005 (Inc. GIAR 155.2005.4,
+doc. 1).
+Il reclamo è stato parzialmente
+accolto con decisione 25 agosto 2005 di questo giudice (Inc. GIAR 155.2005.4,
+doc. 7).
+Dopo avere osservato che:
+“È ben vero invece che nulla si sa, perché nulla vi è
+agli atti, della terapia prescritta a __________, e da lui seguita al PCT e
+durante il suo breve soggiorno alla CPC, e dell’esito della stessa – quindi se
+la patologia di __________ sia ancora florida, se sia migliorata o peggiorata
+(con riferimento alla sua pericolosità) –  come nulla che possa far concludere
+che con un ricovero presso la CPC la patologia di __________ possa, se non
+migliorare a breve, quantomeno essere tenuta sotto controllo per limitare il
+rischio di messa in pericolo della sicurezza pubblica. Anche la laconica
+lettera del dottor __________, capo servizio presso la CPC, (AI 69) nulla dice
+né a proposito della terapia seguita o iniziata da __________ in quella
+struttura né sullo stato attuale della sua patologia, né sulla necessità di
+rimanere presso una struttura medica per essere curato, né sulla possibilità di
+contenimento del pericolo di recidiva con la via terapeutica. Addirittura, nel
+certificato in questione, si legge che __________ non presenterebbe “disturbi
+psicopatologi tali da rendere indispensabile il proseguimento del ricovero
+nella nostra struttura” senza specificare se ciò sia dovuto a miglioramenti
+della patologia di __________, al fatto che il caposervizio ed i medici curanti
+presso la CPC ravvisano la possibilità di procedere con una terapia anche in
+carcere o altro. Purtroppo questi elementi non sono stati approfonditi dal
+magistrato inquirente, invero inspiegabilmente.
+La rilevanza e la pertinenza di questi elementi già era
+stata sottolineata da questo giudice in sede di decisione 6 giugno 2005 (Inc.
+GIAR 155.2003.3, doc. 4, punto 5, p. 7 sul pericolo di recidiva, e punto 6, p.
+8 sull’ossequio del principio di proporzionalità e celerità).”,
+questo giudice, accogliendo
+quindi parzialmente il reclamo, ha concluso che:
+“È chiaro che il semplice trasferimento dell’accusato
+dalla CPC al PCT non solleva il magistrato inquirente dall’obbligo di costante
+verifica medica del suo stato, ciò proprio ai fini di una continua valutazione
+del pericolo di recidiva che gli è stata riconosciuta e che, a mente del perito
+psichiatrico, discende direttamente dal grado di gravità della sua
+psicopatologia.
+Appare quindi necessario procedere con l’allestimento
+di un complemento/attualizzazione della perizia psichiatrica agli atti che
+consideri, tra le altre cose, i rapporti dei medici che hanno in cura __________
+almeno dal 30 maggio scorso che il magistrato inquirente è nuovamente invitato
+ad acquisire agli atti senza ulteriori ritardi, ciò al fine di stabilire: quale
+sia attualmente il grado di psicopatologia di __________ con riferimento alla
+sua pericolosità (e di conseguenza al pericolo di recidiva) e se le cure
+prestate nell’ambito di un eventuale ricovero presso la CPC, in regime di
+libertà provvisoria, possano tenere sotto controllo la patologia di __________
+(anche in caso in cui fosse ancora ritenuta florida) in modo da limitare il
+rischio di messa in pericolo della sicurezza pubblica e se sì con che grado
+ragionevolmente prevedibile.”
+E.
+In data 26 agosto 2005 il
+magistrato inquirente ha provveduto a richiedere al dottor __________ (del
+servizio psicosociale di Lugano) – che verosimilmente dovrebbe seguire
+l’accusato presso il PCT – (AI 104), e al dottor __________ (capo servizio
+presso la CPC di Mendrisio) (AI 105) un “rapporto medico sulle cure
+somministrate al detenuto __________ e sulla terapia seguita fino ad oggi”, ciò
+“prima di procedere alla richiesta al perito giudiziario del complemento
+peritale”.
+F.
+In data 29
+agosto 2005, approssimandosi il termine di scadenza della detenzione ex art.
+102 cpv. 2 CPP, il magistrato inquirente ha inoltrato richiesta per una proroga
+di 2 (due) mesi, allo scopo di potere evadere bisogni istruttori quali il
+complemento/attualizzazione di perizia ordinato da questo giudice (Istanza,
+pag. 2).
+A mente del
+magistrato inquirente, la proroga richiesta è rispettosa del principio della
+proporzionalità – considerata l’oggettiva gravità dei reati e la durata della
+carcerazione preventiva – e si fonda sull'esistenza di gravi indizi di reato e
+sul pericolo di recidiva, “riconosciuto dalla perizia psichiatrica e da questo
+stesso Giudice nella misura in cui si considera che l’accertamento ordinato verte
+proprio sull’attualizzazione o meno dello stesso”. (Istanza, pag. 2 in basso).
+G.
+La difesa, con
+osservazioni 30/31 agosto 2005, ribadendo l’assenza di un pericolo di recidiva,
+ritiene insostenibile la tesi che il carcere preventivo cui è astretto __________
+si giustifichi per i bisogni dell’istruzione “dal momento che la Procuratrice
+non fornisce un solo elemento che permetta di ritenere osservati oggi un
+pericolo di collusione qualora __________ fosse in libertà provvisoria”
+(osservazioni, p. 1) e conclude affermando che “nulla al riguardo è
+maggiormente illuminante dell’istanza stessa, che è redatta come una semplice
+domanda di arresto: non vi è una sola parola che spieghi o tenti almeno di
+giustificare la necessità di un prolungo di inchiesta, ovvero l’impossibilità
+di emanare un atto di accusa nel termine di 6 mesi” (osservazioni, p. 2).
+In
+diritto:
+1.
+L'istanza,
+presentata dall'autorità competente ed entro un termine ragionevole per
+rapporto alla scadenza di cui all'art. 102 cpv. 2 CPP, è ricevibile.
+2.
+I principi che
+reggono la materia, pur se noti al magistrato inquirente ed al difensore,
+vengono qui brevemente richiamati:
+"L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di interesse
+pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio aggiuntivo del 20
+marzo 1991 concernente la revisione del CPP, ad art. 27, pag. 32, nota 3), tra
+altri possibili, essendovi quello della tutela dell’ordine pubblico (REP 1998
+n. 105).
+L'eccezione della cautelare privazione
+della libertà personale ha così trovato codificazione in una chiara base legale
+(di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a
+superamento di quanto già dettato dalla giurisprudenza della Camera dei ricorsi
+penali - nel solco di quella del Tribunale federale -, ritenuto implicito il
+rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413;
+DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la
+Camera dei ricorsi penali,
+non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+3.
+Anche qualora non contestata,
+l’esistenza di gravi e concreti indizi di colpevolezza deve essere verificata
+d’ufficio nei limiti di competenza di questo giudice derivanti dalla sua
+funzione che è quella di esaminare l’esistenza dei presupposti per il
+mantenimento della misura restrittiva della libertà personale e non di valutare
+nella sostanza l’esistenza di un reato.
+Nel caso in esame, con
+riferimento alla decisione 6 giugno 2005 di questo giudice con la quale è stata
+respinta l’istanza di libertà provvisoria, non occorre dilungarsi più di tanto
+per confermare l’esistenza di gravi indizi di reato in capo all’accusato per i
+fatti che gli sono imputati, basti qui ricordare quanto scritto nella decisione
+citata (Inc. GIAR 155.2005.3, doc. 4, punto 3, p. 3):
+“Con verosimiglianza sufficiente, a questo stadio del
+procedimento ed in questa sede, si può concludere per la presenza di seri e di
+concreti indizi di colpevolezza a carico di __________ relativi ad un suo
+coinvolgimento nei fatti inquisiti.
+Non solo __________ ha ammesso di avere commesso gli
+incendi alla __________ al negozio __________ ed alla porta d’entrata
+dell’appartamento di __________, ma indizi oggettivi – quali le tracce del suo
+DNA che sono state rinvenute sul luogo del reato e il ritrovamento nella sua
+automobile delle bottiglie con le quali ha trasportato il liquidi infiammabile
+che ha utilizzato per appiccare gli incendi summenzionati – concorrono a
+sostenere la tesi che si sia reso colpevole di simili gesta.”
+4.
+Il magistrato inquirente ritiene
+vi siano ancora bisogni istruttori a giustificare il perdurare della
+carcerazione preventiva e meglio il complemento/attualizzazione della perizia
+psichiatrica, mentre che l’accusato nega la necessità di un prolungo
+dell’inchiesta o meglio l’impossibilità di emanare un atto di accusa nel
+termine di 6 mesi.
+In merito ai
+bisogni istruttori atti a giustificare la detenzione preventiva, vi é
+consolidata giurisprudenza (e dottrina):
+“In relazione ai bisogni istruttori, atti a
+giustificare la misura restrittiva della libertà personale, occorre ricordare
+che questi non s'identificano semplicemente con gli atti istruttori in quanto
+tali, o con gli accertamenti (ancora) da effettuare, bensì con il pericolo di
+collusione o d'inquinamento delle prove che (eventualmente) espone a rischio la
+corretta raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale
+suisse, ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697
+ss.; RDAT 1988 no. 24).
+In
+quest'ottica il fatto che l'inchiesta sia tuttora in corso non è, di per sé,
+decisivo, in quanto "
+Die Tatsache allein, dass noch nicht alle Beweise
+erhoben bzw. die Mitverdächtigen dingfest gemacht werden konnten oder dass der
+Angeschuldigte die Aussage verweigert, genügt nicht
+" (N. Schmid, op.
+cit., no. 701a).
+Occorre che l'indagato,
+se posto in libertà, possa pregiudicarne (o comprometterne) il corretto
+svolgimento e, conseguentemente, l'esito.
+E', inoltre, necessario che questa possibilità
+di pregiudicare la raccolta di elementi di prova si fondi su elementi concreti:
+"
+Jedoch genügt nach der Rechtsprechung des Bundesgerichtes die
+theoretische Möglichhkeit, dass der Angeschuldigte in Freheit kolludieren
+könnte, nicht, um die Fortsetzung der Haft oder        die Nichtgewährung von
+Urlauben unter diesem Titel zu rechtfertigen. Es mussen vielmehr konktrete
+Indizien für eine solche Gefahr sprechen
+."
+(DTF 117 Ia 257, cons. 4 c.).
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza
+d'interessi (tra i due) in relazione al contenuto della deposizione (SJ 1990 p.
+438; DTF 117 Ia 257; ZR 72 no. 77 p.19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66;
+Hauser/Schweri, Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13).
+(GIAR 23 settembre 2002 in re Y.)
+Nello stesso
+senso, la CRP:
+"I rischi di collusione e di inquinamento delle
+prove sono legati soprattutto ai bisogni dell'istruttoria. Da un lato si tratta
+generalmente di evitare o prevenire accordi tra l'imputato e i testimoni - già
+sentito o ancora da sentire - o i correi e complici non arrestati, messi in
+atto per nascondere al giudice la verità, dall'altro di impedire interventi
+fraudolenti del prevenuto in libertà sui mezzi di prova non ancora in possesso
+della giustizia, allo scopo di distruggerli o di alterarli a suo vantaggio. la
+possibilità di ostacolare in tal modo l'azione dell'autorità giudiziaria da
+parte del prevenuto deve essere valutata sulla base di elementi concreti, la
+realtà di questo rischio non potendo essere ammessa aprioristicamente ed in
+maniera astratta (DTF 117 Ia 257; Decisione TF 2.3.2000 in re A. e rif.; R.
+Hauser/E. Schweri, op. cit.
+§
+68 n. 13; G. Piquerez, op. cit. n. 2344 ss.)"
+(sentenza 16 settembre 2004 in re B., CRP 60.2004.297)
+In simile contesto
+giuridico, è evidente che il fatto che l'inchiesta possa ritenersi ormai
+conclusa con l’accusato, reo confesso, che ribadisce la propria versione dei
+fatti in merito all’accaduto e alle motivazioni che l’hanno spinto a commettere
+gli incendi del 13/14 marzo 2005 in danno della __________, del negozio __________
+e dell’abitazione __________ e neppure il PP menziona o sostanzia ulteriori
+atti istruttori ancora da compiere ad eccezione dell’attualizzazione/complemento
+della perizia psichiatrica, atto istruttorio che non permette, da solo,
+conclusione alcuna in merito alla esistenza di pericolo di collusione o
+inquinamento delle prove.
+Come già era
+stato ricordato al PP nella decisione 6 giugno 2005 di questo giudice con la
+quale era stata respinta l’istanza di libertà provvisoria presentata da __________,
+la sussistenza, a tale stadio, di un pericolo di collusione e/o di inquinamento
+delle prove, deve essere sostanziata con riferimento al caso specifico (atteggiamento
+processuale dell'accusato, ammissioni e non, accertamenti e prove non ancora
+consolidate, prove ancora proponibili, tipologia delle stesse e possibilità
+concreta di influenza da parte dell'accusato, ecc.):
+"
+E' compito del magistrato inquirente (anche nel rispetto dell'obbligo di
+motivazione e della garanzia del contraddittorio - si veda, inoltre, la nota
+alla sentenza 25 marzo 1998, in REP 1998 p. 329), se ne afferma l'esistenza,
+sostanziare la presenza di concreti elementi indicanti pericolo di collusione o
+inquinamento delle prove ("non spetta infatti a questo giudice
+approfondire o addirittura ipotizzare quanto sta dietro … scarna affermazione
+del preavviso negativo" - sentenza GIAR 4 aprile 2002 in re C.);
+"
+(GIAR
+23 settembre 2002 in re Y.)
+Nel caso in esame, il preavviso
+non tenta neppure di sostanziare concretezza del pericolo di collusione
+invocato, con riferimento alla necessità dell’attualizzazione/complemento della
+perizia psichiatrica. E d’altronde, come potrebbe? Le verifiche in corso consistono
+unicamente nella richiesta dei rapporti dei medici che hanno avuto in cura
+l’accusato presso il PCT e la CPC, il cui parere non può di certo venire
+influenzato dallo stato di carcerazione o di libertà dell’accusato, lo stesso
+dicasi per quella ancora da esperire, cioè l’attualizzazione/complemento di
+perizia, che non è neppure, invero sempre più inspiegabilmente, ancora stata
+intrapresa dal magistrato.
+Ci si chiede infatti, per quale
+motivo il magistrato inquirente non abbia già incaricato il perito psichiatrico
+di rispondere ai quesiti noti e non abbia quindi ancora provveduto a procedere
+con il deposito degli atti, deposito atti che, visto quanto fatto – il rapporto
+di Polizia è datato 23 giugno 2005, gli accertamenti tecnici della scientifica
+e la documentazione fotografica risalgono al 28 giugno 2005, l’ultimo verbale
+davanti al PP è del 29 luglio 2005 (teste __________) e l’ultimo atto
+istruttorio è il certificato medico 2 agosto 2005 del dottor __________ (AI 99)
+– ed in mancanza di altri atti istruttori da compiere, dal momento che nell’istanza
+di proroga non se ne sostanziavano di ulteriori, poteva essere ordinato almeno
+da qualche settimana. Il reclamo presentato in data 27/28 giugno 2005 non aveva
+infatti effetto sospensivo alcuno – ai sensi dell’art. 281 cpv. 2 CPP il
+reclamo davanti al Giudice dell’istruzione e dell’arresto non ha effetto
+sospensivo, salvo che la legge disponga altrimenti o salvo contraria decisione
+del Giudice – e di conseguenza non impediva al Procuratore pubblico di procedere
+in tal senso, in modo da potere prendere perlomeno atto e decidere, nel
+rispetto del principio di celerità, su eventuali richieste di complemento
+istruttorio che le parti avrebbero se del caso già potuto inoltrare.
+Giova a questo proposito ricordare
+che ai sensi dell’art. 196 cpv. 1 e 3 CPP quando il Procuratore pubblico
+ritiene raggiunto lo scopo dell’istruzione formale, ne dà avviso alle parti,
+informandole che possono prendere conoscenza degli atti e formulare entro un
+termine da lui fissato, non inferiore a quindici giorni e prorogabile, istanza
+di complemento d’inchiesta, indicando i mezzi di prova da assumere e contro le
+decisioni del Procuratore pubblico è dato reclamo al Giudice dell’istruzione e
+dell’arresto. Ai sensi dell’art. 197 CPP alla scadenza inutilizzata del termine
+di cui all’art. 196 cpv. 1, il Procuratore pubblico notifica alle parti la
+chiusura dell’istruzione formale.
+La dottrina ha
+avuto modo di precisare quanto segue.
+“Lorsque l’autorité d’instruction estime que son
+enquête est complète et qu’elle est d’avis d’avoir procédé à toutes les
+investigations nécessaires pour fare éclater la vérité, elle doit décider de la
+suite à donner à l’affaire: elle procède à la clôture de l’instruction
+(Zwischenverfahren). Si l’information a permis de réunir des charges
+suffisantes contre la personne poursuivie, l’autorité compétente va decider de
+son renvoi devant la juridiction de jugement. A l’inverse, si la procédure ne
+révèle pas de charges suffisantes à l’incontre de l’inculpé, que le fait imputé
+ne lui paraît pas punissable ou qu’elle constate l’existence d’une cause
+d’extinction de l’action pubblique, elle va prononcer un non-lieu. (G.
+Piquerez, procédure pénale suisse, Schulthess, Zurigo 2000, n° 2934 e 2935).
+Lorsque l’instruction est terminée, la plupart des législations prévoient que
+l’autorité d’instruction transmet le dossier au ministère public avec ses
+propositions sur la suite à donner à l’affaire. Seuls quelques codes envisagent
+d’informer les parties de la clôture imminente del’instruction, afin qu’elles
+se prononcent sur son résultat et son issue e qu’elles puissent requérir un
+complément d’enquête (Piquerez, op. cit., n° 2941).
+La décision de renvoi (Anklage, Uebeweisungbeschluss)
+est l’acte par lequel l’autorité judiciaire est d’avis qu’il existe contre
+l’inculpé des charges suffisantes et décide qu’il y a lieu de suivre la
+procédure et de faire comparaître l’inculpé devant une juridiction de jugement.
+La décision de renvoi définit l’objet des débats et produit les effets d’un acte
+d’accusation. Aussi doit-elle désigner le fait punissable imputé au prévenu de
+façon précise. Selon la maxime accusatoire, la personne poursuivie doit avoir
+une connaissance exacte des faits qui lui sont imputés, tant au moment de
+l’inculpation qu’ulterieurement au stade du renvoi en jugement, afin qu’elle
+connaisse le fondement de l’accusation portée contre elle et qu’elle puisse
+s’expliquier et préparer sa défense.
+(Piquerez, op. cit., n° 2965, 2968, 2970).”
+Nel caso in
+esame è pacifico che l’attualizzazione/complemento di perizia non può essere considerata
+come un atto istruttorio in senso stretto, necessario per ricostruire la verità
+su quanto successo ed imputato all’accusato. Il risultato di tale
+attualizzazione/complemento non può e non potrà – per sua stessa natura –
+apportare elementi a carico della colpevolezza dell’accusato per i fatti
+contestatigli, né a suo discarico, né potrà modificare l’oggetto dell’eventuale
+atto d’accusa.
+Mal si comprende
+quindi per quale motivo il magistrato inquirente non abbia già provveduto a
+contattare il perito ordinandogli il da farsi e perché n
+on possa/voglia,
+come peraltro sollecitato dalla stessa difesa, semplicemente procedere con il
+deposito degli atti, la chiusura e l’eventuale rinvio a giudizio nei termini
+dell’art. 102 cpv. 2 CPP (osservazioni 30 agosto 2005, p. 2).
+Il complemento/attualizzazione di
+perizia non verte infatti su elementi in connessione con i fatti imputati a __________,
+bensì è necessario per verificare lo stadio della sua psicopatologia (che è
+indipendente dai fatti contestatigli), il mantenimento o meno della sua
+carcerazione preventiva, rispettivamente quale elemento per il giudice del
+merito nella scelta della pena da infliggergli in caso di condanna.
+Nel caso in esame il magistrato
+non sostanzia quindi la necessità di compiere ulteriori atti istruttori – al di
+là del deposito degli atti e del decreto di chiusura – e concretezza di
+pericolo di collusione, peraltro neppure invocato e che non traspare neppure
+lontanamente dagli atti, tali da permettere di concedere la proroga del carcere
+preventivo richiesta.
+5.
+Per quanto riguarda il pericolo
+di recidiva, lo stesso deve essere concreto (DTF 105 Ia 31) e risultare da una
+valutazione dell’insieme delle circostanze, tra cui i precedenti dell’accusato,
+il suo comportamento durante l’istruttoria, la sua personalità, le modalità di
+commissione dei reati (Luvini, I presupposti materiali del carcere preventivo
+nel processo penale ticinese, Rep. 1989, p. 294; G. Piquerez, Manuel de
+procédure pénale suisse, Zürich 2001, n° 1479/1483).
+La presenza del pericolo di
+recidiva è stata ammessa da questo giudice già in occasione della decisione 6
+giugno 2005 con la quale è stata respinta l’istanza di libertà provvisoria
+dell’accusato a cui si fa integrale riferimento (Inc. GIAR 155.2005.3, doc. 4,
+punto 5, p. 6 e 7).
+“Se a prima vista potrebbe sembrare scongiurata la
+sussistenza del pericolo di recidiva, a questo stadio del procedimento e con il
+ricovero volontario dell’accusato presso la CPC, ciò non appare il caso ad una attenta
+e completa lettura delle conclusioni della perizia psichiatrica e del verbale
+di delucidazione del perito del 2 giugno 2005.
+Alla domanda n° 3 della perizia psichiatrica 23 maggio
+2005, quella volta ad indagare sul pericolo che il periziando metta in pericolo
+la sicurezza pubblica, il perito ha risposto che “
+la messa in grave
+pericolo della sicurezza pubblica da parte del peritando dipende dalla gravità
+della sua psicopatologia. Questa necessita di cure adeguate e prolungate in
+ambiente protetto. Con queste misure ritengo che la pericolosità del peritando
+possa essere sensibilmente ridimensionata e contenuta....Con adeguate cure
+farmacologiche e di sostengono psico- e socioterapeutico, ritengo che la sua
+pericolosità, ancorché non del tutto annullata, non sarà più tale da
+costituire un grave pericolo per la sicurezza pubblica”
+. (Inc. MP
+2005.1938, AI 55, Perizia psichiatrica 23 maggio 2005, p. 26, ad 3). E la
+valutazione sull’attuale stato patologico dell’accusato è stata ribadita dal
+perito proprio all’inizio della sua risposta alla domanda n° 6 del verbale di
+delucidazione orale della perizia del 30 maggio 2005. Richiesto di confermare
+il contenuto della valutazione quo al pericolo di recidiva espressa nella
+perizia, il dottor __________ ha risposto che “
+migliorata la sua attuale
+e florita patologia è praticamente escluso che __________ giunga ad agiti
+pericolosi come appiccare incendi come fatto il 13 marzo 2005.
+Ora a questo giudice non può sfuggire che il perito,
+dopo avere concluso in perizia che la messa in grave pericolo della sicurezza
+pubblica da parte di __________ dipende dalla gravità della sua psicopatologia,
+ha dichiarato a verbale 30 maggio 2005 che la sua patologia al momento attuale
+è florida (!). Ma florida la sua patologia lo era pure al momento dei fatti del
+13/14 marzo 2005 (Inc. MP 2005.1938, AI 55, Perizia psichiatrica 23 maggio
+2005, p. 26, ad 2.e): “
+Il peritando non era totalmente irresponsabile. I
+suoi disturbi, per quanto gravi, non l’hanno infatti dominato completamente e, pur
+nella florida psicolatologia che presentava al momento dei fatti, egli è
+stato in grado di mantenere l’orientamento spazio-temporale e situativo, di
+pianificare l’azione andando a procurarsi la benzina, di muoversi senza farsi
+notare da un posto all’altro, di mantenere il segreto, non rivelando a nessuno
+le sue intenzioni prima dei fatti e quanto commesso dopo averli commessi
+).
+È ben vero che a mente del perito il  trasferimento di __________
+alla CPC “
+è finalizzato a togliere il peritando dal suo ruolo delirante di
+perseguitato per inserirlo in quello, più adeguato, di paziente psichiatrico
+”
+e che il mantenimento dello stato detentivo nella struttura psichiatrica,
+attraverso un piantonamento, potrebbe essere di ostacolo alla terapia (verbale
+30 maggio 2005 del perito psichiatrico, p. 2, risposta alla domanda n° 3 e p, 3
+risposta alla domanda °7), come è vero che sempre il perito intravede una
+diminuzione del pericolo di recidiva soltanto in futuro non escludendolo
+espressamente per quanto riguarda il presente. `V’è poi da dire che nulla si sa
+della terapia seguita da __________ presso il PCT prima del suo trasferimento
+alla CPC se non per la ricetta medica del dottor __________ del 20 marzo 2005
+(Inc. MP 2005.1938, allegato all’AI 5). Né infatti la perizia psichiatrica, né
+il verbale del dottor __________ che avrebbe seguito __________ anche in
+carcere (Inc. MP 2005.1938, AI 34, lettera avv. __________ al Procuratore
+pubblico) menzionano il tipo di terapia seguito dall'accusato dal momento del
+suo arresto al trasferimento presso la CPC. Non si conosce ad esempio se la
+terapia farmacologica in corso prima dell’arresto su prescrizione del dottor __________
+sia continuata con gli stessi medicamenti e la stessa posologia o sia stata
+modificata e se sì che risultati siano stati ottenuti, rispettivamente perché
+non vi sarebbe stato miglioramento al di là dell’elemento “di disturbo”
+terapeutico del mantenimento della carcerazione preventiva.
+Non vi sono neppure agli atti, e l’istante non ne
+fornisce con l’istanza, elementi che possano far concludere che con il ricovero
+presso la CPC la patologia di __________, attualmente florida, possa se non
+migliorare a breve quantomeno essere tenuta sotto controllo per limitare il
+rischio di messa in pericolo della sicurezza pubblica. Una risposta a questa
+domanda potrà verosimilmente essere fornita dai medici che hanno attualmente in
+cura l’accusato presso la CPC.
+In queste circostanze e visto quanto detto sopra è
+impossibile per questo giudice discostarsi dalle conclusioni del perito
+psichiatrico e negare l’esistenza allo stadio attuale di un serio pericolo di
+recidiva e di messa in pericolo della sicurezza pubblica che permetterebbe di
+concedere a __________ la libertà provvisoria”
+Non vi sono agli atti elementi
+che permettano ora a questo giudice di compiere una valutazione contraria
+negando l’esistenza di tale pericolo, essendo passati tre mesi dal verbale di
+delucidazione del perito psichiatrico e non avendo il magistrato inquirente,
+malgrado il chiaro invito espresso nella decisione 6 giugno 2005 con la quale è
+stata respinta l’istanza di libertà provvisoria, provveduto a raccogliere gli
+elementi per la costante verifica di tale motivo di interesse pubblico. La
+difesa peraltro non è riuscita a portare elementi utili a tale scopo. In queste
+circostanze è impossibile per questo giudice scostarsi dalle conclusioni del
+perito psichiatrico che devono essere ritenute ancora valide e negare
+l’esistenza di un serio pericolo di recidiva e di messa in pericolo della sicurezza
+pubblica.
+6.
+Ritenuto tuttora presente il
+pericolo di recidiva, solo palese violazione del principio di proporzionalità o
+di celerità può essere d’impedimento alla concessione di una proroga.
+Nel caso in esame la
+proporzionalità della carcerazione sin qui sofferta, alla luce della gravità
+delle accuse, della presenza di concreti indizi di colpevolezza, della messa in
+pericolo della sicurezza pubblica e con la sola necessità di procedere al
+deposito degli atti e alla chiusura, con la successiva emanazione del rinvio a
+giudizio, è sicuramente data.
+Pure va ammessa nella sua
+eccezione più generale di rapporto tra la durata della carcerazione preventiva
+ed il rischio di pena se considerate le comminatorie di pena per i singoli
+reati imputati a __________.
+Per quanto riguarda il rispetto
+del principio di celerità, sebbene sia ancora dato, non si può non osservare,
+per tutto quanto detto nei punti precedenti, come tale rispetto sia ormai al
+limite.
+L’accusato è infatti stato
+arrestato il 20 marzo 2005 e ad oggi è in detenzione preventiva da 5 mesi e 10
+giorni. In questo lasso di tempo l’inchiesta è praticamente stata conclusa
+anche se il magistrato inquirente non ha saputo o voluto spiegare per quale
+motivo abbia atteso sino al 26 agosto 2005 per avviare gli accertamenti medici
+sul decorso della psicopatologia di __________ quando questo giudice aveva a
+chiare lettere ribadito, nella sua decisione 6 giugno 2005 (inc. GIAR
+155.2005.3, doc. 4, p. 8, punto 6), che:
+“I reati imputati a __________ sono di sicura gravità
+(a prescindere dal fatto che si tratta di crimini) e in caso di condanna, anche
+considerando la scemata responsabilità riconosciuta dal perito psichiatrico, il
+rischio di pena è certamente superiore alla detenzione preventiva sin qui
+sofferta e a quella presumibilmente da soffrire fino ad una prossima
+sollecita valutazione medica sullo stato dell’accusato relativamente al
+pericolo di recidiva, in pieno rispetto del principio della
+proporzionalità.” (sottolineatura del redattore).
+Visto quanto detto sopra non si
+può che concludere che ulteriori e inspiegabili ritardi da parte del
+Procuratore pubblico non permetterebbero più una tale valutazione di rispetto
+del principio di proporzionalità e soprattutto di celerità con le conseguenze
+che si possono ben immaginare.
+Dovesse il Procuratore pubblico
+decidere per un sollecito deposito degli atti il termine di 6 mesi di cui
+all’art. 102 cpv. 2 CPP sarebbe appena sufficiente per tale atto e non gli
+permetterebbe di determinarsi su eventuali inchieste di complemento d’inchiesta
+– che da una lettura superficiale delle osservazioni 30 agosto 2005 della
+difesa non sembrano comunque essere nelle intenzioni dell’accusato – di
+conseguenza una proroga del carcere preventivo di 10 giorni appare più che
+sufficiente e ancora rispettosa dei principi di proporzionalità e di celerità (considerata
+la sussistenza del pericolo di recidiva) per permettere al Procuratore pubblico
+di vagliare eventuali complementi istruttori proposti dalle parti e per
+decidersi sul da farsi. Fermo restando che in caso di mancanza di complementi
+istruttori richiesti dalle parti, o in presenza di rinuncia al termine per il
+deposito degli atti, il magistrato inquirente è richiamato a procedere
+indilatamente con gli incombenti che la procedura gli impone.
+7.
+In conclusione sufficienti
+presupposti di legge, come anche esplicitati dalla prassi e dalla
+giurisprudenza, sono presenti nella situazione personale e processuale di __________
+a legittimare e giustificare una proroga del carcere preventivo di 10 giorni
+con la presente decisione, esente da tassa e spese giudiziarie (art. 39 let. f
+TG e contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali
+del Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza è parzialmente accolta.
+§   Di
+conseguenza il carcere preventivo cui è astretto __________ è prorogato di 10     (dieci)
+giorni e verrà a scadere il
+30 settembre 2005
+(
+compreso
+).
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
