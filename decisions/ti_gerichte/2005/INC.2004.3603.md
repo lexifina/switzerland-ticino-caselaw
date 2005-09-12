@@ -1,0 +1,135 @@
+---
+decision_id: "ti_gerichte_INC.2004.3603"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.3603"
+decided: "2005-09-12"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=67336&nX40_KEY=4711273&nTrefferzeile=18&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2004.3603
+
+## Regeste
+
+Sequestro e dissequestro
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 12.09.2005 INC.2004.3603
+Tessin Il Giudice dell'istruzione e dell'arresto 12.09.2005 INC.2004.3603
+Ticino Il Giudice dell'istruzione e dell'arresto 12.09.2005 INC.2004.3603
+
+Sequestro e dissequestro
+
+Incarto n.
+INC.2004.3603
+Lugano
+12 settembre 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull'istanza di dissequestro
+presentata il 25 agosto 2005 (qui trasmessa per competenza con lettera 5/6
+settembre 2005 dal TPC) da
+__________
+intesa ad ottenere -
+nell'ambito del procedimento penale contro l'istante per titolo di infrazione
+aggravata, infrazione e contravvenzione alla LStup di cui all'ACC __________
+- il dissequestro del conto n. __________ presso la Banca __________ di __________
+nella titolarità di __________;
+viste le osservazioni 8/9
+settembre 2005 del magistrato inquirente;
+letti ed esaminati gli atti
+dell'inc. TPC __________ (ACC __________);
+ritenuto e considerato,
+in fatto e in
+diritto:
+che:
+-
+nell’ambito del procedimento a carico di __________, per titolo di
+infrazione aggravata, infrazione e contravvenzione alla legge federale sugli
+stupefacenti, il Procuratore pubblico ha ordinato il sequestro degli averi
+depositati (fr. 23'291.45) sul conto n. __________ presso la Banca __________
+di __________ nella titolarità di __________, società (ora sciolta) facente
+capo all'accusato che gestiva il commercio di canapa; l'accusato ha dichiarato
+di aver utilizzato il suddetto conto per versarvi il provento del suddetto
+commercio (cfr. verb. PP 25.3.2004 AI 34);
+-
+nel corso dell’inchiesta, il Procuratore pubblico ha dissequestrato a
+favore dell'accusato gli averi depositati sul conto di risparmio n. __________
+(__________) presso la __________ di __________, e meglio l'importo di circa fr.
+20'600.--, per far fronte alle spese fisse mensili (cfr. istanze 24.09.2003 e
+25.03.2005 e decisione dissequestro 31.03.2004, AI 21, 34 e 36), nonché di vari
+oggetti (PC, torre computer, telefono cellulare, cfr. AI 22 e 26);
+-
+con istanza 25 agosto/6 settembre 2005, __________ chiede il
+dissequestro del conto n. __________ presso la Banca __________ di __________,
+sostenendo che nel corso del corrente anno la sua situazione economica si è
+aggravata e non gli permette di far fronte alle spese fisse mensili (cassa
+malati, alimenti moglie, AVS);
+-
+con osservazioni 8 settembre 2005, il Procuratore pubblico si è
+pronunciato per la reiezione dell'istanza, ritenuto che quanto depositato sul
+conto n. __________ presso la Banca __________ di __________ è provento di
+reato; ha pure precisato di aver già, con decisione 31 marzo 2004,
+dissequestrato a favore dell'accusato il conto presso la __________;
+-
+l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il
+sequestro di tutti gli oggetti che possono avere importanza per l’istruzione
+del processo, alternativamente o cumulativamente come mezzi di prova o in
+quanto passibili di confisca o devoluzione allo Stato. Il sequestro, per la sua
+qualità di provvedimento eminentemente cautelare, ha lo scopo di acquisire e
+conservare gli oggetti di cui sopra al seguito della procedura e quindi per le
+necessità dell’istruzione preliminare, per le decisioni del magistrato
+requirente e quelle del giudice del merito, come evidenziato nella duplice
+prospettiva - alternativa o cumulativa - della produzione e valutazione delle
+prove (sequestro probatorio) e delle decisioni di confisca, restituzione o
+devoluzione (sequestro confiscatorio) (v. decisione 8 maggio 1998, inc.
+GIAR 516.97.3, in: Rep. 131 [1998] nr. 117, consid.
+1a p.
+359);
+-
+in materia di sequestro, nel lasso di tempo che intercorre tra
+l’emanazione dell’atto di accusa e l’apertura del dibattimento, la CRP (30.7.2002
+in re B, inc. 60.2002.00174) ha constatato un “vuoto legislativo” e l’ha
+colmato assegnando tale competenza al GIAR. Non v’è ragione perché quanto detto
+dalla CRP nella sentenza citata non valga anche in tema di dissequestro. Di
+conseguenza questo giudice ha riconosciuto la sua competenza per decidere (comunque
+e sempre in via incidentale) istanze di dissequestro presentate dopo
+l’emanazione dell’atto d’accusa e prima dell’apertura del dibattimento (un
+chiarimento tra le varie autorità coinvolte ha confermato questa conclusione; cfr.
+decisione 14 ottobre 2003, doc. 12, inc. GIAR 268.1997.2);
+-
+questo giudice è dunque competente ad esaminare l’istanza 25 agosto/6
+settembre 2005, trattandosi di istanza giunta dopo l’emanazione dell’atto
+d’accusa e prima dell'apertura del dibattimento (cfr. decisione 13.11.2003,
+doc. 3, inc. GIAR 551.2003.3);
+-
+gli averi sequestrati, per esplicita ammissione dell’accusato (cfr. verb.
+PP 25.03.2004, AI 34), sono provento di reato; entra dunque in considerazione
+il sequestro confiscatorio;
+-
+non vi è dunque alcun valido motivo perché questo giudice proceda ad un
+dissequestro, anche solo parziale, di quanto ancora sotto sequestro, dovendo
+essere salvaguardate le facoltà e le competenze rispettivamente del magistrato
+requirente e del giudice del merito.
+P.Q.M.
+viste le norme applicabili, in particolare quelle citate,
+decide:
+1.
+L’istanza è respinta.
+2.
+Non si prelevano né tassa né spese di giustizia.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione a:
+giudice
+Ursula Züblin
