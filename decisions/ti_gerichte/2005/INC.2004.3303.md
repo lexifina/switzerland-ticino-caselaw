@@ -1,0 +1,156 @@
+---
+decision_id: "ti_gerichte_INC.2004.3303"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.3303"
+decided: "2005-09-20"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=67441&nX40_KEY=4711272&nTrefferzeile=66&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.2004.3303
+
+## Regeste
+
+Ispezione atti
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 20.09.2005 INC.2004.3303
+Tessin Il Giudice dell'istruzione e dell'arresto 20.09.2005 INC.2004.3303
+Ticino Il Giudice dell'istruzione e dell'arresto 20.09.2005 INC.2004.3303
+
+Ispezione atti
+
+Incarto n.
+INC.2004.3303
+Lugano
+20 settembre 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sul reclamo presentato il 19/20
+settembre 2005 da
+__________
+contro
+la decisione 12 settembre 2005 del procuratore pubblico Maria
+Galliani che rifiuta una proroga del deposito degli atti di cui all'inc. MP __________;
+posto che per l'emanazione della
+presente decisione (come meglio precisato nei considerandi) non è necessario
+assegnare al magistrato inquirente un termine per presentare osservazioni;
+visto, per quanto necessario,
+l'inc. MP __________;
+considerato,
+in fatto ed in
+diritto
+che:
+-
+in data 12 gennaio 2004 il Procuratore pubblico, preso atto delle
+dichiarazioni da lui rese nel corso del verbale di polizia 25 gennaio 1999, ha
+promosso l'accusa nei confronti di __________ per titolo di riciclaggio di
+denaro,
+"per avere, in correità con __________, a __________ e __________,
+nel periodo 16 novembre / 27 novembre 1998, compiuto atti suscettibili di
+vanificare l’accertamento dell’origine, il ritrovamento e la confisca di valori
+patrimoniali per almeno complessivi ca. CHF 153'690.-, che sapeva o doveva
+presumere dalle circostanze, provenire da un crimine ed in particolare da
+traffici internazionali di stupefacenti (in caso cocaina), ricevendo in
+compenso da __________ la somma di almeno fr. 1'029,90 (fr. 900.- in contanti e
+fr. 129,90 quale differenza sulle operazioni di cambio);
+-
+con decisione 26 gennaio 2004 questo giudice, viste le istanze 21
+gennaio 2004 della __________ e 23 gennaio 2004 del magistrato inquirente, ha
+nominato a __________ un difensore d'ufficio (cfr. inc. GIAR 33.2004.3 doc. 1,
+2 e 3);
+-
+in data 31 agosto 2005 il magistrato inquirente ha proceduto al
+deposito degli atti (ex art. 196 cpv. 4 CPP) fissando il temine al 19 settembre
+2005 (AI 10);
+-
+con scritto 9 settembre 2005 (anticipato via fax) la difesa ha
+chiesto una proroga di 15 giorni del suddetto termine,
+"in quanto sono
+oberata di lavoro (sono appena rientrata dalle vacanze)"
+; in pari data
+il Ministero pubblico ha comunicato telefonicamente al difensore che una
+proroga non sarebbe stata concessa approsimandosi il termine di prescrizione (cfr.
+doc. 2 allegato al reclamo);
+-
+con scritto 12 settembre 2005, il Procuratore pubblico ha
+respinto la richiesta di proroga (in considerazione della prossimità dei
+termini di prescrizione), rilevando nel contempo che, trattandosi di incarto
+poco voluminoso,
+"la mia segretaria è a disposizione per eventualmente
+fotocopiare gli atti istruttori di cui Lei dovesse necessitare"
+;
+-
+in data 16 settembre 2004 la difesa ha preso visione dell'incarto
+e si è fatta rilasciare fotocopie di alcuni atti istruttori;
+-
+con reclamo 19 settembre 2005, oggetto della presente, la difesa
+ribadisce la propria richiesta di proroga, evidenziando che il rifiuto sarebbe
+lesivo dei diritti della difesa, tenuto conto dell'art. 196 cpv. 1 CPP, del
+fatto che la difesa non ha avuto modo di partecipare all'istruttoria essendo la
+nomina intervenuta successivamente, nonché della particolare complessità
+dell'incarto; evidenzia inoltre di avere inoltrato in pari data richiesta di
+complementi istruttori e chiede che al gravame venga concesso l'effetto
+sospensivo;
+-
+__________, accusato e destinatario della decisione impugnata è
+certamente legittimato al reclamo;
+-
+giusta l'art. 196 CPP, il termine per il deposito degli atti non
+deve essere inferiore ai quindici giorni; il termine è prorogabile e il codice
+di rito non indica i motivi particolari che giustificano una proroga (o un
+termine più lungo), quindi lascia una certa libertà al magistrato inquirente;
+questo giudice ritiene, pertanto, di dover intervenire unicamente laddove si
+verifica un abuso di diritto manifesto, una violazione della buona fede e/o una
+limitazione di fatto dei diritti delle parti;
+-
+nel caso in esame, non emerge dagli atti che la decisione
+impugnata configuri una delle caratteristiche di cui al considerando che
+precede;
+-
+infatti, in data 16 settembre 2005 il difensore, peraltro
+nominato sin dal gennaio 2004, ha visionato gli atti ed il 19 settembre 2005 ha
+presentato (oltre al presente gravame) istanza di complementi istruttori,
+l'incarto non appare del resto né voluminoso né particolarmente complesso ed
+inoltre,
+"il sovraccarico di lavoro arretrato, causa assenza per
+vacanze"
+non costituisce certo un motivo atto a giustificare una
+proroga del termine, tanto più in prossimità della prescrizione;
+-
+tenuto conto di quanto sopra, soprattutto del
+fatto che l'accesso all'incarto è comunque avvenuto (il 16 settembre 2005) con
+contestuale consegna delle fotocopie richieste, la decisione del magistrato
+inquirente non lede il diritto dell'accusato di fruire delle facilità
+necessarie per un corretto esercizio del diritto di difesa (cfr. Piquerez, op. cit.,
+n. 1249 ss);
+-
+in conclusione, il reclamo deve essere respinto
+con la presente decisione, definitiva a livello cantonale, rendendo così priva
+di oggetto la richiesta di effetto sospensivo; tasse e spese seguono la soccombenza.
+P.Q.M.
+viste le norme applicabili citate, in particolare gli artt.196, 280
+e 284
+e contrario
+CPP,
+decide
+1.
+Il reclamo è respinto.
+2.
+La tassa di giustizia di FRS 200.- e le
+spese di FRS 30.- sono a carico del reclamante.
+3.
+La presente decisione è definitiva (a livello
+cantonale).
+4.
+Intimazione:
+giudice
+Ursula Züblin
