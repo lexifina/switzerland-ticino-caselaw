@@ -1,0 +1,381 @@
+---
+decision_id: "ti_gerichte_INC.2005.47603"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.47603"
+decided: "2005-09-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=67537&nX40_KEY=4711272&nTrefferzeile=22&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-007.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-060.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md"]
+---
+
+# TI Gerichte INC.2005.47603
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.09.2005 INC.2005.47603
+Tessin Il Giudice dell'istruzione e dell'arresto 23.09.2005 INC.2005.47603
+Ticino Il Giudice dell'istruzione e dell'arresto 23.09.2005 INC.2005.47603
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2005.47603
+Lugano
+23 settembre 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire
+sull'istanza di libertà provvisoria presentata il 13/14 settembre 2005 da
+__________
+e qui trasmessa con
+preavviso negativo da
+Procuratore pubblico
+Mario Branda,
+Bellinzona
+viste le osservazioni della difesa del 22 settembre
+2005;
+visto l'inc. MP __________;
+ritenuto
+in fatto
+A.
+__________ è stato arrestato il 2 settembre 2005 e nei
+suoi confronti é stata promossa l'accusa per infrazione semplice, nonché
+contravvenzione, alla LFStupefacenti (doc. 1, inc. GIAR 476/2005).
+L'arresto è stato confermato da questo giudice il 3
+settembre 2005, ritenuta la presenza di sufficienti indizi di reato e di
+bisogni dell'istruzione "
+segnatamente l'interrogatorio del fornitore e
+l'accertamento del tenore di THC
+" (doc. 4, inc. GIAR 476/2005).
+B.
+In sintesi, __________ è accusato di aver acquistato,
+da tale __________, oltre 100 Kg di canapa al prezzo di FRS 25'000.--, merce
+che egli stesso ha provveduto a far trasportare da una ditta del ramo
+(trasporti) al suo domicilio di __________.
+Quale fosse il destino ultimo di tale merce non era
+noto al momento dell'arresto. In un verbale successivo (5 settembre 2005),
+l'accusato ha affermato che la merce era destinata ad uno svizzero tedesco
+(tale __________), che lo avrebbe precedentemente contattato chiedendo "
+merce
+a basso costo
+" e manifestando disponibilità a pagarla
+FRS 50'000.--. Nello stesso verbale, __________
+afferma di non sapere quale destinazione (se si preferisce: utilizzo) il
+nominato __________ avrebbe dato alla merce, di non conoscere il tenore in THC
+della stessa ma di presumere che fosse regolare in quanto il venditore "
+ha
+una ditta regolare
+". Queste ultime affermazioni sono state ribadite
+nei verbali successivi (per. es. 9 settembre 2005).
+L'analisi della canapa sequestrata ha evidenziato un
+tenore di THC superiore allo 0,3% (AI 1.9).
+Il 19 settembre l'accusa è stata estesa all'ipotesi di
+infrazione aggravata di cui all'art. 19 cifra 2 lett. c. (AI 2.8).
+C.
+Con istanza del 13/14 settembre 2005 (doc. 1, inc.
+GIAR 476.2005.3), la difesa di __________ ha chiesto la messa in libertà
+provvisoria dell'accusato e, nelle more della presente procedura, il
+trasferimento al penitenziario cantonale.
+L'accusato, arrestato in flagranza, avrebbe ammesso i
+fatti che gli vengono contestati e non può essere trattenuto solo perché non è
+in grado di indicare le generalità complete del (futuro) acquirente (Istanza,
+pag. 1 e 2). Nel contempo, non sono presenti (sempre secondo la difesa) pericolo
+di fuga o di recidiva e neppure pericolo di collusione perché il destinatario
+della merce "
+sicuramente ha saputo che __________ è stato arrestato e
+la merce confiscata
+", la notizia essendo apparsa sulla stampa già il 3
+settembre 2005 (Istanza, pag. 2).
+D.
+Il magistrato inquirente preavvisa negativamente l'istanza
+di libertà provvisoria (doc. 2, inc. GIAR 476.2005.3).
+Dopo aver ripercorso brevemente le circostanze
+dell'arresto e le successive emergenze istruttorie, tra gli altri il fatto che
+dai cellulari in possesso dell'accusato sarebbero emersi contatti ripetuti nei
+giorni precedenti l'arresto (financo un appuntamento per il giorno dell'arresto)
+con tali __________ e __________ (il primo con precedenti in relazione a
+commercio di canapa), il magistrato inquirente sottolinea l'esistenza di gravi
+indizi di colpevolezza e segnala pericolo di collusione con il venditore (__________)
+ed il nominato __________, nonché con altre persone coinvolte (__________e __________).
+Sul richiesto trasferimento al PCT, il magistrato
+inquirente non si esprime.
+E.
+Mediante osservazioni del 22 settembre 2005, la difesa
+segnala di non poter prendere posizione compiutamente sui fatti esposti dal
+magistrato inquirente, non avendo avuto accesso agli atti (Osservazioni, pag.
+1).
+Contesta poi tempestività delle osservazioni del
+magistrato inquirente in quanto, a sua conoscenza, presentate il 20 settembre
+2005 (ibidem).
+Nel merito ritiene che gli indizi di reato concernono
+unicamente la detenzione di canapa e che il tempo trascorso tra l'arresto e le
+misure intraprese per l'audizione di __________ e __________ sono state
+intraprese solo dopo la metà di settembre, nonostante il rischio di collusione
+con queste persone sia posto a fondamento del mantenimento della carcerazione
+ancora oggi (Osservazioni, pag. 1/2). Inoltre, viste le ammissioni circa
+l'intenzione di rivendita ed il prezzo della stessa, la difesa non vede quali
+fatti possono essere oggetto di collusione e segnala come il carcere preventivo
+non possa essere utilizzato per ottenere informazioni direttamente
+dall'accusato/detenuto (Osservazioni, pag. 2).
+Da ultimo segnala il fatto che l'estensione dell'accusa
+sia avvenuta dieci giorni dopo le dichiarazioni dell'intenzione di vendita e
+quello che l'accusato si trova ancora presso le carceri di Bellinzona
+nonostante la difesa abbia ricevuto l'ordine di trasferimento già il 19
+settembre 2005.
+Delle altre considerazioni e/o argomentazioni delle
+parti si dirà, se necessario, nei considerandi seguenti.
+Considerato
+in diritto:
+1.
+L'istanza, presentata dall'accusato detenuto è
+ricevibile in ordine.
+Il preavviso del magistrato inquirente è stato spedito
+il 19 settembre 2005, terzo giorno utile dopo la ricezione dell'istanza (art.
+20 CPP), mentre l'incarto è stato consegnato a questo ufficio, brevi manu da
+funzionario del Ministero pubblico, la mattina del 20 settembre 2005.
+Si pone pertanto il problema della tempestività della
+trasmissione ex art. 108 cpv. 1 CPP.
+Tale norma, infatti, accomuna preavviso ed atti dando
+quasi maggior importanza a questi ultimi : "…
+trasmette entro tre
+giorni gli atti con il suo preavviso negativo
+…".
+Nel contempo, la CRP, in applicazione di tale norma e
+di quelle relative a termini e modalità di trasmissione ha avuto modo di
+affermare, in un caso del 2003:
+"
+4.
+L'istanza ed il preavviso, ma, a
+rigore anche gli atti dell'incarto, sono stati trasmessi tardivamente. Gli atti
+processuali, tra i quali rientrano anche quelli delle parti, vengono intimati
+giusta l'art. 7 CPP per invio postale o per mezzo di usciere o della polizia. A
+mente dell'art. 20 cpv. 4 CPP, quando la comunicazione di un atto si fa per
+posta, il termine si reputa osservato se la consegna alla posta è fatta prima
+della mezzanotte del giorno della scadenza. Quando la consegna viene fatta
+brevi manu deve intervenire entro il giorno di scadenza (cfr. R. Hauser/E. Schweri,
+op. cit., § 44 n. 12 ss., G. Piquerez, op. cit., n. 1518 ss.).
+… omissis…
+5.
+Ciò premesso, a mente di questa
+camera, l'inosservanza del termine di trasmissione dell'art. 108 cpv. 1 CPP,
+come del resto del suo cpv. 2, comporta insanabilmente la decadenza della
+validità dell'arresto, rispettivamente della carcerazione preventiva.
+"
+(CRP 18 luglio 2003 in re O., 60.2003.222)
+Un'applicazione rigorosa dei concetti sopra esposti
+condurrebbe a concludere per la tardività della trasmissione, ritenuto che
+anche gli atti (indispensabili, al pari se non più del preavviso, per la
+decisione dell'autorità ricevente e per la decorrenza del termine ex art. 108
+cpv. 2 CPP - si veda anche GIAR 15 settembre 2005 in re R., 355.2004.4) debbono
+essere trasmessi entro il termine.
+Tuttavia, a mente di questo giudice, tale rigore non
+terrebbe conto di alcune difficoltà concrete dovute alla voluminosità di taluni
+incarti ed alla dislocazione (di fatto) di alcuni Procuratori in quel di Bellinzona.
+Una spedizione per posta di incarti voluminosi avrebbe quale conseguenza la
+ricezione non il giorno successivo (come per le buste) bensì due o più giorni
+successivi con dilatazione di fatto dei tempi decisionali (tre giorni per il PP
+e tre giorni per il GIAR) a scapito della persona detenuta. Per evitare questo
+tipo di disguido, dopo la sentenza CRP citata, il Procuratore generale, in
+accordo con questo ufficio, aveva emanato delle direttive che invitavano, in
+caso di trasmissione per posta del preavviso negativo, ad allegare l'elenco
+atti e a fare in modo che l'incarto fosse materialmente a disposizione del GIAR
+contestualmente alla ricezione (da parte di quest'ultimo) del preavviso
+negativo (Direttive PG luglio/agosto 2003, punti 2 e 3). Evidentemente, nel
+caso qui in esame, tali direttive sono state parzialmente disattese dato che
+l'elenco atti non era allegato al preavviso (come non lo erano gli atti,
+nonostante la menzione in calce). Comunque, gli atti sono pervenuti a questo
+ufficio (brevi manu, come detto) alle 9.20 del martedì mattina, quindi poco
+dopo la ricezione della posta contenente il preavviso negativo e, di
+conseguenza, questo giudice ritiene di poter considerare tempestiva la
+trasmissione senza con ciò mettersi in opposizione a quanto sancito dalla CRP
+nella sentenza citata che si riferiva a caso in cui né atti né preavviso erano
+stati "consegnati" nel termine e che (di conseguenza) non si è
+espressa (né ha avuto modo di farlo) sulla specifica problematica della
+trasmissione di incarti voluminosi.
+A scanso di equivoci, e a futura memoria, sia detto a
+chiare lettere che se la concreta messa a disposizione dell'incarto fosse
+avvenuta dopo le 10.00 del mattino (quindi dopo l'orario di normale ricezione
+della posta) non sarebbe stata (e non lo sarà in futuro) considerata
+"contestuale", bensì tardiva.
+2.
+Sulla ricevibilità, in ordine, della richiesta di
+trasferimento al PCT e, in caso affermativo, sul merito della questione, si
+dirà (per ovvi motivi) dopo la determinazione circa perdurare o cessazione
+della carcerazione preventiva.
+3.
+L'art. 95 CPP - corrispondente all’art.
+33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 (per
+cui mantiene validità la pregressa giurisprudenza: v. decisione 10 gennaio 1996
+in re T. H., GIAR 2.96.2) - dopo evidenza al cpv. 1 del principio secondo cui
+l'accusato si trova di regola in libertà, consente al cpv. 2 arresto, perdurare
+ed eventualmente proroga del carcere preventivo a norma dell'art. 103 CPP,
+quando esistono a carico dello stesso accusato gravi e concreti indizi di colpabilità
+per un crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali segnatamente i bisogni dell’istruzione e pericolo di
+recidiva (senza dimenticare che l’arresto, quale misura processuale
+cautelativa, non serve unicamente ai bisogni dell’istruttoria, ma anche ad
+assicurare la presenza dell’accusato al processo e a garantire l’eventuale
+espiazione della pena: DTF 109 Ia 323 consid c, e riferimenti; sentenza 16
+novembre 1993 del Tribunale federale in re A.H., 1P.477/1993, consid. 3).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss) - ritenuto implicito il rispetto della proporzionalità
+(REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381). Ed anche
+questo giudice, come già la Camera dei ricorsi penali, non restringe la sua
+cognizione all'arbitrio (REP 1980 pag. 128).
+4.
+Non occorrono particolari disquisizioni per ritenere
+presenti gravi indizi di reato in capo a __________ (invero neppure contestati
+dalla difesa).
+Quanto sequestrato, il risultato delle analisi e le
+stesse dichiarazioni dell'accusato (in particolare quelle di cui al verbale 5
+settembre 2005) concorrono a fondarli
+nei
+limiti di competenza di questo giudice derivanti da un lato dalla sua funzione
+- che è quella di esaminare l’esistenza dei presupposti per il mantenimento
+della misura restrittiva della libertà personale, e non di valutare nella
+sostanza l’esistenza di un reato -, e dall’altro - ma in maniera strettamente
+congiunta con quanto si viene di dire - dall’inopportunità di considerazioni di
+merito premature e, soprattutto, di competenza delle sedi di giudizio. Ciò
+senza necessità di approfondire più di tanto l'aspetto soggettivo (si vedano, comunque,
+le risposte date alle domande nella prima metà della pagina 3 del verbale
+citato sopra).
+5.
+Il preavviso del magistrato inquirente non fa menzione
+né di un pericolo di recidiva, né di un pericolo di fuga. Ne consegue che
+queste due circostanze atte (alternativamente) a giustificare la carcerazione
+preventiva, non saranno analizzate in questa sede.
+6.
+a)
+In merito ai bisogni istruttori (pericolo di collusione)
+affermati dal magistrato inquirente, la difesa solleva numerose questioni che
+vanno tutte affrontate per giungere alla conclusione sull'esistenza o meno,
+allo stadio attuale, del motivo di detenzione. Preliminarmente, e per quanto
+concerne l'accesso agli atti, va detto che, dall'incarto prodotto a questo
+giudice, non risulta che vi sia stata una limitazione dell'accesso agli atti da
+parte del magistrato inquirente (art. 60 cpv. 2 CPP); inoltre, gli atti a
+sostegno di un preavviso negativo possono anche essere visionati presso lo
+scrivente ufficio (a cui debbono essere trasmessi - DTF 7 febbraio 2005 in re
+C., 1S.3/2005), ovviamente compatibilmente con le esigenze connesse
+all'emanazione della decisione. Pertanto, il diritto di essere sentito non può
+dirsi violato.
+b)
+Non è certo peregrina l'argomentazione della difesa
+secondo cui i bisogni dell'istruzione non giustificherebbero più il
+mantenimento della carcerazione in quanto i fatti essenziali (arresto e
+sequestro merce) sarebbero apparsi sulla stampa già il giorno 3 settembre 2005.
+Infatti, da tale pubblicazione, eventuali altre persone coinvolte (a vario
+titolo) possono trarre certezza dell'intervento delle autorità inquirenti e, se
+del caso, darsi da fare per compromettere la ulteriore raccolta di prove (in
+vari modi ed anche rendendosi irreperibili). Se l'informazione alla stampa è
+data dagli stessi inquirenti, non si può che dedurre che questi ritengono non
+esservi particolari prove a rischio d'inquinamento, rispettivamente che tale
+rischio è minimo e l'interesse pubblico all'informazione prevalente.
+Conseguentemente, potrebbe rivelarsi (ma molto, se non tutto, dipende dalle
+circostanze di ogni singolo caso) contrario al principio di proporzionalità
+ordinare o mantenere una carcerazione preventiva per "bisogni
+dell'istruttoria" ai quali gli stessi inquirenti non danno particolare
+peso.
+Tuttavia, va pure considerato che il tipo di
+situazione sopra descritto può avere influsso sull'inquinamento delle
+(eventuali) prove, molto meno sulla collusione che presuppone un qualche
+contatto tra le persone coinvolte, rispettivamente la conoscenza del contenuto
+delle dichiarazioni di chi è già stato sentito.
+Nel caso qui in esame, è (appunto) il pericolo di
+collusione ad essere posto, dal magistrato inquirente, a fondamento del
+preavviso negativo.
+c)
+Il pericolo di collusione con __________ non può più
+essere considerato (come al momento dell'arresto) elemento sufficiente a
+giustificare il mantenimento del carcere preventivo. Infatti, fin dal primo
+verbale l'accusato ha indicato in __________ colui che gli ha venduto la
+sostanza oggetto di sequestro, fornendo anche indicazioni sul nome del negozio
+e la sua collocazione. Ad oggi, la persona in questione non è ancora stata interpellata
+sebbene risulti domiciliata ed operante in Svizzera e non venga indicata come
+irreperibile (ora e/o in precedenza). Attendere 15 giorni (il risultato
+dell'analisi dello stupefacente?) per richiedere ad autorità di altro cantone
+di assumere il procedimento contro Egger, trasferirlo in Ticino,
+rispettivamente interrogarlo in relazione alla fornitura di ca. 100 Kg, mentre
+l'acquirente è in carcere, è manifestamente lesivo del principio di celerità
+(art. 102 CPP), viste le possibilità offerte dalla normativa vigente (artt.
+349, 352 CPS; Concordato intercantonale in materia di assistenza giudziaria
+penale)
+d)
+Per quanto concerne, invece, tale __________
+(rispettivamente le persone indicate con i nomignoli di __________ e __________)
+il pericolo di collusione è concreto ed il principio di celerità non può dirsi
+violato.
+Infatti, vista l'importanza (per quantitativo e somme
+in gioco) della "merce", è effettivamente poco credibile che
+l'accusato sia in grado di fornire solo il nomignolo (quello attuale e quello
+utilizzato nel 2002/2003 - cfr. Verbale __________ 5.09.2005, pag. 2) e non
+abbia modo alcuno per contattarlo. Nel contempo, vi sono concreti indizi
+(frequenza dei contatti telefonici, appuntamento per il giorno di ricezione
+della merce, precedenti specifici - cfr. le contestazioni nel verbale 9
+settembre 2005, nonché AI 1.7) che i destinatari della merce siano altri, in
+parte identificati (AI 1.6, 1.7 e 1.8 e non certo grazie alle dichiarazioni
+dell'accusato - cfr. Verbale __________ 9 settembre 2005, pag. 10) ed in parte
+ancora da identificare. Le circostanze appena descritte concretizzano anche un
+pericolo di collusione in quanto indicano una possibile volontà dell'accusato
+di coprire gli acquirenti e, con essi, l'accertamento del destino ultimo della
+merce, nonché il ricavo ed il guadagno previsti.
+La destinazione della merce, così come i prezzi
+concordati, non sono questioni irrilevanti ai fini della determinazione delle
+reali responsabilità dell'accusato e relative conseguenze.
+Viste le difficoltà di identificazione di queste
+persone e la tempistica degli atti istruttori conseguenti alla, finora, unica
+identificazione (cfr. AI 7.2), il principio di celerità non può certo dirsi
+violato.
+7.
+In data odierna, questo ufficio si è informato
+telefonicamente presso il magistrato inquirente per sapere se il trasferimento
+al PCT fosse, nel frattempo, avvenuto. La risposta è stata positiva nel senso
+che l'accusato si trova, oggi, al PCT.
+La questione del trasferimento può quindi essere
+considerata priva d'oggetto, indipendentemente dal determinare se sia
+ricevibile nella procedura ex art. 108 CPP, in assenza di specifica decisione
+del Procuratore pubblico.
+8.
+In conclusione, l'istanza di libertà provvisoria
+presentata dalla difesa di __________ deve essere respinta in quanto a fianco
+di gravi indizi di reato è pure presente un concreto pericolo di collusione in
+relazione ad alcune persone ancora da sentire, come meglio precisato al
+considerando 6 della presente decisione.
+Il mantenimento della detenzione preventiva (in
+relazione ai mezzi di prova indicati) è ancora rispettoso del principio di proporzionalità
+considerata la privazione della libertà già sofferta (meno di un mese), e
+quella prevedibilmente ancora da soffrire, nonché la comminatoria di pena
+(minima) di cui all'art. 19 cifra 2 LFStup.
+Sul rispetto del principio di celerità, si rinvia a
+quanto detto ai considerandi 6.c) e 6.d).
+P.Q.M.
+viste le
+norme applicabili citate, in particolare gli artt. 19 cifra 2 e 19 cifra 1 LFStup.,
+95 ss., 96, 108, 284 CPP; 9, 10, 31 CF, 5 cifra 3 CEDU;
+decide:
+1.
+L’istanza di libertà provvisoria presentata da __________
+è respinta
+.
+2.
+Non si prelevano tasse e spese.
+3.
+Contro la presente decisione è dato ricorso alla
+Camera dei ricorsi penali del Tribunale di Appello, Lugano, entro 10 (dieci)
+giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Edy Meli
