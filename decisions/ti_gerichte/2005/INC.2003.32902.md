@@ -1,0 +1,158 @@
+---
+decision_id: "ti_gerichte_INC.2003.32902"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.32902"
+decided: "2005-10-12"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=92826&nX40_KEY=4711300&nTrefferzeile=100&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2003.32902
+
+## Regeste
+
+Sentenza o decisione senza scheda
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 27.07.2004 INC.2003.32902
+Tessin Il Giudice dell'istruzione e dell'arresto 27.07.2004 INC.2003.32902
+Ticino Il Giudice dell'istruzione e dell'arresto 27.07.2004 INC.2003.32902
+
+Sentenza o decisione senza scheda
+
+Incarto n.
+INC.2003.32902
+Lugano
+12 ottobre 2005
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Franco Lardelli
+sedente per statuire sull’istanza presentata il 14/16
+luglio 2004 dal
+__________
+(patr. dall’__________)
+intesa ad ottenere il dissequestro di tutte le cartelle
+cliniche sequestrate nell’ambito del procedimento penale aperto a suo carico
+per infrazione aggravata e semplice alla legge federale sugli stupefacenti di
+cui all’ACC __________ del Procuratore pubblico Antonio Perugini;
+viste le osservazioni 20/21
+luglio 2004 del magistrato inquirente e 26/27 luglio 2004 del Presidente della
+Corte delle assise correzionali;
+letti ed esaminati gli atti
+dell’inc. ACC __________ messi a disposizione di questo giudice;
+ritenuto e considerato
+in fatto e in
+diritto:
+che:
+-
+nell’ambito del procedimento penale a carico del __________, per titolo
+di infrazione aggravata e semplice alla legge federale sugli stupefacenti, il
+Procuratore pubblico Antonio Perugini ha ordinato il sequestro di cartelle
+cliniche di pazienti del medico accusato; le cartelle sono state depositate
+sotto segreto medico presso il Medico cantonale;
+-
+con istanza 14/16 luglio 2004, il __________ chiede il dissequestro
+delle suddette cartelle cliniche, ritenuto che “oggi è nuovamente libero di
+esercitare la professione di medico” e che “le cartelle cliniche sequestrate
+nel corso delle indagini preliminari sono” per lui “indispensabili all’attività
+professionale”; l’accusato rileva che “non è più indispensabile che le cartelle
+restino conservate in originale presso l’Ufficio del medico cantonale” e che
+semmai si potrà estrarre “una copia delle cartelle da tenere a disposizione
+presso l’Ufficio del Medico cantonale”;
+-
+con osservazioni 20/21 luglio 2004, il Procuratore pubblico dichiara che
+da parte sua vi è “pieno consenso alla restituzione integrale delle cartelle
+cliniche, purchè il Medico cantonale ne trattenga una copia fotostatica, così
+da poter eventualmente richiamare ciò che serve, in occasione del
+dibattimento”; si rimette comunque al giudizio di questo giudice;
+-
+con osservazioni 26/27 luglio 2004, il Presidente della Corte delle
+assise correzionali trasmette copia di una sua lettera al Medico cantonale
+nella quale comunicava che, per quanto lo concerne, “nulla osta a che vengano
+estratte le fotocopie da conservare ... e che al medico vengano restituite le
+cartelle originali”;
+-
+l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il
+sequestro di tutti gli oggetti che possono avere importanza per l’istruzione
+del processo, alternativamente o cumulativamente come mezzi di prova o in
+quanto passibili di confisca o devoluzione allo Stato. Il sequestro, per la sua
+qualità di provvedimento eminentemente cautelare, ha lo scopo di acquisire e
+conservare gli oggetti di cui sopra al seguito della procedura e quindi per le
+necessità dell’istruzione preliminare, per le decisioni del magistrato
+requirente e quelle del giudice del merito, come evidenziato nella duplice
+prospettiva - alternativa o cumulativa - della produzione e valutazione delle
+prove (sequestro probatorio) e delle decisioni di confisca, restituzione o
+devoluzione (sequestro confiscatorio) (v. decisione 8 maggio 1998, inc.
+GIAR 516.97.3, in: Rep. 131 [1998] nr. 117, consid.
+1a p.
+359);
+-
+in materia di sequestro, nel lasso di tempo che intercorre tra
+l’emanazione dell’atto di accusa e l’apertura del dibattimento, la CRP
+(30.7.2002 in re B, inc. 60.2002.00174) ha constatato un “vuoto legislativo” e l’ha
+colmato assegnando tale competenza al GIAR. Non v’è ragione perché quanto detto
+dalla CRP nella sentenza citata non valga anche in tema di dissequestro. Di
+conseguenza questo giudice ha riconosciuto la sua competenza per decidere
+(comunque e sempre in via incidentale) istanze di dissequestro presentate dopo
+l’emanazione dell’atto d’accusa e prima dell’apertura del dibattimento (un
+chiarimento tra le varie autorità coinvolte ha confermato questa conclusione;
+cfr. decisione 14 ottobre 2003, doc. 12, inc. GIAR 268.1997.2);
+-
+questo giudice è dunque competente ad esaminare l’istanza 14/16 luglio
+2004, trattandosi di istanza giunta dopo l’emanazione dell’atto d’accusa;
+-
+le 55 cartelle cliniche di pazienti (e non 54, come erroneamente
+indicato nell’atto d’accusa: v. classatore 1, AI 4, lettera 26 maggio 2003 del
+Farmacista cantonale aggiunto al Medico cantonale), sequestrate presso lo
+studio medico del __________ in data 22 maggio 2003 (v. verb. di perquisizione
+e sequestro 22.5.2003 ore 07.10/12.40) e poi consegnate per custodia, sotto
+segreto medico, al Medico cantonale (v. classatore 1, AI 3 e AI 4), sono
+elencate nell’ACC __________ quali corpi di reato. La qualifica di “corpi di
+reato” per le suddette cartelle cliniche, da cui si potrebbe dedurre una volontà
+del magistrato inquirente di chiederne la confisca in sede di dibattimento,
+appare impropria; entra invece in questo caso in considerazione il sequestro
+probatorio, ritenuta la volontà manifestata dal Procuratore nelle osservazioni
+di “poter eventualmente richiamare ciò che serve, in occasione del
+dibattimento”;
+-
+le esigenze probatorie possono essere salvaguardate dall’estrazione di
+fotocopie delle cartelle originali; in questo senso si sono espressi in modo
+concordante sia il Procuratore pubblico, che il Presidente della Corte delle
+assise correzionali. L’accusato, dal canto suo, nell’istanza di dissequestro
+non si oppone all’estrazione di fotocopie, anzi, la propone;
+-
+l’istanza di dissequestro degli originali delle 55 cartelle cliniche dei
+pazienti del __________ può dunque essere accolta. Il Medico cantonale
+provvederà pertanto a restituire gli originali al __________, previa estrazione
+della fotocopia integrale di ogni cartella; le fotocopie resteranno in custodia
+presso il Medico cantonale nelle modalità già fissate dal Procuratore pubblico
+per gli originali.
+Per questi motivi,
+visti i citati articoli di legge,
+decide:
+1.
+L’istanza
+è accolta. Di conseguenza:
+1.1  E’ ordinato il dissequestro degli originali delle 55 cartelle cliniche dei
+pazienti del           __________.
+1.2  Il Medico cantonale provvederà a restituire gli originali al __________,    previa
+estrazione della fotocopia integrale di ogni cartella; le fotocopie resteranno
+in      custodia presso il Medico cantonale nelle modalità già fissate dal
+Procuratore pubblico            per gli originali.
+2.
+Non
+si prelevano nè tassa nè spese di giustizia.
+3.
+Contro
+la presente decisione è dato ricorso alla Camera dei ricorsi penali entro dieci
+giorni dall’intimazione.
+Intimazione:
+giudice
+Franco Lardelli
