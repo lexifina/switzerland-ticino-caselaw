@@ -1,0 +1,540 @@
+---
+decision_id: "ti_gerichte_INC.2005.59703"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.59703"
+decided: "2006-01-03"
+published: "2005-12-29"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=87115&nX40_KEY=4711262&nTrefferzeile=94&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2005.59703
+
+## Regeste
+
+Libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 29.12.2005 INC.2005.59703
+Tessin Il Giudice dell'istruzione e dell'arresto 29.12.2005 INC.2005.59703
+Ticino Il Giudice dell'istruzione e dell'arresto 29.12.2005 INC.2005.59703
+
+Libertà provvisoria
+
+Incarto n.
+INC.2005.59703
+Lugano
+3 gennaio 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 21 dicembre 2005 da
+__________
+e qui trasmessa con preavviso negativo del 23/27 dicembre
+2005 dal
+Procuratore pubblico Luca Maghetti,
+Lugano
+visto lo scritto della difesa
+dell’accusata 28 novembre 2005;
+visto l’incarto MP 9599.2005;
+ritenuto
+in fatto:
+A.
+__________ è stata arrestata il
+17 novembre 2005 dalla Polizia cantonale su ordine d’arresto di stessa data del
+Procuratore pubblico Luca Maghetti per titolo di infrazione aggravata sub.
+semplice alla LStup. La Polizia cantonale aveva rassegnato al PP un rapporto 17
+novembre 2005 dal quale risultava che l’accusata era sospettata di avere messo
+in atto un traffico di eroina e con il quale si chiedeva un ordine di
+perquisizione per l’appartamento della __________ e la sua traduzione forzata
+al fine di procedere al suo interrogatorio. A seguito della perquisizione
+dell’appartamento della __________, avvenuta sempre il 17 novembre scorso, sono
+stati sequestrati 10.89 grammi lordi di eroina, una busta dose contenente
+eroina e 3.12 grammi lordi di cocaina. Sentita a verbale dalla Polizia, __________
+ha dichiarato di avere messo in atto, dal 2004, un traffico di eroina nel Bellinzonese,
+ammettendo di avere ripetutamente venduto a tossicomani locali buste dosi di
+eroina da lei acquistata a Zurigo da un certo __________, a suo dire cittadino
+d’origine albanese. La __________ ha dichiarato di avere acquistato da questo __________
+circa 2 kg di eroina di cui almeno 300 grammi rivenduti al dettaglio e la
+rimanenza utilizzata per uso personale.
+Con la richiesta di conferma
+dell’arresto 18 novembre 2005 il magistrato inquirente ha promosso a __________
+l’accusa per titolo di infrazione aggravata alla LStup, (Inc. GIAR 597.2005.1,
+doc. 1), e questo giudice ha confermato l’arresto dell’accusata considerata la
+presenza di gravi e concreti indizi di colpevolezza e per i bisogni
+dell’istruzione e meglio per la ricostruzione dell’attività di spaccio
+dell’accusata e la conseguente verifica presso i suoi acquirenti (Inc. GIAR
+597.2005.1, doc. 5).
+A verbale di conferma
+dell’arresto, così come già davanti alla Polizia giudiziaria, __________ ha
+ammesso di avere venduto, ed in parte regalato, giornalmente circa due o tre
+buste dosi (da 0,2 grammi circa l’una) di eroina a suoi conoscenti, sostanza
+stupefacenti di cui si riforniva a Zurigo e che avrebbe venduto per finanziarie
+il proprio consumo ed in parte anche per vivere, non riuscendo a coprire le
+spese con la sola assicurazione disoccupazione di CHF 4'300.- al mese (Inc.
+GIAR 597.2005.1, doc. 4, p. 2 e 3).
+Nel frattempo l’accusata è stata
+nuovamente interrogata dalla Polizia, ammettendo di avere trattato quantitativi
+di eroina ben maggiore di quelli menzionati nel primo verbale di Polizia e
+indicando alcuni suoi acquirenti.
+B.
+Il 21 dicembre 2005 __________,
+con l’istanza in discussione e per il tramite del suo difensore, chiede di
+essere posta in libertà provvisoria; a suo dire, sebbene non intenda mettere in
+dubbio la presenza di gravi e concreti indizi di colpevolezza, non
+sussisterebbero più i motivi di interesse pubblico quali i bisogni istruttori.
+A mente dell’istante, avendo ella collaborato pienamente con gli inquirenti
+aiutandoli a “chiarire i ruoli delle persone coinvolte e i quantitativi di
+stupefacenti in questione”, non sussisterebbe neppure il pericolo di
+collusione. Il pericolo di fuga sarebbe escluso avendo l’accusata il centro dei
+suoi interessi in Ticino e non sussisterebbe neppure il pericolo di recidiva
+non avendo precedenti penali ed essendosi praticamente disintossicata
+dall’eroina (avrebbe smesso anche con la somministrazione di Ketalgine).
+L’inchiesta, tra cui l’analisi
+dei tabulati retroattivi della sua utenza telefonica, potrà essere conclusa con
+l’accusata in libertà provvisoria, ritenendo la difesa sufficiente un verbale
+di scarcerazione con l’ordine di tenersi a disposizione delle Autorità ed
+eventualmente di non avere contatto alcuno con le altre persone implicate nella
+vicenda. Per finire la protrazione della carcerazione preventiva violerebbe il
+principio di proporzionalità poiché altre misure sarebbero possibili per
+soddisfare gli eventuali residui bisogni dell’inchiesta. In via subordinata
+l’istante chiede le venga concessa la libertà provvisoria successivamente al
+suo prossimo verbale stabilito per il 9 gennaio 2006 (Inc. GIAR 597.2005.3,
+doc. 1).
+C.
+Il magistrato inquirente, con
+preavviso negativo 23 dicembre 2005 (Inc. GIAR 597.2005.3, doc. 1) ribadisce
+che esistono gravi e concreti indizi di colpevolezza a carico dell’accusata
+come dalle sue dichiarazioni e dalle dichiarazioni di parte dei suoi
+acquirenti.
+Per quanto riguarda i bisogni
+istruttori ed il pericolo di collusione, il Procuratore pubblico, con esplicito
+riferimento all’analisi dei tabulati telefonici, dichiara che appare
+irrinunciabile, alla luce della gravità dei fatti imputati a __________,
+risalire ai contatti da lei intrattenuti per accertare l’identità di tutti i
+suoi acquirenti, il numero di viaggi effettuati a Zurigo per l’acquisto della
+sostanza stupefacente e identificare, per quanto possibile, i suoi fornitori;
+ciò senza la possibilità di collusione con queste persone (sia i fornitori che
+gli acquirenti). A mente del magistrato inquirente la dimostrazione che
+l’inchiesta non è ancora conclusa si evince dalla stessa accusata che, dopo
+essere stata interrogata dal PP in presenza del suo legale, ha ammesso, in un
+verbale di polizia successivo, dopo precisa contestazione, di avere offerto
+buste dose di eroina a tale __________.
+A mente del PP sussisterebbe poi
+pericolo di recidiva giustificato dalla grave situazione finanziaria
+dell’accusata, “in assenza di entrate sufficienti oltre alla rendita vedovile
+per fr. 1'900.- ca, (verb. 23 dic. 2005, AI 45) non ravvisabili perlomeno a
+breve termine, ella potrebbe facilmente ricadere nella vendita di stupefacenti,
+pur sempre protrattasi dall’autunno 2003 per oltre due anni sino a poco prima
+dell’arresto avvenuto il 17 novembre 2005, quindi per un periodo lungo e con
+un’intensa attività. La facilità con cui l’accusata è riuscita a staccarsi dal
+consumo di eroina (da circa una settimana non assume più ketalgine), rafforza
+peraltro il movente economico, peraltro di per sé grave e preoccupante, della
+sua attività di spaccio. ...Del resto lei stessa ammette (verb. PP 29 novembre
+2005, p. 2, AI 20), e lo ribadisce la difesa nella sua istanza (p. 3, pto. 5),
+che l’attività di spaccio veniva effettuata anche per sopperire a difficoltà
+economiche, va detto, tutt’ora esistenti.” (preavviso negativo 23 dicembre
+2005, p. 3). Non vi sarebbe poi prospettiva di lavoro né sembrerebbe l’accusata
+disporre di risorse personali sufficienti.
+Per il PP la detenzione
+preventiva sin qui sofferta, poco più di un mese, è poi del tutto rispettosa
+del principio della proporzionalità ciò a fronte della gravità dei fatti
+imputatile, con riferimento ad un importante attività di spaccio su di un lungo
+periodo, ed alla possibile pena che potrebbe venirle inflitta in caso di
+condanna, verosimilmente da espiare.
+D.
+L’istante, con osservazioni 28
+dicembre 2005 (Inc. GIAR 597.2005.3, doc. 5) si è sostanzialmente riconfermata
+nella propria istanza.
+Sostiene che l’autorità
+inquirente può utilizzare nei suoi confronti gli atti istruttori agli atti solo
+se l’autorità gliene ha comunicato verbalmente o per iscritto il contenuto
+sostanziale, ciò che non sarebbe avvenuto con conseguente inutilizzabilità in
+questa sede dei verbali esperiti successivamente al 29 novembre 2005.
+Per quanto riguarda ai bisogni
+istruttori e al pericolo di collusione osserva che i tabulati retroattivi
+dell’utenza telefonica mobile di __________ non potranno essere oggetto di
+modifica da parte dell’accusata in libertà e che il controllo approfondito dei
+tabulati può quindi avvenire con l’accusata in libertà provvisoria. L’ipotesi
+relativa all’identificazione dei fornitori non è di per sé sufficiente a
+giustificare il mantenimento del carcere preventivo. Per di più la maggior
+parte degli acquirenti dell’accusata sarebbe già stata identificata per cui i
+bisogni istruttori non sarebbero tali da permettere la protrazione del carcere
+preventivo di __________, mentre che il residuo pericolo di collusione potrebbe
+essere fugato da un verbale di scarcerazione con l’impegno di __________ a non
+avere contatto alcuno con le altre persone coinvolte nell’inchiesta.
+Non sarebbe dato il pericolo di
+recidiva dal momento che sebbene la situazione economica dell’istante presenti
+delle difficoltà non vi è un’assenza totale di entrate. Anche la diminuzione
+del consumo personale di eroina nonché quella del numero di ketalgine assunte
+in carcere, dimostra l’intenzione di __________ di allontanarsi dal mondo degli
+stupefacenti.
+In diritto:
+1.
+L’accusata, detenuta, è pacificamente legittimata a
+presentare istanza di libertà provvisoria.
+Il preavviso del Procuratore
+pubblico, ritenuta ricezione dell’istanza il 22 novembre 2005, è tempestivo
+avendo trasmesso a questo ufficio il preavviso negativo, con l’istanza di
+libertà provvisoria e l’elenco atti, il 23 dicembre 2005 per raccomandata, nel
+termine quindi di 3 giorni.
+Il termine di cui all'art. 108
+cpv. 2 CPP, avendo questo ufficio ricevuto quanto sopra, unitamente all’incarto
+penale completo, il 27 dicembre 2005, scade venerdì 30 dicembre 2005 ex art. 20
+cpv. 3 CPP.
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui di seguito riproposti.
+L’art. 95 CPP – corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 – dopo evidenza al cpv. 1 del principio secondo cui l’accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo ai sensi dell’art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali – per quanto qui concerne – i bisogni
+dell’istruzione, con particolare riguardo al pericolo di collusione e di
+inquinamento delle prove che, sia detto qui a futura memoria – può continuare
+ad esistere fino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27 ,
+pag. 32, nota 3), tra altri possibili, essendovi quello della tutela
+dell’ordine pubblico (REP 1998 n. 105).
+L’eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 consid. 3) in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali – nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggiore rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all’arbitrio (REP
+1980 pag. 128).
+(per tutte: sentenza GIAR
+21.12.2001 in re G., Inc. 520.2001.5).
+3.
+Anche qualora non contestata,
+l’esistenza di gravi e concreti indizi di colpevolezza deve essere verificata
+d’ufficio, pur nei limiti di competenza di questo giudice derivanti dalla sua
+funzione che è quella di esaminare l’esistenza dei presupposti per il
+mantenimento della misura restrittiva della libertà personale e non di valutare
+nella sostanza l’esistenza di un reato.
+Con chiaro riferimento al
+riassunto contenuto nel verbale 29 novembre 2005 davanti al magistrato
+inquirente (AI 20) può essere qui ribadita la presenza di seri e di concreti
+indizi di colpevolezza a carico di __________ e relativi ad un suo
+coinvolgimento nei fatti inquisiti, seri e concreti indizi di colpevolezza
+neppure contestati dall’accusata la quale ha ammesso, di avere acquistato tra
+l’autunno 2003 e novembre 2005 circa 2'890 grammi di eroina a CHF 30.- al
+grammo di cui circa 2'000 grammi venduti al dettaglio nel Bellinzonese a
+tossicomani della regione sottoforma di buste dose da circa 0.3 grammi a CHF
+50.- l’una, circa 300 grammi consegnati a tossicodipendenti in cambio di
+prestazioni in natura (lavori di giardiniere, di meccanico, di aiuto per il
+trasloco), mentre che i restanti 590 grammi sarebbero stati destinati al
+consumo personale.
+4.
+In merito ai bisogni istruttori
+atti a giustificare la detenzione preventiva ed il suo perdurare, vi é
+consolidata giurisprudenza (e dottrina):
+“In relazione ai bisogni istruttori, atti a
+giustificare la misura restrittiva della libertà personale, occorre ricordare che
+questi non s'identificano semplicemente con gli atti istruttori in quanto tali,
+o con gli accertamenti (ancora) da effettuare, bensì con il pericolo di
+collusione o d'inquinamento delle prove che (eventualmente) espone a rischio la
+corretta raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale
+suisse, ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697
+ss.; RDAT 1988 no. 24).
+In quest'ottica
+il fatto che l'inchiesta sia tuttora in corso non è, di per sé, decisivo, in quanto
+"
+Die Tatsache allein, dass noch nicht alle Beweise erhoben bzw. die
+Mitverdächtigen dingfest gemacht werden konnten oder dass der Angeschuldigte
+die Aussage verweigert, genügt nicht
+" (N. Schmid, op. cit., no. 701a).
+Occorre che l'indagato, se posto in
+libertà, possa pregiudicarne (o comprometterne) il corretto svolgimento e,
+conseguentemente, l'esito.
+E', inoltre, necessario che questa possibilità
+di pregiudicare la raccolta di elementi di prova si fondi su elementi concreti:
+"
+Jedoch genügt nach der Rechtsprechung des Bundesgerichtes die
+theoretische Möglichhkeit, dass der Angeschuldigte in Freheit kolludieren
+könnte, nicht, um die Fortsetzung der Haft oder die Nichtgewährung von Urlauben
+unter diesem Titel zu rechtfertigen. Es mussen vielmehr konkrete Indizien für
+eine solche Gefahr sprechen
+."
+(DTF
+117 Ia 257, cons. 4 c.).
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza
+d'interessi (tra i due) in relazione al contenuto della deposizione (SJ 1990 p.
+438; DTF 117 Ia 257; ZR 72 no. 77 p. 19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66; Hauser/Schweri,
+Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13).”
+(GIAR 23
+settembre 2002 in re Y.)
+Nello stesso
+senso, la CRP:
+"I rischi di collusione e di inquinamento delle
+prove sono legati soprattutto ai bisogni dell'istruttoria. Da un lato si tratta
+generalmente di evitare o prevenire accordi tra l'imputato e i testimoni - già
+sentito o ancora da sentire - o i correi e complici non arrestati, messi in
+atto per nascondere al giudice la verità, dall'altro di impedire interventi
+fraudolenti del prevenuto in libertà sui mezzi di prova non ancora in possesso
+della giustizia, allo scopo di distruggerli o di alterarli a suo vantaggio. la
+possibilità di ostacolare in tal modo l'azione dell'autorità giudiziaria da
+parte del prevenuto deve essere valutata sulla base di elementi concreti, la
+realtà di questo rischio non potendo essere ammessa aprioristicamente ed in
+maniera astratta (DTF 117 Ia 257; Decisione TF 2.3.2000 in re A. e rif.; R. Hauser/E.
+Schweri, op. cit.
+§ 68 n. 13;
+G. Piquerez, op. cit. n. 2344 ss.)"
+(sentenza 16 settembre 2004 in re B., CRP 60.2004.297)
+Riass
+umendo,
+per il mantenimento della carcerazione preventiva dell'accusato, non basta che
+vi siano ancora atti istruttori da esperire, ma è necessario che la prematura
+rimessa in libertà dell'accusato possa essere di nocumento proprio nell'ottica
+dell'assunzione delle prove che ancora mancano, e meglio in presenza di
+pericolo di collusione, quando cioè è lecito temere l'intervento dell'accusato
+su terze persone (siano essi correi, parti lese o semplici testi), o pericolo
+di inquinamento delle prove, termine più ampio che indica altri atteggiamenti
+suscettibili di falsare l'assetto probatorio, come la soppressione o
+l'alterazione di mezzi di prova, ecc..
+Va da sé che i criteri sopra
+esposti richiedono applicazione più restrittiva allorquando l'inchiesta (e la
+detenzione) è in corso da un certo tempo.
+L’istante
+ritiene che non sussistano più bisogni istrutto
+ri dal momento che
+avrebbe chiarito la propria posizione e i residui atti istruttori potranno
+essere compiuti con l’accusata in libertà provvisoria.
+A ragione il magistrato
+inquirente sostiene invece che sussistono ancora bisogni istruttori e concreto
+pericolo di collusione in relazione alla necessità di identificare, attraverso
+l’analisi dei tabulati del telefono cellulare dell’accusata, il maggior numero
+di acquirenti nonché gli spostamenti dell’accusata al fine di acquistare
+sostanza stupefacente e l’identità dei suoi fornitori, ciò con lo scopo di
+ricostruire il più possibile il traffico di stupefacenti dell’accusata, il suo
+raggio d’azione e le persone implicate. Naturalmente non basterà identificare
+queste persone – tanto più che l’accusata stessa ha dichiarato che la maggior
+parte dei numeri telefonici di spacciatori e acquirenti non si troverebbero
+memorizzati nella rubrica telefonica del suo cellulare tenendo a mente le
+rispettive utenze (AI 14, verbale di Polizia 22.11.2005, p. 8) – ma si dovrà
+anche procedere al loro interrogatorio e questi atti istruttori potrebbero
+venire vanificati dalla messa in libertà provvisoria della qui istante.
+Se è vero che __________
+ha, per così dire, ammesso parte delle proprie responsabilità, è anche vero che
+la stessa non ha fornito una pronta confessione ma si è invece reso necessario
+che gli inquirenti le contestassero le risultanze loro note affinché ella
+confermasse o meno le varie imputazioni, e ciò sin dall’inizio dell’inchiesta
+quando ha cercato di limitare a circa 300 grammi o poco più la quantità di
+eroina complessivamente spacciata. Ne è un esempio la dichiarazione
+dell’accusata fatta alla Polizia, secondo cui non avrebbe mai avuto niente a
+che fare per quanto riguarda l’eroina con __________ (AI 12, verbale di Polizia
+del 22 novembre 2005, p. 7), dichiarazione non smentita o modificata durante il
+verbale di delucidazione davanti al magistrato inquirente ed in presenza del
+suo legale di data 29 novembre 2005 (AI 20, p. 3 e 4), ma che ha poi dovuto
+modificare quando gli inquirenti le hanno contestato le dichiarazioni di quest’ultimo
+nel verbale d’interrogatorio 1° dicembre 2005 (AI 24) ammettendo in sostanza di
+avere fornito eroina anche a questa persona.
+Per inciso si
+osserva che la difesa si è opposta all’utilizzo in questa sede dei verbali di
+Polizia effettuati dopo il 29 novembre 2005 poiché non le sarebbero stati
+inviati in copia, asserendo che l’atto o il verbale d’interrogatorio, il cui
+esame è stato rifiutato alla parte, può essere adoperato contro di essa
+soltanto se l’autorità gliene ha comunicato verbalmente o per iscritto il
+contenuto essenziale, cosa che non sarebbe avvenuta nella fattispecie (DTF 115
+Ia 293, consid. 5c), a torto. La difesa ha infatti avuto accesso a tutti i
+verbali di Polizia stilati sino al 29 novembre 2005, data del verbale di
+delucidazione del magistrato inquirente, mentre che non ha ricevuto copia di
+quelli effettuati successivamente, che le saranno consegnati solo dopo
+contestazione davanti al PP (AI 42). Per quanto di interesse per la trattazione
+della presente istanza il PP ha però indicato nelle grandi linee il contenuto
+essenziale del verbale di Polizia 1° dicembre 2005 di __________ e cioè che
+sono emersi altri acquirenti, oltre a quelli già ammessi sino al verbale di
+delucidazione del 29 novembre 2005, con chiaro riferimento al nome di __________.
+Va poi aggiunto che il tenore di questi verbali cui fa riferimento la difesa è
+noto all’istante, si tratta infatti di deposizioni recenti, dell’accusata
+stessa, che la prevenuta (che beneficia di colloqui liberi con il proprio
+difensore) invero conosce e che dovrebbe ricordare almeno nelle grandi linee
+(DTF 115 Ia 305, consid. 6b, a contrario).
+È poi la difesa
+stessa che asserisce che erano i fornitori medesimi a chiamarla per invogliarla
+all’acquisto e che __________ ha regalato dello stupefacente chiedendo
+esplicitamente ai propri acquirenti di non divulgare il fatto che lei vendeva
+stupefacenti, asseritamente per proteggere la figlia (istanza, p. 3).
+Ciò che fa
+presumere non solo che se messa in libertà provvisoria potrà essere contattata
+dai suoi fornitori, con le conseguenze che possiamo ben immaginare, ma anche
+che la stessa non ha quella disposizione d’animo per cui voglia far chiarezza
+autonomamente su quanto successo. Appare sin troppo evidente che l’accusata, se
+posta in libertà provvisoria, potrebbe contattare o venir contattata da
+fornitori ed acquirenti con i quali concordare versioni o decidere di tacere
+quanto ancora non a conoscenza degli inquirenti.
+Va pure rilevato che dagli atti
+emergono concreti indizi per ritenere che __________, per quanto riguarda i
+suoi fornitori a Zurigo, si sia trovata confrontata con un’organizzazione
+dedita al traffico di stupefacenti, con persone in Svizzera, e forse anche in
+Albania. Mentre che per quanto riguarda i suoi acquirenti, per quanto abbiamo
+visto più sopra, non è ancora possibile ritenere che li abbia indicati nella
+loro totalità.
+Ciò posto – e ritenuto per quanto
+riguarda i suoi fornitori che il rischio di collusione può aumentare in
+presenza di un accusato che abbia legami con un'organizzazione criminale con
+membri ancora in libertà ed ancora da identificare, come nella fattispecie (cfr.
+M. RUSCA / E. SALMINA / C. VERDA, op. cit., n. 25 ad art. 95 CPP) – la scarcerazione
+di __________ appare senz'altro prematura.
+È pertanto necessario, oltre che
+opportuno nell’interesse dell’accusata stessa, che i previsti accertamenti e
+interrogatori futuri avvengano senza che si possa avere il dubbio di contatti e
+reciproci atti d’influenza.
+Proprio per quanto detto sopra
+non può entrare in considerazione l'applicazione di misure sostitutive, come
+pure la fissazione di una data per la messa in libertà provvisoria
+dell’accusata come richiesto dalla difesa.
+5.
+È pure
+presente il pericolo di recidiva, evocato dal magistrato inquirente in
+conclusione del preavviso, con riferimento all'intensità dell'attività
+delittuosa, alle difficoltà finanziarie dell’istante ed all'insufficienza di
+una ipotesi di impiego per scongiurarlo (Preavviso, pag. 2).
+Il periodo di
+commissione dei reati è esteso: da fine 2003 a novembre 2005, praticamente fino
+all'arresto (Preavviso, p. 1 e 2 ed atti istruttori citati; verbale PP del
+29.11.2005, AI 20). Si tratta di un'attività delittuosa intensa, effettuata in
+modo ripetuto e costante, con una regolarità dei viaggi nella regione di Zurigo
+volti ad approvvigionarsi di sensibili quantitativi di eroina, al fine di
+vendere tale sostanza a diversi tossicodipendenti della regione, per migliorare
+la propria situazione finanziaria e sopperire a difficoltà economiche (AI 20,
+verbale PP del 29 novembre 2005, p. 2) e per assicurarsi il proprio consumo.
+L'accusata, inoltre, ha consumato giornalmente eroina, e a volte cocaina, sino
+al giorno dell’arresto (AI 12, verbale di Polizia del 22.11.2005, p. 1), avendo
+iniziato una cura di metadone soltanto in carcere, dopo il suo arresto (AI 5,
+verbale di Polizia 17.11.2004, p. 4), e neppure l’asserita diminuzione
+volontaria del proprio consumo (AI 20, verbale PP 29 novembre 2005, p. 2) e
+l’affetto per la figlia erano stati sufficienti (in precedenza) per permetterle
+di smettere (Rapporto d’arresto 17.11.2005, verbale di sequestro di stessa data
+dal quale si evince il sequestro presso l’abitazione di __________ di circa 10
+grammi di eroina e circa 3 grammi di cocaina). Va anche ricordato che la
+situazione finanziaria di __________, indipendentemente dai motivi che l’hanno
+cagionata (il marito, come vorrebbe far intendere la difesa a p. 5 delle
+proprie osservazioni 28 dicembre 2005, o altre cause), è piuttosto precaria –
+senza dimenticare i numerosi debiti ella può fare affidamento per il momento
+soltanto sulla rendita di vedovanza di circa CHF 1'900.- (AI 20, verbale PP
+29.11.2005, p. 3) – per non dire che è addirittura peggiorata da prima
+dell’arresto – quando peraltro spacciava non solo per far fronte al proprio
+consumo ma anche per sopperire a difficoltà economiche – avendo ormai terminato
+il periodo quadro nel quale percepiva l’indennità di disoccupazione ammontante
+a circa CHF 4'300.-.
+Tutti questi
+elementi di fatto concorrono ad indicare concreto ed attuale pericolo di
+recidiva (SJ 1981, pag. 381, in particolare note 107, 111 a 114; DTF 11
+febbraio 1982 in re K.; DTF 11 luglio 1989 in re W.; DTF 123I 268; G. Piquerez,
+Procédure pénale suisse, n.2357; N. Schmid, Strafprozessrecht, 4. Auflage, n.
+701b). Da ultimo, e indubbio che ci si trovi di fronte a reati di una certa
+gravità e che mettono in pericolo la salute pubblica (BJP 1989 n. 671; DTF 105
+Ia 26).
+Non modifica
+questa conclusione il fatto che in sede di conferma dell'arresto il pericolo di
+reiterazione non sia stato indicato a motivazione della conferma stessa.
+Da un lato
+l'individuazione di una delle condizioni alternative a fondamento della
+detenzione cautelare è sufficiente alla decisione, senza che sia necessario
+analizzarle tutte. Dall'altro, e ancora più importante, come una condizione
+presente ad un determinato momento dell'inchiesta può attenuarsi o scomparire
+nel seguito, così una condizione che non emergeva all'inizio può prendere corpo
+successivamente con lo sviluppo dell'inchiesta stessa. (GIAR 2004.56101,
+sentenza del 7 dicembre 2004 in re G.).
+Ciò è qui il
+caso allorquando si è accertata la reale ampiezza dei traffici messi in atto
+dall’istante che sono peraltro continuati praticamente fino al momento dell'arresto,
+nonché la sua situazione finanziaria e personale precaria.
+Da ultimo, va
+condiviso il giudizio del magistrato inquirente in merito alla poca verosimiglianza
+della possibilità di lavoro per l’accusata se posta in libertà provvisoria,
+peraltro neppure avanzata dalla difesa né in sede di istanza di libertà
+provvisoria e neppure di osservazioni 28 dicembre 2005. Come pure peraltro
+nessuno avanza ipotesi a proposito di una terapia di sostegno a favore
+dell’istante che avrà pure terminato l’assunzione di Ketalgine in questi giorni
+(AI 54, verbale di Polizia 23 dicembre 2005, p. 1), ma ciò è avvenuto
+nell’ambiente protetto del carcere. Non va infatti dimenticato che __________
+ha comunque alle spalle una tossicodipendenza pluriennale cui è riuscita a far
+fronte, a livello fisico almeno, soltanto con l’arresto e che in caso di sua
+messa in libertà provvisoria si ritroverebbe senza sostegno psicologico alcuno
+– non potendo caricare sulle spalle della figlia ventenne simile responsabilità
+– , senza lavoro e con una situazione finanziaria precaria.
+6.
+La proporzionalità di una
+carcerazione (preventiva) deve essere analizzata da angolature diverse. Da un
+lato occorre mettere in relazione la durata del carcere preventivo con la
+gravità e complessità della fattispecie e con la pena presumibile e dall’altro
+occorre anche verificare il rispetto del principio di celerità (SJ 1981 p. 383
+e citazioni; art. 102 CPP).
+La proporzionalità della
+carcerazione sin qui sofferta, alla luce della gravità delle accuse, della
+presenza di concreti indizi di colpevolezza, e delle dimensioni dell’inchiesta,
+con più persone coinvolte, diversi atti istruttori compiuti e ancora da
+compiere, è sicuramente data. Gli inquirenti hanno proceduto con celerità e non
+si sono limitati ad interrogare l’accusata ma hanno provveduto alla ricerca di
+riscontri oggettivi (la richiesta di tabulati retroattivi, l’interrogatorio dei
+possibili acquirenti, la verifica delle documentazione del CCP di __________)
+al fine verificare le dichiarazioni dell’accusata, di accertare l’ampiezza del
+traffico di stupefacenti da lei messo in atto e di identificare le altre
+persone coinvolte.
+L’accusata è stato arrestato il
+17 novembre 2005 per dei reati di sicura gravità e ad oggi è in detenzione
+preventiva da poco meno di un mese e mezzo. In questo lasso di tempo
+l’inchiesta appare procedere con celerità soprattutto per quanto riguarda
+l’indagine di Polizia che non ha subito alcun ritardo se non per la mancata
+ricezione dei tabulati telefonici, il cui invio il magistrato inquirente ha
+comunque provveduto a sollecitare alla DATEC il 21 dicembre 2005 (AI 43).
+Tenuto conto che l’entità dei
+reti imputati all’istante è di sicura gravità e ciò può condurre ad una pena
+non necessariamente lieve (trattasi di crimine con pena edittale minima non
+inferiore ai 12 mesi) con l’eventualità non remota che sia inflitta una pena da
+espiare, la detenzione preventiva sin qui sofferta e quella ancora
+verosimilmente da soffrire è rispettosa del principio di proporzionalità.
+7.
+In conclusione sufficienti
+presupposti di legge, come anche esplicitati dalla prassi e dalla
+giurisprudenza, sono presenti nella situazione personale e processuale di __________
+a legittimare e giustificare il perdurare della cautelare privazione della sua
+libertà. Di conseguenza, l’istanza di libertà provvisoria in discussione, deve
+essere respinta con la presente decisione, esente da tassa e spese giudiziarie
+(art. 39 let. f TG e contrario) e impugnabile entro dieci giorni alla Camera
+dei ricorsi penali del Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
