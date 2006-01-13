@@ -1,0 +1,410 @@
+---
+decision_id: "ti_gerichte_INC.2005.51604"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.51604"
+decided: "2006-01-13"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=87299&nX40_KEY=4711262&nTrefferzeile=15&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-049.md", "switzerland/bund/acts/312.0/art-057.md", "switzerland/bund/acts/312.0/art-061.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-175.md", "switzerland/bund/acts/312.0/art-207.md", "switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-281.md"]
+---
+
+# TI Gerichte INC.2005.51604
+
+## Regeste
+
+Omissione PP
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 13.01.2006 INC.2005.51604
+Tessin Il Giudice dell'istruzione e dell'arresto 13.01.2006 INC.2005.51604
+Ticino Il Giudice dell'istruzione e dell'arresto 13.01.2006 INC.2005.51604
+
+Omissione PP
+
+Incarto n.
+INC.2005.51604
+Lugano
+13 gennaio 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sul reclamo presentato il 6/7
+dicembre 2005 da
+__________
+(patr. dall’avv. __________)
+contro
+la decisione 5 dicembre 2005 del Procuratore pubblico
+Arturo Garzoni di non stralciare dagli atti del procedimento penale il
+verbale di Polizia 17 dicembre 1998 della reclamante e di utilizzare i
+verbali e i documenti dell’istruzione formale e dibattimentale nel caso __________
+sfociato nella sentenza 13 maggio 2005 della Corte delle Assise Criminali di
+Lugano;
+viste le osservazioni 13 dicembre
+2005 del Procuratore pubblico Arturo Garzoni;
+visto l’inc. MP __________;
+ritenuto
+in fatto
+1.
+Per quanto riguarda i fatti si può far riferimento a quanto
+esposto nella decisione GIAR 516.2005.2 del 15 dicembre 2005 in re L.C.
+1.
+__________ è indiziata di essersi prestata, nella sua
+qualità di infermiera presso la __________ di __________, a commettere dei
+falsi documentali al fine di permettere le truffe in danno delle casse malati
+per cui è stato inchiestato e condannato il __________. __________ è stata
+interrogata una prima volta dalla Polizia cantonale, in qualità di indiziata,
+il 17 dicembre 1998, il 24 marzo 2004 ha poi ricevuto, a firma del magistrato
+precedentemente titolare dell’inchiesta, notifica di procedimento penale per
+titolo di complicità in truffa e falsità in documenti.
+Il 28 settembre 2005 il magistrato inquirente, con
+citazione di stessa data che annullava e sostituiva altra citazione del 13
+settembre 2005, ha citato __________, domiciliata a __________, nell'ambito del
+procedimento menzionato nel cappello della presente, a comparire in data 5
+dicembre 2005, alle ore 14.00, presso il Ministero pubblico di Bellinzona per
+essere interrogata quale indiziata....”
+2.
+__________ ha
+già inoltrato a questo giudice, oltre a quello che ci occupa, tre reclami
+nell’ambito dello stesso procedimento penale (Inc. GIAR 516.2005.1/2/3): i
+primi due contro la citazione a comparire spiccata dal Procuratore pubblico con
+richiesta di riconoscimento della nullità del verbale di Polizia 17 dicembre
+2004, della notifica di procedimento penale 24 febbraio 2004 e conseguente
+annullamento del procedimento penale e il terzo contro il diniego di accesso
+agli atti. Il primo reclamo è stato stralciato dai ruoli, il secondo –
+dichiarato in parte irricevibile – è stato respinto come pure il terzo.
+3.
+In data 5
+dicembre 2005 il Procuratore pubblico ha proceduto all’interrogatorio di __________
+in presenza della difesa, durante il quale la reclamante si è sostanzialmente
+avvalsa del suo diritto di rifiutarsi di rispondere.
+4.
+Con il reclamo
+oggetto della presente, __________, invocando gli stessi motivi che figurano
+nei reclami precedenti, insorge contro la decisione del PP di utilizzare il suo
+verbale di Polizia 17 dicembre 1998, di averlo quindi contestato alla
+reclamante, e di conseguenza di non averlo estromesso dagli atti come richiesto
+dalla difesa con lettera 28 novembre 2005 (Inc. GIAR 516.2005.4, allegato 2 al
+doc. 1) nonché di avere utilizzato documentazione dell’istruzione formale e
+dibattimentale del procedimento penale contro __________.
+A mente della
+difesa tale verbale di Polizia avrebbe dovuto essere stralciato dagli atti
+poiché non chiarito davanti al PP con sollecitudine. La difesa chiede lo
+stralcio di tutti i verbali e mezzi di prova provenienti dal procedimento
+penale contro __________ poiché non è stata data facoltà di esame atti prima
+dell’interrogatorio della reclamante ledendo il principio del contraddittorio.
+Tutto quanto
+figura nel verbale 5 dicembre 2005 di __________ davanti al PP sarebbe di
+conseguenza nullo e non potrebbe essere usato contro la reclamante.
+5.
+Con
+osservazioni 9 dicembre 2005 (Inc. GIAR 516.2005.4, doc. 4), il PP chiede che
+il reclamo venga respinto. Egli afferma che il verbale di Polizia 17 dicembre
+1998 di __________ non può essere considerato nullo dal momento che la
+reclamante è stata informata dall’inizio dei fatti e delle ipotesi di reato per
+i quali veniva interrogata in qualità di indiziata ed addirittura il verbale
+qui impugnato le era stato messo a disposizione prima dell’interrogatorio.
+e considerato
+In
+diritto
+A.
+__________ è
+indiziata nel procedimento penale e destinataria della decisione in
+discussione. Ella ha inoltrato reclamo nei termini di legge (art. 281 cpv. 1
+CPP) e di conseguenza il reclamo è ricevibile in ordine, anche se potrebbe
+essere dichiarato irricevibile vista l’identità d’oggetto e di argomentazioni
+con precedenti reclami, ora già oggetto di decisione.
+B.
+Per quanto
+riguarda il merito, il reclamo può dunque essere evaso con semplice ripresa
+delle argomentazioni contenute nella decisione 15 dicembre 2005 di questo
+giudice (Inc. GIAR 516.2005.2) che già si era chinato sulla richiesta di
+estromissione dagli atti, per asserita nullità, del verbale di Polizia
+17.12.1998 nonché per il lungo tempo trascorso dal verbale di Polizia alla sua
+delucidazione davanti al PP.
+“C.
+...
+In procedura penale, la nullità di un atto di procedura
+(e non quella del procedimento penale) è ammessa solo restrittivamente, in
+presenza di violazioni gravi di regole essenziali di procedura, quali
+l’incompetenza, la citazione irregolare al dibattimento, la violazione del
+diritto di essere sentiti e più in generale l’inosservanza dei diritti di
+difesa (G. Piquerez, Procédure pénale suisse, Zürich 2000, p. 736 ss.).
+L'estromissione di un mezzo di prova, o di un atto
+istruttorio, dall'incarto presuppone la sua nullità o la sua inutilizzabilità
+per inammissibilità della prova in quanto tale, rispettivamente violazione
+delle norme procedurali che ne regolamentano le modalità d'assunzione e non
+siano semplici prescrizioni d'ordine, bensì requisiti di validità (sentenza
+GIAR 23 maggio 2003 in re P.; si veda inoltre, per una trattazione più
+dettagliata e approfondita della problematica, L. Marazzi, Le prove
+nell'istruttoria penale predibattimentale, REP 2000, p. 39 ss); laddove
+l'utilizzabilità (Verwertbarkeit) non si confonde sempre e necessariamente con
+il valore o l'affidabilità dell'accertamento in quanto tale (decisione GIAR
+07.01.2004, inc. 237.2003.9);
+...
+b)
+Per quanto riguarda il verbale di Polizia 17 dicembre
+1998 (di cui una copia è stata consegnata dal PP al difensore della reclamante)
+lo stesso non appare, già ad una prima lettura, irrito, non emergendo dal suo
+contenuto irregolarità o violazioni del CPP, le censure della reclamante sono
+quindi sollevate a torto nel merito ed anche tardivamente rispetto alle norme
+della buona fede.
+La difesa ritiene nullo il verbale di Polizia 17
+dicembre 1998 di __________ con riferimento al mancato ossequio dell’art. 118
+CPP ed al fatto che si sia svolto senza un patrocinatore.
+Simili censure erano già state avanzate dai difensori
+di __________ alla Corte delle Assise criminali di Lugano durante la
+celebrazione del processo apertosi il 13 maggio 2005, quando avevano chiesto di
+accertare la nullità, con conseguente estromissione dall’incarto, dei verbali
+di Polizia o del PP nei quali le persone sentite come indiziati non erano state
+avvertite della facoltà di potersi avvalere di un avvocato.
+“Giusta l’art. 118 cpv. 2 CPP l’indiziato o accusato
+deve essere informato del suo diritto di non rispondere e del suo diritto di
+essere assistito da un difensore, con nota a verbale.
+Se, in concreto, è incontestato che alle persone
+interrogate dalla polizia come indiziati o accusati è stato ricordato il
+diritto di tacere, è altrettanto incontestato che non è stato loro ricordato il
+diritto di essere assistiti da un difensore.
+Per l’art. 49 CPP l’accusato può valersi in ogni stadio
+del procedimento dell’assistenza di un difensore.
+La prassi dell’Ufficio dei GIAR ha esteso il diritto
+del patrocinatore dell’accusato di partecipare ai suoi interrogatori (art. 61
+cpv. 1 CPP) anche alle informazioni preliminari (GIAR 3 novembre 1993,
+862.93.1L in re G.G.) evidenziando così l’essenzialità del diritto di difesa.
+Tuttavia questo diritto esiste con la riserva esplicita
+del cpv. 3 dell’art. 61 CPP per cui non è ammessa la presenza di difensori agli
+interrogatori davanti ad agenti di polizia.
+Per la Difesa, il diritto ad essere assistito da un
+avvocato non si esaurisce nel diritto alla presenza dell’avvocato all’atto
+istruttorio ma si estende al diritto di consultare l’avvocato prima di essere
+sottoposto a qualsiasi atto istruttorio, anche prima di quegli atti istruttori
+per cui non è ammessa la presenza del legale.
+La Corte non condivide quest’opinione e ritiene che,
+allo stadio attuale delle cose, il diritto di cui all’art. 118 cpv. 2 CPP deve
+essere inteso come diritto all’assistenza dell’avvocato nel corso dell’atto
+istruttorio in questione.
+Perciò, ritenuta la lex specialis dell’art. 61 cpv. 3
+CPP, la mancata informazione del diritto dell’indiziato di essere assistito da
+un difensore è per la Corte in contrasto unicamente con la lettera dell’art.
+118 cpv. 2 CPP ma non con la ratio legis di tale norma. Come e in che misura
+quei verbali – che non sono nulli e che pertanto rimangono agli atti – potranno
+essere utilizzati dalla Corte per l’accertamento delle responsabilità del __________
+è questione diversa cui potrà essere risposto soltanto dopo che l’accusato avrà
+avuto la facoltà di esercitare il diritto al contraddittorio.
+È certo, invece, che quei verbali possono essere
+utilizzati nell’ambito di una valutazione anticipata delle prove.”
+(Corte delle Assise criminali di Lugano 13 maggio 2005 in
+re R.R., p. 32)
+Abbondanzialmente, per quanto riguarda la presenza del
+difensore all’interrogatorio (effettuato dal Procuratore pubblico e non dalla
+Polizia, cfr. art. 61 cpv. 3 CPP), va poi ricordato che ai sensi dell’art. 57
+cpv. 2 CPP, l’esercizio dei diritti della difesa non può costituire motivo di
+rinvio di atti procedurali, salvo obbligatoria presenza e partecipazione
+dell’accusato o del suo difensore. Di conseguenza, anche qualora il verbale
+dell’indiziato o accusato si svolga davanti al Procuratore pubblico, il diritto
+di avvalersi di un avvocato, sebbene debba essere ricordato all’inizio del
+verbale, non comporta automaticamente la sospensione ed il rinvio
+dell’assunzione del mezzo di prova in caso la persona interrogata decida di
+farsi assistere in quel momento da un legale, ed il verbale così redatto in
+assenza del difensore non potrebbe essere considerato irrito. In altre parole,
+il fatto che l’indiziato o accusato che viene sentito dal Procuratore pubblico,
+dopo essere stato avvertito del suo diritto di rifiutarsi di rispondere e di
+essere assistito da un difensore decide di avvalersene, non pregiudica
+automaticamente e di per sé stesso la continuazione del verbale in assenza di
+un legale, ad eccezione dei casi di presenza obbligatoria del difensore
+previsti dalla legge. Certo, la persona verbalizzata a quel punto ha la facoltà
+di rifiutarsi di rispondere e ciò in quanto valutazione personale
+dell’esercizio di un diritto in quanto tale o semplicemente sintantoché non
+avrà trovato un difensore, e ciò naturalmente avrà un senso unicamente in caso
+di corretta indicazione alla persona verbalizzata del suo diritto di rifiutarsi
+di rispondere ai sensi dell’art. 118 CPP.
+Sulla base degli atti questo giudice ha potuto
+constatare che il verbale di Polizia di __________ inizia correttamente
+chiarendo il ruolo della persona interrogata e nelle grandi linee i fatti per
+cui si procede e cioè che la verbalizzata qui reclamante è sentita in qualità
+di indiziata “in relazione ad inchiesta in corso a fronte del procedimento
+penale contro i responsabili e/o ausiliari delle case di cura ____________________;
+per reati di truffa, falsità in documenti, commessi nell’ambito della gestione
+delle case di cura”, come le viene subito ricordato il suo diritto di
+rifiutarsi di rispondere ai sensi dell’art. 118 CPP.
+L’interrogatorio è iniziato alle ore 14.35 e si è
+concluso alle 16.20, ed è quindi durato poco meno di due ore; chiaramente si
+tratta di un primo interrogatorio, volto ad inquadrare la persona e la sua
+attività presso la __________ e volto a sondare le sue conoscenze sulle
+attività truffaldine che si sospettava avvenissero all’interno delle case di
+cura del __________ e la sua eventuale partecipazione a tali attività e se sì
+con che grado di conoscenza e partecipazione. La persona interrogata, dopo
+avere preso atto del suo diritto di rifiutarsi di rispondere, ha risposto a
+tutte le domande che le sono state poste, a volte raccontando quanto a sua
+conoscenza e a volte dichiarando di non sapere fornire una risposta
+all’interrogante (non di non volere rispondere). Nel verbale non sono annotate
+contestazioni specifiche, neppure la persona sentita ha comunicato eventuali
+contestazioni al Procuratore pubblico, e ciò non solo a ridosso, dal profilo
+temporale, del verbale 17 dicembre 1998, ma neppure in occasione della
+ricezione della notifica di procedimento penale del 24 febbraio 2004 inviatale
+dall’allora titolare dell’inchiesta.
+L’atto istruttorio in quanto tale non è stato impugnato
+con reclamo ai sensi dell’art. 280 CPP nei dieci giorni. Se è vero che una
+censura di nullità può essere sollevata in ogni momento, la stessa deve
+comunque rispettare i principi della buona fede.
+D.
+La difesa, dopo essersi dilungata in un’arringa
+difensiva della reclamante entrando nel merito del procedimento penale aperto
+nei suoi confronti, osserva in modo del tutto generico che le informazioni
+preliminari contro __________ si sono troppo dilatate nel tempo ledendone i
+diritti.
+Ritenuto che la giurisprudenza di questo ufficio si è
+più volte espressa a questo proposito,
+“Questo giudice non ha competenza per imporre al
+titolare dell'azione penale una promozione d'accusa, un non luogo, un abbandono
+o un rinvio a giudizio di qualsiasi tipo (REP 1997 n. 104). Ha però competenza
+di determinare se l'assenza di uno di questi atti da parte del magistrato
+inquirente costituisca una ritardata o denegata giustizia, rispettivamente se
+sia abusiva e/o se concorra alla violazione dei diritti delle parti al
+procedimento” (L. Marazzi, op. cit., pag. 18 e citazioni; G. Piquerez, op.
+cit., pag. 271, nota 25).
+Questo ufficio è sì competente per esprimersi in merito
+a questioni di denegata e/o ritardata giustizia (compresa la violazione del
+principio di celerità), ma nell’ambito di reclamo contro specifici atti o
+omissioni (anche di incombenti) e non in termini di mera “sorveglianza”
+sull’attività del Ministero pubblico. Altre conseguenze della violazione di
+tale principio (quali l’attenuazione della pena o, eccezionalmente,
+l’improcedibilità, DTF 117 IV 124) competono al giudice di merito. (cfr. GIAR
+14 novembre 2005 in re M.G.).
+Nel caso in esame va rilevato come la doglianza del
+lungo tempo trascorso tra il primo interrogatorio della reclamante, la notifica
+di procedimento penale e la citazione per essere sentita è sollevata per la
+prima volta in questa sede. Di conseguenza il reclamo, nell’ipotesi negata di
+sua ricevibilità in merito a questo punto, sarebbe contrario alla buona fede
+processuale
+.”
+Alla luce di
+quanto sopra se ne deduce che non potendosi ritenere nullo il verbale di
+Polizia 17.12.1998 di __________ tale sua utilizzazione non può avere
+conseguenza di nullità o annullabilità per il verbale della reclamante davanti
+al PP del 5 dicembre 2005.
+C.
+Anche la
+censura di mancato accesso agli atti è già stata decisa con la decisione 15
+dicembre 2005 di questo giudice (Inc. GIAR 516.2005.3) alla quale, anche in
+questo caso, si può fare integrale riferimento.
+“B.
+Per l'ovvia e fondamentale importanza che la conoscenza
+degli atti riveste nell'ambito di una difesa penale, vige notoriamente il
+principio che gli stessi sono liberamente accessibili all'accusato, salvo
+comunque contrarie esigenze d'inchiesta (art. 58 cpv. 1 e 60 cpv. 2 CPP).
+"Fondamentale
+"esigenza d'inchiesta" è l'immediatezza delle dichiarazioni
+dell'accusato: egli non deve poter ricevere informazioni sino a quel momento
+note unicamente agli inquirenti prima che le stesse gli siano state formalmente
+contestate. In caso contrario, verrebbe ripristinato quel pericolo di
+collusione che aveva magari già giustificato l'arresto dell'accusato; ed
+inoltre, quest'ultimo potrebbe costruirsi ad arte una linea di difesa
+compatibile con quanto
+l'accusa già conosce"
+(L. Marazzi, Il
+GIAR, Lugano 2001, § 3.II.2.1. p. 22, con rinvii a giurisprudenza e dottrina in
+nota 79 ibidi.). Va inoltre ricordato che il problema si pone in termini
+analoghi per l'accusato ed il suo patrocinatore, in particolare nei casi in cui
+il patrocinatore ha colloqui liberi con l'accusato (cfr. Rep. 1994, n. 114, p.
+114-115).
+Se è corretto (proceduralmente parlando) limitare
+l'accesso agli atti fino alla prospettazione/contestazione degli stessi per
+garantire immediatezza (delle risposte), non è altrettanto corretto ritardare
+oltre misura queste operazioni d'inchiesta ed il relativo divieto di prenderne
+visione. Da un lato l'art. 175 cpv. 2 CPP sancisce il principio della celerità
+dell'istruttoria per tempestiva definizione del procedimento, dall'altro il
+ritardo nella prospettazione d'eventuali prove (o indizi) a carico può
+pregiudicare (o rendere più difficoltosa) l'acquisizione di prove a discarico o
+di elementi di approfondimento di quanto prospettato. Pertanto la necessità di
+garantire l'immediatezza delle dichiarazioni dell'accusato non può essere
+invocata quale impedimento all'accesso agli atti se vi è un ritardo eccessivo
+nella loro contestazione.
+Dagli atti risulta che __________ è stata sentita una
+prima volta dalla Polizia cantonale, in veste di indiziata, in data 17 dicembre
+1998 e che il 24 febbraio 2004 le è stata inviata notifica di procedimento
+penale, apparentemente con l’intenzione dell’allora titolare dell’inchiesta di
+procedere con l’emanazione di un decreto d’accusa senza ulteriori formalità (la
+procedura di cui all’art. 207° CPP prelude infatti, sia per tenore letterale
+che per deduzione logica all’emanazione di un decreto d’accusa senza formalità
+ulteriori). Ciò senza che vi sia traccia nell’incarto, prima d’ora, di
+richieste di essere interrogata dal Procuratore pubblico e soprattutto di
+potere avere l’accesso agli atti. Nell’incarto figura poi un estratto del
+verbale del pubblico dibattimento contro __________, la sentenza di condanna
+della Corte delle Assise criminali del 13 maggio 2005 e una serie di verbali di
+Polizia e del PP (di quest’anno) di altri dipendenti delle tre cliniche del __________,
+pure loro indagati per truffa e falsità in documenti.
+Il PP attualmente titolare dell’inchiesta procede ora
+con l’audizione della qui reclamante per contestarle gli elementi probatori in
+suo possesso, risultanti dagli atti e dai verbali dei coindagati, e permetterle
+di fornire la sua versione dei fatti.
+In siffatte circostanze risposte preconfezionate sulla
+base di atti già visionati non solo sarebbero inutili per la ricerca della
+verità, ma anzi rischierebbero di essere di nocumento per la credibilità
+dell’indiziata reclamante (che, non lo si dimentichi, è validamente patrocinata
+da un legale e che ha comunque piena facoltà di rifiutarsi di rispondere). Se è
+vero che __________ sa di entrare in considerazione per l’allestimento di
+cardex (cartelle cliniche) falsi – ella infatti ha a disposizione il suo verbale
+di Polizia 17 dicembre 1998 –, è altrettanto vero che non può sapere che cosa
+abbiano dichiarato suoi colleghi e tutto quanto (per esempio i cardex da lei
+compilati) hanno raccolto le Autorità inquirenti. Le suddette considerazioni
+rafforzano la necessità di vietare all’indiziata e al suo difensore l’accesso
+agli atti fino al chiarimento dinanzi al magistrato della deposizione resa
+davanti alla Polizia ed alla contestazione dei mezzi di prova raccolti dagli
+inquirenti – come sembra d’altronde far capire il magistrato inquirente nella
+decisione impugnata (“...
+il tutto in considerazione del fatto che alla sua
+assistita non sono ancora state effettuate delle precise contestazioni, specie
+riguardo sue eventuali responsabilità penali
+.”) – e non per il fatto che
+non le è stata promossa l’accusa (intendendo verosimilmente peraltro procedere
+il PP senza tale formalità ai sensi dell’art. 207aCPP).
+È ben vero che __________ è stata interrogata la prima
+e l’ultima volta nel dicembre del 1998, ma giova evidenziare che il PP ha
+spiccato una citazione per l’indiziata per il 5 dicembre 2005. Questo giudice
+non sa se tale interrogatorio sia avvenuto ed in particolare se l’indiziata si
+sia presentata per essere interrogata. Vista la vicinanza temporale tra la
+citazione, la richiesta di accesso agli atti e la data dell’interrogatorio,
+ancora si giustificava la non concessione parziale dell’accesso agli atti fino
+ad espletazione dello stesso per salvaguardare il principio dell’immediatezza
+(anche a favore dell’indiziata), ritenuto che il periodo intercorrente fra la
+presente decisione (probabilmente successiva all’interrogatorio di __________)
+e l’effettivo accesso agli atti, anche in caso di rinvio del verbale previsto
+per il 5 dicembre 2005, non è tale da ledere il principio di proporzionalità.
+Va da sé che al termine dell’interrogatorio, nel quale
+saranno prospettate all’accusata le risultanze dell’inchiesta in corso,
+l’accesso agli atti sarà dato e completo anche perché, in ogni caso, il
+problema dell’accesso agli atti sarà superato dalle prospettazioni che
+avverranno nel verbale già espletato o di prossimo espletamento.”
+Gli argomenti
+sopra esposti mantengono la loro validità anche nella presente (identica)
+fattispecie.
+D.
+In
+conclusione, il reclamo é respinto ai sensi dei considerandi con la presente
+decisione definitiva, con carico di tasse e spese di giustizia (che tengono
+conto della temerarietà del reclamo per i motivi esposti) alla reclamante
+soccombente.
+P.Q.M
+visti gli
+artt. 146 e 251 CP, nonché 60 ss., 117 ss. e 280 ss. CPP, nonché 284 e
+contrario CPP, 6 CEDU, 39 lett. f) LTG, 2 CCS;
+decide
+1.
+Il
+reclamo è respinto.
+2.
+La tassa di giustizia, fissata in CHF 300.-- e le spese
+di CHF 100.--. sono a carico della reclamante.
+3.
+La
+presente decisione è definitiva (a livello cantonale).
+4.
+Intimazione:
+giudice
+Claudia Solcà
