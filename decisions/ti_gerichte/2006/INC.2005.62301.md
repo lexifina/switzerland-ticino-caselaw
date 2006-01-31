@@ -1,0 +1,363 @@
+---
+decision_id: "ti_gerichte_INC.2005.62301"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.62301"
+decided: "2006-01-31"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=87569&nX40_KEY=4711260&nTrefferzeile=23&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/311.0/art-155.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2005.62301
+
+## Regeste
+
+Sequestro. Ordine di sequestro annullato per carenza di motivazione
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 31.01.2006 INC.2005.62301
+Tessin Il Giudice dell'istruzione e dell'arresto 31.01.2006 INC.2005.62301
+Ticino Il Giudice dell'istruzione e dell'arresto 31.01.2006 INC.2005.62301
+
+Sequestro. Ordine di sequestro annullato per carenza di motivazione
+
+Incarto n.
+INC.2005.62301
+Lugano
+31 gennaio 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sul reclamo presentato il 28/30
+novembre 2005 da
+__________
+, __________
+(patr. dagli avv. dr. iur. __________ e avv. __________, __________)
+contro
+gli ordini di perquisizione e sequestro del 15 novembre
+2005 della Sostituta PP Chiara Borelli, nell’ambito del procedimento penale a
+carico di __________ per titolo di contraffazioni di merci (art. 155 CP);
+viste le osservazioni 8/9
+dicembre 2005 del magistrato inquirente,
+letti ed esaminati gli atti (Inc.
+MP __________);
+considerato,
+in fatto
+A.
+Preliminarmente conviene
+ricordare che in data 15 novembre 2005 la Polizia cantonale si trovava presso i
+locali della __________ di __________, a mano di un ordine di perquisizione e
+sequestro sottoscritto dalla Sostituta PP Borelli, per procedere ad una
+perquisizione richiesta in via rogatoriale dalla Procura della Repubblica di
+Roma che ha aperto un procedimento penale contro terze persone – che
+apparentemente nulla hanno a che vedere con il qui reclamante – per diversi
+titoli di reato connessi con la contraffazione di opere d’arte.
+Durante la perquisizione gli
+agenti di Polizia hanno preso visione, casualmente, di alcuni quadri d’autore
+depositati dal reclamante presso i locali della __________ e ne hanno informato
+il magistrato inquirente il quale ha aperto immediatamente un procedimento
+penale contro __________ per titolo di contraffazione di merci e ha
+contestualmente disposto il sequestro delle tele con l’ordine 15 novembre 2005
+(Inc. GIAR 623.2005.1, doc. 3) qui impugnato, a seguito del quale sono stati
+sequestrati i quadri elencati nel verbale di sequestro 15.11.2005 allegato al
+rapporto di esecuzione 22 novembre 2005 della Polizia cantonale (AI 5).
+Con ordine di stessa data la
+Sostituta PP ha ordinato la perquisizione dell’abitazione del reclamante a __________
+(Inc. GIAR 623.2005.1, doc. 4) – perquisizione avvenuta il giorno successivo
+alla presenza dell’Autorità comunale vista l’assenza del reclamante – che ha
+portato al sequestro di ulteriori tele e documentazione varia come si evince
+dal verbale di sequestro 16.11.2005 allegato al rapporto di esecuzione 22 novembre
+2005 della Polizia cantonale (AI 5).
+Il 24 novembre 2005 __________ è
+stato interrogato in qualità di indiziato dalla Polizia cantonale (AI 6) sulla
+provenienza, valore, proprietà attuale e autenticità o meno delle tele
+sequestrate.
+Su richiesta del magistrato
+inquirente la Polizia cantonale ha provveduto ad inviare le fotografie digitali
+di 5 opere sequestrate al reclamante (un Picasso, un Tintoretto, un Goya, un
+Cornadia e un El Greco) alla società __________ di __________. Con lettera 6
+dicembre 2005 la direttrice __________ rispondeva che le opere “
+sembrano
+corrispondere a delle copie e comunque i nostri specialisti non pensano che si
+tratti di opere originali di questi autori
+” (lettera 6 dicembre 2005
+allegata al rapporto d’esecuzione 7.12.2005, AI 8).
+B.
+Avverso gli ordini di
+perquisizione e sequestro summenzionati è insorto __________ postulandone
+l'annullamento (Inc. GIAR 623.2005.1, doc. 1). Dopo avere rievocato le
+circostanze dei sequestri la difesa sostiene che il magistrato inquirente ha agito
+nei confronti del reclamante in maniera del tutto indiscriminata ed in assenza
+di sospetti di reato. __________ detiene i dipinti legittimamente, essendo un
+collezionista e restauratore, e nessuno dei quadri sequestrati è stato
+segnalato come rubato o come falsificato anzi, la documentazione sequestrata
+proverebbe l’origine lecita delle tele che, in parte, sarebbero state
+depositate da anni a __________ e presso il domicilio del reclamante. Per
+quanto riguarda le procedure penali aperte a suo tempo ed in Italia contro __________,
+la difesa sostiene che dal 1996 egli non è più oggetto di alcuna segnalazione.
+Le perquisizioni ed i sequestri
+qui impugnati sarebbero frutto di una ricerca indiscriminata di prove ed il
+solo fatto che una persona è stata oggetto in passato di procedimenti penali
+all’estero, non “
+costituisce di per sé un indizio sufficiente per motivare
+provvedimenti coercitivi così incisivi come quelli in esame
+”.
+La difesa censura poi le modalità
+d’esecuzione della perquisizione avvenuta presso il domicilio del reclamante e
+solleva dubbi sulla competenza del Sostituta PP nel procedere nell’ambito di
+reati di una certa gravità.
+C.
+Con osservazioni 8/9 dicembre
+2005 (Inc. GIAR 623.2005.1, doc. 6) il magistrato inquirente, riassunti
+sommariamente i fatti, evidenzia che nell’ambito di una perquisizione ordinata
+presso la __________ di __________ per un procedimento contro terze persone “
+si
+rinveniva un dipinto a firma Picasso. Tale dipinto era stato dato in deposito
+dal qui denunciato __________ alla __________ in data 9.09.2005. .... In
+considerazione del ritrovamento di un’opera di Picasso, ricordato come dagli
+atti di cui al procedimento penale estero
+(contro terze persone, n.d.r.)
+si
+evincono possibili alterazioni di opere di detto autore, si procedeva a
+richiedere una nota informativa alle autorità giudiziarie italiane sulla
+persona di __________. Questi risultava conosciuto per
+alterazione/contraffazione/riproduzione di opere d’arte. ...
+Ritenuto come è possibile
+ordinare la misura coercitiva del sequestro già in presenza del solo sospetto
+di un agire delittuoso (Hauser/Schweri, Schweizerisches Strafprozessrecht, 5ed,
+Basilea 2002, §69 n. 1) non si può non ritenere, nell’ottica del prospettato
+reati di contraffazione merci ex art. 155 CP, giustificato procedere ad un
+sequestro di tutte le opere onde effettuare i necessari accertamenti
+”
+(osservazioni, p. 1 e 2). A mente del magistrato inquirente la documentazione
+sequestrata non permetterebbe di ritenere i quadri sequestrati autentici che
+anzi, sembrerebbero delle copie anche per gli esperti di __________.
+E ritenuto
+in diritto
+1.
+__________, indiziato nel
+procedimento penale nell'ambito del quale sono state emanate le decisioni
+impugnate, nonché detentore della merce sequestrata, è legittimato all'inoltro
+del reclamo. Il gravame, tempestivo, è quindi ricevibile in ordine.
+2.
+In materia di sequestro (e
+dissequestro) si ricorda, in diritto, che l’art. 161 cpv. 1 CPP impone al
+magistrato penale di ordinare il sequestro di tutti gli oggetti che possono
+avere importanza per l’istruzione del processo, alternativamente o
+cumulativamente come mezzi di prova o in quanto passibili di confisca o
+devoluzione allo Stato. Il sequestro, per la sua qualità di provvedimento
+eminentemente cautelare, ha lo scopo di acquisire e conservare gli oggetti di
+cui sopra al seguito della procedura e quindi per le necessità dell’istruzione
+preliminare, per decisioni del magistrato requirente e quelle del giudice del
+merito, come evidenziato nella duplice prospettiva - alternativa o cumulativa -
+della produzione e valutazione delle prove (sequestro probatorio) e delle
+decisioni di confisca, restituzione o devoluzione (sequestro confiscatorio) (v.
+decisione 8 maggio 1998, inc. GIAR 516.97.3, in: Rep. 131 [1998] nr. 117,
+consid. 1a p. 359).
+Come ogni misura d'inchiesta, il
+sequestro (così come il suo mantenimento) deve poggiare sull’esistenza di gravi
+indizi di colpevolezza, deve apparire necessario per il giudizio di merito (nel
+senso che deve essere connesso con l’oggetto che occorre salvaguardare agli
+incombenti processuali e di giudizio, v. decisione 17 agosto 1998 in re E.F.,
+inc. GIAR 501.98.2 consid. 2), infine deve essere rispettoso del principio di
+proporzionalità (v. Gérard Piquerez, Précis de procédure pénale suisse, 2. éd.
+Lausanne 1994, margin. 1441, 1454 e 1469, con rinvii; Rep. 131 [1998] nr. 117,
+consid. 1a p. 360; decisione 31 marzo 2000 in re banche X e Y, inc. GIAR
+386/387.99.15, consid. 2b p. 6).
+3.
+a)
+Nell’esame dell’esistenza di
+gravi indizi di colpevolezza, lo scrivente giudice deve imporsi precisi limiti,
+derivantigli da un lato dalla sua funzione - che è quella di esaminare
+l’esistenza dei presupposti formali per l’emanazione (rispettivamente il
+mantenimento) dell’ordine contestato, e
+non di valutare nella sostanza
+l’esistenza di un reato e, dall’altro - ma in maniera strettamente congiunta
+con quanto si viene di dire - dall’inopportunità di considerazioni di merito
+premature e, soprattutto, di competenza delle sedi di giudizio. La verifica della
+fondatezza dei presupposti (tutti e non solo quello relativo all’esistenza dei
+gravi indizi di reato) deve, inoltre, essere costante, con sempre accresciuta
+esigenza probatoria indiziante approssimantesi alla verità materiale (CRP 5
+agosto 1991 in re I.). Altrimenti detto, nella fase iniziale del procedimento
+le esigenze probatorie sono diverse (e minori) per rapporto alle fasi
+successive.
+Quanto sopra,
+ovviamente, vale nei due sensi. Cioè, se da un lato questo giudice non deve
+spingere l'analisi dei gravi indizi di reato indicati fino ad emettere veri e
+propri giudizi di merito, dall'altro neppure deve sostituirsi a chi ha
+competenza per avviare il procedimento nell'individuazione e determinazione
+degli stessi (GIAR 6 agosto 2001 in re C.; CRP 23 maggio 2001 in re R.; Rep.
+1994 p. 463).
+E' bene ricordare, anche se
+superfluamente, che il procedimento si trova allo stadio delle indagini
+preliminari, intese ad accertare il sospetto di reato, con valenza di
+verosimiglianza ed evidentemente non di giudizio di merito, il sequestro
+essendo strumento - come ricordato sopra - conservativo e non definitivo, come
+sarebbe la confisca che deve poggiare su elementi di prova certi e verificati
+in contraddittorio. Non va inoltre dimenticato che non è stato ancora dato accesso
+agli atti ad eccezione del verbale d’interrogatorio di __________ (AI 6).
+b)
+Il reclamante chiede
+l'annullamento degli ordini e dissequestro di tutti gli oggetti posti sotto
+sequestro penale, contestando in particolare l'esistenza a suo carico di gravi
+e concreti indizi di colpevolezza, rispettivamente l’incompetenza della
+Sostituta PP nonché il fatto che ci si trovi confrontati con una ricerca
+indiscriminata di prove.
+In concreto, le decisioni
+impugnate, praticamente identiche, fanno riferimento al procedimento a carico
+di __________ per titolo di contraffazione di merci e, oltre a non menzionare i
+fatti per i quali si procede, neppure è indicata almeno la tipologia degli
+oggetti da sequestrare.
+In sede di osservazioni, il
+magistrato inquirente si limita ad una breve e sommaria descrizione della
+fattispecie e ad indicare che
+è possibile ordinare la misura coercitiva del
+sequestro già in presenza del solo sospetto di un agire delittuoso
+(Hauser/Schweri, Schweizerisches Strafprozessrecht, 5ed, Basilea 2002, §69 n.
+1) non si può non ritenere, nell’ottica del prospettato reato di contraffazione
+merci ex art. 155 CP, giustificato procedere a un sequestro di tutte opere onde
+effettuare i necessari accertamenti
+” (osservazioni, p. 1 e 2), e che
+__________
+“
+risultava conosciuto per alterazione/contraffazione/riproduzione di opere
+d’arte”
+e che specialisti di __________ hanno affermato che le tele
+sequestrate sembrerebbero delle copie, senza tuttavia indicare né i seri e
+concreti indizi di colpevolezza a carico di __________ né tantomeno da quali
+circostanze risulterebbe che lo stesso ha agito a scopo di frode nel commercio
+e nelle relazioni d’affari o ha fabbricato o tenuto in deposito al fine di
+commercializzarle, merci il cui reale valore venale è inferiore a quanto fan
+pensare le apparenze, segnatamente per avere contraffatto o falsificato merci.
+In particolare, allo stadio
+attuale dell'inchiesta, non vi sono indizi che fanno pensare che __________
+detenesse i quadri ora sotto sequestro allo scopo di metterli in commercio. Non
+è neppure possibile sostenere che le tele poste sotto sequestro penale siano
+state fabbricate e/o tenute in deposito da __________ allo scopo di venire
+immesse nel commercio come autentiche, non bastando al proposito il parere di
+non meglio precisati esperti di una casa d’asta – parere che tra l’altro
+sarebbe stato espresso soltanto analizzando delle fotografie – a proposito
+dell’autenticità delle stesse. Per di più, al di là di informazioni a proposito
+sull’autenticità dei dipinti, non è stato effettuato alcun accertamento presso
+la __________ volto ad accertare da quando le tele erano depositate presso i
+magazzini della ditta, eventuali spostamenti delle tele, l’eventualità che le
+stesse fossero mostrate a terzi scopo vendita. Del resto, solo il reclamante è
+stato sentito, dalla Polizia, unicamente a proposito dell’autenticità o meno
+delle tele, della loro provenienza, del proprietario attuale e del valore
+d’acquisto o presunto.
+Visto quanto precede, il fatto
+che siano stati rinvenuti nell’appartamento di __________ oggetti e sostanze in
+uso a restauratori – che teoricamente potrebbero anche essere utilizzati per
+falsificare dei dipinti – non appare sufficiente a dimostrare un comportamento
+penalmente rilevante da parte di __________ che tra l’altro di professione è
+restauratore.
+Il magistrato inquirente non ha
+quindi motivato l'esistenza di seri e concreti indizi di colpevolezza a carico
+di __________, né nella decisione impugnata, né in sede di osservazioni.
+c)
+Da tutto quanto sopra, e richiamato
+il principio per cui a questo giudice (quale autorità di reclamo) compete
+unicamente la verifica della conformità delle decisioni alla legge e non quella
+di sostituirsi al magistrato inquirente nell'emanazione delle decisioni o nella
+determinazione /individuazione degli indizi di reato (GIAR 6 agosto 2001 in re
+C.), si deve concludere che nel caso in esame la motivazione dell'ordine di
+perquisizione e sequestro in merito all'indicazione degli indizi di
+colpevolezza a carico di __________ è, quantomeno carente e non permette
+verifica concreta di legalità (anche per il fatto che tali elementi non
+emergono dagli atti indicati dal magistrato inquirente in sede di
+osservazioni).
+4.
+In merito a necessità ed
+importanza di motivazione, questo ufficio ha già avuto modo di precisare che:
+"
+nell’ambito delle informazioni preliminari (e
+dell’istruttoria formale) le decisioni di dissequestro (e prima ancora quelle
+di sequestro), sono di competenza del magistrato inquirente così come le
+relative motivazioni;…omissis…; alle parti è data solo la facoltà di formulare
+istanze in tal senso, rispettivamente di richiedere (al GIAR in prima, quando
+non unica, istanza) il controllo della legalità delle decisioni adottate dal
+titolare dell’azione penale (GIAR 30 dicembre 1997 in re T., 241.96.4); le
+decisioni del magistrato inquirente debbono, comunque, essere motivate;
+l’obbligo di motivazione discende dal diritto di essere
+sentito e dalla garanzia di un equo processo (art. 29 CF, art. 6 CEDU), che
+concerne tutte le parti al procedimento, ed è pure codificato nel CPP (art. 6);
+tale obbligo non concerne solamente istanze e gravami (CRP 20.07.1994, 249/94;
+GIAR 13.01.2001, 436.2000.6), ma anche le decisioni del Procuratore pubblico,
+compresi gli ordini di perquisizione e sequestro; le parti al procedimento
+hanno diritto di conoscere le ragioni che hanno indotto il magistrato a
+decidere in un senso o in un altro; la motivazione è presupposto essenziale per
+la verifica della fondatezza della decisione sia per le parti al procedimento
+che per l’autorità di reclamo/ricorso, che deve verificare la conformità;
+l’assenza di motivazione costituisce un “vizio capitale” della decisione (DTF
+98 Ia 460; DTF 9.02.1994, I Corte di diritto pubblico, in re L.; GIAR 5.05.1995
+in re K .L.; GIAR 15.03.1995 in re L. B.; G. Piquerez, Procedure Pénale Suisse,
+ZH 2000, nos. 796, 798; art. 6 CPP);
+spetta al magistrato inquirente motivare (al momento in
+cui vengono emanate) le sue decisioni, per rapporto agli indizi di reato, alle
+necessità probatorie e/o di confisca (rispettivamente di garanzia ex 59 cifra 2
+CP); secondo dottrina e giurisprudenza, il diritto di essere sentito (da cui
+discende l’obbligo di motivazione) è garanzia di natura formale, la cui
+violazione comporta l’annullamento della decisione impugnata, indipendentemente
+dalle possibilità di successo del ricorso sul merito (DTF 119 Ia 136;
+Hauser/Schweri, Schweizerisches Strafprozessrecht, Basilea 1999, § 55 no. 4; G.
+Piquerez, La motivation des décisions de justice en droit pénal, in Festschrift
+für Jörg Rehberg, Zurigo 1996, p. 261; CRP 31 luglio 2001 in re B.; GIAR 9
+maggio 2001, 165.2000.2);
+l’obbligo di motivazione non concerne, ovviamente, solo
+le decisioni penali; nell’ambito civile il difetto di motivazione rende
+addirittura nulla la decisione, nullità rilevabile d’ufficio (REP 1994 p. 382);
+…omissis…
+Va pure detto che dottrina e giurisprudenza ammettono
+(in particolare per le decisioni incidentali nell’ambito di un procedimento
+penale) decisioni sommarie, a condizione che si esprimano sugli elementi
+essenziali per il controllo della legalità (REP 1996 331; REP 1992 334; DTF 9
+febbraio 1994; G. Piquerez, in Festschrift für Jörg Rehberg, Zurigo 1996, p.
+257 ss; N. Schmid, Strafprozessrecht, Zurigo 1997, p. 60/61); è pure ammesso
+che il difetto di motivazione possa essere sanato (in determinate situazioni)
+in sede di osservazioni, visto il carattere particolare delle decisioni
+incidentali emanate in fase istruttoria;
+"
+(sentenza 6.08.2001, inc. GIAR
+528.2000.3)
+Pur
+considerando facoltà (e a volte necessità) di motivare sommariamente una
+decisione incidentale, nel caso in esame si deve concludere che la decisione in
+questione non si esprime in modo sufficiente (neppure in sede di osservazioni)
+sugli elementi essenziali per il controllo della legalità (cfr. considerando
+3). In conclusione, l'ordine di perquisizione e sequestro impugnato deve essere
+annullato per carenza di motivazione quo ai gravi indizi di reato.
+5.
+L'annullamento della decisione
+impugnata non può avere, n
+é
+ha, quale conseguenza
+l'emanazione di una decisione sostitutiva da parte del GIAR, ma unicamente il
+ritorno dell'incarto al Procuratore pubblico che, se lo riterrà, potrà emanare
+una ulteriore decisione con motivazione adeguata (per analogia : REP 1994 p.
+436).
+L'esito del gravame comporta che
+tasse e spese rimangono a carico dello Stato, con assegnazione di ripetibili a
+favore del reclamante.
+P.Q.M
+viste le norme applicabili, in
+particolare gli artt. 59, 155 CP, 161 ss, 280, 284 CPP, 29 CF,
+decide
+Il reclamo é accolto.
+§   Di conseguenza gli ordini di perquisizione e
+sequestro del 15 novembre 2005, emanati nell'incarto MP 2005.9561, sono
+annullati.
+La tassa di giustizia di FRS 100.-- e le spese in FRS 50.--
+rimangono a carico dello Stato, che rifonderà al reclamante FRS 250.-- a
+titolo di ripetibili.
+Contro la presente decisione è dato reclamo alla Camera dei
+ricorsi penali del Tribunale di Appello, Lugano, entro 10 (dieci) giorni
+dall'intimazione.
+Intimazione:
+giudice
+Claudia Solcà
