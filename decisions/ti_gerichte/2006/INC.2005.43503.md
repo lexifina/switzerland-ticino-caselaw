@@ -1,0 +1,354 @@
+---
+decision_id: "ti_gerichte_INC.2005.43503"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.43503"
+decided: "2006-02-13"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=87773&nX40_KEY=4711259&nTrefferzeile=7&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2005.43503
+
+## Regeste
+
+Proroga del carcere preventivo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 13.02.2006 INC.2005.43503
+Tessin Il Giudice dell'istruzione e dell'arresto 13.02.2006 INC.2005.43503
+Ticino Il Giudice dell'istruzione e dell'arresto 13.02.2006 INC.2005.43503
+
+Proroga del carcere preventivo
+
+Incarto n.
+INC.2005.43503
+Lugano
+13 febbraio 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia
+Solcà
+sedente per statuire sull'istanza di proroga del carcere
+preventivo presentata il 2 febbraio 2006 dal
+Procuratore pubblico Nicola Respini,
+MP Lugano
+nei confronti di
+__________
+accusato di
+infrazione aggravata alla LStup (art. 19 cifra 2 LStup);
+visto lo
+scritto 9/10 febbraio 2006 presentato dalla difesa;
+visto
+l'incarto MP __________;
+ritenuto e
+considerato
+in
+fatto ed in diritto
+che:
+-
+__________ è stato arrestato il 2 marzo 2005 a __________ (__________)
+su ordine d’arresto internazionale 15 febbraio 2005 (AI 8) del Procuratore
+pubblico Nicola Respini siccome accusato di infrazione aggravata alla LStup ed
+è giunto in Ticino, in estradizione dagli __________, in data 18 agosto 2005;
+egli è accusato di avere ripetutamente venduto da solo ed in correità con terze
+persone, tra il 2002 e marzo 2004, in varie località del __________ e del __________,
+un imprecisato quantitativo di cocaina, valutato in almeno 4’550/5'350 grammi,
+a numerosi spacciatori e consumatori locali, sostanza di cui si riforniva da
+cittadini sudamericani. Il 19 agosto il PP Nicola Respini ha richiesto a questo
+giudice la conferma dell’arresto di __________ promuovendo l’accusa nei suoi
+confronti per infrazione aggravata alla LStup e considerata l’esistenza di
+motivi di interesse pubblico quali i bisogni dell’istruzione, il pericolo di
+collusione, il pericolo di fuga (doc. 1 e 2 inc. GIAR 435.2005.1);
+-
+il 19 agosto 2005 l'arresto di __________ è stato confermato da
+questo giudice ritenuti presenti gravi e concreti indizi di colpevolezza,
+nonché necessità istruttorie in relazione con il pericolo di collusione, e
+pericolo di fuga (doc. 5 inc. GIAR 435.2005.1);
+-
+approssimandosi il termine di scadenza della detenzione ex art.
+102 cpv. 2 CPP, il magistrato inquirente ha inoltrato richiesta per una proroga
+di 2 (due) mesi (Istanza 2 febbraio 2006), allo scopo di potere evadere
+oggettivi bisogni istruttori quali gli interrogatori a confronto tra l’accusato
+e __________ (moglie dell’accusato) e __________ (entrambi chiesti
+dall’accusato e dalla difesa) nonché procedere ad ulteriori interrogatori a
+confronto, sempre richiesti dall’accusato, che dovrebbe fornire a breve,
+tramite il suo difensore, i nominativi delle persone da interrogare, procedere
+al deposito degli atti ed evadere eventuali complementi d’inchiesta che
+l’accusato dovesse nuovamente richiedere (Istanza, pag. 3);
+-
+a mente del magistrato inquirente, la proroga richiesta è
+rispettosa del principio della proporzionalità – il carcere preventivo
+sofferto, anche se prorogato, non supera la presumibile penale privativa della
+libertà che potrebbe essere inflitta all’accusato dal giudice di merito – e si
+fonda sull'esistenza di gravi indizi di reato, sul pericolo di collusione e di
+inquinamento delle prove – la messa in libertà provvisoria dell’accusato
+potrebbe compromettere l’esito dell’inchiesta visti gli accertamenti da
+esperire – e sul pericolo di fuga, essendo l’accusato cittadino straniero e
+potendo preferire la latitanza all’estero in vista della concreta prospettiva
+di una pesante condanna, tenuto conto che il suo matrimonio con __________, che
+non è ancora stato registrato in Svizzera, appare fortemente compromesso.
+(Istanza, pag. 3);
+-
+la difesa, con scritto 9/10 febbraio 2006, non si oppone alla
+richiesta di proroga nei termini formulati dal PP;
+-
+l'istanza, presentata dall'autorità competente ed entro un
+termine ragionevole per rapporto alla scadenza di cui all'art. 102 cpv. 2 CPP,
+è ricevibile;
+-
+i principi che reggono la materia, pur se noti al magistrato
+inquirente ed al difensore, vengono qui brevemente richiamati:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con maggior
+rigore nella loro valutazione, quanto più si è protratta la restrizione della
+libertà e quanto più si avvicina la conclusione delle indagini (REP 1988 pag.
+416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei ricorsi
+penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag. 128)."
+(per tutte:
+sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+-
+l'assenza di opposizione, alla richiesta di proroga, da parte della
+difesa non esenta questo giudice da una verifica dell'esistenza dei presupposti
+per il mantenimento (se si preferisce: la proroga) della carcerazione
+preventiva;
+-
+nel caso in esame non occorre dilungarsi più di tanto per
+confermare l'esistenza di gravi indizi di reato in capo all'accusato per i
+fatti che gli sono imputati, basti qui ricordare le ammissioni fatte davanti al
+PP ed in presenza del suo legale in data 19 gennaio 2006 (AI 46, p. 2 e ss.)
+quando __________ ha confermato di avere venduto a varie persone un
+quantitativo di circa 500/550 grammi di cocaina, come pure quanto emerso nel
+corso dell’inchiesta denominata __________ (cfr. rapporto di complemento 17
+ottobre 2005 e rapporto d’inchiesta di Polizia giudiziaria del 17 gennaio 2005)
+aperta nei confronti di numerosi cittadini svizzeri, sudamericani e di altre
+nazionalità nella quale diversi accusati, tra cui __________ (Moglie di __________),
+i fratelli __________ e __________, __________, __________, __________ ed
+altri, hanno formulato chiamate in correità nei confronti di __________ (cfr. AI
+51, verbale a confronto tra __________ e __________ del 30 gennaio 2006; AI 52,
+verbale a confronto tra __________ e __________ del 30 gennaio 2006). Anche la
+moglie dell’accusato chiama in correità il marito e, in un verbale a confronto
+con il coniuge __________, ha, tra le altre cose, dichiarato che: “
+Confermo
+che alcuni mesi prima di partire per __________ il 30 novembre 2003 ho saputo
+che __________ trafficava cocaina. L’avevo sentito da alcuni conoscenti e poi
+avevo visto degli amici che venivano a casa nostra. ...
+.C
+onfermo che 7
+teneva della cocaina a casa, in particolare in un barattolino bianco nel bagno.
+Era sotto forma di sacchettini. Non so quanta fosse. Più o meno in due
+circostanze ho visto __________ consegnare della cocaina a dei ragazzi.
+.....che lui conservava la cocaina anche in campagna, nei pressi
+dell’abitazione di mia madre, nel comune di __________. ...che penso che lui
+andava a prendere la cocaina a __________. ...Lui mi diceva che andavamo a
+prendere droga a __________. ...che __________ vendeva cocaina a __________, a
+tale __________ e ad un signore che veniva nel nostro appartamento ma del quale
+non ricordo il nome. ...Confermo che ho pure accompagnato __________ nelle
+consegne di cocaina. Era lui che guidava l’auto perché io non ho la patente,
+Lui teneva dei piccoli sacchettini in mano. Lui scendeva dall’auto ed andava a
+fare le consegne, mentre io l’aspettavo in auto. ...Confermo che quando sono
+rientrata da __________, nel mese di marzo 2004, dopo qualche tempo sono stata
+contattata da __________, il quale mi riferiva che secondo le disposizioni
+ricevute da __________ dovevo consegnargli della cocaina che lui aveva lasciato
+depositata a casa di mia madre. Se ben ricordo era nascosta nella cantina di
+mia madre all’interno di un bidone da 5 litri di birra. ...che erano 15 ovuli.
+13 li ho consegnati a __________ mentre gli altri due li ho regalati a mia
+cugina __________. ...Confermo di avere incassato da Cersa fr. 1'000.- di un
+debito complessivo di fr. 3'000.- che lei aveva nei confronti di __________
+(AI
+36 verbale a confronto tra __________ e __________ del 28 ottobre 2005, p. 2, 3
+e 4).
+-
+In merito ai bisogni istruttori atti a giustificare la detenzione
+preventiva ed il suo perdurare, vi é consolidata giurisprudenza (e dottrina):
+"
+In relazione ai bisogni istruttori, atti a giustificare
+la misura restrittiva della libertà personale, occorre ricordare che questi non
+s'identificano semplicemente con gli atti istruttori in quanto tali, o con gli
+accertamenti (ancora) da effettuare, bensì con il pericolo di collusione o
+d'inquinamento delle prove che (eventualmente) espone a rischio la corretta
+raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale suisse,
+ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697 ss.;
+RDAT 1988 no. 24).
+In quest'ottica
+il fatto che l'inchiesta sia tuttora in corso non è, di per sé, decisivo, in quanto
+"
+Die Tatsache allein, dass noch nicht alle Beweise erhoben bzw. die
+Mitverdächtigen dingfest gemacht werden konnten oder dass der Angeschuldigte
+die Aussage verweigert, genügt nicht
+" (N. Schmid, op. cit., no. 701a).
+Occorre che l'indagato, se posto in
+libertà, possa pregiudicarne (o comprometterne) il corretto svolgimento e, conseguentemente,
+l'esito.
+E', inoltre, necessario che questa possibilità di pregiudicare
+la raccolta di elementi di prova si fondi su elementi concreti: "
+Jedoch
+genügt nach der Rechtsprechung des Bundesgerichtes die theoretische Möglichhkeit,
+dass der Angeschuldigte in Freheit kolludieren könnte, nicht, um die
+Fortsetzung der Haft oder        die Nichtgewährung von Urlauben unter diesem
+Titel zu rechtfertigen. Es mussen vielmehr konktrete Indizien für eine solche
+Gefahr sprechen
+."
+(DTF 117 Ia
+257, cons. 4 c.).
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza d'interessi
+(tra i due) in relazione al contenuto della deposizione (SJ 1990 p. 438; DTF
+117 Ia 257; ZR 72 no. 77 p. 19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66; Hauser/Schweri,
+Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13).
+(GIAR 23
+settembre 2002 in re Y.)
+Nello
+stesso senso, la CRP:
+"I rischi di collusione e di inquinamento delle
+prove sono legati soprattutto ai bisogni dell'istruttoria. Da un lato si tratta
+generalmente di evitare o prevenire accordi tra l'imputato e i testimoni - già
+sentito o ancora da sentire - o i correi e complici non arrestati, messi in
+atto per nascondere al giudice la verità, dall'altro di impedire interventi
+fraudolenti del prevenuto in libertà sui mezzi di prova non ancora in possesso
+della giustizia, allo scopo di distruggerli o di alterarli a suo vantaggio. la
+possibilità di ostacolare in tal modo l'azione dell'autorità giudiziaria da
+parte del prevenuto deve essere valutata sulla base di elementi concreti, la
+realtà di questo rischio non potendo essere ammessa aprioristicamente ed in
+maniera astratta (DTF 117 Ia 257; Decisione TF 2.3.2000 in re A. e rif.; R. Hauser/E.
+Schweri, op. cit.
+§ 68 n. 13;
+G. Piquerez, op. cit. n. 2344 ss.)"
+(sentenza
+16 settembre 2004 in re B., CRP 60.2004.297)
+-
+a mente del magistrato inquirente sussisterebbero oggettivi
+bisogni istruttori dovendo procedere con interrogatori a confronto richiesti
+dallo stesso accusato e con il deposito degli atti: due persone da sentire sono
+già state indicate mentre ulteriori nominativi dovrebbero essere comunicati
+dalla difesa dell’accusato a breve; la difesa nulla ha eccepito a questo
+proposito assecondando la richiesta del PP di proroga del carcere preventivo;
+-
+in un simile contesto giuridico e fattuale, è evidente la
+necessità di procedere con l’audizione a confronto tra l’accusato e le persone
+menzionate, nonché quelle ancora non indicate, con l’accusato __________ in
+stato di detenzione preventiva. La sussistenza, in questo stadio del
+procedimento, di un pericolo di collusione e/o di inquinamento delle prove è
+accertata con riferimento al gran numero di persone coinvolte nell’inchiesta,
+alla necessità di procedere a questi accertamenti con dichiarazioni non ancora
+consolidate e al fatto che si tratta di dichiarazioni di correi, quindi
+suscettibili di essere modificate se i vari accusati potessero comunicare o
+mettere in atto pressioni – anche solo per interposta persona – tra loro;
+-
+per quanto riguarda il pericolo di fuga, per giustificare
+carcerazione preventiva, deve essere concreto e rivestire di una certa
+probabilità: in altri termini lo si ammette quando l’accusato, se posto in
+libertà, si sottrarrebbe con una certa verosimiglianza al perseguimento penale
+ed alla (eventuale) esecuzione della pena. La gravità della pena presumibile
+non basta, da sola, a motivare la carcerazione; occorre valutare l’insieme
+delle circostanze, tra cui il carattere dell’accusato, la sua morale, i legami
+famigliari, il domicilio, la professione, la situazione economica e tutti
+quegli elementi che rendono la fuga non solo possibile ma probabile (DTF 19
+gennaio 1999 in re G.S.; DTF 117 Ia 69; SJ 1980 186; SJ 1981 135; N. Schmid, Strafprozessrecht,
+ZH 1997, no. 701).
+Ritenuto che a
+poco valgono, per quest'analisi, le semplici dichiarazioni d'intenti
+dell'accusato stesso (per tutte: sentenza GIAR 27 maggio 2002 in re P.) e che
+la concretezza del pericolo di fuga può essere accertata "Auch wenn keine konkrete
+Flüchtpläne u.ä. gefordet sind, …" (Schmid, ibidem).
+L'accusato è
+cittadino statunitense residente a __________ (__________), e si trova in
+Svizzera poiché estradato dalle Autorità __________. Egli è senza permessi per
+risiedere in Svizzera, e non ha nessun legame con il nostro paese. Benché sia
+sposato con __________ (il matrimonio non è stato registrato in Svizzera),
+soggiornava già da prima dell’arresto negli __________; vista la chiamata in
+correità della moglie il matrimonio appare compromesso e tra l’altro __________
+stessa ha dichiarato agli inquirenti di non avere avuto nessuna intenzione di
+far riconoscere il proprio matrimonio in Svizzera (cfr. AI 36, p. 2, verbale
+d’interrogatorio di __________ del 28 ottobre 2005). Egli è confrontato con
+imputazioni di sicura gravità, infrazione aggravata alla LStup. È infatti
+sospettato di avere trattato, in particolare detenuto e venduto da solo ed in
+correità con terzi, oltre 5'000 grammi di cocaina.
+Il rischio di
+fuga appare quindi concreto e non può essere evitato neppure con misure meno
+incisive, quali il deposito di una cauzione o del passaporto con obbligo di
+firma, non avendo per di più l’accusato ormai alcuna residenza effettiva in
+Svizzera e neppure il denaro per procurarsela (Inc. GIAR 435.2005.2,
+concessione del gratuito patrocinio). Il pericolo che __________, se posto in
+libertà provvisoria, si renda irreperibile è avvalorato dal fatto che visti i
+quantitativi di stupefacente in gioco egli corre il rischio, in caso di
+condanna, di una pena detentiva di una certa durata: egli potrebbe quindi
+preferire rendersi latitante piuttosto che affrontare il processo con le
+conseguenze che potrebbero derivarne;
+-
+la durata della proroga richiesta è rispettosa del principio di
+proporzionalità: i due mesi richiesti appaiono proporzionati tenuto conto degli
+atti istruttori ancora da compiere – considerato che si tratta di procedere con
+gli interrogatori di correi non facilmente reperibili – e del tempo necessario
+per procedere con il deposito atti, ciò ritenuta l’oggettiva gravità dei reati
+imputati all’accusato e la presumibile pena detentiva che gli verrebbe inflitta
+in caso di condanna, considerato il carcere preventivo già sofferto (tenuto
+conto dell’arresto avvenuto a __________ il 2 marzo 2005 e dell’arrivo in
+Ticino a seguito di estradizione in data 18 agosto 2005) ed ancora da soffrire
+prima del pubblico dibattimento con il formale invito all’attenzione dei
+precetti di celerità (art. 102 cpv. 1 e 176 cpv. 3 CPPT) che vuole contenimento
+della possibile carcerazione preventiva, quale richiamo e quale necessità di controllo
+d’ufficio del trascorrere del tempo;
+-
+in conclusione, constatata l'esistenza di gravi indizi di reato,
+bisogni dell’istruzione e pericolo di collusione e pericolo di fuga nonché
+rispetto dei principi di proporzionalità della carcerazione (sofferta e da
+soffrire) nei termini suesposti, l'istanza è accolta ed è concessa una proroga
+del carcere preventivo a cui è astretto __________ di due mesi cioè sino al 18
+aprile 2006 compreso.
+P.Q.M
+viste le norme applicabili, in
+particolare gli artt. 19 cifra 2 LFStup., 95 ss., 102, 103, 280ss e 284 CPP,
+decide
+1.
+L'istanza
+è accolta.
+§.    Di conseguenza, il carcere preventivo cui è astretto __________
+è prorogato di 2 (due) mesi e verrà a scadere il
+18 aprile 2006 (compreso)
+.
+2.
+Non si
+prelevano tasse e spese.
+3.
+Contro la presente decisione è dato reclamo alla Camera dei
+ricorsi penali, Lugano, entro 10 (dieci) giorni dall'intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
