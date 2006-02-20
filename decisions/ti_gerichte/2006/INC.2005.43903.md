@@ -1,0 +1,215 @@
+---
+decision_id: "ti_gerichte_INC.2005.43903"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.43903"
+decided: "2006-02-20"
+published: "2006-02-20"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=87841&nX40_KEY=4711258&nTrefferzeile=52&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2005.43903
+
+## Regeste
+
+Proroga carcerazione preventiva in attesa di allontanamento
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 20.02.2006 INC.2005.43903
+Tessin Il Giudice dell'istruzione e dell'arresto 20.02.2006 INC.2005.43903
+Ticino Il Giudice dell'istruzione e dell'arresto 20.02.2006 INC.2005.43903
+
+Proroga carcerazione preventiva in attesa di allontanamento
+
+Incarto n.
+INC.2005.43903
+Lugano
+20 febbraio 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull'istanza/decisione del 13
+febbraio 2006 della
+Sezione dei permessi e dell'immigrazione,
+Bellinzona
+relativa alla proroga della carcerazione in vista
+dell'allontanamento cui è astretto
+__________
+visti gli inc. GIAR
+439.2005.1/2/3;
+ritenuto e considerato
+in fatto ed in
+diritto
+1.
+__________ è stato incarcerato il
+22 agosto 2005, a seguito di decisione del 22 agosto 2005 della SPI (artt. 13b
+e 13f LDDS), allo scopo di garantirne l'allontanamento (doc. 1 inc. GIAR
+439.2005.1). Egli è stato sentito il 23 agosto 2005 dal GIAR che ha confermato
+legalità ed adeguatezza della carcerazione ritenuto che l'interessato non ha
+lasciato il territorio svizzero come era stato stabilito dalla CRA che, con
+decisione 28 aprile 2005, aveva dichiarato irricevibile il suo ricorso contro
+la non concessione dello statuto di asilante (l’UFR, con decisione 23 febbraio
+2004, aveva respinto l’istanza non entrando nel merito). L’ordine di lasciare
+la Svizzera gli era poi stati ribadito in data 14 maggio 2004, 17 giugno 2004 e
+4 maggio 2005. Contro __________ è pure stato emesso, il 14 luglio 2004, un
+divieto d’entrata in Svizzera sino al 13 luglio 2009 siccome ritenuto straniero
+indesiderabile (doc. 1 inc. GIAR 439.2005.1). Nel frattempo lo straniero ha
+continuato a commettere reati (è stato condannato con quattro decreti d’accusa tra
+l’altro anche per infrazione alla LStup) e ha omesso di intraprendere passi per
+preparare la partenza e procurarsi i documenti per il rimpatrio (doc. 2 inc.
+GIAR 439.2005.1).
+2.
+Con sentenza 21 novembre 2005
+questo giudice ha accolto la decisione/istanza 7 novembre 2005 con la quale la
+SPI – rilevando che l’autorità aveva compiuto tutti gli sforzi necessari a
+mettere in atto l’allontanamento ai sensi dell’art. 13b cpv. 3 LDDS ed
+evidenziando la costante mancanza di collaborazione della persona oggetto della
+misura – aveva disposto/chiesto che la carcerazione ai fini di allontanamento
+fosse prorogata di tre mesi, concedendo la proroga sino al 22 febbraio 2006
+compreso.
+3.
+Con decisione/istanza (soggetta a
+conferma) del 13 febbraio 2006 (art. 13b cpv. 2 seconda frase), approssimandosi
+la scadenza della proroga di tre mesi (art. 13b cpv. 2 prima frase LDDS), la
+SPI ha disposto/chiesto che la carcerazione ai fini di allontanamento cui è
+astretto __________ sia prorogata di ulteriori tre mesi, se confermata dal GIAR
+(doc. 1 inc. GIAR 439.2005.3; artt. 3 cpv. 2 lett. a., 5, 29 Legge cantonale
+d'applicazione LMC, e art. 1 del relativo regolamento). La SPI, rilevato che
+l'autorità ha compiuto tutti gli sforzi necessari a mettere in atto
+l'allontanamento ai sensi dell'art. 13b cpv. 3 LDDS, ha evidenziato la costante
+mancanza di collaborazione ed il comportamento problematico (doc. G allegato
+alla decisione/istanza 13 febbraio 2006) della persona oggetto della misura.
+4.
+Preso atto che __________,
+sentito a verbale da questo giudice in data 16 febbraio 2006, in presenza
+dell’interprete
+,
+ha ammesso di
+avere incontrato una delegazione nigeriana a Berna e, preso atto che la stessa
+lo ha riconosciuto come cittadino nigeriano, ha dichiarato di volere incontrare
+le Autorità diplomatiche di quel paese a Berna per chiedere dei documenti di
+viaggio per far ritorno in Nigeria rifiutandosi comunque di sottoscrivere il
+verbale.
+5.
+La decisione di questo giudice
+che accertava legalità ed adeguatezza della carcerazione, si fondava su di una
+serie di riscontri che indicavano come lo straniero non avesse intenzione di
+lasciare la Svizzera, come egli avesse violato il suo obbligo di collaborazione
+e come la sua permanenza sul territorio abbia comportato condanne penali (doc.
+2, inc. GIAR 439.2005.1).
+Lo stesso dicasi per la decisione
+di proroga della carcerazione del 21 novembre 2005 (doc. 6, inc. GIAR
+439.2005.2).
+6.
+La decisione sull’eventuale nuova
+proroga della carcerazione in vista dell’esecuzione dell’allontanamento esige
+ovviamente un esame volto a determinare se i motivi che avevano condotto
+all’originaria decisione di incarcerazione ed alla proroga del 21 novembre 2005
+mantengano ancora la propria validità.
+Inoltre, la concessione di una
+proroga della carcerazione esige la presenza di “
+particolari ostacoli [...] all’esecuzione
+dell’allontanamento o dell’espulsione
+” (art. 13b cpv. 2 LDDS). Sono
+considerati tali il rifiuto dello straniero di collaborare, per quanto
+ragionevolmente esigibile, ai preparativi per la sua partenza, la durata
+eccezionalmente lunga della procedura di ottenimento dei documenti di viaggio,
+ma anche ragioni tecniche a carattere provvisorio (v.
+Nicolas Wizard
+,
+Les renvois et leur exécution en droit des étrangers et en droit d’asile, tesi
+di dottorato dell’Università di Ginevra, Basilea/Francoforte sul Reno 1997,
+pto. 3.3.4.1.2 p. 294 s.).
+7.
+Nel caso in esame, è evidente che
+l'allontanamento non è ancora (stato) possibile per la mancata collaborazione
+della persona interessata. Il 23 novembre 2005 __________ è stato riconosciuto
+cittadino della Nigeria dalla delegazione nigeriana a Berna (doc. A allegato
+alla decisione/istanza di proroga 13 febbraio 2006. L’UFM, in data 9 dicembre
+2005, ha informato l’autorità che i prossimi voli di rientro in Nigeria saranno
+organizzati a partire da metà febbraio 2006. L'autorità, con lo scritto 21
+dicembre 2005, ha chiesto all’UFM a partire da quando sarebbe stato possibile
+ottenere il documento di viaggio per __________, che in data 13 gennaio 2006 ha
+nuovamente sollecitato l’UFM per il rilascio di un documento di viaggio e che
+con fax 19 gennaio 2006 la SPI ha ribadito all’UFM la necessità di procedere
+con il rimpatrio di __________. L’autorità ha quindi invitato la Polizia
+cantonale, gruppo rimpatri, ad interrogare l’interessato in merito alla volontà
+di collaborare per l’ottenimento dei documenti di viaggio e che, sentito dalla
+Polizia il 6 febbraio 2006, ha negato di essere cittadino nigeriano affermando
+di non avere intrapreso nessuna pratica per l’ottenimento dei suoi documenti di
+viaggio e di non essere intenzionato a far rientro in Nigeria, rifiutandosi
+comunque di sottoscrivere il verbale. Il 13 febbraio 2006 l’UFM ha informato la
+SPI di essere in attesa dei risultati definitivi relativi all’audizione dell’interessato
+e che la conferma dovrebbe avvenire entro il mese di marzo 2006, mentre il volo
+di rientro coatto (da utilizzare solo in caso di rifiuto dello straniero ad
+inbarcarsi su di un volo di linea per la Nigeria) è previsto per il mese di
+maggio 2006. Visto quanto precede appare chiaro che l’autorità ha fatto quanto
+in suo potere per permettere l’allontanamento di __________. Al contrario è
+manifesto come sia il comportamento del resistente (peraltro dichiarato) ad
+impedire il corretto rientro: egli infatti, non ha intrapreso nessun passo per
+ottenere dei documenti per il suo rimpatrio né presso l’ambasciata di Nigeria e
+neppure presso quella del Niger (ha infatti dichiarato di non avere neppure
+tentato di contattare telefonicamente tale autorità diplomatica). Egli davanti
+alla Polizia cantonale (cfr. verbale 6 febbraio 2006) ha ribadito di essere
+cittadino del Niger ma si è ancora una volta rifiutato di contattare le
+Autorità consolari presso l’ambasciata del Niger di Parigi, mentre che davanti
+a questo giudice (in data 16 febbraio 2006) si è dichiarato disposto a
+contattare le autorità diplomatiche nigeriane a Berna per ottenere i propri
+documenti di viaggio, rifiutandosi comunque di sottoscrivere il verbale,
+conscio del fatto che i rappresentanti nigeriani preposti, concedono
+appuntamenti a cittadini nigeriani che intendono ottenere documenti di viaggio
+per rientrare in patria unicamente a seguito di richiesta scritta
+dell’interessato, dimostrando quindi la sua mancanza di volontà a voler
+rientrare nel proprio paese d’origine e a voler collaborare con le autorità
+all’ottenimento dei documenti di viaggio.
+Con l'introduzione dell'art. 13f
+LDDS e la modifica dell'art. 13b cpv. 1 lett. c. il legislatore ha inteso
+sottolineare ulteriormente l'importanza della collaborazione dello straniero
+(ed un suo dovere in tal senso) dandole un peso notevole anche per quanto
+concerne la privazione della libertà: la mancata collaborazione diventa indizio
+di pericolo di latitanza (FF 2003, pag. 4993).
+8.
+In conclusione, i motivi per la
+carcerazione sono ancor dati. Decisiva diviene dunque una valutazione della
+protrazione richiesta nell’ottica della proporzionalità.
+Se si considerano i motivi primi
+della (originaria) incarcerazione, in particolare i reati (reiteratamente)
+commessi, il rifiuto di __________ di collaborare e la modifica dell'art. 13b
+cpv. 1 lett. c. LDDS, nonché il nuovo art. 13f (mediante il quale il
+legislatore ha inteso sottolineare ulteriormente l'importanza della
+collaborazione dello straniero - ed un suo dovere in tal senso - dandole un
+peso notevole anche per quanto concerne la privazione della libertà),
+l’ulteriore protrazione è da considerare giustificata e rispettosa del
+principio di proporzionalità, anche in considerazione dei passi intrapresi dalle
+Autorità impegnate nel tentativo del suo rimpatrio e della concreta possibilità
+di procedere al rimpatrio della persona interessata nei termini previsti nella
+decisione/istanza di proroga 13 febbraio 2006.
+Per i quali motivi,
+visti i menzionati articoli di
+legge,
+decide:
+1. La decisione/istanza 13 febbraio 2006 di proroga della
+carcerazione in attesa di allontanamento cui è astretto __________ è accolta.
+§     Di conseguenza, la carcerazione ai fini di allontanamento cui è
+astretto __________ è prorogata di
+tre (3)
+mesi e verrà a scadere il
+giorno
+22 maggio 2006
+, compreso.
+2.
+Non
+si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è data facoltà di ricorso al Tribunale
+cantonale amministrativo entro 15 (quindici) giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
