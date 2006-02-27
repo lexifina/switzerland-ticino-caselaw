@@ -1,0 +1,81 @@
+---
+decision_id: "ti_gerichte_INC.2004.30102"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.30102"
+decided: "2006-02-27"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=87264&nX40_KEY=4711262&nTrefferzeile=18&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-279.md", "switzerland/bund/acts/312.0/art-316.md"]
+---
+
+# TI Gerichte INC.2004.30102
+
+## Regeste
+
+Libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 13.01.2006 INC.2004.30102
+Tessin Il Giudice dell'istruzione e dell'arresto 13.01.2006 INC.2004.30102
+Ticino Il Giudice dell'istruzione e dell'arresto 13.01.2006 INC.2004.30102
+
+Libertà provvisoria
+
+Incarto n.
+INC.2004.30102
+Lugano
+27 febbraio 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull'istanza di libertà provvisoria
+presentata il 12 gennaio 2006 da
+__________
+premesso che per l'emanazione
+della decisione, visto l'esito, non è necessario assegnare ad altre Autorità un
+termine per le osservazioni, rispettivamente visionare l’incarto di
+riferimento, bastando gli atti già in possesso di questo ufficio;
+considerato in
+fatto ed in diritto che:
+-
+con sentenza contumaciale 31 agosto 2005 __________ è stato condannato
+dalla Corte delle assise correzionali di Lugano alla pena di 16 mesi di
+detenzione (ad 3.1);
+-
+in data 12 gennaio 2006 __________ si è presentato al Penitenziario
+cantonale La Stampa per scontare la pena inflittagli;
+-
+con l'istanza qui in esame __________ chiede di essere immediatamente
+posto in libertà provvisoria: rileva di avere in pari data inoltrato istanza di
+revoca della sentenza contumaciale ex art. 316 cpv. 1 CPP e che pertanto
+sarebbe data la competenza di questo ufficio, trovandosi __________ in una
+situazione parificabile a quella che sarebbe la sua dopo il deposito dell'atto
+di accusa, ma prima del dibattimento ordinario;
+-
+in concreto, l'istante si trova in stato di detenzione in esecuzione
+della sentenza di condanna 31 agosto 2005 e per decisione della SEPEM;
+-
+ne consegue che non ci si trova quindi confrontati con un caso di cui
+all'art. 108 CPP e che pertanto non è data la competenza di questo ufficio
+(cfr. anche art. art. 279 CPP);
+-
+l'istanza deve quindi essere dichiarata irricevibile per incompetenza di
+questo ufficio;
+P.Q.M.
+visti gli art. 108, 316 e 279
+CPP,
+decide:
+1.
+L'istanza é irricevibile.
+2.
+Non si prelevano tasse e spese di giudizio.
+3.
+Intimazione:
+giudice
+Ursula Züblin
