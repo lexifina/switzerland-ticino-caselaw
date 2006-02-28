@@ -1,0 +1,223 @@
+---
+decision_id: "ti_gerichte_INC.2005.34207"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.34207"
+decided: "2006-02-28"
+published: "2006-02-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=88163&nX40_KEY=4711255&nTrefferzeile=72&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2005.34207
+
+## Regeste
+
+Istanza di proroga della carcerazione in vista dell'allontanamento
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.02.2006 INC.2005.34207
+Tessin Il Giudice dell'istruzione e dell'arresto 28.02.2006 INC.2005.34207
+Ticino Il Giudice dell'istruzione e dell'arresto 28.02.2006 INC.2005.34207
+
+Istanza di proroga della carcerazione in vista dell'allontanamento
+
+Incarto n.
+INC.2005.34207
+Lugano
+28 febbraio 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull'istanza/decisione del 15
+febbraio 2006 della
+Sezione dei permessi e dell'immigrazione,
+Bellinzona
+relativa alla proroga della carcerazione in vista
+dell'allontanamento cui è astretto
+__________
+visti gli inc. GIAR
+342.2005.1/2/3/4/5/6/7;
+ritenuto e considerato
+in fatto ed in
+diritto
+1.
+__________ è stato incarcerato il
+30 novembre 2005, a seguito di decisione del 29 novembre 2005 della SPI (artt.
+13b e 13f LDDS), allo scopo di garantirne l'allontanamento (doc. 1 inc. GIAR
+342.2005.5). Egli è stato sentito il 30 novembre 2005 dal GIAR che ha
+confermato legalità ed adeguatezza della carcerazione ritenuto che
+l'interessato non ha lasciato il territorio svizzero come era stato stabilito
+dalla CRA che, con decisione 25 agosto 2003, aveva dichiarato irricevibile il
+suo ricorso contro la non concessione dello statuto di asilante (l’UFR, con
+decisione 5 maggio 2003, aveva respinto l’istanza) impartendogli l’ordine di
+lasciare la Svizzera entro il 19 maggio 2003. Nel frattempo lo straniero ha
+continuato a commettere reati – è stato condannato con due decreti d’accusa,
+tra l’altro anche per infrazione alla LStup, ed è stato pure condannato, in
+data 8 settembre 2005, all’espulsione dal territorio svizzero (doc D allegato
+al doc. 1 inc. GIAR 342.2005.5) e ha omesso di intraprendere passi per
+preparare la partenza e procurarsi i documenti per il rimpatrio (doc. 2 inc.
+GIAR 342.2005.5).
+2.
+Con decisione/istanza (soggetta a
+conferma) del 15 febbraio 2006 (art. 13b cpv. 2 seconda frase), approssimandosi
+la scadenza del termine di tre mesi di carcerazione concesso con decisione 30
+novembre 2005 (art. 13b cpv. 2 prima frase LDDS), la SPI ha disposto/chiesto
+che la carcerazione ai fini di allontanamento cui è astretto __________ sia
+prorogata di tre mesi, se confermata dal GIAR (doc. 1 inc. GIAR 342.2005.7;
+artt. 3 cpv. 2 lett. a., 5, 29 Legge cantonale d'applicazione LMC, e art. 1 del
+relativo regolamento). La SPI, rilevato che l'autorità ha compiuto tutti gli
+sforzi necessari a mettere in atto l'allontanamento ai sensi dell'art. 13b cpv.
+3 LDDS, ha evidenziato la costante mancanza di collaborazione della persona
+oggetto della misura.
+3.
+Preso atto che __________,
+sentito a verbale da questo giudice in data 22 febbraio 2006, in presenza
+dell’interprete e del suo patrocinatore
+,
+ha ammesso di non avere intrapreso nulla per mettersi in contatto con le
+Autorità diplomatiche del suo paese al fine di ottenere dei documenti di
+viaggio. Egli, dopo avere ribadito di essere cittadino della Repubblica del
+Costa d’Avorio, ha in un primo tempo dichiarato di non essere intenzionato a rientrare
+nel proprio paese d’origine spontaneamente per poi successivamente affermare il
+contrario. Reso edotto del prossimo incontro previsto con le Autorità
+diplomatiche della Guinea ha affermato che non risponderà a nessuna domanda
+rivoltagli da queste ultime ma di essere intenzionato a rispondere unicamente
+alle Autorità dell’Ambasciata del Costa d’Avorio benché già in novembre 2004
+non sia stato riconosciuto come cittadino del Costa d’Avorio da una delegazione
+di tale Ambasciata (cfr. lettera 28 dicembre 2004 del DFG alla SPI agli atti
+dell’incarto SPI).
+4.
+La decisione di questo giudice
+che accertava legalità ed adeguatezza della carcerazione, si fondava su di una
+serie di riscontri che indicavano come lo straniero non avesse intenzione di
+lasciare la Svizzera, come egli avesse violato il suo obbligo di collaborazione
+e come la sua permanenza sul territorio abbia comportato condanne penali (doc.
+2, inc. GIAR 342.2005.5).
+5.
+La decisione sull’eventuale
+proroga della carcerazione in vista dell’esecuzione dell’allontanamento esige
+ovviamente un esame volto a determinare se i motivi che avevano condotto
+all’originaria decisione di incarcerazione del 30 novembre 2005 mantengano
+ancora la propria validità.
+Inoltre, la concessione di una
+proroga della carcerazione esige la presenza di “
+particolari ostacoli [...] all’esecuzione
+dell’allontanamento o dell’espulsione
+” (art. 13b cpv. 2 LDDS). Sono
+considerati tali il rifiuto dello straniero di collaborare, per quanto
+ragionevolmente esigibile, ai preparativi per la sua partenza, la durata
+eccezionalmente lunga della procedura di ottenimento dei documenti di viaggio,
+ma anche ragioni tecniche a carattere provvisorio (v.
+Nicolas Wizard
+,
+Les renvois et leur exécution en droit des étrangers et en droit d’asile, tesi
+di dottorato dell’Università di Ginevra, Basilea/Francoforte sul Reno 1997,
+pto. 3.3.4.1.2 p. 294 s.).
+6.
+Nel caso in esame, è evidente che
+l'allontanamento non è ancora (stato) possibile per la mancata collaborazione
+della persona interessata. __________ continua infatti a ribadire di essere
+cittadino della Repubblica del Costa d’Avorio benché non sia stato riconosciuto
+da una delegazione di quel Paese che l’aveva incontrato nel novembre 2004.
+Peraltro lo straniero era stato riconosciuto con certezza come cittadino della
+Guinea in un test lingua effettuato il 12 settembre 2003: l’esperto aveva avuto
+modo di concludere che __________ “
+non parla bene il dioula e non ha una
+buona conoscenza della Costa D’Avorio, non fa politica, parla l’idioma peule, suo
+accento della Guinea. Confermo con certezza che il __________ è cittadino della
+Guinea Konakry
+” (cfr rapporto d’esecuzione 12 settembre 2003 nell’incarto
+SPI). Nei test lingua effettuati successivamente lo straniero ha sempre assunto
+un comportamento poco collaborativo parlando unicamente francese o qualche
+parola in idioma dioula che gli esperti hanno ritenuto “
+non convincente
+”
+(cfr test lingua 26 gennaio 2004 allegato al doc. F della decisione di
+carcerazione in vista dell’allontanamento del 29 novembre 2005).
+L'autorità, con lo scritto 9
+gennaio 2006, ha informato l’UFM, divisione rimpatrio, della carcerazione
+amministrativa dello straniero chiedendo quali passi intraprendere per
+l’identificazione definitiva dello straniero. Il 26 gennaio 2006 la SPI ha
+nuovamente sollecitato l’autorità federale a tal proposito e sempre in data 26
+gennaio 2006 invitava la Polizia cantonale ad interrogare lo straniero sulla
+sua volontà di collaborare alla sua identificazione. La Polizia ha provveduto,
+in data 8 febbraio 2006, all’interrogatorio di __________ il quale ha ribadito
+le proprie generalità e l’origine del Costa d’Avorio, conscio di non essere
+stato riconosciuto come cittadino di quel paese dalle Autorità Ivoriane
+preposte. In data 13 febbraio 2006 l’UFM ha informato la SPI che provvederà a
+presentare lo straniero ad una delegazione della Guinea Konakry. Visto quanto
+precede appare chiaro che l’autorità ha fatto quanto in suo potere per
+permettere l’identificazione e l’allontanamento di __________.
+Al contrario è manifesto come sia
+il comportamento del resistente (peraltro dichiarato) ad impedire il corretto
+rientro: egli infatti, non ha intrapreso nessun passo per ottenere dei
+documenti per il suo rimpatrio né presso l’ambasciata della Repubblica del
+Costa d’Avorio né presso quella della Guinea (ha infatti dichiarato di non
+avere neppure tentato di contattare telefonicamente le Autorità diplomatiche
+del Costa d’Avorio, le uniche che riconosce). Egli davanti alla Polizia
+cantonale (cfr. verbale 8 febbraio 2006) ha ribadito di essere cittadino della
+Repubblica del Costa d’Avorio ma si è ancora una volta rifiutato di contattare
+le Autorità consolari di quel paese, mentre che davanti a questo giudice (in
+data 22 febbraio 2006) si è dichiarato in un primo tempo disposto a tornare in
+Africa solo se obbligato dalle Autorità svizzere per poi contraddirsi dicendo
+che vorrebbe rientrare in Costa d’Avorio spontaneamente pur essendo privo di
+documenti e di non avere nessuna intenzione di rispondere alle domande in caso
+di sua presentazione davanti ad una delegazione della Guinea, dimostrando
+quindi la sua mancanza di volontà a voler rientrare nel proprio paese d’origine
+e a voler collaborare con le autorità all’ottenimento dei documenti di viaggio.
+Con l'introduzione dell'art. 13f
+LDDS e la modifica dell'art. 13b cpv. 1 lett. c. il legislatore ha inteso
+sottolineare ulteriormente l'importanza della collaborazione dello straniero
+(ed un suo dovere in tal senso) dandole un peso notevole anche per quanto
+concerne la privazione della libertà: la mancata collaborazione diventa indizio
+di pericolo di latitanza (FF 2003, pag. 4993).
+7.
+In conclusione, i motivi per la
+carcerazione sono ancor dati. Decisiva diviene dunque una valutazione della
+protrazione richiesta nell’ottica della proporzionalità.
+Se si considerano i motivi primi
+della (originaria) incarcerazione, in particolare i reati (reiteratamente)
+commessi, il rifiuto di __________ di collaborare e la modifica dell'art. 13b
+cpv. 1 lett. c. LDDS, nonché il nuovo art. 13f (mediante il quale il
+legislatore ha inteso sottolineare ulteriormente l'importanza della
+collaborazione dello straniero - ed un suo dovere in tal senso - dandole un
+peso notevole anche per quanto concerne la privazione della libertà),
+l’ulteriore protrazione è da considerare giustificata e rispettosa del
+principio di proporzionalità, anche in considerazione dei passi intrapresi
+dalle Autorità impegnate nel tentativo del suo rimpatrio e della concreta
+possibilità di procedere all’identificazione dello straniero ed al suo
+rimpatrio attraverso la presentazione alla prossima delegazione della Guinea
+(cfr. doc. F allegato alla decisione di proroga della carcerazione in vista
+d’allontanamento 15 febbraio 2006, inc. GIAR 342.2005.7, doc. 1).
+Per i quali motivi,
+visti i menzionati articoli di
+legge,
+decide:
+1
+La decisione/istanza 15 febbraio 2006 di proroga della carcerazione in
+attesa di allontanamento cui è astretto __________ è accolta.
+§ Di conseguenza, la
+carcerazione ai fini di allontanamento cui è astretto __________
+è prorogata di
+tre
+(3)
+mesi e verrà a scadere il giorno
+30 maggio 2006
+, compreso.
+2
+Non si percepiscono né tassa né spese giudiziarie.
+3
+Contro la presente decisione è data facoltà di ricorso al Tribunale
+cantonale amministrativo
+entro 15 (quindici) giorni
+dall’intimazione.
+4
+Intimazione:
+giudice
+Claudia Solcà
