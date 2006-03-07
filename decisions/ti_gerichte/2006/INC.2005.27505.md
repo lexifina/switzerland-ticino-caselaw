@@ -1,0 +1,118 @@
+---
+decision_id: "ti_gerichte_INC.2005.27505"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.27505"
+decided: "2006-03-07"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=89428&nX40_KEY=4711255&nTrefferzeile=13&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-357.md"]
+---
+
+# TI Gerichte INC.2005.27505
+
+## Regeste
+
+Proroga della carcerazione in attesa di allontanamento
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 07.03.2006 INC.2005.27505
+Tessin Il Giudice dell'istruzione e dell'arresto 07.03.2006 INC.2005.27505
+Ticino Il Giudice dell'istruzione e dell'arresto 07.03.2006 INC.2005.27505
+
+Proroga della carcerazione in attesa di allontanamento
+
+Incarto n.
+INC.2005.27505
+Lugano
+7 marzo 2006
+ore 14.30
+In nome
+della Repubblica e Cantone
+del Ticino
+Verbale di udienza (art. 13b LDDS)
+Avanti il giudice dell'istruzione e dell'arresto Edy Meli
+Sull’istanza/decisione 23 febbraio 2006 (Ris. no__________
+della
+Sezione dei permessi e dell’immigrazione
+,
+Bellinzona
+relativa alla proroga della carcerazione in vista
+dell’allontanamento cui è astretto
+__________
+attualmente in detenzione a
+Basilea
+patr. d’ufficio dal __________
+Sono presenti:
+-
+l’accusato __________;
+-
+__________ l’interprete signor __________, che ammonito ex art. 357 CP
+giura/
+promette
+di tradurre fedelmente da e per la lingua inglese.
+__________
+:
+Il giudice mi spiega nel dettaglio la
+decisione/istanza della SPI del 23.2.2006.
+Ho capito il problema ed ho capito che la proroga é chiesta
+per sottopormi ad una commissione di esperti che viene dalla Nigeria.
+E’ vero che io non sono riuscito a procurarmi un documento
+del Sudan, nonostante i miei contatti (telefonici).
+Dicono che devo contattare i miei genitori in Sudan, ma i
+miei genitori sono morti.
+D.
+Da alcuni test fatti nel 2004 lei risulterebbe nigeriano e
+risulterebbe non conoscere bene la situazione geografica e sociale del Sudan;
+cosa risponde ?
+R.
+Io ribadisco che sono sudanese, non nigeriano. Inoltre sono già
+stato all’ambasciata nigeriana, ma non mi é stato dato alcun documento.
+Il giudice mi dice che questo é perché l’ambasciata
+non entra più in materia per le persone che dichiarano di non essere nigeriane;
+per questo é stata istituita una commissione che viene dalla Nigeria ogni 2/3
+mesi (la prossima verso fine marzo).
+Prendo atto che mi si vuole presentare a questa commissione
+per verificare ulteriormente la mia effettiva nazionalità.
+ADR:     comunque
+ribadisco di non voler ritornare in Sudan.
+Io
+ho già detto che dopo il 2002 e fino al 2005 non ho fatto nulla per ottenere i
+documenti perché avevo fatto ricorso, anche se non capisco perché di questo
+ricorso non ci sia traccia.
+Io so di persone che sono state lasciate andare
+senza documenti.
+Il giudice mi dice che io non solo sono NEM ma anche
+espulso in base al CP.
+ADR:     Prima
+dell’11 maggio 2005 (arresto preventivo per istruttoria LFStup) non ero mai
+stato incarcerato per allontanamento.
+Però
+voglio dire che prima io ritenevo di non dovermene andare, avevo fatto ricorso
+tramite un legale di Zurigo.
+Io voglio solo aggiungere che la prigione non é vita, io
+sono preoccupato per il mio futuro. Datemi un’opportunità e io me ne vado.
+A questo punto, il giudice constata che le condizioni
+per la proroga della carcerazione sono date: indizi di assenza di
+collaborazione, difficoltà conseguite nella ricezione di documenti oltre che
+rischi per l’ordine pubblico (art. 13b cpv. 1 lett. c e b), che l’autorità non
+é stata assente ma si é data da fare per cercare di ottenere i documenti e che
+prossimamente é prevista un’audizione che potrebbe essere risolutiva.
+La proroga, inoltre, risulta ancora proporzionata.
+P.Q.M.
+viste le norme
+applicabili
+si decide
+1.
+La decisione/istanza di proroga
+della carcerazione, emanata dalla SPI il 23 febbraio 2006, per un termine di tre
+mesi (ulteriori) é confermata/accolta.
+2.
+Non si prelevano tasse e spese.
+3.
+Contro la presente é dato ricorso
+al TRAM, Lugano, entro 15 giorni.
+4.
+Intimazione:
