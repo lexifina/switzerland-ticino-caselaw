@@ -1,0 +1,215 @@
+---
+decision_id: "ti_gerichte_INC.2000.10309"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2000.10309"
+decided: "2006-03-10"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=88239&nX40_KEY=4711253&nTrefferzeile=76&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2000.10309
+
+## Regeste
+
+Provvedimenti PP
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 10.03.2006 INC.2000.10309
+Tessin Il Giudice dell'istruzione e dell'arresto 10.03.2006 INC.2000.10309
+Ticino Il Giudice dell'istruzione e dell'arresto 10.03.2006 INC.2000.10309
+
+Provvedimenti PP
+
+Incarto n.
+INC.2000.10309
+Lugano
+10
+marzo 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire sul
+reclamo presentato il 30 dicembre 2005 da
+__________, __________
+__________, __________
+__________, __________
+tutti rappr. dallo Studio
+legale __________, __________, __________
+contro
+la
+decisione 23 dicembre 2005 del Procuratore pubblico Manuela Minotti Perucchi,
+che rifiuta la riduzione di una garanzia bancaria, nell’ambito del
+procedimento penale di cui all’inc. MP __________;
+viste le osservazioni del Procuratore pubblico (16
+gennaio 2006) e delle parti civili __________ e __________ (13 gennaio 2006);
+visto l’incarto MP __________;
+ritenuto e considerato
+in fatto ed in diritto
+che:
+-   in data 4
+dicembre 2000, in sede di udienza davanti al GIAR (inc. 849.99.4), l’accusato e
+le parti civili addivenivano ad un accordo relativo alle garanzie per
+l’eventuale risarcimento del danno conseguente ai reati ipotizzati (cfr. doc.
+8, inc. GIAR 849.99.4);
+-   in base a tale
+accordo, “
+a tutela delle pretese risarcitorie delle parti civili (fr. 5,1
+mio)
+” __________ si impegnava a far emettere una garanzia bancaria a prima
+richiesta di FRS 5,5 mio valida “
+fino a crescita in giudicato della sentenza
+di merito, oppure di sentenza di confisca, oppure di dissequestro
+”, nel
+contempo (meglio, ad avvenuta emissione della garanzia) le parti concordavano,
+con l’assenso del Procuratore pubblico, il dissequestro dei fondi bloccati a __________
+presso __________ (cfr. punti 2 e 3 dell’accordo);
+-   nell’accordo in
+questione, al punto 8, si precisava pure che il sequestro di (altri) averi
+presso __________ rimaneva in vigore “
+in quanto computati nel calcolo del
+danno in misura di 1,7 mio Lit, l’eventuale eccedenza potrà essere liberata
+dalla PP
+”;
+-   con scritto 22
+dicembre 2000, il legale di parte civile comunicava al magistrato inquirente di
+essere in possesso della garanzia e di non aver più nulla da obiettare circa il
+dissequestro dei fondi a __________ (AI 175);
+-   il dissequestro
+é stato ordinato (per rogatoria) il 27 dicembre 2000 (AI 178);
+-   l’8 febbraio
+2001 le parti, per il tramite dei loro rappresentanti, presentavano richiesta
+congiunta di dissequestro della somma di 1 miliardo di Lit “
+depositata sul
+conto __________ presso la __________ di __________
+” avendo trovato un
+accordo di risarcimento/transativo (AI 182); la richiesta prevedeva consegna di
+parte della somma da dissequestrare alle parti civili (Lit 750 mio) e di altra parte
+all’accusato (Lit 250 mio);
+-   il dissequestro
+é stato immediatamente ordinato (AI 182);
+-   in data 8 marzo
+2001, il patrocinatore dei qui reclamanti, presentava richiesta di riduzione
+della garanzia a seguito della transazione dell’8 febbraio 2001 (AI 190);
+-   evasione della
+richiesta é stata sollecitata nel 2003 (AI 268) e nel 2005 (AI 365); la
+decisione (negativa) é quella qui impugnata;
+-   il magistrato
+inquirente ha rifiutato di dar seguito all’istanza in quanto da un lato “
+l’accordo
+raggiunto davanti al GIAR ...
+omissis
+… non considerava il trasferimento di ITL 750 milioni
+quale controprestazione per la cessione di un terreno di sua proprietà a favore
+della __________ ...
+”, dall’altro le
+pretese risarcitorie della parte civile ammonterebbero a oltre 5,9 mio di FRS
+(cfr. decisione impugnata);
+-   di parere
+opposto l’accusato che con il reclamo (doc. 1, inc. GIAR 103.2000.9) sostiene
+come la tacitazione della parte civile per la somma di un miliardo di lire
+(unico fatto nuovo intervenuto dal profilo del conteggio del danno, a suo dire)
+deve riflettersi anche sulle garanzie prestate (delle altre argomentazioni e
+conteggi presentati dal reclamante e sulla lettura dell’accordo del 4.12.2000 si
+dirà, se necessario, in seguito);
+-   con
+osservazioni del 16.1.2006 (doc. 4, inc. GIAR 103.2000.9) il magistrato
+inquirente ribadisce la sua posizione, dissentendo, inoltre, in merito a
+calcoli del perito __________ (di parte: cfr. AI 318 e 319) proposti dai
+reclamanti;
+-   le parti
+civili, con osservazioni del 13 gennaio 2006 (doc. 5 inc. GIAR 103.2000.9),
+sostenendo che quello raggiunto il 4.12.2000 é un accordo contrattuale privato tra
+le parti, contestano sostanzialmente la competenza del giudice penale per la
+modifica (nella forma della riduzione);
+-   a giudizio di
+questo giudice, il reclamo é irricevibile (nel merito), perché irricevibile era
+già l’istanza di riduzione della garanzia; tale istanza non può, sempre a
+giudizio di questo giudice e per i motivi che si diranno di seguito, essere
+considerata alla stregua di un’istanza di dissequestro (e qui l’opinione dello
+scrivente si scontra con quella del Procuratore pubblico: cfr. Osservazioni
+16.1.2006 pag. 1);
+-   é evidente che
+l’accordo che ha portato all’emissione della garanzia é un accordo tra parti
+civili e accusato, alla stregua di quello che poteva essere un pagamento (risarcimento)
+del danno (eventualmente già) accertato, ecc. (cfr. G. Piquerez, Procédure
+pénale suisse, ZH 2000, n. 2794 e 2797); l'accordo, inoltre, contiene anche le
+condizioni di durata e valenza (cfr. punto 2 dell’accordo 4.12.2000);
+-   la garanzia non
+é stata emessa a favore dell’autorità penale in sostituzione dei beni da questa
+sequestrati; prova ne sia che la garanzia non é stata trasmessa a questa
+autorità, bensì direttamente alla parte civile (cfr. AI 175), e non é, in sé,
+oggetto di sequestro;
+-   l’autorità
+penale sembrerebbe non aver neppure visto l’atto di garanzia (così come non può
+vederlo questo giudice, non risultando agli atti) e la verifica della
+conformità della stessa agli accordi del 4.12.2000 risulta essere stata
+lasciata alle parti civili; infatti, il dissequestro di cui all’AI 178 ha avuto
+luogo dopo la dichiarazione delle parti civili di essere in possesso della
+garanzia e, conseguentemente, di non essere più “interessati” al mantenimento
+del sequestro (che evidentemente doveva avere unicamente scopi risarcitori);
+-   in sostanza,
+come chi dovesse tacitare la parte lesa in corso d’inchiesta, per poi
+accorgersi che il danno é in realtà inferiore, non potrebbe chiedere all’autorità
+inquirente di intervenire e ordinare la restituzione di quanto eventualmente
+indebitamente versato, trattandosi ormai di questione prettamente civile (G.
+Piquerez, op. cit., n. 2749; DTF 96 I 449; DTF 101 II 375; GIAR 24.10.2000,
+991.1998.13), così chi sceglie altra modalità di risarcimento del danno o
+garanzia dello stesso;
+-   nel
+dissequestrare gli averi presso __________ di __________, il magistrato
+inquirente si é “limitato” a constatare l’accordo raggiunto tra le parti e,
+implicitamente, l’assenza di interessi di terzi al mantenimento del sequestro
+in questione;
+-   nulla cambia a
+quanto sopra il fatto che la garanzia, nella misura di FRS 400'000.--, concerne
+anche pretese dello Stato ("
+derivanti dal procedimento
+”): da un
+lato non é possibile verificare se, per tale importo, la garanzia sia stata
+rilasciata a favore (e a prima richiesta) dello Stato, dall’altro le condizioni
+di una riduzione (sentenza di merito, confisca, dissequestro a favore dello
+Stato) non sono, per questa parte, presenti;
+-   di conseguenza,
+la questione a sapere se il dissequestro di 1 miliardo di lire rientra nel
+concetto indicato al punto 2 dell’accordo (di transenna sia detto che non si
+vede a cos’altro ci si potesse riferire), rispettivamente se il danno derivante
+dalla questione "__________" sia compreso nei 5,1 milioni, sempre
+come dal punto 2 dell’accordo (anche qui, ancora a titolo abbondanziale si
+rileva che dal primo foglio allegato all’AI 121 e intitolato “Riassunto”
+sembrerebbe di sì), sono questioni che concernono l’interpretazione e
+l’applicazione dell’accordo del 4.12.2000, non più di competenza dell’autorità
+penale;
+-   in virtù di
+tutto quanto sopra esposto, il reclamo deve essere dichiarato irricevibile in
+quanto il suo oggetto non é tra quelli di competenza del Procuratore pubblico con
+possibilità di reclamo al GIAR ai sensi dell’art. 280 CPPTI;
+-   tasse e spese
+seguono la soccombenza;
+-   quanto alle vie
+di ricorso, va detto che in materia di sequestri e dissequestri contro le
+decisioni del GIAR é dato reclamo alla Camera dei ricorsi penali del Tribunale
+di Appello; avendo ritenuto che non di taratta di questione che concerne tale
+materia, non può essere indicata tale via di ricorso come certa e data;
+tuttavia, appare opportuno sengalare, almeno nei considerandi, tale possibilità
+dato che questo giudice non può escludere che la Camera dei ricorsi penali
+possa dichiararsi competente qualora non condividesse il motivo di
+irricevibilità menzionato;
+P.Q.M.
+viste le norme applicabili, in particolare gli artt. 161,
+280 ss e 284 CPP,
+decide
+1.   Il
+reclamo é irricevibile nel merito.
+2.   La tassa di giudizio di FRS 300.--
+e le spese di FRS 100.- sono a carico del reclamante, il quale rifonderà FRS
+200.-- a titolo di ripetibili agli osservanti resistenti.
+3.
+Intimazione:
+giudice
+Edy Meli
