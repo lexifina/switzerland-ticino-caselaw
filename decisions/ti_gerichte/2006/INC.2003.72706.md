@@ -1,0 +1,353 @@
+---
+decision_id: "ti_gerichte_INC.2003.72706"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.72706"
+decided: "2006-03-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=88429&nX40_KEY=4711252&nTrefferzeile=16&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/210/art-607.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2003.72706
+
+## Regeste
+
+Istanza di dissequestro
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.03.2006 INC.2003.72706
+Tessin Il Giudice dell'istruzione e dell'arresto 28.03.2006 INC.2003.72706
+Ticino Il Giudice dell'istruzione e dell'arresto 28.03.2006 INC.2003.72706
+
+Istanza di dissequestro
+
+Incarto n.
+INC.2003.72706
+Lugano
+28 marzo 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente
+per statuire sull'istanza di dissequestro/revoca del blocco RFD presentata il
+23 febbraio 2006 da
+__________
+, __________
+(rappr.
+dall'Avv. __________, __________)
+intesa ad ottenere - nel procedimento penale a
+carico di __________ di cui all'ACC __________ - lo sblocco (dissequestro)
+dei fondi di cui alle particelle n. __________, __________ e __________ RFD
+di __________ al fine di permetterne la vendita utilizzando l’interessenza di
+__________ quale risarcimento parziale a favore delle parti civili nel
+procedimento penale che lo riguarda;
+preso atto che tutte le parti a cui l'istanza è stata
+intimata (cfr. doc. 4, inc. GIAR 727.2003.6) non hanno presentato osservazioni
+nel termine assegnato;
+per completezza uno scritto è pervenuto dalla parte
+civile __________, ma concerne in realtà altro oggetto;
+visto l'incarto MP relativo all'ACC __________;
+visti e richiamati gli incarti GIAR 727.2004.4/5;
+in fatto ed in diritto:
+1.
+__________, accusato nell'ambito del procedimento
+penale sfociato nel rinvio a giudizio (mediante atto d'accusa) del 16 giugno
+2005 (ACC __________ e relativo inc. MP), aveva già inoltrato, in due
+occasioni, analoghe istanze nel luglio 2005 (cfr. inc. GIAR 727.2003.4) e nel
+dicembre 2005 (cfr. inc. GIAR 727.2003.5).
+2.
+Con decisione del 16 gennaio 2006, questo ufficio
+aveva in primo luogo ribadito il contenuto della precedente decisione del 29
+settembre 2005, che precisava quanto segue:
+"
+-
+nell'ambito del procedimento
+penale a carico di __________, __________ e __________ per titolo di truffa per
+mestiere e ripetuta falsità in documenti (fatti avvenuti per quanto riguarda il
+qui istante nel periodo giugno 2002 - novembre 2003), il Procuratore pubblico
+ha tra l'altro disposto, il 17 febbraio 2004, il sequestro, con iscrizione a
+registro fondiario dell’interessenza di pertinenza di __________, dei fondi n° __________,
+__________ e __________ RFD di __________ (proprietà in regime comunione
+ereditaria con i fratelli __________ e __________ nata __________) e ciò “allo
+scopo di assicurare allo Stato la confisca di valori patrimoniali a titolo di
+risarcimento compensatorio, rispettivamente la loro assegnazione alle parti
+lese” (Inc. ACC __________, AI 6.32);
+-
+il 16 giugno 2005 il Procuratore
+pubblico firmava il rinvio a giudizio di __________, __________ e __________
+davanti alla Corte delle Assise criminali di Lugano (ACC __________);
+-
+con istanza di dissequestro 1°/4
+luglio 2005 __________ ha chiesto a questo giudice la cancellazione
+dell'iscrizione di blocco dei fondi di cui alle particelle n° __________, __________
+e __________ RFD di __________ al fine di permetterne la vendita ai coniugi __________
+per un importo di CHF 520'000.-- (Inc. GIAR 727.2003.4, doc. G allegato al doc.
+1); la rimanenza del provento della vendita a favore di __________, una volta
+pagati gli oneri ipotecari, i rimborsi per i sussidi cantonali e federali, la
+TUI, le spese notarili a carico della C.E. connesse con la vendita del fondo,
+le imposte comunali scoperte, rimborsato la sorella dell’importo di CHF
+5'000.-- da lei speso a favore del qui istante durante la sua carcerazione e
+pagati i debiti garantiti da pignoramento, ammonterebbe a CHF 15'220.55;
+-
+l’11 luglio 2005 il Procuratore
+pubblico non si oppone alla richiesta di sblocco “
+a condizione che il valore
+dell’interessenza riconducibile attualmente all’istante – e ora incorporato nei
+suddetti fondi – possa venire traslata, senza svantaggio alcuno per le parti
+civili, nell’importo di pertinenza di __________ che scaturirà dall’alienazione
+dei mappali in parola e su cui graverebbe poi il sequestro confiscatorio
+”
+in altre parole che si proceda alla vendita ad un prezzo di mercato con l’unica
+deduzione delle poste connesse con tale vendita ad esclusione quindi della
+tacitazione di crediti non connessi con le pratiche di alienazione;
+-
+le parti civili e i correi non
+hanno presentato osservazioni;
+-
+l’art. 161 cpv. 1 CPP impone al
+magistrato penale di ordinare il sequestro di tutti gli oggetti che possono
+avere importanza per l’istruzione del processo, alternativamente o
+cumulativamente come mezzi di prova o in quanto passibili di confisca o
+devoluzione allo Stato. Il sequestro, per la sua qualità di provvedimento
+eminentemente cautelare, ha lo scopo di acquisire e conservare gli oggetti di
+cui sopra al seguito della procedura e quindi per le necessità dell’istruzione
+preliminare, per le decisioni del magistrato requirente e quelle del giudice
+del merito, come evidenziato nella duplice prospettiva - alternativa o
+cumulativa - della produzione e valutazione delle prove (sequestro probatorio)
+e delle decisioni di confisca, restituzione o devoluzione (sequestro
+confiscatorio) (v. decisione 8 maggio 1998, inc.
+GIAR 516.97.3, in: Rep. 131 [1998] nr. 117, consid.
+1a p. 359);
+-
+in materia di sequestro, nel lasso
+di tempo che intercorre tra l’emanazione dell’atto di accusa e l’apertura del
+dibattimento, la CRP (30.7.2002 in re B, inc. 60.2002.00174) ha constatato un
+“vuoto legislativo” e l’ha colmato assegnando tale competenza al GIAR. Non v’è
+ragione perché quanto detto dalla CRP nella sentenza citata non valga anche in
+tema di dissequestro. Di conseguenza questo giudice ha riconosciuto la sua
+competenza per decidere (comunque e sempre in via incidentale) istanze di
+dissequestro presentate dopo l’emanazione dell’atto d’accusa e prima
+dell’apertura del dibattimento (un chiarimento tra le varie autorità coinvolte
+ha confermato questa conclusione; cfr. decisione 14 ottobre 2003, doc. 12, inc.
+GIAR 268.1997.2);
+-
+questo giudice è dunque competente
+ad esaminare l’istanza 1°/4 aprile 2005, trattandosi di istanza giunta dopo
+l’emanazione dell’atto d’accusa e prima dell’apertura del dibattimento;
+-
+con lettere 3 e 12 agosto 2005
+(Inc. GIAR 7272.2003.4, doc. 7 e 9) l’istante ha comunicato il disinteresse dei
+signori __________ all’acquisto degli immobili e che di conseguenza “l’istanza
+di dissequestro perdeva di valore”;
+-
+malgrado la procedura debba quindi
+essere stralciata dai ruoli, poiché divenuta priva di oggetto, questo giudice
+ritiene di dovere ugualmente esprimere alcune considerazioni in vista di
+possibili istanze di dissequestro future dei fondi in oggetto;
+-
+in concreto, essendo il blocco dei
+fondi (o meglio delle interessenze di spettanza dell’istante) di natura
+risarcitoria (art. 59 n. 2 CP), la richiesta di sblocco ai fini della vendita
+con conseguente sequestro del provento appare legittima anche nell’ottica di
+una migliore copertura dei crediti delle parti civili;
+-
+per quanto attiene il prezzo
+offerto dagli interessati (CHF 520'000.--), sebbene non sia stato contestato né
+dal PP né dalle parti civili, non ne viene valutata l’adeguatezza visto l’esito
+della presente istanza; comunque, in caso di accoglimento dell’istanza di
+dissequestro, il provento della vendita dei fondi in oggetto avrebbe
+sicuramente permesso di far fronte alle spese in stretta connessione con essi;
+la rimanenza, in quanto proprietà comune della CE fu __________ e __________
+(art. 602 e ss CCS), sarebbe stata posta sotto sequestro penale per quanto di
+competenza del giudice del merito, ciò in mancanza di un contratto di divisione
+ereditaria (art. 607 CCS e ss) che avrebbe permesso a questo giudice di
+valutare dissequestri a favore dei singoli membri della comunione ereditaria,
+non potendosi valutare altrimenti le interessenze dei vari membri della CE;
+-
+per quanto riguarda il pagamento
+dell’importo di CHF 5'000.-- alla sorella del qui istante e dell’importo di CHF
+22'518.90 a favore dell’UEF di Locarno, che ha pignorato i diritti del qui
+istante sui fondi in questione per questo importo (cfr. doc. A e S
+dell’istanza, DG 13224 del 3 agosto 2004) successivamente al blocco ordinato
+dal Procuratore pubblico, la richiesta dell’istante difficilmente avrebbe
+potuto essere accolta per i seguenti motivi; il credito di CHF 5'000.-- vantato
+dalla sorella __________ non è infatti connesso con i fondi posti sotto
+sequestro, o meglio con la possibilità di realizzo di tali fondi, e non
+costituisce credito privilegiato nei confronti dei crediti delle parti civili;
+per quanto riguarda poi il pagamento all’UEF di __________ dell’importo di CHF
+22'518.90, sebbene vi sia un blocco dell’interessenza di __________ sul fondo
+di cui alla particella n° __________ RFD di __________, di data 3 agosto 2004,
+lo stesso è successivo a quello ordinato dal Procuratore pubblico sulla stessa
+interessenza in data 18 febbraio 2004 e “
+le conflit entre deux droits
+absolus concurrents sur le même objet est nécessairement résolu par la règle de
+priorité dans le temps
+” (Denis Piotet, “Les effets civils de la
+confiscation pénale”, ed. Staempfli, Berna, 1995, n° 261 e ss, e n° 270):
+inoltre, tacitare tale credito con il provento residuo della vendita degli immobili
+equivarrebbe a privilegiare i crediti vantati nella procedura esecutiva a
+scapito di quelli delle parti civili nell’ambito del procedimento penale,
+problematica che non rientra nella competenza di questo giudice;"
+In secondo luogo aveva formulato (se si preferisce,
+aggiunto) le seguenti considerazioni:
+"2.
+L'istanza qui in discussione è, nella sostanza,
+identica alla precedente. Le differenze stanno da un lato nel prezzo di vendita
+(a luglio concordato in FRS 520'000.-- e ora sceso a FRS 488'000.--) e nel
+fatto che la bozza di contratto prodotta con l'istanza del luglio 2005 (doc. 2
+G, inc. GIAR 727.2003.5) prevedeva la vendita delle tre particelle oggetto di
+blocco a RFD di __________ (numeri __________, __________, __________), mentre
+che l'offerta attualmente in discussione (se si preferisce, in fase di
+realizzazione) è relativa alla sola part. n. __________ RFD di __________ (doc.
+3, inc. GIAR 727.2003.5), senza che sia precisato se la mancata menzione degli
+altri due mappali sia dovuta a dimenticanza o se la vendita attualmente in
+discussione riguardi effettivamente il solo mappale n. __________.
+Inoltre, con l'attuale istanza non è stata prodotta
+una bozza di contratto di vendita che chiarisca (o risolva) le problematiche
+sollevate nel precedente giudizio relative alla determinazione
+dell'interessenza di __________ ed agli impegni cui si deve far fronte (in
+quanto connessi alla vendita stessa e/o prioritari per rapporto alle finalità
+del blocco ordinato dal magistrato inquirente).
+3.
+La richiesta di levata del blocco a RFD, per come è
+presentata e per come formulato il nulla osta del Procuratore pubblico, è, di
+fatto, una richiesta di sostituzione del blocco stesso con sequestro di valori
+sostitutivi (in casu: liquidità). La levata del blocco può essere concessa solo
+mediante condizione di contestuale sostituzione (o, nel caso specifico, di
+impegno corrispondente da parte del notaio rogante) della parte spettante
+all'accusato, previa deduzioni delle spese strettamente connesse all'immobile
+ed alla sua vendita, rispettivamente alle iscrizioni anteriori al sequestro
+penale (come peraltro già detto nella decisione del 29 settembre 2005). Ora,
+sulla base dell'istanza e della documentazione allegata alla stessa, questo
+giudice non è in grado di determinare tali condizioni, né di esprimersi in
+merito alle stesse, non essendo nota l'interessenza dell'accusato sul provento
+della vendita (trattandosi di CE non è possibile affermare
+sic et
+sempliciter
+che si tratta di 1/3), né sugli importi che la diminuiscono e
+che non possono essere oggetto del sequestro penale.
+Non è sufficiente, nel caso in esame, far riferimento
+alla bozza di rogito prodotta con l'istanza del luglio 2005, rispettivamente
+porre sotto sequestro l'intero importo di spettanza della CE (operazione dubbia
+dato che per le parti corrispondenti alle interessenze degli altri membri della
+CE si tratterebbe di un sequestro senza titolo valido ex art. 161 ss. CPP,
+ancorché se da loro "accettato" con la firma dell’atto di vendita che
+conterrebbe tale condizione/obbligo un successivo dissequestro presupporrebbe
+comunque la determinazione dell'interessenza) in attesa di successiva
+divisione.
+La bozza del luglio 2005 prevedeva la vendita dei tre
+mappali concernenti la CE, l'attuale prospettiva sembra essere relativa ad uno
+solo con conseguente ulteriore difficoltà per la determinazione
+dell'interessenza, rispettivamente della corretta ripartizione tra coeredi (e
+corrispondenti eventuali pagamenti).
+Sempre in base alla bozza del luglio 2005, si può
+ritenere che quanto debba essere prioritariamente pagato con il prezzo di
+vendita, in quanto strettamente legato all'immobile (ufficio abitazioni,
+ufficio sussidi cantonali, ipoteca, TUI e rogito), ammonti a ca. FRS 372'000.--
+(senza calcolare gli ulteriori interessi maturati). La cifra disponibile
+massima sarebbe quindi di ca. 116'000.-- (ammesso e non concesso che non vi
+siano altri importi "prioritari") e l'UEF di __________ pretende, per
+la cancellazione del pignoramento nei confronti del fratello dell'istante, FRS
+40'000.-- sul prezzo di vendita per "
+…den Kufvertrag unterschreiben zu
+lassen
+" (doc. R e G, inc. GIAR 727.2003.4). In virtù delle cifre sopra
+esposte (ancorché calcolate sommariamente e non aggiornate) non è per nulla
+certo che tale somma possa essere pagata (prioritariamente, come previsto dalla
+bozza del luglio 2005) con la sola interessenza di __________.
+4.
+In virtù di quanto sopra, occorre concludere che
+l'istanza non fornisce indicazioni sufficientemente chiare circa il valore
+dell'interessenza oggetto del blocco imposto dall'autorità giudiziaria penale,
+rispettivamente sul fatto che tale interessenza non venga intaccata dalle
+condizioni di vendita e, di conseguenza, che l'importo che dovrà sostituire
+(nella forma del sequestro) il blocco a RFD ordinato dal magistrato inquirente
+il 17 febbraio 2004, sia equipollente (per non creare uno
+"svantaggio" per le parti civili al procedimento penale -
+Osservazioni PP, pag. 2).
+Certo, non sfugge a questo giudice che l'entità
+concreta (se si preferisce, in moneta) dell'interessenza dipende anche, se non
+in gran parte, dal prezzo di vendita che potrebbe ulteriormente scendere (come
+è già sceso), con conseguente interesse di tutti (quindi anche delle parti
+civili) a far sì che ciò non accada. Tuttavia, ciò non autorizza questo giudice
+(perlomeno in assenza di un consenso esplicito di tutte le parti) a consentire
+che l'interessenza di pertinenza dell'accusato possa essere intaccata per
+permettere la levata di altre limitazioni alla facoltà di disporre che concernono
+l'interessenza di altri membri della CE (cfr. pignoramento da parte del
+Betreibungsamt di __________ a carico di __________).
+5.
+In conclusione, e senza che sia necessario disquisire
+più di tanto sull'aderenza del prezzo qui in discussione con il prezzo di
+mercato (che, comunque, non può essere determinato in modo astratto, bensì
+tenendo conto dell'effettiva domanda), l'istanza così come presentata non
+permette di determinare le condizioni alle quali subordinare la levata del
+blocco, tantomeno l'importo dell'interessenza di __________ che deve essere
+sottoposta sostitutivamente a sequestro.
+L'istanza, carente nella motivazione, deve quindi
+essere respinta con la presente decisione impugnabile alla CRP ex art. 284
+lett. a).
+"
+3.
+Mediante l'attuale istanza, __________ chiarisce che
+la vendita concerne le tre parcelle oggetto di blocco a RF, indica l'attuale
+prezzo di vendita (FRS 550'000.-) e gli importi connessi al fondo ed alla
+realizzazione della vendita delle particelle che i venditori debbono porre in
+deduzione al prezzo globale di vendita, produce il contratto di divisione
+ereditaria che indica suddivisione in tre parti uguali (una delle quali di sua
+spettanza) del provento della vendita dei fondi in comunione, e produce la
+bozza del rogito di vendita che contiene il mandato (e rispettivo impegno) del
+notaio rogante l'atto a ricevere il prezzo di vendita, provvedere ai pagamenti
+connessi al fondo ed all'atto notarile ed a riversare il saldo di pertinenza di
+__________ (indicato nell'istanza, prudenzialmente, in FRS 38'020,40) a favore
+dell'autorità penale.
+4.
+Come indicato nel cappello della presente decisione
+non sono pervenute a questo giudice osservazioni particolari delle parti o del
+Procuratore pubblico (autorità che ha ordinato il blocco e che è deputato in
+sede dibattimentale a chiedere, se del caso, l'applicazione dell'art. 59 CP),
+tantomeno opposizioni a che si consenta la sostituzione del blocco a RFD con il
+"sequestro" del provento netto (di spettanza dell'istante) della
+realizzazione dell'immobile. Di conseguenza, e ritenuto che il prezzo
+concordato non appare eccessivamente basso o fuori mercato (peraltro risulta
+superiore a quello spuntato nelle precedenti contrattazioni) e che tra le
+deduzioni previste non ne emergono di manifestamente non connesse con
+l'immobile e con l'atto di vendita, l'istanza può essere accolta, ma non nel
+modo postulato (l'immediata cancellazione del blocco a RF); infatti, la
+cancellazione del blocco potrà avvenire solo contestualmente all'iscrizione del
+rogito e RF, ed ai fini unicamente di tale iscrizione, previa verifica di
+conformità dello stesso con le condizioni indicate nella presente istanza.
+Tale verifica, così come la comunicazione della levata
+del blocco avverrà, per ovvi motivi, ad opera del Procuratore pubblico che
+provvederà pure a fornire al notaio rogante gli estremi bancari per il
+versamento della somma di spettanza dell'accusato istante.
+5.
+Viste la particolarità dell'istanza e l'esito della
+stessa, non si prelevano tasse e spese né si assegnano ripetibili.
+La presente decisione è impugnabile alla CRP, ritenuto
+che concerne la materia indicata all'art. 284 cpv. 1 lett. a) CPP:
+P.Q.M.
+viste le norme applicabili, in particolare gli artt.
+146, 138, 59 CPP, 161 ss., 280 ss.,284 CPP,
+decide
+1.
+L'istanza è evasa ai sensi dei considerandi (in
+particolare consid. 5).
+L'incarto è ritornato al Procuratore pubblico per
+esecuzione.
+2.
+Non si prelevano tasse e spese di giudizio; non si
+assegnano ripetibili.
+3.
+La presente decisione è impugnabile, entro 10 giorni
+dalla notifica, presso la Camera dei ricorsi penali, Lugano.
+4.
+Intimazione
+giudice
+Edy Meli
