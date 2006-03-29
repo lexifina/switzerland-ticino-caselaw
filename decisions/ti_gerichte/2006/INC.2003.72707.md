@@ -1,0 +1,77 @@
+---
+decision_id: "ti_gerichte_INC.2003.72707"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2003.72707"
+decided: "2006-03-29"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=93260&nX40_KEY=4711251&nTrefferzeile=92&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2003.72707
+
+## Regeste
+
+Istanza di dissequestro. Respinta in quanto non motivata
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 29.03.2006 INC.2003.72707
+Tessin Il Giudice dell'istruzione e dell'arresto 29.03.2006 INC.2003.72707
+Ticino Il Giudice dell'istruzione e dell'arresto 29.03.2006 INC.2003.72707
+
+Istanza di dissequestro. Respinta in quanto non motivata
+
+telefono
+fax
+Funzionario
+Incaricato
+Via
+Bossi 3
+6901
+Lugano
+091 815 53 21
+091
+815 56 59
+Repubblica
+e Cantone
+del
+Ticino
+Ufficio dei Giudici
+dell'istruzione e
+dell'arresto
+6901 Lugano
+Incarto n.
+INC.2003.72707
+Vs. riferimento
+Lugano
+29 marzo 2006
+Pretese di
+parte civile nel procedimento __________
+Gentile
+Signora,
+invitata a
+presentare osservazioni nell'ambito dell'istanza presentata da __________ il 23
+febbraio 2006 Lei ha presentato uno scritto datato 17.3.2006 mediante il quale,
+sostanzialmente, chiede la restituzione (se si preferisce il ristorno) della
+somma di FRS 60'00.00 versati a favore della __________ il 31.10.2003.
+Ricordandole
+che le pretese civili debbono essere fatte valere davanti al giudice di merito
+(Tribunale penale cantonale), segnalo che il suo scritto non può essere
+considerato quale valida istanza di dissequestro della somma indicata, già per
+il fatto che dall'atto di accusa risulta che quanto sequestrato in corso
+d'inchiesta è stato in gran parte devoluto al liquidatore e i sequestri ancora
+presenti non sembrano comprendere il conto di cui Lei parla, tantomeno la somma
+di FRS 60'000.00 (cfr. ACC __________ pag. 27).
+Pertanto, la
+sua istanza (che viene trasmessa in copia al Procuratore pubblico che potrà, se
+del caso, smentire la conclusione di cui sopra) non può essere considerata
+quale valida e motivata istanza di dissequestro.
+Distinti
+saluti.
+giudice
+Edy Meli
+Copia p.c.:
+PP __________
+con allegata copia della lettera 17 marzo 2006
