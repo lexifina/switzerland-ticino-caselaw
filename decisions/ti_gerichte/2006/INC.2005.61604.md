@@ -1,0 +1,76 @@
+---
+decision_id: "ti_gerichte_INC.2005.61604"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.61604"
+decided: "2006-03-30"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=88451&nX40_KEY=4711251&nTrefferzeile=91&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2005.61604
+
+## Regeste
+
+Richiesta di dissequestro dopo emanazione di atto di accusa e prima dell'inizio del pubblico dibattimento.
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 30.03.2006 INC.2005.61604
+Tessin Il Giudice dell'istruzione e dell'arresto 30.03.2006 INC.2005.61604
+Ticino Il Giudice dell'istruzione e dell'arresto 30.03.2006 INC.2005.61604
+
+Richiesta di dissequestro dopo emanazione di atto di accusa e prima dell'inizio del pubblico dibattimento.
+
+telefono
+fax
+Funzionario
+Incaricato
+Via
+Bossi 3
+6901
+Lugano
+091 815 53 21
+091
+815 56 59
+Repubblica
+e Cantone
+del
+Ticino
+Ufficio dei Giudici
+dell'istruzione e
+dell'arresto
+6901 Lugano
+Incarto n.
+INC.2005.61604
+Vs. riferimento
+Lugano
+30 marzo 2006
+__________ - istanza 30 marzo
+2006
+Egregio avvocato,
+con la presente faccio seguito al
+suo fax 30 marzo 2006 con il quale chiede il dissequestro della tessera di
+codice fiscale e della carta d’identità del suo cliente (o una copia della
+stessa) per permettere la vendita di un immobile in Italia dell’accusato.
+Sia nel rapporto d’arresto 23
+novembre 2005 che nell’atto d’accusa 24 marzo 2006 i documenti richiesti non
+vengono menzionati. Se ne deduce che non sono stati sequestrati dagli
+inquirenti anche perché, di primo acchito, non si vede la necessità di un tale
+sequestro per il procedimento penale in corso nei confronti di __________.
+Di conseguenza la sua istanza è
+irricevibile, non facendo riferimento a documenti posti sotto sequestro penale
+e non essendo il GIAR autorità competente per decidere in altro modo sulla
+consegna o meno di tali certificati.
+Posso solo presumere che i
+documenti d’identità del suo cliente si trovino tra gli oggetti personali dell’accusato
+detenuto, oggetti personali che solitamente sono depositati nel luogo di
+carcerazione.
+Le suggerisco quindi di
+rivolgersi alla Direzione del PCT.
+Distinti saluti.
+giudice
+Claudia Solcà
+Copia
+__________
