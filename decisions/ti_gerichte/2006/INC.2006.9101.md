@@ -1,0 +1,289 @@
+---
+decision_id: "ti_gerichte_INC.2006.9101"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.9101"
+decided: "2006-03-31"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=88525&nX40_KEY=4711251&nTrefferzeile=84&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-060.md", "switzerland/bund/acts/312.0/art-175.md"]
+---
+
+# TI Gerichte INC.2006.9101
+
+## Regeste
+
+Reclamo contro rifiuto accesso agli atti
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 31.03.2006 INC.2006.9101
+Tessin Il Giudice dell'istruzione e dell'arresto 31.03.2006 INC.2006.9101
+Ticino Il Giudice dell'istruzione e dell'arresto 31.03.2006 INC.2006.9101
+
+Reclamo contro rifiuto accesso agli atti
+
+Incarto n.
+INC.2006.9101
+Lugano
+31 marzo 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sul reclamo presentato il 28
+febbraio/1°marzo 2006 da
+__________
+rappr. dal lic. iur.__________
+contro
+la decisione 17 febbraio 2006 con la quale il Procuratore
+pubblico gli ha negato l'accesso agli atti del procedimento di cui
+all'incarto MP __________;
+preso atto delle osservazioni 13
+marzo 2006, con le quali il Procuratore pubblico si è pronunciato per la
+reiezione del gravame;
+visto l'incarto MP __________;
+ritenuto
+in fatto
+A.
+In data 13 maggio 2005 il
+Procuratore pubblico ha emanato un ordine di arresto internazionale nei
+confronti di __________ - a quel momento verosimilmente residente in __________
+- per titolo di infrazione aggravata alla LFStup
+"per avere senza
+essere autorizzato, nel periodo estate 2004 fino a fine gennaio 2005, detenuto
+trasportato ed importato in Svizzera, da un imprecisato valico, così come
+commissionatogli da __________ e __________ per conto di __________, un
+imprecisato quantitativo ma almeno 6 kg di cocaina, in partite da 2 kg cadauna,
+sostanza stupefacente consegnata a __________ a __________ in __________ ".
+Nell'ordine veniva pure precisato che in caso di arresto all'estero si
+sarebbe proceduto a chiedere l'estradizione.
+Nel corso dell'estate 2005 da
+contatti di Polizia è emerso che l'interessato era stato arrestato agli inizi
+del 2005 in __________, dove era ancora detenuto per l'esecuzione di una pena
+di 2 anni e mezzo per reati inerenti a traffici di stupefacenti (condanna del
+giugno 2005).
+Il Procuratore pubblico ha
+tentato invano di interrogare __________ per via rogatoriale.
+La domanda di estradizione è
+stata accolta dalle autorità tedesche.
+B.
+Con scritto 8 febbraio 2006 il
+difensore di __________ ha chiesto al Procuratore pubblico di poter prendere
+visione degli atti inerenti il procedimento penale aperto in Svizzera,
+richiesta respinta dal magistrato inquirente con decisione 17 febbraio 2006 -
+"con
+la presente le comunico di non poter concedere l'accesso agli atti prima di
+aver contestato il contenuto al suo patrocinato"
+-, con contestuale
+invio di copia dell'ordine di arresto 13 maggio 2005.
+Ha fatto seguito il reclamo qui
+in esame, con il quale il difensore di __________ si riconferma nella sua
+richiesta di accesso agli atti. La decisione impugnata, oltre ad essere carente
+nella motivazione, sarebbe contraria al principio di proporzionalità, in quanto
+precluderebbe a __________ la possibilità di esprimersi e far valere le proprie
+ragioni, ricordato inoltre che, durante l'istruzione formale, partecipazione e
+conoscenza degli atti sarebbero prioritari rispetto al segreto delle indagini.
+In sede di osservazioni il
+magistrato inquirente si è riconfermato nella decisione impugnata, con
+allegazioni di cui si dirà, per quanto necessario, nei considerandi in diritto.
+E considerato
+in diritto
+1.
+La legittimazione è pacifica; il
+reclamo, tempestivo, è quindi ricevibile in ordine.
+2.
+Con il gravame qui in esame il
+difensore di __________ chiede, come detto, che gli venga concesso l'accesso
+agli atti sin qui acquisiti.
+In proposito la giurisprudenza di
+questo ufficio ha già avuto modo di precisare che:
+"L’art. 60 cpv. 2 CPP dispone che il difensore
+nell’ambito della sua partecipazione all’istruttoria formale può sempre
+prendere conoscenza degli atti e dei documenti e riceverne copia, ove
+necessario al patrocinio e salvo contrarie esigenze di inchiesta “.
+Quindi, secondo lo spirito informatore della revisione
+parziale 23 settembre 1992 / 1. gennaio 1993 (la corrispondente norma era
+l'art. 61c cpv. 2), di principio partecipazione e conoscenza sono prioritari
+rispetto al segreto delle indagini, ammissibile solo quando sia necessaria
+preminente tutela di interessi pubblici e privati, da apprezzare nel rispetto
+della proporzionalità. Peraltro il diritto in discussione è garantito dall’art.
+4 Cost. fed., in quanto corollario del diritto di essere sentito, ritenuto che
+solo conoscendo gli indizi su cui si fonda l’accusa è possibile alla difesa di
+prendere posizione ed eventualmente controbatterli convenientemente: e ciò vale
+segnatamente in caso di detenzione preventiva dell’accusato, come vogliono gli
+art. 5 § 2,3 e 4 CEDU (v. sentenza della Camera dei ricorsi penali 21 settembre
+1994 in re M. P., CRP 293/94, e riferimenti; sentenza 8 dicembre 1994 consid.
+2b della I Corte di diritto pubblico del Tribunale federale in re M. A.,
+1P.669/1994 e riferimenti, in particolare DTF 119 Ia 138 consid. 2b, 115 Ia 302
+consid. 5a). Se infatti la consultazione degli atti del procedimento
+costituisce l’ovvia premessa del diritto di esprimersi e di esporre le proprie
+ragioni, in questo contesto l’accusato arrestato acquisisce la conoscenza degli
+elementi a carico rispettivamente legittimanti la privazione della libertà e di
+quelli a discarico e favorevoli alla revoca del provvedimento restrittivo, il
+tutto sempre a garanzia del principio della parità delle armi (sentenza TF
+citata e riferimenti, tra i quali DTF 116 Ia 300 consid. 4a, 115 Ia 303 consid.
+5b), oltre evidentemente a poter attivamente esercitare le propria difesa.
+Di certo, come previsto dalla norma in discussione e
+come riconosciuto dalla citata giurisprudenza (v. anche REP 1998, pag. 328, n.
+100), il diritto per l’accusato e per il suo difensore non è assoluto, ma può
+essere limitato a tutela di legittimi interessi pubblici o privati
+contrastanti, ritenuto in ogni modo ed in caso di arresto l’accesso agli atti
+essenziale. Si aggiunge che le “contrarie esigenze di inchiesta“, quale
+eccezione al principio della piena partecipazione, potranno essere sempre meno
+fatte valere nel decorso dell’istruttoria (v. sopra sub 3.3).".
+(GIAR 31 agosto
+2000, inc. 377.2000.6)
+Per l'ovvia e fondamentale
+importanza che la conoscenza degli atti riveste nell'ambito di una difesa
+penale, vige notoriamente il principio che gli stessi sono liberamente
+accessibili all'accusato, salvo comunque contrarie esigenze d'inchiesta (art.
+58 cpv. 1 e 60 cpv. 2 CPP).
+"Fondamentale "esigenza
+d'inchiesta" è l'immediatezza delle dichiarazioni dell'accusato: egli non
+deve poter ricevere informazioni sino a quel momento note unicamente agli
+inquirenti prima che le stesse gli siano state formalmente contestate. In caso
+contrario, verrebbe ripristinato quel pericolo di collusione che aveva magari
+già giustificato l'arresto dell'accusato; ed inoltre, quest'ultimo potrebbe
+costruirsi ad arte una linea di difesa compatibile con quanto
+l'accusa
+già conosce"
+(L. Marazzi, Il GIAR, Lugano 2001, § 3.II.2.1. p. 22, con
+rinvii a giurisprudenza e dottrina in nota 79 ibidi.). Va inoltre ricordato che
+il problema della ponderazione tra interessi della difesa e dell'inchiesta in
+materia di libero accesso agli atti si pone in termini analoghi per l'accusato
+ed il suo difensore: quest'ultimo non può infatti essere tenuto a conservare il
+segreto verso il suo assistito, nei confronti del quale è vincolato dalle
+regole del mandato ad esauriente motivazione (cfr. Rep. 1994, n. 114, p.
+114-115).
+Se è corretto (proceduralmente
+parlando) limitare l'accesso agli atti fino alla prospettazione/contestazione
+degli stessi per garantire immediatezza (delle risposte), non è altrettanto
+corretto ritardare oltre misura queste operazioni d'inchiesta ed il relativo
+divieto di prenderne visione. Da un lato l'art. 175 cpv. 2 CPP sancisce il
+principio della celerità dell'istruttoria per tempestiva definizione del
+procedimento, dall'altro il ritardo nella prospettazione d'eventuali prove (o
+indizi) a carico può pregiudicare (o rendere più difficoltosa) l'acquisizione
+di prove a discarico o di elementi di approfondimento di quanto prospettato.
+Pertanto la necessità di garantire l'immediatezza delle dichiarazioni
+dell'accusato non può essere invocata quale impedimento all'accesso agli atti
+se vi è un ritardo eccessivo nella loro contestazione.
+E ancora:
+"Il diritto di accesso agli atti é sancito dalla
+procedura penale ticinese ma non si tratta di diritto assoluto come evoca lo
+stesso reclamante. La possibilità di accedere al dossier penale, sia che si
+tratti di accesso pieno o di accesso parziale, può essere limitato da un lato a
+ragione dello statuto dell’accusato, ossia in considerazione dello stato di
+detenzione o di libertà di cui gode ma anche in virtù di eventuale latitanza
+(in questo senso GIAR 347.95.18 del 25 settembre 1998 in re MP pag. 5 e 6 e CRP
+213/93 del 30 dicembre 1993 in re AP), rispettivamente per l’esistenza di
+eventuali prioritari interessi di terzi od ancora per il sussistere di esigenze
+istruttorie preminenti (GIAR 21 gennaio 1994 770.93.1 in re RG, si ricorda
+ancora GIAR 62.93.2 del 25 febbraio 1993 dove ai patrocinatori di accusati é
+stato fatto divieto di comunicarsi il contenuto dei verbali resi dai rispettivi
+patrocinati, ed ancora GIAR 912.93.1 del 27 dicembre 1993 dove invece non sono
+state ammesse le prioritarie esigenze istruttorie dopo acquisizione della
+documentazione necessaria all’istruttoria e contestazione della stessa
+all’accusato).
+In sostanza quindi va ammesso il diritto di potere prendere
+visione dell’incarto da parte dell’accusato e del suo patrocinatore ma questo
+diritto é soggetto a limitazioni che vanno esaminate di caso in caso alla luce
+delle invocate esigenze istruttorie rispettivamente dello status dell’accusato,
+e ciò nell’ottica del rispetto del principio di proporzionalità. Si ricorda
+ancora che, prima della precisa e puntuale contestazione di quanto acquisito
+agli atti, ben difficilmente potrà essere concesso totale accesso agli atti
+all’accusato od all’indiziato seriamente coinvolto nelle informazioni
+preliminari, ciò per non pregiudicare spontaneità nella presa di posizione
+dell’interessato sentito e per potere eseguire le contestazioni che il caso
+impone.
+In caso di presenza di più persone coinvolte nei fatti
+ed ancora da sentire occorrerà ammettere con prudenza il pieno accesso agli
+atti prima dell’audizione di tutti gli interessati per evitare un rischio
+collusivo e versioni concordate."
+(sentenza 7 ottobre
+1998 in re V., GIAR 793.1998.1)
+Di principio è dunque legittimo e
+conforme al diritto processuale limitare i diritti della difesa nella fase
+predibattimentale, quando ciò è dovuto a preminenti esigenze d’inchiesta.
+Queste sono date quando il magistrato inquirente intende acquisire elementi di
+prova esenti da qualsiasi possibilità di distorsione o di inquinamento; tra
+questi vi è certamente anche l'esigenza di raccogliere dalla persona indagata o
+accusata dichiarazioni o risposte prive dall'eventuale influenza derivante
+dalla conoscenza preventiva degli atti raccolti in sede di indagini (DTF 2
+ottobre 1991 in re H., 1P.533/1990, pag. 26/27; GIAR 8 ottobre 2004 in re P.,
+693.2002.3).
+Nel caso in esame è proprio la
+necessità di poter ottenere (in sede di interrogatorio di __________) risposte
+prive dell'eventuale influenza derivante dalla lettura preventiva delle
+informazioni sin qui raccolte ad essere fatta valere dal magistrato inquirente.
+In concreto, con la decisione impugnata il Procuratore pubblico ha infatti
+informato il difensore di __________ di non poter concedere l'accesso agli atti
+prima di averne contestato il contenuto all'interessato, trasmettendogli
+comunque copia dell'ordine di arresto 13 maggio 2005. In sostanza l'accesso
+agli atti è stato rifiutato per evidenti motivi d'inchiesta, e meglio, a
+salvaguardia della spontaneità delle dichiarazioni di __________. La decisione
+impugnata indica quindi in modo chiaro il motivo per il quale l'accesso agli
+atti viene rifiutato e non può pertanto essere ritenuta carente di motivazione.
+L'esigenza fatta valere dal magistrato
+inquirente appare fondata, e quindi da proteggere, già per il fatto che è sulla
+base degli atti sinora acquisiti che il magistrato inquirente ha individuato in
+__________ una delle persone coinvolte in un ingente traffico di cocaina;
+legittimo e proceduralmente corretto che si voglia salvaguardare spontaneità
+delle risposte alle contestazioni/prospettazioni degli elementi fattuali
+contenuti nella documentazione sin qui acquisita. In caso contrario
+l'interessato potrebbe costruirsi ad arte una linea difensiva compatibile con
+quanto l'accusa già conosce, nonché prepararsi risposte preconfezionate sulla
+base di atti già visionati (che oltre a non essere utili per la ricerca della
+verità rischierebbero pure di essere di nocumento per la credibilità di __________
+stesso, che comunque conserva piena facoltà di non rispondere).
+In siffatte circostanze l'immediato
+accesso agli atti dell'incarto, sarebbe di grave pregiudizio per l'inchiesta,
+in quanto __________ avrebbe la possibilità di convenientemente prepararsi su
+tutte le contestazioni che gli verranno mosse dal Procuratore pubblico, ciò che
+falserebbe il normale andamento degli interrogatori. L'accusato avrà comunque
+la possibilità di prendere posizione, con l'assistenza del suo patrocinatore,
+su tutti gli elementi probatori man mano che il Procuratore pubblic glieli
+contesterà.
+Né al magistrato inquirente può
+essere rimproverata una violazione del principio di celerità. Il Procuratore
+pubblico ha infatti - e senza ritardi ingiustificati - cercato di procedere
+alla contestazione delle risultanze dell'indagine al reclamante, in particolare
+ha cercato di procedervi per rogatoria, sollecitandone pure l'esecuzione da
+parte delle autorità rogate (cfr. AI 9, 13 e 16). L'interrogatorio per via
+rogatoriale non ha potuto avvenire in quanto il reclamante, tramite il proprio
+legale tedesco, ha comunicato di avvalersi del diritto di non rispondere, ciò
+che ha portato il Procuratore pubblico a rinunciare all'esecuzione della
+domanda rogatoriale (AI 17 e 18).
+3.
+In conclusione, in virtù di
+quanto esposto ai considerandi che precedono e tenuto conto dello stadio del
+procedimento la decisione di rifiuto di accesso agli atti non lede il principio
+di proporzionalità e deve essere confermata, ribadito inoltre che il rispetto
+del diritto di essere sentito (di cui il diritto d'accesso agli atti è
+corollario) si espliciterà al momento dell'interrogatorio e non impone certo
+una messa a disposizione preventiva degli elementi acquisiti agli atti, prima
+di una loro elaborazione/prospettazione all'interessato.
+Di conseguenza il reclamo deve
+essere respinto con la presente decisione definitiva (a livello cantonale).
+Tassa di giustizia e spese
+seguono la soccombenza.
+Per questi motivi,
+viste le norme applicabili, in
+particolare gli art. 19 cifra 2 LStup, 57, 58, 60, 280ss CPP,
+decide
+1.
+Il
+reclamo è integralmente respinto.
+2.
+La
+tassa di giustizia, fissata in FRS 400.--, e le spese di FRS 70.--, sono a
+carico del           reclamante.
+3.
+La presente decisione è definitiva (a livello cantonale).
+4.
+Intimazione:
+giudice
+Ursula Züblin
