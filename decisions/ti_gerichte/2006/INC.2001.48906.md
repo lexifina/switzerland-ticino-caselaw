@@ -1,0 +1,280 @@
+---
+decision_id: "ti_gerichte_INC.2001.48906"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.48906"
+decided: "2006-05-10"
+published: "2006-05-10"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=89023&nX40_KEY=4711249&nTrefferzeile=29&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-253.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-283.md"]
+---
+
+# TI Gerichte INC.2001.48906
+
+## Regeste
+
+Prove
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 10.05.2006 INC.2001.48906
+Tessin Il Giudice dell'istruzione e dell'arresto 10.05.2006 INC.2001.48906
+Ticino Il Giudice dell'istruzione e dell'arresto 10.05.2006 INC.2001.48906
+
+Prove
+
+Incarto n.
+INC.2001.48906
+Lugano
+10 maggio 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire sul reclamo presentato il 21/24
+aprile 2006 da
+__________
+Contro
+la decisione 11 aprile 2006
+del
+Procuratore generale Bruno Balestra, mediante la quale viene respinta la
+richiesta di complemento istruttorio presentata nell'ambito del procedimento
+di cui all'incarto MP __________;
+viste le osservazioni del Procuratore generale (4
+maggio 2006) e preso atto che le altre parti al procedimento (così come già
+comunicate dal MP con e-mail del 3 gennaio 2006 in inc. GIAR 489.2001.5) non
+hanno presentato osservazioni;
+visto l'incarto MP __________ (5 classificatori);
+ritenuto e considerato
+in fatto ed in diritto
+che:
+-     il presente
+reclamo concerne una decisione di rifiuto di complemento istruttorio (AI 80)
+emanata dal Procuratore generale a seguito dell'annullamento per carenza di
+motivazione (e relativo rinvio) della precedente (AI 74);
+-     con sentenza
+del 3 febbraio 2006 (nota alle parti ed a cui si rinvia -DTF 123 I 130- per i
+dettagli: doc.5, inc. GIAR 489.2001.5) questo giudice aveva annullato per
+carenza di motivazione il rifiuto del Procuratore generale di procedere ad una
+ulteriore audizione, in contraddittorio, di __________; ciò in ragione del
+fatto che la relativa decisione si limitava ad indicare che un confronto (di
+perlomeno dubbia validità, come detto nella sentenza del 3 febbraio 2006) aveva
+già avuto luogo davanti alla polizia, ad affermare che __________ non risultava
+più risiedere in __________ e che l'audizione non era necessaria;
+-     invero, come
+rileva il Procuratore generale nella decisione ora impugnata, il dispositivo
+della sentenza 3 febbraio 2006 non precisava che l'annullamento concerneva solo
+la parte della decisione relativa all'audizione __________, unica ad essere
+impugnata (come accertato nei considerandi di detta sentenza: cfr. pag. 3);
+comunque sia, anche l'attuale reclamo concerne unicamente tale rifiuto e non
+quello (anch'esso ribadito) di acquisizione dell'incarto AI;
+-     dagli atti
+risulta che, a seguito del rinvio del 3 febbraio 2006, l'autorità inquirente ha
+chiesto informazioni alla SPI circa l'attuale residenza della signora __________
+(ricevendo risposta di una partenza per l'estero il 31 ottobre 1999 - AI 78 e
+79) e ha acquisito, da altro incarto, ulteriori verbali di __________ (anche
+posteriori al "confronto" del 12 settembre 2001), nonché altra
+documentazione relativa al soggiorno di questa persona (documentazione dalla
+quale si evince presenza, nota anche alla SPI, fino all'autunno del 2001, con
+conseguente ipotesi di errore di data nello scritto di cui all'AI 79 - altre
+ipotesi essendo francamente eccessive);
+-     con decisione
+dell'11 aprile 2006,  il Procuratore generale ha nuovamente respinto la
+richiesta di nuova audizione di __________ (AI 80);
+-     a fondamento del rifiuto, dopo
+indicazione e precisazione delle imputazioni (in fatto ed in diritto) nei
+confronti della reclamante (relative al rapporto con la _______ Decisione, pag.
+2 secondo paragrafo), vengono indicate le dichiarazioni della stessa reclamante
+in merito agli importi ricevuti, alle circostanze di tempo e luogo della
+ricezione ed al rapporto di impiego (di ________), con rinvio ai relativi
+verbali (Decisione, pag. 2 quarto paragrafo primo punto); inoltre, dopo breve
+riferimento ai verbali __________ di recente acquisizione, sono ribadite la
+validità del confronto avvenuto in polizia e l'impossibilità di individuare
+l'attuale residenza della signora __________ (per eventuale citazione, che
+ritiene comunque sproporzionata se da effettuarsi all'estero);
+-     con il presente reclamo (doc. 1,
+inc. GIAR 489.2001.6), __________ chiede, innanzitutto, l'annullamento della
+decisione perché la stessa non fa chiarezza circa il destino delle ipotesi di
+reato oggetto di promozione d'accusa (Reclamo, punto 2, con rinvio alla
+decisione del 3 febbraio 2006); successivamente, constatata l'acquisizione agli
+atti di ulteriori verbali provenienti da altro incarto e, ritenuto che il fatto
+vìoli l'obbligo di rivelare tutte le prove raccolte, chiede l'acquisizione
+dell'intero fascicolo processuale relativo a __________, nonché di tutte le
+altre persone indagate con lei (la reclamante: Reclamo, punto 3); da ultimo, e
+per quanto concerne più specificamente la richiesta nuova audizione, __________
+ribadisce la richiesta segnalando di non aver potuto esercitare pienamente il
+suo diritto al contraddittorio nell'ambito del confronto avvenuto in polizia,
+visto lo stadio dell'inchiesta, la conoscenza limitata degli atti e l'assenza
+del difensore; aggiunge, a ulteriore sostegno della richiesta, che
+l'acquisizione di ulteriori verbali, di __________, è già di per sé prova di
+utilità necessità di nuova audizione in contraddittorio, anche alla luce delle
+(non meglio precisate) dichiarazioni della persona in questione risultanti dal
+verbale 20 agosto 2001 (Reclamo, punto 5);
+-     con osservazioni del 4 maggio
+2006 (doc. 5, inc. GIAR 489.2001.6), il Procuratore generale rinvia alla
+decisione impugnata e afferma, in aggiunta, che la non inclusione agli atti
+degli ulteriori verbali __________ (e altra documentazione di quell'incarto) è
+dovuta a semplice inavvertenza; a suo dire, inoltre, che la richiesta di
+acquisizione di atti da altri procedimenti (__________) è tardiva e priva di
+motivazione sufficiente e, in conclusione, asserisce che "
+nulla toglie
+all'accusata la possibilità di essere risentita in merito alle accuse a lei
+mosse in merito alla procedura di rilascio di permessi di dimora e di lavoro in
+favore della straniera __________
+";
+-     quest'ultima affermazione è
+comprensibile solo se si richiama il fatto (già evidenziato nella sentenza del
+3 febbraio 2006) che non per tutte le accuse promosse l'inchiesta si trova
+nella fase del deposito atti; mettendo a confronto quest'ultima comunicazione
+(AI 67) con le indicazioni fornite dal magistrato inquirente circa le
+imputazioni relative ai rapporti dell'accusata con __________ (pagina 2 della
+decisione impugnata), risulta che il deposito non concerne l'ipotesi di
+infrazione alla LDDS (inoltre, non vi è, stata, prima del deposito, promozione
+dell'accusa per il reato di cui all'art. 253 CP), resta comunque di difficile
+comprensione, perlomeno per questo giudice, il motivo per cui per lo stesso
+complesso di fatti relativi ad un'unica persona - cfr. Decisione pag. 2 secondo
+paragrafo secondo punto - con ipotesi di reato, se non in concorso ideale,
+strettamente connesse, l'istruttoria sia in parte conclusa ed in parte no;
+-     il reclamo, tempestivamente
+presentato da persona accusata e destinataria della decisione, è ricevibile in
+ordine;
+-     in tema di ricevibilità, si
+conferma quanto detto nella precedente sentenza: "…
+poco importa
+determinare se la prova richiesta concerne la parte dell'incarto oggetto del
+deposito degli atti o quella ancora (apparentemente) in istruttoria, oppure
+entrambe; la competenza di questo ufficio in materia di prove è data in tutte
+le eventualità menzionate
+";
+questa affermazione resta, di principio, valida anche se la sua applicazione
+non è certo facilitata da quanto detto più sopra;
+-     sempre in tema di ricevibilità,
+va subito detto che sono irricevibili le richieste di acquisizione di atti di
+altri incarti (__________), non perché tardive, come sostiene il magistrato
+inquirente (dato che la critica di tardività presuppone, come minimo,
+indicazione del momento della conoscenza dell'esistenza), bensì perché, per
+così dire, "premature" in quanto presentate direttamente all'autorità
+di ricorso che non è competente per decidere in luogo e vece di quella di prima
+istanza, sostituendosi al titolare dell'inchiesta; si può comprendere che,
+avendo notizia (se così è) dell'esistenza di altri incarti contestualmente alla
+decisione qui impugnata, l'accusata ne richieda l'acquisizione in sede di
+ricorso, ciò nondimeno la reclamante deve essere invitata a presentare tali
+richieste all'autorità inquirente, al più tardi in sede di deposito atti per
+l'ipotesi di infrazione LDDS, rispettivamente di secondo deposito degli atti
+per le altre ipotesi di reato (se l'acquisizione effettuata dal magistrato
+inquirente contestualmente alla decisione sia da intendere anche quale
+complemento probatorio per tali reati - riservata la soluzione dell'effetto di
+principio preclusivo, del deposito degli atti ex art. 196 cpv. 1 CPP,
+all'acquisizione di nuove prove: cfr. L. Marazzi, in REP 2000, pag. 39 ss.,
+pag. 64/65);
+-     per, sostanzialmente, gli stessi
+motivi appena indicati, si ritiene di non dover analizzare né considerare, per
+la valutazione della richiesta di cui si chiede qui accoglimento, la
+documentazione di recente acquisizione (chiarite le modalità d'acquisizione e
+definito il campo di utilizzabilità, la questione potrà se del caso costituire
+fatto nuovo per futura richiesta ex 196 cpv. 1 o 196 cpv. 4 CPP, a seconda
+delle circostanze; cfr. L. Marazzi, op. cit.,
+ibidem
+);
+-     i principi generali in materia di
+prove sono già stati ricordati nella sentenza del 3 febbraio 2006, a cui si
+rinvia (DTF 123 I 130);
+-     e allora, per quanto concerne la
+richiesta di nuova audizione della signora __________ si deve constatare che il
+magistrato inquirente ha rifiutato la prova proposta, così come motivata,
+asserendo che quanto la richiesta si ripropone di chiarire già risulta dalle
+dichiarazioni della reclamante rese nei verbali del 10, 24 e 25 settembre 2001;
+in effetti, nei verbali citati la reclamante risulta essere di aver richiesto
+("
+sempre adducendo la solita scusa che bisognava pagare i funzionari
+")
+ed ottenuto ("
+in una sola tranche
+") da __________ FRS 2000.-
+(verbale 10 settembre 2001), con consegna "
+presso l'__________ di __________
+" (Verbale 24 settembre 2001), in relazione con le pratiche relative al
+permesso B (verbale 10 settembre 2001), affermando, inoltre, che "
+effettivamente
+avevamo sottoscritto un contratto fittizio con l'__________ ai fini di ottenere
+un permesso che attestasse che lei lavorava
+"(verbale 25 settembre
+2001); risulta, ancora e sempre dai verbali citati, che parte della somma (FRS
+600.-) sarebbe stata consegnata a __________ "
+nel parcheggio del__________
+di __________
+" (verbale 10 settembre 2001 e Verbale 25 settembre
+2001) e che, nell'ambito di una telefonata con un poliziotto, la reclamante era
+"
+preoccupata da un lato che con l'__________ emergesse la storia del
+permesso, dei ricorsi, dei soldi ricevuti e dei miei rapporti con __________
+" (verbale 25 settembre 2001);
+-     preso atto di tali dichiarazioni,
+occorre constatare che la richiesta di audizione presentata dalla reclamante
+non indica (e non permette neppure di ipotizzare) cosa questa prova dovrebbe
+ulteriormente chiarire (in altre parole quale sia la sua rilevanza e
+pertinenza) circa "
+i rapporti avuti, le modalità di consegna del denaro
+e la destinazione dello stesso
+" (AI 73) ai fini delle successive
+conclusioni del magistrato inquirente (REP 1998 n. 122); da questo punto di
+vista, la richiesta non merita accoglimento;
+-     non modifica la conclusione di
+cui sopra, il riferimento al rispetto del principio del contraddittorio,
+rispettivamente alla validità di quello avvenuto in polizia senza la presenza
+della difesa, contenuto nel reclamo; la reclamante non sostiene una sistematica
+violazione del diritto di partecipazione (peraltro, per quanto risulta, non
+richiesta in precedenza) all'assunzione delle prove (GIAR 21 settembre
+2004,380.2004.1), né indica (come già detto al considerando precedente) in cosa
+il contraddittorio sia rilevante e pertinente per le successive conclusioni
+dell'inquirente; inoltre, la dichiarata (dal magistrato inquirente) attuale
+irreperibilità della persona da sentire non permette di ritenere che la prova
+in questione (se si preferisce, il rispetto del principio del contraddittorio)
+debba essere assicurata in sede istruttoria per rischio di impossibilità (o di
+particolari difficoltà) al dibattimento (REP 1998 n. 122; RDAT 2000 II n. 66);
+-     di conseguenza, la questione del
+contraddittorio, nel caso concreto, non concerne novità, rilevanza e pertinenza
+(della prova proposta), bensì l'utilizzabilità delle dichiarazioni di __________
+(in assenza di contraddittorio); dato che il rispetto del contraddittorio (se
+si preferisce degli artt. 6 cpv. 3 lett. d. CEDU, 32 e 29 CF, nonché 62 CPP)
+deve essere garantito almeno una volta prima della decisione di merito, non
+può  essere questo giudice a determinare, a questo stadio, l'utilizzabilità
+delle dichiarazioni __________ (sia quelle già agli atti al momento del
+deposito, sia quelle di recente acquisizione), qualora il contraddittorio non
+dovesse essere garantito neppure nel seguito della procedura; analoga argomentazione
+e conclusione vale per il confronto avvenuto in polizia il 12 settembre 2001;
+la questione potrà essere, se del caso, sottoposta al giudizio di merito;
+-     in conclusione, quindi, laddove
+chiede l'audizione di __________, quale complemento dell'istruzione formale, il
+reclamo è respinto; laddove formula altre richieste, il reclamo è irricevibile;
+-     tasse e spese seguono la
+soccombenza, con la precisazione che si tratterà comunque di tassa ridotta in
+ragione del groviglio procedurale (promozioni, estensione, deposito, ecc. come
+segnalato nei considerandi sui fatti) che ha reso relativamente complesso, già
+per questo giudice, inquadrare la effettiva situazione (o stato) procedurale
+che (col senno di poi) avrebbe forse potuto essere meglio dipanata (e resa più
+trasparente) procedendo ex art. 283 cpv. 1 CPP.
+P.Q.M.
+viste le norme applicabili, in particolare gli artt. 146,
+24 e 320, 288, 251, 253, 181, 304, 24 e 304, 160 CP, 23 LDDS, la LADI, nonché
+gli artt 6, 58 ss., 62, 113, 118, 133, 188, 194, 280 ss. 284 e contrario CPP,
+29, 32 CF e 6 CEDU;
+decide
+1.
+Il reclamo, laddove ricevibile
+è respinto ai sensi dei considerandi.
+2.
+La tassa di giustizia, fissata
+in FRS 150.-, e le spese in FRS 70.- sono a carico della reclamante.
+3.
+La presente decisione è
+definitiva (a livello cantonale).
+4.
+Intimazione (con copia
+delle osservazioni presentate dalle parti) a:
+giudice
+Edy Meli
