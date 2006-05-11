@@ -1,0 +1,263 @@
+---
+decision_id: "ti_gerichte_INC.2006.7103"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.7103"
+decided: "2006-05-11"
+published: "2006-05-11"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=89024&nX40_KEY=4711249&nTrefferzeile=18&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2006.7103
+
+## Regeste
+
+Proroga della carcerazione in vista di allontanamento
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 11.05.2006 INC.2006.7103
+Tessin Il Giudice dell'istruzione e dell'arresto 11.05.2006 INC.2006.7103
+Ticino Il Giudice dell'istruzione e dell'arresto 11.05.2006 INC.2006.7103
+
+Proroga della carcerazione in vista di allontanamento
+
+Incarto n.
+INC.2006.7103
+Lugano
+11 maggio 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sul sedente per statuire
+sull'istanza/decisione del 2 maggio 2006 della
+Sezione dei permessi e
+dell'immigrazione,
+Bellinzona
+relativa alla proroga della carcerazione in vista
+dell'allontanamento cui è astretto
+__________
+visti gli inc. GIAR 71.2006.1/2/3
+e quello della SPI;
+ritenuto e considerato
+in fatto
+1.
+__________ è stato incarcerato il
+16 febbraio 2006, a seguito di decisione 16 febbraio 2006 della SPI intimata il
+giorno stesso (artt. 13b e 13f LDDS), allo scopo di garantire l'allontanamento
+(doc. 1, inc. GIAR 379.2005.3). Egli era stato sentito il 17 febbraio 2006 dal
+giudice dell’istruzione e dell’arresto che ha confermato legalità ed
+adeguatezza della carcerazione, constatato che lo straniero risiedeva in __________
+illegalmente (__________) e che non aveva rispettato il termine impartitogli
+dall’UFR prima ed in seguito dalla SPI entro il quale avrebbe dovuto lasciare
+la __________ con un oggettivo pericolo di latitanza (inc. GIAR 71.2006.1, doc.
+2).
+2.
+Con decisione/istanza del 2
+maggio 2006 (se si preferisce, decisione soggetta a conferma: art. 13b cpv. 2
+seconda frase), approssimandosi la scadenza dei tre mesi - cioè il 16 maggio
+2006 ex art. 10 LPAmm - (art. 13b cpv. 2 prima frase LDDS), la SPI ha
+disposto/chiesto che la carcerazione ai fini di allontanamento sia prorogata di
+tre mesi (cioè sino al 16 agosto 2006; cfr. art. 10 LPAmm) se confermata dal
+GIAR (doc. 1 inc. GIAR 71.2006.3; artt. 3 cpv. 2 lett. a., 5, 29 Legge
+cantonale d'applicazione LMC, e art. 1 del relativo regolamento). La SPI,
+rilevato che l'autorità ha compiuto tutti gli sforzi necessari a mettere in
+atto l'allontanamento ai sensi dell'art. 13b cpv. 3 LDDS, ha evidenziato la
+costante mancanza di collaborazione della persona oggetto della misura.
+3.
+Sentito a verbale il 9 maggio
+2006 l'interessato ha ribadito di non essere cittadino __________ (benché
+l’interprete sia di opinione contraria, cfr. il rapporto dell’esperto che ha
+effettuato il test LINGUA il 14 maggio 2004, allegato al rapporto di
+segnalazione 21 maggio 2004 della Polizia cantonale, dal quale si evince che
+l’interessato non ha conoscenza specifiche sulla __________, non parla l’idioma
+in uso in __________ e non parla inglese con accento __________ mentre che si
+esprime con il tipico __________ in uso ai __________) bensì __________ (benché
+l’ambasciatore della __________ a __________, durante un colloquio telefonico
+con l’interessato avvenuto il 12 ottobre 2004, non l’abbia riconosciuto come
+cittadino __________) e di non voler collaborare con le autorità per
+l'ottenimento dei documenti di legittimazione come pure di non volere rientrare
+nel suo paese.
+4.
+La decisione sull’eventuale
+proroga della carcerazione in vista dell’esecuzione dell’allontanamento esige
+ovviamente un esame volto a determinare se i motivi che avevano condotto
+all’originaria decisione di incarcerazione mantengano ancora la propria
+validità.
+Inoltre, la concessione di una
+proroga della carcerazione esige la presenza di “
+particolari ostacoli [...]
+all’esecuzione dell’allontanamento o dell’espulsione
+” (art. 13b cpv. 2
+LDDS). Sono considerati tali il rifiuto dello straniero di collaborare, per
+quanto ragionevolmente esigibile, ai preparativi per la sua partenza, la durata
+eccezionalmente lunga della procedura di ottenimento dei documenti di viaggio,
+ma anche ragioni tecniche a carattere provvisorio (v.
+Nicolas Wizard
+,
+Les renvois et leur exécution en droit des étrangers et en droit d’asile, tesi
+di dottorato dell’Università di Ginevra, Basilea/Francoforte sul Reno 1997,
+pto. 3.3.4.1.2 p. 294 s.).
+Giusta l'art. 13b cpv. 1 LDDS se
+è stata notificata una decisione di prima istanza d'allontanamento o
+espulsione, l'autorità cantonale competente, allo scopo di garantire
+l'esecuzione può, ai fini di assicurare l'esecuzione, incarcerare lo straniero,
+se indizi concreti fanno temere che lo stesso intende sottrarsi all'espulsione,
+in particolare perché non si attiene all'obbligo di collaborare secondo l'art.
+13 f LDDS e l'art. 8 cpv. 1 lett. a e cpv. 4 LASI (per quanto concerne gli
+indizi concreti che fanno temere un pericolo di fuga cfr. DTF 122 II 49 e 125 II
+369). Di principio la durata della detenzione non può eccedere i tre mesi:
+tuttavia se particolari ostacoli si oppongono all'esecuzione
+dell'allontanamento o dell'espulsione, con il consenso dell'autorità
+giudiziaria cantonale, la carcerazione può essere prorogata di sei mesi al
+massimo (cpv. 2). La detenzione è subordinata alla condizione che le autorità
+intraprendano senza ritardo le necessarie misure per l'esecuzione
+dell'allontanamento o dell'espulsione (cpv. 3, DTF 122 II 148). Secondo l'art.
+13c cpv. 5 lett. a LDDS la carcerazione ha termine se il motivo della
+carcerazione è venuto a mancare o se risulta che l'esecuzione
+dell'allontanamento o dell'espulsione è inattuabile per motivi giuridici o
+effettivi.
+Per la messa in detenzione (così
+come per la proroga della stessa) deve essere rispettato il principio di
+proporzionalità, in particolare è necessario che l'esecuzione
+dell'allontanamento, benché momentaneamente impossibile (per esempio per
+mancanza di documenti di identità) sia possibile in un termine prevedibile,
+vale a dire nel periodo legale di detenzione amministrativa dello straniero
+(DTF 2A.523/2001 del 18 dicembre 2001).
+Va
+inoltre ricordato che con l'introduzione dell'art. 13 f LDDS e la
+modifica dell'art. 13 b cpv. 1 lett. c LDDS il legislatore ha inteso
+sottolineare ulteriormente l'importanza della collaborazione dello straniero
+(ed un suo dovere in tal senso) dandole un peso notevole anche per quanto
+concerne la privazione della libertà: la mancata collaborazione diventa indizio
+di pericolo di latitanza (FF 2003, p. 4993; DTF 2A.278/2004 del 18 maggio
+2004).
+Secondo la giurisprudenza del
+Tribunale federale il rilascio di informazioni contraddittorie o menzognere
+sulle proprie origini, sul viaggio intrapreso e sulle generalità lasciano
+presagire un pericolo di fuga, così come nel caso di persona con precedenti
+penali, in particolare reati che mettono in pericolo la salute altrui, è
+ragionevole ritenere un rischio maggiore di disobbedienza alle ingiunzioni
+delle autorità ed inoltre l'assicurazione dell'interessato di voler abbandonare
+spontaneamente il territorio __________ verso un altro paese non può
+giustificare, in assenza dei necessari documenti di viaggio che consentano il
+regolare espatrio, la sua scarcerazione
+(DTF 122 II 49 con
+rif.; 122 II 148; 2A 309/2004 c. 2.2 e A. Wurzburger, La jurisprudence récente
+du Tribunal fédéral en matière de police des étrangers, p. 66 e 67, in Revue de
+droit administrativ et de droit fiscal, Revue genevoise de droit pubblic,
+settembre 1997, n. 4).
+5.
+I motivi che in data 17 febbraio
+2006 avevano determinato la decisione di conferma della carcerazione di __________
+restano tuttora validi, né tale protrazione violerebbe il principio di
+proporzionalità e di celerità, né l'esecuzione dell'allontanamento appare
+inattuabile ai sensi dell'art. 13c cpv. 5 lett. a LDDS.
+Nel caso in esame
+l'allontanamento non è ancora stato possibile o comunque è reso più
+difficoltoso a causa della mancata collaborazione della persona interessata. __________
+ha sempre dichiarato di essere cittadino della __________ (cfr. verb. GIAR
+17.02.2006 e 09.05.2006 nonché verb. pol. 12.04.2006 e 16.02.2006), tuttavia l'audizione
+dell'interessato da parte dell’esperto LINGUA ha indicato cittadinanza
+nigeriana così come un colloquio con l’ambasciatore __________ a __________ non
+ha portato al riconoscimento dell’interessato quale cittadino __________ (cfr.
+rapporto di segnalazione della Polizia cantonale del 21 maggio 2004 relativo al
+test LINGUA effettuato in data 14 maggio 2004 e fax 12.10.2004 della Polizia
+cantonale alla SPI relativo all’esito di un colloquio avvenuto il 12.10.2004
+con l’ambasciata della __________ a __________) e del fatto che in occasione
+della sua audizione, avvenuta al momento della presentazione della domanda
+d’asilo, egli aveva fornito informazioni insufficienti sull’asserito paese
+d’origine (il richiedente era visibilmente preparato su certe domande e meno su
+altre) e si era espresso, già allora, con un inglese contaminato con “broken
+english” con un forte accento __________ da far pensare come probabile paese di
+provenienza la __________. Ancora davanti a questo giudice, il 9 maggio 2006, __________
+ha ribadito di non aver fatto nulla per ottenere i documenti di legittimazione,
+di essere cittadino della __________, Paese nel quale non ha alcuna intenzione
+di rientrare in quanto colà non avrebbe più nessun parente, nonchè di volere
+lasciare la __________ con mezzi propri.
+Va infine ricordato che egli ha
+interessato le autorità penali, anche per titolo di infrazione alla LDDS
+(654.2006 del 16.02.2006, con il quale è stato condannato a 15 giorni di
+detenzione oltre che all’espulsione effettiva dal territorio svizzero per tre
+anni).
+In siffatte circostanze e alla
+luce della succitata giurisprudenza, vi è dunque conferma dei concreti indizi
+che fanno temere che l’incarcerato intenda sottrarsi all’espulsione.
+Né del resto risulta violato il
+principio di celerità. Secondo la giurisprudenza del Tribunale federale tale
+principio è leso soltanto quando le autorità preposte all'allontanamento non
+intraprendono nulla per oltre due mesi, senza che il ritardo sia imputabile
+allo straniero o a quello delle autorità estere (cfr. DTF II 51 e 2A.309/2004;
+A. Wurzburger, op. cit., p. 65). In concreto, tale termine è stato rispettato:
+ricordato che la decisione con cui è stata mantenuta la carcerazione in attesa
+di allontanamento di __________ è del 17 febbraio 2006 e dette autorità hanno sollecitato
+l’UFM in data 22 febbraio e 24 marzo 2006 al fine di presentare l’interessato
+all’ambasciata nigeriana a __________ in vista della sua identificazione e in
+data 31 marzo ha comunicato alla __________ che l’interessato è stato messo in
+lista d’attesa per le prossime audizioni centralizzate a __________ dinanzi ad
+una delegazione di esperti __________ (cfr. lettera 31 marzo 2006 dell’UFM alla
+SPI). Il 2 maggio 2006 la SPI ha nuovamente sollecitato l’UFM chiedendo la data
+prevista per l’audizione dell’interessato davanti alla delegazione di esperti __________.
+Occorre inoltre tener conto del
+fatto che la mancanza di una fattiva collaborazione da parte dell'interessato -
+che non può evidentemente giustificare la sua messa in libertà (cfr. DTF
+2A.523/2001) - rende necessario più tempo per l'accertamento della reale
+identità e del luogo d'origine (l’ambasciatore __________ a __________ non
+incontra gli stranieri che si dichiarano originari di altri paesi,
+indipendentemente dall’esito di test LINGUA), rispettivamente per l'ottenimento
+di documenti validi (la cui procedura, in caso di riconoscimento provvisorio,
+deve passare dal governo di __________).
+6.
+In conclusione, i motivi per la
+carcerazione sono ancora dati.
+Se si considerano i motivi primi
+della (originaria) incarcerazione, la non positiva evoluzione
+dell’atteggiamento dello straniero nei trascorsi mesi di carcerazione,
+l’esistenza di particolari difficoltà per l’ottenimento dei documenti di
+viaggio non imputabili alle autorità __________, bensì allo straniero stesso
+(cfr. introduzione art. 13f LDDS e modifica art. 13 b cpv. 1 LDDS, con cui il legislatore
+ha inteso sottolineare ulteriormente l'importanza della collaborazione dello
+straniero - ed un suo dovere in tal senso - dandole un peso notevole anche per
+quanto concerne la privazione della libertà) ed un certo ritardo da parte delle
+autorità __________ nell’organizzare gli incontri con le delegazioni di esperti
+del loro Paese (comunque previsti con una certa regolarità), la protrazione è
+quindi giustificata e rispettosa del principio di proporzionalità, tenuto anche
+conto che, in virtù di quanto sopra esposto, il rinvio non può essere definito
+impossibile in tempi prevedibili. L'autorità preposta all'allontanamento è
+comunque tenuta ad agire nel rispetto del principio di proporzionalità, se del
+caso sollecitando nuovamente le autorità __________ per il tramite dell’UFM. Da
+ultimo giova ancora una volta ricordare che l'assicurazione dell'interessato di
+voler abbandonare spontaneamente la __________ (cfr. verb. GIAR 17.02.2006 e
+09.05.2006) non può giustificare la sua scarcerazione senza il necessario
+possesso di documenti di viaggio che ne consentano il regolare espatrio (DTF
+2A.309/2004 consid. 2.2).
+Per questi motivi,
+richiamata la legge federale
+sulla dimora e il domicilio degli stranieri, segnatamente gli artt. 13 b, 13 c
+e 13 f LDDS, e la LALMC, segnatamente gli art. 4, 5 e 28;
+decide:
+1.
+La decisione/istanza 2 maggio 2006 di proroga della
+carcerazione in attesa di            allontanamento cui è astretto __________,
+è ac
+colta.
+§     Di conseguenza, la carcerazione ai fini di allontanamento cui è
+astretto __________ è prorogata di
+tre (3)
+mesi e verrà a scadere il
+giorno
+16 agosto 2006
+, compreso.
+2.
+Contro la
+presente decisione è dato ricorso al Tribunale cantonale amministrativo entro             15
+(quindici) giorni dall'intimazione (art. 31 LALMC).
+3.
+Intimazione:
+giudice
+Claudia Solcà
