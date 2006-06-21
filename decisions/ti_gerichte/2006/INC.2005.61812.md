@@ -1,0 +1,428 @@
+---
+decision_id: "ti_gerichte_INC.2005.61812"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.61812"
+decided: "2006-06-21"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=89585&nX40_KEY=4711246&nTrefferzeile=37&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-107.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2005.61812
+
+## Regeste
+
+Libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 21.06.2006 INC.2005.61812
+Tessin Il Giudice dell'istruzione e dell'arresto 21.06.2006 INC.2005.61812
+Ticino Il Giudice dell'istruzione e dell'arresto 21.06.2006 INC.2005.61812
+
+Libertà provvisoria
+
+Incarto n.
+INC.2005.61812
+Lugano
+21 giugno 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sulle istanze di libertà provvisoria
+(7 pervenute al Ministero pubblico il 16 giugno 2006 ed 1 datata 8 giugno
+2006, pervenuta a questo giudice il 19 giugno 2006 e trasmessa lo stesso
+giorno per competenza al magistrato inquirente con scritto anticipato via
+fax) presentate personalmente da
+__________,
+in carcere preventivo al __________
+patr. d’ufficio dall’avv. __________
+e qui trasmesse con preavviso negativo 19/20 giugno 2006
+dal
+sostituto Procuratore pubblico Marisa Alfier, Lugano
+preso atto dello scritto 19
+giugno 2006, con il quale il difensore, preso atto delle 7 istanze di libertà
+provvisoria pervenute al Sostituto Procuratore pubblico il 16 giugno 2006,
+comunicava al magistrato inquirente di non avere osservazioni da formulare, in
+quanto il patrocinato si è rifiutato di incontrarlo, ma comunque di non condividere
+l'operato di quest'ultimo;
+preso atto che la difesa non ha
+presentato osservazioni nel termine assegnatole da questo giudice;
+visto l'incarto MP __________;
+ritenuto e considerato
+in fatto ed in
+diritto che:
+-
+il 12 giugno 2006 sono pervenute al Ministero pubblico due istanze di
+libertà provvisoria presentate personalmente da __________, istanze respinte da
+questo giudice con decisione 19 giugno 2006 (inc. GIAR 618.2005.11);
+-
+in data 16 giugno 2006 sono pervenuti al magistrato inquirente 7 scritti
+con i quali __________ chiede di essere posto in libetà provvisoria, analoga
+richiesta (datata 8 giugno 2006) è pervenuta il 19 giugno 2006 a questo giudice
+che l'ha subito trasmessa per competenza al magistrato inquirente: l'istante
+non contesta l'esistenza di seri e concreti indizi di colpevolezza a suo
+carico, rispettivamente del pericolo di recidiva, limitandosi sostanzialmente a
+"ich will sofort meine freheit und meine tochter";
+-
+con preavviso 19 giugno 2006 il sostituto Procuratore pubblico si è opposto
+alla messa in libertà provvisoria di __________, ribadendo l'esistenza, oltre
+che di gravi e concreti indizi di colpevolezza, anche di un concreto pericolo
+di recidiva;
+-
+l'accusato, detenuto, è pacificamente legittimato a presentare istanza
+di libertà provvisoria: il preavviso e l'incarto sono stati trasmessi
+tempestivamente (con raccomandata del 19 giugno 2006) ai sensi dell'art. 108
+cpv. 3 CPP: in particolare, il preavviso e l'incarto sono stati contestualmente
+recapitati la mattina del 20 giugno 2006 (ex art. 20 cpv. 3 CPP); il termine di
+cui all'art. 108 cpv. 2 CPP scade venerdì 23 giugno 2006 ex art. 20 cpv. 3 CPP;
+-
+per quanto affatto motivate e redatte in lingua tedesca, trattandosi di
+libertà provvisoria, le istanze sono ricevibili;
+-
+se è vero che ai sensi dell'art. 107 CPP l'arrestato può in ogni tempo
+chiedere di essere messo in libertà provvisoria e che il legislatore ha
+rinunciato a conferire al giudice la facoltà di dichiarare improponibile una
+nuova istanza entro determinati termini dalla decisione di reiezione di
+un'istanza precedente, è altrettanto vero che istanze ripetitive o temerarie
+possono essere respinte, con sommario riferimento alla situazione, immutata,
+decritta nella decisione precedente (cfr. Rusca/Salmina/Verda, Commentario al
+Codice di Procedura Penale ticinese, Lugano 1997, ad art. 107 cpv. 1, n. 2);
+-
+in concreto, essendo evidentemente la situazione rimasta immutata
+dall'emanazione della decisione 19 giugno 2006 e riconfermandosi __________
+nelle argomentazioni già fatte valere nelle precedenti istanze, basti qui
+rinviare integralmente a detta decisione, nella quale questo giudice aveva
+ritenuto che:
+"
+in fatto:
+A.
+I fatti che preludono alla presente decisione sono già
+stati analizzati in precedente decisione della CRP (3 maggio 2006, inc. CRP
+60.2006.137) cui si può far riferimento:
+"
+a.
+A
+seguito dell’intervenuta separazione dalla moglie dal 1°.2.2005, il qui
+ricorrente ha tenuto spesso dei comportamenti penalmente rilevanti.
+b.
+Egli è già stato oggetto di un
+primo procedimento penale (inc. MP __________) conclusosi con un decreto
+d’accusa, cresciuto in giudicato, del 23.5.2005 (DA __________) per titolo di
+minaccia, ingiuria e vie di fatto (AI 62 inc. MP __________).
+c.
+Egli è
+stato oggetto di un secondo procedimento penale (inc. MP __________) conclusosi
+con un decreto d’accusa del 14.7.2005 (DA __________) cresciuto in giudicato,
+per titolo di lesioni semplici, vie di fatto ripetute, danneggiamento ripetuto,
+ingiuria, minaccia ripetuta e disobbedienza alle decisioni dell’autorità
+ripetuta (AI 88 inc. MP __________).
+d.
+In data
+20.7.2005 il ricorrente è stato nuovamente sentito nel contesto del nuovo
+procedimento (inc. MP __________) aperto nei suoi confronti  per titolo di
+lesioni semplici, subordinatamente vie di fatto, danneggiamento, minaccia e
+furto di poca entità (AI 3 inc. __________).
+e.
+Nell’ambito
+del medesimo procedimento il ricorrente è stato arrestato in data 24.11.2005 su
+ordine del sostituto procuratore pubblico, arresto non confermato dal giudice
+dell’istruzione e dell’arresto il giorno successivo, con la contestuale
+imposizione di regole di comportamento (AI 13 inc. MP __________).
+f.
+Sentito
+dal sostituto procuratore pubblico in data 6.2.2006 (AI 17 inc. MP __________),
+è stato nuovamente arrestato in data 23.2.2006, arresto confermato dal giudice
+dell’istruzione e dell’arresto il giorno seguente (AI 28 inc. MP __________).
+g.
+Il
+sostituto procuratore pubblico ha ordinato l’allestimento di una perizia in
+data 3.3.2006 (AI 39 inc. MP __________). Ha sentito il ricorrente in data
+10.3.2006, la moglie in data 15.3.2006, e nuovamente il ricorrente in data
+27.4.2006 (AI 40, 44 e 97 inc. MP __________). Il referto peritale è pervenuto
+al Ministero pubblico in data 24.4.2006 (AI 83 inc. MP __________).
+h.
+Con
+istanza di libertà provvisoria del 4.4.2006 il ricorrente ha chiesto di essere
+messo in libertà (AI 60 inc. MP __________). Preavvisata negativamente da parte
+del sostituto procuratore pubblico in data 7.4.2006 (AI 66 inc. MP __________),
+l’istanza è stata respinta dal giudice dell’istruzione e dell’arresto in data
+13.4.2006 (AI 69 inc. MP __________).
+i.
+Nella
+sua decisione il giudice dell’istruzione e dell’arresto ha ammesso l’esistenza
+di seri indizi di colpevolezza a carico del ricorrente. Ha escluso l’esistenza
+di bisogni dell’inchiesta (nelle fasi finali), di un pericolo di collusione e
+di inquinamento di prove. Ha ammesso l’esistenza di un pericolo di recidiva
+basandosi sul comportamento dell’arrestato e sulle osservazioni provvisorie del
+perito (AI 64 dell’inc. MP __________). Il giudice dell’istruzione e
+dell’arresto ha ritenuto rispettato il principio della proporzionalità in
+relazione alla durata della detenzione preventiva ed in relazione al principio
+della celerità. Ha quindi respinto l’istanza di libertà provvisoria."
+Con la suddetta sentenza la CRP ha
+respinto il ricorso presentato da __________ contro la decisione 13 aprile 2006
+di questo ufficio, evidenziando l'esistenza, oltre che di seri e concreti
+indizi di colpevolezza, di un concreto pericolo di recidiva (risultante sia dal
+comportamento dell'accusato sia dal referto peritale pervenuto al Ministero
+pubblico il 25 aprile 2006), nonché rispetto del principio di proporzionalità.
+Il 18 maggio 2006, il 19 maggio 2006
+e 17/22 maggio 2006 __________ ha (personalmente) presentato ulteriori istanze
+di libertà provvisoria; istanze accolte dal sostituto Procuratore pubblico che
+al termine del verbale 22 maggio 2006 lo ha scarcerato con contestuale
+comunicazione delle misure sostitutive dell'arresto e delle norme di condotta
+da osservare durante il periodo di libertà provvisoria in attesa del processo:
+"
+1.
+mi dovrò recare dal signor __________
+del Patronato Penale, Locarno, mercoledì 24 maggio 2006 al fine di stabilire un
+piano per la ricerca di un lavoro, di un appartamento (nel caso in cui non
+potessi rientrare in quello già locato in precedenza), di un sostegno
+terapeutico che seguirò senza opposizione alcuna;
+2.
+non dovrò avvicinarmi né a
+mia moglie né ai miei suoceri per nessun motivo;
+3.
+dovrò rispettare, quali che
+siano, le decisioni del Pretore __________ della Pretura di
+Locarno-Campagna"
+nonché
+che, in caso di trasgressione anche ad una sola delle suddette misure/norme
+sarebbe stato nuovamente ordinato il suo arresto.
+B.
+__________ è stato nuovamente arrestato il 2 giugno dalla Polizia
+cantonale su ordine d’arresto 1° giugno 2006 del sostituto Procuratore
+pubblico. Con la richiesta di conferma dell’arresto 3 giugno 2006 il magistrato
+inquirente ha promosso a __________ l’accusa per titolo di lesioni semplici,
+qualificate siccome commesse nei confronti del coniuge, minaccia, ingiuria per
+fatti accaduti il 29 maggio 2006 ad __________ ed in altre località e coazione,
+disubbidienza a decisioni dell'autorità in relazione alla decisione pretorile
+24 maggio 2005 con cui gli era stato fatto ordine di non avvicinarsi a meno di
+20 metri alla moglie, chiedendo la conferma dell’arresto per i bisogni
+dell’istruzione – sostanzialmente per sentire tutte le parti coinvolte nei
+fatti successivi alla scarcerazione dell'accusato (22 maggio 2006) -, pericolo
+di collusione con i testi e pericolo di recidiva – ritenuto che __________ ha
+reiterato nei suoi comportamenti, che le norme di condotta impostegli dal
+magistrato inquirente il 22 maggio 2006 e che il perito ha evidenziato tale
+rischio per comportamenti rivendicativi così elevato da costituire una certezza
+(Inc. GIAR 618.2005.9, doc. 1), mentre che questo giudice ha confermato
+l’arresto dell’accusato, considerata la presenza di gravi e concreti indizi di
+colpevolezza, per i bisogni dell’istruzione, pericolo di collusione  e per il
+pericolo di recidiva (Inc. GIAR 618.2005.9, doc. 3).
+Come in occasione dei precedenti arresti, già a verbale di conferma
+dell’arresto 3 giugno 2006, così come già davanti alla Polizia giudiziaria, __________,
+ha ammesso i fatti di cui viene accusato ribadendo che tutti i suoi problemi
+derivano dal non potere esercitare il diritto di visita della propria figlia
+nei termini che ritiene opportuni.
+C.
+Il 12 giugno 2006 sono pervenute al magistrato inquirente due
+istanze di libertà provvisoria presentate personalmente da__________.
+L'istante, che non contesta né l'esistenza di seri e concreti indizi di
+colpevolezza né quella di altri motivi di interesse pubblico, evidenzia
+sostanzialmente di non voler rimanere in carcere e di voler tornare a casa al
+più presto e vedere sua figlia, ritenuto che egli non ha problemi di sorta con
+quest'ultima e non ritiene di dover essere carcerato perché ha avuto dei
+problemi con la moglie.
+D.
+Con preavviso negativo 13/16 giugno 2006 il sostituto Procuratore
+pubblico, riassunti i fatti ed evidenziato che i reati per cui si procede
+“hanno raggiunto un’intensità tale da poter essere qualificati di coazione
+commessa mediante stalking secondo la giurisprudenza del Tribunale federale
+(DTF 129 IV 262)”, ha sottolineato l'esistenza di pericolo di recidiva
+"oserei dire concreto oltre misura", rischio di recidiva peraltro
+ritenuto già dal perito.
+Per quanto concerne l'istruttoria, il magistrato ha rilevato che la
+stessa è in fase conclusiva, dovendosi (al momento del preavviso) ancora
+procedere a due interrogatori (__________e __________) - già fissati per il 14,
+rispettivamente il 16 giugno 2006 - e quindi al relativo deposito degli atti.
+Il 14 giugno 2006 il magistrato inquirente ha proceduto
+all'audizione di __________ ed il 16 giugno 2006 a quella di __________.
+La difesa, preso atto delle istanze di libertà provvisoria inoltrate
+personalmente da __________ e del preavviso negativo del sostituto Procuratore
+pubblico, ha comunicato di non avere alcuna osservazione particolare da
+formulare, ritenuto che "a tutt'oggi" l'accusato non ha accettato di
+incontrarlo.
+E considerato
+in diritto:
+1.
+L’accusato, detenuto, è pacificamente legittimato a presentare
+istanza di libertà provvisoria.
+Il preavviso e l'incarto sono stati trasmessi tempestivamente ai
+sensi dell'art. 108 cpv. 3 CPP: in particolare, il preavviso e l'incarto sono
+stati contestualmente recapitati "brevi manu" la mattina del 16
+giugno 2006 (ex art. 20 cpv. 3 CPP essendo il 15 giugno giorno festivo).
+Il termine di cui all'art. 108 cpv. 2 CPP scade lunedì 19 giugno
+2006 ex art. 20 cpv. 3 CPP.
+2.
+I principi che reggono la materia, pur se noti alle parti, vengono
+qui di seguito riproposti.
+L’art. 95 CPP – corrispondente all’art. 33 scaturito dalla revisione
+parziale 23 settembre 1992 / 1. gennaio 1993 – dopo evidenza al cpv. 1 del
+principio secondo cui l’accusato si trova di regola in libertà, consente al
+cpv. 2 arresto, perdurare e (poi, se del caso) proroga del carcere preventivo
+ai sensi dell’art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali – per
+quanto qui concerne – i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione e di inquinamento delle prove che, sia detto qui a
+futura memoria – può continuare ad esistere fino al pubblico dibattimento
+(sentenza della I Corte di diritto pubblico del Tribunale federale del 23 marzo
+2000 in re S.B., consid. 4a). Si aggiunge, sempre con riferimento al caso in
+esame, che l’elenco dei motivi di interesse pubblico nell’art. 95 cpv. 2 CPP
+non è esaustivo (Messaggio aggiuntivo del 20 marzo 1991 concernente la
+revisione del CPP, ad art. 27 , pag. 32, nota 3), tra altri possibili,
+essendovi quello della tutela dell’ordine pubblico (REP 1998 n. 105).
+L’eccezione della cautelare privazione della libertà personale ha
+così trovato codificazione in una chiara base legale (di diritto cantonale: DTF
+114 Ia 283 consid. 3) in corrispondenza ed a superamento di quanto già dettato
+dalla giurisprudenza della Camera dei ricorsi penali – nel solco di quella del
+Tribunale federale -, ritenuto implicito il rispetto della proporzionalità (REP
+1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno approfonditi con maggiore rigore
+nella loro valutazione, quanto più si è protratta la restrizione della libertà
+e quanto più si avvicina la conclusione delle indagini (REP 1988 pag. 416; 1989
+pag. 287 ss).
+Ed anche questo giudice, come già la Camera dei ricorsi penali, non
+restringe la sua cognizione all’arbitrio (REP 1980 pag. 128).
+(per tutte: sentenza GIAR 21.12.2001 in re G., Inc. 520.2001.5).
+3.
+Per quanto riguarda l’esistenza di gravi e concreti indizi di
+colpevolezza, in relazione ai fatti che hanno condotto all'arresto del 2 giugno
+2006, peraltro ammessi dall’istante, basti rinviare a quanto da lui dichiarato
+nel verbale di polizia 2 giugno 2006 sia in sede di conferma dell'arresto
+davanti a questo giudice, nonché nello scritto 1. giugno 2006 al Pretore di
+Locarno Campagna ("ho purtroppo nuovamente avuto problemi con mia moglie __________.
+A causa del suo atteggiamento ho perso per un momento il controllo su me stesso
+e l'ho malmenata").
+Gravi indizi di colpevolezza risultano inoltre dagli atti istruttori
+esperiti (cfr. verb. SPP 9.06.2006 di __________, verb. SPP 14.06.2006 di __________,
+verb. SPP 16.06.2006 __________, nonché rapporto 2.06.2006 dell'Ufficio di
+patronato). Sebbene sia il Pretore che il magistrato inquirente gli avessero
+imposto di non avvicinarsi alla moglie, già la sera del 22 maggio 2006, giorno
+in cui è stato rilasciato, __________ ha comunicato telefonicamente alla moglie
+che sarebbe andato a prendere a scuola la figlia il giorno successivo (ciò che
+non gli è permesso dai provvedimenti assunti dal Pretore di Locarno Campagna).
+Se è vero che, dopo averne discusso con la moglie, ha poi atteso il 24 maggio
+2006 per vedere la bambina, è altrettanto vero che nei giorni seguenti la
+situazione è ulteriormente peggiorata: il 28 maggio 2006 il qui istante si è
+recato a casa della moglie suonandole il campanello, il giorno seguente l'ha
+seguita e minacciata, nonché ha tirato pugni al finestrino dell'auto di
+quest'ultima, si è poi recato a prendere la figlia a scuola, dove vi è stato un
+violento litigio con la moglie (alla presenza del direttore della scuola __________)
+ed il signor __________ del Patronato penale di Locarno, infine il 30 maggio
+2006 __________ ha picchiato ed ingiuriato la moglie alla presenza della figlia
+e di __________
+4.
+L'istruttoria è ormai conclusa: il magistrato inquirente ha
+proceduto agli interrogatori di __________ e __________ (il 14 ed il 16 giugno
+2006), dopodiché vi sarà il deposito degli atti.
+5.
+In concreto è senz'altro dato concreto pericolo di recidiva.
+Per quanto riguarda il pericolo di recidiva, lo stesso deve essere
+concreto (DTF 105 Ia 31) e risultare da una valutazione dell’insieme delle
+circostanze, tra cui i precedenti dell’accusato, il suo comportamento durante
+l’istruttoria, la sua personalità, le modalità di commissione dei reati
+(Luvini, I presupposti materiali del carcere preventivo nel processo penale
+ticinese, Rep. 1989, p. 294; G. Piquerez, Manuel de procédure pénale suisse,
+Zürich 2001, n° 1479/1483).
+Il magistrato inquirente, riassunti i precedenti di __________ __________
+- due decreti d’accusa nel 2005 poiché riconosciuto colpevole dei reati di
+minaccia, ingiuria, lesioni semplici, vie di fatto commessi in danno della
+moglie, arresto il 24 novembre 2005 in quanto accusato dei reati di lesioni
+semplici, danneggiamento e minaccia, sempre nei confronti della moglie, arresto
+non confermato con la fissazione di misure sostitutive quali non avvicinarsi in
+futuro alla moglie ed ai di lei genitori, arresto del 23 febbraio 2006 avendo __________
+continuato a delinquere violando le norme di condotta impostegli dal GIAR -
+evidenzia che egli è nuovamente ricaduto e con estrema facilità in
+comportamenti delittuosi, già il giorno stesso della scarcerazione (22 maggio
+2006). Neppure il periodo di carcerazione subito ha avuto un effetto benefico.
+A questo proposito, per sostanziare il pericolo di recidiva,
+basterebbe da sola la constatazione che __________ __________ ha bellamente e
+più volte infranto le norme di condotta impostigli dal magistrato inquirente al
+momento della scarcerazione e precedentemente dal Pretore. __________,
+infischiandosi di quanto impostogli e perfino dei precedenti penali, si è
+invece recato a casa della moglie, l'ha contattata telefonicamente, minacciata
+e picchiata (cfr. sub. consid. 2).
+L'esistenza di un concreto pericolo di recidiva emerge poi in modo
+palese dal referto peritale 24/25 aprile 2006 (AI 83 inc. MP __________).
+In proposito valgono le considerazioni espresse dal CRP nella
+sentenza 3 maggio 2006:
+"Nelle
+risposte ai quesiti posti, il perito ha formulato una diagnosi di disturbo
+della personalità misto con tratti paranoici ed antisociali, sostenendo che il
+periziando è affetto da due disturbi della personalità, quello paranoide e
+quello antisociale. Dopo essersi espresso sulla responsabilità penale del
+periziando, il perito si esprime sulla sua pericolosità, concludendo per una
+pericolosità attuale e seri indizi di pericolosità potenziale. Infine, sul
+rischio di recidiva, il perito conclude che “Il rischio di recidiva per
+comportamenti rivendicativi di un diritto di visita alla figlia incompatibile
+con le decisioni delle Autorità è così elevato da costituire più una certezza
+che una possibilità. Anche altri comportamenti come quelli oggetto del presente
+procedimento sono probabili, ed il peritando non ha fatto mistero delle sue
+intenzioni.” (perizia p. 40, AI 83 inc. MP __________).
+(…)
+Nel
+presente caso, è chiaramente dato un pericolo di recidiva, sulla base del
+comportamento del ricorrente, come risulta dalla ricostruzione dei fatti, ed in
+base al referto peritale. Quanto indicato in fatto (punti a-g) sulla base degli
+atti dimostra già di per sé un pericolo di recidiva. Lo stesso però è ammesso
+dal perito, in particolare alla risposta al quarto quesito (perizia p. 40, AI
+83 inc. MP __________). In presenza di simili conclusioni, che questa Camera
+deve inevitabilmente considerare nel proprio giudizio, anche se il referto è
+stato ultimato e consegnato dopo la decisione del giudice dell’istruzione e
+dell’arresto impugnata, non risultano elementi concreti fattuali o d’altro
+genere che permettano di discostarsi dalla chiara ed univoca conclusione del
+perito. Si deve pertanto ammettere l’esistenza di un pericolo di
+recidiva."
+6.
+La proporzionalità di una carcerazione (preventiva) deve essere
+analizzata da angolature diverse. Da un lato occorre mettere in relazione la
+durata del carcere preventivo con la gravità e complessità della fattispecie e
+con la pena presumibile e dall’altro occorre anche verificare il rispetto del
+principio di celerità (SJ 1981 p. 383 e citazioni; art. 102 CPP).
+La proporzionalità della carcerazione sin qui sofferta, alla luce
+della gravità delle accuse, la più importante quella di coazione che si
+configura in uno “stalking” perlomeno nei confronti della moglie, della
+presenza di concreti indizi di colpevolezza, e del concreto pericolo di
+recidiva, con inchiesta praticamente conclusa, è sicuramente data.
+Pure va ammessa nella sua accezione più generale di rapporto tra la
+durata della carcerazione preventiva ed il rischio di pena se considerate le
+comminatorie di pena per i singoli reati imputati
+all’accusato, i precedenti penali e la reiterazione a delinquere
+malgrado gli avvertimenti delle Autorità sia civili che penali. Il rischio di
+pena è certamente superiore alla detenzione preventiva sin qui sofferta e a
+quella presumibilmente da soffrire fino all'imminente chiusura
+dell'istruttoria, in pieno rispetto del principio della proporzionalità.
+L’accusato è stato arrestato il 2 giugno 2006 e ad oggi è in
+detenzione preventiva da circa 2 settimane. In questo lasso di tempo
+l’inchiesta è praticamente stata conclusa, nel pieno rispetto del principio di
+celerità.
+In conclusione sufficienti presupposti di legge, come anche
+esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella situazione
+personale e processuale di __________ a legittimare e giustificare il perdurare
+della cautelare privazione della sua libertà." “
+-   in virtù di quanto precede, le (otto) istanze di libertà
+provvisorie, per quanto ricevibili, devono quindi essere respinte, con la
+presente decisione, esente da tassa e spese giudiziarie (art. 39 let. f TG e
+contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali del
+Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+Le otto istanze di libertà provvisoria presentate da __________ sono
+respinte.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione a:
+giudice
+Ursula Züblin
