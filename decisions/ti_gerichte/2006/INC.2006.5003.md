@@ -1,0 +1,436 @@
+---
+decision_id: "ti_gerichte_INC.2006.5003"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.5003"
+decided: "2006-06-27"
+published: "2006-06-26"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=89565&nX40_KEY=4711246&nTrefferzeile=4&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2006.5003
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 26.06.2006 INC.2006.5003
+Tessin Il Giudice dell'istruzione e dell'arresto 26.06.2006 INC.2006.5003
+Ticino Il Giudice dell'istruzione e dell'arresto 26.06.2006 INC.2006.5003
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2006.5003
+Lugano
+27 giugno 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 18/21 giugno 2006 da
+__________
+e qui trasmessa con preavviso negativo del 23 giugno 2006
+dal
+Procuratore pubblico Rosa Item,
+Lugano
+visto che la difesa non ha
+presentato osservazioni al preavviso negativo;
+visto l’incarto MP __________;
+ritenuto
+in fatto:
+A.
+__________ è stato arrestato il 3
+febbraio 2006 dalla Polizia cantonale su ordine d’arresto di stessa data del PP
+per titolo di ripetuta truffa, subordinatamente ricettazione. Con la richiesta
+di conferma dell’arresto 4 febbraio 2006 il magistrato inquirente ha promosso a
+__________ l’accusa per titolo di truffa, “per avere, a __________, __________
+ed altre imprecisate località, nel corso della seconda metà del 2005, agendo in
+correità con __________ e __________ e terzi non ancora identificati, ingannato
+con astuzia diversi commercianti affermando cose false e dissimulando cose
+vere, inducendoli in tal modo ad atti pregiudizievoli al loro patrimonio e
+meglio, per avere, nelle indicate circostanze di tempo e di luogo, acquistato a
+nome della __________ diversa merce presso diversi commercianti per almento
+complessivi € 75'000.- sottacendo l’assenza di una volontà di ottemperare
+all’esecuzione dei contratti ed inducendo in tal modo i commercianti a
+consegnare merce per almeno complessivi € 75'000.-“ (Inc. GIAR 50.2006.1, doc.
+1), mentre che questo giudice ha confermato l’arresto dell’accusato considerata
+la presenza di gravi e concreti indizi di colpevolezza e per i bisogni
+dell’istruzione – per identificare i correi e l’ampiezza della truffa e per
+pericolo di collusione con essi – e per il pericolo di fuga, essendo cittadino __________
+senza legami con la __________ e per pericolo di recidiva visti i precedenti
+penali (Inc. GIAR 50.2006.1, doc. 3).
+A verbale di conferma
+dell’arresto, così come già davanti alla Polizia giudiziaria, __________, pur
+ammettendo per sommi capi i fatti contestatigli, ha cercato di limitare le
+proprie responsabilità (Inc. GIAR 50.2006.1, doc. 3).
+B.
+Il 18 giugno 2006 __________, con
+l’istanza in discussione presentata personalmente, chiede di essere posto in
+libertà provvisoria in quanto ci si troverebbe alla scadenza dei 6 mesi di
+detenzione e non sarebbero emersi ulteriori fatti nei suoi confronti, per di
+più egli si sarebbe presentato per ben tre volte spontaneamente prima dell’arresto.
+Egli chiede inoltre decisione motivata in merito alla mancata concessione del
+gratuito patrocinio (Inc. GIAR 50.2006.3, doc. 2).
+C.
+Il magistrato inquirente, con
+preavviso negativo 16 giugno 2006 (Inc. GIAR 50.2006.3, doc. 1) ribadisce che esistono
+gravi e concreti indizi di colpevolezza evincibili dalle dichiarazioni
+dell’accusato stesso che ha ammesso di avere ordinato, unitamente ad almeno un
+correo, merce da diverse ditte già sapendo che all’ordinazione ed alla
+fornitura non sarebbe seguito alcun pagamento della merce.
+Per quanto riguarda i bisogni
+istruttori ed il pericolo di collusione, il Procuratore pubblico, con
+riferimento al rapporto di Polizia consegnato il 14 giugno 2006, afferma di
+dovere ancora procedere alla contestazione di 3 episodi truffaldini indicati
+nello stesso, nonché alla conferma del verbale di Polizia del 9 giugno 2006.
+Inoltre sarebbero eventualmente previsti dei verbali a confronto con __________
+e __________ per chiarire la portata dei rispettivi coinvolgimenti. Successivamente
+si dovrà procedere con il deposito degli atti e alla chiusura dell’istruzione
+formale e all’intimazione dell’atto d’accusa.
+A mente del magistrato inquirente
+vi sarebbe un concreto pericolo di fuga essendo l’accusato cittadino __________
+senza legami con la __________, Paese che ha scelto esclusivamente quale teatro
+per compiere i reati di cui è accusato. Egli potrebbe infatti preferire una
+latitanza all’estero a fronte della prospettiva concreta di una pena detentiva
+da espiare di una certa durata.
+A mente del magistrato inquirente
+vi sarebbe poi anche concreto pericolo di recidiva “considerati i precedenti e
+i fatti imputatigli nel presente procedimento”.
+Il carcere preventivo sofferto
+dall’istante sarebbe poi rispettoso del principio della proporzionalità. Tale
+principio appare poi rispettato, a fronte della gravità dei reati prospettati,
+anche nell’ottica di una presumibile futura condanna (Inc. GIAR 50.2006.1, doc.
+1).
+D.
+L’istante, non ha presentato
+osservazioni (né personalmente né tramite il proprio difensore).
+In diritto:
+1.
+L’accusato, detenuto, è
+pacificamente legittimato a presentare istanza di libertà provvisoria.
+Il preavviso del Procuratore
+pubblico, ritenuta ricezione dell’istanza il 21 giugno 2006, è tempestivo avendo
+trasmesso a questo ufficio il preavviso negativo e l’incarto processuale il 23
+giugno 2006, nel termine quindi di 3 giorni.
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui di seguito riproposti.
+L’art. 95 CPP – corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 – dopo evidenza al cpv. 1 del principio secondo cui l’accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo ai sensi dell’art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali – per quanto qui concerne – i bisogni
+dell’istruzione, con particolare riguardo al pericolo di collusione e di
+inquinamento delle prove che, sia detto qui a futura memoria – può continuare
+ad esistere fino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27 ,
+pag. 32, nota 3), tra altri possibili, essendovi quello della tutela
+dell’ordine pubblico (REP 1998 n. 105).
+L’eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 consid. 3) in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali – nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggiore rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all’arbitrio (REP
+1980 pag. 128).
+(per tutte: sentenza GIAR
+21.12.2001 in re G., Inc. 520.2001.5).
+3.
+L’esistenza di gravi e concreti
+indizi di colpevolezza deve essere verificata d’ufficio nei limiti di
+competenza di questo giudice derivanti dalla sua funzione che è quella di
+esaminare l’esistenza dei presupposti per il mantenimento della misura restrittiva
+della libertà personale e non di valutare nella sostanza l’esistenza di un
+reato.
+Con verosimiglianza sufficiente,
+a questo stadio del procedimento ed in questa sede, si può concludere per la
+presenza di seri e di concreti indizi di colpevolezza a carico di __________
+relativi ad un suo coinvolgimento nelle ripetute truffe commesse dall’istante e
+correi tra settembre 2005 e febbraio 2006 a __________, __________ ed in altre
+località della __________ con vittime anche all’__________ e con un indebito profitto
+di oltre CHF 300'000.-, oggetto del procedimento penale.
+A questo proposito basti
+ricordare le dichiarazioni dell’accusato rese al magistrato inquirente, in
+presenza del proprio patrocinatore, in data 15 marzo 2006 (AI 14, p. 1 e 2): “
+Dopo
+aver parlato con il mio avvocato ammetto la truffa da me perpetrata insieme a __________
+Effettivamente il nome di __________ e di __________ è stato da me usato per
+coprire la nostra attività truffaldina, mia e di __________ e quindi per
+comodo. Avevo già dichiarato di aver usato il nome di __________ in quanto non
+ero sicuro che la __________ pagasse la fornitura della merce che ordinava. In
+realtà io sapevo perfettamente che all’ordinazione ed alla fornitura non
+sarebbe seguito alcun pagamento mentre che la merce fornita sarebbe stata
+venduta e l’incasso diviso tra me e __________ in ragione di metà ciascuno.
+...Le ordinazioni della merce venivano timbrate con il timbro della __________
+e quelle fatte da me venivano da me firmate con il falso nome di __________ __________
+Non mi ricordo se ho firmato ordinazioni di merce anche a nome di __________.
+Per la merce da me venduta in Italia ero io stesso che provvedevo a fare delle
+false fatture a nome della __________ con l’indicazione di un costo inferiore
+per diminuire le spese di sdoganamento. Ero io che le preparavo e firmavo.
+...Confermo di aver dato la fotocopia della carte d’identità a nome di __________
+a __________ per far passare questa persona quale titolare della __________.
+Preciso che __________ è una persona esistente ma che non ha niente a che fare
+con la __________ La fotocopia della carta d’identità mi era stata data da __________
+per motivi commerciali non inerenti alla __________ non c’entra nulla con
+l’agire truffaldino della __________
+”; e ancora che “
+L’accordo tra me e __________
+era che quanto incassato dalle vendite della merce, sarebbe stato suddiviso
+nella misura del 50% tra me e lui indipendentemente da chi aveva proceduto alle
+trattative per l’acquisto o per la vendita della merce”
+(Verbale PP del 12
+aprile 2006, AI 18, p. 1).
+Per quanto riguarda la mancata
+volontà di pagare i fornitori fanno inoltre stato una totale mancanza di
+contabilità (le perquisizioni presso gli uffici della ditta hanno riscontrato
+questa “anomalia”) e la rivendita sottocosto della merce ordinata il più
+celermente possibile.
+4.
+L’accusato
+ritiene che non sussistano più bisogni istrutto
+ri dal momento che “
+siamo
+alla scadenza dei 6 mesi di detenzione e non sono emersi ulteriori
+fatti”
+nei suoi confronti. Egli si sarebbe poi presentato spontaneamente alla Polizia
+prima del suo arresto.
+Secondo il magistrato inquirente
+vanno invece ancora contestati all’istante tre episodi truffaldini (quelli
+citati ai punti 1.14, 1.25 e 1.26 del rapporto  d’inchiesta di Polizia
+giudiziaria del 14 giugno 2006 (AI 25) e si dovrà procedere con la conferma
+dell’ultimo verbale di Polizia, quello effettuato in data 9 giugno 2006. Il
+magistrato inquirente aggiunge poi che “
+sarà eventualmente necessario un
+ulteriore confronto con __________ e con __________ (chiamato in causa per aver
+aiutato in qualche caso a vendere il prodotto delle truffe) per chiarire la
+portata del rispettivo coinvolgimento
+” (preavviso negativo, p. 2).
+Quanto alle necessità istruttorie
+atte a giustificare la misura cautelare di privazione della libertà, non è
+inutile ricordare i seguenti principi:
+"
+-
+In relazione ai bisogni istruttori, atti a
+giustificare la misura restrittiva della libertà personale, occorre ricordare
+che questi non s'identificano semplicemente con gli atti istruttori in quanto
+tali, o con gli accertamenti (ancora) da effettuare, bensì con il pericolo di
+collusione o d'inquinamento delle prove che (eventualmente) espone a rischio la
+corretta raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale
+suisse, ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697
+ss.; RDAT 1988 no. 24).
+In quest'ottica
+il fatto che l'inchiesta sia tuttora in corso non è, di per sé, decisivo, in quanto
+"
+Die Tatsache allein, dass noch nicht alle Beweise erhoben bzw. die
+Mitverdächtigen dingfest gemacht werden konnten oder dass der Angeschuldigte
+die Aussage verweigert, genügt nicht
+" (N. Schmid, op. cit., no. 701a).
+Occorre che l'indagato, se posto in
+libertà, possa pregiudicarne (o comprometterne) il corretto svolgimento e,
+conseguentemente, l'esito.
+-
+E', inoltre, necessario che questa possibilità
+di pregiudicare la raccolta di elementi di prova si fondi su elementi concreti:
+"
+Jedoch genügt nach der Rechtsprechung des Bundesgerichtes die
+theoretische Möglichhkeit, dass der Angeschuldigte in Freheit kolludieren
+könnte, nicht, um die Fortsetzung der Haft oder die Nichtgewährung von Urlauben
+unter diesem Titel zu rechtfertigen. Es mussen vielmehr konkrete Indizien für
+eine solche Gefahr sprechen
+."
+(DTF
+117 Ia 257, cons. 4 c.).
+-
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza
+d'interessi (tra i due) in relazione al contenuto della deposizione (SJ 1990 p.
+438; DTF 117 Ia 257; ZR 72 no. 77 p. 19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66; Hauser/Schweri,
+Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13)."
+(GIAR 23 settembre 2002 in re Y.)
+Riassumendo, per il mantenimento
+della carcerazione preventiva dell'accusato, non basta che vi siano ancora atti
+istruttori da esperire, ma è necessario che la prematura rimessa in libertà
+dell'accusato possa essere di documento proprio nell'ottica dell'assunzione
+delle prove che ancora mancano, e meglio in presenza di pericolo di collusione,
+quando cioè è lecito temere l'intervento dell'accusato su terze persone (siano
+essi correi, parti lese o semplici testi), o pericolo di inquinamento delle
+prove, termine più ampio che indica altri atteggiamenti suscettibili di falsare
+l'assetto probatorio, come la soppressione o l'alterazione di mezzi di prova,
+ecc.
+Va da sé che i criteri sopra
+esposti richiedono applicazione più restrittiva allorquando l'inchiesta (e la
+detenzione) é in corso da un certo tempo.
+Preliminarmente occorre ricordare
+che è compito del magistrato inquirente (anche nel rispetto dell'obbligo di
+motivazione e della garanzia del contraddittorio, cfr. anche Rep 1998 p. 329),
+se ne afferma l'esistenza, sostanziare la presenza di concreti elementi
+indicanti pericolo di collusione o inquinamento delle prove, non spettando a
+questo giudice approfondire o addirittura ipotizzare "
+quanto sta dietro
+a … scarna affermazione del preavviso negativo
+”
+(decisione GIAR
+4.4.2002 in re C.).
+Spetta al titolare dell’inchiesta
+motivare le sue decisioni e le sue richieste in relazione con le circostanze,
+gli atti e le necessità che emergono, man mano, dall’inchiesta stessa (da lui
+diretta e, quindi, a lui nota) al fine di permettere verifica di legalità
+(senza dimenticare il diritto di essere sentito dell’accusato che può
+esplicitarsi correttamente solo a fronte di sufficiente motivazione).(GIAR
+192.2005.2 del 17 maggio 2005 in re R.G., p. 7).
+Nel caso in esame, in tema di
+esigenze istruttorie il Procuratore pubblico si limita ad indicare in modo del
+tutto generico gli atti istruttori ancora da evadere, cioè uno o più
+interrogatori dell’accusato per confermare il verbale di Polizia del 9 giugno
+2006 e contestargli 3 episodi truffaldini (peraltro a lui già noti poiché
+contestatigli dalla Polizia), nonché un eventuale ulteriore confronto con __________
+e __________ per chiarire “
+la portata del rispettivo coinvolgimento
+”
+(preavviso negativo, p. 2), senza neppure accennare all'esistenza del rischio
+di collusione ed inquinamento delle prove che, a dire il vero, neppure emerge
+in modo evidente dall'incarto (i verbali a confronto tra __________, __________
+e __________ – questi ultimi due oramai si trovano in libertà provvisoria –
+sono già agli atti. In siffatte condizioni questo giudice non può che
+concludere per la non sussistenza del pericolo di inquinamento delle prove o di
+collusione in relazione agli atti istruttori prevedibilmente ancora da compiere
+per la conclusione dell’inchiesta.
+5.
+È invece dato, e sufficientemente
+concreto, il pericolo di fuga.
+Il pericolo di fuga, per
+giustificare carcerazione preventiva, deve essere concreto e rivestire di una
+certa probabilità: in altri termini lo si ammette quando l’accusato, se posto
+in libertà, si sottrarrebbe con una certa verosimiglianza al perseguimento
+penale ed alla (eventuale) esecuzione della pena. La gravità della pena
+presumibile non basta, da sola, a motivare la carcerazione; occorre valutare
+l’insieme delle circostanze, tra cui il carattere dell’accusato, la sua morale,
+i legami famigliari, il domicilio, la professione, la situazione economica e
+tutti quegli elementi che rendono la fuga non solo possibile ma probabile (DTF
+19 gennaio 1999 in re G.S.; DTF 117 Ia 69; SJ 1980 186; SJ 1981 135; N. Schmid,
+Strafprozessrecht, ZH 1997, no. 701).
+Ritenuto che a poco valgono, per quest'analisi,
+le semplici dichiarazioni d'intenti dell'accusato stesso (per tutte: sentenza
+GIAR 27 maggio 2002 in re P.) e che la concretezza del pericolo di fuga può
+essere accertata "Auch wenn keine konkrete Flüchtpläne u.ä. gefordet sind,
+…" (Schmid, ibidem).
+L'accusato è cittadino __________,
+egli non ha nessun legame con la __________, né famigliare né lavorativo e non
+ha neppure un recapito nel nostro paese. Egli è attualmente senza lavoro e
+apparentemente senza reddito alcuno: si dichiara rappresentate ma sembra che la
+sua unica ultima attività lavorativa (almeno durante gli ultimi mesi) sia stata
+quella che ha portato al suo arresto. Appare quindi incontestabile che il suo
+unico legame con la __________ siano i reati oggetto dell’inchiesta.
+A questo punto potrebbe
+facilmente, se posto in libertà provvisoria, decidere di disertare
+definitivamente la __________, non più interessante dal profilo
+“professionale”, per ritornare in __________ e non più presentarsi per gli
+incombenti processuali.
+Se le accuse dovessero essere
+confermate – egli è confrontato con imputazioni di una certa gravità, per una
+refurtiva di rilievo ed un’attività criminale reiterata nel tempo – il rischio
+di una pena non lieve esiste (i reati per i quali è stata promossa l’accusa
+prevedono anche la reclusione) e dovranno pure essere considerato, a dipendenza
+delle condanne subite in __________, anche le conseguenze di un’eventuale
+recidiva specifica; appare perciò verosimile che l’accusato possa preferire
+rendersi irreperibile alle autorità inquirenti, per ulteriori necessità istruttorie,
+o a quelle giudicanti se posto in libertà provvisoria.
+Tale pericolo appare quindi
+concreto e non può essere evitato neppure con misure meno incisive, quali il
+deposito di una cauzione o del passaporto con obbligo di firma, non avendo per
+di più l’accusato alcuna residenza in __________ e non proponendo concretamente
+il deposito di una cauzione atta, semmai, a scongiurare il pericolo di fuga.
+Vista la sussistenza di uno dei
+motivi, alternativi, di interesse pubblico per il mantenimento della carcerazione
+preventiva non occorre esaminare l’esistenza del pericolo di recidiva.
+6.
+La proporzionalità di una
+carcerazione (preventiva) deve essere analizzata da angolature diverse. Da un
+lato occorre mettere in relazione la durata del carcere preventivo con la
+gravità e complessità della fattispecie e con la pena presumibile e dall’altro
+occorre anche verificare il rispetto del principio di celerità (SJ 1981 p. 383
+e citazioni; art. 102 CPP).
+La proporzionalità della
+carcerazione sin qui sofferta, alla luce della gravità delle accuse, della
+presenza di concreti indizi di colpevolezza, e delle dimensioni dell’inchiesta,
+con più indagati sotto inchiesta diversi istruttori compiuti e che può essere
+considerata praticamente al termine è sicuramente data. Gli inquirenti hanno
+proceduto con celerità e non si sono limitati ad interrogare l’accusato ma
+hanno effettuato confronti e ricercato riscontri oggettivi alle dichiarazioni
+dei terzi e delle altre persone coinvolte nell’inchiesta.
+Pure va ammessa nella sua
+eccezione più generale di rapporto tra la durata della carcerazione preventiva
+ed il rischio di pena se considerate le comminatorie di pena per i singoli
+reati imputati a __________.
+L’accusato è stato arrestato il 3
+febbraio 2006 e ad oggi è in detenzione preventiva da quasi 5 mesi. In questo
+lasso di tempo l’inchiesta è avanzata con celerità soprattutto per quanto
+riguarda l’indagine di Polizia che non ha subito alcun ritardo se si considera
+appunto l’ampiezza delle indagini e la difficoltosa ricerca di riscontri
+oggettivi.
+I reati imputati ad __________
+sono di sicura gravità, a prescindere dal fatto che si tratta di crimini non si
+può dimenticare anche la reiterazione del suo agire e l’ammontare dell’indebito
+profitto e in caso di condanna il rischio di pena è certamente superiore alla
+detenzione preventiva sin qui sofferta e a quella presumibilmente da soffrire
+per terminare l’inchiesta con i pochi atti istruttori necessari e
+summenzionati, in pieno rispetto del principio della proporzionalità.
+7.
+In conclusione, constata
+l’esistenza di gravi indizi di reato, concreto pericolo di fuga, nonché
+rispetto del principio di proporzionalità della carcerazione sofferta nei
+termini suesposti si può concludere che sufficienti presupposti di legge, come
+anche esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di __________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà. Di conseguenza,
+l’istanza di libertà provvisoria in discussione deve essere respinta con la
+presente decisione, esente da tassa e spese giudiziarie (art. 39 let. f TG e
+contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali del
+Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per quanto riguarda la richiesta
+di decisione motivata in merito alla concessione del gratuito patrocinio si
+rinvia alla decisione 22 marzo 2006 di questo ufficio (Inc. GIAR 50.2006.2,
+doc. 2).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
