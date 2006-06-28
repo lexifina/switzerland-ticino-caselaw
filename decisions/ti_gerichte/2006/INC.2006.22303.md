@@ -1,0 +1,328 @@
+---
+decision_id: "ti_gerichte_INC.2006.22303"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.22303"
+decided: "2006-06-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=89626&nX40_KEY=4711245&nTrefferzeile=94&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-044.md", "switzerland/bund/acts/311.0/art-067.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-035.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md"]
+---
+
+# TI Gerichte INC.2006.22303
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.06.2006 INC.2006.22303
+Tessin Il Giudice dell'istruzione e dell'arresto 28.06.2006 INC.2006.22303
+Ticino Il Giudice dell'istruzione e dell'arresto 28.06.2006 INC.2006.22303
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2006.22303
+Lugano
+28 giugno 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire
+sull'istanza di libertà provvisoria presentata il 21/22 giugno 2006 da
+__________
+,attualmente
+detenuto presso il PCT, Lugano
+(rappr.
+dall’avv. __________)
+e qui trasmessa con
+preavviso negativo del 26/27 giugno 2006 da
+Procuratore pubblico
+Mario Branda, Bellinzona
+viste le osservazioni della difesa (27 giugno 2006);
+visto l'incarto MP __________;
+ritenuto e considerato
+in fatto ed in diritto
+1.
+__________ è stato arrestato il 10 maggio 2006 in
+esecuzione di un ordine d'arresto emanato il 5 maggio 2006 dal Procuratore
+pubblico a seguito del riscontro di tracce (impronta palmare) sul luogo di un
+presunto furto con scasso (doc. 2, inc. GIAR 223.2006.1).
+L'arresto è stato confermato da questo giudice il
+giorno successivo, ritenuti presenti gravi indizi di reato e bisogni
+dell'istruzione (identificazione correo e eventuale recupero della refurtiva:
+cfr. doc. 5, inc. GIAR 223.2006.1).
+2.
+In sostanza, __________ è (era) accusato di un furto
+denunciato come avvenuto a __________ tra il 28 ed il 29 aprile 2006, ai danni
+di una ditta del luogo, e nell'ambito del quale sarebbero stati sottratti un
+PC, alcune monete d'oro, una serie di "bottoni" d'argento e banconote
+per ca. FRS 500.- (doc. 1, inc. GIAR 223.2006.1).
+3.
+Dall'incarto trasmesso (MP __________), più
+precisamente dal Rapporto di polizia del 10 giugno 2006 (AI 15), si desume che
+nel seguito dell'inchiesta sono stati contestati a __________ una quarantina di
+furti, che egli ha ammesso (quando non indicato spontaneamente) limitandosi a
+qualche contestazione della refurtiva (cfr. AI 15, pag. da 1 a 16).
+In data 21 giugno 2006, interrogato dal segretario
+giudiziario del MP (con indicazione di ulteriori ipotesi di reato, sia in fatto
+che in diritto), l'accusato ha sostanzialmente confermato le dichiarazioni
+effettuate in polizia ed indicato il nome della persona che, per alcuni furti,
+avrebbe agito in correità con lui (AI 16).
+Il presunto correo era già stato arrestato il 13
+giugno 2006 (in primis per un'ipotesi di infrazione alla LFStup) e nega ogni
+addebito (verbali __________ 13 giugno 2006 e 22 giugno 2006: cfr. inc. GIAR
+223.2006.3, doc. 4, inc. GIAR 283.2006.1, doc. 2, inc. MP 5010/2006).
+4.
+Con istanza del 21 giugno 2006 (doc. 1, inc. GIAR
+223.2006.3), __________ chiede di essere posto in libertà provvisoria.
+A suo dire, le ampie ammissioni, anche per fatti non
+contestatigli e con indicazione del correo, hanno fatto cadere l'unico motivo
+di detenzione preventiva individuato dal GIAR al momento dell'arresto e non
+permettono di ritenere ancora proporzionato il perdurare della misura.
+5.
+Il Procuratore pubblico ha preavvisato negativamente
+la richiesta (doc. 2, inc. GIAR 223.2006.3).
+Dopo aver elencato le precedenti condanne
+dell'accusato per reati analoghi (__________e __________: cfr. AI 10), il
+rinvio a giudizio del __________ (ACC __________) e le emergenze dell'attuale
+inchiesta, il magistrato inquirente sostiene esistenza del pericolo di recidiva
+avendo agito in situazione di libertà provvisoria e dopo precedenti condanne.
+Sempre a dire dell'inquirente, sussiste pure un
+pericolo di collusione con la persona chiamata in correità, e come detto in
+detenzione dal 13 giugno 2006, che nega partecipazione ai reati.
+6.
+Con osservazioni del 27 giugno 2006 (doc. 9, inc. GIAR
+223.2006.3) la difesa contesta concretezza del pericolo di recidiva sia per la
+tipologia dei reati contestati (non violenti e non denotanti perversione), sia
+per le ammissioni spontanee, così come per il successo della cura
+disintossicante intrapresa.
+Aggiunge impossibilità di inquinamento delle prove
+(perché il correo, da lui indicato, è - mora - detenuto), controindicate anche
+dalle sue ammissioni spontanee anche in relazione alla refurtiva.
+7.
+__________, accusato e detenuto, è certamente
+legittimato (così come il suo patrocinatore) a presentare istanza di libertà
+provvisoria; la trasmissione del preavviso negativo (cfr. data di timbro
+postale), e degli atti, da parte del Procuratore pubblico, sono rispettosi del
+termine di cui all'art. 108 cpv. 1 CPP (in applicazione dell'art. 20 CPP).
+8.
+In diritto, sebbene noto al magistrato ed al patrocinatore
+dell'accusato, si ricorda innanzitutto che:
+"
+L'art. 95 CPP - corrispondente all’art. 33 scaturito
+dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo evidenza al
+cpv. 1 del principio secondo cui l'accusato si trova di regola in libertà,
+consente al cpv. 2 arresto, perdurare e (poi, se del caso) proroga del carcere
+preventivo ai sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali i
+bisogni dell'istruzione, per ovviare a rischio di collusione o inquinamento (in
+altro modo) delle prove, pericolo di recidiva e il pericolo di fuga (senza
+dimenticare che l’arresto, quale misura processuale cautelativa, non serve
+unicamente ai bisogni dell’istruttoria, ma anche ad assicurare la presenza
+dell’accusato al processo e a garantire l’eventuale espiazione della pena: DTF
+109 Ia 323 consid. c, e riferimenti; sentenza 16 novembre 1993 del Tribunale
+federale in re A.H., 1P.477/1993, consid. 3).
+L'eccezione della cautelare privazione
+della libertà personale ha così trovato codificazione in una chiara base legale
+(di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a
+superamento di quanto già dettato dalla giurisprudenza della Camera dei ricorsi
+penali - nel solco di quella del Tribunale federale -, ritenuto implicito il
+rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413;
+DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (Rep. 1988 pag. 416; 1989 pag. 287 ss.) - ritenuto implicito il
+rispetto della proporzionalità (Rep. 1980 pag. 44; 1986 pag. 158; 1988 pag.
+413; DTF 102 Ia 381). Ed anche questo giudice, come già la Camera dei ricorsi
+penali, non restringe la sua cognizione all'arbitrio (Rep. 1980 pag. 128).
+"
+(GIAR 7 novembre 2005, 308.2005.2)
+9.
+Anche se non contestata, l'esistenza di gravi indizi
+di colpevolezza deve essere verificata d'ufficio, pur nei limiti di competenza
+di questo giudice derivanti da un lato dalla sua funzione (che è quella di
+esaminare l’esistenza dei presupposti per il mantenimento della misura
+restrittiva della libertà personale, e non di valutare nella sostanza
+l’esistenza di un reato) e, dall’altro (ma in maniera strettamente congiunta
+con quanto si viene di dire), dall’inopportunità di considerazioni di merito
+premature e, soprattutto, di competenza delle sedi di giudizio.
+Nel caso in esame, gli indizi di reato risultano in
+modo evidente dalle dichiarazioni dell'accusato e, in alcuni casi, dall'esito
+dei rilevamenti di tracce della polizia scientifica (cfr. verbale SG __________
+21 giugno 2006, AI 15 pag. 19 e rinvii).
+10.
+Per quanto concerne la seconda condizione necessaria
+per l'eventuale mantenimento della detenzione preventiva (fuga, recidiva,
+collusione o inquinamento prove), occorre innanzitutto ricordare che:
+"
+Per quanto concerne l'analisi delle condizioni
+alternative a giustificazione dell'arresto, va preliminarmente sottolineata
+l'ininfluenza (di principio) del riferimento fatto della difesa alla decisione
+di conferma che riteneva uno solo di questi elementi. Da un lato perché
+l'esistenza di un solo elemento è sufficiente a giustificare l'arresto (senza
+necessità di esprimersi su tutti in sede di conferma, per svariati motivi),
+dall'altro perché elementi non individuati (o anche non presenti) al momento dell'arresto
+possono emergere nel seguito della procedura.
+"
+(GIAR 7 novembre
+2005, 308.2005.2, cons. 9 a.)
+11.
+a)
+Nel caso in esame, il magistrato inquirente segnala
+innanzitutto l'esistenza di un pericolo di recidiva.
+Notoriamente, il pericolo di recidiva consiste nel
+rischio che l'accusato in libertà commetta ulteriori reati o continui la
+commissione di quelli per cui è stato arrestato; come per gli altri motivi di
+arresto, anche il pericolo di recidiva deve essere concreto e risultare
+dall'insieme delle circostanze (DTF 105 Ia 26).
+Il pericolo di recidiva ex art. 95 CPP è nozione più
+larga di quella dell'art. 67 CP: l'assenza di precedenti specifici non basta,
+da sola, ad escluderlo, così come non basta, sempre da solo, a fondarlo il
+fatto che prima dell'arresto siano stati commessi più reati (
+DTF 12 agosto 1981 in re C.; DTF 123 I 268; SJ 1981,
+pag. 380 a 382; BJP 1989 n. 671; CRP 17 novembre 2005 in re M., 60.2005.357; G.
+Piquerez, Procédure pénale
+suisse, n. 2358; N. Schmid, Strafprozessrecht, 4. Auflage, n. 701b;
+Rusca/Salmina/Verda, Commentario CPP, pag. 327 ss.; CPP Vaudoise annotato,
+Losanna 2004, nota 2.2.5 ad art. 59). Anche la gravità del reato, condizione la
+cui assenza è comunque determinante (G. Piquerez , op. cit., n. 2358, nota 84),
+da sola non basta (sentenza CRP citata, cons. 8 e riferimenti). Occorre che
+l'insieme delle circostanze (precedenti, comportamento in istruttoria,
+personalità, modalità di commissione, condizioni socio-famigliari, eventuale
+carattere deterrente del procedimento in corso, ecc.) imponga una prognosi
+molto sfavorevole (DTF 21 gennaio 2005, 1P.750/2004).
+b)
+__________ è stato condannato a 21 mesi di detenzione
+(inizialmente sospesi ex art. 44 CP: cfr. AI 10 e AI 16 pag. 7) il 26 marzo
+2002, in quanto accusato di furto per mestiere e altri reati, in parte connessi
+alla commissione dei furti. Il 13 maggio 2004 è stato ulteriormente condannato
+(ancora accusato di furto, nonché abuso d'impianto elaborazione dati) a 10 mesi
+di detenzione (AI 10) e il 13 aprile 2006 rinviato a giudizio in quanto
+prevenuto colpevole di 14 furti avvenuti tra il giugno 2005 ed il gennaio 2006.
+I reati di cui oggi è accusato (commessi a partire dal
+febbraio 2006: cfr. AI 15) sarebbero pertanto stati commessi sia in situazione
+di libertà provvisoria che in situazione di applicazione dell'art. 67 CP.
+Già questa situazione permetterebbe di affermare
+concreto pericolo di recidiva (DTF 29 novembre 1979 in re S., Rep 1980 385, CRP
+27 novembre 1981 in re s., tutti citati in M. Luvini "I presupposti materiali
+del carcere preventivo nel processo penale ticinese" Rep. 1989 pag. 287
+ss., note 46 e 47; SJ 1981 pag. 381).
+c)
+Comunque, se a quanto sopra si aggiunge il fatto che
+l'attività delittuosa è praticamente ininterrotta dal giugno 2005, i furti
+sarebbero commessi ad intervalli più o meno regolari, che l'accusato è privo di
+attività lucrativa, così come di altre fonti di reddito, che il suo unico
+reddito risulterebbe provenire dai reati, che subito nel gennaio di quest'anno
+il Patronato penale gli ha procurato una possibilità di lavoro che egli non ha
+inteso sfruttare (AI 16 pag. 8) neppure ai fini di una successiva miglior
+collocazione, è evidente come anche considerando tutto l'insieme delle
+circostanze il pericolo di recidiva emerge in modo concreto e la prognosi debba
+essere, a questo stadio e senza pregiudizio per il merito, sfavorevole (DTF 21
+gennaio 2005, 1P.750/2004; CRP 12 maggio 2006, 60.154.2006, cons. 6, 7 e 8).
+d)
+Non modificano la conclusione di cui sopra né il fatto
+di aver ammesso i reati contestati (comunque non dall'inizio - peraltro il nome
+del correo è stato fatto solo recentemente e dopo l'arresto di questi - e
+probabilmente solo per alcuni senza specifiche contestazioni: cfr. Verbale GIAR
+11 maggio 2006 pag. 2/3; AI 15 pag. 19) né la dichiarata prospettiva di un
+lavoro per i prossimi due mesi (la concretezza di tale possibilità non è
+documentata, la sua durata -e lo stipendio indicato- non sembra essere tale da
+assicurare effettivo miglioramento della situazione economica e l'esperienza
+precedente - fatta in situazione di libertà - non permette di concludere ad
+effettiva serietà d'intenti: cfr. CRP citata, cons. 8).
+Neppure l'esito positivo della disintossicazione
+(segnalato in sede di osservazioni) può essere considerato elemento concreto a
+favore della negazione del pericolo di recidiva; infatti, la cura risulta
+essersi conclusa a fine gennaio 2006 (AI16, pag. 8) ed i reati oggetto
+dell'attuale procedimento hanno avuto luogo, tutti, successivamente a quella
+data.
+12.
+Stabilita l'esistenza di una delle
+condizioni alternative che, con i gravi indizi di colpevolezza, giustificano la
+misura cautelare, ci si può astenere dall’approfondire l'esistenza delle altre
+(DTF 132 I 21, cons. 3.5; GIAR 13.12.2005, 352.2005.3, cons. 11).
+Quindi, può restare aperta la questione del
+pericolo di collusione con la persona da lui chiamata in correità e in
+detenzione da circa due settimane, ancorché quanto indicato in merito nel
+preavviso (e ricordato che "
+é
+compito del magistrato inquirente (anche nel rispetto dell'obbligo di
+motivazione e della garanzia del contraddittorio - si veda, inoltre, la nota
+alla sentenza 25 marzo 1998, in REP 1998 p. 329), qualora intenda affermane
+l'esistenza, sostanziare la presenza di concreti elementi indicanti il pericolo
+eventualmente invocato, non spettando a questo giudice approfondire o
+addirittura ipotizzare quanto sta dietro scarna affermazione del preavviso
+negativo (cfr. sentenze GIAR 23 settembre 2002, 477.2002.2, e 4 aprile 2002,
+76.2002.4)
+") non sembra,
+perlomeno prima facie, evidenziare gli "
+elementi concreti, rilevabili dall'incarto, di carattere oggettivo o
+soggettivo (con maggior rigore nelle fasi avanzate dell'inchiesta
+"
+,
+"
+l'eventuale influenza
+esercitabile",
+rispettivamente
+"la
+convergenza d'interesse
+"
+richiesti per determinarne l'effettiva
+presenza (
+GIAR 1 marzo 2004, 76.2004.3).
+inoltre, andrebbe pure considerato (per l'importanza, in relazione al
+procedimento contro __________, assegnata alla prova indicata come ancora da
+assumere) che il correo non risulta essere oggetto dello stesso procedimento,
+bensì di un altro non formalmente congiunto con quello che qui ci occupa.
+13.
+Da ultimo, e per quanto concerne il principio di
+proporzionalità, va detto che questo deve essere analizzato da angolature
+diverse. Da un lato occorre mettere in relazione la durata del carcere
+preventivo con la gravità (e complessità) della fattispecie (tenuto conto delle
+sue eventuali ramificazioni - anche internazionali -, ecc.) con la pena
+presumibile, dall'altro occorre anche verificare il rispetto del principio di
+celerità (SJ 1981 p. 383 e citazioni; DTF 124 I 139, 128 I 149, 7 febbraio 2005
+1s.3/2005; art. 102 CPP).
+Nel caso in esame, la detenzione cautelare è in corso
+da poco meno di due mesi, è stata condotta celermente, e l'inchiesta
+(effettivamente anche grazie alla collaborazione dell'accusato) sembra avviarsi
+alla conclusione (gli unici atti istruttori indicati come ancora da esperire
+sono due confronti con la persona chiamata in correità ed un terzo, persone,
+come detto al considerando che precede, oggetto di un procedimento non
+formalmente congiunto con quello che qui ci occupa, ciò che permette di
+presumere volontà di conduzione conclusione separata ex art. 35 cpv. 2 CPP).
+Pertanto, la detenzione cautelare sofferta e quella verosimilmente ancora da
+soffrire appaiono ancora lontani dal rischio di pena in caso di condanna.
+14.
+In conclusione, in capo a __________ sono presenti, a
+questo stadio dell'inchiesta, gravi e concreti indizi di reato e concreti
+elementi a favore di un pericolo di recidiva che giustificano il mantenimento
+della detenzione preventiva.
+Inoltre, la detenzione non è al momento lesiva del
+principio di proporzionalità.
+P.Q.M
+visti gli artt. 139, 144, 186 CP, 19a LFStup, nonché
+artt. 20, 95 ss., 108, 280 ss., 284 CPP, 9, 10, 31 CF, 5 cifra 3 CEDU;
+decide
+1.
+L’istanza di libertà provvisoria
+presentata da __________
+è respinta.
+2.
+Non si prelevano tasse e spese.
+3.
+Contro la presente decisione è
+dato ricorso alla Camera dei ricorsi penali del Tribunale di Appello, Lugano,
+entro 10 (dieci) giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Edy Meli
