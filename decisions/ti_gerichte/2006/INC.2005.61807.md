@@ -1,0 +1,487 @@
+---
+decision_id: "ti_gerichte_INC.2005.61807"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.61807"
+decided: "2006-07-07"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=89712&nX40_KEY=4711245&nTrefferzeile=45&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-069.md", "switzerland/bund/acts/312.0/art-070.md", "switzerland/bund/acts/312.0/art-142.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-251.md", "switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.5/art-008.md"]
+---
+
+# TI Gerichte INC.2005.61807
+
+## Regeste
+
+Carenza di legittimazione della querelante parte lesa a presentare reclamo contro una decisione del PP
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 07.07.2006 INC.2005.61807
+Tessin Il Giudice dell'istruzione e dell'arresto 07.07.2006 INC.2005.61807
+Ticino Il Giudice dell'istruzione e dell'arresto 07.07.2006 INC.2005.61807
+
+Carenza di legittimazione della querelante parte lesa a presentare reclamo contro una decisione del PP
+
+Incarto n.
+INC.2005.61807
+Lugano
+7 luglio 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sul reclamo presentato il 12 maggio
+2006 da
+__________
+,
+(patrocinata dall’avv. __________)
+contro
+la decisione 4 maggio 2006 del Sostituto Procuratore
+pubblico Marisa Alfier che respinge la richiesta della reclamante di
+delucidazione della perizia psichiatrica effettuata su __________;
+e, più specificatamente, sulla ricevibilità
+dell’atto presentato;
+viste le osservazioni 18 maggio
+2006 del Sostituto Procuratore pubblico, mentre che l’accusato non ha
+presentato osservazioni;
+visto l’inc. MP __________, e gli
+inc. MP __________, __________, __________, __________, __________, __________,
+__________, __________ e __________ che sono stati recapitati a questo giudice
+– che ha segnalato al magistrato inquirente un apparente lacunosità
+dell’incarto MP __________ – in data 5 luglio 2006;
+ritenuto
+in fatto
+A.
+I fatti che
+preludono alla presente decisione sono già stati analizzati in una precedente
+decisione della CRP (3 maggio 2006, inc. CRP 60.2006.137), cui si può far
+riferimento:
+"
+a.
+A
+seguito dell’intervenuta separazione dalla moglie dal 1°.2.2005, il qui
+ricorrente ha tenuto spesso dei comportamenti penalmente rilevanti.
+b.
+Egli è
+già stato oggetto di un primo procedimento penale (inc. MP __________)
+conclusosi con un decreto d’accusa, cresciuto in giudicato, del __________ (DA __________)
+per titolo di minaccia, ingiuria e vie di fatto (AI 62 inc. MP __________).
+c.
+Egli è
+stato oggetto di un secondo procedimento penale (inc. MP __________) conclusosi
+con un decreto d’accusa del __________ (DA __________) cresciuto in giudicato,
+per titolo di lesioni semplici, vie di fatto ripetute, danneggiamento ripetuto,
+ingiuria, minaccia ripetuta e disobbedienza alle decisioni dell’autorità
+ripetuta (AI 88 inc. MP __________).
+d.
+In data
+20.7.2005 il ricorrente è stato nuovamente sentito nel contesto del nuovo
+procedimento (inc. MP __________) aperto nei suoi confronti  per titolo di
+lesioni semplici, subordinatamente vie di fatto, danneggiamento, minaccia e
+furto di poca entità (AI 3 inc. __________).
+e.
+Nell’ambito
+del medesimo procedimento il ricorrente è stato arrestato in data 24.11.2005 su
+ordine del sostituto procuratore pubblico, arresto non confermato dal giudice
+dell’istruzione e dell’arresto il giorno successivo, con la contestuale
+imposizione di regole di comportamento (AI 13 inc. MP __________).
+f.
+Sentito
+dal sostituto procuratore pubblico in data 6.2.2006 (AI 17 inc. MP __________),
+è stato nuovamente arrestato in data 23.2.2006, arresto confermato dal giudice
+dell’istruzione e dell’arresto il giorno seguente (AI 28 inc. MP __________).
+g.
+Il
+sostituto procuratore pubblico ha ordinato l’allestimento di una perizia in
+data 3.3.2006 (AI 39 inc. MP __________). Ha sentito il ricorrente in data
+10.3.2006, la moglie in data 15.3.2006, e nuovamente il ricorrente in data
+27.4.2006 (AI 40, 44 e 97 inc. MP __________). Il referto peritale è pervenuto
+al Ministero pubblico in data 24.4.2006 (AI 83 inc. MP __________).
+B.
+In data 25 aprile 2006 il
+magistrato inquirente ha inviato copia della perizia psichiatrica a __________
+(AI 84), __________ (AI 85), __________ (AI 86), (tutti “parti lese” e
+“querelanti”) e alla difesa dell’accusato, impartendo un termine di 5 giorni
+per presentare un’eventuale richiesta di delucidazione.
+Il difensore di __________ con
+“domanda di delucidazione di perizia” del 2 maggio 2006 (AI 95) chiede di
+sottoporre al perito tre domande volte ad “
+avere maggiori ragguagli sugli
+istrumenti proposti per evitare un peggioramento del denunciato,
+rispettivamente permetterne un eventuale miglioramento
+” nonché di “
+avere
+maggiori elementi sulla pericolosità del signor __________ e non solo quanto ai
+reati commessi, bensì anche per quanto concerne la possibilità di altri reati
+di quelli descritti
+” con riferimento a questo proposito al “
+rischio di
+rapimento della figlia
+”.
+Con decisione 4 maggio 2006 (AI
+99) il magistrato inquirente ha respinto la richiesta di delucidazione di __________
+argomentando che non spetta al perito indicare la persona che dovrà occuparsi
+dell’eventuale misura che potrebbe essere inflitta all’accusato, che il perito
+non può indicare misure di protezione di vittime potenziali o meno e che per
+quanto riguarda l’ipotesi di rapimento della figlia la stessa non è oggetto del
+procedimento penale in corso e non spetta al perito penale pronunciarsi nel
+merito di scelte operate dal giudice civile o suggerirne di nuove.
+C.
+In data 8 maggio 2006 il
+magistrato inquirente ha proceduto con il deposito degli atti (AI 104) sino al
+26 maggio 2006 intimato, tra gli altri, anche alla “parte lesa” __________ ed
+al suo difensore.
+Con reclamo 12/16 maggio 2006
+(inviato con lettera raccomandata il 15 maggio 2006) la difesa della parte lesa
+__________ ha inoltrato reclamo contro la decisione 4 maggio 2006 del Sost. PP.
+Ella sostiene che l’accusato
+avrebbe più volte minacciato di rapire la figlia e che perciò la richiesta di delucidazione
+su tale pericolo sarebbe del tutto legittima.
+Per di più l’accusato avrebbe più
+volte rivolto delle minacce (quali?, n.d.r.) anche alla figlia, minacce sulle
+quali la madre e la di lei difesa avrebbero soprasseduto per “evitare una
+escalation di violenza” da parte del padre e un “conflitto di lealtà” della
+piccola nei confronti dei genitori.
+Non sarebbe poi compito del dr. __________
+(incaricato dal Pretore nell’ambito della causa di divorzio) verificare la
+pericolosità dell’accusato quanto ad un possibile rapimento.
+D.
+Con osservazioni 18 maggio 2006
+il Sost. PP, dopo avere preso atto che la reclamante ha rinunciato alla
+formulazione della prima richiesta di delucidazione al perito e dopo avere
+stigmatizzato il fatto che solo in sede di reclamo fa riferimento per la prima
+volta a non meglio precisati comportamenti penalmente rilevanti adottati
+dall’accusato anche nei confronti della figlia, si riconferma sostanzialmente
+nella propria decisione.
+E.
+Per maggior comprensione di
+quanto segue val la pena osservare che:
+-   in data 22 maggio 2006, accogliendo un’istanza di libertà
+provvisoria inoltrata direttamente dall’accusato il 18 maggio 2006 (AI 121), il
+magistrato inquirente ha provveduto alla scarcerazione di __________
+impartendogli delle misure di condotta sostitutive dell’arresto (AI 129);
+-   __________ è poi stato nuovamente riarrestato il 2 giugno 2006
+per titolo di lesioni semplici, minaccia e ingiuria nei confronti di __________;
+-   nell’evasione del reclamo di cui in oggetto questo giudice ha
+comunicato con lettera 26 giugno 2006 al Sost. PP (inc. GIAR 618.2005.7, doc.
+6) di avere constatato che la signora __________ figura negli atti del
+procedimento penale nei confronti del marito unicamente quale parte lesa (così
+viene menzionata persino nella comunicazione di deposito degli atti), chiedendo
+nel contempo al magistrato inquirente di voler comunicare se fosse sfuggita la
+costituzione di parte civile di __________ o se quest’ultima (che ha sì avuto
+accesso agli atti ma che per contro non è mai stata citata – né lei né il suo
+patrocinatore – ad un verbale d’interrogatorio dell’accusato) non si è mai
+costituita parte civile (né personalmente né tramite il suo legale);
+-   con lettera 27 giugno 2006 (inc. GIAR 618.2005.7, doc. 7) il
+magistrato inquirente ha comunicato a questo giudice che “
+in effetti, __________
+non si è mai costituita parte civile nel procedimento contro il marito __________.
+Unica costituzione di parte civile è quella del 21.12.2005 (data del verbale
+reso in sede di Polizia) relativa ad una querela contro ignoti per titolo di
+danneggiamento (foratura di 4 pneumatici della sua vettura)
+senza spiegare
+per quale motivo le abbia concesso integrale accesso agli atti e le abbia
+inviato, come d’altronde a __________ e __________ (querelanti), copia
+integrale della perizia psichiatrica agli atti
+;
+-   nell’evasione del reclamo questo giudice, ritenendo di dover
+citare un documento, ha dovuto constatare l’assenza, nell’incarto trasmesso a
+questo ufficio per l’evasione del reclamo, del certificato medico 16.11.2005
+cui il magistrato inquirente ha più volte fatto riferimento in decisioni di
+promozione dell’accusa e persino nella comunicazione di deposito atti;
+-   in data 2 luglio 2007 questo giudice ha richiesto telefonicamente
+al magistrato inquirente come mai non si riuscisse a trovare negli atti tale
+documento;
+-   il 3 luglio 2006 il magistrato inquirente ha provveduto ad
+inviare a questo ufficio, via fax, copia del certificato medico 16.11.2005
+(inc. GIAR 618.2005.7, doc. 8);
+-   il 4 luglio 2006 questo giudice ha contattato telefonicamente il
+Sost. PP che chiedergli la numerazione nell’elenco atti di questo documento,
+nonché spiegazioni sul perché l’inc. MP __________ avesse quale AI 1 un
+rapporto di Polizia denominato “rapporto di complemento” (del 14 luglio 2005)
+scoprendo solo in quel momento che al Ministero pubblico vi era ulteriore
+documentazione (un classificatore contenente il certificato medico 16.11.2005 e
+ulteriori rapporti di segnalazione di Polizia) riguardante il procedimento penale
+contro __________ di cui agli incarti MP __________, __________
+,
+__________, __________, __________, __________,
+__________, __________ e __________, connessi con l’inc. MP __________,
+documentazione che non era stata inviata a questo ufficio con “l’incarto
+principale”;
+-   tale classificatore contenente la documentazione degli incarti MP
+__________, __________, __________, __________, __________, __________, __________,
+__________ e __________ è stato trasmesso in data 5 luglio 2006 a questo
+ufficio su esplicita richiesta di questo giudice;
+-   da un esame della documentazione ricevuta il 5 luglio 2006 si è
+potuto constatare che, malgrado quanto comunicato dal Sost. PP con lettera 27
+giugno 2006, la reclamante si è costituita parte civile il 16.11.2005 (querela
+per furto contro __________ e querela per danneggiamento contro ignoti), il
+18.11.2005 (querela per danneggiamento contro ignoti), il 21.12.2005 (querela
+per danneggiamento contro ignoti sia nel formulario di Polizia che a verbale di
+Polizia 21.12.2005), il 2 gennaio 2006 (querela per danneggiamento contro
+ignoti), il 19 febbraio 2006 (querela per danneggiamento contro __________), il
+31 gennaio 2006 (querela per danneggiamento contro __________), per contro mai __________
+si è costituita parte civile né con comunicazione scritta e neppure in
+occasione di querele o segnalazioni per reati contro la sua integrità fisica o
+contro la libertà personale o durante interrogatori di Polizia o del magistrato
+inquirente;
+in
+diritto:
+1.
+a)
+L’art. 280 CPP prevede che contro
+tutti i provvedimenti e le omissioni del Procuratore pubblico è ammesso reclamo
+al Giudice dell’istruzione e dell’arresto, salvo contraria disposizione di
+legge.
+Sono legittimati al reclamo le
+parti o i terzi che dimostrano un interesse legittimo.
+Né il denunciante, in caso di
+reati di azione pubblica, né il querelante, in caso di reati a querela di parte
+e salvo costituzione di parte civile, hanno veste di parte (art. 67 e 68 CPP).
+Ogni persona danneggiata
+moralmente o materialmente da un reato può costituirsi parte civile nel
+processo e la capacità processuale che ne consegue ed il suo esercizio sono
+regolati dagli art. 38 e 39 del CPC, mentre che il Procuratore pubblico deve
+comunicare alla parte lesa l’avvenuta promozione dell’accusa, avvertendola del
+diritto di costituirsi parte civile (art. 69 CPP).
+Per l’art. 70 CPP la costituzione
+di parte civile, che deve essere formulata per iscritto (ma è sufficiente
+l’annotazione a verbale) può avvenire in qualunque stadio del procedimento,
+prima però della conclusione dell’istruzione dibattimentale.
+Se nella manifestazione della
+volontà di diventare parte civile non si devono pretendere requisiti troppo
+severi, non basta una qualsiasi dichiarazione della vittima rivolta per
+iscritto all’autorità o da quest’ultima verbalizzata per l’efficace
+costituzione di parte civile. Apprezzamenti generici sul reo o sulla giustizia,
+lamentele sulla propria condizione di vittima, descrizione dei fatti
+costitutivi del reato ecc. non sono sufficienti alla costituzione. Occorre,
+invece, che emerga o la richiesta di risarcimento o la volontà di ottenere la
+condanna del colpevole. Sono queste d’altronde, le due facoltà conferite alla
+parte civile (art. 251 cpv. 3 CPP), (Rusca, Salmina, Verda, Commento del Codice
+di Procedura penale Ticinese, ad art. 70. n° 4).
+Non si può non constatare come __________,
+moglie separata dell’accusato, non si è mai costituita parte civile nell’ambito
+del procedimento penale aperto nei confronti del marito da cui è separata, se
+non per quanto riguarda i reiterati danneggiamenti (foratura di pneumatici,
+rottura degli specchietti dell’automobile, ecc.) quando ha sporto querela per
+danneggimento nei confronti del marito o di ignoti come meglio specificato più
+sopra al punto E.
+La stessa, pur essendo
+validamente patrocinata da un legale (che la segue anche nella tribolata
+pratica di divorzio e che nell’istanza di concessione del gratuito patrocinio
+del 22 maggio 2006 ne chiede retroattività a far tempo dall’arresto
+dell’accusato del 22 febbraio 2006, come a lasciar intendere che già da quella
+data avrebbe prestato la sua opera nel procedimento penale a favore di __________)
+non ha mai comunicato, neppure per atti concludenti, la sua volontà di
+costituirsi parte civile nell’ambito del procedimento penale in corso contro il
+marito per coazione (Stalking) e che ha portato a ben tre arresti
+dell’accusato.
+È ben vero che la reclamante (e
+non solo lei) ha inspiegabilmente avuto integrale accesso agli atti, le è stato
+intimato il decreto di nomina del perito ed i quesiti peritali come pure le è
+stato notificato il deposito degli atti, ma mai è stata citata per partecipare
+ad un interrogatorio dell’accusato né di testi (cfr. le citazioni di __________
+e __________, AI 151 e 152, inviate in copia al solo difensore dell’accusato)
+condotto dal magistrato inquirente di cui all’inc. MP __________ – quello
+aperto per coazione nell’ambito del quale si è proceduto a più d’un arresto
+dell’accusato –, neppure ciò è avvenuto nei confronti del suo legale (invero
+questo giudice ha dovuto constatare che neppure la difesa dell’accusato è stata
+citata agli interrogatori della qui reclamante, impedendogli de facto
+l’esercizio del contraddittorio).
+In effetti la reclamante, che è
+considerata “parte lesa” dal Sost. PP, come si evince persino dal deposito
+degli atti 08.05.2006 (AI 104), non si è mai costituita parte civile nel
+procedimento penale in corso contro __________ per titolo di coazione, lesioni
+semplici e vie di fatto, neppure per il tramite del suo legale e di conseguenza,
+stante la lettera della legge, non può essere considerata parte.
+b)
+Da ultimo ci si deve anche
+chiedere se la reclamante, oltre che querelante e parte lesa, debba essere
+considerata vittima ai sensi della LAV e se in tal caso benefici dei diritti di
+parte.
+Per stabilire chi possa giovarsi
+dei diritti della LAV è importante definire il concetto di vittima ai sensi di
+questa legge: è tale la persona direttamente lesa da un reato nella sua
+integrità fisica, sessuale o psichica. La vittima deve avere subito un danno
+diretto, sono quindi escluse di regola le lesioni che una persona può subire
+indirettamente. Rientrano nel novero dei reati che conducono a lesioni
+rilevanti ai sensi della LAV, quelli contro la vita e l’integrità personale,
+salvo le vie di fatto. Il TF giudica con pieno potere cognitivo il concetto di
+vittima (DTF 120 Ia 157 consid 2aa e 2bb). Pur non escludendo, per esempio,
+l’applicazione della LAV nei casi di particolare gravità, il TF ha ritenuto che
+si debba valutare caso per caso se, nei reati contro la libertà personale, la
+gravità del fatto giustifichi un effettivo danno diretto all’integrità psichica
+della vittima, non ritenendo sufficiente ogni lieve pregiudizio del benessere
+psichico (DTF 120 Ia 163). Determinanti non sono comunque le sole
+considerazioni soggettive della vittima (DTF 120 Ia 157); (Rusca, Salmina,
+Verda, Commento del Codice di Procedura penale Ticinese, ad capitolo III, n° 3,
+4 e 5).
+La qualità di parte della vittima
+deriva dal diritto federale: l’art. 8 LAV è applicabile direttamente (DTF 120
+Ia 104; Mess LAV, p. 733). La forma con cui questa partecipazione si realizza
+concretamente compete però ai Cantoni (DTF 119 IV 173) che, come il Ticino ha
+fatto, devono pertanto predisporre le norme necessarie (DTF 120 Ia 104). Secondo
+la giurisprudenza, l’ampiezza del diritto di essere sentiti della vittima non
+si commisura sulla base della LAV ma delle norme cantonali o, in loro assenza,
+dell’art. 4 CF (DTF 120 Ia 109 consid. 3°). Dottrina e giurisprudenza hanno
+precisato che non basta che la vittima manifesti la volontà di intervenire nel
+procedimento penale perché abbia tutti i diritti processuali; se non si
+costituisce parte civile, le sue facoltà saranno solo quelle specificamente
+previste dalla LAV: far valere le proprie pretese (art. 8 cpv. 1 lett. c. LAV),
+impugnare un non luogo a procedere o un abbandono (art. 8 cpv. 1 lett. b LAV),
+avere facoltà ricorsuale identica all’accusato in riferimento alle pretese
+civili (art. 8 cpv. 1 lett. c LAV; Corboz I, p. 72 in riferimento a STF 119 IV
+173 consid. 6c). In Ticino, la vittima acquista pienezza dei propri diritti se
+si costituisce parte civile ai sensi dell’art. 69 CPP. Si ricorda che la
+costituzione di parte civile, secondo la nostra procedura, deve avere forma
+scritta, bastando però anche l’annotazione a verbale. In definitiva, vista
+anche la facilità con cui ci si può costituire parte civile, la vittima LAV, in
+caso di contestazione sull’ampiezza dei suoi diritti, avrà interesse a
+procedere alla – assai agevole – costituzione formale di parte civile; (Rusca,
+Salmina, Verda, Commento del Codice di Procedura penale Ticinese, Carpitolo
+III, n° 6).
+Non solo la reclamante non si è
+costituita parte civile, ma neppure si è dichiarata “vittima” ai sensi della
+LAV e non risulta dagli atti – almeno quelli trasmessi sino ad oggi a questo
+ufficio –, che il magistrato inquirente l’abbia ritenuta tale: a ragione dal
+momento che i fatti relativi agli attacchi dell’accusato all’integrità della
+persona della reclamante rientrano perlopiù nella sfera del reato di “vie di
+fatto” (cfr. Corboz, Les infractions en droit suisse, volume I, ad art. 126 n°
+da 3 a 15, Berne 2002) che non fa parte nel novero dei reati che conducono a
+lesioni rilevanti ai sensi della LAV, lo stesso dicasi per il reato di coazione
+dal momento che la reclamante non palesa di avere conseguito dai fatti
+denunciati un danno psichico di rilievo (“
+Es genüge dagegen nicht jede
+geringfügige Beeiträchtigung des psychischen Wohlbefindens.
+Ausserdem müsse das Opfer “nachweislich körperliche oder psychiche
+Schäden erlitten” haben
+”, DTF 120 Ia 163).
+Inoltre il reclamo in oggetto non rientra nelle facoltà riconosciute
+alla vittima dall’art. 8 cpv. 1 LAV.
+Visto quanto
+sopra non si può che concludere che la reclamante non ha veste di parte nel
+procedimento penale aperto nei confronti di __________ per titolo di coazione
+ed altri reati nell’ambito del quale è stata esperita la perizia psichiatrica
+(AI 83) e che di conseguenza la stessa non è legittimata a presentare il
+reclamo in oggetto ai sensi dell’art. 280 cpv. 2 CPP, reclamo che deve quindi
+essere dichiarato irricevibile.
+2.
+A titolo
+puramente abbondanziale si osserva che iI reclamo, che è comunque giunto a
+questo ufficio nel termine legale di dieci giorni dall’intimazione della decisione
+impugnata, sarebbe comunque da respingere anche nel merito, non solo perché la
+reclamante chiede che il perito risponda a domande che non rientrano nelle sue
+competenze (come potrebbe il perito, al di là di una valutazione del pericolo
+di recidiva, prevedere la commissione per mano di __________ di nuovi reati
+penali? Come potrebbe pronunciarsi su quali interventi effettuare per
+difendere, da non si sa quali reati, potenziali e non precisate future
+vittime?), ma perché la richiesta di complemento istruttorio negata dal
+magistrato inquirente non è in nessuna connessione con i reati per cui si
+procede nei confronti di __________ oltre a non adempiere agli ulteriori
+requisiti che reggono l’assunzione delle prove.
+a)
+I principi che reggono
+l'assunzione delle prove, in generale, sebbene noti, possono essere riassunti
+come segue:
+"Per meritare di essere assunte, le prove
+proposte dalle parti contestualmente al deposito atti (art. 196 CPP), o in
+altro momento dell’istruttoria (artt. 60 cpv. 1 e 79 cpv. 1 CPP), devono
+rispettare tre concorrenti ordini di considerazione: esse devono essere
+motivate per quanto attiene al loro oggetto ed al loro scopo in diretta
+connessione con la fattispecie inquisita; tali mezzi di prova devono avere i
+requisiti della novità, della rilevanza e della pertinenza alle successive
+conclusioni di competenza del Procuratore Pubblico, dapprima per decidere se
+promuovere l’accusa oppure non far luogo al procedimento e poi (dopo
+conclusione dell’istruzione formale) se decretare messa in stato d'accusa o
+abbandono, sino se del caso a quelle del giudice di merito; per quest’ultima
+evenienza, le stesse prove devono essere di difficile produzione al
+dibattimento, avute presenti le finalità dell’art. 189 CPP, inteso appunto tra
+l’altro ad assicurarne la non interrotta assunzione (v. sentenza 24 gennaio
+1990, inc. CRP 337/89; v. decisioni 17 febbraio 1993 in re L.P., inc. GIAR
+135.93.1; 3 novembre 1993 in re G.G., inc. GIAR 862.93.1, e 14 giugno 1995 in
+re F.M., inc. GIAR 1093.93.5)."
+(GIAR 21 giugno 2001 in re C.)
+Tra le prove a disposizione delle
+Autorità penali inquirenti e giudicanti vi è la perizia ossia il ricorso
+all’esperto specifico ogniqualvolta occorre stabilire fatti e circostanze
+all’accertamento dei quali siano indispensabili speciali cognizioni (art. 142
+cpv. 1 CPP, nella sostanza ripreso dagli art. 96 cpv. 1 CPP/1942 e 96 cpv. 1
+CPP/1993, per cui vale la giurisprudenza anteriore: v. REP 1997 n. 97,
+confermata dalla massima in REP 1998 n. 113): nelle accennate prospettive, al
+magistrato penale è allora riservata ampia facoltà nella scelta delle prove e
+quindi anche in tema di referto peritale, ritenuta comunque e sempre perlomeno
+apparenza di utilità e pertinenza in connessione con la fattispecie inquisita,
+secondo le imputazioni ed in vista delle conclusioni di competenza del giudice
+penale, ed ancora congiuntamente (per riprendere con altre parole il testo di
+legge) che determinati fatti non siano ancora chiariti o sufficientemente
+chiariti o chiaribili attraverso altri mezzi di prova e che il magistrato non
+abbia le specifiche conoscenze professionali per giungere a tali accertamenti
+(v. decisione 19 aprile 1995 in re C.J., GIAR 695.94.2, e riferimenti).
+b)
+La reclamante chiede di
+sottoporre al perito tre quesiti di cui il primo è volto a sapere “
+cosa si
+può intraprendere per difendere le potenziali vittime o meglio le vittime certe
+”
+dell’accusato e gli altri due (che sono sostanzialmente identici tra loro in
+quanto al loro contenuto) sono riferiti alla possibilità che __________ metta
+in atto il rapimento della figlia con richiesta al perito di proporre misure
+atte ad evitarlo come pure ad evitare “
+l’influsso negativo su di lei
+(sulla
+figlia da parte dell’accusato, n.d.r.)
+in linea generale
+”.
+Nel caso di specie, la necessità
+di sottoporre __________ a perizia psichiatrica non è mai stata in dubbio,
+tanto che è stato il magistrato inquirente ad ordinare tale prova. Le
+conclusioni del perito, esplicitate in perizia, sono state inviate anche alla
+reclamante (benché fosse “soltanto” parte lesa) in data 25 aprile 2006
+addirittura con un termine di 5 giorni per presentare richieste di
+delucidazioni (AI 86) – pure le era stato inviato a suo tempo il decreto di
+nomina del perito con i quesiti peritali – e sembravano non porre problema
+alcuno di comprensione. Problema che a questo giudice non sembra sussistere
+neppure oggi, tant’è che i quesiti che la parte lesa reclamante vorrebbe semmai
+proporre al perito non sono tesi alla delucidazione della perizia
+nell’interesse del procedimento penale in corso e a vantaggio di un’analisi
+completa delle fattispecie penali contestate all’accusato, del suo grado di
+responsabilità e del pericolo di recidiva, bensì a soddisfare esigenze
+verosimilmente sorte nell’ambito della procedura di divorzio in corso tra i
+coniugi __________ e ad uso e consumo di tale procedura.
+Non vi è infatti connessione
+alcuna tra i quesiti posti ed i reati contestati all’accusato – non solo perché
+non si procede nei confronti di __________ per il reato di sottrazione di
+minorenne, ma anche perché non si capisce a quale reato intenda far riferimento
+la difesa della reclamante quando richiede un'indagine peritale sul possibile
+“influsso negativo” del padre sulla figlia (influsso negativo che, questo
+giudice tiene per inciso a precisare, non traspare da nessun elemento agli
+atti) – ed in ogni caso il mezzo di prova richiesto non avrebbe i requisiti
+della novità – avendo già il perito esaurientemente risposto quo al pericolo di
+recidiva ed alle possibili misure da adottare in futuro (dal perito stesso
+comunque definite “di difficile realizzazione e di esito incerto”) – della
+rilevanza e della pertinenza alle successive conclusioni di competenza del
+Procuratore Pubblico.
+3.
+Alla luce di quanto precede il
+reclamo deve comunque essere dichiarato irricevibile con la presente decisione
+definitiva (art. 284 cpv. 1 lett. a CPP e contrario) e con carico della tassa
+di giustizia e delle spese alla reclamante (art. 39 lett. f TG), patrocinata da
+un legale, soccombente, senza assegnazione di ripetibili all’accusato che non
+ha presentato osservazioni.
+Visti gli art. 142 e ss, 280 ss e
+284a) e contrario CPP e la TG,
+decide
+1.
+Il reclamo è irricevibile.
+2.
+La tassa di giustizia di CHF 450.-- e le spese di CHF 100.-- sono a
+carico della reclamante; non si assegnano ripetibili.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione a (con copia delle osservazioni delle parti):
+giudice
+Claudia Solcà
