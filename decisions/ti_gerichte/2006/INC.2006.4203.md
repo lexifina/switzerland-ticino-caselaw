@@ -1,0 +1,656 @@
+---
+decision_id: "ti_gerichte_INC.2006.4203"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.4203"
+decided: "2006-07-27"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=89974&nX40_KEY=4711243&nTrefferzeile=100&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-067.md", "switzerland/bund/acts/311.0/art-271.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-119.md", "switzerland/bund/acts/312.0/art-184.md"]
+---
+
+# TI Gerichte INC.2006.4203
+
+## Regeste
+
+Proroga del carcere preventivo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 27.07.2006 INC.2006.4203
+Tessin Il Giudice dell'istruzione e dell'arresto 27.07.2006 INC.2006.4203
+Ticino Il Giudice dell'istruzione e dell'arresto 27.07.2006 INC.2006.4203
+
+Proroga del carcere preventivo
+
+Incarto n.
+INC.2006.4203
+Lugano
+27 luglio 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia
+Solcà
+sedente per statuire
+sull'istanza di proroga del carcere preventivo presentata il 6 luglio 2006
+dal
+Procuratore pubblico
+Rosa Item,
+MP Lugano
+nei confronti di
+__________
+accusato di infrazione aggravata e contravvenzione
+alla LStup,
+viste le osservazioni 18 luglio 2006 presentate dalla
+difesa;
+visto l'incarto MP __________ (__________) e l’incarto
+MP __________ (__________);
+ritenuto e considerato
+in fatto ed in diritto
+che:
+-
+__________ è stato arrestato il 1°
+febbraio 2006 dalla Polizia cantonale per titolo di infrazione aggravata e
+contravvenzione alla LStup su ordine d’arresto di stessa data del PP “
+per
+avere, senza essere autorizzato, a partire dal 2005, in correità con varie
+persone, negoziato, commerciato, acquistato, trasportato rispettivamente messo
+in commercio, sia in __________, __________, __________ e __________, un
+ingente quantitativo di cocaina rispettivamente marijuana
+” tale da mettere
+in pericolo la salute di parecchie persone, agendo come membro di una banda
+costituitasi per esercitare il traffico illecito di stupefacenti, realizzando
+così per mestiere, una grossa cifra d’affari o un guadagno considerevole. Al
+momento dell’arresto a __________ sono stati sequestrati __________ grammi
+lordi di cocaina. Il 2 febbraio 2006 il PP Rosa Item ha richiesto a questo
+giudice la conferma dell’arresto di __________ per i bisogni dell’istruzione,
+per pericolo di collusione e per pericolo di recidiva (doc. 1 inc. GIAR
+42.2006.1);
+-
+il 2 febbraio 2006 l'arresto di __________
+è stato confermato da questo giudice, ritenuti presenti gravi e concreti indizi
+di colpevolezza, nonché necessità istruttorie in relazione con il pericolo di
+collusione con le altre persone coinvolte nell’inchiesta (doc. 3 inc. GIAR
+42.2006.1);
+-
+approssimandosi il termine di
+scadenza della detenzione ex art. 102 cpv. 2 CPP, il magistrato inquirente ha
+inoltrato richiesta per una proroga di 4 (quattro) mesi (istanza 6 luglio
+2006), allo scopo di potere evadere oggettivi bisogni istruttori, quali
+l’acquisizione in via rogatoriale degli atti, dei tracciati e delle
+registrazioni delle intercettazioni effettuate dagli inquirenti __________
+tramite apparecchio GPS sulle automobili di __________ e del correo __________,
+per chiarire le rispettive singole responsabilità a fronte di dichiarazioni
+discordanti dei due e delle dichiarazioni di __________, altro correo dei due
+attualmente in espiazione pena in __________, a proposito dei trasporti di
+cocaina (atti richiesti in via rogatoriale l’11 maggio 2006 e sollecitati
+nuovamente in data 23 giugno 2006), analizzare e contestare tale materiale a __________
+ed al correo __________, procedere con eventuali confronti tra i due, procedere
+con il deposito degli atti e dare seguito agli eventuali complementi istruttori
+proposti dalla difesa non prima di analizzare il coinvolgimento dell’accusato
+con le truffe perpetrate da __________ __________ e per il tramite della __________
+per cui si dovrà (sic!) estendergli l’accusa per ricettazione (Istanza, pag.
+3);
+-
+a mente del magistrato inquirente,
+la proroga richiesta è rispettosa del principio della proporzionalità –
+considerata l’oggettiva gravità dei reati ipotizzati e l’ampiezza della
+fattispecie, nonché la presumibile pena detentiva di lunga durata da espiare
+ritenuto il diferimento dell’accusato dinanzi ad una __________ – e si fonda
+sull'esistenza di gravi indizi di reato e sul pericolo di recidiva “
+considerata
+la particolare assenza di scrupoli che si denota nell’attuazione di un
+importante traffico di stupefacenti per fine di lucro
+” (Istanza, p. 3);
+-
+con lettera 18 luglio 2006 (Inc.
+GIAR 42.2006.3, doc. 3) questo giudice ha richiesto al PP precisazioni a
+proposito del regime carcerario vigente attualmente per __________ e __________
+(più in particolare se i due detenuti possono avere contatti tra loro o meno)
+e, con riferimento alla rogatoria 11 maggio 2006, se le intercettazioni
+ambientali e sorveglianze tramite GPS richieste alle __________ si sono svolte
+anche su territorio __________ e, in caso affermativo, se tali atti d’indagine
+siano stati autorizzati dalle competenti Autorità __________, segnalando al PP
+che nel caso non lo fossero state potrebbe porsi la problematica relativa
+all’utilizzabilità di tali mezzi di prova, nonché di un’eventuale violazione
+dell’art. 271 CP;
+-
+con lettera 18 luglio 2006 (Inc.
+GIAR 42.2006.3, doc. 4) il PP ha trasmesso copia delle disposizioni per il
+carcere preventivo concernenti __________ (da cui si evince che lo stesso non
+deve avere alcun contatto con __________); per quanto riguarda i rilevamenti
+GPS il magistrato inquirente “
+presuppone...che abbiano interessato anche il
+suolo __________, ciò potrà essere accertato solo con l’evasione della domanda
+rogatoriale
+” mentre che, per quanto riguarda la legalità dell’assunzione di
+tale mezzo di prova, la PP segnala che sulla ricevuta 14 marzo 2006, attestante
+l’avvenuta restituzione delle apparecchiature ritrovate sui veicoli di __________
+alle Autorità __________, si attesterebbe che tale sorveglianza è stata
+autorizzata dalla Magistratura __________; abbondanzialmente il PP comunica che
+provvederà, entro la chiusura dell’inchiesta formale, ad assumere agli atti le
+decisioni dell’Autorità __________ relative all’autorizzazione alla posa delle
+apparecchiature di sorveglianza in questione;
+-
+la difesa, con osservazioni 18/19
+luglio 2006, si rimette al prudente giudizio di questo giudice pur non ravvisando,
+alla luce degli atti istruttori preventivati dall’accusa, né pericolo di
+collusione né pericolo di recidiva;
+-
+con lettera 21 luglio 2006 questo
+giudice (Inc. GIAR 42.2006.3, doc. 6) ha chiesto ulteriori precisazioni alla PP
+in merito al ritrovamento ed alla restituzione alle Autorità __________ degli
+apparecchi d’intercettazione applicati sul veicolo __________ di __________ (in
+effetti, mentre che nell’istanza di proroga il PP sostiene che, “
+dopo il
+fermo di _____ e di __________ si è proceduto ad una minuziosa perquisizione
+delle
+vetture in loro possesso rinvenendo numerosi rilevatori GPS che
+sono stati regolarmente consegnati per le vie di servizio
+” – lasciando
+quindi intendere che gli inquirenti avrebbero arrestato __________ mentre era
+alla guida del veicolo __________ sotto intercettazione, rinvenendo dopo
+perquisizione gli apparecchi utilizzati a tale scopo dagli inquirenti __________
+– , né nell’incarto, né nella documentazione inviata con lettera 18 luglio
+2006, si trovano riferimenti al ritrovamento ed alla riconsegna delle
+apparecchiature apposte sul veicolo __________), se sia stata perquisita anche
+la vettura __________ utilizzata per il trasporto di cocaina del 29 gennaio
+2006 nonché “
+chi abbia genericamente attestato
+”, nel rapporto di riconsegna
+ambientali del 14 marzo 2006, che la posa di tali apparecchiature era stata
+autorizzata dalla Magistratura __________;
+-
+con lettera 21/24 luglio 2006
+(Inc. GIAR 42.2006.3, doc. 7) il PP ha comunicato che l’automobile __________
+in uso a __________ non è mai stata oggetto di perquisizione da parte degli
+inquirenti __________ – dal momento che __________, al momento dell’arresto,
+era a bordo di un altro veicolo – e che sono stati chiesti i dati delle
+intercettazioni anche di detta vettura, visto che gli inquirenti __________
+erano a conoscenza (con riferimento al rapporto di segnalazione per __________
+del 3 ottobre 2005, p. 3, __________) del fatto che gli inquirenti __________
+avevano messo in atto tali misure sul veicolo in uso a __________; che la __________
+__________ utilizzata per il trasporto del 29 gennaio 2006 è stata perquisita
+dagli inquirenti con esito negativo; il PP ha poi comunicato che l’attestazione
+formulata nella ricevuta 14 marzo 2006 – secondo cui la posa di tali
+apparecchiature di intercettazione era stata autorizzata dalla Magistratura __________
+– è stata apposta dal SAD (Sezione Anti Droga della Polizia giudiziaria
+ticinese) sulla base della richiesta di restituzione dell’apparecchiatura di
+intercettazione avanzata dalla __________;
+-
+l'istanza, presentata
+dall'autorità competente ed entro un termine ragionevole per rapporto alla
+scadenza di cui all'art. 102 cpv. 2 CPP, è ricevibile;
+-
+i principi che reggono la materia,
+pur se noti al magistrato inquirente ed al difensore, vengono qui brevemente
+richiamati:
+"L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto pubblico
+del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si aggiunge,
+sempre con riferimento al caso in esame, che l’elenco dei motivi di interesse
+pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio aggiuntivo del 20
+marzo 1991 concernente la revisione del CPP, ad art. 27, pag. 32, nota 3), tra
+altri possibili, essendovi quello della tutela dell’ordine pubblico (REP 1998
+n. 105).
+L'eccezione della cautelare privazione
+della libertà personale ha così trovato codificazione in una chiara base legale
+(di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a
+superamento di quanto già dettato dalla giurisprudenza della Camera dei ricorsi
+penali - nel solco di quella del Tribunale federale -, ritenuto implicito il
+rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413;
+DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la
+Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128)."
+(per tutte: sentenza GIAR 21.12.2001 in
+re G., inc. 520.2001.5)
+-
+l'assenza di opposizione, alla
+richiesta di proroga, da parte della difesa non esenta questo giudice da una
+verifica dell'esistenza dei presupposti per il mantenimento (se si preferisce:
+la proroga) della carcerazione preventiva;
+-
+nel caso in esame non occorre
+dilungarsi più di tanto per confermare l'esistenza di gravi indizi di reato in
+capo all'accusato per i fatti che gli sono imputati, basti qui ricordare quanto
+riportato nel verbale d’arresto del 1° febbraio 2006 o quello di conferma
+dell’arresto davanti a questo giudice ed in presenza del suo legale (AI 5,
+rapporto d’arresto di __________ del 1° febbraio 2006; Inc. GIAR 42.2006.1,
+doc. 3, verbale di conferma dell’arresto del 2 febbraio 2006) nel quale
+l’accusato ha ammesso di avere trafficato ingenti quantitativi di cocaina, tra
+cui gli oltre 23 chilogrammi rinvenuti sulla sua automobile e posti sotto
+sequestro dalla Polizia, in correità con altre persone;
+-
+in merito ai bisogni istruttori
+atti a giustificare la detenzione preventiva ed il suo perdurare, vi é
+consolidata giurisprudenza (e dottrina):
+"
+In relazione ai bisogni istruttori, atti a giustificare
+la misura restrittiva della libertà personale, occorre ricordare che questi non
+s'identificano semplicemente con gli atti istruttori in quanto tali, o con gli
+accertamenti (ancora) da effettuare, bensì con il pericolo di collusione o
+d'inquinamento delle prove che (eventualmente) espone a rischio la corretta
+raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale suisse,
+ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697 ss.;
+RDAT 1988 no. 24).
+In
+quest'ottica il fatto che l'inchiesta sia tuttora in corso non è, di per sé,
+decisivo, in quanto "Die Tatsache allein, dass noch nicht alle Beweise
+erhoben bzw. die Mitverdächtigen dingfest gemacht werden konnten oder dass der
+Angeschuldigte die Aussage verweigert, genügt nicht" (N. Schmid, op. cit.,
+no. 701a).
+Occorre che l'indagato,
+se posto in libertà, possa pregiudicarne (o comprometterne) il corretto
+svolgimento e, conseguentemente, l'esito.
+E', inoltre, necessario che questa
+possibilità di pregiudicare la raccolta di elementi di prova si fondi su
+elementi concreti: "Jedoch genügt nach der Rechtsprechung des
+Bundesgerichtes die theoretische Möglichhkeit, dass der Angeschuldigte in
+Freheit kolludieren könnte, nicht, um die Fortsetzung der Haft oder    die
+Nichtgewährung von Urlauben unter diesem Titel zu rechtfertigen. Es mussen
+vielmehr konktrete Indizien für eine solche Gefahr sprechen."
+(DTF 117 Ia 257, cons. 4 c.).
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza d'interessi
+(tra i due) in relazione al contenuto della deposizione (SJ 1990 p. 438; DTF
+117 Ia 257; ZR 72 no. 77 p.19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66;
+Hauser/Schweri, Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13).”
+(GIAR 23 settembre 2002 in re Y.)
+Nello stesso senso, la CRP:
+"I rischi di collusione e di inquinamento delle
+prove sono legati soprattutto ai bisogni dell'istruttoria. Da un lato si tratta
+generalmente di evitare o prevenire accordi tra l'imputato e i testimoni - già
+sentito o ancora da sentire - o i correi e complici non arrestati, messi in
+atto per nascondere al giudice la verità, dall'altro di impedire interventi
+fraudolenti del prevenuto in libertà sui mezzi di prova non ancora in possesso
+della giustizia, allo scopo di distruggerli o di alterarli a suo vantaggio. la
+possibilità di ostacolare in tal modo l'azione dell'autorità giudiziaria da
+parte del prevenuto deve essere valutata sulla base di elementi concreti, la
+realtà di questo rischio non potendo essere ammessa aprioristicamente ed in
+maniera astratta (DTF 117 Ia 257; Decisione TF 2.3.2000 in re A. e rif.; R.
+Hauser/E. Schweri, op. cit. § 68 n. 13; G. Piquerez, op. cit. n. 2344
+ss.)"
+(sentenza 16 settembre 2004 in re B., CRP 60.2004.297)
+-
+a mente del magistrato inquirente
+sussisterebbero oggettivi bisogni istruttori avendo provveduto, con rogatoria
+internazionale 11 maggio 2006, a chiedere alle competenti Autorità __________
+la trasmissione degli atti dei tracciati e delle registrazioni delle
+intercettazioni effettuate sulle autovetture di __________ e del correo __________
+(pure lui in detenzione preventiva in __________) nei giorni del 26 (per l’__________
+di __________ tra le 08.00 e le 20.00), 28 (per la __________ di __________ tra
+le 12.00 e le 24.00), 29 (per l’__________ di __________, la __________ e l’__________
+di __________ tra le 08.00 e le 24.00), 30 (per la __________ di __________ tra
+le 08.00 e le 24.00) e 31 gennaio 2006 (per la __________ e l’__________ di __________
+tra 07.00 e le 15.00, rispettivamente tra le 12.00 e le 24.00) e 1° febbraio
+2006 (per la __________ di __________ tra le 08.00 e le 24.00). Tali atti
+istruttori italiani dovranno essere esaminati e contestati all’accusato e al
+correo __________, se del caso con verbali a confronto tra i due, per procedere
+poi con il deposito degli atti; per quanto riguarda i bisogni istruttori
+preventivati dall’accusa la difesa osserva di non ritenere ravvisabile pericolo
+di collusione;
+-
+per il PP l’acquisizione di quanto
+richiesto con la rogatoria 11 maggio 2006 è “
+necessario per chiarire
+esattamente le responsabilità di __________ e __________ in merito al trasporto
+di cocaina effettuato il 29.01.2006
+” (Istanza, p. 3 in alto);
+-
+effettivamente __________ ha
+dichiarato di avere effettuato, unitamente a __________, un altro trasporto di
+cocaina la domenica 29 gennaio 2006, recandosi a __________ con una __________
+a prelevare lo stupefacente da un giovane __________, identificato in __________,
+per poi portarlo sino in __________; mentre __________ afferma di avere
+lasciato la __________ con la cocaina a __________, con le chiavi sotto il
+tappetino, e nega di avere trasportato lo stupefacente sino in __________, __________
+afferma che dopo avere fatto insieme il viaggio sino a __________ e ritorno
+sarebbe stato __________, alla guida della __________, ad esportare lo
+stupefacente in __________; __________ ha poi negato di essere il mandante del
+trasporto di cocaina effettuato da __________ il 31 gennaio 2006 e che ha
+portato al sequestro di circa 23 chilogrammi di cocaina;
+-
+non solo dagli atti non emerge
+autorizzazione alcuna (che peraltro il magistrato inquirente non si è premurato
+di richiedere con la rogatoria 11 maggio 2006, con la quale chiede la
+trasmissione dei dati relativi alle apparecchiature GPS e le intercettazioni
+ambientali) da parte delle competenti Autorità __________ per la posa degli
+apparecchi di radiolocalizzazione ed ascolto sui veicoli in uso a __________ (__________
+con targhe __________ e __________ con targhe __________) e a __________ (__________
+con targhe __________ __________) – non potendo bastare l’attestazione dei
+responsabili del SAD apposta sul verbale di consegna degli apparecchi
+d’intercettazione del 14 marzo 2006 –, ma anche vi fosse una tale
+autorizzazione la stessa non potrebbe sostituirsi a quella delle competenti
+Autorità __________ in caso di utilizzo degli apparecchi di radiolocalizzazione
+ed ascolto su suolo __________: utilizzo in territorio __________ che doveva
+apparire più che probabile a chi ha ordinato le intercettazioni avendo
+installato le apparecchiature GPS e d’ascolto anche su veicoli immatricolati in
+__________ ed in uso ad un cittadino __________ residente in __________;
+-
+a precisa domanda di questo
+giudice (Inc. GIAR 42.2006.3, doc. 3) in merito alla possibilità che le
+intercettazioni ambientali e sorveglianze tramite GPS messe in atto dalle
+Autorità __________, e richieste dal magistrato inquirente con rogatoria 11
+maggio 2006, si siano svolte anche su territorio __________, il PP ha risposto,
+nella sua lettera 18 luglio 2006, che “
+la scrivente presuppone che i
+suddetti rilevamenti GPS abbiano interessato anche il suolo __________
+”
+(Inc. GIAR 42.2006.3, doc. 4, p. 1) senza prendere posizione sulle
+intercettazioni ambientali, benché con la rogatoria 11 maggio 2006 abbia
+richiesto anche queste ultime;
+-
+a precisa domanda di questo
+giudice (Inc. GIAR 42.2006.3, doc. 3) volta a sapere se in caso di utilizzo di
+tali apparecchiature su suolo __________ le stesse siano state autorizzate
+dalle competenti Autorità __________ e, in caso non lo siano state, di voler
+prendere posizione sull’utilizzabilità di tali mezzi di prova, il PP ha
+risposto che la posa di tali apparecchiature è stata autorizzata dalla Magistratura
+__________, ritenendo tale autorizzazione, peraltro non agli atti, “
+ampiamente
+sufficiente a sostegno della liceità delle prove in corso di acquisizione
+”
+(Inc. GIAR 42.2006.3, doc. 4, p. 2);
+-
+chiaramente le intercettazioni ed
+i tracciati richiesti dal PP, riferendosi perlopiù a giorni e a spazi temporali
+in cui __________ ed il correo __________ si trovavano in __________, diretti o
+di ritorno da __________, sono volte a conoscere gli spostamenti dei veicoli di
+__________ e __________ avvenuti in __________ ed il contenuto dei colloqui
+intercorsi tra gli occupanti i veicoli durante le trasferte avvenute in __________
+per procurarsi e trasportare lo stupefacente;
+-
+in base al principio della
+territorialità giurisdizionale le leggi di procedura hanno un carattere
+strettamente territoriale e, di principio, le Autorità repressive non possono
+agire al di fuori del loro territorio senza il consenso delle Autorità
+competenti dello Stato interessato; inoltre gli atti di procedura devono essere
+compiuti conformemente al diritto in vigore nel luogo dove vengono effettuati;
+le norme che stabiliscono le autorità incaricate di amministrare la giustizia,
+che delimitano le loro competenze e che regolamentano la ricerca, il
+perseguimento, l’istruzione e il giudizio delle infrazioni svolgono i loro
+effetti solo all’interno delle frontiere dello Stato: per compiere degli atti
+di procedura al di fuori delle frontiere è necessario il concorso delle
+autorità competenti per quel territorio attraverso l’assistenza giudiziaria,
+(G. Piquérez, Procédure penale Suisse, n. 1599 e 1600);
+-
+evidentemente, stante la parola
+del magistrato inquirente, tali radiolocalizzazioni tramite GPS ed
+intercettazioni ambientali, se e in quanto avvenuti in __________, non
+risultano essere stati autorizzati da Autorità __________;
+-
+talune norme regolamentano
+esplicitamente gli effetti di una loro violazione: è il caso dell’art. 119 CPP,
+relativo al divieto di mezzi coercitivi nell’interrogatorio dell’accusato, e
+che prevede la nullità di deposizioni ottenute in deroga a questo divieto
+(ibid., cpv. 2). Quando ciò non avviene, la dottrina esige che si analizzi la
+norma violata e si stabilisca se essa rappresenti una prescrizione d’ordine
+oppure un requisito di validità: per la dottrina dominante, la prova in
+questione può essere validamente utilizzata se sarebbe potuta essere acquisita
+anche in ossequio alla norma violata (v. Schmid, Strafprozessrecht, 2. A.,
+Zürich 1993, margin. 608, con rinvii). In caso contrario la norma violata
+rappresenta un requisito di validità della prova assunta (caso scolastico,
+l’audizione di un teste senza preventivo richiamo dell’eventuale diritto di
+rifiutare la testimonianza, v. Schmid ibid.). Schmid medesimo propone invece di
+esaminare se la norma violata intenda proteggere degli interessi dell’accusato
+(o di terzi) di portata tale da esigere la nullità di tutto quanto ottenuto in
+dispregio della norma medesima (loc. cit., margin. 609). Il codice di rito
+ticinese si rifà proprio a questo principio; l’art. 113 cpv. 1 recita infatti:
+“
+Non hanno valore le prove conseguite illecitamente, salvo i casi in cui la
+ponderazione degli interessi imponga una diversa conclusione
+”;
+-
+la legislazione federale (art. 179
+octies cpv. 1 CP) permette alla confederazione ed ai cantoni di mettere in
+atto, a titolo preventivo o repressivo, una sorveglianza ufficiale per mezzo di
+apparecchi tecnici di sorveglianza (ascolto e presa d’immagini), purché sia
+richiesta senza indugio l’approvazione del giudice competente; la messa in
+opera di apparecchi tecnici di sorveglianza sottostà alle stesse condizioni di
+forma della sorveglianza postale e delle telecomunicazioni (G. Piquérez,
+Procédure penale Suisse, n. 2655-2661) tant’è che il codice di procedura civile
+ticinese, agli art. 166 e ss, prevede la procedura da adottare in caso di
+utilizzo da parte degli inquirenti di apparecchi tecnici di sorveglianza,
+procedura sostanzialmente identica a quella prevista dalla LSCPT;
+-
+il CPP è silente a proposito della
+nullità di atti d’inchiesta compiuti attraverso l’uso di apparecchi tecnici di
+sorveglianza senza che ne sia stata richiesta approvazione a questo giudice;
+stante il parallelismo della procedura con quella della LSCPT, per la
+sorveglianza postale e del traffico delle telecomunicazioni, si potrebbe applicare,
+per analogia, quanto previsto all’art. 7 cpv. 4 di tale legge, secondo cui le
+informazioni ottenute mediante una sorveglianza per cui l’approvazione è stata
+negata o non è stata richiesta non possono essere utilizzate né ai fini delle
+indagini né a scopi probatori e l’autorità che ha ordinato la sorveglianza deve
+immediatamente togliere dagli atti del procedimento penale tutti i documenti e
+i supporti di dati e distruggerli; è ben vero che nei lavori preparatori della
+LSCPT i commissari hanno preso in considerazione (definendo i termini del cpv.
+2 e 3 d’ordine e non perentori) la possibilità che una domanda d’approvazione
+leggermente tardiva possa essere comunque presa in considerazione per evitare
+che importati mezzi di prova vengano persi, ma la dottrina è comunque
+dell’avviso che il senso esplicito del cpv. 4 impedisca un’approvazione
+successiva di tali controlli da parte dell’Autorità competente (T. Hansjakob,
+Kommentar zum Bundesgesetz und zur Verordnung über die Ueberwachung des Post-
+und Fernmeldeverkerhrs, St. Gallo 2002, p. 185 ad n° 36), richiesta
+d’approvazione che comunque, nel caso in esame, presupponendo intercettazioni
+ambientali anche su suolo elvetico, non è stata avanzata né dal magistrato
+inquirente direttamente né tramite esecuzione di rogatoria internazionale;
+-
+sia come sia la questione è, ora,
+quale conseguenza pratica abbia tale constatazione: la problematica, per quanto
+di competenza di questo giudice, non è tanto di sapere se tali atti istruttori,
+una volta acquisiti, debbano o meno essere considerati nulli, oppure se le
+irrite modalità della loro effettuazione ne impediscano la successiva
+utilizzazione (“verwertbarkeit”), bensì se sia giustificato e rispettoso dei
+principi di proporzionalità e buona fede concedere proroga della carcerazione
+preventiva cui è astretto __________ per permettere l’acquisizione di mezzi di
+prova assunti in spregio della legge ed in violazione del principio di
+territorialità;
+-
+approvare una proroga del carcere
+preventivo cui è astretto l’accusato per permettere l’acquisizione agli atti
+delle sorveglianze esperite illegalmente dalle Autorità inquirenti __________
+su suolo __________ (poiché di infima importanza per l’inchiesta sembrano
+essere quelle effettuate su suolo __________, tanto da non essere state chieste
+dal PP con la rogatoria), equivarrebbe ad approvare ed assecondare non soltanto
+l’intervento non autorizzato, su territorio __________, delle Autorità __________,
+ma anche un tale modo di procedere da parte del magistrato inquirente, che
+sembrerebbe avere quantomeno sospettato, da ottobre 2005, dell’esistenza di
+intercettazioni ambientali non autorizzate su suolo nazionale per opera degli
+inquirenti __________ e che malgrado ciò non è intervenuto in alcun modo, se
+non per acquisire il risultato di tali intercettazioni ambientali assunte in
+violazione delle norme di diritto internazionale ed interno summenzionate; tale
+comportamento contrasta crassamente con il rispetto del principio della
+legalità e della buona fede processuale, principio che il Tribunale federale ha
+stabilito debba essere rispettato dalle Autorità anche nell’ambito della
+procedura penale, con la conseguenza che il principio della buona fede rende
+criticabile ogni procedere dell’Autorità che viola la legge ai fini di farla
+rispettare (J. Bénédict, Le sort des preuves illégales dans lo procès pénal,
+Lausanne, 1994);
+-
+comunque, oltre a quanto detto
+sopra, v’è da dire che indipendentemente dalla nullità o dall’utilizzabilità o
+meno delle intercettazioni richieste, in un simile contesto giuridico è
+evidente che il fatto che l’inchiesta contro __________ è ormai nelle fasi
+finali (l’ultimo verbale PP è del 21 giugno 2006, e l’ultimo atto istruttorio
+di una certa rilevanza è il sollecito 23 giugno 2006, inviato alle Autorità __________,
+per evasione della rogatoria 11 maggio 2006), con l’accusato reo confesso che
+ammette due viaggi a __________ per procurarsi cocaina e con contraddizioni con
+il correo relative all’esportazione in __________ del carico di cocaina
+trasportato il 29 gennaio 2006 (__________ nega di avere esportato il carico di
+cocaina del 29 gennaio in __________ dopo averlo trasportato con __________ da __________
+a __________) ed al coinvolgimento di _____ nel trasporto del 31 gennaio 2006 (__________
+ha dichiarato di avere trasportato tale carico di cocaina su richiesta di __________
+il quale nega ogni coinvolgimento in questo trasporto), non permette, da solo,
+conclusione alcuna in merito all’esistenza di pericolo di collusione e/o di
+inquinamento delle prove che deve essere sostanziata con riferimento al caso
+specifico (atteggiamento processuale dell’accusato, ammissioni e non,
+accertamenti e prove non ancora consolidate, prove ancora proponibili,
+tipologia delle stesse e possibilità concreta di influenza da parte
+dell’accusato, ecc.), tenuto conto che:
+"
+E' compito del magistrato inquirente (anche nel rispetto dell'obbligo di
+motivazione e della garanzia del contraddittorio - si veda, inoltre, la nota
+alla sentenza 25 marzo 1998, in REP 1998 p. 329), se ne afferma l'esistenza, sostanziare
+la presenza di concreti elementi indicanti pericolo di collusione o
+inquinamento delle prove ("non spetta infatti a questo giudice
+approfondire o addirittura ipotizzare quanto sta dietro … scarna affermazione
+del preavviso negativo" - sentenza GIAR 4 aprile 2002 in re C.);
+"
+(GIAR 23 settembre 2002 in re Y.);
+-
+nel caso in esame il preavviso non
+invoca e non sostanzia minimamente concretezza del pericolo di collusione con
+riferimento a quello che sembra l’unico atto istruttorio ancora da compiere, e
+cioè alla necessità di acquisire quanto richiesto con rogatoria 11 maggio 2006
+per chiarire esattamente le responsabilità di __________ e __________ in merito
+al trasporto di cocaina effettuato il 29 gennaio 2006: a parte l’utilizzabilità
+di tale mezzo di prova, ci si chiede come potrebbe __________ (che già ha
+ribadito la propria versione dei fatti relativi a questo trasporto più volte e
+persino in un verbale a confronto con __________), se messo in libertà
+provvisoria, porre in atto misure collusive a questo proposito;
+-
+inoltre, per i fatti ancora da
+chiarire, sostanzialmente (e a dire del magistrato inquirente) quelli relativi
+al trasporto del 29 gennaio 2006, a poco servirebbero le intercettazioni
+ambientali richieste con rogatoria dal PP, essendosi __________ e __________
+spostati quel giorno con la __________ immatricolata a nome della __________,
+che sembrerebbe non essere stata dotata di apparecchi d’intercettazione;
+-
+per quanto riguarda poi
+l’ulteriore audizione dell’accusato in merito al rapporto di Polizia rassegnato
+dal REF il 14 giugno 2006 (peraltro neppure agli atti), con l’esecuzione di
+eventuali confronti, non entra neppure in linea di conto quale necessità
+istruttoria che potrebbe giustificare una proroga del carcere preventivo visto
+che a __________ non è stata promossa l’accusa per truffa, ricettazione o altri
+reati finanziari (lo stesso magistrato inquirente afferma che “
+occorrerà
+estendergli l’accusa alla ricettazione
+”, cfr. istanza 6 luglio 2006, p. 3)
+– di conseguenza __________ non è detenuto in relazione a questi reati (cfr.
+art. 184 cpv. 3 CPP, secondo cui l’arresto equivale a promozione dell’accusa, e
+174 CPP, per cui l’istruzione ed il giudizio si estendono soltanto al fatto e
+alle persone indicate nella promozione dell’accusa) – e anche fosse non vi
+sarebbe pericolo di collusione (né sostenuto dal PP, che fa semplicemente
+riferimento all’”
+esecuzione di eventuali confronti
+”, né evincibile dagli
+atti), mentre che, utilizzare ora fattispecie note da tempo agli inquirenti
+(almeno dall’arresto di __________) per prorogare la detenzione preventiva cui
+è astretto l’accusato equivarrebbe ad una patente violazione del principio di
+celerità;
+-
+pure poco sostanziata dal
+magistrato inquirente, e negata dalla difesa dell’accusato con altrettante scarne
+motivazioni, è la presenza del pericolo di recidiva;
+-
+notoriamente, il pericolo di
+recidiva consiste nel rischio che l'accusato in libertà commetta ulteriori
+reati o continui la commissione di quelli per cui è stato arrestato; come per
+gli altri motivi di arresto, anche il pericolo di recidiva deve essere concreto
+e risultare dall'insieme delle circostanze (DTF 105 Ia 26). Il pericolo di
+recidiva ex art. 95 CPP è nozione più larga di quella dell'art. 67 CP:
+l'assenza di precedenti specifici non basta, da sola, ad escluderlo, così come
+non basta, sempre da solo, a fondarlo il fatto che prima dell'arresto siano
+stati commessi più reati ( DTF 12 agosto 1981 in re C.; DTF 123 I 268; SJ 1981,
+pag. 380 a 382; BJP 1989 n. 671; CRP 17 novembre 2005 in re M., 60.2005.357; G.
+Piquerez, Procédure pénale suisse, n. 2358; N. Schmid, Strafprozessrecht, 4.
+Auflage, n. 701b; Rusca/Salmina/Verda, Commentario CPP, pag. 327 ss.; CPP Vaudoise
+annotato, Losanna 2004, nota 2.2.5 ad art. 59). Anche la gravità del reato,
+condizione la cui assenza è comunque determinante (G. Piquerez, op. cit., n.
+2358, nota 84), da sola non basta (sentenza CRP citata, cons. 8 e riferimenti).
+Occorre che l'insieme delle circostanze (precedenti, comportamento in
+istruttoria, personalità, modalità di commissione, condizioni socio-famigliari,
+eventuale carattere deterrente del procedimento in corso, ecc.) imponga una
+prognosi molto sfavorevole (DTF 21 gennaio 2005, 1P.750/2004);
+-
+il magistrato inquirente sostiene
+l’esistenza del pericolo di recidiva considerata la “
+particolare assenza di
+scrupoli che si denota nell’attuazione di un importante traffico di
+stupefacenti per fine di lucro
+”;
+-
+non emergono dagli atti elementi,
+e neppure il PP ne adduce di concreti, che facciano pensare ad un ritorno di __________,
+una volta messo in libertà provvisoria, ad un’attività di trasporto di cocaina
+come quella che ha portato al suo arresto. Dal casellario giudiziale risulta
+una condanna a 3 anni di reclusione per rapina e complicità in furto del 13
+novembre 1979 e null’altro nei 26 anni successivi, condanna che giustamente il
+PP neppure menziona per sostanziare il pericolo di recidiva. Soltanto verso
+fine 2005, forse perché
+s
+i trovava in difficoltà finanziare, __________ ha
+accettato di prendere parte ad un’attività di trasporto di cocaina. Certo il
+traffico cui ha partecipato appare piuttosto importante, per non dire
+eccezionale, per i quantitativi in gioco, ma il carcere preventivo sinora
+sofferto, nonché la prospettiva di una condanna di una certa importanza (sicuramente
+superiore al carcere preventivo sin qui sofferto e da espiare) – condanna che
+potrebbe solo aggravarsi in caso di recidiva – potranno essere considerati
+dall’istante quale elemento deterrente per una ripresa dell’attività criminale,
+ridimensionando di molto i timori per la sussistenza del pericolo di recidiva
+che non appare né concreto né liquido; va poi sottolineato il favorevole
+atteggiamento processuale sinora tenuto dall’accusato, che fa sperare che egli
+abbia finalmente compreso che il riavvio, se posto in libertà provvisoria,
+dell’attività che ha portato al suo arresto, potrebbe avere delle conseguenze
+processuali molto gravi davanti ad una Corte di merito; all’accusato ed al suo
+difensore deve essere sin d’ora chiaro che, nel rispetto dell’autonomina della
+Corte del merito, v’è la probabile prospettiva di dovere espiare altro carcere
+chiuso, problematico nell’ottica del reinserimento dell’accusato: a loro di
+valutare se non sia meglio, vista la situazione, chiedere l’anticipata
+espiazione, ciò che garantirà fra l’altro un processo in tempi brevi;
+-
+come detto la proroga richiesta,
+in quanto volta ad acquisire ed utilizzare atti istruttori (se realmente
+effettuati) ottenuti dalle Autorità __________ in violazione della legge e del
+principio della territorialità, non è rispettosa dei principi di
+proporzionalità, di legalità e della buona fede processuale, e non può essere
+accordata, considerata inoltre l’assenza di preminenti interessi pubblici quali
+il pericolo di collusione e di recidiva che ne giustificherebbero il suo
+perdurare.
+P.Q.M
+viste le norme applicabili, in particolare gli artt.
+19 cifra 2 LFStup., 95 ss., 102, 103, 280ss e 284 CPP,
+decide
+1.
+L'istanza
+è respinta.
+§.    Di
+conseguenza, il carcere preventivo cui è astretto __________ non è prorogato
+e verrà a scadere il
+1°
+agosto 2006 (compreso)
+.
+2.
+Non si
+prelevano tasse e spese.
+3.
+Contro la presente decisione è dato reclamo alla
+Camera dei ricorsi penali, Lugano, entro 10 (dieci) giorni dall'intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
