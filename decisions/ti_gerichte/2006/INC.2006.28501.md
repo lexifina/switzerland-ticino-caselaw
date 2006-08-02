@@ -1,0 +1,318 @@
+---
+decision_id: "ti_gerichte_INC.2006.28501"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.28501"
+decided: "2006-08-02"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=89978&nX40_KEY=4711182&nTrefferzeile=12&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/312.0/art-184.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2006.28501
+
+## Regeste
+
+Prove
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 02.08.2006 INC.2006.28501
+Tessin Il Giudice dell'istruzione e dell'arresto 02.08.2006 INC.2006.28501
+Ticino Il Giudice dell'istruzione e dell'arresto 02.08.2006 INC.2006.28501
+
+Prove
+
+Incarto n.
+INC.2006.28501
+Lugano
+2 agosto 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sul reclamo presentato il 16 giugno
+2006 da
+__________
+contro
+la decisione 2 giugno 2006 emanata dal Procuratore
+pubblico Giovan Maria Tattarletti in materia di prove;
+preso atto delle osservazioni 21
+giugno 2006 del coaccusato __________ e 20 giugno 2006 della parte civile __________;
+letti ed esaminati gli atti di
+cui all'incarto MP __________;
+ritenuto e considerato,
+in fatto
+A.
+In data 25 febbraio 2006 la __________
+(in seguito __________) ha segnalato al Ministero pubblico che un documento
+ufficiale di una ditta partecipante - __________ - ad un concorso di impresa
+generale assoggettato alla legge cantonale sulle commesse pubbliche è stato
+modificato dopo l'apertura ufficiale, precisando che il CdA è giunto a tale
+constatazione su segnalazione dell'__________, responsabile dell'__________, e
+dopo aver sentito l'__________ e __________, il quale ha confermato che sono
+avvenute delle irregolarità e che lui stesso, nell'ambito delle sue funzioni,
+ha sollecitato la ditta concorrente ad apportare dette modifiche.
+Il Procuratore pubblico dopo aver
+proceduto alla perquisizione della sede della __________ con relativo sequestro
+della documentazione relativa all'offerta per il concorso in questione (ordine
+di perquisizione e sequestro 27 febbraio 2006), all'acquisizione della
+documentazione prodotta dalla __________ e alle audizioni, dell'__________
+quale denunciato, dell'__________ - dipendente della __________ che ha
+materialmente provveduto alle modifiche dell'offerta in questione - quale
+indiziato, di __________ - presidente del CdA della __________ - in qualità di
+indiziato, dell'__________ quale teste e dell'avv. __________ - direttrice
+della __________ - quale teste, con decisioni 11 maggio 2006 ha promosso
+l'accusa nei confronti dei primi tre per titolo di falsità in documenti e
+soppressione di documenti per avere, a __________ il 22 e 23 febbraio 2006, in
+correità tra loro
+"al fine di nuocere al patrimonio o ad altri diritti
+di una persona e/o di procacciare a sé o ad altri un indebito profitto,
+alterato rispettivamente fatto alterare un documento vero, facendone altresì
+uso, e meglio per avere nell'ambito del concorso pubblico promosso dalla
+committente __________ e concernente l'edificazione di un edificio
+d'appartamenti sul mappale __________, proceduto rispettivamente fatto
+procedere, dopo la scadenza del termine fissato per l'inoltro delle offerte
+(mercoledì 22 febbraio 2006 ore 14.30), alla parziale modifica - mediante
+completazione o sostituzione di alcune pagine - dell'offerta presentata dalla
+ditta __________, nonché alla soppressione delle pagine sostituite"
+.
+B.
+In data 1 giugno 2006 l'__________,
+per il tramite del proprio legale, ha chiesto al Procuratore pubblico il
+richiamo di tutte le offerte presentate al concorso ed i risultati del relativo
+controllo aritmetico - documentazione che sarebbe importante per corroborare
+quanto dichiarato dall'accusato stesso in merito alle lacune riscontrate nelle
+altre offerte, rispettivamente per valutare la rilevanza formale di dette
+lacune -, nonché delle decisioni prese nell'ambito del concorso e di eventuali
+ricorsi interposti contro tali decisioni - in quanto sarebbe importante
+disporne -.
+Richieste respinte dal magistrato
+inquirente con decisione 2 giugno 2006, argomentando sostanzialmente che si
+tratterebbe di prove non rilevanti né pertinenti per l'inchiesta in corso,
+inoltre la richiesta di acquisire agli atti le decisioni adottate nel concorso
+e gli eventuali ricorsi presentati contro le stesse non sarebbe neppure
+motivata.
+C.
+Avverso la suddetta decisione è
+tempestivamente insorto l'__________, riconfermandosi nell'istanza 1 giugno
+2006, ad eccezione della richiesta di acquisizione della documentazione
+relativa ai risultati del controllo aritmetico delle offerte. In particolare,
+il reclamante ribadisce la necessità di acquisire agli atti tutte le altre
+offerte presentate al concorso in questione, in quanto tale documentazione
+permetterebbe, da un lato, di suffragare la veridicità di quanto affermato dal
+reclamante stesso in merito alle lacune constatate in più offerte, ciò che
+consentirebbe di meglio valutare l'aspetto soggettivo del reato, e, dall'altro,
+di valutare la rilevanza di tali errori dal profilo amministrativo, ritenuto
+comunque che l'errore contenuto nell'offerta della __________ non ha avuto
+ripercussioni sul prezzo globale dell'offerta e non avrebbe comunque avuto
+quale conseguenza quella di escludere la società dal concorso. Prevedendo che
+la __________ escluderà probabilmente le ditte le cui offerte presentano
+lacune, il reclamante ritiene opportuno poter disporre di eventuali ricorsi
+contro queste decisioni e delle decisioni su questi ricorsi delle autorità
+amministrative, ciò anche al fine di poter pienamente valutare se vi sarebbe
+stato un indebito vantaggio o anche solo un indebito miglioramento nella
+posizione dell'offerente. In conclusione
+"oltre a dimostrare la
+veridicità delle affermazioni del mio cliente, questi documenti e la decisione
+della __________, così come eventuali ricorsi e decisioni del Tribunale
+amministrativo, sono necessari per poter valutare dal profilo amministrativo la
+loro reale portata, eventualmente con l'aiuto di un esperto del settore, e
+pertanto valutare pure la portata dell'errore riscontrato nell'offerta __________
+".
+D.
+In sede di osservazioni la __________
+ed il Procuratore pubblico si sono entrambi pronunciati per la reiezione del
+gravame, il coaccusato __________ per il suo accoglimento, mentre l'__________
+è rimasto silente.
+Delle relative allegazioni si
+dirà, per quanto necessario, nei considerandi in diritto.
+In diritto
+1.
+La legittimazione dell'__________,
+accusato nel procedimento nell'ambito del quale è stata emanata la decisione
+impugnata nonché destinatario della stessa, è pacifica. Il reclamo, tempestivo,
+è quindi ricevibile in ordine.
+2.
+In termini generali per l’assunzione di prove
+proposte dalle parti nel corso dell’inchiesta valgono i seguenti principi.
+a)
+Gli art. 60
+cpv. 1 (per la difesa) e 79 cpv. 1 CPP (per la parte civile), stabiliscono la
+facoltà di proporne in ogni tempo nel corso delle indagini di pertinenza del magistrato
+inquirente. Di massima, il Procuratore pubblico è tenuto a pronunciarsi in
+merito solo a conclusione dell’istruzione formale nel contesto di quanto
+disposto dall’art. 196 CPP (v. Messaggio aggiuntivo concernente la revisione
+totale del Codice di procedura penale del 20 marzo 1991, pag. 81, ad art. 58
+ter risp. 61 bis del disegno di legge, per il rinvio del commento all’art. 58
+quinquies risp. 61 quater del disegno di legge e all’art. 63 ter risp. 69 del
+disegno di legge: cfr. decisione 9 giugno 1995 in re F.M., GIAR 1093.93.10, e
+riferimenti), ma in presenza di anticipata decisione del magistrato inquirente
+è dato reclamo nelle vie ordinarie stabilite dagli art. 280 ss. CPP, ritenuto
+tuttavia che non potranno poi più trovare udienza in sede di deposito degli
+atti, a norma del citato art. 196 cpv. 1 CPP, complementi di prova in
+precedenza decisi e definitivamente respinti, per quanto concerneva necessità e
+contenuti dell’inchiesta (cfr. sentenze 15 luglio 1991 in re F.B., CRP 144/91,
+e 7 ottobre 1991 in re F.M., CRP 210/91; decisione 3 novembre 1993 in re G.G.,
+GIAR 862.93.1), fatte beninteso salve nuove emergenze (v. decisione 17 agosto
+1994 in re A.A., GIAR 209.94.12).
+b)
+I principi in base dei quali si
+deve determinare se la prova debba essere assunta, sono identici sia che la
+decisione avvenga in corso d'istruttoria, sia che avvenga alla conclusione
+della stessa (e nel termine del deposito degli atti).
+"Per meritare di essere assunte, le prove
+proposte dalle parti contestualmente al deposito atti (art. 196 CPP), o in
+altro momento dell’istruttoria (artt. 60 cpv. 1 e 79 cpv. 1 CPP), devono
+rispettare tre concorrenti ordini di considerazione: esse devono essere
+motivate per quanto attiene al loro oggetto ed al loro scopo in diretta
+connessione con la fattispecie inquisita; tali mezzi di prova devono avere i
+requisiti della novità, della rilevanza e della pertinenza alle successive
+conclusioni di competenza del Procuratore Pubblico, dapprima per decidere se
+promuovere l’accusa oppure non far luogo al procedimento e poi (dopo
+conclusione dell’istruzione formale) se decretare messa in stato d'accusa o
+abbandono, sino se del caso a quelle del giudice di merito; per quest’ultima
+evenienza, le stesse prove devono essere di difficile produzione al dibattimento,
+avute presenti le finalità dell’art. 189 CPP, inteso appunto
+tra l’altro ad assicurarne la non interrotta
+assunzione (v. sentenza 24 gennaio 1990, inc. CRP 337/89; v. decisioni 17
+febbraio 1993 in re L.P., inc. GIAR 135.93.1; 3 novembre 1993 in re G.G., inc.
+GIAR 862.93.1, e 14 giugno 1995 in re F.M., inc. GIAR 1093.93.5). Se, in
+particolare per l’accusato (ma anche per la parte civile), la facoltà di
+proporre mezzi di prova è espressione del diritto di essere sentito ai sensi
+dell’art. 4 Cost. fed. (ora, art. 8 cpv. 1 della nuova Cost. fed.; v., da
+ultimo, DTF 124 I 49, consid. 3a p. 51; DTF 121 I 306, consid. 1b p. 308) e del
+“fair trial” ai sensi dell’art. 6 CEDU (v. Frowein/Peukert, EMRK-Kommentar, 2.
+Aufl. Kehl/Strassburg/Arlington 1996, nota 99 ad art. 6 CEDU), il giudice del
+merito (ed il magistrato inquirente) è tenuto, in applicazione delle norme
+procedurali corrispondenti, a considerare rispettivamente ammettere soltanto
+quei mezzi di
+prova che “nach
+seinem richterlichen Ermessen entscheidungserheblich sind” (Frowein/Peukert,
+loc. cit. p. 231). Con riferimento specifico all’audizione di testi, il
+magistrato può rifiutare la prova proposta “wenn er die zu erwartende Antwort
+bzw. Aussage nach seiner freien Ermessensentscheidung für die Wahrheitsfindung
+nicht für beachtlich hält” (Frowein/Peukert, loc. cit., nota 202 ad art. 6
+CEDU, con rinvii), nelle parole di Niklaus Schmid (Strafprozessrecht, 3.
+Aufl. Zürich 1997, margin. 270, con rinvii
+a DTF 103 Ia 491 et al. in nota 321) “wenn sie den rechtlich relevanten
+Sachverhalt als genügend geklärt erachten”.
+Di conseguenza, non è data violazione dell’art. 6 CEDU
+se il giudice del merito rifiuta un mezzo di prova dopo averne esaminato la
+pertinenza (v. Frowein/Peukert, loc. cit., nota 203 ad art. 6 CEDU, con rinvio
+al noto caso Vidal; come qui, v. decisione 17 giugno 1998 in re F.F., inc. GIAR
+55.98.1 consid. 1). Non va, inoltre, dimenticato che la fase in cui si colloca
+la presente discussione del complemento probatorio in questione è quella
+predibattimentale, finalizzata in primo luogo a permettere alla pubblica accusa
+di determinarsi sulle questioni se promuovere l’accusa o meno, indi se deferire
+l’accusato alla Corte competente oppure se pronunciare l’abbandono del
+procedimento (art. 184 cpv. 1 CPP, rispettivamente artt. 196 cpv. 1 e 198 cpv.
+1 CPP combinati). Per costante dottrina e giurisprudenza, invece, l’eventuale
+utilità o opportunità della prova proposta nell’ottica del giudice del merito è
+elemento a favore della sua assunzione già nella fase predibattimentale
+unicamente qualora l’amministrazione di tale prova in sede dibattimentale sia
+impossibile, o vi sia concreto rischio che lo diventi."
+(GIAR 21 giugno
+2001 in re C.)
+c)
+Quanto sopra espresso evidenzia
+l’importanza di una corretta e sufficiente motivazione della richiesta di
+complemento, in relazione ad ogni prova proposta, per consentire alle
+controparti e all’autorità di prendere adeguata posizione, rispettivamente
+decisione (sentenza 20 luglio 1994 della Camera dei ricorsi penali in re D.T.,
+CRP 249/94); in materia di prove, occorre spiegarne l’oggetto e lo scopo
+perseguito, ai fini della determinazione di effettiva rilevanza e pertinenza
+per le successive conclusioni del Procuratore pubblico, non bastando che una
+prova proposta sia “nuova” e in qualche modo connessa con l’inchiesta per
+meritare di essere assunta (REP 1998 n. 122); la motivazione non può essere
+sottintesa, bensì deve supportare i requisiti indicati più sopra (sentenza 30
+giugno 2003 in re W., GIAR 54.2002.11); non è sufficiente, ad esempio, indicare
+che il testimone, di cui si chiede l’audizione dovrebbe essere a conoscenza di
+un fatto (decisione 9 maggio 1994 in re R.A., GIAR 336.94.1) o “
+potrebbe
+confermarlo
+”. In sostanza la corretta verifica dei presupposti di novità, pertinenza
+e rilevanza presuppone una motivazione non sommaria e la profonda conoscenza dell'incarto
+non può limitarsi ad una presunzione per terzi, ma deve concretizzarsi nella
+motivazione delle richieste. Inoltre, in materia di prove, è possibile che
+l'obbligo di motivazione, e meglio, la sua estensione, possa essere valutato
+diversamente per la richiesta inviata al magistrato inquirente che conosce e
+gestisce l'inchiesta ed i relativi atti e per il reclamo diretto al GIAR,
+autorità da considerarsi "terza "per rapporto all'istruttoria come
+tale.
+3.
+Preliminarmente occorre precisare
+quanto segue.
+Nel petitum il reclamante chiede
+il richiamo delle offerte formulate, di eventuali decisioni della ______ e di
+eventuali ricorsi interposti contro tali decisioni.
+A pag. 2 del reclamo si chiede
+anche l'acquisizione di eventuali decisioni dell'autorità amministrativa sugli
+eventuali ricorsi interposti contro le decisioni adottate dalla __________:
+trattandosi di richiesta formulata per la prima volta dinnanzi a questo giudice
+- non oggetto dell'istanza 1 giugno 2006 - peraltro neppure indicata nel
+petitum, la stessa deve essere dichiarata irricevibile.
+La decisione del Procuratore
+pubblico merita conferma.
+Per quanto concerne la richiesta
+di acquisire agli atti di tutte le offerte formulate nell'ambito del concorso
+pubblico in questione, si rileva che non vi è alcuna contestazione sul fatto
+che più di un'offerta presentava qualche lacuna o mancanza. In particolare, l'__________
+preso atto delle dichiarazione dell'__________ secondo cui su sette offerte
+soltanto due erano complete, cioè quelle della __________ e della __________,
+le ha confermate. Peraltro, anche nel reclamo qui in esame si evidenzia che
+soltanto due offerte
+"non riportavano alcun errore formale".
+In
+siffatte circostanze non sussiste alcuna necessità di suffragare le
+affermazioni del reclamante in proposito.
+Né tantomeno si giustifica
+acquisire agli atti tutte le offerte presentate, unitamente alle eventuali
+decisioni adottate dalla __________ e gli eventuali ricorsi interposti contro
+le stesse, al fine di valutare dal profilo amministrativo la rilevanza
+degli/delle errori/lacune in esse contenute. Innanzitutto le offerte presentate
+da altre ditte non sono oggetto di alcuna ipotesi di reato ed in quanto tali
+non possono essere ritenute rilevanti per il procedimento in corso, che, giova
+ribadire, si riferisce alle modifiche apportate all'offerta della __________
+dopo l'apertura. In secondo luogo, dagli atti risulta che l'__________ ha
+dichiarato che la mancata indicazione delle percentuali di sconto per lavori a
+regia ordinati dal committente (211.8, p. 35/36 del capitolato d'appalto)
+poteva comportare l'esclusione della ditta e di aver spiegato a __________ che
+il mancato inserimento delle percentuali avrebbe potuto portare
+all'annullamento dell'offerta e che senza le modifiche apportate l'offerta __________
+rischiava di essere esclusa dall'appalto (verb. PP 28 febbraio 2006) e che
+anche __________ ha ammesso che la sera del 22 febbraio 2006 è stato preso in
+considerazione il rischio che se non fosse stata apportata la modifica,
+l'offerta avrebbe potuto essere scartata, confermando che l'__________ quella
+sera gli avrebbe comunicato che la mancata indicazione delle percentuali di
+sconto avrebbe potuto portare all'annullamento dell'offerta (cfr. verb. PP 3
+aprile 2006). In siffatte circostanze, poco importa la portata formale di dette
+lacune dal profilo amministrativo: ciò che conta è che sia il reclamante, sia __________
+hanno concordemente dichiarato di avere preso in considerazione, prima della
+modifica dell'originale dell'offerta, l'ipotesi che le indicazioni mancanti
+avrebbe potuto comportare l'esclusione della ditta, o quantomeno il rischio di
+esclusione, dal concorso.
+4.
+Alla luce di quanto precede, il
+reclamo va dunque respinto, con la presente decisione definitiva (art. 284 cpv.
+1 lett. a CPP), tassa e spese giudiziarie (art. 39 lett. f TG), nonché
+ripetibili correlate alla soccombenza.
+Visti gli art. 60, 280, 281 e 282
+CPP,
+decide
+1.
+Il
+reclamo, per quanto ricevibile, è respinto.
+2.
+La
+tassa di giustizia di fr. 300.--, e le spese di fr. 140.--, sono a carico del
+reclamante, che rifonderà alla __________ fr. 250.-- a titolo di ripetibili.
+3.
+La
+presente decisione è definitiva.
+Intimazione a (con copia delle osservazioni delle parti):
+giudice
+Ursula Züblin
