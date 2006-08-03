@@ -1,0 +1,459 @@
+---
+decision_id: "ti_gerichte_INC.2006.31104"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.31104"
+decided: "2006-08-03"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=89979&nX40_KEY=4711243&nTrefferzeile=78&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2006.31104
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 03.08.2006 INC.2006.31104
+Tessin Il Giudice dell'istruzione e dell'arresto 03.08.2006 INC.2006.31104
+Ticino Il Giudice dell'istruzione e dell'arresto 03.08.2006 INC.2006.31104
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2006.31104
+Lugano
+3 agosto 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull'istanza di libertà provvisoria
+presentata il 25/26 luglio 2006 da
+__________
+e qui trasmessa con preavviso negativo 28/31 luglio 2006 dal
+Procuratore pubblico Rosa Item
+preso atto che la difesa non ha
+presentato osservazioni al preavviso negativo;
+visto l'inc. MP __________;
+ritenuto
+in fatto
+A.
+Al termine del verbale 28 giugno
+2006 il Procuratore pubblico ha ordinato l'arresto di __________ per i reati di
+violenza carnale ai danni di __________ - fatti avvenuti a __________ verso le
+3.00 del 28 giugno 2006 presso l'abitazione di __________ -, abuso di impianti
+di telecomunicazione, danneggiamento, ingiuria, contravvenzione alla LFStup e
+furto (cfr. rapporto di polizia 28.06.2006, AI 1). Con riferimento al reato di
+violenza carnale, nel suddetto verbale __________ ha dapprima negato, per poi
+ammettere di avere abusato sessualmente di __________, la quale avrebbe cercato
+di difendersi fisicamente, nonché verbalmente avrebbe chiesto aiuto.
+L'arresto è stato confermato il
+giorno successivo da questo giudice, in considerazione dell'esistenza, oltre
+che di seri e concreti indizi di colpevolezza, anche di bisogni
+dell'istruzione, legati alla necessità di chiarire l'esatta dinamica dei fatti.
+In tale occasione l'accusato ha negato ogni addebito, sostenendo di avere avuto
+un rapporto consenziente con __________; a suo dire, la polizia avrebbe
+insistito affinché egli ammettesse di avere violentato la ragazza.
+Nel prosieguo dell'inchiesta __________
+ha continuato a ribadire di non avere violentato __________.
+B.
+Con la presente istanza (25
+luglio 2006) __________, per il tramite del proprio legale, chiede di essere
+immediatamente posto in libertà provvisoria. Dopo aver rilevato che l'accusato
+è incensurato, la difesa, che non contesta l'esistenza di seri e concreti
+indizi di colpevolezza, rileva che i bisogni istruttori possono essere
+pienamente garantiti anche con l'accusato a piede libero, tanto più che nel
+caso in esame non sussistono né pericolo di fuga, trattandosi di cittadino __________,
+né tantomeno pericolo di inquinamento delle prove
+"ritenuto che
+l'inchiesta è già stata avviata e che al difensore non risulta che gli
+inquirenti debbano ancora udire testimonianze rilevanti, malgrado vi sia una
+differenza di versioni tra quanto indicato dalla presunta vittima del reato
+principale di violenza carnale e quanto indicato dall'accusato. Un confronto
+tra il qui istante e la presunta vittima è inoltre stato aggiornato per giovedì
+27 luglio p.v.".
+In siffatte circostanze il mantenimento della
+carcerazione preventiva sarebbe contrario al principio di proporzionalità ed,
+inoltre, impedirebbe all'accusato, muratore in proprio, di ultimare i lavori
+già iniziati, rispettivamente di trovarne di nuovi, con conseguente ulteriore
+peggioramento della sua già difficile situazione economica.
+Il 27 luglio 2006 ha avuto luogo
+dinanzi al Procuratore pubblico il confronto fra __________ e __________, i
+quali si sono riconfermati nelle rispettive e tra loro contrastanti versioni
+dei fatti.
+C.
+Il Procuratore pubblico ha
+formulato preavviso negativo (28 luglio 2006).
+Evidenziata l'esistenza di seri e
+concreti indizi di colpevolezza a carico di __________, il magistrato
+inquirente rileva l'esistenza di ulteriori bisogni istruttori, e meglio la
+necessità di procedere all'audizione di tre testi (già sentiti in Polizia) e di
+altri testi, quindi alla successiva contestazione all'accusato. Inoltre sarebbe
+dato un concreto pericolo di collusione non soltanto con detti testi, ma anche
+e soprattutto nei confronti di __________, visto anche l'atteggiamento
+negatorio dell'accusato.
+La carcerazione sin qui sofferta
+e quella ancora da esperire sarebbe rispettosa del principio di
+proporzionalità, tenuto conto della delicatezza dell'indagine e della gravità
+dei fatti addebitati a __________.
+La difesa, come detto, non ha
+presentato osservazioni nel termine assegnatole da questo giudice.
+E considerato
+in diritto
+1.
+L'accusato, detenuto, è
+pacificamente legittimato a presentare istanza di libertà provvisoria.
+Il preavviso e l'incarto sono
+stati trasmessi tempestivamente ai sensi dell'art. 108 CPP. in particolare, il
+preavviso è stato inviato per posta il 28 luglio 2006 (cfr. timbro postale) e
+l'incarto è stato recapitato "brevi manu" nella mattina del 31 luglio
+2006, in pratica contestualmente alla ricezione del preavviso inviato per posta
+(in proposito cfr. CRP 60.2005.323, sentenza 11.10.2005 in re C.B.).
+Il termine di cui all'art. 108
+cpv. 2 CPP, avendo questo ufficio ricevuto quanto sopra lunedì 31 luglio 2006,
+scade giovedì 3 agosto 2006 ex art. 20 cpv. 2 CPP.
+2.
+I principi che reggono la materia,
+pur se noti alle parti, vengono qui di seguito riproposti.
+L'art. 95 CPP – corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 – dopo evidenza al cpv. 1 del principio secondo cui l’accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo ai sensi dell’art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali – per quanto qui concerne – i bisogni
+dell’istruzione, con particolare riguardo al pericolo di collusione e di
+inquinamento delle prove che, sia detto qui a futura memoria – può continuare
+ad esistere fino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27 ,
+pag. 32, nota 3), tra altri possibili, essendovi quello della tutela
+dell’ordine pubblico (REP 1998 n. 105).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 consid. 3) in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali – nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggiore rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all’arbitrio (REP
+1980 pag. 128).
+(per tutte: sentenza GIAR
+21.12.2001 in re G., Inc. 520.2001.5).
+3.
+L'esistenza di gravi e concreti
+indizi di colpevolezza - peraltro neppure contestata dalla difesa - deve essere
+verificata d'ufficio, pur nei limiti di competenza di questo giudice derivanti
+da un lato dalla sua funzione - che è quella di esaminare l’esistenza dei
+presupposti per il mantenimento della misura restrittiva della libertà
+personale, e non di valutare nella sostanza l’esistenza di un reato -, e
+dall’altro - ma in maniera strettamente congiunta con quanto si viene di dire -
+dall’inopportunità di considerazioni di merito premature e, soprattutto, di
+competenza delle sedi di giudizio.
+Nel presente caso sono certamente
+dati sufficienti indizi di colpevolezza a carico di __________ per il reato
+principale, quello di violenza carnale, e meglio, quelli riassunti dal PP nel
+corso del verbale 12 luglio 2006 (AI 15):
+"
+La PP
+mi fa prendere atto e
+mi contesta
+che oltre alla versione di __________, di essere stata violentata
+da me, in concreto che si sia trattato di violenza carnale, emerge in modo
+univoco e convergente anche da diverse altre risultanze:
+- innanzitutto da quanto raccontato dalla vittima in
+modo coerente e credibile;
+- dal fatto che non appena io sono
+entrato in casa, la sig. __________, vicina di casa – che aveva sentito battere
+le persiane in modo abbastanza pesante e si era quindi alzata dal letto - ha
+sentito __________ dire “
+lasciami, lasciami mi fai male
+” poi ha sentito
+dei colpi, poi ha sentito __________ piangere e respirare in maniera molto
+forte. “
+Mi sembrava di sentire un lamento come di quelli che si vedono nei
+film quando stanno per strozzare qualcuno
+”;
+- dal fatto che dopo aver introdotto il
+pene nella vagina di __________, io non abbia continuato fino a raggiungere
+l’orgasmo per la reazione di __________ che ha cercato in tutti i modi di
+sottrarsi alla violenza riuscendo infine a liberarsi;
+- dal fatto che io sono scappato e che non mi sono
+fermato neppure all’Alt della Polizia;
+- dal fatto che per scappare non mi
+sono nemmeno infilato le mutande, ritrovate dalla polizia a casa di __________,
+in cucina.
+La PP
+mi fa presente che non ci sarebbe stato alcun motivo
+per scappare se si fosse trattato di un rapporto “consenziente”;
+- dal fatto che io stesso ho ammesso
+che da quando __________ mi ha lasciato e cioè dal mese di aprile 2006, l’ho
+chiamata ripetutamente, ad ogni ora sul natel, l’ho chiamata sul posto di
+lavoro ecc., le ho mandato svariati sms ecc., l’ho seguita con la macchina, in
+una parola, come mi contesta
+la PP
+, l’ho letteralmente perseguitata;
+- la sequenza stessa dei miei
+spostamenti della sera dei fatti, indica che vi è stato un crescendo delle mie
+azioni culminate nella violenza carnale. Io stesso ho ammesso di essere
+passato, la sera del 28.06.2006, a casa di __________
+per vedere se c’era __________
+“….spiando per cercare di capire se __________ era li. Infatti ho capito che __________
+era a casa di __________ A quel punto dentro di me si è scatenata la rabbia.
+In quel momento ho visto
+che __________ stava tagliando della cocaina sottoforma di sasso. Lo stesso
+chiedeva a __________ se ne voleva.
+Da parte mia data la situazione sono partito in
+preda alla collera.
+A bordo quindi della mia vettura mi sono diretto a __________
+dove si trova la cantina del padre di __________, praticamente è una casa
+adibita a deposito per il vino.
+Sapendo dove sono nascoste le chiavi per avere
+l’accesso ai locali, ecco che mi sono introdotto ed ho asportato circa una
+decina di cartoni di vino. Mi sembra ci possano essere 12 bottiglie di vino.
+Ho preso inoltre della grappa.
+Tutte queste bottiglie le ho caricate sulla mia
+vettura e sono partito in direzione di __________, comunque __________, zona __________.
+Qui ho scaricato le bottiglie nell’appartamento di mio
+fratello. Preciso che in tale appartamento non abita mio fratello ma lo stesso
+occupa l’appartamento li accanto.
+A questo punto mi sono diretto a casa di __________.
+Mi intenzione era di mettere a posto la storia con
+lei.
+Il motivo per il quale ho sottratto le bottiglie era
+per fare una ripicca; volevo punire __________ per quanto mi stava facendo. Ero
+colmo di rabbia in quel momento”
+Le dichiarazioni di innocenza
+dell'accusato, con riferimento al reato principale non consentono di sovvertire
+siffatta conclusione, tanto più che lo stesso, dopo aver inizialmente ammesso
+le proprie responsabilità, dichiarandosi pure pentito di quanto aveva fatto (cfr.
+verbale pol. 28.06.2006), ha ritrattato - sulla base di differenti e poco
+credibili giustificazioni alla ritrattazione (pressione della polizia,
+stanchezza, confusione, perché gli era stato riferito che
+"che la PP è
+una persona severa;
+cfr. verb. PP 12.07.2006
+) -
+fornendo una
+versione nient'affatto convincente: egli avrebbe estratto il pene dalla vagina
+che
+"si è afflosciato perché vedevo che __________ aveva piacere del
+rapporto sessuale",
+a giustificazione della ferita al naso e delle
+varie escoriazioni e graffi riportati ha dichiarato che __________ si sarebbe
+arrabbiata
+"perché ho estratto il pene dalla vagina perché vuol farmela
+pagare per qualche cosa, non so per cosa",
+in merito alle urla udite
+dai vicini ha asserito
+"nel momento in cui io ho avuto il rapporto
+sessuale con __________, lei ci stava, era consenziente, Preciso che lei si è
+messa a urlare solo dopo il rapporto sessuale quando io ho estratto il pene
+dalla vagina"
+, precisando pure che
+sarebbe stata __________ a
+picchiarlo e non viceversa
+(cfr. verb. PP 12.07.2006). Ancora nel corso
+del verbale di confronto con __________, __________, ha negato di averla
+violentata riconfermandosi nella propria versione dei fatti.
+Per contro la versione dei fatti
+data da __________ appare lineare, disinteressata e corroborata da riscontri
+oggettivi.
+Per quanto riguarda gli altri
+reati addebitati al qui istante, gli stessi, peraltro di minore gravità
+rispetto a quello di violenza carnale, sono stati sostanzialmente da lui
+ammessi.
+4.
+In merito ai bisogni istruttori
+atti a giustificare la detenzione preventiva ed il suo perdurare, vi é consolidata
+giurisprudenza (e dottrina):
+“In relazione ai bisogni istruttori, atti a
+giustificare la misura restrittiva della libertà personale, occorre ricordare
+che questi non s'identificano semplicemente con gli atti istruttori in quanto
+tali, o con gli accertamenti (ancora) da effettuare, bensì con il pericolo di
+collusione o d'inquinamento delle prove che (eventualmente) espone a rischio la
+corretta raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale
+suisse, ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697
+ss.; RDAT 1988 no. 24).
+In quest'ottica
+il fatto che l'inchiesta sia tuttora in corso non è, di per sé, decisivo, in quanto
+"
+Die Tatsache allein, dass noch nicht alle Beweise erhoben bzw. die
+Mitverdächtigen dingfest gemacht werden konnten oder dass der Angeschuldigte
+die Aussage verweigert, genügt nicht
+" (N. Schmid, op. cit., no. 701a).
+Occorre che l'indagato, se posto in
+libertà, possa pregiudicarne (o comprometterne) il corretto svolgimento e,
+conseguentemente, l'esito.
+E',
+inoltre
+, necessario che questa
+possibilità di pregiudicare la raccolta di elementi di prova si fondi su elementi
+concreti: "
+Jedoch genügt nach der Rechtsprechung des Bundesgerichtes
+die theoretische Möglichhkeit, dass der Angeschuldigte in Freheit kolludieren
+könnte, nicht, um die Fortsetzung der Haft oder die Nichtgewährung von Urlauben
+unter diesem Titel zu rechtfertigen. Es mussen vielmehr konkrete Indizien für
+eine solche Gefahr sprechen
+."
+(DTF
+117 Ia 257, cons. 4 c.).
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza
+d'interessi (tra i due) in relazione al contenuto della deposizione (SJ 1990 p.
+438; DTF 117 Ia 257; ZR 72 no. 77 p. 19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66; Hauser/Schweri,
+Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13).”
+(GIAR 23
+settembre 2002 in re Y.)
+Nello stesso
+senso, la CRP:
+"I rischi di collusione e di inquinamento delle
+prove sono legati soprattutto ai bisogni dell'istruttoria. Da un lato si tratta
+generalmente di evitare o prevenire accordi tra l'imputato e i testimoni - già
+sentito o ancora da sentire - o i correi e complici non arrestati, messi in
+atto per nascondere al giudice la verità, dall'altro di impedire interventi
+fraudolenti del prevenuto in libertà sui mezzi di prova non ancora in possesso
+della giustizia, allo scopo di distruggerli o di alterarli a suo vantaggio. la
+possibilità di ostacolare in tal modo l'azione dell'autorità giudiziaria da
+parte del prevenuto deve essere valutata sulla base di elementi concreti, la realtà
+di questo rischio non potendo essere ammessa aprioristicamente ed in maniera
+astratta (DTF 117 Ia 257; Decisione TF 2.3.2000 in re A. e rif.; R. Hauser/E. Schweri,
+op. cit.
+§ 68 n. 13; G. Piquerez,
+op. cit. n. 2344 ss.)"
+(sentenza 16 settembre 2004 in re B., CRP 60.2004.297)
+Riass
+umendo,
+per il mantenimento della carcerazione preventiva dell'accusato, non basta che
+vi siano ancora atti istruttori da esperire, ma è necessario che la prematura
+rimessa in libertà dell'accusato possa essere di nocumento proprio nell'ottica
+dell'assunzione delle prove che ancora mancano, e meglio in presenza di
+pericolo di collusione, quando cioè è lecito temere l'intervento dell'accusato
+su terze persone (siano essi correi, parti lese o semplici testi), o pericolo
+di inquinamento delle prove, termine più ampio che indica altri atteggiamenti
+suscettibili di falsare l'assetto probatorio, come la soppressione o
+l'alterazione di mezzi di prova, ecc.
+Va da sé che i criteri sopra
+esposti richiedono applicazione più restrittiva allorquando l'inchiesta (e la
+detenzione) è in corso da un certo tempo.
+A sostegno del mantenimento del
+carcere preventivo il Procuratore pubblico invoca l'esistenza di bisogni
+istruttori e concreto pericolo di collusione.
+In concreto, il Procuratore pubblico
+deve ancora procedere all'audizione dei vicini di casa di __________, __________
+ed __________, e di __________, già sentiti in polizia ed i cui interrogatori
+sono già stati fissati per il 18 agosto p.v., nonché ad ulteriori, e non meglio
+precisate, audizioni per meglio circostanziare
+"la persecuzione messa
+in atto da __________ nei confronti di __________ dopo che è terminata la
+relazione sentimentale"
+; testimonianze che dovranno poi essere
+contestate all'accusato. Trattasi quindi di atti che dovrebbero esaurirsi in un
+lasso di tempo piuttosto breve.
+Nei confronti dei vicini di casa
+di __________ e di __________, è senz'altro dato pericolo di collusione:
+considerato l'atteggiamento negatorio dell'accusato e la gravità del reato
+principale con conseguente rischio di un'importante pena in caso di condanna,
+vi è il rischio concreto che l'accusato, se messo in libertà provvisoria, possa
+prendere contatto con detti testi per influenzarli a proprio vantaggio. Non va
+inoltre trascurato a questo proposito che ci si trova confrontati con un
+procedimento indiziario.
+Per quanto riguarda invece gli
+altri non meglio precisati testi, non può essere dato un pericolo di collusione
+concreto, bensì soltanto teorico, non essendo nota la loro identità e neppure
+indicata l'esistenza di rapporti o legami con l'accusato.
+Per quanto concerne l'esistenza
+di un pericolo di collusione con __________, il Procuratore pubblico non ne
+motiva concretezza, né dagli atti emergono elementi concreti per ritenere che,
+su pressione di __________, __________ potrebbe cambiare la propria versione
+dei fatti, peraltro lineare, credibile e più volte confermata dinnanzi agli
+inquirenti: la presunta vittima è maggiorenne, nel corso del verbale
+Procuratore pubblico e soprattutto in occasione del confronto 27 luglio 2006
+con l'accusato ha ribadito di essere stata violentata, anche in quella sede,
+apparentemente, senza tentennamenti o timori, per contro non vi è alcun indizio
+concreto per ritenere che la stessa si trovi in uno stato di dipendenza affettiva
+e/o psicologica nei confronti di __________, quindi in una situazione tale per
+cui potrebbe essere manipolata o indotta a ritrattare per opera dell'accusato.
+Allo stadio attuale dell'inchiesta ed in assenza di indizi concreti in tal
+senso, l'esistenza di un concreto pericolo di collusione con la presunta
+vittima può tuttavia rimanere indecisa, essendo comunque dato concreto pericolo
+di collusione, come detto sopra, con i suddetti testi noti che saranno sentiti
+dal magistrato inquirente il 18 agosto 2006.
+Da ultimo, giova ricordare che,
+se è pur vero che il carcere preventivo non può e non deve essere utilizzato
+per ottenere confessioni è altrettanto vero che un accusato che non collabora
+(come suo diritto) può dover in qualche modo sopportare le eventuali
+conseguenze che questa sua scelta potrebbe avere sull'evoluzione dell'inchiesta
+(SJ 1998 p. 247).
+5.
+Essendo dati seri e concreti
+indizi di colpevolezza, nonché pericolo di collusione ed inquinamento delle
+prove, non occorre qui esaminare l'esistenza del pericolo di fuga e di quello
+di recidiva, peraltro neppure evocati dal magistrato inquirente a sostegno del
+mantenimento della carcerazione preventiva.
+6.
+La proporzionalità di una
+carcerazione (preventiva) deve essere analizzata da angolature diverse. Da un
+lato occorre mettere in relazione la durata del carcere preventivo con la
+gravità e complessità della fattispecie e con la pena presumibile e dall’altro
+occorre anche verificare il rispetto del principio di celerità (SJ 1981 p. 383
+e citazioni; art. 102 CPP).
+La proporzionalità della
+carcerazione sin qui sofferta (dal 28 giugno 2006), alla luce della gravità
+delle accuse, della presenza di concreti indizi di colpevolezza, della
+verosimile pena in caso di condanna e della complessità dell'inchiesta
+(procedimento indiziario e versioni contrastanti tra accusato e presunta
+vittima), resa ancor più difficoltosa dalla scelta (certamente legittima) di
+linea difensiva di negare totalmente ogni addebito relativamente al reato più
+grave e dall'atteggiamento che non può certo essere definito trasparente
+dell'accusato (iniziali ammissioni poi ritrattate), è sicuramente data. Gli
+inquirenti hanno proceduto con sufficiente celerità e non si sono limitati ad
+interrogare l’accusato e __________ ma hanno provveduto/stanno provvedendo alla
+ricerca di riscontri oggettivi al fine di acclarare i fatti, viste le
+differenti versioni. In ogni caso, resta sottinteso l'obbligo per il magistrato
+inquirente di trattare con priorità i casi in cui l'accusato è in detenzione (art.
+102 cpv. 1 e 176 cpv. 3 CPP).
+In conclusione sufficienti
+presupposti di legge, come esplicati dalla prassi e dalla giurisprudenza, sono
+presenti nella situazione processuale di __________ a legittimare e
+giustificare il perdurare della cautelare privazione della sua libertà. Di
+conseguenza, l'istanza di libertà provvisoria in discussione deve essere
+respinta con la presente decisione, esente da tassa e spese di giudizio (art.
+39 let. f TG e contrario) e impugnabile entro 10 giorni alla Camera dei ricorsi
+penali del tribunale d'Appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati gli articoli 139, 144,
+177, 179 septies, 190 CP, 95ss, 102, 103, 279ss, 284 CPP,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Ursula Züblin
