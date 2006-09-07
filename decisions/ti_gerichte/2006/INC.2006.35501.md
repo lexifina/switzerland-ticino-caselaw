@@ -1,0 +1,379 @@
+---
+decision_id: "ti_gerichte_INC.2006.35501"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.35501"
+decided: "2006-09-07"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=90499&nX40_KEY=4711241&nTrefferzeile=46&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-057.md", "switzerland/bund/acts/312.0/art-062.md", "switzerland/bund/acts/312.0/art-080.md", "switzerland/bund/acts/312.0/art-161.md", "switzerland/bund/acts/312.0/art-167.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2006.35501
+
+## Regeste
+
+Mancata comunicazione/citazione ad interrogatorio di testi e mancata notifica di ordine di blocco a RF
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 07.09.2006 INC.2006.35501
+Tessin Il Giudice dell'istruzione e dell'arresto 07.09.2006 INC.2006.35501
+Ticino Il Giudice dell'istruzione e dell'arresto 07.09.2006 INC.2006.35501
+
+Mancata comunicazione/citazione ad interrogatorio di testi e mancata notifica di ordine di blocco a RF
+
+Incarto n.
+INC.2006.35501
+Lugano
+7 settembre 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire sul
+reclamo presentato il 27 luglio 2006 da
+__________
+(rappresentato dall’avv. __________)
+contro
+omissioni
+del Procuratore pubblico Manuela Minotti Perucchi (mancata
+comunicazione/citazione ad interrogatorio di testi e mancata notifica di
+ordine di blocco a __________) nell'ambito del procedimento di cui all'incarto
+MP __________;
+viste le osservazioni del magistrato inquirente (8
+agosto 2006) e della parte civile __________ (3/4 agosto 2006);
+visto l'incarto MP __________;
+ritenuto e considerato
+in fatto ed in diritto
+1.
+Il 19 ottobre 2004, a seguito della denuncia di due
+privati, il Ministero pubblico ha aperto un incarto penale nei confronti di __________
+(AI 1 e mappetta rosa inc. MP __________).
+Il 15 luglio 2005, in sede di verbale, nei confronti
+di __________ è stata promossa l'accusa per l'ipotesi di reato di cui all'art.
+165 cifra 1 CP (AI 15, pag. 7). Il 20 luglio 2006, sempre in sede di verbale
+(AI 81), l'accusa è stata estesa all'ipotesi di reato di cui all'art. 138 cifra
+1 CP; contro quest'ultima decisone è pendente ricorso alla CRP (AI 88).
+2.
+Il 26 maggio 2006, il magistrato inquirente ha
+spiccato tre citazioni, nei confronti di altrettanti testi, a comparire il
+giorno 3 giugno 2006 per essere sentiti nell'ambito del procedimento di cui
+all'incarto MP __________ (AI 58, 59, 60).
+Il 6 giugno 2006 (AI 65), il magistrato inquirente ha
+ordinato il blocco a __________ della "
+quota di comproprietà di ½ della
+particella __________ di __________ di proprietà dell'accusato
+".
+3.
+Adducendo di essere venuto a conoscenza delle avvenute
+audizioni di testi e del blocco a __ solo nel corso dell'interrogatorio del 20
+luglio 2006, __________ chiede (con il reclamo oggetto della presente) che i
+verbali dei tre testi siano "espunti dagli atti", previa accertamento
+della violazione del diritto al contraddittorio e della disparità di
+trattamento consistenti nella mancata notifica e citazione dell'accusato
+all'audizione dei testi, e che venga ordinata una nuova audizione conforme
+all'art. 62 cpv. 1 CPP (Reclamo, n. 3 e 4 del petitum).
+Chiede, inoltre che venga accertata, quale violazione
+procedurale, la mancata notifica del blocco a __________ (Reclamo, n. 5 del
+petitum).
+A giudizio del reclamante la mancata notifica alla
+difesa dell'audizione dei testi costituisce grave omissione che intacca i
+diritti della difesa: parità delle armi, diritto di porre domande ai testi,
+contraddittorio e dei chiari disposti degli artt. 57, 60 cpv. 1, nonché 62 CPP.
+Inoltre, sempre secondo il reclamante, tale modo di agire gli ha pure impedito
+di far valere eventuali rimedi giuridici contro la volontà del magistrato
+inquirente di procedere alle audizioni in sua assenza, ancorché non vi fossero
+validi motivi per procedere in tal senso.
+Quanto al blocco a __________, dopo aver richiamato un
+(suo) impegno a non disporre del fondo senza previamente contattare il
+Ministero pubblico, il reclamante sostiene che la mancata notifica (a lui)
+costituisce anch'essa grave violazione dei diritti della difesa che impone
+annullamento della decisione (richiesta, peraltro, non ripresa nel petitum,
+come si è detto sopra).
+Preliminarmente, il reclamante aveva chiesto a questo
+ufficio di concedere effetto sospensivo al reclamo. La richiesta è stata evasa
+con ordinanza del 28 luglio 2006 (doc. 4, inc. GIAR 355.2006.6).
+4.
+Con osservazioni del 8 agosto 2006, il magistrato
+inquirente ritiene il reclamo infondato, quando non irricevibile.
+Per quanto concerne il blocco a __________, il
+magistrato inquirente afferma di avervi proceduto allorquando avuto conoscenza
+del fatto che l'accusato ha instaurato trattative di vendita "
+in barba
+all'impegno assunto
+". La notifica all'accusato, sempre a dire del
+Procuratore pubblico, non è condizione di validità dell'ordine ex art. 161 CPP
+e non è prevista neppure ai sensi degli artt. 6 e 7 CPP che si riferiscono a
+sentenze e decreti "
+contro i quali è dato rimedio di legge
+";
+inoltre, il termine di impugnazione ex art. 280 CPP decorre dal momento in cui
+la "
+persona direttamente toccata . . . ha ricevuto copia del
+provvedimento
+".
+Per quanto concerne i verbali dei testi, il magistrato
+inquirente precisa che allorquando ha spiccato le relative citazioni ne era già
+stata spiccata una anche nei confronti dell'accusato per lo stesso giorno e la
+stessa ora. Questo, sempre secondo il Procuratore pubblico, perché i testi
+avrebbero dovuto essere interrogati in contraddittorio con l'accusato evitando
+che egli potesse contattarli per eventualmente influenzarli. Le cose sono poi
+andate diversamente perché la difesa ha chiesto il rinvio dell'audizione, per
+assenza del difensore, ed il magistrato inquirente avrebbe deciso di procedere
+comunque all'audizione dei testi per rispettare il principio di celerità e
+ritenuto l'art. 57 cpv. 2 CPP.
+Dopo aver affermato di non comprendere per quale
+motivo l'accusato abbia ritenuto di presentare reclamo invece di chiedere nuova
+audizione dei testi, rispettivamente di contestarne le dichiarazioni, il
+magistrato inquirente comunica che nuova audizione degli stessi (in
+contraddittorio) è prevista per 5 settembre 2006.
+Il magistrato inquirente, ai fini della tempestività
+del reclamo contro il blocco, solleva pure dubbi sul momento in cui l'accusato
+ne avrebbe avuto conoscenza; a suo dire è verosimile che la Banca che ha
+portato a conoscenza del Ministero pubblico le trattative di vendita, potrebbe
+aver informato l'accusato del blocco prima dell'audizione del 20 luglio 2006.
+5.
+La parte civile __________ si rimette al giudizio di
+questo giudice, segnalando che neppure lei ha avuto conoscenza degli
+interrogatori.
+6.
+L'accusato è certamente legittimato al reclamo contro
+(pretese) omissioni del magistrato inquirente (ritenute lesive dei diritti
+della difesa).
+Quanto alla tempestività, trattandosi di
+"omissioni" legate ad atti che hanno già esplicato effetto, quindi
+più assimilabili a decisioni negative, appare eccessivo considerare tempestivo
+il reclamo "fintanto che perdura l'omissione" (art. 281 cpv. 1) e più
+conforme allo scopo della norma il termine di 10 giorni dalla conoscenza della
+violazione procedurale contestata. L'accusato afferma di averne avuto conoscenza
+in occasione del verbale 20 luglio 2006.
+Tale affermazione è verosimile e neppure contestata
+dal magistrato inquirente per quanto concerne i verbali dei testi (e relative
+citazioni). Quanto al blocco, essendo notorio che l'__________ non procede a
+comunicazione all'interessato (contrariamente a quanto accade, di regola, per
+esempio con i sequestri bancari) vale, di principio, la stessa constatazione.
+Alla richiesta di questo ufficio di chiarire se vi sia
+stata conoscenza tramite __________ (doc. 7, inc. GIAR 355.2006.1), l'accusato
+non ha ritenuto di dover rispondere, fino ad oggi; visto che il reclamo è
+comunque almeno parzialmente tempestivo e visto quanto si dirà nel seguito
+della presente sulla questione della notifica del blocco a __________, non è necessario
+indagare oltre per chiarire tale questione.
+7.
+In generale, accusato e difensore "…
+partecipano
+a tutti gli atti procedurali
+" (art. 57 cpv. 1 CPP), ritenuto,
+tuttavia, che tale facoltà/diritto di partecipazione "…
+non può
+costituire motivo di rinvio di atti procedurali, salvo obbligatoria presenza e
+partecipazione
+…" (art. 57 cpv. 2 CPP).
+Per quanto concerne l'interrogatorio dei testi (così
+come quelli di eventuali coaccusati), il difensore è ammesso a partecipare
+"
+salvo contrarie esigenze d'inchiesta
+" (art. 62 cpv. 1) e
+"
+riservato il diritto al contraddittorio
+" (art. 62 cpv. 2
+CPP).
+Questo ufficio ha già avuto modo di precisare che:
+"3.
+a)
+L'accusato e/o il suo difensore hanno, di principio,
+diritto di partecipare agli atti di procedura, in generale, ed in particolare
+all'assunzione di prove, interrogatori di testi o coaccusati compresi (artt.
+57, 58, 60, 62 CPP, in particolare).
+Questi diritti possono anche essere oggetto di
+limitazione, per giustificati motivi (contrarie disposizioni di legge o contrarie
+esigenze dell'inchiesta), restando comunque riservato il diritto al
+contraddittorio (art. 62 cpv. 2 CPP).
+Il diritto di partecipare all'amministrazione delle
+prove, come quello più specifico di presenziare gli interrogatori di correi e
+testimoni, discendono dal diritto di essere sentito, nonché da quello di un
+"processo equo", entrambi di rango costituzionale (art. 6 § 1 e 3
+lett. d CEDU; artt.
+29 e 32 CF;
+DTF 122 I 109; N. Schmid, Strafprozessrecht, 2004, n. 234 ss., 653 ss.).
+Trattasi di diritti intangibili nella loro sostanza
+(G. Piquerez, Procédure pénale suisse, 2000, n. 216; La riforma del Codice di
+procedura penale ticinese, autori vari, 1994, p. 76); la possibilità di
+limitazioni (motivate e in genere temporanee) di cui si è detto sopra, non può
+giungere sino a comprometterne la sostanza, e l'efficacia, e ciò già nella fase
+istruttoria (DTF 106 Ia 100, cons. 6a; DTF 111 Ia 341, cons. 3d; L. Marazzi, Il
+GIAR l'arbitro nel processo penale, 2001, pag. 34).
+"
+(GIAR 21 settembre 2004, 380.2004.1)
+E per quanto concerne più specificamente la presenza
+del difensore all'audizione di terzi:
+"3.2
+La vigente nostra procedura penale si è inserita
+nell'evoluzione legislativa e giurisprudenziale intesa ad ampliare le garanzie
+all'accusato nella partecipazione al procedimento sin dall'istruzione formale
+con abbandono del segreto dell'inchiesta, ferma restando la possibilità di
+ridurre i diritti della difesa solo in presenza di pericolo di collusione
+(Gérard Piquerez, loc. cit., pag. 634, n. 2901). Appunto, e come si vedrà in
+punto all'accesso agli atti (art. 58 cpv. 1 e 60 cpv. 2 CPP: v. sotto sub 4.2),
+la presenza del difensore all'interrogatorio di altri accusati e di testimoni
+può essere esclusa a ragione di "
+contrarie esigenze di inchiesta
+"
+(art. 62 cpv. 2 CPP), non semplicemente astratte o ipotetiche, ma bensì
+concrete e preminenti (Rusca, Salmina, Verda, Commento del Codice di Procedura
+Penale ticinese, Lugano 1997, pag. 110 n. 8 e pag. 152 n. 3).
+Il principale motivo che legittima questa eccezione di
+legge è ovviamente il pericolo di collusione, inteso ad evitare che l'accusato
+venga preventivamente a conoscenza di elementi fattuali (anche solo con previa
+conoscenza di verbali: decisione 21 ottobre 1994 in re M.R., GIAR 575.94.2),
+così da consentirgli manovre tali da inquinare una corretta assunzione delle
+prove. I diritti della difesa rimangono in ogni caso salvaguardati da
+successiva conoscenza delle prove ed in particolare dei verbali di
+interrogatorio, con possibilità di chiedere complementi e confronti."
+(GIAR
+31 agosto 2000, 377.2000.6)
+Ritenuto che può essere considerato quale preminente
+interesse pubblico, anche il fatto che l'accusato "
+non venga a
+conoscenza del tenore delle dichiarazioni di un teste prima che il magistrato
+inquirente abbia potuto prospettargliele direttamente
+", con la
+conseguenza che al difensore che partecipa "
+all'audizione di correo o
+teste deve poter essere efficacemente impedito di riferirne al proprio
+assistito
+" (L. Marazzi, Il GIAR, l'arbitro nel processo penale, 2001,
+pag. 33).
+Ovviamente, per non svuotare di significato le norme
+sui diritti della difesa (vedi citazione da GIAR
+380.2004.1)
+, l'applicazione delle
+eccezioni/limitazioni non può avvenire sistematicamente e/o schematicamente,
+bensì motivando la decisone sulla base della specificità di ogni singola
+situazione.
+8.
+a)
+Nel caso in esame, emerge dagli atti che l'accusato è
+stato citato a comparire per il giorno 3 luglio 2006 alle ore 9.30 con
+ordinanza del 24 maggio 2006 (AI 57), mentre che i testi sono stati citati a
+comparire per lo stesso giorno, rispettivamente alle ore 9.30, 10.00, 10.30,
+con citazioni del 26 maggio 2006 (AI 58, 59, 60).
+La citazione dell'accusato è stata trasmessa in copia
+(per conoscenza) ai rappresentanti delle parti, mentre che quelle dei testi
+risultano essere state trasmesse alle sole persone citate.
+Le affermazioni del magistrato inquirente secondo cui
+l'intento iniziale era quello di sentire i testi in contraddittorio con
+l'accusato, evitando che quest'ultimo (non detenuto) potesse prendere contatto
+preventivamente con i testi, trova conferma negli atti.
+b)
+Sempre dagli atti emerge che il confronto non é poi
+avvenuto, ed i testi sono stati sentiti in assenza della difesa, a seguito del
+fatto che accusato e difensore hanno chiesto il rinvio dell'interrogatorio (AI
+61), prima rifiutato e poi concesso dal magistrato inquirente (AI 62, 63, 67 e,
+per finire, 76 e 77) e che quest'ultimo, nel contempo, ha ritenuto di mantenere
+l'interrogatorio dei testi (Ai 70,71, 72). Successivamente, il magistrato
+inquirente ha disposto nuovo interrogatorio di due dei testi sentiti il 3
+luglio, al fine di garantire il diritto al contraddittorio con l'accusato (AI
+94, 95).
+c)
+Quanto sopra evidenzia da un lato che le citazioni non
+sono state spiccate con l'intento di aggirare ed impedire l'esercizio del
+diritto della difesa di partecipare all'assunzione di prove, senza motivare la
+limitazione, dall'altro che il diritto al contraddittorio è comunque stato
+garantito dalle nuove citazioni.
+Ancorché ci si possa chiedere se, a due anni
+dall'avvio dell'inchiesta, l'invocato principio di celerità si opponesse
+effettivamente allo spostamento di qualche giorno (l'assenza de legale era
+annunciata sino al 5 luglio 2006) degli interrogatori inizialmente previsti a
+confronto, rispettivamente se la comunicazione del fatto che il 3 luglio 2006
+era prevista l'assunzione di altre prove non procrastinabili (senza
+necessariamente identificarle) non poteva essere almeno segnalata e motivata
+nello scritto di cui all'AI 62 (per totale rispetto della buona fede
+processuale nonché della corretta valutazione dell'opportunità di una presenza
+- cfr., per analogia, L. Marazzi, op. cit., pag. 30 ss.), a giudizio di questo
+giudice, le modalità mediante le quali si è giunti all’audizione dei testi
+senza la presenza della difesa non appaiono lesive dei diritti della difesa
+(non trattandosi, in particolare, di presenza obbligatoria: artt. 57ss. e 57
+cpv. 2 CPP) al punto da giustificare l'annullamento dei verbali.
+d)
+Non impone conclusione diversa la constatazione del
+fatto che una parte civile era presente agli interrogatori dei testi. Da un
+lato, la limitazione della partecipazione di una parte ad un atto procedurale
+non comporta automatica limitazione anche delle altre parti (art. 57 cpv. 2
+CPP), dall'altro per l'interrogatorio dei testi non vi è norma analoga a quella
+di cui all'art. 80 cpv. 1 CPP.
+Quanto sopra è detto non senza qualche perplessità per
+ciò che concerne il caso specifico, visto che nessuna delle due parti civili
+risulta aver ricevuto comunicazione della citazione dei testi (cfr.
+Osservazioni PC __________), entrambe hanno ricevuto comunicazione del rinvio
+della citazione dell'accusato (AI 67), ciò nonostante quella rappresentata
+dall'avv. __________ era presente (e non si comprende come, solo lei, abbia
+avuto conoscenza degli interrogatori previsti per il 3 luglio 2006).
+9.
+Per quanto concerne l'omissione di notifica
+all'accusato del blocco a __________, va subito detto che tale notifica, di
+principio, non è condizione di validità formale dell'ordine, come non lo è nel
+caso di altro tipo di sequestro (artt. 161 ss., 161 cpv. 7, 113 CPP; G.
+PIQUEREZ, op. cit., n. 1495 ss., 1504, 1505).
+Ciò non significa, tuttavia, che l'ordine di blocco,
+rispettivamente di sequestro, non debba essere "notificato" anche
+all'accusato, sia in applicazione dell'art. 57 ss., 58 e 60 CPP, sia per
+permettere il controllo della legalità della decisione (artt. 66, 280 e 284
+CPP). Non va dimenticato che esiste specifica disposizione che permette di
+proibire al sequestratario di render noto il sequestro al proprietario o
+possessore solo per importanti ragioni d'inchiesta e non come regola (art. 167
+cpv. 7 CPP; N. Salvioni CPP annotato, pag. 275); tale disposizione evidenzia
+(se non sottolinea) che comunicazione, di regola, deve essere data.
+La mancata o tardiva notifica non ha, quindi, per
+effetto di rendere l'ordine nullo o annullabile, ma più semplicemente di
+riportare il termine per l'eventuale reclamo al momento della effettiva
+notifica o completa e compiuta conoscenza (altro motivo per non ritardare senza
+valida ragione la notifica all'accusato, ritenute che il trascorrere del tempo
+può amplificare le possibili conseguenze di un eventuale annullamento della
+decisione di sequestro o blocco a __________).
+10.
+In conclusione, in virtù di tutto quanto sopra
+espresso, pur con qualche perplessità sulla trasparenza della seconda parte
+della procedura che ha portato all'audizione dei testi in assenza della difesa
+(ed in presenza di una sola parte civile), non emergono elementi tali da
+giustificare una decisione di annullamento (o di constatazione di nullità) ed
+estromissione dagli atti dei verbali dei testi sentiti il 3 luglio 2006, per
+violazione del contraddittorio e/o disparità di trattamento. E neppure per l'annullamento
+del blocco a __________, per violazione dei diritti della difesa (richiesta
+peraltro non ripresa in sede di petitum).
+Quanto alla notifica del menzionato blocco a __________,
+il magistrato inquirente è invitato a procedervi, ritenuto che a questo punto
+le eventuali esigenze ex art. 161 cpv. 7 CPP sono superate dai fatti.
+11.
+Viste le particolarità del caso e l'esito della
+presente decisione tasse e spese vengono poste a carico del reclamante solo
+nella misura di ½, l'altro mezzo rimane a carico dello Stato. Non si assegnano
+ripetibili.
+Ritenuto che il ricorso, in qualche modo, concerne
+anche una questione relativa al sequestro di beni, non si può escludere a
+priori il ricorso alla CRP (che è e resta comunque libera di determinare la
+propria competenza).
+P.Q.M.
+viste le norme applicabili, in particolare gli artt.
+165, 138, 59 CP, 6, 7, 57 ss. 58, 60, 61, 66, 161, 280, 284 CPP;
+decide
+1.
+Il
+reclamo è evaso ai sensi dei considerandi (cons. 10 in particolare).
+2.
+La tassa di giustizia, fissata in FRS 800.-, e le
+spese di FRS 150.-, sono per un mezzo a carico dello Stato del Cantone Ticino e
+per l'altro mezzo a carico del reclamante __________. Non si assegnano
+ripetibili.
+3.
+Per la parte della decisione concernente il blocco a __________
+è richiamata la facoltà di ricorso alla Camera dei ricorsi penali del Tribunale
+di appello ex art. 284 cpv. 1 lett. a.
+4.
+Intimazione:
+giudice
+Edy Meli
