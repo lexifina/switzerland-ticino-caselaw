@@ -1,0 +1,511 @@
+---
+decision_id: "ti_gerichte_INC.2006.33201"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.33201"
+decided: "2006-09-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=90658&nX40_KEY=4711240&nTrefferzeile=30&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-058.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/311.0/art-159.md", "switzerland/bund/acts/311.0/art-163.md", "switzerland/bund/acts/311.0/art-165.md", "switzerland/bund/acts/311.0/art-167.md", "switzerland/bund/acts/312.0/art-161.md", "switzerland/bund/acts/312.0/art-164.md"]
+---
+
+# TI Gerichte INC.2006.33201
+
+## Regeste
+
+Reclamo contro ordine di perquisizione e sequestro
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 25.09.2006 INC.2006.33201
+Tessin Il Giudice dell'istruzione e dell'arresto 25.09.2006 INC.2006.33201
+Ticino Il Giudice dell'istruzione e dell'arresto 25.09.2006 INC.2006.33201
+
+Reclamo contro ordine di perquisizione e sequestro
+
+Incarto n.
+INC.2006.33201
+INC.2006.33204
+Lugano
+25 settembre 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire sui
+reclami presentati, rispettivamente, il 10/14 luglio 2006 e il 12/13 luglio
+2006 da
+__________
+(rappr. dall’avv. __________)
+rispettivamente
+__________
+(rappr. dall’avv. __________)
+contro
+la decisione 3 luglio 2006
+di sequestro del "
+residuo del prezzo trattenuto a titolo fiduciario e
+a favore dei venditori __________ ed __________
+" intimata al notaio
+__________ __________, nell'ambito dell'inc. MP __________;
+viste le osservazioni del magistrato inquirente (24
+luglio 2006 per entrambi i reclami) e preso atto che le PC __________ e __________
+non ne hanno presentate nel termine assegnato, così come l'altro accusato __________;
+visto l'inc. MP __________;
+ritenuto
+in fatto
+1.
+Il 30 giugno 2006, il Procuratore pubblico ha promosso
+l'accusa nei confronti di __________ e __________, per i reati di cui alla
+cifra 1 degli artt. 163, 164 e 165 CP, 167 CP, 159 CP, 251 CP, nonché 85 LIVA,
+87 cpv. 3 LAVS e 76 cpv. 3 LPP, per i fatti così descritti:
+"a Lugano ed in altre località,
+perlomeno a partire dal 1996 e sino al 16 marzo 2006,
+nella loro qualità di organi tabulari e fattuali della
+società __________, dichiarata fallita con decreto 16 marzo 2006 della Pretura
+di __________, in danno dei creditori della società __________, diminuito
+fittiziamente gli attivi della società, percependo ricavi da committenti non
+contabilizzati, distraendo ed occultando fondi di spettanza della società,
+per aver ceduto nel settembre 2003 alla loro società __________
+gli uffici di proprietà di __________ (PPP __________, PPP da __________ a __________,
+__________ RFD di __________) ad un prezzo manifestamente inferiore al valore
+commerciale,
+per avere, a causa di cattiva gestione, in particolare
+a causa di un'insufficiente dotazione di capitale, spese sproporzionate,
+speculazioni avventate e grave negligenza nell'esercizio delle sue funzioni e
+nell'amministrazione delle risorse societarie, cagionato indi aggravato
+l'eccessivo indebitamento della __________, segnatamente, malgrado il manifesto
+stato di insolvenza, perlomeno a partire dal 1999, omesso di mettere in atto
+misure di risanamento, ritenuto che a partire dal 2000 la società ha operato
+senza linee di credito, omettendo intenzionalmente di depositare i bilanci,
+aggravando il proprio eccessivo indebitamento conoscendone l'insolvenza,
+cosicché la società ha lasciato al momento del fallimento creditori
+insoddisfatti per oltre CHF 12'000'000.-,
+per avere intenzionalmente omesso di riversare i
+contributi AVS, le quote LPP ed i contributi infortuni professionali trattenuti
+ai dipendenti, destinandoli ad altri scopi, accumulando un debito nei confronti
+della Cassa di compensazione di ca. CHF 602'000.-, di ca. CHF 1'320'000.- nei
+confronti della previdenza professionale, di CHF 550'193.20 nei confronti della
+SUVA,
+conoscendo la propria insolvenza, a partire perlomeno dal
+1999, intenzionalmente omesso di corrispondere l'IVA, se non nella misura
+indispensabile per procrastinare la procedura di fallimento, accumulando
+arretrati per oltre CHF 4'800'000.-, favorendo intenzionalmente gli altri
+creditori,
+allestito i bilanci della società con dati inveritieri
+(ammortamenti insufficienti, sopravvalutazioni di attivi in ispecie di lavori
+in corso, valutazione del credere insufficiente, ricavi non contabilizzati,
+ecc.) allo scopo di evitare il deposito dei bilanci, danneggiando così i
+creditori,
+per avere omesso di pagare all'AFC, per i periodi
+fiscali dal 1° trimestre 1998 al 4° trimestre 2002, CHF 164'386.- di IVA,
+sottoscrivendo la convenzione 3 marzo 2006 per la
+cessione del magazzino e del materiale del cantiere alla __________,
+utilizzando la stima dell'Ing. __________ pur sapendo che la stessa era
+manifestamente inferiore al valore effettivo,"
+(AI 68, inc. MP __________)
+2.
+Il 3 luglio 2006, il magistrato inquirente ha emanato
+tutta una serie di ordini di perquisizione e sequestro (AI 70), nonché
+proceduto a numerosi blocchi a RF (AI 72), tra cui quello impugnato (AI 73).
+3.
+Contro gli ordini menzionati, rispettivamente contro
+l'uno o l'altro di questi, sono stati interposti reclami sia da parte degli
+accusati sia da parte di altre persone (fisiche e giuridiche) in qualche modo
+toccate dagli stessi.
+Sebbene le premesse da verificare per determinare la
+fondatezza legale degli ordini siano analoghe, se non identiche, per tutti i
+reclami, non così le problematiche relative alla legittimazione, alla
+connessione con quanto perquisito/sequestrato, rispettivamente alla
+proporzionalità delle misure cautelari poste in essere. Per questo motivo non
+si ritiene opportuno evadere tutti i ricorsi con un'unica decisione: meglio
+riprendere, se del caso, in ogni singola decisione le considerazioni che
+valgono indistintamente per tutti i reclami e risolvere le problematiche
+specifiche poste da ogni singolo reclamo nell'ambito di decisione separata.
+Quanto appena detto non impedisce, comunque, di
+evadere con un'unica decisione i due reclami oggetto della presente vista la
+evidente identità dello specifico ordine (AI 73) e dell'oggetto del sequestro.
+4.
+__________ (doc. 1, inc. 332.2006.1) contesta
+innanzitutto gli addebiti mossigli nell'ambito del procedimento. Inoltre,
+ritiene non esservi parti lese da risarcire (alle quali destinare i fondi
+sequestrati) e afferma che non si tratta comunque di provento di reato. Da
+ultimo precisa che il sequestro ha colpito beni di una Comunione ereditaria,
+quindi non suoi.
+Per parte sua, __________ (332.2006.4), si limita a
+opporsi al sequestro in quanto lo stesso colpisce beni di una Comunione
+ereditaria che non sono provento di reato (in quanto provenienti dalla vendita
+di immobile già proprietà della CE).
+5.
+Il magistrato inquirente nelle sue osservazioni,
+praticamente identiche per i due reclami (doc. 4 inc. GIAR 332.2006.1 e doc. 4
+332.2006.4), dopo aver indicato che l'immobile oggetto di vendita risultava di
+proprietà della moglie dell'accusato ma acquistato con fondi di pertinenza
+dell'accusato (oltre che edificato ad opera della __________) con usufrutto a
+favore di quest'ultimo che, tra l'altro, avrebbe fatto fronte, nel tempo, a
+tutti gli impegni per interessi ed ammortamenti ipotecari così come alle spese
+di manutenzione, precisa che il sequestro è da intendersi come limitato alla
+parte di spettanza di __________, che però non è ancora definita e oggetto di
+vertenza giudiziaria.
+6.
+Le uniche due entità indicate a questo ufficio come
+parti civili (__________e __________), e l'altro accusato, non hanno presentato
+osservazioni nel termine assegnato.
+7.
+I reclami, tempestivamente introdotti dall'accusato
+nel procedimento e da persona (in parte) direttamente colpita dagli ordini
+stessi, sono ricevibili in ordine.
+8.
+L'esistenza di gravi indizi di reato nella fattispecie
+che ha prodotto il sequestro oggetto delle due impugnative qui considerate,
+genericamente contestata dal solo __________, è stata accertata nell'ambito di
+altra e contestuale sentenza, alla quale si può far riferimento.
+"
+2.
+I principi generali in materia di
+perquisizione e sequestro, sebbene noti ai patrocinatori delle parti ed al
+magistrato inquirente vengono qui di seguito riassunti con riferimento a
+precedenti sentenze. In generale, in materia di sequestro:
+"In diritto, l’art. 161 cpv. 1 CPP impone al
+magistrato penale di ordinare il sequestro di tutti gli oggetti che possono
+avere importanza per l’istruzione del processo, alternativamente o
+cumulativamente come mezzi di prova o in quanto passibili di confisca o
+devoluzione allo Stato. Il sequestro, per la sua qualità di provvedimento
+eminentemente cautelare, ha lo scopo di acquisire e conservare gli oggetti di
+cui sopra al seguito della procedura e quindi per le necessità dell’istruzione
+preliminare, per le decisioni del magistrato requirente e quelle del giudice
+del merito, come evidenziato nella duplice prospettiva - alternativa o
+cumulativa - della produzione e valutazione delle prove (sequestro probatorio)
+e delle decisioni di confisca, restituzione o devoluzione (sequestro
+confiscatorio) (v. decisione 8 maggio 1998, inc. GIAR 516.97.3, in: Rep. 131
+[1998] nr. 117, consid. 1a p. 359), ritenuto che, come in tutti gli istituti
+procedurali tali da intaccare eccezionalmente i diritti individuali per
+prevalenza di interesse pubblico, il sequestro è legittimo unicamente in
+presenza concorrente di sufficienti indizi di reato e di connessione tra questo
+e l'oggetto che così occorre salvaguardare agli incombenti dell'autorità requirente
+ed inquirente, con sempre accresciuta esigenza probatoria indiziante
+approssimantesi alla verità materiale, a partire dal sospetto all’apertura del
+procedimento, che va in seguito ed indilatamente approfondito con gli
+accertamenti probatori del caso (v., in contesto più generale,
+Piquerez
+,
+cit., margin. 1116 ss.). Il sequestro di beni immobili avviene mediante blocco
+del registro fondiario (art. 161 cpv. 5 CPP).
+(GIAR 13
+dicembre 2004, 520.2004.1)"
+3.
+a)
+Per quanto concerne la verifica
+dell'esistenza di gravi indizi di colpevolezza in capo al reclamante, si
+ricorda innanzitutto che nel relativo esame questo giudice deve imporsi precisi
+limiti, derivanti da un lato dalla sua funzione - che è quella di esaminare
+l’esistenza dei presupposti formali per l’emanazione dell’ordine contestato, e
+non di valutare nella sostanza l’esistenza di un reato -, e dall’altro - ma in
+maniera strettamente congiunta con quanto si viene di dire - dall’inopportunità
+di considerazioni di merito premature e, soprattutto, di competenza delle sedi
+di giudizio. Inconferente, a questo proposito, l'assenza di impugnativa nei
+confronti della promozione dell'accusa (istituto a garanzia dell'accusato e
+impugnabile unicamente per motivi formali).
+b)
+Premesso che il ruolo degli accusati
+quali gestori (di diritto e di fatto), oltre che azionisti, della __________
+non è contestato (comunque confermato dagli atti: AI 2, AI 9, Verbali A1, A2 e
+A3), gli elementi raccolti (e indicati) dal magistrato inquirente permettono di
+indiziare, al momento attuale, gran parte dei reati ascritti.
+Il mancato pagamento dell'IVA, nonché
+degli oneri sociali, così come di altre trattenute sui salari, sebbene non
+necessariamente sufficiente da solo a configurare il reato (cfr. ad esempio DTF
+117 IV 78, DTF 122 IV 270), sono da ritenere, in particolare se il fatto si
+ripete nel tempo (cfr. AI 9, 15, 39, 44, verbale A4) ed è frutto di una
+decisione "strategica" anche ai fini della limitazione della
+responsabilità personale (Verbale A4, pag. 3), indizi sufficienti dei reati di
+cui agli artt. 85 LIVA, 87 cpv. 3 LAVS, 76 cpv. 3 LPP e, per le trattenute non
+relative alle assicurazioni sociali (cfr. ad esempio AI 15), dell'art. 159 CP.
+c)
+Il magistrato inquirente segnala che
+nell'ambito della perquisizione degli uffici é stata reperita documentazione
+che registra entrate a favore dei "correntisti" che in parte
+risulterebbero "girate" alla __________ e per altra parte destinata
+agli accusati per contante o su di un loro conto denominato "__________"
+(cfr. intestazione del documento e sigla __________ a fianco di numerose
+registrazioni), così come altra documentazione relativa a "casse
+private" riconducibili agli accusati (cfr. documentazione "Ufficio __________
+" in contenitore n. 10; in particolare: quaderno correntisti, cassa
+correntisti, cassa privata __________, ecc.).
+A dire del magistrato la documentazione
+in questione indizierebbe l'incasso personale di ricavi (attivi della società)
+e, quindi, la loro distrazione, rispettivamente la dissimulazione di attivi
+(art. 163 CP).
+__________ da un lato ha dichiarato che
+"
+può darsi che nel corso degli anni vi siano stati degli incassi in
+nero
+" (pur se con indicazione che si sarebbe trattato di poche
+migliaia di franchi ed escludendo connessione con la contabilizzazione in questione:
+Verbale A4, pag. 8), dall'altro non ha saputo fornire alcuna indicazione in
+merito alla causale di una delle registrazioni più cospicue del quaderno
+"correntisti" (225'000.- FRS, di cui solo 25'000.- registrati come
+girati a __________) limitandosi a dire che __________ non "
+c'entra
+niente
+" e che non sa chi siano i correntisti (Verbale A6, pag. 2). A
+ciò si aggiungono le dichiarazioni della teste __________ in merito a quanto da
+lei riscontrato (nel caos amministrativo che regnava in società: Verbale V3,
+pag. 2), più in particolare sulle comunicazioni informali circa la
+liquidazione/archiviazione dell'importante scoperto della voce debitori (idem,
+pag. 3, 4) e quelle del teste __________ sulla presenza di commesse non
+redditizie per la società (Verbale V4 pag. 2), indicazioni che denotano un
+rapporto non necessariamente trasparente con i debitori stessi (ancorché al
+momento non vi sia relazione diretta con quanto emerge dal quaderno sopra
+menzionato e lo scoperto debitori é stato imputato, dall'accusato __________,
+alla contrazione dei prezzi e alla crisi che ha toccato anche i committenti:
+Verbale A3, pag. 2).
+Gli elementi (di fatto e circostanziali)
+appena indicati, allo stadio attuale del procedimento, sono indizi sufficienti
+di una non registrazione di tutti i ricavi e loro distrazione, quindi del reato
+ascritto (se non, a dipendenza della situazione e delle circostanze specifiche,
+anche di una infrazione contro il patrimonio).
+Non modifica questa conclusione
+l'affermazione del reclamante secondo cui gli accusati avrebbero, negli anni,
+immesso nella società importanti capitali come "
+dimostrato dai bilanci
+della __________
+"; da un lato risulta che perlomeno parte delle
+immissioni sono state effettuate mediante gli importi registrati nel quaderno
+"correntisti" di cui si è parlato sopra (con la conseguenza che
+potrebbe non trattarsi di fondi "propri" degli azionisti, bensì di
+fondi già di pertinenza della società, immessi con contestuale registrazione di
+debito a carico di quest'ultima: cfr. Verbale A6, pag. 2), dall'altra è lo
+stesso __________ ad affermare, in sede di verbale (A4, pag. 4), che i
+versamenti alla società erano effettuati anche da terzi "correntisti"
+di cui non conosce l'identità (con conseguente difficoltà attuale nella
+determinazione degli importi effettivamente versati dagli accusati con fondi
+propri).
+Rispettivamente, e qualora la non
+registrazione/distrazione di cui sopra non dovesse trovare conferma nel seguito
+dell'istruttoria, parte degli stessi elementi indicati, aggiunti agli ammortamenti
+ed alle valutazioni dei lavori in corso che i revisori (e non solo: cfr. all. e
+al verbale A1) hanno ripetutamente segnalato come insufficienti i primi e
+eccessive le seconde (cfr. contestazioni in verbale A4, pag. 5 e ss.),
+l'esposizione dell'inventario a bilancio 2004 (verbale A4, pag. 8) per FRS
+2'000'000.- a fronte di una valutazione peritale di FRS 440'000.- (pur
+considerando la differenza tra valori a continuazione e valori di
+liquidazione), sono elementi sufficienti ad indiziare (lo si ripete: allo stato
+attuale dell'inchiesta) anche i reati di cui agli artt. 164 CP,
+sussidiariamente ("… in un modo non previsto dall'art. 164, …") 165
+CP.
+d)
+Tutti quelli indicati costituiscono, a
+giudizio di questo giudice, elementi concreti indizianti fatti che possono
+costituire reato (non semplici sospetti dunque: DTF 31 ottobre 2002,
+1P.309.2002) e che, quindi, meritano approfondimento. Poco importa, a questo
+stadio, che il magistrato inquirente abbia indicato "…
+la lista quasi
+completa di tutti i reati fallimentari
+", rispettivamente nessun
+elemento concreto di "
+arricchimento indebito
+" dell'accusato
+(rispettivamente degli accusati); in presenza di elementi indizianti la
+diminuzione degli attivi, non è necessario che sia già chiaro all'inizio
+dell'inchiesta se si tratti di una diminuzione fittizia o effettiva,
+rispettivamente di atti che debbano/possano essere sussunti all'ipotesi
+sussidiaria dell'art.
+165 CP (B.
+Corboz, Les infractions en droit suisse, Vol I, n. 1/7 ad art. 163; DTF 28
+febbraio 2006, 6S.438/2005; DTF 4 luglio 2003, 6S.142/2003).
+Quanto all' "arricchimento
+indebito", non si tratta di elemento costitutivo dei reati in questione
+che, peraltro sono reati di messa in pericolo astratta e non necessitano
+neppure, per la realizzazione, che "
+la diminution du patrimoine ait eu
+pour résultat de causer un dommage pécuniaire définitif aux créanciers
+"
+(DTF 28 febbraio 2006, citato sopra). Comunque, fintanto che l'ipotesi di
+distrazione regge, la modalità concreta della distrazione/dissimulazione,
+rispettivamente della collocazione (passata ed attuale) di quanto
+distratto/dissimulato, è atto d'indagine che può fondarsi sui soli indizi,
+appunto di distrazione.
+e)
+In virtù di quanto sopra non appare
+necessario approfondire la questione della valutazione dell'inventario fatta
+dall'UF per rapporto al prezzo di cessione alla __________ e che il reclamante
+indica come nolo con impegno a pagare solo con l'accordo dell'amministrazione
+del fallimento (Osservazioni, punto 3.5.6; Reclamo, punto 8.7), né se
+l'omissione di pagamento IVA, che permette alla società di disporre di maggiore
+liquidità, sia sussumibile alla fattispecie prevista dall'art. 167 CP."
+(GIAR 25 settembre 2006, 332.2006.2)
+9.
+Come detto nel considerando che precede, gli indizi in
+questione concernono anche la possibilità che dai reati imputati gli accusati
+abbiano tratto un indebito profitto (provento di reato) che, se ancora
+presente, deve essere sequestrato ai fini di confisca (artt. 161 CPP e 59 cifra
+1 CP) o, se non più è presente, può dar luogo ad un risarcimento compensatorio
+con possibilità di sequestro (già in fase istruttoria) di quanto può garantirne
+l'incasso dopo relativa pronuncia di merito (art. 161 CPP e 59 cifra 2):
+"
+2.
+Pur nella rinnovata forma in vigore dal 1° agosto 1994,
+le norme sulla confisca penale (artt. 58 ss. CPS) ribadiscono l’obbligo di
+confisca di ogni e qualsiasi vantaggio patrimoniale ottenuto in maniera
+illecita: la definizione dei valori patrimoniali di cui all’art. 59 cfr. 1 cpv.
+1 CPS riprende le previgenti dottrina e giurisprudenza (v. Niklaus Schmid, Das
+neue Einziehungsrecht nach Art. 58 ff. StGB, in: RPS 113 [1995], p. 321 ss.,
+pto. 4.2.1 p. 331 e nota 45, con rinvii [qui di seguito citato: Schmid RPS]).
+“Valori patrimoniali” non sono soltanto beni corporali, ma anche crediti
+(depositi bancari), carte valori e persino diritti immateriali e diritti reali
+limitati: essenziale è che essi abbiano un proprio, determinabile valore
+economico (v. Niklaus Schmid, nota 19 ad art. 59 CPS, in: Schmid (Hrsg.),
+Kommentar Einziehung, organisiertes Verbrechen und Geldwäscherei, Band I,
+Zürich 1998, qui di seguito citato: Schmid Kommentar) e che il loro illecito
+trasferimento nel patrimonio del reo conduca, quale conseguenza, ad un aumento
+dei suoi attivi o una diminuzione dei suoi passivi (v.
+Schmid, Kommentar, nota 17 ad art. 59 CPS).
+Sottostanno a tale tipo di confisca ai sensi dell’art.
+59 cfr. 1 cpv. 1 CPS anche cosiddetti valori sostitutivi, sia propri che
+impropri (“echte und unechte Surrogate”, v. Schmid, RPS, pto. 4.3.2, p. 334
+ss.; DTF 126 I 97, consid. 3.c.bb p. 105-106). Beni sostitutivi impropri
+possono essere bloccati unicamente in presenza di una traccia cartacea che li
+riconduca all’originario provento di reato, mentre per i beni sostitutivi
+propri dev'essere dimostrato che essi hanno preso il posto del bene originale
+(DTF 126 I 97, consid. 3.c.cc p. 107). Il bene da confiscare deve essere
+facilmente identificabile nel patrimonio dell’autore, rispettivamente del terzo
+beneficiario (DTF 126 I 97, consid. 3.c.cc p. 107, con rinvio a DTF 4 maggio
+1999 in re Z., consid. 2b).
+Se il provento di reato è pervenuto sotto forma di
+denaro, esso resta direttamente confiscabile anche se è stato modificato, ad
+esempio depositato e prelevato da conti bancari, trasformato in chèques o
+simili, infine cambiato in altra valuta (tutte forme di trasformazione in bene
+sostitutivo improprio, v. Schmid, Kommentar, nota 50 ad art. 59 CPS).
+Completamente rivisto è l’istituto della confisca
+risarcitoria ai sensi dell’art. 59 cfr. 2 cpv. 1 CPS: essa permette al giudice
+(di merito) di ordinare un risarcimento in favore dello Stato (con eventuale
+successiva assegnazione alla parte lesa in applicazione dell’art. 60 CPS), se -
+pur essendo dati i presupposti per una confisca ex art. 59 cfr. 1 cpv. 1 CPS -
+i valori patrimoniali di cui all’art. 59 cfr. 1 cpv. 1 CPS non siano più
+reperibili (v. Schmid, cit., pto. 4.3.1, p. 333 s.; pto. 4.3.2, p. 336) oppure
+debbano venir attribuiti direttamente alla parte lesa in applicazione dell’art.
+59 cfr. 1 cpv. 1 ultima frase CPS (v. Schmid, cit., pto. 4.4.1, p. 339). In tal
+caso, i beni passibili di confisca sono necessariamente di provenienza lecita.
+…
+Per non vanificare la portata delle norme sulla
+confisca, il magistrato inquirente può ordinare il sequestro dei beni che vi
+soggiacciono (art. 161 cpv. 1 e 2 lit. b CPP; v. Schmid, RPS 113 [1995], cit.,
+pto. 6.3, p. 362), rispettivamente che sono destinati a garantire l'eventuale
+risarcimento (art. 59 cfr. 2 cpv. 3 CPS; DTF 126 I 97, consid. 3.d.aa p. 107).
+Come la confisca, pure il sequestro può ovviamente essere ordinato anche nei
+confronti di un terzo.
+Il sequestro (in casu: bancario) può rappresentare un
+attentato ai diritti personali, o causarne un pregiudizio. Come ogni misura
+d’inchiesta, pertanto, deve soddisfare tre presupposti sostanziali: deve
+poggiare sull’esistenza di gravi indizi di colpevolezza, deve apparire
+necessario per il giudizio di merito (nel senso che deve essere connesso con
+l’oggetto che occorre salvaguardare agli incombenti processuali e di giudizio,
+v. decisione 17 agosto 1998 in re E.F., inc. Giar 501.98.2 consid. 2), infine
+deve essere rispettoso del principio di proporzionalità (v. Gérard Piquerez,
+Précis de procédure pénale suisse, 2. éd. Lausanne 1994, margin. 1441, 1454 e
+1469, con rinvii). La verifica della fondatezza di questi presupposti, per il
+doveroso scrupolo di rispetto dei diritti individuali, deve essere costante
+negli incombenti dell’autorità inquirente e requirente, con sempre accresciuta
+esigenza probatoria indiziante approssimantesi alla verità materiale, a partire
+dal sospetto all’apertura del procedimento, che va in seguito ed indilatamente
+approfondito con gli accertamenti probatori del caso (v., in contesto più
+generale, Piquerez, cit., margin. 1116 ss.). Quindi, ovviamente, anche a
+giustificazione del suo perdurare.
+(GIAR 22 ottobre 2002, 39.2002.7)
+Il sequestro presso il notaio del prezzo di vendita di
+un immobile è pertanto giustificato nella misura in cui colpisce quanto di
+spettanza dell'accusato __________.
+Certo, allo stato attuale non è ancora dato sapere se
+la totalità degli ordini di sequestro emanati dall'autorità inquirente concerna
+valori (globalmente) superiori al provento di reato, rispettivamente alla
+possibile entità del risarcimento compensatorio. Questo in quanto la
+perquisizione, che sola permetterà di "tirare le somme" non ha ancora
+potuto aver luogo. Per questo motivo nella sentenza 25 settembre 2006, inerente
+altro reclamo di __________ (GIAR 332.2006.2), si è concluso:
+"7.
+Quanto al sequestro (per chiarezza si
+precisa che ci si riferisce sia ai documenti che agli averi sui conti), come
+detto sopra lo stesso segue la perquisizione e, nella misura in cui è già stato
+ordinato cautelativamente, deve trovare conferma o smentita a seguito
+dell'esecuzione di quest'ultima (art. 164 CPP, ultima frase; GIAR 23 marzo
+1994, inc. 224.94.1), che il magistrato inquirente non ha, di fatto, ancora
+effettuato.
+Riservatezza, approfondito esame delle
+circostanze e quindi della proporzionalità sono garanzie che dovranno
+presiedere alla perquisizione, vale a dire alla presa di conoscenza ed
+all'esame della documentazione bancaria da parte del magistrato inquirente (cui
+spettano tali incombenti: CRP 21 gennaio 1991 in re C. D. B., inc. 354/90; GIAR
+2 novembre 1993, inc. 863.93.1), con restituzione (e quindi non acquisizione
+agli atti dell'istruttoria) di tutte quelle carte che si constateranno estranee
+al processo (con particolare attenzione anche alla problematica del possibile
+accesso agli atti da parte di terzi), rispettivamente conferma del sequestro
+per quelle ritenute pertinenti.
+Analogamente si dovrà procedere in
+relazione agli averi, confermando il sequestro di quelli (o di quella parte) ai
+quali è possibile applicare l'art. 59 CP (norma invocata nell'ordine impugnato)
+e dissequestrando gli altri."
+Il principio vale
+mutatis mutandi
+(visto in
+particolare l'attuale impossibilità di determinare con precisione quale sia la
+parte di spettanza di __________) anche per quanto sequestrato con l'ordine qui
+impugnato.
+10.
+Diversa, se non opposta, è la questione relativa alla
+parte di spettanza di __________. Il magistrato inquirente, in proposito
+(Osservazioni, punto 4), ha esplicitamente affermato di aver dovuto
+"bloccare" anche la parte del reclamante __________ in quanto non
+(ancora) nota l'entità della stessa. Ed ha aggiunto che non appena sarà noto il
+credito riconosciuto ai membri della Comunione ereditaria provvederà al
+dissequestro della parte non di pertinenza dell'accusato.
+Così stando le cose, sarebbe del tutto pleonastico (se
+non addirittura fonte di futuri disguidi interpretativi) che questo giudice
+accogliesse il reclamo dissequestrando "
+la parte di spettanza
+"
+di uno dei reclamanti senza indicare di quale parte si tratti, di quale valore
+economico abbia, di quali spese debbano andare in deduzione prima della
+determinazione dell'importo netto, rispettivamente senza indicare chi è
+deputato a determinare tale parte. Molto più opportuno indicare che una volta
+chiarita la spettanza in modo indiscutibile, al reclamante __________ basterà
+formulare istanza di dissequestro al magistrato inquirente per ottenere
+tempestiva decisione in merito (lasciando così a quest'ultimo la possibilità di
+verificare che il riparto sia avvenuto correttamente e senza influssi derivanti
+dal sequestro della "parte" del coerede).
+11.
+In conclusione, il reclamo di __________ deve essere
+respinto, mentre che quello di __________, nella misura in cui non sia divenuto
+privo d'oggetto è evaso ai sensi del considerando n. 10 della presente.
+P.Q.M.
+viste le norme applicabili ed in particolare gli artt.
+163, 164 e 165 CP, 167 CP, 159 CP, 251 CP, nonché 85 LIVA, 87 cpv. 3 LAVS e 76
+cpv. 3 LPP, 161, 164, 280 ss., 284 CPP,
+decide
+1.
+Il reclamo 12/13 luglio 2006 presentato da __________
+contro l'ordine di sequestro 3 luglio 2006 di sequestro del "
+residuo
+del prezzo trattenuto a titolo fiduciario e a favore dei venditori __________
+ed __________
+" è respinto.
+2.
+Il reclamo 10/13 luglio 2006 presentato da __________
+contro l'ordine di sequestro 3 luglio 2006 del "
+residuo del prezzo
+trattenuto a titolo fiduciario e a favore dei venditori __________ ed __________
+" è evaso ai sensi dei considerandi.
+3.
+La tassa di giustizia fissata in FRS 600.-, e le spese
+di FRS 180.-, sono a carico di __________ nella misura di due terzi (2/3) per
+il resto a carico dello Stato.
+4.
+Contro la presente decisione è dato reclamo alla CRP
+entro 10 (dieci) giorni dall'intimazione.
+5.
+Intimazione (con copia delle osservazioni):
+giudice
+Edy Meli
