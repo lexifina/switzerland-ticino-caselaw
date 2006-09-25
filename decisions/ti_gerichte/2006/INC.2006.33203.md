@@ -1,0 +1,250 @@
+---
+decision_id: "ti_gerichte_INC.2006.33203"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.33203"
+decided: "2006-09-25"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=90659&nX40_KEY=4711240&nTrefferzeile=29&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-164.md"]
+---
+
+# TI Gerichte INC.2006.33203
+
+## Regeste
+
+Sequestro
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 25.09.2006 INC.2006.33203
+Tessin Il Giudice dell'istruzione e dell'arresto 25.09.2006 INC.2006.33203
+Ticino Il Giudice dell'istruzione e dell'arresto 25.09.2006 INC.2006.33203
+
+Sequestro
+
+Incarto n.
+INC.2006.33203
+INC.2006.33505
+Lugano
+25 settembre 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire sul
+reclamo presentato il 14/17 luglio 2006 da
+__________
+contro
+l'ordine di perquisizione e
+sequestro 3 luglio 2006, emanato dal Procuratore pubblico Manuela Minotti Perucchi
+nell'ambito del procedimento di cui all'inc. MP __________, nella misura in
+cui concerne la relazione __________;
+viste le osservazioni del magistrato inquirente (24
+luglio 2006) e preso atto che le PC __________ e __________ della __________
+non ne hanno presentate nel termine assegnato, così come gli accusati __________
+e __________;
+visto l'inc. MP __________;
+ritenuto
+in fatto ed in diritto
+1.
+Il
+30 giugno 2006, il Procuratore pubblico ha promosso l'accusa nei confronti di __________
+e __________, per i reati di cui alla cifra 1 degli artt. 163, 164 e 165 CP,
+167 CP, 159 CP, 251 CP, nonché 85 LIVA, 87 cpv. 3 LAVS e 76 cpv. 3 LPP, per
+tutta una serie di fatti che possono essere riassunti, con riferimento alla promozione
+dell'accusa (AI 68), nel seguente modo:
+…
+perlomeno a partire dal __________ e sino al __________, nella loro qualità di
+organi tabulari e fattuali della società __________, dichiarata fallita con
+decreto 16 marzo 2006 della Pretura di __________, … diminuito fittiziamente
+gli attivi della società, percependo ricavi da committenti non contabilizzati,
+distraendo ed occultando fondi di spettanza della società, … ceduto nel
+settembre 2003 alla loro società __________ gli uffici di proprietà di __________
+(…) ad un prezzo manifestamente inferiore al valore commerciale, … a causa di
+cattiva gestione, in particolare a causa di un'insufficiente dotazione di
+capitale, spese sproporzionate, speculazioni avventate e grave negligenza
+nell'esercizio delle sue funzioni e nell'amministrazione delle risorse
+societarie, cagionato indi aggravato l'eccessivo indebitamento della __________,
+… omesso di mettere in atto misure di risanamento, … omettendo intenzionalmente
+di depositare i bilanci, aggravando il proprio eccessivo indebitamento
+conoscendone l'insolvenza, cosicché la società ha lasciato al momento del
+fallimento creditori insoddisfatti per oltre CHF 12'000'000.-, … intenzionalmente
+omesso di riversare i contributi AVS, le quote LPP ed i contributi
+info
+rtuni
+professionali trattenuti ai dipendenti, destinandoli ad altri scopi, …, a
+partire perlomeno dal 1999, intenzionalmente omesso di corrispondere l'IVA, … ,
+accumulando arretrati per oltre CHF 4'800'000.-, favorendo intenzionalmente gli
+altri creditori, … allestito i bilanci della società con dati inveritieri (…)
+allo scopo di evitare il deposito dei bilanci, … sottoscrivendo la convenzione
+3 marzo 2006 per la cessione del magazzino e del materiale del cantiere alla __________,
+utilizzando la stima … pur sapendo che la stessa era manifestamente inferiore
+al valore effettivo
+.
+2.
+Il 3 luglio 2006, a tutti gli istituti bancari del
+Cantone Ticino (AI 70) e ad alcuni istituti bancari del Canton __________, è
+stato notificato un ordine di perquisizione e sequestro volto ad identificare
+ogni e qualsiasi relazione in qualche modo riconducibile agli accusati ed alla __________
+per il periodo 1.1.1996/3.7.2006 (AI 70 e 71). L'ordine prevede pure il
+sequestro della documentazione e degli eventuali averi presenti sulle
+relazioni.
+Gli ordini di perquisizione e sequestro bancari sono
+motivati con la finalità di reperire averi della __________ "
+distratti,
+rispettivamente occultati, suscettibili di confisca, devoluzione alle parti
+lese, nonché allo scopo di assicurare i diritti di risarcimento della massa
+fallimentare, rispettivamente delle parti lese
+" (AI 70).
+3.
+Contro gli ordini menzionati, rispettivamente contro
+l'uno o l'altro di questi, sono stati interposti reclami sia da parte degli
+accusati sia da parte di altre persone (fisiche e giuridiche) in qualche modo
+toccate dagli stessi.
+Sebbene le premesse da verificare per determinare la
+fondatezza legale degli ordini siano analoghe, se non identiche, per tutti i
+reclami, non così le problematiche relative alla legittimazione, alla
+connessione con quanto perquisito/sequestrato, rispettivamente alla
+proporzionalità delle misure cautelari poste in essere. Per questo motivo non
+si ritiene opportuno evadere tutti i ricorsi con un'unica decisione: meglio
+riprendere, se del caso, in ogni singola decisione le considerazioni che
+valgono indistintamente per tutti i reclami e risolvere le problematiche
+specifiche poste da ogni singolo reclamo nell'ambito di decisione separata.
+4.
+Con il reclamo oggetto della presente (doc. 1., inc.
+GIAR 332.2006.3), __________ chiede l'annullamento dell'ordine di perquisizione
+e sequestro nella misura in cui concerne anche la relazione __________ a lui cointestata.
+Egli afferma di ritenersi legittimamente proprietario
+esclusivo del saldo in conto (ca. FRS 29'000.-), sul quale pervengono le
+pigioni di un immobile del quale egli risulta coproprietario (formalmente) con __________
+e __________.
+Ne chiede il dissequestro, così come di poter
+continuare ad operare con il conto in questione per il pagamento degli
+interessi ed ammortamenti ipotecari.
+5.
+Con osservazioni del 24 luglio 2006 (doc. 4, inc. GIAR
+332.2006.3), dopo aver ripreso la giurisprudenza di questo ufficio in materia
+di perquisizione e sequestro e richiamato i fatti essenziali alla base del
+provvedimento emanato (con rinvio ad osservazioni presentate nell'ambito dei
+reclami presentati dall'accusato contro lo stesso ordine, senza limitazioni a
+specifiche relazioni), il Procuratore pubblico segnala di aver predisposto
+anche il blocco a RF dell'immobile generatore delle pigioni (blocco contro il
+quale il qui reclamante e coproprietario non si sarebbe aggravato) e di non
+poter aderire alla richiesta di dissequestro nella misura in cui non esistono
+prove concludenti (al momento) del fatto che gli averi in conto siano di
+esclusiva pertinenza del qui reclamante.
+Nel contempo, aderisce (nella sostanza), alla
+richiesta di dissequestri parziali per il pagamento di interessi e ammortamenti
+ipotecari a condizione che il richiedente (e reclamante) produca di volta in
+volta le relative pezze giustificative (Osservazioni, punto 5).
+6.
+Le uniche due entità indicate a questo ufficio come
+parti civili (__________e __________), non hanno presentato osservazioni nel
+termine assegnato.
+7.
+Il
+reclamo, tempestivamente presentato da persona direttamente colpita (in quanto
+contitolare della relazione) dalla perquisizione e dal sequestro, è ricevibile
+in ordine.
+8.
+__________
+non contesta che, in generale, vi siano le condizioni di legge per una
+perquisizione ed un sequestro delle relazioni in qualche modo riconducibili
+agli accusati __________ e __________.
+Tali
+condizioni sono state analizzate da questo giudice nell'ambito dei reclami
+presentati dagli accusati (GIAR 332.2006.2; GIAR 335.2006.1) che ha concluso
+per la presenza di gravi indizi di reato, vista la tipologia dei reati (dei
+fatti oggetto d'indagine) e l'estensione temporale degli indizi stessi,
+giustificazione della perquisizione delle relazioni in qualche modo
+riconducibili agli indagati.
+Quanto
+ai sequestri (sia dei documenti che degli averi in conto), ne è stata
+confermata la legalità nella misura in cui sono stati ordinati in concomitanza
+con le perquisizioni (vista la modalità delle stesse: per scritto raccomandato)
+precisando che dovranno essere confermati (o levati) a seguito della
+perquisizione stessa.
+E
+meglio:
+"
+Quanto al sequestro (per chiarezza si precisa che ci
+si riferisce sia ai documenti che agli averi sui conti), come detto sopra lo
+stesso segue la perquisizione e, nella misura in cui è già stato ordinato
+cautelativamente, deve trovare conferma o smentita a seguito dell'esecuzione di
+quest'ultima (art. 164 CPP, ultima frase; GIAR 23 marzo 1994, inc. 224.94.1),
+che il magistrato inquirente non ha, di fatto, ancora effettuato.
+Riservatezza, approfondito esame delle
+circostanze e quindi della proporzionalità sono garanzie che dovranno
+presiedere alla perquisizione, vale a dire alla presa di conoscenza ed
+all'esame della documentazione bancaria da parte del magistrato inquirente (cui
+spettano tali incombenti: CRP 21 gennaio 1991 in re C. D. B., inc. 354/90; GIAR
+2 novembre 1993, inc. 863.93.1), con restituzione (e quindi non acquisizione
+agli atti dell'istruttoria) di tutte quelle carte che si constateranno estranee
+al processo (con particolare attenzione anche alla problematica del possibile
+accesso agli atti da parte di terzi), rispettivamente conferma del sequestro
+per quelle ritenute pertinenti.
+…
+"
+(GIAR 25 settembre 2006, 332.2006.2)
+9.
+La
+relazione di cui si chiede, nella sostanza, il dissequestro è intestata al qui
+reclamante ed ai due accusati. Non basta, perlomeno a questo stadio del
+procedimento ed in questa sede, che il reclamante affermi di ritenersi "
+legittimamente
+… proprietario esclusivo e sostanziale di detto importo scritturato in conto
+"
+(Reclamo, punto 2) per ottenerne il dissequestro prima della perquisizione che
+il magistrato inquirente deve (ancora) poter effettuare.
+Nel
+contempo, lo stesso magistrato inquirente ha affermato, in sede di
+osservazioni, di essere disponibile a comunque concedere dissequestri parziali
+ai fini del pagamento  "
+degli interessi e ammortamenti sull'ipoteca,
+nonché per il pagamento delle spese di amministrazione, manutenzione ordinaria
+e/o straordinaria
+" a fronte di richieste documentate, sottolineando
+(correttamente) la sua competenza per decidere in merito a tali richieste, in
+prima istanza (Osservazioni, punti 4 e 5).
+10.
+In
+conclusione, in virtù di tutto quanto sopra esposto, nella misura in cui è
+rivolto contro l'ordine di perquisizione e sequestro del 3 luglio 2006 che ha
+colpito la relazione __________, il reclamo è respinto; nella misura in cui
+chiede genericamente di poter disporre degli averi in conto per far fronte alle
+spese connesse con l'immobile, il reclamo è pure formalmente respinto ed il
+reclamante è rinviato alla procedura corretta (richiesta di parziali
+dissequestri, all'autorità titolare del procedimento penale e che ha emanato
+gli ordini documentati) indicata da magistrato inquirente, in uno con la sua
+adesione di principio a dar seguito alle richieste, previa verifica della
+documentazione che il reclamante vorrà produrre a sostegno delle richieste
+(ovviamente, nell'eventualità che dopo la perquisizione il sequestro del conto
+venga mantenuto).
+P.Q.M.
+viste le norme applicabili ed in particolare gli artt.
+163, 164 e 165 CP, 167 CP, 159 CP, 251 CP, nonché 85 LIVA, 87 cpv. 3 LAVS e 76
+cpv. 3 LPP, 161, 164, 280 ss., 284 CPP,
+decide
+1.
+Il reclamo 14/17 luglio 2006 presentato da __________
+contro l'ordine di perquisizione e sequestro del 3 luglio 2006 che ha colpito
+la relazione __________ è respinto ai sensi dei considerandi.
+2.
+La documentazione bancaria prodotta sotto suggello
+sarà consegnata al Procuratore pubblico, per i suoi incombenti come ai considerandi,
+a crescita in giudicato della presente.
+3.
+La tassa di giustizia fissata in FRS 300.--, e le
+spese di FRS 80.--, sono a carico del reclamante.
+4.
+Contro la presente decisione è dato reclamo alla CRP
+entro 10 (dieci) giorni dall'intimazione.
+5.
+Intimazione (con copia delle osservazioni):
+giudice
+Edy Meli
