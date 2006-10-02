@@ -1,0 +1,401 @@
+---
+decision_id: "ti_gerichte_INC.2006.41102"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.41102"
+decided: "2006-10-02"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=90718&nX40_KEY=4711239&nTrefferzeile=78&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-067.md", "switzerland/bund/acts/311.0/art-198.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-184.md"]
+---
+
+# TI Gerichte INC.2006.41102
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 02.10.2006 INC.2006.41102
+Tessin Il Giudice dell'istruzione e dell'arresto 02.10.2006 INC.2006.41102
+Ticino Il Giudice dell'istruzione e dell'arresto 02.10.2006 INC.2006.41102
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2006.41102
+Lugano
+2 ottobre 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull'istanza di libertà provvisoria
+presentata il 25 settembre 2006 da
+__________
+e qui trasmessa con
+preavviso negativo 28 settembre 2006 dal
+Procuratore pubblico Mario Branda,
+Bellinzona
+preso atto delle osservazioni
+della difesa (29 settembre 2006), che si è riconfermata nell'istanza;
+visto l'inc. MP __________;
+ritenuto e considerato,
+in fatto
+A.
+__________ è stato arrestato il 7
+settembre 2006 con contestuale promozione dell'accusa per titolo di tentata
+estorsione -
+"per avere, nel periodo dicembre 2005 - gennaio 2006, a __________,
+per procacciare a sé o ad altri un indebito profitto, chiedendo il versamento
+di 9 milioni di franchi ed accompagnando tale richiesta con scritti anonimi
+recanti minacce di morte al'indirizzo di dirigenti della __________ e __________
+nonché dei loro familiari; facendo altresì temere che potesse divulgare notizie
+riservate circa conti esistenti presso il medesimo istituto di credito e
+facendo recapitare a __________ a comprova della serietà delle sue intenzioni,
+i documenti di base originali di un conto cifrato aperto presso l'istituto di
+credito; ritenuto tuttavia che non si è giunti al pagamento richiesto,
+minacciato persone di un grave danno tentato di indurle ad atti pregiudizievoli
+al patrimonio proprio o altrui" -
+coazione, - per avere (…)
+minacciandole
+di grave danno costretto __________ ad adottare misure di protezione per sé e
+la sua famiglia"-
+minaccia -
+"per avere (…) usando grave
+minaccia, incusso spavento o timore a persone" -
+e furto -
+"per
+avere, nel corso del 2000, a __________, per procacciare a sé o ad altri un indebito
+profitto, ai danni della __________, impadronendosi di documenti relativi ad un
+conto cifrato che si trovavano casualmente sulla scrivania di un ufficio
+dell'istituto, sottratto al fine di appropriarsene cose mobili altrui"
+(cfr.
+doc. 1, inc. GIAR 411.2006.1).
+L'arresto è stato confermato da
+questo giudice il giorno successivo, ritenuti dati, oltre che seri e concreti
+indizi di colpevolezza, anche bisogni dell'istruzione e pericolo di
+collusione/inquinamento delle prove
+"in particolare occorre accertare
+coinvolgimento di terze persone. Atti da esperire con celerità nel rispetto del
+principio di proporzionalità"
+(cfr. doc. 3 inc. GIAR cit.).
+B.
+__________ ha ammesso di aver
+scritto le lettere ed effettuato le telefonate minatorie, nonché di aver sottratto
+documentazione dalla __________, precisando tuttavia di non avere realmente
+intenzioni estorsive, ma che si sarebbe trattato di un
+"brutto scherzo"
+,
+da lui architettato senza la complicità/correità di terze persone, spiegando
+pure i motivi che lo hanno indotto ad agire in tal modo.
+C.
+Con la presente tempestiva
+istanza __________, per il tramite del proprio difensore, chiede di essere
+immediatamente posto in libertà provvisoria. La difesa, non contesta
+l'esistenza di seri e concreti indizi di colpevolezza per quanto concerne la
+fattispecie relativa alla __________, ma ritiene che in concreto non siano più
+dati bisogni dell'istruzione e pericolo di collusione ed inquinamento delle
+prove. In particolare, con l'interrogatorio dell'accusato dinanzi al PP del 21
+settembre 2006 l'inchiesta sarebbe da ritenersi ormai conclusa (le lettere
+minatorie sono agli atti, l'accusato ha effettuato sostanziali ammissioni circa
+i reati addebitatigli confermando ripetutamente di avere agito da solo ed
+indicando i motivi di tale suo agire, la documentazione sequestrata presso il
+suo domicilio gli è già stata contestata, il computer è stato analizzato, i
+conti di pertinenza dell'accusato sono già stati oggetto di ordini di
+perquisizione e sequestro, ecc.) ed inoltre gli atti istruttori esperiti
+escluderebbero la sussistenza di concreto pericolo di collusione ed
+inquinamento delle prove.
+Per quanto concerne invece la
+"vicenda
+dei bigliettini erotici"
+la stessa, non avendo comportato alcuna
+promozione dell'accusa, non potrebbe giustificare il mantenimento della
+detenzione preventiva e comunque in proposito __________ è già stato più volte
+sentito, così come le altre persone coinvolte, ciò che escluderebbe pericolo di
+collusione ed inquinamento delle prove.
+La difesa evidenzia inoltre il
+precario stato di salute di __________, sessantacinquenne e con seri problemi
+cardiaci: un ulteriore prolungamento della carcerazione preventiva potrebbe
+comportare un aggravamento delle sue condizioni con conseguente probabilità di
+ospedalizzazione.
+D.
+Con preavviso 28 settembre 2006
+il magistrato inquirente si oppone alle messa in libertà provvisoria del qui
+istante. Riassunti i seri e concreti indizi di colpevolezza relativamente alla
+fattispecie __________, evidenzia che nel frattempo sarebbero emersi ulteriori
+elementi che richiedono approfondimento con particolare riferimento al reato di
+molestie sessuali in relazione a bigliettini erotici consegnati al minorenne __________
+nel corso del febbraio 2006 e di un tentativo di estorsione/minaccia, del tutto
+analogo a quello che ha interessato __________, __________ e la __________, di
+cui è stato vittima il padre di quest'ultimo il 20 febbraio 2006. Bisogni
+istruttori sarebbero ravvisabili a seguito della versione dei fatti poco
+credibile resa da __________ in merito alla fattispecie __________, che
+dovrebbe essere approfondita per quanto riguarda l'esatta delineazione dei
+comportamenti delinquenziali e con riferimento all'eventuale partecipazione di
+terzi, apparendo strano che egli abbia voluto e potuto attuare questi progetti
+da solo. Analoghe considerazioni varrebbero anche per le fattispecie __________
+e __________, per le quali, a dipendenza delle ulteriori dichiarazioni
+dell'istante, occorrerà pure procedere ai necessari confronti con __________ e __________.
+Il Procuratore pubblico sostiene inoltre sussistenza di pericolo di recidiva.
+Da ultimo, in considerazione della gravità dei fatti e della possibile pena in
+caso di condanna, il mantenimento della detenzione sarebbe rispettoso del principio
+di proporzionalità.
+E.
+Con osservazioni 29 settembre
+2006 la difesa si è sostanzialmente riconfermata nella primitiva istanza,
+contestando nel contempo l'esistenza di un concreto pericolo di recidiva, con
+argomentazioni di cui si dirà, se e per quanto necessario, nei considerandi in
+diritto.
+In diritto
+1.
+L'accusato, detenuto, è pacificamente legittimato a
+presentare istanza di libertà provvisoria.
+Il preavviso e l'incarto sono stati trasmessi
+tempestivamente ai sensi dell'art. 108 cpv. 3 CPP: in particolare, il preavviso
+e l'incarto sono stati contestualmente recapitati
+"brevi manu"
+la mattina del 28 settembre 2006 (ex art. 20 cpv. 1 CPP).
+Il termine di cui all'art. 108 cpv. 2 CPP scade lunedì 2
+ottobre 2006 ex art. 20 cpv. 3 CPP.
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui di seguito riproposti.
+L'art. 95 CPP – corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 – dopo evidenza al cpv. 1 del principio secondo cui l’accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo ai sensi dell’art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un crimine
+o un delitto e nel contempo sono presenti preminenti motivi di interesse
+pubblico, quali – per quanto qui concerne – i bisogni dell’istruzione, con
+particolare riguardo al pericolo di collusione e di inquinamento delle prove
+che, sia detto qui a futura memoria – può continuare ad esistere fino al
+pubblico dibattimento (sentenza della I Corte di diritto pubblico del Tribunale
+federale del 23 marzo 2000 in re S.B., consid. 4a). Si aggiunge, sempre con
+riferimento al caso in esame, che l’elenco dei motivi di interesse pubblico
+nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio aggiuntivo del 20 marzo 1991
+concernente la revisione del CPP, ad art. 27 , pag. 32, nota 3), tra altri
+possibili, essendovi quello della tutela dell’ordine pubblico (REP 1998 n. 105).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 consid. 3) in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali – nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggiore rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all’arbitrio (REP
+1980 pag. 128).
+(per tutte: sentenza GIAR
+21.12.2001 in re G., Inc. 520.2001.5).
+3.
+A questo stadio del procedimento
+ed in questa sede (che non è deputata ad esprimersi sul merito delle accuse e
+deve, anzi, evitare di pregiudicarlo limitandosi a verosimiglianza per il
+giudizio di legittimità delle misure d'inchiesta - GIAR 26 ottobre 2001 in re
+A.), si può concludere per la presenza di seri e concreti indizi di
+colpevolezza a carico di __________ in relazione alla fattispecie che ha
+portato al suo arresto, ciò quella concernente __________, __________ (ed i
+loro famigliari) e la __________.
+In proposito, __________ ha
+ammesso di essere l'autore delle telefonate e delle lettere minatorie alle
+suddette persone e di aver sottratto documentazione dalla __________,
+ribadendo, sin dal primo verbale di polizia, di avere agito da solo, di non
+avere reali intenzioni estorsive, ma semplicemente che
+"avrei voluto
+farla pagare alla __________ per i miei problemi che mi erano sorti",
+problemi
+in ambito lavorativo con il capo dell'ispettorato __________ e che avrebbero
+condotto l'istante a chiedere il prepensionamento, causandogli anche problemi
+alla salute. Tale versione è stata ribadita da __________ nel corso di tutti i
+verbali, da ultimo verb. PP 21.09.2006.
+Non occorre qui esaminare
+l'esistenza di seri e concreti indizi di colpevolezza - che peraltro non
+sembrano essere ritenuti tali dal magistrato inquirente che non ha neppure
+provveduto ad estendere l'accusa - a carico di __________, per quanto concerne
+i reati ipotizzati nei confronti di __________ (molestie sessuali) e di __________
+(minaccia ed estorsione), ritenuto che, come detto, con riferimenti a tali
+fatti a __________ non è stata promossa/estesa l'accusa e che pertanto egli non
+si trova in detenzione per tali fatti. A ciò si aggiunge che, perlomeno dagli
+atti in possesso di questo giudice, per il reato di molestie sessuali (art. 198
+CP) neppure è stata presentata querela.
+4.
+In relazione ai bisogni
+istruttori, atti a giustificare la misura restrittiva della libertà personale,
+occorre ricordare che questi non s'identificano semplicemente con gli atti
+istruttori in quanto tali, o con gli accertamenti (ancora) da effettuare, bensì
+con il pericolo di collusione o d'inquinamento delle prove che (eventualmente)
+espone a rischio la corretta raccolta (o conservazione) di tali atti (G. Piquerez,
+Procédure pénale suisse, ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht,
+ZH 1997, nos. 697 ss.; RDAT 1988 no. 24).
+In quest'ottica il fatto
+che l'inchiesta sia tuttora in corso non è, di per sé, decisivo, in quanto
+"Die Tatsache allein, dass noch nicht alle Beweise erhoben bzw. die
+Mitverdächtigen dingfest gemacht werden konnten oder dass der Angeschuldigte
+die Aussage verweigert, genügt nicht" (N. Schmid, op. cit., no. 701a).
+Occorre
+che l'indagato, se posto in libertà, possa pregiudicarne (o comprometterne) il
+corretto svolgimento e, conseguentemente, l'esito (DTF 117 Ia 257, cons. 4 c.).
+Gli elementi di concretezza del
+pericolo vanno individuati, di volta in volta, quantomeno nella specifica prova
+da assumere e nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo
+di prova. Ad esempio, trattandosi di audizione testimoniale, il pericolo di
+collusione non può essere invocato in modo astratto a giustificazione del
+mantenimento della misura cautelare, occorre che un'influenza (dell'accusato
+nei confronti del teste) sia possibile, rispettivamente che vi sia una
+possibile convergenza d'interessi (tra i due) in relazione al contenuto della
+deposizione (SJ 1990 p. 438; DTF 117 Ia 257; ZR 72 no. 77 p. 19). Il semplice
+atteggiamento di diniego dell’accusato, in sé, non costituisce indice in tal
+senso (DTF 90 IV 66; Hauser/Schweri, Schweizerisches Strafprozessrecht, BS
+1999, § 68 no 13).
+E', di regola, compito del
+magistrato inquirente (anche nel rispetto dell'obbligo di motivazione e della
+garanzia del contraddittorio - si veda, inoltre, la nota alla sentenza 25 marzo
+1998, in REP 1998 p. 329), se ne afferma l'esistenza, sostanziare la presenza
+di concreti elementi indicanti pericolo di collusione o inquinamento delle
+prove (GIAR 23 settembre 2002 in re Y.).
+Nel caso in esame il preavviso
+non invoca e non sostanzia minimamente concretezza del pericolo di collusione
+con riferimento alla fattispecie __________, limitandosi genericamente a
+sostenere
+"le spiegazioni fornite da __________ risultano, in sintesi
+assai poco credibili"
+e che sono necessari ulteriori approfondimenti
+sia per quanto concerne
+"l'esatta delineazione dei comportamenti delinquenziali"
+sia
+"con riferimento alla eventuale partecipazione di terzi".
+Il
+magistrato inquirente, che peraltro neppure indica quali atti istruttori
+intende esperire in proposito, in sostanza si limita ad affermare l'esistenza
+di pericolo di collusione ed inquinamento delle prove, ma senza precisare con
+chi, in relazione a quali specifiche circostanze e/o documentazione ecc., né tantomeno
+tale rischio emerge in modo evidente dall'incarto. Giova inoltre osservare che,
+se è vero che, in teoria, un pericolo di collusione ed inquinamento delle prove
+potrebbe sussistere con un eventuale complice/correo, è altrettanto vero che a
+sostegno dell'eventuale partecipazione di terzi vi sono unicamente differenze
+riscontrate nel contenuto/redazione delle lettere minatorie [cfr.
+considerazioni in relazione agli scritti (rimarchi personali), AI 19 del
+rapporto di arresto 7.09.2006], e che dall'incarto non risulta né tantomeno lo
+sostiene il magistrato inquirente, che dagli atti istruttori esperiti per tale
+accertamento successivamente all'arresto (ad esempio i __________ __________
+con decisione __________ da questo giudice) siano emersi elementi concreti di
+una partecipazione di terzi, quindi tali da confutare le dichiarazioni di __________
+secondo cui egli avrebbe agito da solo e senza informarne chicchessia.
+Alla luce di quanto precede, i
+paventati bisogni istruttori e pericolo di collusione indicati nel preavviso
+negativo in relazione alla fattispecie __________ non possono quindi
+giustificare il mantenimento della carcerazione preventiva qui discussa,
+ricordato inoltre che:
+"
+come a giurisprudenza (REP 1997, pag. 294 n. 98;
+decisione 6 febbraio 2002 in re G. G., GIAR 645.2002.2), il pericolo di
+collusione non soffre apprezzamento in astratto, nella sola considerazione
+della gravità della fattispecie e dello stadio del procedimento, ma vuole
+fondamento in concreti elementi che facciano reali la volontà e la possibilità
+di inquinamento delle prove, anche attraverso la valutazione di personalità e
+comportamento processuale dell'accusato: neppure le circostanze che i fatti non
+sono stati compiutamente accertati e che l'accusato abbia manifestato anche
+incomprensibile reticenza, sono sufficienti a dar corpo a questo presupposto,
+costituendone semmai solo una premessa e non determinante indice (sentenza 25
+giugno 1997 in re V. V., della Camera dei ricorsi penali, CRP 60.97.141, solo massimata
+nel precedente riferimento al REP);
+"
+(sentenza 13 marzo 2003, GIAR 108.2003.3)
+Per quanto concerne invece i
+bisogni istruttori ed il pericolo di collusione ed inquinamento delle prove
+invocati con riferimento ai fatti riguardanti __________ e __________ e meglio
+con le ulteriori audizioni di __________ con l'esecuzione dei necessari
+confronti con le presunte vittime, costituiscono necessità istruttorie che non
+possono entrare in linea di conto quali motivi per giustificare la proroga
+della detenzione preventiva dell'istante, in quanto, come già evidenziato al consid.
+2 della presente decisione, nei suoi confronti non vi è stata promozione/estensione
+dell'accusa in relazione a tali fattispecie e quindi __________ non è detenuto
+in relazione a tali fatti (cfr. art. 184 cpv. 3 CPP, secondo cui l’arresto
+equivale a promozione dell’accusa, e 174 CPP, per cui l’istruzione ed il
+giudizio si estendono soltanto al fatto e alle persone indicate nella
+promozione dell’accusa).
+5.
+Il Procuratore pubblico sostiene
+poi l'esistenza di pericolo di recidiva.
+Il pericolo di recidiva consiste
+nel rischio che l'accusato in libertà commetta ulteriori reati o continui la
+commissione di quelli per cui è stato arrestato; come per gli altri motivi di
+arresto, anche il pericolo di recidiva deve essere concreto e risultare
+dall'insieme delle circostanze (DTF 105 Ia 26). Il pericolo di recidiva ex art.
+95 CPP è nozione più larga di quella dell'art. 67 CP: l'assenza di precedenti
+specifici non basta, da sola, ad escluderlo, così come non basta, sempre da
+solo, a fondarlo il fatto che prima dell'arresto siano stati commessi più reati
+( DTF 12 agosto 1981 in re C.; DTF 123 I 268; SJ 1981, pag. 380 a 382; BJP 1989
+n. 671; CRP 17 novembre 2005 in re M., 60.2005.357; G. Piquerez, Procédure
+pénale suisse, n. 2358; N. Schmid, Strafprozessrecht, 4. Auflage, n. 701b; Rusca/Salmina/Verda,
+Commentario CPP, pag. 327 ss.; CPP Vaudoise annotato, Losanna 2004, nota 2.2.5
+ad art. 59). Anche la gravità del reato, condizione la cui assenza è comunque
+determinante (G. Piquerez, op. cit., n. 2358, nota 84), da sola non basta
+(sentenza CRP citata, cons. 8 e riferimenti). Occorre che l'insieme delle
+circostanze (precedenti, comportamento in istruttoria, personalità, modalità di
+commissione, condizioni socio-famigliari, eventuale carattere deterrente del
+procedimento in corso, ecc.) imponga una prognosi molto sfavorevole (DTF 21
+gennaio 2005, 1P.750/2004);
+In concreto, seppure al momento
+dell'arresto questo giudice non avesse ravvisato l'esistenza di tale motivo di
+interesse pubblico a giustificazione dell'arresto e se è vero che l'esistenza
+di un motivo di interesse pubblico non ritenuto in sede di conferma
+dell'arresto può emergere nel prosieguo dell'inchiesta, il magistrato
+inquirente si limita a laconicamente sostenere "
+Tenuto conto delle
+minacce proferite e delle intenzioni manifestate da __________ si giustifica
+particolare cautela. Avuto riguardo ai diversi episodi che vedono coinvolto
+l'accusato, l'insistenza della sua azione, sussiste anche pericolo di
+recidiva".
+Non emergono dagli atti elementi,
+e neppure il Procuratore pubblico ne adduce di concreti, che facciano pensare
+ad un ritorno di __________, una volta messo in libertà provvisoria, ad
+attività minatorie come quella che ha portato al suo arresto. Occorre infatti
+considerare che, se è vero che la gravità delle minacce messe in atto nei
+confronti di __________ e __________ (e dei loro famigliari) non può essere
+messa in discussione, è altrettanto vero che __________ è incensurato (cfr.
+casellario giudiziale AI 9.1) e che i fatti incriminati si sono svolti da
+dicembre 2005 a febbraio 2006 (nulla è invece accaduto da febbraio 2006 al 7
+settembre 2006). Tenuto conto delle suddette circostanze il carcere preventivo
+sinora sofferto, nonché la prospettiva di una condanna di una certa importanza
+– condanna che potrebbe solo aggravarsi in caso di recidiva – potranno essere
+considerati dall’istante quale elemento deterrente per una ripresa
+dell’attività delittuosa, ridimensionando di molto i timori per la sussistenza
+del pericolo di recidiva che, quindi, non appare né concreto né liquido. Non va
+poi trascurato che __________ ha nel complesso avuto un positivo atteggiamento
+processuale.
+6.
+In virtù di
+quanto sopra __________ deve ora essere scarcerato e posto in libertà
+provvisoria. Ciò non significa che le accuse mosse nei suoi confronti siano
+ingiustificate e che l’inchiesta nei suoi confronti non abbia più ragion
+d’essere. L’odierna decisione non significa neppure, per chiarezza e a scanso
+di equivoci, che una nuova restrizione della libertà personale non possa
+intervenire in futuro qualora dovessero emergere nuovi elementi e nuove (comprovate)
+necessità.
+Il presente giudizio, in tema di
+libertà personale, è esente da spese e tassa di giustizia.
+Per questi motivi,
+richiamati gli articoli 139, 156,
+180, 181 CP, 102, 103, 279ss, 284 CPP,
+decide:
+1.
+L’istanza è accolta.
+Di
+conseguenza __________ deve essere immediatamente scarcerato.
+2.
+Non si percepiscono né tassa né spese giudiziarie.
+3.
+Intimazione (anticipata via fax):
+giudice
+Ursula Züblin
