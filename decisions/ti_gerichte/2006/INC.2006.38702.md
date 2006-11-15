@@ -1,0 +1,402 @@
+---
+decision_id: "ti_gerichte_INC.2006.38702"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.38702"
+decided: "2006-11-15"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=91673&nX40_KEY=4711236&nTrefferzeile=62&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-041.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-110.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2006.38702
+
+## Regeste
+
+Libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 15.11.2006 INC.2006.38702
+Tessin Il Giudice dell'istruzione e dell'arresto 15.11.2006 INC.2006.38702
+Ticino Il Giudice dell'istruzione e dell'arresto 15.11.2006 INC.2006.38702
+
+Libertà provvisoria
+
+Incarto n.
+INC.2006.38702
+Lugano
+15 novembre 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 9/10 novembre 2006 da
+__________
+, __________, __________, __________
+(patr. dal lic. iur. __________, __________)
+e qui trasmessa con preavviso negativo del 13 novembre
+2006 dal
+Procuratore pubblico Moreno Capella
+, Lugano,
+visto lo scritto (fax) della
+difesa dell’accusato del 14 novembre 2006;
+visto l’incarto MP __________;
+ritenuto,
+in fatto:
+A.
+__________ è stata arrestata il
+22 agosto 2006 a __________ (__________) in entrata in Svizzera alla dogana di __________,
+13 aprile 2004 del PP Capella per titolo di furto aggravato, abuso di un
+impianto per l’elaborazione dati, danneggiamento, violazione di domicilio e
+furto d’uso (GIAR 2006.387.1, doc. 2), sostanzialmente per avere tra settembre
+2002 e agosto 2003, in Ticino e diverse località della Svizzera, commesso in
+correità con __________, __________ e __________, almeno 28 furti con scasso,
+sottraendo perlopiù gioielli e denaro contanti per una refurtiva denunciata di
+almeno CHF 810'798.
+Con la richiesta di conferma dell’arresto 25 agosto 2006 il
+magistrato inquirente ha promosso a __________ l’accusa per i titoli di reato
+menzionati nell’ordine d’arresto (Inc. GIAR 387.2006.1, doc. 1), mentre che
+questo giudice ha confermato l’arresto dell’accusata, considerata la presenza
+di gravi e concreti indizi di colpevolezza e, con riferimento alla richiesta di
+conferma dell’arresto, per i bisogni dell’istruzione  e per il pericolo di
+fuga, trattandosi di una cittadina straniera senza legami con il territorio
+Svizzero (Inc. GIAR 387.2006.1, doc. 4).
+A verbale di conferma dell’arresto,
+così come già davanti alla Polizia giudiziaria, __________ ha confermato di
+essere venuta in Svizzera, negli anni precedenti, con la sorella __________ e
+con __________ a commettere furti nelle abitazioni e di essersi anche occupata
+di portare la refurtiva in Italia e di averla venduta.
+Davanti al magistrato inquirente __________
+ha continuato per lo più a non ricordarsi dei singoli furti commessi non
+contestando però nella sostanza le chiamate in correità della sorella e della
+nipote.
+B.
+Il 9 novembre 2006 __________,
+con l’istanza in discussione e per il tramite del suo difensore, chiede di
+essere posta in libertà provvisoria; la difesa, che sembra contestare
+l’esistenza dei seri indizi di reato – “
+La signora __________ è stata
+chiamata in correità da due sue parenti, ma non è mai stata colta in flagranza
+di delitto
+(recte crimine n.d.r.).
+A sostanziare le ipotesi di reati
+concorrono solo le chiamate in correità ma, per ora, sembra ancora nessun
+rilievo di impronte o materiale biologico è stato esperito nei luoghi dei reati
+di cui è indiziata
+(recte accusata, n.d.r.)
+o, nel caso lo fosse stato,
+non emergono rilievi a lei appartenenti
+” (istanza di libertà provvisoria,
+p. 2 punto 2., Inc. GIAR 387.2006.2, doc. 1) – dopo una breve introduzione sui
+fatti, afferma che la sua patrocinata, che si trova in carcere preventivo da
+ormai 80 giorni, nella denegatissima ipotesi in cui verrebbe condannata
+beneficerebbe con ogni probabilità della sospensione condizionale della pena ai
+sensi dell’art. 41 cpv. 1 CP, non potendosi scartare una prognosi favorevole
+con la semplice esistenza di qualche precedente penale commesso dall’accusata
+all’estero e che la difesa definisce di poca rilevanza (oltre ad avanzare la
+tesi dell’errore giudiziario). L’accusata e la sua famiglia si sarebbero poi “
+convertiti
+”
+al commercio di ferramenta “
+lasciandosi alle spalle una vita di espedienti,
+spesso illeciti, e abbracciando una vita di onesto lavoro
+” (istanza, p. 3).
+Per quanto riguarda i bisogni
+istruttori l’inchiesta sarebbe ormai conclusa ed i fatti, che risalgono a 3
+anni fa, sono “
+da lungo tempo assodati
+” (istanza, p. 3).
+Per quanto concerne il pericolo
+di fuga si osserva come l’accusata è ben inserita socialmente a __________ e
+comunque la sua famiglia sarebbe disponibile al pagamento di una cauzione ai
+sensi dell’art. 110 CPP (istanza, p. 4).
+C.
+Il magistrato inquirente, con
+preavviso negativo 13 novembre 2006 (Inc. GIAR 387.2006.2, doc. 2) comunica di
+avere ormai concluso l’inchiesta e di essere prossimo all’emanazione del
+deposito atti e che “
+l’accusata verrà quindi, nei termini di legge, deferita
+alle competenti Assise correzionali
+”. Il PP ribadisce che esistono gravi e
+concreti indizi di colpevolezza a carico dell’accusata, evincibili dalle
+chiamate in correità di __________ e di __________, dai riscontri scientifici e
+dalle ammissioni (seppur generiche e correlate da numerosi “non ricordo”)
+dell’accusata stessa.
+A mente del magistrato inquirente
+vi sarebbe anche concreto pericolo di fuga, essendo l’accusata cittadina
+italiana senza alcun legame con il nostro Paese ma con fortissimi legami in
+Patria dove sarebbe addirittura “
+il perno della famiglia
+”; non potendosi
+per di più escludere a priori che all’accusata venga inflitta una pena da
+espiare (viste le condanne alle corree) e, considerato il suo atteggiamento
+processuale “
+più incline al silenzio che non alla collaborazione
+”, il PP
+ritiene plausibile che l’accusata preferirebbe non presentarsi al processo se
+messa in libertà provvisoria.
+D.
+La difesa, con osservazioni 14
+novembre 2006 di cui si dirà, se del caso, in seguito, si è sostanzialmente
+confermata nella propria istanza di libertà provvisoria.
+In diritto:
+1.
+L’accusata, detenuta, è
+pacificamente legittimata a presentare istanza di libertà provvisoria.
+Il preavviso negativo del
+Procuratore pubblico, ritenuta ricezione dell’istanza il 10 novembre 2006, è
+tempestivo avendolo trasmesso a questo ufficio, unitamente al preavviso
+negativo e all’intero incarto penale, il 13 novembre 2006, nel termine di 3 giorni
+previsto dall’art. 108 cpv. 1 CPP.
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui di seguito riproposti.
+L’art. 95 CPP – corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 – dopo evidenza al cpv. 1 del principio secondo cui l’accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo ai sensi dell’art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali – per quanto qui concerne – i bisogni
+dell’istruzione, con particolare riguardo al pericolo di collusione e di inquinamento
+delle prove che, sia detto qui a futura memoria – può continuare ad esistere
+fino al pubblico dibattimento (sentenza della I Corte di diritto pubblico del
+Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si aggiunge,
+sempre con riferimento al caso in esame, che l’elenco dei motivi di interesse
+pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio aggiuntivo del 20
+marzo 1991 concernente la revisione del CPP, ad art. 27 , pag. 32, nota 3), tra
+altri possibili, essendovi quello della tutela dell’ordine pubblico (REP 1998
+n. 105).
+L’eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 consid. 3) in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali – nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggiore rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all’arbitrio (REP
+1980 pag. 128).
+(per tutte: sentenza GIAR
+21.12.2001 in re G., Inc. 520.2001.5).
+3.
+L’esistenza di gravi e concreti
+indizi di colpevolezza deve essere verificata d’ufficio nei limiti di
+competenza di questo giudice derivanti dalla sua funzione che è quella di
+esaminare l’esistenza dei presupposti per il mantenimento della misura
+restrittiva della libertà personale e non di valutare nella sostanza
+l’esistenza di un reato.
+Con verosimiglianza sufficiente,
+a questo stadio del procedimento ed in questa sede, si può concludere per la
+presenza di seri e di concreti indizi di colpevolezza a carico di __________ __________
+relativi ad un suo coinvolgimento nei fatti inquisiti.
+La difesa sembra infatti
+trascurare il fatto che l’accusata ha più volte ammesso di essere ripetutamente
+venuta in Svizzera con la sorella __________ e la nipote __________ a
+commettere furti (per tutti i verbale PP del 10 ottobre 2006, AI 38 e sulle
+modalità di commissione dei furti il verb. PP 3 novembre 2006, AI 45). A torto
+asserisce poi che non vi sarebbero riscontri oggettivi a sostegno della sua
+partecipazione ai furti imputatile (a questo proposito basti ricordare il
+rapporto di comparizione dattiloscopia della Polizia scientifica del 5 maggio
+2003, allegato 3 al rapporto di complemento 11 maggio 2003, AI 2, o il rapporto
+di segnalazione per richiesta di tabulati retroattivi del 23 marzo 2004, AI 4,
+che riporta i fotogrammi che riprendono l’accusata mentre sta indebitamente
+prelevando da un bancomat con una carta bancaria rubata in precedenza) e
+sottovaluta le circostanziate chiamate in correità di sorella e nipote peraltro
+non contestate, almeno nella sostanza, dall’accusata (cfr. verbale PP 3 novembre
+2006, p. 1, AI 44 e verb. PP 3 novembre 2006, p. 3, AI 45), oltre che il
+riconoscimento di una parte lesa per quanto riguarda il furto a __________ del
+6 maggio 2003 (cfr. verb. PP del 10 ottobre 2006, p. 8. AI 37).
+4.
+L’accusata
+ritiene che non sussistano più bisogni istrutto
+ri né pericolo di
+collusione, essendo ormai il procedimento penale allo stadio del deposito degli
+atti, dello stesso parere il PP.
+5.
+Il pericolo di fuga è l’unico
+motivo di interesse pubblico evocato dal magistrato inquirente, per
+giustificare il mantenimento della carcerazione preventiva dell’accusata.
+a)
+Il pericolo di fuga, per
+giustificare carcerazione preventiva, deve essere concreto e rivestire di una
+certa probabilità: in altri termini lo si ammette quando l’accusato, se posto
+in libertà, si sottrarrebbe con una certa verosimiglianza al perseguimento
+penale ed alla (eventuale) esecuzione della pena. La gravità della pena
+presumibile non basta, da sola, a motivare la carcerazione; occorre valutare
+l’insieme delle circostanze, tra cui il carattere dell’accusato, la sua morale,
+i legami famigliari, il domicilio, la professione, la situazione economica e
+tutti quegli elementi che rendono la fuga non solo possibile ma probabile (DTF
+19 gennaio 1999 in re G.S.; DTF 117 Ia 69; SJ 1980 186; SJ 1981 135; N. Schmid,
+Strafprozessrecht, ZH 1997, no. 701).
+Ritenuto che a poco valgono, per
+quest'analisi, le semplici dichiarazioni d'intenti dell'accusato stesso (per
+tutte: sentenza GIAR 27 maggio 2002 in re P.) e che la concretezza del pericolo
+di fuga può essere accertata "Auch wenn keine konkrete Flüchtpläne u.ä.
+gefordet sind, …" (Schmid, ibidem).
+La difesa sostiene che “
+la
+signora fa parte di una famiglia zingara sedentarizzata. Da decenni ormai non
+sono più nomadi, bensì facilmente reperibili, con fisso domicilio a __________
+dove la famiglia vive, lavora e dove i figli in età scolastica frequentano le
+elementari e le medie.
+” (istanza, p. 4, punto 5.1.).
+A mente del PP è invece dato e
+sufficientemente concreto il pericolo di fuga; l’accusata è cittadina italiana
+e non avrebbe alcun legame con il nostro paese. In queste circostanze,
+considerato il suo atteggiamento giudicato non propriamente collaborativo,
+sussiste serio pericolo che possa essere tentata di sottrarsi al procedimento (preavviso
+negativo, p. 2).
+__________ è cittadina italiana e
+risiede in Italia a __________ (provincia di __________) con i figli ed il
+compagno. Ella non ha alcun legame con il nostro Paese, né famigliare né
+professionale, mentre che, di tutta evidenza, il motivo della sua venuta in
+Svizzera nel 2002 e 2003 con sue due parenti è legato unicamente alla
+commissione dei furti di cui è accusata.
+Non è chiaro, e la difesa non lo
+spiega ulteriormente, per quale motivo l’essere socialmente integrato nel
+proprio Paese, per uno straniero perseguito penalmente in Svizzera, possa
+essere considerato elemento atto a scongiurare il pericolo di fuga.
+Pure l’atteggiamento processuale
+dell’accusata, che appare poco collaborativo – è evidente che __________ ha
+ammesso di avere commesso i furti di cui è accusata ma, se da un lato ammette,
+dall’altro la difesa sostiene non esservi riscontri oggettivi a suo carico –
+concorre a sostanziare il timore che l’accusata non abbia nessuna intenzione di
+fare piena chiarezza della sua posizione sottoponendosi di buon grado ad un
+processo in Svizzera.
+Per quanto riguarda la presenza
+di riscontri oggettivi già si è detto per quanto riguarda l’analisi
+dell’esistenza degli indizi di reato.
+Per quanto riguarda le chiamate
+di correo la difesa dimentica che è stata l’accusata stessa a dichiarare
+attendibili, almeno nel complesso, i verbali di sorella e nipote che, non solo
+non ha contestato se non per alcuni dettagli, ma che non sono state chiamate
+dalla difesa a nuovamente deporre per eventualmente smentire le proprie
+dichiarazioni accusatorie nei confronti di sorella e zia.
+Tutto ciò considerato fa temere
+che, se messa in libertà provvisoria, l’accusata potrebbe preferire facilmente
+evitare di tornare in Svizzera per sottoporsi al processo – considerato poi che
+non facendo parte di una famiglia nomade (per stessa ammissione della difesa)
+non avrebbe nessun danno di rilevo (né personale né per il gruppo famigliare)
+dal dovere evitare di entrare o transitare in Svizzera – rendendo concreto il pericolo
+di fuga.
+Alla luce di quanto sopra deve
+essere considerato come probabile (e non solo ipotizzabile teoricamente) che
+qualora confrontata con il rischio di un pena di una certa gravità (e non
+necessariamente al beneficio della sospensione condizionale), l’accusata possa
+ritenere come la soluzione più interessante quella di rimanere in Italia e non
+ritornare in Svizzera per la celebrazione del processo con il rischio di dovere
+rientrare in carcere e di conseguenza di non potere essere materialmente e fisicamente
+d’aiuto alla sua famiglia. Se le accuse dovessero essere confermate il rischio
+di una pena non lieve esiste (i reati per i quali è stata promossa l’accusa
+prevedono anche la reclusione), anche in considerazione dei precedenti penali
+dell’accusata in Italia per reati analoghi, che verranno sicuramente
+considerati in sede di giudizio, nonché in considerazione della condanna delle
+corree __________ e __________, avvenuta con sentenza 5 agosto 2004 della Corte
+delle Assise criminali di Lugano. Non è neppure certo che ella possa (sempre
+eventualmente) beneficiare della sospensione condizionale. Quest’elemento da
+solo non è determinante, ma deve essere attentamente considerato se ad esso se
+ne sommano altri come sopra descritto (SJ 1980 186; SJ 1981 135; N. Schmid,
+Strafprozessrecht, ZH 1997, n° 701).
+b)
+Come già detto sopra, nel caso in
+esame il rischio di una pena da espiare non è da sottovalutare ed il rischio di
+fuga, in genere, appare maggiore quanto più ci si avvicina al giudizio di
+merito (cfr. Mario Luvini, in Rep 1989 p. 287 ss, nota 38).
+La richiesta di fissare una
+cauzione può essere oggetto di discussione allorquando l'unico motivo a
+giustificazione del mantenimento della detenzione preventiva è il pericolo di
+fuga ma ciò a condizione che tutti gli elementi per una sua determinazione
+siano dati, ciò che qui non è il caso vista l'impossibilità di stabilire un
+importo secondo i criteri minimi riconosciuti (N. Schmid, Strafprozessrecht, ZH
+1997, n. 719; Hauser/Schweri, op. cit., § 68 n. 44; DTF 105 Ia 187).
+Non solo non viene avanzata
+nessuna proposta di cauzione con un importo determinato, ma sfugge totalmente
+al magistrato inquirente e a questo giudice la capacità finanziaria
+dell’accusata e della sua famiglia, elemento indispensabile per potere
+stabilire con cognizione di causa l’eventuale importo cauzionale in ossequio ai
+dettami della giurisprudenza.
+In ogni caso, il versamento di
+una cauzione così come proposto dalla difesa appare comunque, di primo acchito,
+insufficiente, a garantire la presenza dell'accusata al dibattimento.
+L’entità della cauzione deve
+infatti essere determinata soprattutto in relazione alla gravità del reato e
+all’importanza del pericolo di fuga; occorre pure considerare la situazione
+economica dell’accusato e delle persone eventualmente chiamate a prestare
+cauzione (DTF 105 Ia 186; Sj 1980 389). Nel caso in esame gli elementi per
+valutare la cauzione non sono dati. Spetta infatti all’accusato e a chi è
+disposto ad intervenire, fornire i necessari elementi per una corretta e
+completa valutazione della situazione (SJ 1980, 181 e 586).
+La cauzione, essendo proposta da
+terzi (materialmente da non meglio precisati famigliari, ma non è nota la loro
+identità come il quantum della cifra proposta e la sua provenienza), non potrebbe
+essere valutata per ottenere quell’effetto dissuasivo che l’applicazione di
+tale strumento dovrebbe implicare. Non conoscendo la capacità finanziaria e
+dell’accusata e dei non meglio precisati famigliari che presterebbero la
+cauzione, non è infatti possibile valutare se l’accusata potrebbe facilmente
+preferire perdere l’importo depositato piuttosto che presentarsi al
+dibattimento.
+Di conseguenza, considerato
+quanto sopra e cioè la gravità dei reati, la concretezza del pericolo di fuga e
+la mancanza di elementi patrimoniali a disposizione, la misura sostituiva
+dell’arresto proposta non può essere presa in considerazione.
+6.
+La proporzionalità di una
+carcerazione (preventiva) deve essere analizzata da angolature diverse. Da un
+lato occorre mettere in relazione la durata del carcere preventivo con la
+gravità e complessità della fattispecie e con la pena presumibile e dall’altro
+occorre anche verificare il rispetto del principio di celerità (SJ 1981 p. 383
+e citazioni; art. 102 CPP).
+La proporzionalità della
+carcerazione sin qui sofferta da __________, alla luce della gravità delle
+accuse, della presenza di concreti indizi di colpevolezza, e della celerità con
+la quale è stata condotta l’inchiesta è sicuramente data.
+Pure va ammessa nella sua
+eccezione più generale di rapporto tra la durata della carcerazione preventiva
+ed il rischio di pena se considerate le comminatorie di pena per i singoli
+reati imputati a __________.
+L’accusata è stata arrestata il
+22 agosto 2006, è sarebbe ormai prossimo (per stesse rassicurazioni del PP che
+ha ricevuto il rapporto di Polizia soltanto il 10 novembre scorso) il deposito
+degli atti, ed il PP ha assicurato che, fatta salva la presentazione di
+complementi istruttori, sarà celere l’emanazione dell’atto d’accusa (preavviso negativo,
+p. 2); ad oggi __________ è in detenzione preventiva da meno di tre mesi, in
+caso di condanna, il rischio di pena è certamente superiore alla detenzione
+preventiva sofferta e a quella presumibilmente da soffrire per l’emanazione
+dell’atto d’accusa e per l’aggiornamento del processo in pieno rispetto del
+principio della proporzionalità.
+7.
+In conclusione, alla luce di
+quanto sopra esposto, si deve concludere che nei confronti di __________ sono
+dati gravi indizi di colpevolezza e pericolo di fuga. Per i motivi suesposti
+non può entrare in linea di conto la fissazione di una cauzione.
+Il presente giudizio, in tema di
+libertà personale, è esente da spese e tassa di giustizia (art. 39 let. f TG e
+contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali del
+Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati gli art. 139, 144 e
+186 ss., 102, 103, 173, 174, 184, 279 ss e 284 CPP,
+decide:
+1.
+L’istanza di libertà provvisoria presentata il 9 novembre 2006 da __________
+è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
