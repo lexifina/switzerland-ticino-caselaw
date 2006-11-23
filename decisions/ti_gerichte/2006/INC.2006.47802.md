@@ -1,0 +1,489 @@
+---
+decision_id: "ti_gerichte_INC.2006.47802"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.47802"
+decided: "2006-11-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=91315&nX40_KEY=4711235&nTrefferzeile=75&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-041.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md"]
+---
+
+# TI Gerichte INC.2006.47802
+
+## Regeste
+
+Libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.11.2006 INC.2006.47802
+Tessin Il Giudice dell'istruzione e dell'arresto 23.11.2006 INC.2006.47802
+Ticino Il Giudice dell'istruzione e dell'arresto 23.11.2006 INC.2006.47802
+
+Libertà provvisoria
+
+Incarto n.
+INC.2006.47802
+Lugano
+23 novembre 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire
+sull'istanza di libertà provvisoria presentata il 17 novembre 2006 da
+__________
+, __________, attualmente c/o __________, __________
+(rappr. dall’avv. __________,
+__________)
+e qui trasmessa con
+preavviso negativo del 20/21 novembre 2006 da
+Procuratore pubblico
+Moreno Capella
+, MP Lugano
+viste
+le osservazioni della difesa (21/22 novembre 2006);
+visto
+l'inc. MP __________;
+ritenuto
+e considerato,
+in fatto ed in diritto
+1.
+__________ è stato arrestato a Mendrisio il 24 ottobre
+2006; nei suoi confronti è stata promossa l'accusa per titolo di infrazione
+aggravata, subordinatamente semplice, alla LFStup (doc. 1, inc. GIAR
+478.2006.1).
+L'arresto è stato confermato il giorno successivo, da
+questo giudice, ritenuti presenti sufficienti indizi di reato, necessità
+istruttorie e pericolo di fuga (doc. 3, inc. GIAR 478.2006.1).
+2.
+L'arresto è avvenuto, come detto, a Mendrisio
+nell'immobile in cui è situato l'appartamento di __________. Al momento
+dell'arresto egli si trovava, con la stessa __________ e __________ (anch'essi
+arrestati), praticamente sull'uscio dell'appartamento. Sulla sua persona sono
+state trovate due bolas di cocaina, altri 484,2 grammi (confezionati in tre
+pacchetti), così come una bilancia digitale, si trovavano all'interno di uno
+zainetto appartenente ad una delle figlie della __________. Secondo il rapporto
+di polizia, al momento dell'intervento lo zainetto si trovava per terra, in
+prossimità delle tre persone (che, apparentemente, stavano uscendo
+dall'appartamento); non é stato, quindi, possibile determinare chi lo avesse in
+mano, materialmente, in quel momento (cfr. doc. 2, inc. GIAR 478.2006.1).
+Da qui l'accusa di detenzione a scopo di vendita di
+poco meno di 500 grammi di cocaina che figura sulla promozione dell'accusa.
+3.
+L'inchiesta è proseguita mediante le audizioni degli
+accusati, l'emanazione di ordini di perquisizione e sequestro, l'acquisizione
+(in alcuni casi) della relativa documentazione, nonché accertamenti da parte
+della polizia scientifica, come si evince dall'elenco atti dell'incarto.
+4.
+Con l'istanza qui in discussione (doc. 2, inc. GIAR
+478.2006.2), __________ chiede di essere posto in libertà provvisoria.
+A suo dire non vi sono sufficienti indizi di reato a
+suo carico in relazione ai 484,2 grammi sequestrata non sulla sua persona (la
+droga è stata ritrovata in uno zainetto che non gli appartiene, in un
+appartamento in cui era semplicemente ospite, e non vi è alcuna chiamata in
+correità nei suoi confronti). L'assenza di sufficienti indizi a suo carico
+sarebbe, inoltre, corroborata dall'assenza (fino al momento della presentazione
+dell'istanza) di interrogatori da parte del magistrato inquirente, nonostante
+richieste in tal senso, che non avrebbe nulla da contestargli (Istanza, punto
+2.1).
+Ricordando che la detenzione non può servire da mezzo
+di pressione per ottenere dichiarazioni o ammissioni, l'accusato istante
+contesta l'attualità di un pericolo di collusione o inquinamento delle prove
+(tutte le persone presenti nell'appartamento sono state arrestate e salvo un
+caso ancora detenute; punto 2.2.) e l'esistenza di un rischio di recidiva
+(neppure ritenuto dal GIAR al momento dell'arresto; punto 2.4.). L'eventuale
+pericolo di fuga è, a suo dire, limitabile mediante fissazione di una cauzione
+(punto 2.3.).
+5.
+Di diverso avviso il magistrato inquirente che nel
+preavviso negativo (doc. 1, inc. GIAR 478.2006.2) indica gli indizi di reato
+nella presenza dell'accusato in un appartamento dal quale stava uscendo,
+insieme ad altri, con uno zaino contenente cocaina, nel possesso personale di
+ca. 2 grammi di analoga sostanza, nelle diverse versioni fornite in merito al
+possesso dei due grammi menzionati e nel (recente) accertamento della presenza
+di impronte riconducibili a __________ sulla carta utilizzata per la confezione
+dei pacchetti ritrovati dagli inquirenti nello zaino (a scanso di equivoci, va
+detto che le impronte sono state rilevate sulla parte di carta rimasta in casa
+dopo la confezione).
+Inoltre, e sempre secondo l'inquirente, vi sono
+elementi di fatto (accompagnamento in luoghi pubblici, contatti telefonici) che
+permettono di ritenere che il qui accusato sia recentemente subentrato a
+precedente intermediario utilizzato dal correo __________ (Preavviso, pag. 1 e
+2 ).
+In aggiunta ai gravi indizi di reato, il Procuratore
+pubblico ritiene presenti, a fondamento del mantenimento della misura
+cautelare, sia necessità istruttorie (inchiesta complessa, con diramazioni, e
+necessità di contestare agli accusati sia le contraddizioni sia i riscontri che
+man mano emergono, nonché accertamenti da svolgersi all'estero), sia pericolo
+di fuga vista la cittadinanza estera, l'assenza di legami con la Svizzera e
+l'atteggiamento ermetico quando non contraddittorio dell'accusato (Preavviso,
+pagina 2 in fine e 3).
+6.
+Con osservazioni del 21 novembre 2006 (doc. 6, inc.
+GIAR 478.2006.2) la difesa contesta nel dettaglio la concretezza degli indizi
+di colpevolezza indicati dal Procuratore pubblico nel preavviso negativo, non
+senza aver lamentato di non aver avuto ancora accesso ai verbali
+d'interrogatorio dei coaccusati e di altre persone coinvolte nella fattispecie
+e lamenta come violazione dei diritti della difesa l'utilizzo in questa sede di
+quanto neppure ancora prospettato (Osservazioni, pag. 1).
+In sostanza, la difesa afferma che __________ non
+stava lasciando l'appartamento, al momento del fermo, più semplicemente stava
+accompagnando i due coaccusati all'ascensore (pag. 2), che i contatti
+telefonici tra l'istante ed i correi non proverebbero nulla in quanto i tre si
+conoscono da un anno (pag. 3) e che le impronte digitali (peraltro riscontrate
+a quasi un mese dall'arresto e non sugli involucri) sono spiegabili con la
+presenza da qualche giorno dell'accusato nell'appartamento in questione.
+In merito ai pretesi (dall'inquirente) bisogni
+dell'istruttoria e pericolo di fuga, ribadisce sostanzialmente quanto detto
+nell'istanza (pag. 4).
+7.
+L'istanza, presentata dall'accusato detenuto è
+ricevibile. La trasmissione del preavviso (avvenuta con consegna alla posta il
+20 novembre 2006) da parte del Procuratore pubblico è tempestiva (artt. 108 e
+20 CPP). Questo ufficio ha ricevuto il tutto in data 21 novembre. Il termine ex
+art. 108 cpv. 2 CPP scade, quindi, il venerdì 24 novembre 2006.
+8.
+Preliminarmente, si constata che in merito all'accesso
+agli atti, la lamentela non è assortita da indicazioni circa l'esistenza di un
+diniego formale e non può quindi essere oggetto della presente decisione (DTF
+14.1.2005, 1s.15/2004). Inoltre, non risulta neppure che, ai fini delle
+osservazioni al preavviso negativo, la difesa abbia chiesto di poter accedere
+all'incarto prodotto al GIAR.
+Nel contempo è opportuno ricordare che ai fini delle
+decisioni in materia di misure coercitive l'autorità chiamata a pronunciarsi
+deve disporre di tutto l'incarto e non solo di parti di questo; e ciò, sia per
+gli esami e verifiche di sua competenza, sia (se non soprattutto) affinché
+l'accusato possa esercitare compiutamente il suo diritto di essere sentito (DTF
+115 Ia 293; DTF 14.1.2005, 1S.15/2006). Allorquando l'accusato si trova in
+detenzione preventiva il rispetto di tale diritto (esplicabile sostanzialmente
+mediante la conoscenza degli atti) assume valenza particolare e impone anche
+specifici obblighi agli inquirenti (DTF 115 Ia 293, DTF 9 luglio 2004
+1s.1/2004, DTF 7 febbraio 2005 1s.3/2005; REP 1994 n. 114)
+Nel caso in esame, in sede di preavviso il magistrato
+inquirente riferisce elementi di sospetto che emergerebbero da altri incarti
+(MP __________ e __________), non prodotti e non agli atti dell'incarto
+concernente il qui accusato (cfr. Preavviso pag. 2, elenco atti inc. MP __________).
+Ne consegue l'impossibilità di considerare, a fondamento della decisione,
+eventuali elementi desunti da tali incarti.
+La questione è leggermente diversa per quanto concerne
+il verbale __________ 8.11.2006, anch'esso non agli atti ma prodotto in questa
+sede con il preavviso, e quindi noto e disponibile per la difesa perlomeno
+dall'intimazione del preavviso per osservazioni. Comunque, è privo di concreta
+utilità proseguire nella disamina dell'utilizzabilità di tale verbale
+(nell'ottica del diritto di essere sentito e per verificare la lamentela
+dell'accusato in merito) in quanto l'estratto prodotto, privo delle foto
+sottoposte all'interrogato e di altre indicazioni utili all'identificazione,
+non permette di neppure di individuare il passaggio in cui si parla del qui
+accusato.
+9.
+In diritto, sebbene
+noto al magistrato ed al patrocinatore dell'accusato, si ricorda
+innanzitutto che:
+"
+L'art.
+95 CPP - corrispondente all’art. 33 scaturito dalla revisione parziale 23
+settembre 1992 / 1. gennaio 1993 - dopo evidenza al cpv. 1 del principio
+secondo cui l'accusato si trova di regola in libertà, consente al cpv. 2
+arresto, perdurare e (poi, se del caso) proroga del carcere preventivo ai sensi
+dell'art. 103 CPP, quando esistono a carico dello stesso accusato gravi e
+concreti indizi di colpabilità per un crimine o un delitto e nel contempo sono
+presenti preminenti motivi di interesse pubblico, quali i bisogni
+dell'istruzione, per ovviare a rischio di collusione o inquinamento (in altro
+modo) delle prove, pericolo di recidiva e il pericolo di fuga (senza
+dimenticare che l’arresto, quale misura processuale cautelativa, non serve
+unicamente ai bisogni dell’istruttoria, ma anche ad assicurare la presenza
+dell’accusato al processo e a garantire l’eventuale espiazione della pena: DTF
+109 Ia 323 consid. c, e riferimenti; sentenza 16 novembre 1993 del Tribunale
+federale in re A.H., 1P.477/1993, consid. 3).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (Rep. 1988
+pag. 416; 1989 pag. 287 ss.) – ritenuto implicito il rispetto della
+proporzionalità (Rep. 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381). Ed anche questo giudice, come già la Camera dei ricorsi penali, non
+restringe la sua cognizione all'arbitrio (Rep. 1980 pag. 128).
+"
+(GIAR 7 novembre 2005, 308.2005.2)
+10.
+a)
+L'esistenza di gravi e concreti indizi di colpevolezza
+deve essere verificata d'ufficio, pur nei limiti di competenza di questo
+giudice derivanti da un lato dalla sua funzione - che è quella di esaminare
+l’esistenza dei presupposti per il mantenimento della misura restrittiva della
+libertà personale, e non di valutare nella sostanza l’esistenza di un reato -,e
+dall’altro - ma in maniera strettamente congiunta con quanto si viene di dire -
+dall’inopportunità di considerazioni di merito premature (a maggior ragione
+laddove, come nel caso in esame, l'accusato sostanzialmente particolari
+responsabilità) e, soprattutto, di competenza delle sedi di giudizio.
+b)
+Nel caso in esame, come già anticipato nei
+considerandi sui fatti, risulta che __________, al momento dell'arresto, era in
+possesso di 2 gr. di cocaina occultati negli slip (AI 69 pag. 2), si trovava
+sull'uscio (o sul pianerottolo antistante l'uscio) dell'appartamento di __________
+in compagnia di quest'ultima e di __________ e nello stesso luogo vi era uno
+zainetto contenente tre pacchetti confezionati con carta (da sacco) della
+spazzatura, a loro volta contenenti poco meno di 500 grammi di cocaina ed una
+bilancia digitale. All'interno dell'appartamento, dove l'accusato era ospite da
+qualche giorno, è stata ritrovata la custodia della bilancia e il residuo di
+carta da pacco della spazzatura, utilizzata per confezionare i pacchetti di
+cocaina ritrovati nello zaino; su tali residui sono state individuate le sue
+impronte digitali (AI 1, all. 5, 8, 12 in particolare; 69, doc. B).
+Inoltre, l'accusato ha fornito (sinora) tre differenti
+versioni circa le modalità con le quali è entrato in possesso dei 2 grammi (AI
+1, all. 11 pag. 2; AI 9, pag. 2; Verbale 31.10.2006, pag. 1) e la versione sui
+tempi e le modalità di arrivo a Mendrisio diverge da quella di __________ (che
+avendo dichiarato di essere l'unico responsabile della coca sequestrata,
+perlomeno in teoria non avrebbe necessità di mentire in merito ad un semplice
+elemento circostanziale: AI 69 pag. 3). Abbondanzialmente, si rileva pure che
+nel primo verbale ha mentito sulla conoscenza, e comune presenza
+nell'appartamento della __________, di tale __________ (la persona il cui
+accoltellamento ha verosimilmente portato all'intervento del 24 ottobre: cfr.
+AI 9 pag. 4).
+c)
+Gli elementi indicati, tenuto conto dello stadio del
+procedimento (DTF 116 Ia 144; DTF 9.7.2004, 1S.1/2004), permettono di
+concludere a favore della presenza di concreti indizi, in capo all'istante, per
+il reato ascritto.
+Non modifica tale conclusione il fatto che si possa
+trovare una spiegazione alternativa, (a quella della partecipazione alla
+detenzione o traffico di cocaina) per la presenza delle impronte sulla carta,
+né quello (se tale si rivelerà essere) che egli non stesse uscendo
+dall'appartamento con gli altri due, bensì solo accompagnandoli all'ascensore
+(?), e neppure la circostanza che nel verbale del 3.11.2006 __________ abbia in
+parte (ma solo in parte) confermato la terza versione circa il possesso dei due
+grammi da parte dell'accusato, visto che i due hanno avuto occasione di
+comunicare durante la carcerazione (Verbale 14.11.2006, pag. 1).
+11.
+a)
+Il pericolo di fuga, per giustificare
+carcerazione preventiva, deve essere concreto e rivestire di una certa
+probabilità: in altri termini lo si ammette quando l’accusato, se posto in
+libertà, si sottrarrebbe con una certa verosimiglianza al perseguimento penale
+ed alla (eventuale) esecuzione della pena. La gravità della pena presumibile (
+"
+…
+elemento "indiziante" importante che va considerato attentamente per
+la valutazione del pericolo di fuga, il quale, secondo la prassi, aumenta più
+ci si avvicina al giudizio di merito, in presenza di una comminatoria di pena
+della reclusione e/o in assenza (ovviamente e sempre in caso di eventuale
+condanna) di prospettive per una sospensione condizionale … omissis … (M.
+Luvini, I presupposti materiali del carcere preventivo, in REP 1989 p. 287ss.,
+p. 32; DTF 106 Ia 404; DTF 117 Ia 69; CEDU Vol.
+A IX p. 44; SJ 1981 p. 377, SJ 1980 186; N. Schmid,
+Strafprozessrecht, ZH 1997, no. 701).
+"
+GIAR 16
+novembre 2006, 345.2006.3; si veda, inoltre, DTF 14.1.2005, 1S.15/2004, e
+riferimenti) non basta, da sola, a motivare la carcerazione. Occorre valutare
+l’insieme delle circostanze, tra cui il carattere dell’accusato, la sua morale,
+i legami famigliari, il domicilio, la professione, la situazione economica e
+tutti quegli elementi che rendono la fuga non solo possibile ma probabile (DTF
+19 gennaio 1999 in re G.S.; DTF 117 Ia 69).
+__________ è cittadino della Repubblica dominicana,
+vive attualmente in Italia (a suo dire presso i genitori della fidanzata; AI
+69), senza lavoro fisso e non ha alcun tipo di legame con il nostro territorio
+che ha frequentato solo nelle settimane precedenti l'arresto e, di fatto, per
+incontrare i coaccusati e stare con loro (AI 69, pag. 2). Se le accuse
+dovessero essere confermate il rischio di una pena non lieve esiste (i reati
+per i quali è stata promossa l’accusa prevedono la reclusione ed una pena
+minima edittale di un anno), anche nell'eventualità di applicazione delle nuove
+norme della parte generale del CP. Quest'elemento, come detto, da solo non é
+determinante, ma deve essere attentamente considerato se ad esso se ne sommano
+altri come sopra descritto (SJ 1980 186; SJ 1981 135; N. Schmid,
+Strafprozessrecht, ZH 1997, no. 701).
+In base a tutto quanto appena esposto, la fuga (intesa
+come indisponibilità a presenziare al seguito del dibattimento e all'eventuale
+relativo processo) può apparirgli quale soluzione più interessante che non
+l’affrontare i rischi di un processo in un paese nel quale non ha legami né
+interessi di alcun tipo. Inoltre, fermo restando il suo diritto di tacere dal
+quale non dovrebbe derivargli alcun pregiudizio (DTF 14.1.2005, 1S.15/2004,
+cons. 3.1.2 e rinvii), è evidente che l'aver fornito 3 versioni diverse circa
+il possesso (accertato e ammesso) dei due grammi, non depone (neppure) a favore
+della volontà di assumere la responsabilità dei suoi atti.
+In conclusione, il pericolo di fuga è presente in modo
+concreto (DTF 102 Ia 382; DTF 106 Ia 407; DTF 117 Ia 69; SJ 1980 585).
+b)
+Quanto alla possibilità di limitarlo mediante
+versamento cauzionale (come ventilato dalla difesa), va detto che la entità della
+cauzione deve essere determinata soprattutto in relazione alla gravità del
+reato e all’importanza del pericolo di fuga. Occorre pure (ma solo entro certi
+limiti; CRP 17.11.2005, 60.2005.357) considerare la situazione economica
+dell’accusato e/o delle persone eventualmente chiamate a prestare cauzione (DTF
+105 Ia 186; SJ 1981 p. 389 e relative citazioni; N. Schmid, Strafprozessrecht,
+ZH 1997, no. 719; Donatsch/Schmid, Kommentar StPO Zurich, nos. 21 a 23 ad art.
+73). Spetta, inoltre, all’accusato, e a chi è disposto ad intervenire in suo
+favore, fornire i necessari elementi per una corretta e completa valutazione
+della situazione (SJ 1980 181 e 586).
+Nel caso in esame, da un lato non viene indicata
+alcuna somma che l'accusato intenderebbe versare, dall'altro gli elementi
+(concreti e certi) a disposizione per la valutazione della situazione sono molto
+limitati e, in gran parte desumibili da semplici dichiarazioni dell'accusato
+stesso che afferma di essere ospitato dai genitori della sua fidanzata e di non
+svolge attività regolare (quindi, è privo di entrate fisse); inoltre, non è
+dato sapere se (egli o la sua famiglia) abbia risparmi o beni in Italia,
+rispettivamente al paese d'origine.
+In simile situazione, non è possibile determinarsi in
+merito ad "adeguata cauzione" e, di conseguenza è del tutto inutile
+chiedersi se al momento attuale preminenti motivi di interesse pubblico si
+oppongano comunque ad una messa in libertà anche su cauzione (CRP 17.11.2005,
+60.2005.357).
+12.
+a)
+In relazione ai bisogni istruttori, atti a
+giustificare la misura restrittiva della libertà personale, occorre ricordare
+che questi non s'identificano semplicemente con gli atti istruttori in quanto
+tali, o con gli accertamenti (ancora) da effettuare, bensì con il pericolo di
+collusione o d'inquinamento delle prove che (eventualmente) espone a rischio la
+corretta raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale
+suisse, ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697
+ss., no. 701a; RDAT 1988 no. 24; DTF 117 Ia 257, cons. 4 c
+Gli
+elementi di concretezza del pericolo vanno individuati, di volta in volta,
+quantomeno nella specifica prova da assumere e nel rapporto (oggettivo e
+soggettivo) dell'accusato con il mezzo di prova (SJ 1990 p. 438; DTF 117 Ia
+257; ZR 72 no. 77 p.19). Il semplice atteggiamento di diniego dell’accusato, in
+sé, non costituisce indice in tal senso (DTF 90 IV 66; Hauser/Schweri,
+Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13).
+b)
+È,
+di regola, compito del magistrato inquirente (anche nel rispetto dell'obbligo
+di motivazione e della garanzia del contraddittorio - si veda, la nota alla
+sentenza 25 marzo 1998, in REP 1998 p. 329), se ne afferma l'esistenza,
+sostanziare la presenza di concreti elementi indicanti pericolo di collusione o
+inquinamento delle prove (DTF 123 I 31; DTF 15.6.2006, 1P.265/2006; GIAR 23
+settembre 2002 in re Y.), ovviamente indicando (anche) di che atti si tratti: "
+non
+spetta infatti a questo giudice approfondire o addirittura ipotizzare quanto
+sta dietro … scarna affermazione del preavviso negativo
+" (GIAR 4
+aprile 2002 in re C.).
+c)
+Nel caso in esame, le asserzioni di complessità
+dell'inchiesta e delle diramazioni che la stessa starebbe assumendo, quelle di
+attesa di riscontri alle richieste formulate nel presente procedimento,
+rispettivamente "…
+in relazione alle inchieste avviate nei confronti di __________
+e __________. Procedimenti tutti correlati tra loro.
+", così come il
+riferimento ad accertamenti da svolgersi all'estero, non sono assortite da
+alcuna indicazione concreta circa gli atti da svolgere, tantomeno circa la
+rilevanza degli stessi per la posizione del qui accusato. Indicazioni in tal
+senso non emergono neppure in modo manifesto dall'incarto trasmesso (e il
+preavviso non vi rinvia in modo specifico). Come detto più sopra, gli incarti
+relativi a __________ e __________ non sono stati prodotti (né risultano
+congiunti), gli ordini di perquisizione e sequestro agli atti non sembrano
+riguardare direttamente la posizione di __________
+(cfr. AI 28 a 36; AI 60 a 68) e non risulta che
+commissioni rogatorie siano state inoltrate (neppure che siano in via di
+allestimento).
+Sulla base delle asserzioni menzionate, non é
+possibile individuare concretamente gli atti di inchiesta, la loro importanza
+per la posizione dell'accusato istante e, di conseguenza, neppure gli elementi
+concreti (o possibilità) di collusione o inquinamento a lui riconducibili.
+Ciò è ancor più vero se il qui accusato fosse da
+annoverare (Preavviso, pag. 2) tra i nuovi (quindi con ipotesi di
+partecipazione limitata nel tempo) intermediari della coppia __________ e __________.
+In merito a quanto sopra, occorre concludere che non
+sono stati forniti a questo giudice sufficienti elementi per decidere con
+cognizione di causa, rispettivamente (e ancor prima) non è stata fornita
+all'accusato la possibilità di esprimersi in merito.
+d)
+Non modifica quanto detto al punto precedente
+l'affermazione secondo cui l'inchiesta sarebbe agli inizi. Infatti, ciò non
+sembra il caso per il qui accusato interrogato quattro volte con contestazioni
+puntuali in relazione ai fatti relativi il momento dell'arresto e un breve
+periodo precedente.
+Certo, chi è inchiestato con altri deve
+sopportare almeno in parte (ed entro certi limiti, quali ad esempio la
+tipologia e l'entità della partecipazione) anche necessità istruttorie, ed i
+relativi tempi, che valgono nei loro confronti, e non solo quelle strettamente
+legate alla sua personale posizione. Questa considerazione, comunque, concerne la
+proporzionalità della detenzione cautelare e non la questione del pericolo di
+collusione e/o inquinamento delle prove (cfr. GIAR 19 agosto 1999, inc.
+386.99.9; GIAR 3 gennaio 2005, 392.2004.2)
+.
+e)
+È, invece, dato (ed emerge in modo evidente
+dall'incarto: cfr. considerando n. 8 della presente) un concreto pericolo di
+collusione, in capo all'accusato, in relazione ai chiarimenti ancora da
+effettuare (mediante contestazioni e/o confronti) in relazione ai fatti
+direttamente connessi con le accuse mossegli (presenza a Mendrisio, detenzione
+dei due grammi, contatti nel periodo immediatamente precedente l'arresto) e sui
+quali sono state finora presentate versioni discordanti, rispettivamente sulla
+questione delle impronte sulla carta, questione in merito alla quale è stata
+raccolta, sinora, solo la versione del qui istante.
+Le varie versioni fornite, fino all'avvicinarsi delle
+rispettive (si veda quanto detto in merito alla possesso dei due grammi) in uno
+con i tentativi (almeno parzialmente riusciti, a quanto sembra) di contatto tra
+gli accusati in carcere (cfr. verbale 14.11.2006, pag. 1) sono concreti indizi
+di un rischio di collusione.
+13.
+La proporzionalità di una carcerazione deve essere
+analizzata da angolature diverse. Da un lato occorre mettere in relazione la
+durata del carcere preventivo con la gravità (e complessità) della fattispecie e
+la pena presumibile, dall'altro occorre anche verificare il rispetto del
+principio di celerità (SJ 1981 p. 383 e citazioni; art. 102 CPP).
+Nel caso concreto, il carcere preventivo sofferto (circa
+un mese) non appare lesivo del principio di proporzionalità: i reati ascritti
+sono comunque gravi e prevedono una pena edittale minima di un anno. Quanto
+alla possibilità che la pena erogata (sempre in caso di eventuale condanna)
+possa essere posta al beneficio della sospensione condizionale, va ricordato
+che ciò dipenderà dalla prognosi (ex art. 41 CP, rispettivamente 42 nCP) di
+competenza del giudice del merito e basata su tutto quanto sarà emerso (o
+accertato) a quel momento; per tale motivo questa eventualità, perlomeno
+allorquando le condizioni non sono manifestamente adempiute, di regola non po’
+essere considerata in questa sede (DTF 125 I 60).
+Nel contempo l'inchiesta, che di fatto coinvolge
+almeno tre persone non evidenzia momenti di stallo tali da mettere in
+discussione il principio di celerità. L'accusato è stato sentito quattro volte
+con, di fatto, contestazione di ulteriori emergenze (tabulati telefonici,
+dichiarazioni dei correi). Non risulta che elementi indizianti (o probatori)
+siano stati acquisiti da tempo e "trattenuti" fuori dall'incarto
+(rispettivamente non prospettati) per inspiegati motivi. Lo stesso verbale
+C.D., che la difesa lamenta come non ancora prospettato, risulta effettuato
+l'8.11.2006 e già il 14 al qui istante è stato chiesto se conoscesse C.D..
+In virtù di quanto sopra non è di particolare
+rilevanza il fatto che le impronte dell'accusato siano state rilevate (se si
+preferisce acquisite all'incarto) a poco meno di un mese dal sequestro della
+carta da pacco oggetto del rilevamento.
+14.
+In conclusione, in capo a __________, sono presenti
+gravi indizi di colpevolezza per i reati ascritti. Sono pure presenti un
+concreto un pericolo di fuga (non limitabile dal versamento di una cauzione,
+già per il solo fatto che non è stata formulata alcuna proposta concreta e non
+sono stati forniti elementi sufficienti per verificare/determinare la congruità
+di una somma) ed un concreto un pericolo di collusione con i due correi, come
+meglio indicato al considerando 10.e.)
+Il mantenimento del carcere preventivo risulta ancora
+rispettoso del principio di proporzionalità.
+L'istanza va quindi respinta.
+P.Q.M.
+richiamati gli articoli 19 cifra 2 LFStup, 95 ss. 102,
+108, 279 ss, 284 CPP,
+decide
+1.
+L’istanza
+di libertà provvisoria presentata da __________             è respinta.
+2.
+Non
+si percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla
+Camera dei ricorsi penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Edy Meli
