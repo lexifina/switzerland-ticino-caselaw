@@ -1,0 +1,213 @@
+---
+decision_id: "ti_gerichte_INC.2006.33511"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.33511"
+decided: "2006-12-06"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=91512&nX40_KEY=4711234&nTrefferzeile=71&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-164.md"]
+---
+
+# TI Gerichte INC.2006.33511
+
+## Regeste
+
+Sequestro
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 06.12.2006 INC.2006.33511
+Tessin Il Giudice dell'istruzione e dell'arresto 06.12.2006 INC.2006.33511
+Ticino Il Giudice dell'istruzione e dell'arresto 06.12.2006 INC.2006.33511
+
+Sequestro
+
+Incarto n.
+INC.2006.33511
+INC.2006.33205
+Lugano
+6 dicembre 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire sul
+reclamo presentato l’8/9 novembre 2006 dalla
+__________
+contro
+lo scritto 27 ottobre 2006
+del Procuratore pubblico Manuela Minotti Perucchi che comunica impossibilità
+di determinarsi su istanza di dissequestro nell'ambito del procedimento di
+cui all'inc. MP __________;
+viste
+le osservazioni del Procuratore pubblico (20 novembre 2006);
+viste
+le osservazioni di __________ (13 novembre 2006) e della __________ (16
+novembre 2006) che si rimettono a questo giudice, rispettivamente segnalano di
+non avere osservazioni particolari;
+visto
+l'inc. MP __________;
+ritenuto
+e considerato,
+in fatto ed in diritto
+che:
+-    oggetto del
+procedimento e degli ordini di perquisizione e sequestro, sono già stati
+indicati in precedente decisione su reclamo della __________, ci si può
+tranquillamente rinviare (cfr. sentenza 25 settembre 2006, GIAR 335.2006.3,
+cons. dea 1 e 2), in quanto nota a tutte le parti (DTF 123 I 130);
+-    il 3 luglio
+2006, a tutti gli istituti bancari del Cantone __________ (AI 70) e ad alcuni
+istituti bancari del Canton __________, è stato notificato un identico ordine
+di perquisizione e sequestro volto ad identificare ogni e qualsiasi relazione
+in qualche modo riconducibile agli accusati (__________e __________) ed alla __________
+per il periodo 1.1.1996/3.7.2006 (AI 70 e 71); l'ordine prevede pure il
+sequestro della documentazione e degli eventuali averi presenti sulle
+relazioni.
+-    gli ordini di
+perquisizione e sequestro bancari (emanati il 3 luglio 2006) sono motivati con
+la finalità di reperire averi della __________ "
+distratti,
+rispettivamente occultati, suscettibili di confisca, devoluzione alle parti
+lese, nonché allo scopo di assicurare i diritti di risarcimento della massa
+fallimentare, rispettivamente delle parti lese
+" (AI 70), quello di
+blocco per "
+assicurare i diritti di risarcimento della massa
+fallimentare, rispettivamente delle parti lese
+" (AI 72);
+-    contro gli
+ordini menzionati, rispettivamente l'uno o l'altro di questi, sono stati
+interposti reclami sia da parte degli accusati sia da parte di altre persone
+(fisiche e giuridiche) in qualche modo toccate dagli stessi, tra cui anche la
+qui reclamante;
+-    la richiesta di
+concedere effetto sospensivo al reclamo, formulata da alcuni ricorrenti, è
+stata evasa rinviando alle modalità previste dall'art. 164 CPP (per quanto
+concerne la perquisizione); di fatto, praticamente tutta la documentazione
+bancaria è stata prodotta sotto suggello, in attesa delle decisioni delle
+autorità di reclamo, rispettivamente ricorso;
+-    questo giudice
+ha sostanzialmente respinto i vari reclami con decisioni del 25 settembre 2006
+(cfr. in particolare, inc. GIAR 332.2006., 335.2006.1, 335.2006.3, 335.2006.4);
+-    due decisioni
+(335.2006.1 e 335.2006.4) sono state impugnate davanti alla CRP che ha respinto
+i ricorsi il 21 novembre 2006 (inc. 60.2006.377 e 60.2006.338) e ha ordinato la
+trasmissione della documentazione al Procuratore pubblico "
+a crescita
+in giudicato della presente decisione
+";
+-    con scritto del
+25 ottobre 2006, la qui reclamante ha chiesto il dissequestro di una relazione
+(a lei intestata), indicando per sommi capi i motivi della richiesta e
+asserendo, con riferimento ai documenti bancari che dovrebbero suffragare le
+affermazioni contenute nell'istanza, che "
+qualora gli stessi non
+dovessero ancora essere stati trasmessi dal GIAR, la sottoscritta li metterà a
+disposizione su semplice richiesta
+" (AI 244);
+-    con lo scritto
+qui impugnato (AI 250), il magistrato inquirente ha comunicato di non essere in
+misura di esprimersi prima di aver potuto esaminare la documentazione bancaria
+ancora sotto suggello;
+-    con ulteriore
+scritto del 27 ottobre 2006 (AI 255) la reclamante ha prodotto alcune fatture,
+chiedendo il dissequestro parziale ai fini del pagamento delle stesse, e il 2
+novembre 2006 ha ricordato che eventuale documentazione bancaria è "
+a
+disposizione
+" (AI 261);
+-    lamentando
+l'assenza di risposta (o decisione) allo scritto menzionato, nonché
+impossibilità di contattare il Procuratore pubblico competente, __________ ha
+inoltrato il presente ricorso chiedendo l'annullamento della decisione 27
+ottobre 2006 sia perché priva di motivazione sia perché ingiustificata nel
+merito (doc. 1, inc. GIAR 335.2006.11), asserendo che la documentazione
+necessaria è in possesso dell'inquirente, comunque reperibile presso la CRP o
+disponibile presso la reclamante;
+-    con le sue
+osservazioni (doc. 6, inc. GIAR 335.2006.11), il magistrato inquirente, ricorda
+che gli atti si trovano ancora presso la CRP (che a quel momento ancora non
+aveva deciso) e afferma impossibilità di esprimersi mancando "…
+la
+documentazione bancaria, rispettivamente le risultanze di ulteriori atti
+istruttori che dovessero rendersi necessari dopo esame della documentazione
+bancaria
+"; inoltre, sempre il magistrato inquirente, ritiene
+irricevibile il reclamo perché lo scritto del 27 ottobre 2006 non è (sarebbe)
+una decisione e infondata eventuale richiesta di constatazione di un diniego di
+giustizia, in quanto "
+… dal 30 giugno 2006 gli atti d'inchiesta sono
+stati praticamente sempre presso le Autorità superiori
+";
+-    il reclamo è
+ricevibile in ordine (legittimazione e tempestività) sia che si rivolga contro
+lo scritto del 27 ottobre 2006 ritenendolo decisione, sia che debba essere
+considerato quale diniego (formale) di giustizia in quanto l'intenzione di non
+emanare decisioni (per il momento) è evidente (e non smentito in sede di
+osservazioni);
+-    con lo scritto
+qui impugnato, il magistrato inquirente ha chiaramente indicato di non essere
+in possesso neppure della documentazione relativa alla relazione bancaria
+(intestata a __________) indicata nell'istanza e nel reclamo oggetto della
+presente;
+-    è pacifico che
+quella specifica documentazione, la perquisizione essendo oggetto di richiesta
+di effetto sospensivo e di procedura ex art. 164 CPP, non può essere visionata
+dal magistrato inquirente fino a decisione definitiva in merito (non è quindi
+"
+a disposizione
+"); la CRP, nella decisione del 21 novembre
+2006, che concerne tutta la documentazione sequestrata, ha disposto la
+trasmissione della documentazione al magistrato inquirente "
+a crescita
+in giudicato
+" della decisione;
+-    la reclamante,
+dopo l'evidente rifiuto del magistrato inquirente di decidere in assenza della
+documentazione bancaria, rispettivamente di posticipare la decisione al momento
+in cui vi avrà accesso, non risulta aver prodotto la documentazione del conto
+che avrebbe imposto al magistrato inquirente una decisione maggiormente
+motivata;
+-    nulla cambia, a
+quanto sopra, la circostanza che il magistrato inquirente non abbia richiesto
+esplicitamente tale documentazione o che non sia stato è possibile (per la
+reclamante) contattarlo; di fatto è l'istanza ad essere carente nella
+motivazione, la risposta (o presa di posizione) del 27 ottobre 2006 né è logica
+conseguenza;
+-    inoltre, non vi
+era motivo di ripetere le motivazioni a fondamento della perquisizione e
+sequestro attualmente in corso, visto che la __________ l'aveva già contestato
+a suo tempo e le relative decisioni (delle autorità di ricorso) sono già state
+emanate (cfr. sentenza 25.11.2006, GIAR 335.2006.3 in particolare);
+-    da quanto sopra
+occorre concludere che il reclamo è, nella sostanza, privo d'oggetto e va
+respinto; nel caso specifico, visto il contenuto della stessa istanza del 25
+ottobre 2006, lo scritto del 27 ottobre 2006 del magistrato inquirente non può
+essere considerato né quale decisione carente nella motivazione, né quale
+comunicazione costitutiva di diniego formale di giustizia e neppure quale
+errato e immotivato rinvio a momento futuro della decisione sull'istanza di
+dissequestro.
+P.Q.M.
+viste le norme applicabili ed in particolare gli artt.
+163, 164 e 165 CP, 167 CP, 159 CP, 251 CP, nonché 85 LIVA, 87 cpv. 3 LAVS e 76
+cpv. 3 LPP, 161, 164, 280 ss., 284 CPP, 29 CF,
+decide
+1.
+Il reclamo 8/9 novembre 2006 presentato dalla __________
+respinto ai sensi  dei considerandi.
+2.
+La tassa di giustizia fissata in FRS 300.--, e le
+spese di FRS 100.--, sono a carico della reclamante.
+3.
+Contro la presente decisione è dato reclamo alla CRP
+entro 10 (dieci) giorni dall'intimazione.
+4.
+Intimazione (con copia delle osservazioni):
+giudice
+Edy Meli
