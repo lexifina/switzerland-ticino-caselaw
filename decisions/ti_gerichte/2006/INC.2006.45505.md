@@ -1,0 +1,258 @@
+---
+decision_id: "ti_gerichte_INC.2006.45505"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.45505"
+decided: "2006-12-22"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=91674&nX40_KEY=4711233&nTrefferzeile=76&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-221.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-107.md", "switzerland/bund/acts/312.0/art-108.md"]
+---
+
+# TI Gerichte INC.2006.45505
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 22.12.2006 INC.2006.45505
+Tessin Il Giudice dell'istruzione e dell'arresto 22.12.2006 INC.2006.45505
+Ticino Il Giudice dell'istruzione e dell'arresto 22.12.2006 INC.2006.45505
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2006.45505
+Lugano
+22 dicembre 2006
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire
+sull'istanza di libertà provvisoria presentata il 18/19 dicembre 2006 da
+__________
+e qui trasmessa con
+preavviso negativo del 19/20 dicembre 2006 dal
+Procuratore
+pubblico Antonio Perugini
+,
+Ministero pubblico del Cantone Ticino
+viste
+le osservazioni della difesa (21 dicembre 2006);
+visto
+l'inc. MP __________;
+ritenuto
+e considerato,
+in fatto ed in diritto
+che:
+-   __________ é stato
+tratto in arresto il 10 ottobre 2006, con contestuale promozione dell'accusa
+per ripetuto incendio intenzionale ai sensi dell'art. 221 CP (doc. 1 e 2, inc.
+GIAR 455.2006.1);
+-   l'arresto è
+stato confermato, da questo giudice, il giorno successivo, ritenuti presenti
+gravi indizi di reato, necessità istruttorie e pericolo di recidiva (doc. 4,
+inc. GIAR 455.2006.1);
+-   in sintesi, __________
+è accusato di essere l'autore di due incendi avvenuti ad __________ (via __________)
+il 28 ottobre 2005, rispettivamente a __________ (__________) il 10 ottobre
+2006; in entrambi i casi gli incendi hanno avuto origine e si sono sviluppati
+all'interno di stabili abitativi (cfr. Rapporti di PG, AI 2.2, 2.3, 2.6;
+Documentazione fotografica polizia scientifica, AI 2.1, 2.4, 2.5);
+-   l'inchiesta è in
+fase conclusiva: in data 6 dicembre 2006, il magistrato inquirente ha proceduto
+al deposito degli atti (cfr. AI non numerato in inc. MP __________);
+-   __________, con
+l'istanza qui in discussione (doc. 1, inc. GIAR 455.2006.1), asserendo assenza
+di un qualsivoglia pericolo di collusione o di inquinamento delle prove
+(l'inchiesta dovendo considerarsi conclusa a seguito del deposito degli atti) e
+che al pericolo di recidiva si può ovviare mediante collocamento in struttura
+di recupero (come indicato dalla perizia psichiatrica), chiede di essere "
+immediatamente
+posto in libertà provvisoria con l'obbligo di soggiorno presso il __________
+";
+-   il Procuratore
+pubblico ha preavvisato negativamente l'istanza (doc. 2, inc. GIAR 455.2006.1)
+sottolineando l'importante pericolo di recidiva, così come emerge dagli atti
+(ripetitività) e dalla perizia psichiatrica, nonché l'assenza, al momento
+attuale, di un concreto progetto di affidabile presa a carico (comunque, e a
+suo dire, da convalidare in sede di giudizio di merito); aggiunge, inoltre,
+che, non essendo ancora scaduto il termine di deposito degli atti, non è
+possibile affermare che l'inchiesta é conclusa e, conseguentemente, che siano
+assenti (eventuali ulteriori) bisogni istruttori;
+-   con
+osservazioni del 21 dicembre 2006 (doc. 5, inc. GIAR 455.2006.1) la difesa
+contesta che si possa invocare pericolo di collusione (in tal senso,
+evidentemente, ha inteso il riferimento ai bisogni istruttori del Procuratore
+pubblico) sulla base di ipotesi (di complementi istruttori); per quanto
+concerne il pericolo di recidiva, sottolinea che la privazione della libertà deve
+avere carattere di
+ultima ratio
+e che, nel caso di __________, il perito
+ha sì posto in relazione i reati con lo stato dell'accusato ed individuato un
+pericolo di reiterazione ma, nel contempo, ha escluso questo rischio nel caso
+di presa a carico specialistica; di conseguenza, sempre secondo la difesa, non
+vi sono ragioni per procrastinare tale presa a carico;
+-   pacifica la legittimazione dell'accusato e
+detenuto a presentare istanza di libertà          provvisoria;
+-          la
+consegna del preavviso, dell'incarto e dell'istanza (brevi manu il 20 dicembre
+2006) da parte del Procuratore pubblico è tempestiva ai sensi dell'artt. 108
+cpv. 1 CPP; il termine per l'emanazione della relativa decisione da parte di
+questo giudice (art. 108 cpv. 2 CPP) scade il 27 dicembre 2006 (art. 20 CPP);
+-   in diritto:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso) proroga del
+carcere preventivo ai sensi dell'art. 103 CPP, quando esistono a carico dello
+stesso accusato gravi e concreti indizi di colpabilità per un crimine o un
+delitto e nel contempo sono presenti preminenti motivi di interesse pubblico,
+quali i bisogni dell'istruzione, per ovviare a rischio di collusione o
+inquinamento (in altro modo) delle prove, pericolo di recidiva e il pericolo di
+fuga (senza dimenticare che l’arresto, quale misura processuale cautelativa,
+non serve unicamente ai bisogni dell’istruttoria, ma anche ad assicurare la
+presenza dell’accusato al processo e a garantire l’eventuale espiazione della
+pena: DTF 109 Ia 323 consid. c, e riferimenti; sentenza 16 novembre 1993 del
+Tribunale federale in re A.H., 1P.477/1993, consid. 3).
+I menzionati presupposti vanno approfonditi con maggior
+rigore nella loro valutazione, quanto più si è protratta la restrizione della
+libertà e quanto più si avvicina la conclusione delle indagini (Rep. 1988 pag.
+416; 1989 pag. 287 ss.) – ritenuto implicito il rispetto della proporzionalità
+(Rep. 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381). Ed anche
+questo giudice, come già la Camera dei ricorsi penali, non restringe la sua
+cognizione all'arbitrio (Rep. 1980 pag. 128)."
+(GIAR 7.11.2005, 472.2006.3)
+-
+non occorrono grandi
+disquisizioni per concludere a favore della presenza, in capo a __________, di gravi
+indizi di colpevolezza (dati per scontati sia dal magistrato inquirente che
+dalla difesa): basta rinviare ai suoi verbali e relative ammissioni (anche in
+presenza di difensore; AI 3.1), nonché ai rapporti di polizia citati più sopra;
+-   in capo a __________
+è pure presente un concreto pericolo di recidiva (in sé non contestato dalla
+stessa difesa);
+-   la "reiterazione"
+di atti analoghi (come da imputazione ed ammissioni), la dichiarata assenza di
+ricordi precisi circa la "motivazione" del passaggio all'atto
+(rispettivamente, la futilità di quelle ipotizzate), le modalità operative,
+nonché l'asserito collegamento con l'abuso di alcool e incapacità di astenersi dal
+consumo, perlomeno in determinate situazioni (cfr. Verbale GIAR 11.10.2006, in
+particolare pag. 4; AI 3.1 pag. 3 e 4), cui si aggiungono le conclusioni della
+perizia psichiatrica agli atti (AI 4.2) che, effettuata la diagnosi clinica
+(pag. 12 punto uno in fine) stabilisce una relazione con gli atti commessi
+(pag. 12 punto 2) e risponde affermativamente alla domanda relativa il rischio
+di commissione di nuovi atti analoghi (pag. 13, punto 4), sono tutti elementi
+che concorrono a prognosi sfavorevole, tenuto conto anche della gravità dei
+fatti (ipotesi di reato) di cui si teme reiterazione (DTF 21.1.2005,
+1P.750/2004; DTF 25.4.2006, 1P.198/2006; CRP 16.5.2006, 60.2006.154);
+-   accertata
+l'esistenza di una delle condizioni alternative che giustificano la detenzione
+cautelare, in aggiunta ai gravi indizi di colpevolezza, non è necessario
+verificare l'eventuale esistenza delle altre (o di un'altra di queste);
+-   nel caso in
+esame, tuttavia, occorre chiedersi se ci si trovi nella situazione di cui
+all'art. 107 CPP, quindi se entra in linea di conto la misura sostitutiva
+(collocamento presso il __________) come proposto e richiesto dall'istante;
+-   questo giudice
+ha qualche dubbio che una sorta di collocamento anticipato possa essere
+considerato e ordinato (rispettivamente trattato e vagliato) quale
+"semplice" misura sostitutiva ai sensi della norma citata; se da un
+lato è vero che né il tenore letterale dell'art. 107 CPP, né la giurisprudenza
+(cfr. CRP 17 novembre 2006, 60.2005.357, cons. 12), né la dottrina (Rusca, Salmina,
+Verda, commento al CPP, n. 6 ad art. 107) escludono l'applicazione di una
+misura sostitutiva dell'arresto per i casi di pericolo di recidiva, è
+altrettanto vero che il collocamento, in quanto tale, è misura terapeutica di
+specifica pertinenza del merito (sia perché alternativa ad altre misure sia per
+le sue connessioni con la pena: cfr. artt. 43 e 44 CP, 59 e 60 nCPP; si veda
+anche GIAR 13 ottobre 2006, 155.2005.6, cons. 5), la cui anticipazione non è
+esclusa (art. 58 nCP) ma presuppone un approfondimento particolare della
+necessità, urgenza, rispettivamente conciliabilità con la (eventuale) pena (cfr.
+per analogia: DTF 100 IV 204) e l'adeguatezza dell'istituzione in cui dovrebbe
+avvenire (art. 56 nCP); inoltre, a sostegno di quanto appena espresso, si rileva
+che il CPP tratta esplicitamente la possibilità di un collocamento anticipato
+all'art. 105 (marginale: "
+Anticipazione di pena e di collocamento
+";
+-   da quanto
+appena detto si potrebbe concludere all'irricevibilità di una richiesta di
+collocamento (quale misura sostitutiva della detenzione ai sensi dell'at. 107
+CPP) contestuale a quella di scarcerazione, in quanto la prima dovrebbe essere
+oggetto di specifica decisione del magistrato inquirente (e competenza di
+questo ufficio solo ex art. 280 ss.) e seguire procedura diversa da quella di
+cui all'art. 108 CPP (non é infatti nelle competenze di questo ufficio
+organizzare ed effettuare collocamenti o agganci terapeutici concreti; si veda
+ancora: GIAR 13 ottobre 2006, 155.2005.6, cons. 5);
+-   sia come sia,
+anche qualora si dovesse/potesse trattare la richiesta di immediato collocamento
+quale misura sostitutiva dell'arresto cautelare, così come postulato
+dall'istante, nel caso in esame si ha che:
+Ø
+il perito, indica chiaramente la necessità di un
+trattamento specialistico al fine di limitare (se si preferisce ovviare) il
+pericolo di recidiva, segnala (ma solo nelle grandi linee) gli elementi
+terapeutici (psicoterapia individuale e terapia biologica -farmacologica- psicostabilizzante)
+di tale trattamento e la necessità che lo stesso avvenga in situazione di
+collocamento presso un struttura adeguata (dal punto di vista terapeutico);
+Ø
+l'istante, si dichiara disponibile a seguire una
+terapia e ad accettare il collocamento (Istanza, pag. 2);
+Ø
+con l'istanza non è comunicata l'esistenza di un
+progetto terapeutico concreto e dettagliato, elaborato/concordato con la
+struttura presso la quale si chiede di essere obbligato a soggiornare(e, se del
+caso, sul quale si sia espresso anche il perito); e neppure da dove si desume
+che il pericolo di reiterazione sia sufficientemente limitato dal collocamento
+stesso (il perito sembra dire che la limitazione del rischio dipenda, come
+sembrerebbe logico, dal trattamento e non dal semplice avvio dello stesso : cfr.
+AI 4.2, pag. 14), rispettivamente se il rispetto dell' (eventuale) obbligo di
+soggiornare sia garantito dalla sola dichiarazione di intenti dell'accusato;
+Ø
+invero, neppure è indicato se, in caso di
+"immediata" scarcerazione con obbligo di soggiorno, il __________ ha
+la volontà e (soprattutto) la possibilità di accogliere l'istante altrettanto
+immediatamente;
+-
+di conseguenza (e
+ritenuto, come già detto, che non spetta allo scrivente ovviare alle carenze
+appena indicate, operazione per le quali neppure avrebbe il tempo visti i
+termini di cui all'art. 108 CPP) occorre concludere che per questo giudice (e
+ancor prima per il magistrato inquirente) non è possibile esprimersi con
+sufficiente cognizione di causa non solo sull'adeguatezza del collocamento immediato
+presso il __________ quale misura sostitutiva dell'arresto di __________ (e
+senza pregiudizio per le competenze del merito), ma neppure sulla concreta
+fattibilità dello stesso;
+-   in conclusione,
+l'istanza deve essere respinta integralmente in quanto in capo a __________ sono
+presenti gravi e concreti indizi di colpevolezza e concreto pericolo di
+recidiva, la detenzione cautelare (quella sofferta e quella prevedibilmente
+ancora da soffrire fino a conclusione dell'istruttoria, celermente condotta) é ancora
+rispettosa del principio di proporzionalità (l'art. 221 CP prevede, quale
+comminatoria, la pena detentiva non inferiore ad un anno) e non sono date le
+condizioni (ricevibilità e sufficiente motivazione) per ordinare il
+collocamento richiesto quale misura sostitutiva dell'arresto.
+P.Q.M
+visti gli artt.
+13, 221 CP, 20, 95 ss., 107, 108, 280 ss., 284 CPP, 9, 10, 31 CF,
+5 cifra 3 CEDU,
+decide
+1.
+L’istanza
+di libertà provvisoria presentata da __________ è respinta.
+2.
+Non si
+prelevano tasse e spese.
+3.
+Contro la presente decisione è dato ricorso alla
+Camera dei ricorsi penali, Lugano, entro dieci giorni dall’intimazione.
+4.
+Intimazione (anticipata via
+fax, visto l’approssimarsi di 4 giorni festivi, ritenuto che il   termine
+di ricorso decorre dall’intimazione dell’originale):
+giudice Edy Meli
