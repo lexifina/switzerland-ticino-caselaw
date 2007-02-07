@@ -1,0 +1,517 @@
+---
+decision_id: "ti_gerichte_INC.2006.36903"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.36903"
+decided: "2007-02-07"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=92136&nX40_KEY=4711231&nTrefferzeile=33&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-156.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/311.0/art-183.md", "switzerland/bund/acts/311.0/art-189.md", "switzerland/bund/acts/311.0/art-287.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2006.36903
+
+## Regeste
+
+Proroga carcere preventivo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 07.02.2007 INC.2006.36903
+Tessin Il Giudice dell'istruzione e dell'arresto 07.02.2007 INC.2006.36903
+Ticino Il Giudice dell'istruzione e dell'arresto 07.02.2007 INC.2006.36903
+
+Proroga carcere preventivo
+
+Incarto n.
+INC.2006.36903
+Lugano
+7 febbraio 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia
+Solcà
+sedente
+per statuire sull'istanza di proroga del carcere preventivo presentata il 17
+gennaio 2007 dal
+Procuratore pubblico
+Nicola Respini,
+MP Lugano
+nei confronti di
+__________
+, __________,
+attualmente c/o __________, __________,
+(patr.
+dall’avv. __________, __________);
+accusato di ripetuta rapina aggravata consumata e
+tentata (art. 140 cifra 1 e 2 CP), sub. ripetuta estorsione consumata e tentata
+(art. 156 CP), ripetuta coazione (art. 181 CP), sequestro di persona e
+rapimento (art. 183 CP), ripetuta coazione sessuale (art. 189 CP), ripetuta
+usurpazione di funzione (art. 287 CP) e infrazione e contravvenzione alla LStup
+(art. 19 cifra 1 e 19a LStup);
+visto lo scritto 29 gennaio 2007 presentato dalla
+difesa;
+visto l'incarto MP __________;
+ritenuto e considerato
+in fatto ed in diritto
+che:
+-
+per quanto riguarda i fatti si può
+far riferimento alla decisione 7 dicembre 2006 di questo giudice a seguito di
+istanza di libertà provvisoria formulata dall’accusato in data 27/28 novembre
+2006 (Inc. GIAR 369.2006.2):
+“A.
+__________ è stato arrestato l’11 agosto
+2006 al suo domicilio, dalla Polizia cantonale su ordine d’arresto di stessa
+data del PP Nicola Respini, “
+per avere, a Lugano, ______ ed altre
+imprecisate località, a partire dall’inizio dell’anno 2005, in un numero
+imprecisato di occasioni, ma in particolare il 26 marzo ed il 2 dicembre 2005,
+per procacciare a sé o a ad altri un indebito profitto, dopo essersi
+legittimato quale agente della Polizia cantonale ticinese, sia esibendo alcuni
+simboli della Polizia che una tessera di legittimazione con le generalità di “__________”,
+tentato, rispettivamente commesso un furto ai danni di una prostituta e di un
+transessuale (Pseudonimo: __________), munito di una pistola e di una fascetta
+di plastica, usando violenza, minacciandoli di un pericolo imminente alla vita
+e all’integrità corporale o rendendoli incapaci di opporre resistenza, tentato
+di sottrarre e sottratto, subordinatamente tentato di indurre e indotto gli
+stessi a consegnargli del denaro e segnatamente fr. 350.-
+“
+.
+L’11 agosto 2006 il PP, con richiesta di
+conferma dell’arresto, ha promosso ad __________ l’accusa per titolo di rapina
+aggravata ripetuta, consumata e tentata, subordinatamente estorsione ripetuta,
+consumata e tentata, coazione ripetuta e usurpazione di funzioni ripetuta
+chiedendo la conferma dell’arresto per i bisogni dell’istruzione – “
+per
+chiarire le sue esatte responsabilità nei fatti che hanno portato al suo
+arresto, come meglio menzionato nel rapporto di arresto, come pure in analoghi
+episodi verificatisi nel corso dell’anno 2005; nonché individuarne le vittime
+sulla base anche della documentazione sequestrata al suo domicilio” –
+e
+pericolo di collusione e di inquinamento delle prove “
+sia nei confronti
+delle vittime che lo hanno denunciato, sia nei confronti di quelle non ancora
+identificate
+” (GIAR 369.2006.1, doc.1).
+Il 12 agosto 2006 questo giudice ha
+confermato l’arresto dell’accusato considerata la presenza di gravi e concreti
+indizi di colpevolezza e per i bisogni dell’istruzione e pericolo di collusione
+con le vittime (Inc. GIAR 369.2006.1, doc. 4).
+Sia davanti alla Polizia che a verbale
+di conferma dell’arresto, __________ ha negato ogni addebito.”
+-
+con decisione 7 dicembre 2006
+(inc. GIAR 369.2006.2, doc. 6) questo giudice – dopo avere constatato la pur
+non contestata presenza di gravi e concreti indizi di colpevolezza – ha
+respinto l’istanza di libertà provvisoria ritenuta l’esistenza di bisogni
+istruttori e un concreto pericolo di collusione ed inquinamento delle prove;
+-
+approssimandosi il termine di
+scadenza della detenzione ex art. 102 cpv. 2 CPP, il magistrato inquirente ha
+inoltrato richiesta per una proroga di un mese e mezzo (istanza 17 gennaio
+2007), allo scopo di potere evadere oggettivi bisogni istruttori quali portare
+a termine gli accertamenti richiesti il 12 gennaio 2007 alla Polizia cantonale
+e procedere all’interrogatorio dei transessuali o delle prostitute i cui
+nominativi dovessero risultare dalle ricerche della Polizia, interrogare il
+gerente dell’__________ di __________ e della prostituta __________ (sia
+singolarmente che a confronto con l’accusato, procedere al deposito degli atti
+ed evadere eventuali complementi d’inchiesta che l’accusato dovesse richiedere
+(istanza, p. 3), tutto ciò considerato il perdurare del pericolo di collusione
+e di inquinamento delle prove visto che l’accusato, ritenuto il suo
+atteggiamento reticente e negatorio in merito ai fatti contestatigli, potrebbe
+ottenere dalle persone coinvolte (testimoni e vittime) delle versioni di comodo
+e reciproci atti d’influenza (istanza, pag. 4);
+-
+a mente del magistrato inquirente,
+la proroga richiesta è rispettosa del principio della proporzionalità se
+paragonata alla gravità dei fatti imputati all’accusato ed alla presumibile
+pena che potrebbe essergli infitta in sede di processo considerata poi la
+sussistenza dei motivi di interesse pubblico quali i gravi indizi di
+colpevolezza e i bisogni istruttori ed il pericolo di collusione ed
+inquinamento delle prove; la messa in libertà provvisoria dell’accusato
+potrebbe compromettere l’esito dell’inchiesta (istanza, p. 4);
+-
+la difesa, con scritto 29 gennaio
+2007, pur non contestando i seri e concreti indizi di colpevolezza, si oppone
+alla richiesta di proroga formulata dal PP, affermando che dal 7 dicembre 2006
+sarebbe stato compiuto un solo atto istruttorio rilevante (ulteriore interrogatorio
+di __________) e che gli ulteriori atti istruttori ipotizzati dal PP sarebbero
+riferiti a casuali scoperte “
+non previste dal precedente programma del PP e
+si ha ragione di dubitare oltretutto di assunzione incerta
+” (osservazioni,
+p. 2); a mente della difesa non sarebbe più rispettato il principio di
+proporzionalità non essendovi garanzie che la proroga richiesta sia efficace
+nell’ambito istruttorio;
+-
+l'istanza, presentata
+dall'autorità competente ed entro un termine ragionevole per rapporto alla scadenza
+di cui all'art. 102 cpv. 2 CPP, è ricevibile;
+-
+i principi che reggono la materia,
+pur se noti al magistrato inquirente ed al difensore, vengono qui brevemente
+richiamati:
+"L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la
+Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128)."
+(per tutte: sentenza GIAR 21.12.2001 in
+re G., inc. 520.2001.5)
+-
+nel caso in esame non occorre
+dilungarsi più di tanto per confermare l'esistenza di gravi indizi di reato in
+capo all'accusato per i fatti che gli sono imputati, basti qui ricordare quanto
+concluso a questo proposito nella decisione di questo giudice del 7 dicembre
+2006 con la quale è stata respinta l’istanza di libertà provvisoria presentata
+dalla difesa (Inc. GIAR 369.2006.2, doc. 6, p. 4, n° 3);
+“Anche qualora non contestata,
+l’esistenza di gravi e concreti indizi di colpevolezza deve essere verificata
+d’ufficio, pur nei limiti di competenza di questo giudice derivanti dalla sua
+funzione che è quella di esaminare l’esistenza dei presupposti per il
+mantenimento della misura restrittiva della libertà personale e non di valutare
+nella sostanza l’esistenza di un reato.
+Con verosimiglianza sufficiente, a
+questo stadio del procedimento ed in questa sede, si può comunque concludere
+per la presenza di seri e di concreti indizi di colpevolezza a carico di __________
+e relativi ad un suo coinvolgimento nei fatti per cui procede il PP.
+A sostenere questa tesi concorrono le
+dichiarazioni di __________, prostituta regolarmente registrata alle Autorità
+di Polizia, che già nel mese di aprile 2005 si era rivolta alla Polizia per
+denunciare di essere stata oggetto di una tentata rapina la notte tra il 26 e
+il 27 marzo 2005, presso il suo appartamento di via __________ a __________, da
+un uomo che si era presentato quale agente di Polizia, mentre erano presenti
+altre due prostitute (verbale di Polizia di __________ del 04.04.20005 di cui
+al rapporto d’arresto di __________ dell’11.08.06, AI 6) una delle quali, __________,
+ha confermato i fatti accaduti (verbale di Polizia di __________ del 21 aprile
+2005 di cui al rapporto d’arresto di __________ dell’11.08.06, AI 6), nonché
+quelle di __________, transessuale brasiliano che si prostituiva illegalmente
+in un appartamento di __________ e che, in occasione di un normale controllo di
+Polizia, il 10 agosto 2006, ha dichiarato di essere stato rapinato e costretto
+ad un rapporto sessuale, dopo essere stato minacciato con una pistola da un
+cliente che si era presentato quale agente di Polizia (verbali di Polizia di __________
+del 10 agosto 2006 di cui al rapporto d’arresto di __________ dell’11.08.06, AI
+6).
+Oltre alle dichiarazioni summenzionate
+sia __________ che __________ hanno riconosciuto tra nove ritratti fotografici,
+mostrati loro dalla Polizia, quello di __________ come quello della persona che
+avrebbe commesso i fatti descritti (verbali di Polizia di __________ e di __________
+dell’11 agosto 2006 cui al rapporto d’arresto di __________ dell’11.08.06, AI
+6). Essi hanno poi ribadito le proprie accuse a verbale davanti al PP ed in
+presenza della difesa dell’accusato (AI 27 e AI 56).
+Lo stesso dicasi per le dichiarazioni di
+un’altro teste, __________ detto __________, transessuale brasiliano residente
+a __________, che nel 2005 si è prostituiva in un appartamento di via __________:
+anche __________ ha dichiarato di avere subito un tentativo di rapina da parte
+di un cliente – al quale avrebbe assistito un suo coinquilino del momento, tale
+__________ – che avrebbe voluto ottenere del denaro e una prestazione sessuale
+senza pagare e che si sarebbe legittimato quale agente di Polizia, arrivando a
+minacciare il teste con una pistola. Anche __________ ha riconosciuto con
+sicurezza __________ come l’autore di tali gesta tra 9 fotografie mostrategli
+dalla Polizia (verbale di Polizia di __________ del 29 agosto 2006, verbali
+Polizia parti lese, all. 2). __________ ha poi confermato le proprie
+dichiarazioni davanti al magistrato inquirente in un verbale a confronto con
+l’accusato (AI 41).
+A questo proposito non vanno poi
+dimenticati gli oggetti rinvenuti al domicilio dell’accusato il giorno del suo
+arresto tra cui: una pistola con munizione, due paia di manette, un giubbotto
+arancione con la scritta “Polizia”, una cartella in pelle marrone, un porta
+documenti nonché il ritrovamento nel suo Personal Computer di un file
+contenente dei biglietti da visita con la scritta “Polizia cantonale – __________
+ispettore capo” oggetti perlopiù identici, ma comunque simili, a quelli
+menzionati dai testimoni come utilizzati dalla persona da loro accusata dei
+fatti oggetto d’inchiesta. Ed infine riveste una certa rilevanza anche
+l’ammissione dell’accusato di essersi presentato quale agente di Polizia ad un
+transessuale dedito alla prostituzione in un appartamento di __________ “
+l’unico
+episodio di cui mi ricordi, in occasione del quale mi sono presentato come
+poliziotto e che vi è stata un po’ di tensione con un tras. Preciso che non si
+trattava di vera e propria tensione ma più di preoccupazione da parte del trans.
+”
+(Verbale PP di __________ del 4 settembre 2006, p. 4, AI 16).”
+-
+in merito ai bisogni istruttori
+atti a giustificare la detenzione preventiva ed il suo perdurare, vi é
+consolidata giurisprudenza (e dottrina):
+“In relazione ai bisogni istruttori, atti
+a giustificare la misura restrittiva della libertà personale, occorre ricordare
+che questi non s'identificano semplicemente con gli atti istruttori in quanto
+tali, o con gli accertamenti (ancora) da effettuare, bensì con il pericolo di
+collusione o d'inquinamento delle prove che (eventualmente) espone a rischio la
+corretta raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale
+suisse, ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697
+ss.; RDAT 1988 no. 24).
+In
+quest'ottica il fatto che l'inchiesta sia tuttora in corso non è, di per sé,
+decisivo, in quanto "
+Die Tatsache allein, dass noch nicht alle Beweise
+erhoben bzw. die Mitverdächtigen dingfest gemacht werden konnten oder dass der
+Angeschuldigte die Aussage verweigert, genügt nicht
+" (N. Schmid, op.
+cit., no. 701a).
+Occorre che l'indagato,
+se posto in libertà, possa pregiudicarne (o comprometterne) il corretto
+svolgimento e, conseguentemente, l'esito.
+E', inoltre, necessario che
+questa possibilità di pregiudicare la raccolta di elementi di prova si fondi su
+elementi concreti: "
+Jedoch genügt nach der Rechtsprechung des
+Bundesgerichtes die theoretische Möglichhkeit, dass der Angeschuldigte in
+Freheit kolludieren könnte, nicht, um die Fortsetzung der Haft oder           die
+Nichtgewährung von Urlauben unter diesem Titel zu rechtfertigen. Es mussen
+vielmehr konktrete Indizien für eine solche Gefahr sprechen
+."
+(DTF 117 Ia 257, cons. 4 c.).
+Gli elementi di concretezza del pericolo
+vanno individuati, di volta in volta, quantomeno nella specifica prova da
+assumere e nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di
+prova. Ad esempio, trattandosi di audizione testimoniale, il pericolo di
+collusione non può essere invocato in modo astratto a giustificazione del
+mantenimento della misura cautelare, occorre che un'influenza (dell'accusato
+nei confronti del teste) sia possibile, rispettivamente che vi sia una
+possibile convergenza d'interessi (tra i due) in relazione al contenuto della
+deposizione (SJ 1990 p. 438; DTF 117 Ia 257; ZR 72 no. 77 p.19). Il semplice
+atteggiamento di diniego dell’accusato, in sé, non costituisce indice in tal
+senso (DTF 90 IV 66; Hauser/Schweri, Schweizerisches Strafprozessrecht, BS
+1999, § 68 no 13).
+(GIAR 23
+settembre 2002 in re Y.)
+Nello stesso senso, la CRP:
+"I rischi di collusione e di
+inquinamento delle prove sono legati soprattutto ai bisogni dell'istruttoria.
+Da un lato si tratta generalmente di evitare o prevenire accordi tra l'imputato
+e i testimoni - già sentito o ancora da sentire - o i correi e complici non
+arrestati, messi in atto per nascondere al giudice la verità, dall'altro di
+impedire interventi fraudolenti del prevenuto in libertà sui mezzi di prova non
+ancora in possesso della giustizia, allo scopo di distruggerli o di alterarli a
+suo vantaggio. la possibilità di ostacolare in tal modo l'azione dell'autorità
+giudiziaria da parte del prevenuto deve essere valutata sulla base di elementi
+concreti, la realtà di questo rischio non potendo essere ammessa
+aprioristicamente ed in maniera astratta (DTF 117 Ia 257; Decisione TF 2.3.2000
+in re A. e rif.; R. Hauser/E. Schweri, op. cit.
+§ 68 n. 13; G. Piquerez, op. cit. n. 2344 ss.)"
+(sentenza 16 settembre 2004 in re B., CRP
+60.2004.297)
+-
+a mente del magistrato inquirente
+non sarebbe ancora stato possibile procedere con il deposito degli atti dal
+momento che, nel corso del mese di gennaio 2007, è emerso che nel periodo tra
+febbraio ed aprile 2006, in due occasioni, una prostituta di nome __________
+avrebbe avuto dei rapporti sessuali con un uomo il quale si sarebbe legittimato
+con una tessera quale agente di polizia al fine di ottenere e non pagare le
+prestazioni ottenute; è dunque necessario procedere con l’interrogatorio, anche
+a confronto con l’accusato, di __________ (identificata in __________) – che a
+dire del gerente dell’__________ di __________ dovrebbe rientrare in Ticino in
+questi giorni – e a quello del gerente dell’EP dove quest’ultima esercita la
+prostituzione (già sentito in Polizia, cfr. AI 86), nonché procedere con gli
+accertamenti richiesti il 12 gennaio 2007 alla Polizia cantonale (su
+suggerimento della difesa) e agli interrogatori delle prostitute e dei
+transessuali eventualmente reperiti dalla Polizia, tutto ciò con la presenza di
+un concreto e grave pericolo di collusione e di inquinamento delle prove dal
+momento che __________ potrebbe ottenere dalle persone coinvolte (testimoni e
+vittime) delle versioni di comodo e reciproci atti d’influenza, di qui la
+necessità della proroga del carcere preventivo richiesta;
+-
+a questo proposito è evidente che
+il reperimento di __________ ed il suo interrogatorio costituiscono atti
+istruttori di sicura importanza per l'inchiesta, per l’accertamento dei fatti e
+delle effettive responsabilità dell’accusato istante; se quanto avanzato dal teste
+__________ dovesse essere confermato dalla diretta interessata,
+indipendentemente dalla valutazione penale dei fatti in sé tale elemento
+sarebbe atto a corroborare le dichiarazioni degli atri testi o vittime in
+merito ad un modus operandi riconducibile all’accusato e ciò indipendentemente
+dal fatto che questo tassello dell’inchiesta sia da ricondurre ad una scoperta
+casuale degli inquirenti; anzi, proprio il fatto che tale scoperta degli
+inquirenti è da ricondurre ad un caso fortuito, e che la presunta vittima non
+abbia inteso rivolgersi in precedenza alla Polizia, è giustificato dal fatto (o
+viceversa sostanzia l’ipotesi) che queste persone (vittime e testi) sono
+sottoposte a pressioni e condizionamenti dovuti all’ambiente illegale e
+omertoso in cui sono costrette a vivere per lavorare, con riferimento a quanto
+avanzato dagli inquirenti secondo cui in questi mesi alla Polizia sarebbero
+giunte diverse segnalazioni di ulteriori vittime di fatti analoghi, senza che
+queste ultime si fossero presentate in Polizia per denunciare o testimoniare,
+stante la loro situazione di illegalità, e comunque sempre di precarietà, in
+Svizzera;
+-
+che può essere richiamato a questo
+proposito quanto affermato nella decisione 7 dicembre 2006 di questo giudice
+(inc. GIAR 369.2006.2, doc. 6):
+“L’interrogatorio di queste persone è un
+tassello importante per l’inchiesta, proprio in considerazione delle
+peculiarità della stessa, che vede coinvolte vittime e testi cittadini
+stranieri, perlopiù soggiornanti illegalmente in Svizzera e facenti parte di un
+ambiente difficile quale quello della prostituzione. Le divergenze che emergono
+dai verbali delle varie persone interrogate stanno a significare che le stesse
+(che in parte neppure si conoscono) non si sono di certo accordate per accusare
+vanamente __________. Le incertezze sulle date in cui sarebbero avvenuti i
+fatti denunciati possono essere ricondotte allo stile di vita delle vittime le
+quali, per lavoro o per necessità, a volte imposte dalle Autorità, devono
+cambiare i loro programmi di residenza e di lavoro in determinato luogo.
+Pure va considerata le difficoltà che le
+Autorità inquirenti devono affrontare per reperire ed interrogare vittime e/o
+testimoni. Non è per nulla casuale che l’unica prostituta che si è presentata
+tempestivamente e spontaneamente alla Polizia per denunciare il tentativo di
+rapina subito è stata __________, a beneficio di un permesso di dimora in
+Svizzera e regolarmente iscritta al registro delle prostitute tenuto dalla
+Polizia cantonale.
+Il pericolo di collusione con queste
+persone, già sentite e ancora da sentire, esiste ed è concreto.
+Emerge infatti in modo evidente
+dall'incarto che __________ sa come muoversi nell’ambiente delle prostitute e
+dei transessuali. Egli frequentava assiduamente il mondo della prostituzione e
+aveva contatti con diverse prostitute e diversi transessuali, ciò per sua
+stessa dichiarazione (verbale di Polizia di __________ del 14 agosto 2006, p.
+3, verbale PP di __________ del 4 settembre 2006 p. 6) oltre che del teste __________
+il quale ha dichiarato al PP che nel periodo in cui __________ gli faceva da
+autista riceveva numerose telefonate da prostitute alle quali si offriva per
+vari favori e che, oltre alle prostitute, frequentava anche dei transessuali
+(verbale PP di __________ del 23 novembre 2006, p. 3).
+__________ sa come e chi contattare e
+conosce le debolezze caratteriali o dettate dalla situazione di illegalità o
+dall’ambiente di lavoro di queste persone, d’altronde è stata la stessa difesa
+a sostenere di volere ricercare dei “
+transessuali e/o comunque persone in
+grado di descrivere il carattere ed il comportamento di __________”
+e che “
+è
+praticamente impossibile per il sottoscritto legale senza l’aiuto del cliente,
+andare a ricercare persone con evidenti problemi di domicilio e dimora, che
+variano il nome a fantasia e che non hanno più contatti con il signor __________
+oramai da mesi
+” (istanza, p. 2). ed è sempre la difesa a sottolineare che,
+“
+la maggior parte di essi risiede in Svizzera illegalmente ed un fermo di
+polizia corrisponde spesso e volentieri con l’allontanamento assortito da
+espulsione penale o amministrativa
+(osservazioni p.2).
+Appare quindi concreto il rischio che __________,
+se messo in libertà provvisoria, si muova per contattare le persone ancora da
+interrogare, affinché non si facciano trovare dalla Polizia o lascino almeno il
+Ticino o, in caso si trovassero all’estero, non ne facciano ritorno. Come pure
+a concordare una versione da fornire agli inquirenti in caso di fermo da parte
+della Polizia.
+Il fatto che questi ultimi saranno
+verosimilmente oggetto di procedimento penale (almeno per quanto riguarda il
+soggiorno illegale e l’esercizio abusivo della prostituzione), permette di
+ritenere come concreto il rischio di un accordo sulle dichiarazioni da fare al
+momento delle verbalizzazioni e/o dei confronti specialmente relativamente ai
+periodi di presenza di queste persone sul nostro territorio.
+È pertanto necessario che i previsti
+interrogatori e confronti con tali persone avvengano senza che si possa avere
+il dubbio di contatti e reciproci atti d’influenza.”
+-
+quanto appena ricordato vale, a
+maggior ragione, anche per la prostituta __________ che ha descritto quanto
+accaduto con un fantomatico poliziotto almeno ad una collega e al gerente dell’__________
+di __________ presso cui lavorava, tanto che il gerente ha potuto riconoscere,
+tra 9 fotografie segnaletiche mostrategli dalla Polizia, quella di __________
+affermando che questa persona era quella del falso poliziotto che aveva creato
+problemi alla __________; appare chiaro che è di primaria importanza che il PP
+possa interrogare questa persona, che dovrebbe tornare in Ticino in questi
+giorni (a detta del gerente dell’__________), nonché procedere ad un verbale a
+confronto con il gerente dell’__________, senza che __________ possa tentare di
+contattarli preventivamente per cercare di compiere atti di influenza nei loro
+confronti (soprattutto nei confronti di __________) al fine di migliorare la
+propria situazione processuale; lo stesso discorso, seppure con minore intensità,
+può essere fatto per l’audizione delle persone (prostitute o transessuali con i
+quali __________ avrebbe avuto frequenti contatti nel periodo 2005-2006) per
+cui il PP ha dato ordine alla Polizia, il 12 gennaio 2007, che venissero
+identificate e rintracciate;
+-
+la proporzionalità della
+carcerazione sin qui sofferta, alla luce della gravità delle accuse, della
+presenza di concreti indizi di colpevolezza, e degli atti istruttori compiuti e
+ancora da compiere, avuto riguardo alla difficoltà di assumere elementi
+probatori nel mondo della prostituzione, di persone perlopiù soggiornanti
+illegalmente in Svizzera e comunque in modo discontinuo, ed al comportamento
+istruttorio dell’accusato, è data; pure va ammessa nella sua eccezione più
+generale di rapporto tra la durata della carcerazione preventiva ed il rischio
+di pena se considerate le comminatorie di pena per i singoli reati imputati ad __________,
+in particolare per le imputazioni di ripetuta rapina aggravata,
+subordinatamente di ripetuta estorsione e sequestro di persona e rapimento;
+-
+l’accusato è stato arrestato l’11
+agosto 2006 e ad oggi è in detenzione preventiva da quasi sei mesi; in questo
+lasso di tempo l’inchiesta è avanzata con sufficiente celerità, considerati
+diversi verbali, anche a confronto con testi e parti lese, davanti al PP nonché
+la difficoltà oggettiva di reperire testi e vittime correlata con i timori che
+questi ultimi hanno nel raccontare alla Polizia quanto a loro successo o quanto
+a loro conoscenza (preferendo a volte tacere archiviando i fatti subiti tra i
+“rischi del mestiere”), la proroga richiesta non è comunque del tutto rispetto
+del principio di proporzionalità, apparendo più congrua alla procedura una
+proroga di un mese che potrà permettere al PP di procedere (o concludere) con
+gli atti istruttori ritenuti necessari e le incombenze procedurali;
+-
+i reati di cui è accusato __________
+sono di sicura gravità (a prescindere dal fatto che si tratta perlopiù di
+crimini e con un minimo edittale di pena di un anno) considerata poi la reiterazione
+a delinquere e, in caso di condanna, il rischio di pena è certamente superiore
+alla detenzione preventiva sofferta e a quella presumibilmente da soffrire per
+esperire gli atti istruttori necessari alla completazione dell’inchiesta ed ai
+passi procedurali che ne conseguono, in pieno rispetto del principio della
+proporzionalità,
+con il formale invito
+all’attenzione dei precetti di celerità (art. 102 cpv. 1 e 176 cpv. 3 CPPT) che
+vuole contenimento della possibile carcerazione preventiva, quale richiamo e
+quale necessità di controllo d’ufficio del trascorrere del tempo;
+-
+in conclusione, constatata
+l'esistenza di gravi indizi di reato, bisogni dell’istruzione e pericolo di
+collusione ed inquinamento delle prove, nonché rispetto del principio di
+proporzionalità della carcerazione (sofferta e da soffrire) nei termini
+suesposti, l'istanza è parzialmente accolta ed è concessa una proroga del
+carcere preventivo a cui è astretto __________ di un mese, cioè sino all’11
+marzo 2007 compreso.
+P.Q.M
+viste le norme applicabili, in particolare gli artt.
+140 cifra 1 e 2, 156, 181, 183, 189, 287
+CP, 19 cifra 1 e 19a LStup, 95 ss., 102, 103, 280ss e 284 CPP,
+decide
+1.
+L'istanza
+è parzialmente accolta.
+§.    Di
+conseguenza, il carcere preventivo cui è astretto __________ è prorogato di 1
+(uno) mese e verrà a scadere l’
+11 marzo 2007 (compreso)
+.
+2.
+Non si
+prelevano tasse e spese.
+3.
+Contro la presente decisione è dato reclamo alla
+Camera dei ricorsi penali, Lugano, entro 10 (dieci) giorni dall'intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
