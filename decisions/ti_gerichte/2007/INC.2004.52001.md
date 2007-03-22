@@ -1,0 +1,448 @@
+---
+decision_id: "ti_gerichte_INC.2004.52001"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2004.52001"
+decided: "2007-03-22"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=46004&nX40_KEY=4711290&nTrefferzeile=70&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/311.0/art-058.md", "switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2004.52001
+
+## Regeste
+
+Ordine di perquisizione e sequestro
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 13.12.2004 INC.2004.52001
+Tessin Il Giudice dell'istruzione e dell'arresto 13.12.2004 INC.2004.52001
+Ticino Il Giudice dell'istruzione e dell'arresto 13.12.2004 INC.2004.52001
+
+Ordine di perquisizione e sequestro
+
+Incarto n.
+INC.2004.52001
+Lugano
+22 marzo 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sul reclamo presentato il 14
+settembre 2004 da
+__________
+rappr. dall'avv. __________
+contro
+gli ordini di perquisizione e sequestro 9 settembre 2004
+emanati dal Procuratore pubblico Manuela Minotti Perucchi;
+preso atto delle osservazioni del
+Procuratore pubblico (24 settembre 2004) e delle parti civili __________ e
+__________ (27 settembre 2004);
+visto, per quanto necessario,
+l'inc. MP __________7;
+letti ed esaminati gli atti;
+ritenuto
+in fatto
+A.
+Con esposto 5/8 luglio 2004
+__________ ha denunciato i figli __________ e __________ per titolo di truffa,
+appropriazione indebita, amministrazione infedele e falsità in documenti. In
+sostanza i denunciati avrebbero formato un documento falso, segnatamente
+apposto la dicitura sulla fotocopia del passaporto del padre, recante quale
+firma "__________", con la quale la spettabile __________ (in seguito
+__________), è stata incaricata di consegnare loro 12 certificati azionari
+rappresentanti n. 60 azioni della __________ (in seguito __________r). Tale
+documento avrebbe permesso ai denunciati di prendere in consegna i suddetti
+certificati suddividendoli tra loro e la sorella __________, con esclusione
+dell'altra sorella __________ e successivamente di escludere il padre non
+soltanto dalla __________, ma anche da tutte le cariche societarie rivestite in
+società italiane controllate dalla medesima, cioè __________ ed __________ l,
+causando in tal modo un enorme danno patrimoniale.
+B.
+In data 9 settembre 2004 il
+Procuratore pubblico ha - tra l'altro - emanato un ordine, con il quale ha
+chiesto alla __________ l'identificazione delle relazioni bancarie di cui
+__________ è o è stato titolare, contitolare, procuratore e/o beneficiario
+economico nel periodo 1.1.2002-10.9.2004, il sequestro di ogni avere in essere
+sulle relazioni comprese le cassette di sicurezza, nonché la trasmissione della
+relativa documentazione (documenti di apertura, estratti conto ed estratto
+patrimoniale al 9.9.2004) ed un ordine volto alla perquisizione degli uffici
+della __________, ivi compresa la cassaforte ed ogni vano a disposizione, ed il
+"sequestro di tutti gli oggetti rinvenuti che potessero avere
+importanza per l'istruzione del processo, sia come mezzi di prova, sia perché
+soggetti a confisca, a devoluzione allo Stato o in vista dell'esecuzione del
+risarcimento, in particolare tutte le azioni della società __________, di ogni
+altro bene appartenente a __________, così come di ogni documento relativo a
+beni appartenenti al prefato, ivi comprese relazioni bancarie (anche chiuse),
+cassette di sicurezza, ecc".
+Dal verbale di perquisizione e
+sequestro 9 settembre 2004 risulta che presso gli uffici della __________ sono
+stati sequestrati: certificato azionario n. 1 per 50 azioni al portatore della
+__________, classeur __________ contabilità 2002/2003, 2 mappette bianche con
+documentazione __________ (in seguito __________) relativa a conti della
+suddetta società, fascicolo rosso "__________ " e fascicolo
+"__________ " (actions annuléés 1 a 50).
+Si precisa che in data 10
+settembre 2004 il Procuratore pubblico ha emanato un ulteriore ordine di
+perquisizione e sequestro, con il quale ha chiesto alla __________
+l'identificazione delle relazioni facenti capo alla __________ (in seguito
+__________) (titolare, contitolare, procuratore e/o beneficiario economico), il
+sequestro di ogni avere in essere, e la trasmissione della relativa
+documentazione, per il periodo 1.1.2002-10.9.2004. Detto ordine non è stato
+impugnato.
+In data 20 settembre 2004 la
+__________ ha trasmesso al Procuratore pubblico la documentazione richiesta, da
+cui risulta che __________ è beneficiario economico della relazione __________
+intestata alla società __________ ed aperta il 12.11.2002, nonché procuratore
+della cassetta di sicurezza numero __________ intestata alla predetta società
+con contratto di locazione 11 febbraio 2004.
+Avverso i predetti ordini del 9
+settembre 2004 sono tempestivamente insorti __________ e la società __________,
+postulandone l'annullamento, essendo
+"l'oggetto del sequestro a prima
+vista perfettamente estraneo alla vertenza in essere, ergo ingiustificato".
+In particolare, non si
+tratterebbe di beni provento di reato ed, inoltre, il sequestro non sarebbe
+giustificato da
+"motivi di interesse pubblico e non deve essere
+ordinato, a tappeto, su qualsiasi bene dell'individuo, segnatamente per assicurare
+un eventuale risarcimento danni alla potenziale vittima"
+:
+unico
+scopo del denunciante sarebbe infatti quello di ritornare in possesso delle
+azioni della __________ ed inoltre i figli non avrebbero commesso alcun
+illecito ai danni del padre. In conclusione, rilevato che non sarebbero dati
+seri e concreti indizi di colpevolezza nei confronti di __________, gli ordini
+impugnati costituirebbero una ricerca indiscriminata di prove. A maggior
+ragione tenuto conto del fatto che tutta la vicenda ruoterebbe attorno alle
+azioni della __________: parte di tali azioni sono già state consegnate alle
+Autorità inquirenti, mentre le rimanenti si trovano in possesso di __________,
+che ha sempre dichiarato la propria disponibilità a consegnarle all'Autorità
+che lo avrebbe interrogato.
+C.
+In sede di osservazioni il
+Procuratore pubblico si è pronunciato per la reiezione del gravame. Dopo aver
+evidenziato l'esistenza di seri e concreti indizi di colpevolezza a carico di
+__________, __________ ed __________, nei cui confronti ha promosso l'accusa in
+data 21 settembre 2004 per titolo di truffa, falsità in documenti,
+appropriazione indebita, in subordine amministrazione infedele, rileva che per
+i sette (dei dodici) certificati azionari __________ mancanti sussistono gravi
+e concreti indizi trattarsi di provento di reato e che, vista la mancanza di
+disponibilità del reclamante a consegnarli spontaneamente, era obbligo del
+magistrato ordinare tutti le perquisizioni ed i sequestri idonei a ritrovare i
+titoli mancanti. Inoltre, l'art. 59 cifra 2 CP prevede che se i valori
+patrimoniali soggiacenti alla confisca non sono più reperibili può essere
+ordinato un risarcimento equivalente. Gli ordini impugnati sarebbero pure
+rispettosi del principio di proporzionalità.
+Anche le parti civili hanno
+chiesto la reiezione del gravame.
+D.
+Successivamente alla promozione
+dell’accusa il Procuratore pubblico ha citato __________ ed __________ a
+comparire presso gli uffici del Ministero Pubblico, sollecitandoli a consegnare
+immediatamente allo stesso Ministero i certificati azionari della società
+__________r in loro possesso.
+Il 28 settembre 2004 __________ i
+ha reso nota, tramite il suo avvocato, la propria volontà di essere sentito per
+via rogatoriale dalle competenti Autorità italiane, sostenendo poi che in
+quella occasione avrebbe consegnato il certificato mancante (AI 49).
+In risposta, il Procuratore
+pubblico ha confermato che avrebbe inviato una commissione rogatoria alle
+Autorità italiane per il suo interrogatorio ed ha specificato che, essendo
+sette i certificati ancora mancanti e non uno, gli stessi dovevano essere
+immediatamente consegnati al Ministero Pubblico (scritto 6 ottobre 2004, AI
+50). A seguito di ciò, in data 11 ottobre 2004 il difensore di __________ ha
+trasmesso al Procuratore pubblico il certificato azionario n. 8, rappresentante
+5 azioni della __________ (AI 51).
+Il 18 ottobre 2004 anche
+__________, per il tramite del proprio legale, ha chiesto di essere sentita per
+via rogatoriale dalle competenti Autorità italiane; il Procuratore pubblico ha
+quindi annullato la citazione prevista per il 26 ottobre 2004, rilevando pure
+che avrebbe provveduto in tal senso (AI 55).
+In sostanza a tutt'oggi mancano
+ancora 6 certificati azionari della __________.
+Ritenuto in diritto
+In diritto
+1.
+La legittimazione di __________ -
+denunciato ed ora accusato nel procedimento - e quella della società __________
+- società di cui sono state sequestrate le azioni, nonché titolare del conto e
+della cassetta di sicurezza oggetto di sequestro presso la __________ - è
+pacifica. Il reclamo, tempestivo, è quindi ricevibile in ordine.
+2.
+In materia di perquisizione e
+sequestro valgono i seguenti principi:
+In diritto,
+l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il sequestro di
+tutti gli oggetti che possono avere importanza per l’istruzione del processo,
+alternativamente o cumulativamente come mezzi di prova o in quanto passibili di
+confisca o devoluzione allo Stato. Il sequestro, per la sua qualità di
+provvedimento eminentemente cautelare, ha lo scopo di acquisire e conservare
+gli oggetti di cui sopra al seguito della procedura e quindi per le necessità
+dell’istruzione preliminare, per le decisioni del magistrato requirente e
+quelle del giudice del merito, come evidenziato nella duplice prospettiva -
+alternativa o cumulativa - della produzione e valutazione delle prove
+(sequestro probatorio) e delle decisioni di confisca, restituzione o
+devoluzione (sequestro confiscatorio) (v. decisione 8 maggio 1998, inc. GIAR
+516.97.3, in: Rep. 131 [1998] nr. 117, consid. 1a p. 359), ritenuto che, come
+in tutti gli istituti procedurali tali da intaccare eccezionalmente i diritti
+individuali per prevalenza di interesse pubblico, il sequestro è legittimo
+unicamente in presenza concorrente di sufficienti indizi di reato e di
+connessione tra questo e l'oggetto che così occorre salvaguardare agli
+incombenti dell'autorità requirente ed inquirente, con sempre accresciuta
+esigenza probatoria indiziante approssimantesi alla verità materiale, a partire
+dal sospetto all’apertura del procedimento, che va in seguito ed indilatamente
+approfondito con gli accertamenti probatori del caso (v., in contesto più
+generale,
+Piquerez
+, cit., margin. 1116 ss.). Il sequestro di beni
+immobili avviene mediante blocco del registro fondiario (art. 161 cpv. 5 CPP).
+Nella
+rinnovata forma in vigore dal 1° agosto 1994, le norme sulla confisca penale
+(artt. 58 ss. CPS) ribadiscono l’obbligo di confisca di ogni e qualsiasi
+vantaggio patrimoniale ottenuto in maniera illecita: la definizione dei valori
+patrimoniali di cui all’art. 59 cfr. 1 cpv. 1 CPS riprende le previgenti
+dottrina e giurisprudenza (v.
+Niklaus Schmid
+, Das neue Einziehungsrecht
+nach Art. 58 ff. StGB, in: RPS 113 [1995], p. 321 ss., pto. 4.2.1 p. 331 e nota
+45, con rinvii [qui di seguito citato:
+Schmid
+RPS]). “Valori
+patrimoniali” non sono soltanto beni corporali, ma anche crediti (depositi
+bancari), carte valori e persino diritti immateriali e diritti reali limitati:
+essenziale è che essi abbiano un proprio, determinabile valore economico (v.
+Niklaus
+Schmid
+, nota 19 ad art. 59 CPS, in:
+Schmid
+(Hrsg.), Kommentar
+Einziehung, organisiertes Verbrechen und Geldwäscherei, Band I, Zürich 1998,
+qui di seguito citato:
+Schmid
+Kommentar) e che il loro illecito
+trasferimento nel patrimonio del reo conduca, quale conseguenza, ad un aumento
+dei suoi attivi o una diminuzione dei suoi passivi (v.
+Schmid
+,
+Kommentar, nota 17 ad art. 59 CPS). Sottostanno a tale tipo di confisca ai
+sensi dell’art. 59 cfr. 1 cpv. 1 CPS anche cosiddetti valori sostitutivi, sia
+propri che impropri (“echte und unechte Surrogate”, v.
+Schmid
+, RPS, pto.
+4.3.2, p. 334 ss.; DTF 126 I 97, consid. 3.c.bb p. 105-106). Beni sostitutivi
+impropri possono essere bloccati unicamente in presenza di una traccia cartacea
+che li riconduca all’originario provento di reato, mentre per i beni
+sostitutivi propri deve essere dimostrato che essi hanno preso il posto del
+bene originale (DTF 126 I 97, consid. 3.c.cc p. 107). Il bene da confiscare
+deve essere facilmente identificabile nel patrimonio dell’autore,
+rispettivamente del terzo beneficiario (DTF 126 I 97, consid. 3.c.cc p. 107,
+con rinvio a DTF 4 maggio 1999 in re Z., consid. 2b). Se il provento di reato è
+pervenuto sotto forma di denaro, esso resta direttamente confiscabile anche se
+è stato modificato, ad esempio depositato e prelevato da conti bancari,
+trasformato in chèques o simili, infine cambiato in altra valuta (tutte forme
+di trasformazione in bene sostitutivo improprio, v.
+Schmid
+, Kommentar,
+nota 50 ad art. 59 CPS).
+Completamente
+rivisto è l’istituto della confisca risarcitoria ai sensi dell’art. 59 cfr. 2
+cpv. 1 CPS: essa permette al giudice (di merito) di ordinare un risarcimento in
+favore dello Stato (con eventuale successiva assegnazione alla parte lesa in
+applicazione dell’art. 60 CPS), se – pur essendo dati i presupposti per una
+confisca ex art. 59 cfr. 1 cpv. 1 CPS – i valori patrimoniali di cui all’art.
+59 cfr. 1 cpv. 1 CPS non siano più reperibili (v.
+Schmid
+, RPS, pto.
+4.3.1, p. 333 s.; pto. 4.3.2, p. 336) oppure debbano venir attribuiti
+direttamente alla parte lesa in applicazione dell’art. 59 cfr. 1 cpv. 1 ultima
+frase CPS (v.
+Schmid
+, RPS, pto. 4.4.1, p. 339). In tal caso, i beni
+passibili di confisca sono necessariamente di provenienza lecita; il loro
+sequestro si distingue da quello di beni provento di reato (o sostitutivi) per
+la sua natura più prossima al sequestro LEF (v.
+Schmid
+, Kommentar, nota
+171 ad art. 59 CPS), ciò che si traduce – fra l’altro – nel fatto che deve
+rispettare le regole di diritto esecutivo sul minimo esistenziale (art. 92 LEF;
+Schmid
+, Kommentar, nota 174 ad art. 59 CPS).
+Per non
+vanificare la portata delle norme sulla confisca, il magistrato inquirente può
+ordinare il sequestro dei beni che vi soggiacciono a titolo probatorio,
+confiscatorio (art. 161 cpv. 1 e 2 lit. b CPP; v.
+Schmid
+, RPS, pto. 6.3,
+p. 362) oppure risarcitorio (art. 59 cfr. 2 cpv. 3 CPS; DTF 126 I 97, consid.
+3.d.aa p. 107).
+Anche il
+sequestro ai fini di garanzia del risarcimento compensatorio (art. 59 cfr. 2
+cpv. 3 CPS) deve rispettare i principi sopra menzionati, con la precisazione
+che la connessione ai fini del giudizio di merito è l’appartenenza del bene (o
+valore) alla sfera economica dell’indiziato / accusato.
+3.
+I qui reclamanti si limitano a
+genericamente sostenere l'inesistenza di
+"ogni e qualsiasi illecito da
+parte dei figli nei confronti del padre"
+, rispettivamente che il modo
+di procedere dell’Autorità inquirente sarebbe
+“ingiustificato e abusivo
+nella misura in cui costituisce una palese ricerca indiscriminata di prove,
+basata su vaghi e generici indizi”,
+tanto più che
+"tutta la vicenda
+ruota attorno alle azioni della __________ ".
+A torto.
+Per quanto concerne l'esistenza
+di gravi indizi di colpevolezza in capo a __________, si premette che
+nell'esame di tale presupposto, lo scrivente giudice deve imporsi precisi
+limiti, derivanti da un lato dalla sua funzione - che è quella di esaminare
+l'esistenza dei presupposti formali per l'emanazione dell'ordine contestato, e
+non di valutare nella sostanza l'esistenza di un reato - e, dall'altro - ma in
+maniera strettamente congiunta con quanto si viene a dire - dall'opportunità di
+considerazioni di merito premature e, soprattutto, di competenza delle sedi di
+giudizio.
+Ciò premesso, si può affermare
+che dagli atti emergono gravi indizi di colpevolezza in capo a __________ per
+la commissione dei reati di falsità in documenti, truffa, in subordine di
+appropriazione indebita, in danno del padre e della sorella __________,
+entrambi costituitisi parte civile. Tali indizi si deducono dalle deposizioni
+delle due parti civili, sia da quelle dei testi __________ e __________ (verb.
+PP 2.9.2004 e 8.9.2004), nonché dal fatto che il 20 gennaio 2004, data apposta
+sul contestato mandato, il denunciante era degente presso la __________ per aneurisma
+femoropopliteo sinistro, dovendo essere sottoposto il giorno successivo ad un
+delicato intervento chirurgico, in vista del quale aveva assunto diversi
+farmaci (come risulta dalla cartella medica agli atti). Appare dunque
+difficilmente credibile che il denunciante nelle suddette condizioni di salute
+abbia sottoscritto il documento con il quale incaricava la __________A di
+consegnare ai figli i certificati azionari __________r, circostanza peraltro da
+lui negata. Del resto, come rettamente evidenziato dal Procuratore pubblico in
+sede di osservazioni, se l'intenzione fosse stata effettivamente quella di
+incaricare i figli affinché procedessero al ritiro delle azioni, __________
+avrebbe senz'altro redatto una delega secondo le regole ordinarie previste dalla
+contabilità commerciale e non un documento tanto inusuale quale quello prodotto
+con la denuncia (doc. R), sia nella forma che nel contenuto, che effettivamente
+lo rendono quantomeno sospetto. A ciò si aggiunge che, per stessa ammissione di
+__________, né lui né il fratello, una volta rientrati a __________, hanno
+omesso di comunicare sia al padre che alla sorella __________ l'avvenuta presa
+in consegna dei certificati azionari (verb. PP 12.7.2004), né tantomeno li
+hanno consegnati alla sorella ed inoltre nel febbraio 2004 __________,
+__________ ed __________ hanno tenuto un'assemblea straordinaria della
+__________, senza convocare la sorella __________, dopo che quest'ultima si era
+rifiutata di aderire al progetto di destituire l'anziano genitore.
+Ciò che ha condotto il
+Procuratore pubblico a promuovere l'accusa nei confronti di __________,
+__________ ed __________ per titolo di truffa, falsità in documenti,
+appropriazione indebita, in subordine amministrazione infedele.
+Giova innanzitutto rilevare che i
+certificati in questione rappresentano un patrimonio netto a bilancio di Euro
+34 milioni e che __________, benché regolarmente citato non ha dato seguito
+alla citazione del magistrato inquirente, chiedendo di essere interrogato per
+via rogatoriale, e soprattutto, non ha consegnato (a differenza del fratello
+__________ che ne ha consegnati cinque) i certificati azionari della __________
+(ad eccezione di uno prodotto in data 11 ottobre 2004), malgrado formalmente
+richiesto in tal senso. A tutt'oggi mancano quindi sei dei dodici certificati
+azionari.
+Al fine di reperire i suddetti
+certificati mancanti il Procuratore pubblico ha - tra l'altro - ordinato la
+perquisizione degli uffici in uso alla __________ ed il conseguente sequestro
+di tutti gli oggetti rinvenutivi importanti per l’istruzione del processo, sia
+come mezzi di prova, sia perché soggetti a confisca, o devoluzione allo Stato
+in vista del risarcimento, in particolare tutte le azioni della società
+__________, di ogni altro bene appartenente a __________, così come di ogni
+documento relativo a beni appartenenti al prefato, ivi comprese le relazioni
+bancarie (anche chiuse) cassette di sicurezza ecc., rispettivamente, anche al
+fine di assicurare l'esecuzione del risarcimento alle parti civili, ha ordinato
+alla __________ l’identificazione delle relazioni di cui __________ è o è stato
+titolare, contitolare, procuratore e/o beneficiario economico nel periodo
+1.1.2002 - 10.9.2004 ed il sequestro di ogni avere in essere sulle relazioni di
+cui sopra comprese le cassette di sicurezza, nonché la trasmissione della
+relativa documentazione (documenti di apertura, estratti conto ed estratto
+patrimoniale al 9.9.2004).
+Detti provvedimenti risultano
+essere, a giudizio di chi scrive, così come nelle intenzioni del magistrato
+inquirente, idonei a ritrovare i sei certificati azionari della __________, per
+i quali, come rilevato dallo stesso Procuratore pubblico, sussistono
+“gravi
+e concreti indizi trattarsi di provento di reato",
+rispettivamente per
+garantire, qualora i suddetti certificati non dovessero essere ritrovati,
+l'eventuale risarcimento alle parti civili ex art. 59 cfr. 2 cpv. 3 CP.; essi
+appaiono inoltre connessi ai fatti oggetto del procedimento.
+In particolare, per quanto
+concerne il sequestro delle azioni della società __________, trattandosi di
+società di cui il qui reclamante è azionista unico, circostanza espressamente
+indicata dal teste __________ (verb. PP 2.9.2004) e non contestata dai
+reclamanti, in considerazione sia del valore dei certificati della __________ e
+considerato che l'ordine di sequestro ad essi relativo è rimasto infruttuoso,
+ben si giustifica il sequestro dell'intero pacchetto azionario della suddetta
+società, in vista di assicurare il presumibile risarcimento alle parti civili.
+Ciò vale anche per le perquisizioni ordinate al fine di reperire valori
+patrimoniali intestati a __________ o comunque a lui riconducibili, ordine
+peraltro indirizzato ad una sola banca. Non va poi dimenticato che gli ordini
+impugnati sono stati emanati dopo che la segretaria della __________,
+__________ t, interrogata quale teste ha dichiarato che l'intero pacchetto
+azionario della __________ si trovava depositato presso la __________A e che in
+occasione della visita in __________ del 6 febbraio 2004 i fratelli __________
+e __________ discussero dell'ipotesi di depositare i certificati __________
+presso una cassetta di sicurezza al __________, banca presso cui
+"la
+società __________ di __________ ha delle relazioni"
+(verb. PP
+8.9.2004). Inoltre sia __________ t che __________, nei rispettivi verbali
+(verb. PP 8.9.2004 e 2.9.2004) hanno riferito che __________ in passato faceva
+inviare alla __________ documentazione relativa ad un conto bancario a lui
+facente capo, asserzioni che, come evidenziato dal Procuratore pubblico in sede
+di osservazioni, giustificavano - tra l'altro - la perquisizione degli uffici
+della __________A al fine di reperire beni appartenenti a __________ i e/o alla
+società __________ così come ogni altro bene ad essi afferente (ivi comprese
+relazioni bancarie e cassette di sicurezza) allo scopo di ordinare un
+successivo sequestro.
+In virtù di quanto precede gli
+ordini impugnati devono essere confermati, in quanto emessi sulla base di
+sufficienti indizi di reato, in relazione ad oggetto connesso con il procedimento
+in corso - sia a fini probatori che confiscatori o devolutivi allo Stato (art.
+161 CPP, in relazione con l'art. 59 cifra 1 e cifra 2 CP) - , nonché rispettosi
+del principio di proporzionalità.
+Giova, infine, ricordare che i
+reclamanti non hanno interposto reclamo contro l'ordine di perquisizione e
+sequestro 10 settembre 2004 indirizzato al __________, contenente richieste
+identiche a quello qui impugnato del 9 settembre 2004, ma con riferimento ai
+conti facenti capo alla società __________ (identificazione di eventuali conti
+facenti capo alla società __________, trasmissione dei documenti di apertura,
+degli estratti conto dal 1.1.2002 al 10.9.2004 e dell'estratto patrimoniale al
+10.9.2004, nonchè il sequestro di ogni avere su dette relazioni ivi comprese le
+cassette di sicurezza).
+4.
+In virtù di quanto precede, il
+reclamo deve essere è respinto. Tasse, spese di giudizio e ripetibili seguono
+la soccombenza.
+La presente decisione in materia
+di sequestro è impugnabile nel termine di 10 giorni alla Camera dei ricorsi
+penali (art. 284 cifra 1 lett. a CPP).
+P.Q.M.
+Viste le norme applicabili, in
+particolare gli art. 146 cpv. 1, 251 cifra 1, 138 cifra 1 e 158 cifra 1 CP, 59
+CP, 157 ss., 161, 280 ss e 284 CPP,
+decide
+1.
+Il reclamo è respinto.
+2.
+La tassa di giustizia di fr. 400.-- e le spese, fr. 80.--, sono a carico
+dei reclamanti in solido, che, sempre in solido, rifonderanno alle parti civili
+fr. 440.-- a titolo di ripetibili di questa sede.
+3.
+Contro
+la presente è dato reclamo alla CRP, Lugano, entro 10 giorni dall'intimazione.
+4.
+Intimazione:
+giudice
+Ursula Züblin
