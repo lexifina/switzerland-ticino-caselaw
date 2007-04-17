@@ -1,0 +1,290 @@
+---
+decision_id: "ti_gerichte_INC.2006.47703"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.47703"
+decided: "2007-04-17"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=92857&nX40_KEY=4711226&nTrefferzeile=80&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2006.47703
+
+## Regeste
+
+Proroga carcere preventivo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 17.04.2007 INC.2006.47703
+Tessin Il Giudice dell'istruzione e dell'arresto 17.04.2007 INC.2006.47703
+Ticino Il Giudice dell'istruzione e dell'arresto 17.04.2007 INC.2006.47703
+
+Proroga carcere preventivo
+
+Incarto n.
+INC.2006.47703
+Lugano
+17 aprile 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente
+per statuire sull'istanza di proroga del carcere preventivo presentata l'11
+aprile 2007 dal
+Procuratore pubblico
+Moreno Capella, Lugano
+nei confronti di
+__________
+, cittadino dominicano residente a __________ e
+attualmente c/o __________
+(rappr.
+dall'Avv. __________, __________)
+viste le osservazioni della difesa (11/12 aprile 2007);
+visti gli incarti MP __________ e __________;
+ritenuto e considerato
+in fatto ed in diritto
+1.
+L'arresto di __________ ha avuto luogo il 24 ottobre
+2006. Con richiesta di conferma dell'arresto del 25 ottobre 2006, il magistrato
+inquirente ha promosso l'accusa, nei confronti della persona indicata, per
+infrazione aggravata (subordinatamente semplice) alla LFStup, contravvenzione
+alla stessa legge, lesioni semplici con arma pericolosa e infrazione alla LDDS
+(cfr. all. 2 e 1, inc. GIAR 477.2006.1).
+L'arresto è stato confermato, da questo giudice, il
+giorno successivo ritenuti presenti gravi indizi di reato, necessità
+istruttorie e pericolo di fuga (idem, doc. 3).
+2.
+In sostanza, __________ era accusato di aver (in parte
+in correità con terzi) venduto, a più riprese tra il dicembre 2005 ed il
+momento dell'arresto, almeno 200 grammi di cocaina e detenuto (al momento
+dell'arresto ed a scopo di vendita) ulteriori 500 grammi circa. Le altre accuse
+concernono il consumo personale, l'accoltellamento (ad una gamba) di tale __________,
+a __________ il 21 ottobre 2006, e ripetute entrate, nonché soggiorni, in
+Svizzera privo dei necessari documenti e permessi.
+3.
+Il seguito dell'inchiesta (cfr. Istanza pag. 3 e 4, in
+particolare i verbali citati) avrebbe permesso di identificare i fornitori
+dell'accusato, i quantitativi di cocaina da lui acquistati (ca. 3'200 gr.) e
+quelli venduti (ca. 2'200 gr.).
+Inoltre, sarebbero emersi elementi indizianti atti
+preparatori per l'importazione di ca. 1 kg di stupefacente (Istanza pag. 5).
+Anche il periodo di commissione dei reati risulta più
+esteso di quello inizialmente indicato: dal 2004 secondo quanto dichiarato
+dall'accusato in AI 148 (sebbene sulla questione non è stata reperita, negli
+atti, estensione dell'accusa).
+4.
+Con l'istanza qui in discussione, il magistrato
+inquirente chiede che il carcere preventivo cui è astretto __________ venga
+prorogato di tre mesi oltre il termine di cui all'art. 102 cpv. 2 CPP, cioè
+fino al 24 luglio 2007.
+A fondamento della richiesta, il magistrato inquirente
+indica (oltre ai gravi indizi di reato desumibili dagli atti menzionati
+nell'istanza e richiamati nel considerando che precede) presenza di un concreto
+pericolo di fuga (cittadino straniero residente all'estero, in Svizzera senza
+permesso e unicamente per commettere i reati di cui è accusato, confrontato con
+accuse gravi) e inchiesta, lunga e complessa anche per il numero di persone
+coinvolte e l'entità dei fatti oggetto di indagini, non ancora conclusa,
+dovendosi procedere ad ulteriori confronti tra l'accusato e terzi, a
+contestazioni a coaccusati di talune sue dichiarazioni nonché al chiarimento
+(con lui medesimo) e alla verifica di talaltre; inoltre, mancano ancora i
+rapporti di polizia (giudiziaria e scientifica) e occorre tener conto dei tempi
+necessari per la chiusura dell'inchiesta (Istanza, pag. 5 e 6).
+Viene pure indicato un pericolo di collusione con uno
+dei correi latitanti e con due acquirenti, apparentemente solo a titolo
+abbondanziale.
+Affermato, invece, rispetto del principio di
+proporzionalità alla luce dei fatti imputati e del rischio di pena in caso di
+conferma delle accuse.
+5.
+La difesa, con scritto dell'11 aprile 2007, ha
+comunicato di non opporsi alla proroga richiesta.
+6.
+L'istanza, presentata dal magistrato inquirente prima
+(e con anticipo sufficiente a permettere termine adeguato per osservazioni e
+decisione) della scadenza del termine di cui all'art. 102 cpv. 2 CPP, è
+ricevibile in ordine.
+7.
+I criteri di legge applicabili alla carcerazione preventiva,
+sebbene noti al Procuratore pubblico ed al difensore, vengono qui di seguito
+richiamati:
+"L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo ai sensi dell'art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali i bisogni dell'istruzione, per ovviare a rischio di
+collusione o inquinamento (in altro modo) delle prove, pericolo di recidiva e
+il pericolo di fuga (senza dimenticare che l’arresto, quale misura processuale
+cautelativa, non serve unicamente ai bisogni dell’istruttoria, ma anche ad
+assicurare la presenza dell’accusato al processo e a garantire l’eventuale
+espiazione della pena: DTF 109 Ia 323 consid. c, e riferimenti; sentenza 16
+novembre 1993 del Tribunale federale in re A.H., 1P.477/1993, consid. 3).
+L'eccezione della cautelare privazione
+della libertà personale ha così trovato codificazione in una chiara base legale
+(di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a
+superamento di quanto già dettato dalla giurisprudenza della Camera dei ricorsi
+penali - nel solco di quella del Tribunale federale -, ritenuto implicito il
+rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413;
+DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (Rep. 1988 pag. 416; 1989 pag. 287 ss.) – ritenuto implicito il
+rispetto della proporzionalità (Rep. 1980 pag. 44; 1986 pag. 158; 1988 pag.
+413; DTF 102 Ia 381). Ed anche questo giudice, come già la Camera dei ricorsi
+penali, non restringe la sua cognizione all'arbitrio (Rep. 1980 pag. 128).
+"
+(GIAR 6.10.2005, 362.2005.3)
+8.
+L'esistenza di gravi e concreti indizi di colpevolezza
+deve essere verificata d'ufficio, pur nei limiti di competenza di questo
+giudice derivanti da un lato dalla sua funzione - che è quella di esaminare
+l’esistenza dei presupposti per il mantenimento della misura restrittiva della
+libertà personale, e non di valutare nella sostanza l’esistenza di un reato -,
+e dall’altro - ma in maniera strettamente congiunta con quanto appena detto -
+dall’inopportunità di considerazioni di merito premature e, soprattutto, di
+competenza delle sedi di giudizio.
+Nel caso in esame, non occorre dilungarsi più di tanto
+per confermare l'esistenza di gravi indizi di colpevolezza in capo a __________.
+Quanto emerso dai suoi verbali (dal primo del 24.10.2006 a quelli successivi
+contenuti negli AI 148, 154 e 160), senza dimenticare il sequestro dei ca. 500
+grammi al momento dell'arresto (AI 1, all. 5), è sufficiente a confermarne
+l'esistenza.
+9.
+Il pericolo di fuga, per giustificare carcerazione
+preventiva, deve essere concreto e rivestire di una certa probabilità: in altri
+termini lo si ammette quando l’accusato, se posto in libertà, si sottrarrebbe
+con una certa verosimiglianza al perseguimento penale ed alla (eventuale)
+esecuzione della pena. La gravità della pena presumibile (comunque,
+"
+…
+elemento "indiziante" importante che va considerato attentamente per
+la valutazione del pericolo di fuga, il quale, secondo la prassi, aumenta più
+ci si avvicina al giudizio di merito, in presenza di una comminatoria di pena
+della reclusione e/o in assenza (ovviamente e sempre in caso di eventuale
+condanna) di prospettive per una sospensione condizionale … omissis … (M.
+Luvini, I presupposti materiali del carcere preventivo, in REP 1989 p. 287ss., p.
+32; DTF 106 Ia 404; DTF 117 Ia 69; CEDU Vol.
+A IX p. 44; SJ 1981 p. 377, SJ 1980 186; N. Schmid,
+Strafprozessrecht, ZH 1997, no. 701).
+"
+GIAR 16
+novembre 2006, 345.2006.3; si veda, inoltre, DTF 14.1.2005, 1S.15/2004, e
+riferimenti) non basta, da sola, a motivare la carcerazione. Occorre valutare
+l’insieme delle circostanze, tra cui il carattere dell’accusato, la sua morale,
+i legami famigliari, il domicilio, la professione, la situazione economica e
+tutti quegli elementi che rendono la fuga non solo possibile ma probabile (DTF
+19 gennaio 1999 in re G.S.; DTF 117 Ia 69).
+__________ è cittadino della __________, residente in __________.
+I suoi legami con il territorio svizzero si limitano alla commissione dei reati
+ed alla dichiarata relazione con __________ (comunque ancora coniugata),
+relazione  che potrebbe essere in gran parte funzionale alla commissione dei
+reati (in particolare visto l'uso dell'appartamento della __________ per la
+commissione dei reati, la presenza incostante, l'assenza di passi ufficiali per
+un eventuale trasferimento in Svizzera, le altre ca. 15 donne che "
+ho
+in giro
+" così come i vestiti "
+dappertutto
+": cfr.
+verbale PG 24.10.2006 ).
+Se le accuse dovessero essere confermate, il rischio
+di una pena non lieve esiste anche nell'eventualità di applicazione delle nuove
+norme della parte generale del CP (alcuni dei reati per i quali è stata
+promossa l’accusa prevedono la pena minima edittale di un anno di pena
+detentiva: art. 19 cifra 2 LStup). Quest'elemento, come detto, da solo non é
+determinante, ma deve essere attentamente considerato se ad esso se ne sommano
+altri come sopra descritto (SJ 1980 186; SJ 1981 135; N. Schmid,
+Strafprozessrecht, ZH 1997, no. 701) quali, appunto, l'assenza (in Ticino) di
+interessi economico-professionali, nonché prospettive future, e di legami
+personali particolari.
+Le circostanze esposte, permettono di concludere che
+il pericolo di fuga (intesa come indisponibilità a presenziare al seguito del
+procedimento) è presente in modo concreto (DTF 102 Ia 382; DTF 106 Ia 407; DTF
+117 Ia 69; SJ 1980 585). Infatti, non si vede cosa possa trattenere l'accusato,
+qualora tolta la misura cautelare, dal riparare all'estero (dove ha la
+residenza o al paese d'origine) e riprendere l'attività di gigolò (Verbale PG
+24.10.2006, pag. 5 e 6).
+10.
+Di regola, confermata una delle condizioni alternative
+a fondamento della misura cautelare, non è necessario approfondire le altre
+eventualmente avanzate dall'inquirente (in casu un residuo pericolo di
+collusione ed inquinamento delle prove, con il correo latitante e con altre
+persone coinvolte).
+11.
+Resta da determinare se una proroga, in particolare
+quella richiesta, sia rispettosa del principio di proporzionalità.
+La proporzionalità di una carcerazione deve essere
+analizzata da angolature diverse. Da un lato occorre mettere in relazione la
+durata del carcere preventivo con la gravità (e complessità) della fattispecie
+e la pena presumibile, dall'altro occorre anche verificare il rispetto del
+principio di celerità (DTF 4.5.2005, 1P.194.2005; DTF 16.11.2004, 1P.630/2004;
+SJ 1981 p. 383 e citazioni; art. 102 CPP).
+In relazione al primo aspetto, nel caso concreto si
+constata che il carcere preventivo sofferto e quello eventualmente ancora da
+soffrire (in caso di concessione della proroga) non appare lesivo del principio
+di proporzionalità: i reati ascritti sono gravi e prevedono una pena edittale
+minima di un anno (art. 19 cifra 2 LFStup). Quanto alla possibilità che la pena
+erogata (sempre in caso di eventuale condanna) possa essere posta al beneficio
+della sospensione condizionale, va ricordato che ciò dipenderà dalla prognosi
+(ex art. 42 ss. nCP) di competenza del giudice del merito e basata su tutto
+quanto sarà emerso (o accertato) a quel momento; per tale motivo questa
+eventualità, perlomeno allorquando le condizioni non sono manifestamente
+adempiute (ciò che non è qui il caso), di regola non può essere considerata in
+questa sede (DTF 125 I 60).
+Per quanto concerne
+il secondo aspetto, va detto che
+l'inchiesta appare come complessa e ramificata e sin qui condotta celermente.
+Il principio di celerità appare rispettato.
+Da tutto quanto
+sopra consegue che la proporzionalità (nella sua duplice accezione) non risulta
+violata dal carcere preventivo sofferto e, a giudizio di questo giudice, neppure
+da quello prospettabile: una proroga di tre mesi appare ancora rispettosa del
+principio, con riferimento sia alla presumibile pena, sia alla presumibile
+durata dell’espletamento delle necessità istruttorie ancora presenti e indicate
+dall'inquirente.
+12.
+In conclusione, alla
+luce di tutto quanto sopra esposto, nei confronti di __________ sono dati
+concreti indizi di reato e concreti elementi di pericolo di fuga. La proroga
+richiesta appare giustificata e, al momento, non lesiva del principio di proporzionalità.
+Al momento attuale neppure l'obbligo di celerità risulta violato (inutile
+disquisire sull'attesa dei rapporti di polizia e/o della perizia psichiatrica
+relativa a correa, in quanto al momento non sono questi atti a giustificare il
+proseguimento dell'inchiesta e, comunque, la problematica relativa a questi
+atti in relazione con la celerità è nota all'inquirente: cfr. Istanza, pag. 6.
+prima frase).
+P.Q.M.
+viste le norme applicabili, in
+particolare gli artt. artt. 19 cifra 2 e 1, 19a LFStup, 123 CP, 23 LDDS, artt.
+95 ss., 96, 108, 284 CPP; 9, 10, 31 CF, 5 cifra 3
+CEDU;
+decide
+1.
+L’istanza di proroga della carcerazione preventiva è
+accolta; di conseguenza:
+§.  il carcere preventivo cui è
+astretto
+__________, è prorogato di tre
+mesi e verrà a
+scadere il 24 luglio 2007
+(compreso).
+2.
+Non si prelevano tasse e spese.
+3.
+Contro la presente decisione è dato ricorso alla
+Camera dei ricorsi penali del Tribunale di Appello, Lugano, entro 10 (dieci)
+giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Edy Meli
