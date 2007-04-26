@@ -1,0 +1,435 @@
+---
+decision_id: "ti_gerichte_INC.2002.23504"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2002.23504"
+decided: "2007-04-26"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=93202&nX40_KEY=4711226&nTrefferzeile=6&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-176.md", "switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2002.23504
+
+## Regeste
+
+Omissioni PP
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 26.04.2007 INC.2002.23504
+Tessin Il Giudice dell'istruzione e dell'arresto 26.04.2007 INC.2002.23504
+Ticino Il Giudice dell'istruzione e dell'arresto 26.04.2007 INC.2002.23504
+
+Omissioni PP
+
+Incarto n.
+INC.2002.23504
+Lugano
+26 aprile 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sul reclamo presentato il 12/15
+gennaio 2007 da
+__________
+, __________
+(patrocinati dall’avv. __________, __________)
+contro
+le omissioni del Procuratore pubblico Giovan Maria
+Tattarletti nell’ambito del procedimento penale aperto contro __________ di
+cui all’incarto MP __________;
+viste le osservazioni 16 gennaio
+2007 della difesa dell’accusato e 26 gennaio 2007 del Procuratore pubblico;
+visto l’inc. MP __________;
+ritenuto
+in fatto
+A.
+Nei confronti di __________ è in
+corso un procedimento penale per titolo di truffa, appropriazione indebita,
+amministrazione infedele e falsità in documenti avendo, tra il 1988 e dicembre
+2001, nella sua veste di consulente finanziario presso diversi istituti bancari
+e da ultimo presso la banca __________, disposto operazioni a rischio elevate,
+contrariamente alle indicazioni dei clienti, con conseguenti rilevanti perdite,
+e distratto ripetutamente somme di denaro da conti di clienti per farle
+confluire su proprie relazioni bancarie.
+ll procedimento penale ha avuto
+avvio con l’autodenuncia 13 dicembre 2001 dell’accusato, che aveva preso atto
+che i suoi superiori in __________ avevano riscontrato delle irregolarità nel
+suo agire: egli ha da subito segnalato al magistrato inquirente di essersi
+appropriato, per scopi personali, a partire dal 1996, di un importo di circa
+CHF 200'000.-/300'000.- nonché di avere procurato perdite ai clienti della
+banca per cui lavorava per circa CHF 2'000'000.-.
+B.
+Tra il 14 dicembre 2001 e il 27
+agosto 2003 il Procuratore pubblico Tattarletti ha eseguito personalmente 21
+verbali d’interrogatorio dell’accusato, di parti lese/civili e di testi
+singolarmente e a confronto.
+Con lettera 7 gennaio 2002 (AI
+25) dell’avv. __________ di __________, i qui reclamanti (clienti dell’accusato
+in varie banche dal 1990) hanno formalmente denunciato __________ per titolo di
+amministrazione infedele, appropriazione indebita e truffa facendo valere un
+danno superiore ai dieci milioni di franchi svizzeri e costituendosi nel
+contempo parti civili nel procedimento penale in corso.
+Il PP ha pure proceduto a diverse
+perquisizioni presso numerosi istituti di credito acquisendo svariata
+documentazione bancaria.
+Dopo fine settembre 2003 (quando __________
+ha presentato al Procuratore pubblico un promemoria cronologico dei fatti, AI
+217) agli atti si trova varia corrispondenza legata più che altro alla gestione
+dei beni sequestrati o alle varie convenzioni tra banche (datrici di lavoro di __________)
+e alcuni clienti danneggiati dall’agire dell’accusato (ad esempio quelle dell’__________
+inviate con lettera 10 agosto 2004, AI 225), comunicazioni delle parti civili,
+richieste di accesso agli atti e richieste di atti istruttori (cfr. lettere 30
+giugno e 24 settembre 2004 dell’avv. __________, AI 222 e 233). Il PP non ha
+comunque proceduto con atti istruttori di rilievo da agosto/settembre 2003 sino
+a fine dicembre 2006/gennaio 2007
+C.
+Relativamente al reclamo, e per
+quanto qui di interesse, giova ricordare quanto segue:
+-     Con lettera 24 dicembre 2004 al legale dei reclamanti il PP
+comunicava che “
+con riferimento alla sua richiesta dell’11.11.2004 ed al
+successivo fax dell’avv. __________ a __________ dell’EFIN, le comunico,
+scusandomi innanzitutto per il ritardo nel risponderLe, che i dati contestati a
+__________ nel verbale del 26.03.2003 sono stati forniti a nostra richiesta dal
+__________. Non ci sono stati invece forniti i dettagli di tali dati e, in
+particolare, i singoli conteggi di borsa. Per il resto non è ancora stato
+allestito il rapporto EFIN, per cui non è ancora possibile trasmettervene una
+copia”
+(AI 237).
+-     Con lettera 21 novembre 2005 (AI 256) l’avv. __________, facendo
+riferimento ad un colloquio intercorso con il PP il 1° marzo 2005 a Lugano, chiede informazioni in merito all’avanzamento del procedimento penale contro __________
+ed in particolare per sapere “
+quando sarà presentato l’atto di accusa contro
+__________ alle autorità competenti
+”. A mente del difensore dei reclamanti
+“
+il Sig.
+__________
+ha ammesso e non contesta di avere saccheggiato i
+fondi dei nostri clienti e le relative cifre sono conosciute (v. i verbali del
+MP conc. i vari interrogatori), non dovrebbe essere difficile portare avanti il
+procedimento penale. Prendendo in considerazione l’interesse legittimo dei
+nostri clienti che __________ sia accusato formalmente nell’ambito della
+inchiesta iniziata nel dicembre 2001 La prego cortesemente di provvedere al
+necessario per sottoporre la faccenda al Tribunale competente senza indugio”
+.
+-     Con lettera 15 febbraio 2006 l’avv. __________ quale
+patrocinatore di __________ ed __________ (allegando procura di subdelega),
+ritenuto che i fatti sono da molto tempo accertati, sollecita l’avanzamento del
+procedimento in tempi brevi con l’emanazione dell’atto di accusa (AI 262).
+-     L’avv. __________, con lettera 3 marzo 2006, inoltra ulteriore
+sollecito in assenza di riscontro al suo precedente sollecito del 15 febbraio
+(AI 263).
+-     Il 17 marzo 2006 il legale dei reclamanti nuovamente sollecita
+il PP a rispondere al suo scritto del 15 febbraio 2006 già sollecitato una
+prima volta il 3 marzo 2006 (AI 264).
+-     Il PP Tattarletti, con lettera 24 marzo 2006 all’avv. __________,
+afferma di convenire “
+che visto il tempo trascorso, il procedimento in
+oggetto merita ora di essere portato a termine in tempi brevi. Purtroppo, come
+noto, il MP si trova confrontato con una mole ed una complessità crescente
+degli incarti, per cui non è sempre possibile garantire la dovuta celerità,
+anche a seguito dei cambiamenti di priorità esatti dalle circostanze. Nondimeno
+farò il possibile perché questo procedimento possa essere portato a termine in
+un prossimo futuro
+” (AI 265).
+-     Con lettera 11 agosto 2006 (AI 277) l’avv. __________,
+stigmatizzando il fatto che in 5 mesi dall’ultimo sollecito non sarebbe
+successo nulla, nuovamente sollecita (“
+per l’ultima volta
+”) l’emanazione
+dell’atto di accusa. In calce alla prima pagina della lettera si legge
+l’annotazione manoscritta del PP “1.9.06,
+evasa tel. con avv. __________
+”.
+-     Il PP Tattarletti, con lettera 4 settembre 2006 all’__________,
+facendo riferimento al colloquio telefonico del 1° settembre, comunica che “
+la
+presente per ribadire che Lei ha ragione. Purtroppo, a causa dei numerosi altri
+incarti e del costante modificarsi delle priorità, le speranze da me
+precedentemente espresse non si sono realizzate. Me ne scuso e, come detto
+telefonicamente, cercherò di riprendere l’inchiesta nei prossimi uno o due mesi
+per portarla a conclusione
+” (AI 278).
+-     Con lettera 24 ottobre 2006 il legale dei reclamanti, dopo avere
+osservato che si è confrontati con un caso nel quale l’autore è reo confesso di
+reati considerevoli e ritenendo inaccettabile il fatto che il procedimento
+penale “
+non proceda per totale passività del ministero pubblico
+” e
+quindi del PP, invita il magistrato inquirente a procedere con l’emanazione
+dell’atto d’accusa nei confronti di __________ entro fine 2006 comunicandogli
+che in caso contrario presenterà reclamo per denegata giustizia all’istanza
+superiore (AI 279).
+-     Due mesi dopo, con lettera 27 dicembre 2006, il PP Tattarletti
+informa il legale dei qui reclamanti di avere potuto rivedere l’intero incarto
+penale e comunica di non potere procedere all’emanazione immediata di un atto
+d’accusa contro __________ essendo necessario procedere con ulteriori
+accertamenti, in particolare sulle perdite di gestione, nonché “
+procedere
+con la formalizzazione delle verifiche effettuate a tale riguardo già a suo
+tempo
+”. Il PP afferma di avere dato istruzione all’EFIN di procedere alla “
+necessaria
+ricostruzione rispettivamente di formalizzare in un rapporto le verifiche
+effettuate
+” e di intendere citare successivamente l’accusato per un verbale
+conclusivo, per poi procedere con il deposito degli atti (AI 285).
+-     Sempre il 27 dicembre il PP invia alla parte civile __________
+(per il tramite del suo patrocinatore) una missiva che sostanzialmente ricalca
+quella inviata ai reclamanti oltre ad informarsi se le richieste di atti
+istruttori 30 giugno e il 24 settembre 2004 dalla parte civile in questione
+sono mantenute o meno (AI 288).
+-
+Successivamente il PP ha proceduto a chiedere all’__________ e al __________
+l’estratto patrimoniale aggiornato delle relazioni sotto sequestro penale (AI
+286, 287 e 298) e, in data 26 gennaio 2007, a citare, in qualità di testimoni, __________
+e __________ per il 9 febbraio 2007, mentre che con lettera 26 gennaio 2006 ha comunicato
+all’__________ di voler procedere con l’interrogatorio di __________ e __________,
+parzialmente a confronto con __________, sempre per il 9 febbraio 2007.
+-     Per impossibilità dell’una o dell’altra parte i verbali di __________,
+__________, __________ e __________ (parzialmente a confronto con __________)
+sono avvenuti il 2 marzo 2007 mentre che il 28 marzo 2007 (dopo alcuni rinvii
+richiesti dall’accusato) è avvenuto un verbale di __________ alla presenza
+della responsabile EFIN.
+D.
+Con il reclamo in oggetto __________
+e __________ censurano le omissioni del Procuratore pubblico Tattarletti. Essi
+sostengono che il procedimento penale – aperto nel dicembre 2001 e che ha visto
+la costituzione dei summenzionati quali parti civili il 7 gennaio 2002 – è
+fermo dall’estate del 2003, malgrado l’accusato sia reo confesso e i dati sugli
+importi sottratti o malversati siano stati integralmente riconosciuti
+dall’accusato, con la conseguenza che il PP dovrebbe ora soltanto allestire
+l’atto d’accusa. I reclamanti elencano poi tutti i solleciti inoltrati e le
+risposte del PP. Dopo avere stigmatizzato la scusa avanzata dal PP di non avere
+potuto procedere con l’incarto a causa del carico di lavoro esistente presso il
+Ministero pubblico e dopo avere ricordato il pericolo che, a causa del lungo
+tempo trascorso, possa intervenire la prescrizione dell’azione penale (con
+richiamo alle nuove norme della prescrizione), i reclamanti chiedono che venga
+fatto ordine al PP Tattarletti di procedere indilatamente nei suoi incombenti
+ed in particolare nell’emanazione dell’atto d’accusa a carico di __________.
+E.
+Con osservazioni 26 gennaio 2007
+(inc. GIAR 235.2002.4, doc. 4) il magistrato inquirente afferma che, malgrado
+l’accusato si sia autodenunciato, la fattispecie sarebbe di una certa
+complessità sia per il periodo in cui i fatti si sono svolti sia per il
+coinvolgimento di tre istituti bancari presso i quali __________ ha lavorato e
+malversato, sia per il numero di parti lese – che ha comportato l’allestimento
+di un gran numero di verbali d’interrogatorio – sia per l’imprecisione
+dell’accusato e delle parti civili che hanno comportato la necessità di “
+accertamenti
+mirati e puntuali su numerose fattispecie
+”. A mente del magistrato
+inquirente da circa fine 2003, metà 2004 “
+il grosso dell’inchiesta può
+essere considerato completato
+” anche se resta “
+da approfondire e
+formalizzare il capitolo delle perdite di gestione realizzate dall’accusato in
+danno delle varie parti lese/civili. Il sopraggiungere e l’accavallarsi di
+numerosi altri impegni lavorativi hanno fatto sì che quegli accertamenti e
+quindi l’emanazione dell’atto d’accusa richiesto dai reclamanti si siano
+protratti sino ad oggi
+” (osservazioni, p. 1). Il PP ammette di avere “
+più
+volte espresso nei confronti dei patrocinatori dei reclamanti la volontà di
+portare a termine il procedimento, ma il fatto che ciò non si sia concretizzato
+nei termini auspicati non è certo dovuto ad ignavia, tantomeno ad una scelta di
+privilegiare incarti o attività asseritamente più interessanti dal profilo
+mediatico
+” (osservazioni, p. 2). Dopo avere richiamato il carico di lavoro
+che grava sul Ministero pubblico il PP afferma che più un incarto è voluminoso
+e complesso, più difficoltà vi sono nel riprenderne le fila tra un impegno
+lavorativo e l’altro e che le attività dell’autorità inquirente mutano
+costantemente a dipendenza delle circostanze legate ai singoli casi. Per quanto
+riguarda la sua lettera del 27.12.2006 (che a mente dei reclamanti sarebbe
+stata la causa scatenante del reclamo) non avrebbe avuto scopo dilatorio “
+avendo
+voluto
+confermare di aver riesaminato
+l’intero incarto ovvero di averne riprese le fila, come richiesto dai
+reclamanti stessi, motivando inoltre l’impossibilità di emanare
+(immediatamente) l’atto d’accusa e anticipando i passi istruttori volti a
+completare l’inchiesta
+” (osservazioni, p. 2). A mente del PP sarebbero
+infatti stati compiuti numerosi passi istruttori tra dicembre 2006 e gennaio 2007, in parte ancora prima che venisse presentato il reclamo, e cita: il richiamo e l’esame degli
+incarti relativi alle cause civili pendenti, l’istruzione verbale all’EFIN di
+formalizzare il rapporto (la cui consegna sarebbe prevista a breve),
+l’aggiornamento delle posizioni bancarie e dei sequestri, le citazioni di
+testimoni richiesti dall’accusato e la richiesta di sentire i reclamanti.
+Se la causa scatenante del
+reclamo fosse la lettera 27.12.2006 del PP il reclamo sarebbe quindi privo di
+oggetto in quanto ingiustificato visto che l’atto d’accusa non poteva essere
+emanato (per la necessaria completazione degli accertamenti) e perché il PP si
+sarebbe effettivamente attivato al fine di concludere l’inchiesta.
+In diritto:
+1.
+Il reclamo in oggetto è diretto
+contro le omissioni del Procuratore pubblico Tattarletti nell’ambito del
+procedimento penale contro __________ in quanto costitutive di
+denegata/ritardata giustizia.
+__________ e __________, entrambi
+parti civili nel procedimento, sono certamente legittimati a reclamare contro
+tempi e modalità di conduzione del procedimento.
+Il reclamo è quindi ricevibile in
+ordine.
+2.
+Si ricorda che il divieto di
+denegata/ritardata giustizia, dedotto a suo tempo dall'art. 4 della vCF e ora
+sancito positivamente dall'art. 29 cpv. 1 CF, impone che le autorità
+giudiziarie evadano le procedure di loro competenza (e si organizzino per
+poterlo fare) in un tempo adeguato, in relazione a natura e complessità della
+causa (CRP 23 maggio 2001 in re R., inc. 60.2000.00306) e che si ha denegata
+giustizia quando l'autorità alla quale compete l'emanazione di una decisione o
+l'impulso di un procedimento, semplicemente non vi pone mano oppure quando, pur
+dimostrandosi pronta a statuire, non lo fa tempestivamente e in modo adeguato
+alla natura delle cose e delle circostanze, ritenuto che il lamentato ritardo non
+sia compatibile con le esigenze processuali, segnatamente con i bisogni
+dell'istruttoria, con la complessità delle questioni di fatto e di diritto
+sollevate, nonché, ma in minor misura, con l'aggravio di pratiche pendenti (REP
+1998, pag. 350, con riferimento a DTF 107 I b 160; DTF 117 Ia 193).
+3.
+In concreto, come detto, i
+reclamanti, riassunti i fatti e spiegate le ragioni che hanno condotto
+all’inoltro del gravame, postulano da parte di questo giudice, l’accertamento
+di una situazione di denegata giustizia da parte del Procuratore pubblico che
+non intenderebbe procedere indilatamente con l’emanazione di un atto d’accusa,
+rispettivamente che venga ingiunto al magistrato inquirente di attivarsi in tal
+senso.
+Dagli atti risulta che il PP non
+ha proceduto con atti istruttori di rilievo da agosto/settembre 2003 sino a
+fine dicembre 2006/gennaio 2007. A fine dicembre 2006 il PP ha comunicato al
+legale dei reclamanti (cfr. lettera 27 dicembre 2007 all’__________, AI 285,
+che sarebbe stata la ragione del reclamo) “
+di avere potuto ultimamente
+rivedere l’intero incarto in questione
+”, che non gli sarebbe stato
+possibile procedere con l’emanazione dell’atto d’accusa ritenendo necessari
+ulteriori accertamenti sulle perdite di gestione (e che in tal senso avrebbe dato
+istruzioni all’EFIN di procedere alla “
+necessaria ricostruzione
+” nonché
+di “
+formalizzare in un rapporto le verifiche effettuate
+)” e che prima di
+procedere con il deposito degli atti avrebbe provveduto a citare l’accusato per
+un verbale conclusivo, mentre che a gennaio 2007 ha proceduto a citare testimoni, parti civili e accusato.
+Dagli atti emerge che il
+procedimento penale ha avuto uno stallo di circa 3 anni (da quando, per usare
+le parole del PP nelle osservazioni al reclamo, “
+il grosso dell’inchiesta
+può essere considerato completato
+” e cioè da circa fine 2003 a fine 2006) e l’incarto conta, almeno per l’ultimo anno (da novembre 2005 a ottobre 2006), almeno 6 solleciti scritti oltre a qualche sollecito telefonico – di cui si ha
+notizia leggendo lo scambio di corrispondenza tra i rappresentanti dei
+reclamanti ed il PP – a dimostrazione di un interesse al procedimento da parte
+dei reclamanti. Si tratta di un periodo francamente eccessivo e che non può
+essere giustificato con quanto avanzato (genericamente) dal PP nelle proprie
+osservazioni.
+A quest’ultimo proposito e con
+riferimento alle osservazioni del PP secondo cui sarebbe noto il carico di
+lavoro che grava sul Ministero pubblico e la “
+circostanza che nell’attività
+inquirente le priorità mutano costantemente, non per scelta dei singoli
+magistrati, ma per le circostanze oggettive dei singoli casi
+”
+(osservazioni, p. 2) non si può non sottolineare che, dopo la precedenza che la
+legge impone ai procedimenti penali con accusato in carcere preventivo (art.
+176 cpv. 3 CPP) la priorità va assegnata ai procedimenti di particolare disagio
+morale e materiale per le parti, soprattutto quando vengono sollecitati in modo
+puntuale, come nel presente caso (GIAR 25 settembre 2000 in re R.S. inc. 952.95.3L).
+D’altronde, per quanto riguarda
+la causa scatenante del reclamo (la lettera 27 dicembre 2006), da un esame
+dell’incarto penale appare evidente che il PP non avrebbe potuto procedere
+direttamente all’emanazione dell’atto d’accusa, così come richiesto dai
+reclamanti, e non solo perché mancano agli atti passi procedurali
+imprescindibili quali il deposito degli atti e la chiusura dell’istruzione
+formale, ma per evidenti motivi di incompletezza istruttoria già con il solo
+riferimento alla ricostruzione contabile di quanto imputato all’accusato.
+Inoltre, e a futura memoria, si precisa che questo giudice non ha alcuna
+competenza per imporre promozioni d'accusa, non luoghi a procedere o abbandoni
+(L. Marazzi, Il GIAR L'arbitro del processo penale, 2001, p. 18/19 e note) e, per
+analogia, neppure atti d’accusa: il diniego del magistrato di emanare un atto
+d’accusa non è un atto istruttorio in quanto tale, impugnabile con reclamo al
+GIAR, giusta l’art. 280 CPP, né una decisione di merito, conclusiva,
+dell’istruttoria, impugnabile alla CRP giusta l’art. 284 cpv. 1 lit. b CPP.
+Come per l’abbandono, si tratta di atti procedurali che avverranno quando il
+magistrato inquirente avrà maturato il proprio personale convincimento che
+l’accusato non potrà essere condannato o dovrà essere deferito davanti ad una
+corte delle Assise.
+Che il magistrato inquirente
+avesse, a dicembre 2006, finalmente ripreso in mano l’incarto penale contro __________
+lo si evince non solo dalle sue dichiarazioni al legale dei reclamanti, ma
+anche dalla lettera 27 dicembre 2006 (AI 288) al legale della __________ (____________________),
+che in parte ricalca il contenuto di quella inviata lo stesso giorno all’__________
+(di cui si è appena fatto cenno). In questo scritto, con riferimento ad alcune
+istanze di prove presentate da questa parte civile il 30 giugno e il 24
+settembre 2004, il PP ha inteso informarsi con l’interlocutore se intendesse
+mantenere le richieste fatte a suo tempo e se
+avesse altri atti istruttori
+specifici da proporre al di là dell’interrogatorio dell’accusato (già previsto
+dal magistrato inquirente).
+Alla conclusione di un’effettiva
+riattivazione della procedura si giunge anche con la lettura della lettera 22
+dicembre 2006 alla __________ (AI 284), con la quale il PP ha chiesto
+l’estratto patrimoniale aggiornato della __________, e con la richiesta e
+l’esame di alcuni incarti relativi a procedimenti civili presso le preture di
+Bellinzona e Lugano. Dopo ricezione del reclamo il magistrato inquirente, al
+fine di completare i propri accertamenti, ha provveduto, in data 22 gennaio
+2007, a chiedere all’__________ alcune situazioni patrimoniali delle __________
+ed il 26 gennaio 2006 a citare in qualità di testimoni __________ e __________
+nonché i qui reclamanti (anche se in effetti avrebbe potuto procedere con la
+proposta di audizione dei reclamanti ancora a dicembre 2006 senza attendere
+l’inoltro del reclamo) .
+Va detto che nel frattempo
+all’incarto si sono effettivamente aggiunti gli atti istruttori ventilati dal
+PP quali i seguenti verbali (in parte svolti alla presenza del legale dei
+reclamanti): 2 marzo 2007 dei testimoni __________ e __________, __________ e __________
+(in parte a confronto con l’accusato) e 28 marzo 2007 dell’accusato __________,
+nonché ulteriori accertamenti bancari (cfr. ad esempio la lettera 6 marzo 2007
+(AI non numerato) della __________ al Ministero pubblico all’attenzione della
+responsabile EFIN.
+Da quanto detto sopra appare
+quindi che le rassicurazioni del PP, espresse nella lettera 27 dicembre 2006 (e
+ribadite nelle osservazioni al reclamo), di un effettivo riavvio del
+procedimento, che si starebbe dirigendo verso una conclusione in tempi brevi
+(perlomeno verso il deposito degli atti), sono sorrette da elementi concreti,
+per cui non è necessario che sia questo giudice (in questa sede, come chiesto
+dai reclamanti) ad ordinare al PP il riavvio della procedura apparendo la
+stessa già riavviata al momento dell’inoltro del reclamo, mentre che già si è
+detto in precedenza dell’incompetenza di questo giudice ad ordinare al magistrato
+inquirente di procedere con l’emanazione dell’atto d’accusa.
+Il reclamo è dunque da ritenersi
+privo d’oggetto e può quindi essere stralciato dai ruoli.
+Visto quanto suesposto, il lungo
+tempo trascorso senza il compimento di atti istruttori di rilievo, che
+costituisce oggettivamente ritardata giustizia, ed i numerosi solleciti dei
+reclamanti, che in precedenza non avevano portato ad una riattivazione della
+pratica, tassa e spese di giustizia sono a carico dello Stato mentre che, visto
+l’esito del reclamo (che chiedeva a questo giudice di ordinare al magistrato di
+procedere immediatamente nei suoi incombenti, in particolare con l’emanazione
+dell’atto d’accusa a carico di __________, e che si è praticamente incrociato
+con la riattivazione della pratica) non vengono assegnate ripetibili ai
+reclamanti.
+viste le norme applicabili, in
+particolare gli articoli 138, 146, 158, 251 CP, 1ss, 60, 178 ss., 188 ss., 196,
+280 e 284 (e contrario) CPP, 29 CF;
+decide
+1.
+Il reclamo, in quanto privo d’oggetto, è
+stralciato dai ruoli.
+2.
+La
+tassa di giustizia di CHF 450.-- e le spese di FRS 100.-- sono a carico dello
+Stato mentre che non vengono assegnate ripetibili ai reclamanti.
+3.
+La presente decisione è definitiva.
+4.
+Intimazione:
+giudice
+Claudia Solcà
