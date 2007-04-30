@@ -1,0 +1,404 @@
+---
+decision_id: "ti_gerichte_INC.2007.16702"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.16702"
+decided: "2007-04-30"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=93021&nX40_KEY=4711225&nTrefferzeile=87&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-109.md"]
+---
+
+# TI Gerichte INC.2007.16702
+
+## Regeste
+
+Istanza di libertà provvisoria. Istanza accolta con misure sostitutive
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 30.04.2007 INC.2007.16702
+Tessin Il Giudice dell'istruzione e dell'arresto 30.04.2007 INC.2007.16702
+Ticino Il Giudice dell'istruzione e dell'arresto 30.04.2007 INC.2007.16702
+
+Istanza di libertà provvisoria. Istanza accolta con misure sostitutive
+
+Incarto n.
+INC.2007.16702
+Lugano
+30 aprile 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 23 aprile 2007 da
+__________
+patr. d’ufficio dall’__________
+e qui trasmessa con
+preavviso negativo 27 aprile 2007
+dal
+Procuratore pubblico Moreno Capella
+,
+Lugano
+preso atto delle osservazioni 28
+aprile 2007 della difesa;
+visto l'inc. MP __________;
+ritenuto e considerato,
+in fatto ed in
+diritto
+1.
+__________ è in stato arrestato
+il 6 aprile 2007 con contestuale promozione dell'accusa per il reato di
+violenza carnale ai danni di __________, fatti avvenuti la notte tra il 5 ed il
+6 aprile 2007 presso il domicilio dell’accusato a __________ (doc. 1 e 2 inc.
+GIAR 167.2007.1).
+L'arresto è stato confermato il
+giorno successivo da questo giudice ritenuti presenti, oltre che seri e
+concreti indizi di colpevolezza, bisogni dell'inchiesta e pericolo di
+collusione (doc. 4 inc. GIAR cit.).
+2.
+Con l'istanza qui in discussione __________
+chiede di essere immediatamente posto in libertà provvisoria. La difesa, dopo
+aver rilevato di non avere avuto accesso agli atti, ritiene che,
+“per quanto
+è dato sapere alla difesa”
+, agli atti, seppure siano già stati esperiti più
+verbali di polizia delle persone coinvolte, non vi sarebbero indizi concreti
+atti a corroborare la versione dei fatti fornita dalla presunta vittima, e
+contestata dall’accusato, il quale ha sempre dato una versione costante e
+lineare dei fatti. I bisogni dell’inchiesta sarebbero da ritenere conclusi,
+ritenuto che si è già proceduto ad ordinare le analisi scientifiche sulle prove
+organiche raccolte, il controllo sulle utenze in uso all’accusato, che, così
+come la vittima e la teste __________, sarebbe stato sentito più volte dagli
+inquirenti. Unico atto istruttorio che si potrebbe ancora effettuare è
+l’audizione di tale “__________”, oggetto di un avviso di ricerca, ma tuttora
+irreperibile. In tali circostanze il pericolo di collusione non sarebbe
+attuale. Da ultimo, a titolo abbondanziale, non essendo stati ritenuti quali
+motivi per giustificare il mantenimento della detenzione preventiva, la difesa
+contesta esistenza di pericolo di fuga e di pericolo di recidiva.
+3.
+Di parere diverso il magistrato
+inquirente che ha preavvisato negativamente l'istanza, ritenendola prematura.
+Riassunti gli indizi di reato - che
+“non si sono affievoliti. Anzi.”
+-,
+il Procuratore pubblico evidenzia l'esistenza di bisogni dell'istruzione -
+dovendosi ancora procedere all’audizione di __________ (nel frattempo
+identificato in __________ e nei cui confronti sono stati emanati il 16.04.2007
+una ricerca di soggiorno con allegata citazione), a quelle, da parte del
+magistrato inquirente, della presunta vittima, della testimone (interrogatori
+già fissati per il 25 e 27 aprile 2007) e dell’accusato stesso, nonché
+“con
+molta verosimiglianza”
+al confronto dell’accusato con __________ e,
+“se
+necessario”,
+con la teste __________, inoltre gli inquirenti non sono
+ancora in possesso dei risultati delle tracce biologiche e delle risultanze
+della sorveglianza telefonica, che dovranno essere comunque contestati
+all’accusato - e pericolo di collusione con la presunta vittima e con i testi __________
+e __________. I principi di proporzionalità e celerità sarebbero rispettati.
+Infine, in merito alla questione
+dell’accesso agli atti, evidenzia di aver concesso alla difesa colloqui liberi
+e di avere comunque informato in modo regolare telefonicamente la difesa circa
+l’avanzamento dell’inchiesta, rilevato comunque che allo stadio attuale del
+procedimento
+“gli inquirenti abbiano l’esigenza di non scoprire subito tutte
+le carte”.
+4.
+In data 25 aprile 2007 e 27
+aprile 2007 il Procuratore pubblico ha proceduto all’audizione della presunta
+vittima e della testimone __________.
+Con scritto 27 aprile 2007
+(anticipato via fax) questo giudice, preso atto dell’istanza della difesa volta
+ad ottenere l’accesso agli atti, ha chiesto al Procuratore pubblico, alla luce
+della giurisprudenza del Tribunale federale, di indicare quali atti potessero
+essere ostensi alla difesa e quali no. Da parte sua il magistrato inquirente al
+termine del verbale di __________ ha concesso alla difesa completo accesso agli
+atti (revocando però i colloqui liberi), nonché fissato l’interrogatorio di __________
+per oggi, 30 aprile 2007, alle ore 12.15.
+5.
+Con osservazioni 28 aprile 2007,
+dopo aver esaminato l’intero incarto, la difesa si riconferma nella primitiva
+istanza, rilevando nel contempo che qualora questo giudice dovesse ritenere
+dato un concreto pericolo di collusione dell’accusato con la presunta vittima,
+la di lei amica e __________ (tuttora irreperibile), lo stesso potrebbe
+comunque essere limitato con l’adozione di misure sostitutive, quali ad esempio
+il divieto di contattare e di frequentare dette persone.
+6.
+L'istanza, presentata
+dall'accusato detenuto, è ricevibile in ordine.
+Ricevuta dal Ministero pubblico
+in data 24 aprile 2007 è stata recapitata brevi manu a questo ufficio unitamente
+all'incarto la mattina del 27 aprile 2007, nel rispetto dei termini di cui
+all'art. 108 cpv. 1 CPP.
+7.
+Sebbene noti al patrocinatore ed
+al magistrato inquirente, i principi generali in materia di detenzione
+cautelare vengono qui di seguito esposti:
+L'art. 95 CPP - corrispondente all’art. 33 scaturito
+dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 (per cui mantiene
+validità la pregressa giurisprudenza: v. decisione 10 gennaio
+1996 in
+re T. H., GIAR
+2.96.2) - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova
+di regola in libertà, consente al cpv. 2 arresto, perdurare ed eventualmente
+proroga del carcere preventivo a norma dell'art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali - per quanto qui concerne - segnatamente i bisogni
+dell’istruzione e pericolo di recidiva (senza dimenticare che l’arresto, quale
+misura processuale cautelativa, non serve unicamente ai bisogni
+dell’istruttoria, ma anche ad assicurare la presenza dell’accusato al processo
+e a garantire l’eventuale espiazione della pena: DTF 109 Ia 323 consid c, e
+riferimenti; sentenza 16 novembre 1993 del Tribunale federale in re A.H.,
+1P.477/1993, consid. 3).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss) - ritenuto implicito il
+rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413;
+DTF 102 Ia 381). Ed anche questo giudice, come già la Camera dei ricorsi
+penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag. 128).
+8.
+L'esistenza di gravi e concreti
+indizi di colpevolezza deve essere verificata d'ufficio, pur nei limiti di
+competenza di questo giudice derivanti da un lato dalla sua funzione - che è
+quella di esaminare l’esistenza dei presupposti per il mantenimento della
+misura restrittiva della libertà personale, e non di valutare nella sostanza
+l’esistenza di un reato -, e dall’altro - ma in maniera strettamente congiunta
+con quanto si viene di dire - dall’inopportunità di considerazioni di merito
+premature e, soprattutto, di competenza delle sedi di giudizio.
+In concreto, sono senz'altro dati
+sufficienti indizi di colpevolezza a carico di __________.
+In particolare gli stessi
+emergono da:
+-
+la versione resa dalla vittima è sostanzialmente lineare, al di là di
+una certa imprecisione su aspetti comunque secondari: la stessa ha infatti più
+volte ribadito che i fatti si sarebbero svolti nel bagno dell’appartamento
+dell’accusato, che l’atto sessuale imposto sarebbe stato proceduto da sberle e
+dall’episodio del telefonino supposto rubato da __________, che al fatto hanno
+assistito sia __________ che __________, che al momento in cui l’accusato è
+entrato in bagno lei si trovava seduta sull’asse del WC, che forse non vi è
+stata eiaculazione, che lo stesso l’ha poi accompagnata alla Stazione e che vi
+è stato un traffico telefonico tra lei, l’amica e lo stesso __________ (cfr.
+verb. Pol. 6 e 12.04.2007, verb. PP 25 e 27.04.2007);
+-
+le dichiarazioni di __________ – che al momento dei fatti era sostanzialmente
+l’unica persona sobria (0.049 per mille), sentita dalla polizia prima di __________,
+quindi senza la possibilità che le due amiche potessero concordare una versione
+comune da fornire agli inquirenti - la quale ha dichiarato di aver assistito
+alla scena dell’accusato che seguiva __________ in bagno, che l’ha respinta
+fuori dal bagno quando lei ha tentato di soccorrere l’amica, che l’accusato ha
+sfilato i pantaloni a __________ fuori dal bagno dove la stessa era riuscita a
+fuggire, per poi riportarla all’interno del bagno, che ha sentito la vittima
+gridare e piangere ed infine, che sin dall’inizio della serata l’accusato ha
+mostrato un interesse particolare nei confronti di __________; in sostanza
+quanto dichiarato da __________, seppure divergente in alcuni particolari non
+rilevanti, corrobora la versione data dalla presunta vittima.
+Ulteriori elementi indizianti
+emergono non soltanto dalle deposizioni testimoniali agli atti, segnatamente da
+quelle di __________ e di __________ – che hanno incontrato/visto __________ ed
+__________ alla ricerca e nel tentativo di entrare in contatto con la Polizia e
+che hanno dichiarato che gli stessi apparivano molto agitati, in particolare la
+ragazza (cfr. verb. Pol. 6.04.2007 e 24.04.2007) -, e dai numerosi tentativi
+telefonici effettuati da __________ per chiedere aiuto alla Polizia e relative
+trascrizioni delle chiamate (cfr. AI 33), ma anche dalle dichiarazioni rese da __________,
+che non appaiono del tutto lineari, seppure lo stesso neghi di aver commesso il
+reato addebitatogli. Nei primi verbali, infatti, egli ha dichiarato unicamente
+di avere passato la serata con le due ragazze e __________, di essersi
+arrabbiato con __________ perchè pensava gli avesse rubato il telefonino (poi
+recuperato nel bagno dove la stessa si trovava) e di aver subito le attenzioni
+della ragazza che lo avrebbe accarezzato sopra i vestiti, precisando di non
+aver avuto alcun rapporto sessuale con __________ (cfr. verb. pol. 6.04.2007 e
+GIAR 7.04.2007). Nel successivo verbale di polizia ha invece fornito, pur
+continuando a negare di avere commesso il reato addebitatogli, una versione dei
+fatti a tratti quantomeno singolare e non del tutto conforme a quella data
+inizialmente. In particolare ha asserito che già in sala __________ avrebbe
+iniziato a toccarlo e si sarebbe seduta
+“sopra di me”,
+che sarebbe
+entrato nel bagno arrabbiato a recuperare il telefono, __________ avrebbe fatto
+la dolce,
+“Io mi sono incazzato. Ma non ho fatto violenza fisica. Ho alzato
+la voce. Le
+ho detto “ma ti ospito in casa mia, e mi rubi il telefono?” Ero incazzato.
+(…) Io avevo la porta del bagno chiusa dietro la schiena, e ricordo che l’altra
+ragazza tentava di entrare nel bagno spingendo la porta, come se stesse
+succedendo qualcosa. Ma era solo
+la voce. Io
+gridavo. Dopo io,
+così, ho capito che sono bastarde, e sono uscito da bagno, e sono andato a
+vedere se mi mancavano i soldi, in camera”
+, a quel momento __________ e __________
+non c’erano più ma avrebbe sentito le loro voci nella scala per uscire
+dall’appartamento, che al suo ritorno in sala avrebbe trovato __________ seduta
+sul divano senza pantaloni e senza mutande,
+“a quel punto ero tutto confuso.
+Sicuramente non l’ho picchiata,. Lei era ruffiana, tutta dolce. Ma non è
+successo niente. Io avevo sempre i vestiti. L’ho toccata un po’ sui fianchi e
+sulle gambe. Lei mi ha chiesto fr. 200.--. Ma io ho pensato alla mia fidanzata.
+E quindi non è successo niente.(..) Lei ha messo i pantaloni e dimenticato di
+mettere le mutande”
+, ciò di cui si sarebbe accorta soltanto salendo in
+macchina, motivo per cui sarebbero ritornati nell’appartamento, avrebbero
+ritrovato le mutande che comunque la ragazza non avrebbe indossato (cfr. verb.
+Pol. 11.04.2007)
+9.
+I bisogni istruttori atti a
+giustificare la misura restrittiva della libertà personale non si identificano
+semplicemente con gli atti ancora da assumere in quanto tali, o con gli
+accertamenti ancora da effettuare, bensì con il pericolo di collusione o di
+inquinamento delle prove che (eventualmente) espone a rischio la corretta raccolta
+(o conservazione) di tali atti (G. Piquerez, Procédure pénale suisse, ZH 2000,
+nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697 ss., no. 701a;
+RDAT 1988 no. 24; DTF 117 Ia 257, cons. 4 c.).
+In quest'ottica
+il fatto che l'inchiesta sia tuttora in corso non è, di per sé, decisivo, in
+quanto "
+Die Tatsache allein, dass noch nicht alle Beweise erhoben bzw.
+die Mitverdächtigen dingfest gemacht werden konnten oder dass der
+Angeschuldigte die Aussage verweigert, genügt nicht
+" (N. Schmid, op. cit.,
+no. 701a)
+.
+Gli elementi
+di concretezza del pericolo vanno individuati, di volta in volta, quantomeno
+nella specifica prova da assumere e nel rapporto (oggettivo e soggettivo)
+dell'accusato con il mezzo di prova. Ad esempio, trattandosi di audizione testimoniale,
+il pericolo di collusione non può essere indicato in modo astratto a
+giustificazione del mantenimento della misura cautelare, occorre che
+un’influenza (dell’accusato nei confronti del teste) sia possibile,
+rispettivamente che vi sia una possibile convergenza d’interessi (tra i due) in
+relazione al contenuto della deposizione (SJ 1990 p. 438; DTF 117 Ia 257; ZR 72
+no. 77 p. 19). Il semplice atteggiamento di diniego dell’accusato, in sé, non
+costituisce indice in tal senso (DTF 90 IV 66; Hauser/Schweri, Schweizerisches
+Strafprozessrecht, BS 1999, § 68 no 13).
+Per quanto riguarda gli atti
+istruttori ordinati dal Procuratore pubblico (analisi tracce biologiche e
+tabulati telefonici) e le cui risultanze non sono ancora pervenute, trattasi di
+accertamenti che non possono in ogni caso essere alterati dall'accusato, poco
+importa che dette risultanze dovranno essergli successivamente contestate.
+La presunta vittima __________ e
+la teste __________ sono già state sentite dal Procuratore pubblico ed hanno
+sostanzialmente confermato la versione già resa in Polizia (cfr. verb. PP 25 e
+27.04.2007).
+Il verbale PP di __________ è
+stato nel frattempo (il 27 aprile u.s.) fissato per oggi, ultimo giorno per
+l’emanazione della presente decisione (ciò che legittima il dubbio che non sia
+per il magistrato inquirente atto indispensabile e rilevante ai fini
+dell’istanza di libertà provvisoria, né sostiene trattarsi di atto istruttorio
+dal quale potrebbero emergere eventuali ulteriori bisogni istruttori
+suscettibili di manovre collusive).
+Se è vero che l’atteggiamento
+processuale di __________, che, come detto, verrà sentito in data odierna (per
+la prima volta, seppure in carcere ormai da oltre tre settimane) dal magistrato
+inquirente non può essere definito del tutto trasparente e che con l’altra
+persona presente la sera dei fatti incriminati, successivamente identificata
+nel cittadino americano __________ (nei cui confronti il Procuratore pubblico
+ha emesso una ricerca di soggiorno con allegata citazione a comparire) sussiste
+un chiaro pericolo di collusione, visto che lo stesso era amico/conoscente
+dell’accusato, è altrettanto vero che non è ancora stato possibile
+rintracciarlo e che esistono forti dubbi che lo stesso, cittadino americano in
+Svizzera con un visto turistico, possa esserlo a breve, non potendosi del resto
+escludere che sia rientrato al proprio Paese, né va trascurato che quest’ultimo
+la sera dei fatti incriminati prima dell’arrivo della Polizia si è di fatto
+dileguato e che non sussistono elementi concreti per ritenere che __________
+sia in grado di rintracciarlo. Circostanze queste che non permettono, anzi il
+contrario, di concludere che si possa procedere a breve (e neppure a lungo
+termine) all’audizione di __________.
+Per quanto concerne invece
+l’asserito pericolo di collusione con __________ ed __________, ribadito che le
+stesse hanno già confermato i rispettivi verbali di polizia dinnanzi al
+Procuratore pubblico, giova rilevare che dagli atti emerge che i rispettivi
+confronti con l’accusato, in particolare quello con la presunta vittima (che
+“si
+imporrà”
+a livello predibattimentale, cfr. verb. PP 27.04.2007 di __________),
+non sono ancora stati ordinati e che a far tempo dal 1 maggio p.v. le due
+ragazze inizieranno a lavorare altrove, non in Ticino, in luogo ignoto
+all’accusato.
+Ciò premesso appare difficilmente
+ipotizzabile sia che __________ potrà essere rintracciato e quindi sentito in
+tempi brevi, sia che __________ possa prendere contatto con __________ e con __________
+al fine di indurle a rendere una diversa versione dei fatti a lui più
+favorevole - in tale remota ipotesi e qualora le stesse dovessero lasciarsi
+influenzare si sconfinerebbe dai limiti della correttezza o del penalmente
+tutelabile, tanto più che entrambe, peraltro assistite da un legale, sono state
+più volte sentite (dalla Polizia e, da ultimo, dal Procuratore pubblico) ed
+hanno confermato la propria versione dei fatti (cfr. per analogia CRP
+23.04.2007 in re M.G., 60.2007.121, cons. 15) -.
+In virtù di quanto precede,
+ribadito che in data odierna si procederà all’interrogatorio dinanzi al
+magistrato inquirente di __________, l’audizione di __________ ed il confronto
+predibattimentale tra la presunta vittima e l’accusato (cui il Procuratore
+pubblico ha intenzione di procedere a data ancora da definirsi, cfr. verb. PP
+27.04.2007 di __________), costituiscono i soli bisogni d’inchiesta, con
+corollario del relativo pericolo di collusione in caso di messa in libertà
+provvisoria dell’accusato, tuttavia essi non sono tali da giustificare, in una
+ponderazione degli interessi in gioco e tenuto conto della circostanze sopra
+descritte, la protrazione della detenzione preventiva dell’accusato qui
+istante.
+10.
+Il preavviso del magistrato
+inquirente non fa menzione né di un pericolo di recidiva, né di un pericolo di
+fuga.
+In assenza di motivazioni e/o
+indicazioni in tal senso, questo giudice può esimersi dall'esaminarne
+l'eventuale esistenza, che neppure emerge in modo evidente dall'incarto.
+11.
+In conclusione, vista l'assenza
+di indicazioni circa pericolo di recidiva o di fuga e visto quanto detto in
+particolare al considerando n. 9 della presente in merito all'invocato pericolo
+di collusione occorre concludere, anche per motivi di proporzionalità (la
+gravità del reato da sola non bastando), che la detenzione preventiva cui è
+astretto __________non è più rispettosa dei dettami di legge che permettono
+restrizione del diritto alla libertà personale costituzionalmente garantito e
+che pertanto __________ dovrà essere messo in libertà provvisoria alle
+condizioni – volte a scongiurare il pericolo di collusione – di evitare
+qualsiasi contatto con le altre persone coinvolte, segnatamente __________, __________
+e __________, di rimanere costantemente a disposizione delle autorità
+inquirenti per il seguito dell’inchiesta e di rendersi reperibile attraverso il
+patrocinatore, pena il ripristino della misura e/o, se ne sono date le
+condizioni, l'estensione del procedimento a reati contro l'amministrazione
+della giustizia (cfr. per analogia CRP 16 settembre 2005 in re B., 60.2004.297, consid. 12; artt. 96 e 107 CPP).
+Soluzione che s’impone anche in
+ossequio al principio di proporzionalità.
+Il presente giudizio, in tema di
+libertà personale, è esente da spese e tassa di giustizia.
+P.Q.M.
+viste le norme applicabili, in
+particolare gli artt. 190 CP, 95 ss, 102, 107, 108, 284 CPP, 39 LTG,
+decide
+1.
+L'istanza è accolta, di conseguenza __________ è posto in
+libertà provvisoria con effetto immediato, alle seguenti e cumulative
+condizioni:
+a.
+evitare qualsiasi contatto (attivo e passivo) con le altre persone
+coinvolte nell'inchiesta, segnatamente con __________, __________ e __________;
+b.
+rimanere costantemente a disposizione degli inquirenti, per
+qualsiasi ulteriore necessità, rendendosi reperibile per il tramite del
+patrocinatore.
+La violazione delle
+condizioni indicate potrà condurre al ripristino della misura          cautelare
+privativa della libertà (art. 109 CPP).
+2.
+Il Procuratore pubblico è invitato a disporre per
+l'immediata esecuzione della presente decisione.
+3.
+Non si percepiscono
+né tassa né spese giudiziarie.
+4.
+Contro la presente decisione è dato ricorso alla CRP
+Lugano entro dieci giorni dall'intimazione.
+5.
+Intimazione:
+anticipata via fax:
+giudice
+Ursula Züblin
