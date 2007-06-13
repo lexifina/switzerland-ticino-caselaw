@@ -1,0 +1,420 @@
+---
+decision_id: "ti_gerichte_INC.2007.703"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.703"
+decided: "2007-06-13"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=93502&nX40_KEY=4711223&nTrefferzeile=22&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-020.md", "switzerland/bund/acts/311.0/art-111.md", "switzerland/bund/acts/311.0/art-183.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/831.20/art-056.md"]
+---
+
+# TI Gerichte INC.2007.703
+
+## Regeste
+
+Libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 13.06.2007 INC.2007.703
+Tessin Il Giudice dell'istruzione e dell'arresto 13.06.2007 INC.2007.703
+Ticino Il Giudice dell'istruzione e dell'arresto 13.06.2007 INC.2007.703
+
+Libertà provvisoria
+
+Incarto n.
+INC.2007.703
+Lugano
+13 giugno 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire
+sull’istanza di libertà provvisoria presentata il 4/5 giugno 2007 da
+__________
+, attualmente detenuto c/o __________
+(rappr. dall’Avv. __________,
+__________)
+e qui trasmessa con
+preavviso negativo del 8/11 giugno 2007 dal
+Procuratore
+pubblico Mario Branda
+, Ministero
+pubblico Lugano, ufficio di Bellinzona
+viste le osservazioni della difesa dell’11 giugno 2007;
+visto l’incarto MP __________;
+ritenuto e considerato
+in fatto ed in diritto
+1.
+__________ è stato arrestato il 7 gennaio
+2007 in
+quanto sospettato
+dell’omicidio intenzionale del fratello __________ (doc. 2, inc. GIAR
+7.2007.1).
+Nei suoi confronti il Procuratore pubblico ha promosso
+l’accusa per le ipotesi di reato di cui agli artt. 111 e 127 CP ed ha chiesto
+la conferma dell’arresto (doc. 1, inc. GIAR 7.2007.1).
+L’arresto è stato confermato da questo giudice l’8
+gennaio 2007, ritenuti presenti gravi indizi di reato e necessità istruttorie
+(doc. 7, inc. GIAR 7.2007.1).
+2.
+In sostanza, __________ è accusato di aver (volontariamente)
+causato, la notte tra il 6 e il 7 gennaio 2007 presso il suo appartamento di __________,
+il decesso del fratello __________ che si trovava temporaneamente presso di lui
+(mentre che normalmente è collocato presso un istituto di __________).
+L’accusa è successivamente stata estesa ad altre
+ipotesi di reato (art. 183 CP: AI 2.4, pag. 8; artt. 112, 123, 189 CP: AI 3.14),
+vuoi per gli stessi fatti, vuoi per altri precedenti.
+3.
+L’inchiesta si è sviluppata mediante tutta una serie
+di esami tecnici (cfr. AI 7), rispettivamente medici (AI 6), ricostruzioni e
+verbalizzazioni dell’accusato e di testi, vuoi da parte del magistrato
+inquirente (AI 2), vuoi da parte della polizia (Classificatore verbali
+polizia).
+4.
+Con l’istanza qui in discussione, __________ chiede di
+essere posto in libertà provvisoria (doc. 1, inc. GIAR 7.2007.3).
+Dopo aver ricordato che (anche indipendentemente dalla
+sua professione d’innocenza) i soli indizi di reato non bastano a giustificare
+la carcerazione preventiva, l’accusato sostiene che attualmente non sono più
+presenti necessità istruttorie, è escluso il pericolo di recidiva (pure a
+fronte della perizia agli atti) e inconsistente il pericolo di fuga (assenza di
+appoggi o di contatti all’estero, assenza di disponibilità finanziarie dato che
+la rendita AI è percepita direttamente dal tutore, nonché assenza di mezzi di
+trasporto propri oltre alla limitazione della sua mobilità fisica causa
+invalidità; inoltre, l’appartamento di Locarno essendo ritornato disponibile a
+seguito di recente dissequestro, egli avrebbe una possibilità concreta di
+alloggio in Ticino).
+Da ultimo richiama l’esigenza del rispetto di
+proporzionalità della misura.
+5.
+Il magistrato inquirente ha preavvisato negativamente
+la richiesta (doc. 2, inc. GIAR 7.2007.3).
+Dopo aver ricordato gli indizi di reato e la loro
+gravità, con riferimento agli atti d’inchiesta (causa del decesso e ora
+probabile del decesso, le numerose lesioni riscontrate sul corpo del defunto,
+l’assenza di altre persone in casa - oltre all’accusato - nel periodo di tempo
+rilevante, il precedente atto di “costrizione” fisica messo in opera nei
+confronti del fratello, le contraddizioni relative alla “presenza” nell’ano del
+fratello di un pezzo di vibratore e le tracce biologiche riconducibili al
+fratello ritrovate sulle sue parti genitali), il Procuratore pubblico sostiene l’esistenza
+del pericolo di recidiva (in particolare nei confronti di altre persone
+coinvolte nei fatti e con riferimento alla pag. 36 della perizia), nonché del pericolo
+di fuga (vista l’assenza di particolari legami personali o professionali con il
+territorio svizzero, nonostante la lunga presenza, e la gravità dei reati
+ascritti con conseguente rischio di pena elevata).
+6.
+Le osservazioni della difesa (11 giugno 2007: doc. 4,
+inc. GIAR 7.2007.3) sottolineano innanzitutto come l’estensione dell’accusa
+alle ipotesi di reato di assassinio, coazione sessuale e lesioni, sia avvenuta
+contestualmente al preavviso negativo e con la sola indicazione degli articoli
+del CP; prudenzialmente, contesta “
+l’ipotetico ricorrere degli indizi di
+colpevolezza
+” sui primi due reati indicati.
+In merito al pericolo di fuga ribadisce quanto esposto
+nell’istanza. Aggiunge che l’accusato non intende sottrarsi al processo (chiede
+solo di affrontarlo a piede libero) e che le uniche entrate importanti
+dell’accusato sono quelle provenienti dall’AI versata al tutore, mentre che il
+versamento dell’INPS ammonta a soli euro 140.- mensili.
+Quanto al pericolo di recidiva rileva come il perito
+giudiziario non evochi scenari inquietanti e che i timori del teste __________
+(che la difesa considera teste a favore) sono “soggettivi” e non hanno nulla di
+concreto.
+Da ultimo produce alcuni scritti che confermerebbero
+il buon carattere dell’accusato e il fatto che questi debba di far capo al
+tutore per ogni e qualsiasi necessità finanziaria.
+7.
+L’istanza di libertà provvisoria é pervenuta al
+Ministero pubblico il 5 giugno 2007. Il preavviso negativo è stato spedito l’8
+giugno 2007 ed é giunto a questo ufficio l’11 giugno 2007. I termini ex art.
+108 CPP sono rispettati (cfr. anche art. 20 CP).
+8.
+I criteri di legge applicabili alla carcerazione
+preventiva, sebbene noti al Procuratore pubblico ed al difensore, vengono qui
+di seguito richiamati:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo
+2000 in
+re S.B.,
+consid. 4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco
+dei motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo
+(Messaggio aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad
+art. 27, pag. 32, nota 3), tra altri possibili, essendovi quello della tutela
+dell’ordine pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con
+maggior rigore nella loro valutazione, quanto più si è protratta la restrizione
+della libertà e quanto più si avvicina la conclusione delle indagini (REP 1988
+pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera
+dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+9.
+L'esistenza di gravi e concreti indizi di colpevolezza
+deve essere verificata d'ufficio, pur nei limiti di competenza di questo
+giudice derivanti da un lato dalla sua funzione - che è quella di esaminare
+l’esistenza dei presupposti per il mantenimento della misura restrittiva della
+libertà personale, e non di valutare nella sostanza l’esistenza di un reato -,
+e dall’altro - ma in maniera strettamente congiunta con quanto appena detto -
+dall’inopportunità di considerazioni di merito premature e, soprattutto, di
+competenza delle sedi di giudizio (CRP 17 novembre 2005, 60.2005.357; GIAR 15
+marzo 2007, 28.2007.3).
+Nel caso in esame, le (ripetute) dichiarazioni
+dell’accusato in merito al tempo passato in casa il pomeriggio del 6.1.2007,
+all’assenza di altre persone, al momento della breve uscita al bar nella serata
+del 6 gennaio 2007 (Verbali PG 7.1.2007, PP 10.1.2007 pag. 4 ss., 31.1.2007
+pag. 6), quest’ultima sostanzialmente confermate da testi (Verbale PG Toscano
+8.1.2007, con riferimento anche alle registrazioni di cassa sebbene con orario
+estivo), e quelle secondo cui al primo rientro a casa il fratello russava o
+faceva finta di russare (verbale PP 11 gennaio 2007, pag. 2), poste in
+relazione con le cause e l’orario probabile del decesso indicate dal medico
+legale (AI 6.2) sono elementi che, già da soli, costituiscono gravi indizi del
+reato di cui all’art. 111 CP.
+Inoltre, le manipolazioni messe in opera dall’accusato
+per togliere dall’ano del fratello un pezzo di vibratore nell’attesa
+dell’intervento dei sanitari (cfr. Verbale PG 7.1.2007), le contraddizioni
+circa modi e tempi in cui una parte di tale vibratore sia finito nel corpo del
+fratello (cfr. Verbali PP 5.4.2006 e 5.6.2007 a confronto), il ritrovamento
+sulle parti genitali dell’accusato (così come sul vibratore) di tracce
+biologiche riconducibili al fratello (Cfr. Verbale PP 5.4.2007), le modalità
+con le quali l’accusato risulta essersi comportato durante accertati rapporti
+omosessuali (verbale PP __________ 8 febbraio 2007 pag. 1 e 2) così come la
+presenza sul corpo del fratello di numerosi segni di lesione (che non possono
+essere imputati unicamente alla certamente presente difficoltà di gestione
+-rispettivamente autogestione - dello stesso: cfr. Verbale PP 18.4.2007, pag 9
+ss.), costituiscono ulteriori elementi indizianti e/o circostanziali (emersi
+nel corso dell’inchiesta) nei suoi confronti e sempre in relazione all’ipotesi
+di reato di cui all’art. 111 CP.
+L’ipotesi di reato di cui all’art. 183 CP è indiziata
+dalle stesse dichiarazioni dell’accusato (Verbale PP 13.2.2007; DTF 119 IV 220,
+DTF 104 IV 174) e dalla fotografia ritrovata che sembrerebbe evidenziare tale
+situazione (all. 9 al Verbale PP 18 aprile 2007); e ciò indipendentemente dalle
+motivazioni enunciate (negli stessi verbali).
+Alla luce di quanto sopra (gravi indizi in relazione
+alle ipotesi di reato di cui agli artt. 111 e 183 CP) non è necessario
+esprimersi in merito alle ipotesi di reato oggetto dell’estensione
+(effettivamente effettuata con semplice indicazione delle norme di legge e
+generico rinvio alle emergenze dell’inchiesta), i cui elementi (eventualmente)
+indizianti non sono neppure stati oggetto di chiare indicazioni in sede di
+preavviso (cfr. preavviso pag. 2).
+10.
+10.1.
+Stabilita l’esistenza di gravi indizi di reato in capo
+a __________ per i reati di cui agli artt. 111 e 183 CP, occorre ora
+determinare se è pure presente almeno uno dei motivi di interesse pubblico che
+possono giustificare il mantenimento della detenzione cautelare (art. 95 CPP;
+Rusca, Salmina, Verda, Commento CPP, n. 9 ss. Ad art. 95).
+In merito va subito evidenziato che il magistrato
+inquirente pone a fondamento del suo preavviso negativo il pericolo di fuga e
+quello di recidiva. Quanto al pericolo di collusione e di inquinamento delle
+prove, non solo non lo menziona ma neppure indica che vi siano ancora prove da
+assumere o ulteriori esigenze istruttorie cui dar seguito. Da ciò si deve
+desumere che l’inchiesta è praticamente conclusa e che i prossimi (o immediati)
+passi procedurali da compiere sono costituiti dalle esigenze di chiusura
+dell’istruttoria e dall’eventuale rinvio a giudizio.
+10.2.
+La precedente constatazione non è irrilevante per la
+determinazione della “gravità” o concretezza del pericolo di fuga; infatti, “
+il
+pericolo di fuga appare accentuato dal fatto che ci si avvicina al giudizio di
+merito (DTF 102 Ia 382; 106 Ia 407) e non può essere negato invocando
+possibilità di ottenere l’estradizione o l’assunzione del procedimento penale
+dall’eventuale paese di latitanza
+” (GIAR 3 agosto 2000, 231.2000.2).
+Inoltre, se è vero che la gravità del reato da sola
+non basta (a giustificare il mantenimento della detenzione preventiva), “
+Nondimeno
+si tratta di un elemento
+"indiziante" importante che va considerato attentamente per la
+valutazione del pericolo di fuga, il quale, secondo la prassi, aumenta più ci
+si avvicina al giudizio di merito, in presenza di una comminatoria di pena
+detentiva e/o in assenza (ovviamente e sempre in caso di eventuale condanna) di
+prospettive per una sospensione condizionale (M. Luvini, I presupposti
+materiali del carcere preventivo, in REP 1989 p. 287ss., p. 32; DTF 106 Ia 404;
+DTF 117 Ia 69; CEDU Vol.
+A
+IX p. 44; SJ 1981 p. 377, SJ 1980 186; N. Schmid, Strafprozessrecht, ZH 1997,
+no. 701).
+“
+(GIAR 25 maggio 2007, 539.2006.4, cons. 5.b.).
+Nel caso in esame, come detto ci si approssima al
+giudizio di merito e il rischio, in caso di condanna, di una pena
+particolarmente elevata e da espiare è indiscutibile (l’art. 111 CP prevede un
+minimo edittale di 5 anni in caso di condanna).
+L’accusato, effettivamente, non risulta avere (come
+sostiene la difesa) particolari legami con il paese d’origine, tuttavia va
+anche constatato che neppure in Ticino ha, attualmente, particolari legami di
+tipo personale/affettivo (non ha famigliari, non indica particolari rapporti di
+amicizia né di partecipazione a gruppi o ad attività particolari) o
+professionale (è in invalidità). Gli unici elementi concreti indicati dalla
+difesa consistono nella disponibilità dell’appartamento (in affitto) e nella
+rendita AI attualmente percepita tramite il tutore (mentre che la rendita INPS,
+indicata dal Procuratore pubblico quale disponibilità all’estero, ammonterebbe
+a soli 140 euro). Pacifico che la locazione di un appartamento dove l’accusato
+vive da solo non è, né può essere, in alcun caso considerata quale ostacolo ad
+un trasferimento all’estero. Quanto alla rendita AI non è detto, né risulta
+dall’incarto, che la percezione non possa avvenire all’estero, per il tramite
+dell’ufficio preposto (art. 56 LAI), e senza l’intermediazione dell’autorità di
+tutela instaurata in Ticino; misura che, peraltro, l’accusato non sembra aver
+né gradito (la richiesta di tutela volontaria gli sarebbe stata “imposta”: cfr.
+manoscritto 25.1.1996, in AI 10.7), né accettato (cfr. scritto CTR 11 del
+9.4.2002 e dichiarazione 25.7.2002, scritto 14.8.2002 in AI 10.7).
+Dalla documentazione appena citata emergono, inoltre,
+elementi che indicano la capacità dell’accusato da un lato di vivere in situazioni
+limite (definite “deplorevoli” dal profilo igienico sanitario: scritto SPS
+3.10.1996), dall’altra di rifiutarsi e opporsi a procedure di
+istituzionalizzazione della sua situazione (scritto tutore ufficiale
+17.5.1999). Quando questa è imposta, la sua opposizione/non accettazione si
+manifesta nell’evidente difficoltà di rapporto con gli operatori istituzionali
+(scritto Municipio __________ 19.6.2000, scritto Ufficio del tutore 16.4.2002,
+scritto CTR 21.5.2003).
+Senza voler qui minimamente mettere in discussione la
+legittimità specifica di tali atteggiamenti, si constata volontà e costanza
+dell’accusato nell’opporsi alle imposizioni che ritiene lesive della sua
+libertà e non giustificate (cfr. anche AI 6.15, pag. 9 e 26).
+Oltre alla percezione di una rendita INPS,
+effettivamente di entità irrisoria, l’insieme e la ponderazione (CRP 16.5.2006,
+60.2006.154) degli elementi appena esposti (prossimità del giudizio, rischio di
+pena,
+carattere dell’accusato, legami
+famigliari e professionali, domicilio ma anche la nazionalità, la situazione
+economica),
+che emergono in modo
+manifesto dall’incarto,
+impongono, a
+giudizio di questo giudice, di concludere che la scelta di una latitanza possa
+apparire all'imputato quale male minore per rapporto al rischio derivante dalle
+conseguenze dell'esito (presumibile) di un processo; il rischio di fuga deve
+essere considerato ancora concreto (DTF 19 gennaio
+1999 in
+re G.S.; DTF 117 Ia 69;
+SJ 1980 186; SJ 1981 135; N. Schmid, Strafprozessrecht, ZH 1997, no. 701),
+ritenuto che a poco valgono, per quest'analisi, le semplici dichiarazioni
+d'intenti dell'accusato stesso (per tutte: sentenza GIAR 27 maggio
+2002 in
+re P.) e che la
+concretezza del pericolo di fuga può essere accertata "
+Auch wenn keine
+konkrete Flüchtpläne u.ä. gefordet sind, …
+" (Schmid, ibidem).
+10.3.
+Stabilita l’esistenza di uno degli elementi
+alternativi necessari a giustificare il mantenimento della detenzione
+cautelare, di regola non è necessario esprimersi sugli altri eventualmente
+indicati dal magistrato inquirente.
+Nel caso in esame, tuttavia, una breve conclusione
+appare opportuna anche in merito all’invocato pericolo di recidiva, non fosse
+che per garantire all’accusato tutti i gradi di giurisdizione (essendo
+verosimilmente prossima la chiusura dell’inchiesta) e vista la specificità e
+sinteticità delle motivazioni addotte a sostegno (AI 6.15 pag. 36 e Verbali __________
+5.6.2007 pag. 4 e 24.4.2007 pag. 2).
+Il lungo e dettagliato referto peritale conclude per
+la presenza di un disturbo della personalità di tipo misto (par di comprendere
+di un tipo che causa malessere, ma che non presenta specifiche caratteristiche
+sintomatologiche che permettano diagnosi specifica) senza “
+conseguenze
+rilevanti riguardo i fatti imputati
+”: l’accusato è dichiarato totalmente
+capace  di valutare il carattere illecito dell’ (eventuale) agire e di agire
+secondo tale valutazione (AI 6.15, risposta quesito peritale n. 1 e 2).
+Alla domanda sul rischio di commissione di nuovi reati
+il perito risponde affermando che tale rischio è ridotto (ancorché non possa
+essere totalmente escluso) e alla successiva domanda volta ad ottenere
+indicazione più specifica circa la tipologia dei reati che l’accusato potrebbe
+commettere (domanda che nell’impostazione formularistica dei quesiti è posta
+principalmente nell’eventualità di una risposta prevalentemente positiva a
+quella precedente) ribadisce che la commissione di nuovi reati è, dal punto di
+vista “psichiatrico forense”, “
+poco probabile
+” e conclude asserendo che
+la possibilità di commissione di nuovi reati dello stesso tipo “
+non è
+collegato con particolari caratteristiche della personalità del prevenuto ed
+alle circostanze in cui sarebbe stato commesso il reato
+” (idem, risposta
+3.3.1).
+A giudizio di questo giudice, le conclusioni peritali
+non indicano elementi di concretezza del rischio (DTF 105 Ia 26); quello che
+non può totalmente essere escluso (e che, comunque, non è collegato con le
+risultanze peritali come indicato alla risposta 3.3.1) è un rischio ipotetico
+(di fatto difficilmente escludibile in modo totale nei confronti di chiunque)
+insufficiente, proprio perché meramente ipotetico, a giustificare il
+mantenimento della misura cautelare per pericolo di recidiva (G. PIQUEREZ,
+Procédure pénale suisse, ed. 2000, n. 2359/2360 e citazioni; si veda anche, per
+un caso che ha imposto conclusione contraria, GIAR 15 settembre 2005,
+355.2005.4).
+Elementi di reale concretezza circa un pericolo di
+recidiva (rivalsa) non emergono neppure dai timori manifestati dal teste __________
+nei verbali indicati dal magistrato inquirente: questi si fondano sulle sue
+personali sensazioni circa il carattere dell’accusato (e qui è meglio far
+affidamento più sul referto peritale che sulle sensazioni di __________) che
+con lui si sarebbe sempre comportato in modo gentile e mai violento (Verbali PG
+24.4.2007 e PP 5.6.2007).
+11.
+Resta da determinare se la carcerazione preventiva sia
+(ancora) rispettosa del principio di proporzionalità.
+La proporzionalità di una carcerazione deve essere
+analizzata da angolature diverse. Da un lato occorre mettere in relazione la
+durata del carcere preventivo con la gravità (e complessità) della fattispecie
+e la pena presumibile, dall'altro occorre anche verificare il rispetto del
+principio di celerità (DTF 4.5.2005, 1P.194.2005; DTF 16.11.2004, 1P.630/2004;
+SJ 1981 p. 383 e citazioni; art. 102 CPP).
+In relazione al primo aspetto, nel caso specifico si
+constata che il carcere preventivo sofferto e quello eventualmente ancora da
+soffrire (come detto al considerando n. 10.1, tutto sembra indicare che l’inchiesta
+è nelle sue battute conclusive) non appare lesivo del principio di
+proporzionalità: i reati ascritti sono gravi (anche limitandosi alle ipotesi
+previste dagli artt. 111 e 183 CP) e prevedono pene edittali importanti: nel
+caso dell’art. 111 CP addirittura un minimo di 5 anni di pena detentiva.
+Per quanto concerne
+il secondo aspetto,
+l'inchiesta risulta
+sin qui condotta celermente; anche il principio di celerità è, quindi,
+rispettato.
+12.
+In conclusione, alla
+luce di tutto quanto sopra esposto, nei confronti di __________ sono presenti
+gravi indizi di reato (grave) e concreti elementi di un  pericolo di fuga. La
+detenzione preventiva non é, al momento, non lesiva del principio di
+proporzionalità.
+P.Q.M.
+viste le norme applicabili, in particolare gli artt.
+111, 183 CP,  95 ss., 102, 108, 280ss e 284 CPP,
+decide
+1.
+L'istanza è respinta.
+2.
+Non si prelevano tasse e spese.
+3.
+Contro la presente decisione è dato reclamo alla
+Camera dei ricorsi penali,
+Lugano, entro 10 (dieci) giorni
+dall'intimazione.
+4.
+Intimazione:
+giudice
+Edy Meli
