@@ -1,0 +1,154 @@
+---
+decision_id: "ti_gerichte_INC.2007.26802"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.26802"
+decided: "2007-06-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=93672&nX40_KEY=4711222&nTrefferzeile=24&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-163.md"]
+---
+
+# TI Gerichte INC.2007.26802
+
+## Regeste
+
+Reclamo per denegata risp. ritardata giustizia nell'ambito di confisca anticipata. Reclamo irricevibile.
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.06.2007 INC.2007.26802
+Tessin Il Giudice dell'istruzione e dell'arresto 28.06.2007 INC.2007.26802
+Ticino Il Giudice dell'istruzione e dell'arresto 28.06.2007 INC.2007.26802
+
+Reclamo per denegata risp. ritardata giustizia nell'ambito di confisca anticipata. Reclamo irricevibile.
+
+Incarto n.
+INC.2007.26802
+Lugano
+28 giugno 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire sul reclamo presentato il 26/27
+giugno 2007 da
+__________
+(Avv.__________)
+contro
+per ritardata, rispettivamente denegata giustizia del
+Procuratore pubblico Mario Branda, Bellinzona, nell’ambito del procedimento
+di cui all’incarto MP __________;
+potendosi prescindere dal
+richiedere osservazioni al magistrato inquirente, rispettivamente visionare
+l’incarto MP;
+ritenuto e considerato
+in fatto ed in diritto
+che:
+-   gli antefatti al presente reclamo sono già stati ricostruiti in
+precedente decisione di questo ufficio, alla quale si può fare riferimento:
+“
+-    nei confronti di __________ è stato aperto un
+procedimento penale il 16 maggio
+2007, a
+seguito di Rapporto di segnalazione della polizia
+cantonale, con riferimento alla LFStup e LCan (AI 1);
+-    successivamente sono stati emanati un ordine di
+traduzione forzata e un ordine di perquisizione e sequestro il 21
+rispettivamente 24 maggio 2007 per le ipotesi di reato di cui agli artt. 19 e
+19a LFStup (AI 2 e 3);
+-
+gli ordini sono stati eseguiti il
+24 maggio 2007 (cfr. in AI 8);”
+(GIAR 13 giugno
+2007, inc. 268.2007.3)
+-   il reclamo contro il sequestro, cui ci si riferisce nella
+decisione appena citata, é stato dichiarato irricevibile (e privo di oggetto
+attuale) constatata la pendenza di una istanza di confisca anticipata ex art.
+163 CPP, in base alle seguenti constatazioni e considerazioni:
+“-   la procedura di confisca anticipata di cui
+all’art. 163 cpv. 2 e 3 CPP è una procedura di merito (Messaggio n. 5411 del 19
+agosto 2003; Rapporto commissione legislazione del 12 gennaio 2005; Rapporto
+aggiuntivo del 19 gennaio 2005);
+-    il giudice penale (del merito) è immediatamente
+investito di tutte le questioni relative all’oggetto della domanda, compreso il
+sequestro (e la perquisizione che lo precede), con conseguente incompetenza del
+GIAR ad esprimersi in merito; e ciò non solo per ragioni di opportunità
+(evitare giudizi contraddittori sullo stesso oggetto, o meglio evitare che
+l’oggetto del giudizio di merito possa essere “sottratto” al suo giudice da una
+decisione incidentale): la procedura di merito deve essere considerata pendente
+e, di conseguenza, non c’è più spazio né competenza per giudizi incidentali
+sull’oggetto di tale procedura (perlomeno sintanto che non sia conclusa la
+relativa procedura: cfr. Rapporto commissionale del 12 gennaio 2005, punto 3.5,
+terzo capoverso), anche questioni di tipo formale debbono essere fatte valere,
+se del caso, in quella sede a titolo pregiudiziale (si veda anche il fatto che
+l’eventuale ricorso contro la decisione della Pretura è impugnabile alla CCRP:
+art. 163 cpv.
+2 in
+fine);
+-    non vi è analogia possibile con la competenza del
+GIAR in materia di sequestro nel periodo intercorrente tra l’atto d’accusa e
+l’apertura del dibattimento (ammessa in applicazione della decisione CRP
+30.7.2002, inc. 60.2002.00174), dato che in relazione alla procedura ex art.
+163 CPP non si pone il problema del “pre-giudizio” in attesa dell’apertura del
+dibattimento;
+-
+di conseguenza, in virtù di quanto
+sopra constatato ed espresso, il reclamo menzionato in epigrafe deve essere
+dichiarato irricevibile, comunque attualmente privo d’oggetto;”
+(GIAR 13 giugno
+2007, inc. 268.2007.3)
+-    secondo quanto affermato nel reclamo (doc. 1, inc. GIAR
+268.2007.2), il primo giugno 2007 (quindi posteriormente all’istanza di
+confisca anticipata che risulta essere del 25 maggio 2007: cfr. sentenza 13
+giugno 2007), __________ ha chiesto al Procuratore pubblico di allestire una
+perizia ex art. 163 cpv. 1 CPP sugli oggetti sequestrati (trattasi di talee),
+ritenendoli (verosimilmente) soggetti ad “alterazione o corruzione”; il 12
+giugno 2007 ha chiesto l’accertamento in contraddittorio dello stato degli
+oggetti sequestrati, ribadendo entrambe le richieste il 15 giugno 2007 (dopo
+aver ricevuto uno scritto dall’inquirente che gli chiedeva di meglio
+esplicitarle);
+-    confrontato, a suo dire, con il successivo silenzio
+dell’inquirente, __________ ha inoltrato il presente reclamo per ritardata/
+denegata giustizia;
+-    preliminarmente, ritenuta la presenza (se si preferisce:
+pendenza) di una istanza di confisca anticipata sulle talee per le quali è
+stata chiesta una perizia/constatazione (non risulta che tale procedura si sia
+già conclusa con sentenza definitiva e il reclamante è silente in merito)
+questo giudice deve accertare la ricevibilità del reclamo per rapporto alla sua
+propria competenza;
+-    per le stesse considerazioni esposte nella sentenza del 13 giugno
+2007 (e riportate più sopra), nonché per evitare sovrapposizioni e conflitti di
+competenze (se non per semplice opportunità), questo ufficio ritiene di non
+essere competente a pronunciarsi in merito a questioni che concernono
+(direttamente o indirettamente) quanto è oggetto dell’istanza di confisca
+anticipata, cioè di una procedura di merito; e ciò fino a crescita in giudicato
+della relativa decisione e, ovviamente, a dipendenza dell’esito della stessa
+(solo una decisione negativa sulla confisca anticipata e contestuale
+mantenimento del sequestro - cfr. Rapporto 12.1.2005 sul messaggio 56411, pag 9
+- potrebbe condurre a ulteriori competenze di questo ufficio sullo stesso
+oggetto);
+-    di conseguenza, e in conclusione, (anche) il presente reclamo
+deve essere dichiarato irricevibile;
+-    non trattandosi di un reclamo contro il sequestro in quanto tale
+(o le sue modalità) questo giudice non ritiene ci si trovi in uno dei casi di
+cui all’art. 284 cpv. 1 lett. a CPP; per questo motivo non vengono indicate vie
+di ricorso cantonali; la questione essendo comunque opinabile e la CRP, a quanto risulta, non essendosi mai pronunciata in merito, si precisa che spetta a
+quest’ultima autorità, se del caso, pronunciarsi sulla sua propria competenza;
+-    tasse e spese seguono la soccombenza;
+P.Q.M.
+Viste le norme applicabili, in
+particolare gli artt. 19 LFStup, 161 ss., 163, 280, 284 CPP,
+decide:
+1.
+Il reclamo è irricevibile.
+2.
+La tassa di giustizia, fissata in
+FRS 150.-, e le spese di FRS 40.-, sono a carico del reclamante.
+3.
+Intimazione
+giudice
+Edy Meli
