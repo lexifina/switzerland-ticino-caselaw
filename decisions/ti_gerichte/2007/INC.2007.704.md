@@ -1,0 +1,134 @@
+---
+decision_id: "ti_gerichte_INC.2007.704"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.704"
+decided: "2007-07-04"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=93768&nX40_KEY=4711222&nTrefferzeile=1&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2007.704
+
+## Regeste
+
+Proroga del carcere preventivo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 04.07.2007 INC.2007.704
+Tessin Il Giudice dell'istruzione e dell'arresto 04.07.2007 INC.2007.704
+Ticino Il Giudice dell'istruzione e dell'arresto 04.07.2007 INC.2007.704
+
+Proroga del carcere preventivo
+
+Incarto n.
+INC.2007.704
+Lugano
+4 luglio 2007
+ore 14.30
+In nome
+della Repubblica e Cantone
+del Ticino
+Verbale di udienza
+vista l’istanza 25 giugno 2007
+presentata dal
+PP Mario Branda
+, Bellinzona, tendente ad ottenere la
+proroga del carcere preventivo cui è astretto __________ (rappr. dall’__________);
+richiamata l’ordinanza 26 giugno
+2007 mediante la quale, ai fini della decisione sull’istanza, è indetta una
+udienza per la discussione;
+avanti il giudice dell'istruzione
+e dell'arresto Edy Meli, assistito dalla segretaria __________,
+constatata la messa a
+disposizione dell’inc. MP __________;
+compaiono:
+-
+PP Mario Branda, Bellinzona
+-
+__________ patrocinatore dell’accusato  __________
+“omissis”
+A questo punto (ore 14.50) l’udienza è sospesa per
+permettere deliberazione, e redazione della decisione in camera di consiglio.
+Vista l’istanza del 25 giugno 2007, le osservazioni della
+difesa prodotte e formulate in data odierna, ritenuto che:
+sono presenti e sussistono gravi indizi di reato nei
+confronti di __________ così come precisato nella decisione 13 giugno
+2007, in
+particolare al considerando
+9, a
+cui si rinvia integralmente essendo
+nota alle parti;
+permane altresì concreto pericolo di fuga così come
+rilevato sempre nella decisione del 13 giugno 2007 al considerando 10;
+non mutano le conclusioni di
+questo giudice neppure dopo aver preso atto del contenuto del reclamo in CRP
+sulla questione del pericolo di fuga e del fatto che __________ debba essere
+operato (in quest’ultima eventualità il rischio di materialmente porre in opera
+una fuga sarebbe forse oggettivamente limitato ma per un periodo di tempo
+relativamente corto e comunque non necessariamente in modo totale);
+quella del qui accusato, in
+sostanza è una situazione limite nella quale gli elementi concreti che militano
+per una conclusione è quelli che militano per l’altra sembrano, prima facie,
+bilanciarsi, di conseguenza assume rilevanza quasi determinante il presumibile
+rischio di pena (cfr. M. Luvini i presupposti materiali del carcere preventivo
+nel processo penale ticinese, in REP. 1989 pag. 287 e ss., note 36/37/38/41; r.
+Barbay apperçu de la jurisprudence genevoise, Suisse et Européenne en matière
+de détention préventive, in SGJ 1981, pag. 369 e ss., note 78/79/81/82, DTF 106
+IA 404; DTF 117 IA 69, CRP 13.8.1986, 60.96.00259; GIAR 71.2005, 308.2005.2).
+Ribadita l’esistenza di gravi
+indizi di reato e di concreto pericolo di fuga, la richiesta di proroga
+formulata, alla luce degli atti d’inchiesta ancora da esperire, della loro
+utilità per l’inchiesta, e delle necessità di conclusione della stessa appare
+giustificata e non lesiva del principio di proporzionalità per rapporto al
+rischio di pena.
+Nel contempo non vi sono
+elementi che permettano di ritenere una violazione del principio di celerità in
+relazione a tale proroga, come correttamente riconosciuto dalla difesa.
+La richiesta puo’ pertanto
+essere accolta cosi come formulata.
+Ci si limita unicamente a
+ricordare, pro futuro, che l’attesa del rapporto di polizia o della trasmissione
+di atti, già esperiti, dalla polizia non puo’ essere motivo da ritenere ai fini
+di una proroga della carcerazione preventiva (GIAR 24 agosto 2003,
+121.2003.14).
+A scanso di equivoci si
+precisa che qualora
+la CRP
+, presso la quale è attualmente pendente
+reclamo contro il rifiuto di libertà provvisoria, dovesse ritenere che gli
+elementi a giustificazione del mantenimento della detenzione cautelare non sono
+più presenti e decidere la messa in libertà di __________ la presente decisione
+verrebbe a cadere, rispettivamente perderebbe ogni suo effetto.
+PQM
+Visti gli artt.
+111, 112, 123,
+127, 189 CP, 95 ss., 102, 103, 280 ss. 283, 284 CPP, 10, 29, 31 CF,
+decide
+1.
+L’istanza di proroga è accolta.
+§   Di conseguenza la
+detenzione preventiva cui è astretto __________ è prorogata                                    fino
+al
+30 settembre 2007
+(
+compreso
+).
+2.   Non si prelevano tasse e
+spese.
+3.   La presente decisione è
+impugnabile davanti alla CRP, Lugano, entro 10 giorni dalla           notifica.
+4.
+Intimazione:
+__________
+ad ognuno brevi-manu al termine dell’udienza.
+giudice
+Edy Meli
+L’udienza è riaperta (ore 15.15 ).
+Alla presenza del Procuratore pubblico Mario Branda e dell’__________,
+il giudice da lettura delle motivazioni e del dispositivo della decisione e
+procede alla notifica, brevi manu, di copia scritta.
+PP Mario Branda             __________                    giudice
+Edy Meli
