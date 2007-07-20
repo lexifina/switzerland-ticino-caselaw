@@ -1,0 +1,260 @@
+---
+decision_id: "ti_gerichte_INC.2007.1702"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.1702"
+decided: "2007-07-20"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=93969&nX40_KEY=4711220&nTrefferzeile=79&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md"]
+---
+
+# TI Gerichte INC.2007.1702
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 20.07.2007 INC.2007.1702
+Tessin Il Giudice dell'istruzione e dell'arresto 20.07.2007 INC.2007.1702
+Ticino Il Giudice dell'istruzione e dell'arresto 20.07.2007 INC.2007.1702
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2007.1702
+Lugano
+20 luglio 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 17/18 luglio 2007 da
+__________
+e qui trasmessa con preavviso negativo 18 luglio 2007 dal
+Procuratore pubblico Moreno Capella
+preso atto delle osservazioni 18
+luglio 2007 della difesa;
+visto l’inc. MP __________;
+ritenuto e considerato,
+in fatto ed in
+diritto che:
+-
+__________ è stato arrestato il 15 gennaio 2007 con contestuale
+promozione dell’accusa per titolo di violazione aggravata sub. semplice alla LStup
+e contravvenzione alla medesima legge;
+-
+l’arresto è stato confermato il giorno successivo ritenuta l’esistenza,
+oltre che di seri e concreti indizi di colpevolezza, di bisogni
+dell’istruzione, pericolo di collusione con i correi, venditori ed acquirenti (
+doc. 4 inc. GIAR 17.2007.1);
+-
+in particolare, __________ è accusato di avere messo in atto, unitamente
+ad altre persone (__________, ecc.) un ingente traffico di cocaina nel periodo
+da febbraio 2006 fino all’arresto (vendite per almeno 382 grammi);
+-
+successivamente l’accusa è stata estesa anche per titolo di circolazione
+senza la licenza di condurre e furto d’uso (verb. PP 21.02.2007),
+rispettivamente per complicità in infrazione alla LStup (verb. PP 30.05.2007);
+-
+lo scorso 10 luglio il Procuratore pubblico ha proceduto alla chiusura
+dell’istruzione formale;
+-
+con l’istanza qui in discussione, __________, per il tramite del proprio
+legale, chiede di essere immediatamente posto in libertà provvisoria: a dire
+della difesa, che non contesta l’esistenza di seri e concreti indizi di
+colpevolezza, chiusa l’istruzione formale non sarebbe dato alcun motivo di ordine
+pubblico – in particolare pericolo di fuga e pericolo di recidiva – atto a
+giustificare il mantenimento della detenzione preventiva;
+-
+il Procuratore pubblico ha formulato preavviso negativo, evidenziando
+l’esistenza di un concreto pericolo di fuga e di recidiva;
+-
+in sede di osservazioni, la difesa si è sostanzialmente confermata nelle
+argomentazioni di cui all’istanza 17 luglio 2007;
+-
+__________, accusato detenuto, è pacificamente legittimato a presentare
+istanza di libertà provvisoria: il preavviso e l'incarto sono stati tempestivamente
+consegnati
+“brevi manu”
+a questo ufficio ai sensi dell'art. 108 cpv. 3
+CPP, il termine di cui all'art. 108 cpv. 2 CPP scade lunedì 23 luglio 2007 ex
+art. 20 cpv. 3 CPP;
+-
+l’art. 95 CPP – corrispondente all’art. 33 scaturito dalla revisione
+parziale 23 settembre 1992 / 1. gennaio 1993 – dopo evidenza al cpv. 1 del
+principio secondo cui l’accusato si trova di regola in libertà, consente al
+cpv. 2 arresto, perdurare e (poi, se del caso) proroga del carcere preventivo
+ai sensi dell’art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali – per
+quanto qui concerne – i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione e di inquinamento delle prove che, sia detto qui a
+futura memoria – può continuare ad esistere fino al pubblico dibattimento
+(sentenza della I Corte di diritto pubblico del Tribunale federale del 23 marzo
+2000 in re S.B., consid. 4a). Si aggiunge, sempre con riferimento al caso in
+esame, che l’elenco dei motivi di interesse pubblico nell’art. 95 cpv. 2 CPP
+non è esaustivo (Messaggio aggiuntivo del 20 marzo 1991 concernente la
+revisione del CPP, ad art. 27 , pag. 32, nota 3), tra altri possibili,
+essendovi quello della tutela dell’ordine pubblico (REP 1998 n. 105). L'eccezione
+della cautelare privazione della libertà personale ha così trovato
+codificazione in una chiara base legale (di diritto cantonale: DTF 114 Ia 283 consid.
+3) in corrispondenza ed a superamento di quanto già dettato dalla
+giurisprudenza della Camera dei ricorsi penali – nel solco di quella del
+Tribunale federale -, ritenuto implicito il rispetto della proporzionalità (REP
+1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381). I menzionati
+presupposti vanno approfonditi con maggiore rigore nella loro valutazione,
+quanto più si è protratta la restrizione della libertà e quanto più si avvicina
+la conclusione delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss). Ed anche
+questo giudice, come già la Camera dei ricorsi penali, non restringe la sua
+cognizione all’arbitrio (REP 1980 pag. 128)
+(per tutte:
+sentenza GIAR 21.12.2001 in re G., Inc. 520.2001.5)
+-
+l’esistenza di seri e concreti indizi di colpevolezza deve essere
+verificata d’ufficio, pur nei limiti di competenza di questo giudice derivanti,
+da un lato, dalla sua funzione – che è quella di esaminare l’esistenza dei
+presupposti per il mantenimento della misura restrittiva della libertà
+personale, e non di valutare nella sostanza l’esistenza di un reato -, e,
+dall’altro, – ma in maniera strettamente congiunta con quanto appena detto –
+dall’inopportunità di considerazioni di merito premature e, soprattutto, di
+competenza delle sedi di giudizio;
+-
+nel caso in esame, non occorre dilungarsi più di tanto per confermare
+l’esistenza di gravi indizi di colpevolezza – peraltro neppure contestati dalla
+difesa – in capo a __________: quanto emerso dai suoi verbali (in particolare
+quello PP 30.05.2007, AI 66), nonché da quelli delle altre persone coinvolte
+(correi ed acquirenti quali __________, ecc.) è sufficiente a confermarne
+l’esistenza;
+-
+in concreto, non entrano in discussione bisogni dell’inchiesta, ritenuto
+che il 10 luglio u.s., come detto, il magistrato inquirente ha proceduto alla
+chiusura dell’istruzione formale;
+-
+ricordato che una condizione a fondamento della detenzione cautelare che
+non emergeva all'inizio e quindi non indicata in sede di conferma dell'arresto
+quale motivazione dello stesso, può comunque prendere corpo successivamente con
+lo sviluppo dell'inchiesta stessa (GIAR 2004.56101, sentenza del 7 dicembre 2004 in re G.);
+-
+il pericolo di fuga, per giustificare carcerazione preventiva, deve
+essere concreto e rivestire di una certa probabilità: in altri termini lo si
+ammette quando l’accusato, se posto in libertà, si sottrarrebbe con una certa
+verosimiglianza al perseguimento penale ed alla (eventuale) esecuzione della
+pena. La gravità della pena presumibile (comunque,
+"
+…
+elemento "indiziante" importante che va considerato attentamente per
+la valutazione del pericolo di fuga, il quale, secondo la prassi, aumenta più
+ci si avvicina al giudizio di merito, in presenza di una comminatoria di pena
+della reclusione e/o in assenza (ovviamente e sempre in caso di eventuale
+condanna) di prospettive per una sospensione condizionale … omissis … (M. Luvini,
+I presupposti materiali del carcere preventivo, in REP 1989 p. 287ss., p. 32;
+DTF 106 Ia 404; DTF 117 Ia 69; CEDU Vol.
+A IX p. 44; SJ
+1981 p. 377, SJ 1980 186; N. Schmid, Strafprozessrecht, ZH 1997, no. 701).
+"
+GIAR 16 novembre 2006, 345.2006.3; si veda, inoltre, DTF
+14.1.2005, 1S.15/2004, e riferimenti) non basta, da sola, a motivare la
+carcerazione; occorre valutare l’insieme delle circostanze, tra cui il
+carattere dell’accusato, la sua morale, i legami famigliari, il domicilio, la
+professione, la situazione economica e tutti quegli elementi che rendono la
+fuga non solo possibile ma probabile (DTF 19 gennaio 1999 in re G.S.; DTF 117 Ia 69);
+-
+l’accusato è cittadino __________ ed __________ e vive in __________
+soltanto dal 2005 con la madre, il fratello e la sorella (arrestate il 10
+gennaio 2007 in __________, siccome in possesso di 6 kg di cocaina destinata alla piazza __________), non svolge alcuna attività lucrativa; se le accuse
+dovessero essere confermate, il rischio di una pena non lieve esiste anche
+nell'eventualità di applicazione delle nuove norme della parte generale del CP
+(per il reato di cui all’art. 19 cifra 2 LStup è prevista la pena minima edittale
+di un anno di pena detentiva), quest'elemento, da solo non é determinante, ma
+deve essere attentamente considerato se ad esso se ne sommano altri come sopra
+descritto (SJ 1980 186; SJ 1981 135; N. Schmid, Strafprozessrecht, ZH 1997, no.
+701) quali, appunto, l'assenza (in Ticino) di interessi economico-professionali,
+nonché concrete prospettive future;
+-
+le circostanze esposte, permettono di concludere che il pericolo di fuga
+(intesa come indisponibilità a presenziare al dibattimento) è presente in modo
+concreto (DTF 102 Ia 382; DTF 106 Ia 407; DTF 117 Ia 69; SJ 1980 585): infatti,
+non si vede cosa possa trattenere l'accusato, qualora tolta la misura
+cautelare, dal riparare all'estero, in particolare in __________, se del caso
+unitamente alla madre (ora rientrata dal __________);
+-
+per quanto riguarda il pericolo di recidiva, evocato dal magistrato
+inquirente, seppure in modo del tutto generico, nel preavviso, ci si potrebbe
+esimere dal determinarsi sull'eventuale presenza di un pericolo di reiterazione:
+si può comunque dire che, in considerazione del periodo di estensione dei reati
+(da inizio 2006) e del fatto che la situazione finanziaria dell'accusato non è
+certo florida - non essendo peraltro ravvisabili concrete prospettive
+alternative lavorative in __________ - non può essere escluso che, se messo in
+libertà provvisoria, __________ possa riprendere a trafficare cocaina per far
+fronte al proprio sostentamento, rilevato inoltre che anche la madre ha
+accettato di effettuare il viaggio in __________ per il trasporto di cocaina
+per ragioni finanziarie e che anche l’amica dell’accusato, la quale nel verb. Pol.
+15.01.2007 ha peraltro dichiarato di avere interrotto la relazione, si trova in
+una situazione economica precaria e non svolge alcuna attività lucrativa;
+-
+resta da determinare se una proroga, in particolare quella richiesta,
+sia rispettosa del principio di proporzionalità;
+-
+la proporzionalità di una carcerazione deve essere analizzata da
+angolature diverse. Da un lato occorre mettere in relazione la durata del
+carcere preventivo con la gravità (e complessità) della fattispecie e la pena
+presumibile, dall'altro occorre anche verificare il rispetto del principio di
+celerità (DTF 4.5.2005, 1P.194.2005; DTF 16.11.2004, 1P.630/2004; SJ 1981 p.
+383 e citazioni; art. 102 CPP);
+-
+in relazione al primo aspetto, nel caso concreto si constata che il
+carcere preventivo sofferto e quello eventualmente ancora da soffrire non
+appare lesivo del principio di proporzionalità: i reati ascritti sono gravi e
+prevedono una pena edittale minima di un anno (art. 19 cifra 2 LFStup) e che, quanto
+alla possibilità che la pena erogata (sempre in caso di eventuale condanna)
+possa essere posta al beneficio della sospensione condizionale, ricordato che
+ciò dipenderà dalla prognosi (ex art. 42 ss. nCP) di competenza del giudice del
+merito e basata su tutto quanto sarà emerso (o accertato) a quel momento, questa
+eventualità, perlomeno allorquando le condizioni non sono manifestamente
+adempiute (ciò che non è qui il caso), di regola non può essere considerata in
+questa sede (DTF 125 I 60);
+-
+per quanto concerne il secondo aspetto, va detto che l'inchiesta
+complessa e ramificata (numerose persone coinvolte con ramificazioni anche
+all’estero) è stata condotta nel rispetto del principio di proporzionalità: il
+10 luglio scorso il Procuratore pubblico ha proceduto alla chiusura
+dell’istruzione formale e l’emanazione dell’atto di accusa è imminente;
+-
+in conclusione, alla luce di tutto quanto sopra esposto, nei confronti
+di __________ sono dati concreti indizi di reato e concreti elementi di
+pericolo di fuga e di recidiva, quindi sufficienti presupposti di legge, come
+anche esplicitati dalla prassi e dalla giurisprudenza, atti a legittimare e
+giustificare il perdurare della cautelare privazione della sua libertà; la
+detenzione sin qui sofferta non viola il principio di proporzionalità, né
+l'obbligo di celerità;
+-
+l’istanza di libertà provvisoria in discussione, deve essere respinta
+con la presente decisione, esente da tassa e spese giudiziarie (art. 39 lett. f
+TG e contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali
+del Tribunale d’appello (art. 284 cpv. 1 lett. a CPP).
+P.Q.M.
+viste le norme applicabili, in
+particolare gli artt. 19 LStup, 95 ss, 102, 108, 284 CPP, 9, 10, 31 CF, 5 cifra
+3 CEDU,
+decide
+1.
+L'istanza di libertà
+provvisoria presentata il 17 luglio 2007 da __________ è respinta.
+2.
+Non si prelevano
+tasse e spese.
+3.
+Contro la presente decisione è dato ricorso alla CRP
+Lugano entro dieci giorni dall'intimazione.
+4.
+Intimazione (anticipata
+via fax) a:
+giudice
+Ursula Züblin
