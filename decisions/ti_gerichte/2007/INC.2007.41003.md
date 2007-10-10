@@ -1,0 +1,435 @@
+---
+decision_id: "ti_gerichte_INC.2007.41003"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.41003"
+decided: "2007-10-10"
+published: "2007-10-04"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=95740&nX40_KEY=4711215&nTrefferzeile=85&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2007.41003
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 04.10.2007 INC.2007.41003
+Tessin Il Giudice dell'istruzione e dell'arresto 04.10.2007 INC.2007.41003
+Ticino Il Giudice dell'istruzione e dell'arresto 04.10.2007 INC.2007.41003
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2007.41003
+Lugano
+10 ottobre 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 24/25 settembre 2007 da
+__________
+e qui trasmessa con preavviso negativo del 28 settembre/1°
+ottobre 2007 dal
+Procuratore pubblico Nicola Respini,
+Lugano
+visto lo scritto della difesa 2
+ottobre 2007;
+visto l’incarto MP __________;
+ritenuto,
+in
+fatto ed in diritto
+che:
+-
+__________ è stato arrestato dalla Polizia cantonale a __________
+il 10 settembre 2007, unitamente a __________ e __________, dopo essersi
+allontanati in auto da __________, poiché sospettati di avere aggredito __________,
+__________, che li aveva sorpresi a sottrarre alcune piante di canapa dal
+giardino da lui accudito, di proprietà di suo genero __________;
+-
+in data 11 settembre 2007 il Procuratore pubblico ha promosso
+l’accusa nei suoi confronti per titolo di lesioni gravi subordinatamente
+semplici, vie di fatto, aggressione, danneggiamento, violazione di domicilio,
+violenza o minaccia contro le autorità e i funzionari, impedimento di atti
+d’autorità e infrazione alla LStup, chiedendo a questo giudice la conferma
+dell’arresto vista l’esistenza di gravi indizi di reato e considerata
+l’esistenza di motivi di interesse pubblico quali i bisogni dell’istruzione – “
+e
+meglio la necessità di chiarire le sue responsabilità nei gravi fatti commessi
+ai danni dell’anziana vittima, rispettivamente la sottrazione delle piante di
+canapa e la destinazione delle stesse, nonché quanto da lui commesso nei
+confronti degli agenti della Polizia giudiziaria, così come indicato nel
+rapporto d’arresto. Dovranno essere esperiti ulteriori interrogatori
+dell’accusato e dei suoi correi per chiarire quanto a loro imputato”
+–,
+pericolo di collusione e di inquinamento delle prove nei confronti dei due
+correi e di eventuali altre persone coinvolte nella fattispecie e pericolo di
+recidiva visti i precedenti dell’accusato risultanti dal casellario giudiziale
+(Inc. GIAR 4 410.2007.1, doc. 1);
+-
+l’11 settembre l'arresto di __________ è stato confermato da
+questo giudice ritenuti presenti gravi e concreti indizi di colpevolezza,
+nonché la presenza di preminenti motivi di interesse pubblico quali i bisogni
+dell’istruzione (come da richiesta di conferma dell’arresto e per la necessità
+di procedere ad un confronto con la vittima e i testi) e pericolo di collusione
+e di inquinamento delle prove con i coaccusati, nonché per il pericolo di
+influenza e/o recidiva sulla vittima sino al confronto (Inc. GIAR 410.2007.1,
+doc. 4);
+-
+il 24 settembre 2007 __________, con l’istanza in discussione e
+per il tramite del suo difensore, chiede di essere posto in libertà
+provvisoria; a suo dire non sussisterebbero i seri indizi di colpevolezza nei
+suoi confronti, egli avrebbe “
+sempre respinto le infondate accuse mosse nei
+suoi confronti e ha collaborato compiutamente con le autorità, allo scopo di
+dimostrare la sua quasi totale estraneità ai reati a lui imputati, in specie
+per quanto concerne il reato di lesioni gravi sub. semplici, vie di fatto,
+aggressione, danneggiamento, violenza o minaccia contro funzionari, impedimento
+di atti d’autorità e infrazione alla LStup
+” (istanza, p. 3, punto 2.). Non
+sussisterebbe più neppure il pericolo di inquinamento delle prove dal momento
+che tutti i coaccusati sono già stati interrogati e gli eventi sufficientemente
+chiariti o rapidamente chiaribili “
+per la dinamica dei fatti e il
+susseguente loro evolversi non sussiste, infatti, allo stadio attuale, il
+pericolo d’inquinamento delle prove
+” (istanza, p. 4., punto 3.1.). A mente
+della difesa la vicenda che ha coinvolto l’istante non può obiettivamente
+definirsi grave ed anzi l’accusato si riserva di presentare querela contro la
+presunta (anziana) vittima che l’avrebbe invece colpito con una grossa pietra.
+Il protrarsi della carcerazione preventiva violerebbe il principio di
+proporzionalità (Inc. GIAR 410.2007.3, doc. 1);
+-
+il magistrato inquirente, con preavviso negativo 28 settembre/1°
+ottobre 2007 (Inc. GIAR 410.2007.3, doc. 2) ribadisce che esistono gravi e
+concreti indizi di colpevolezza evincibili dal rapporto d’arresto, dalle
+dichiarazioni della vittima e da quelle della teste __________, dichiarazioni
+ribadite in ulteriori verbali; a mente del PP sussisterebbero ancora importanti
+necessità istruttorie quali ulteriori interrogatori della parte lesa e della
+teste alla presenza dei difensori degli accusati, bisognerà identificare ed
+interrogare il testimone chiesto dalla difesa e che avrebbe assistito ai fatti
+e procedere con eventuali verbali a confronto tra gli accusati per chiarire i
+rispettivi ruoli nella vicenda; vi sarebbe poi grave e concreto pericolo di
+collusione sia tra i correi tra loro ma soprattutto in relazione alla vittima
+ed ai testimoni (sia quella già interrogata che quella ancora da identificare e
+interrogare): la messa in libertà provvisoria dell’accusato potrebbe seriamente
+compromettere l’esito dell’inchiesta. Vi sarebbe poi grave pericolo di recidiva
+vista la disponibilità a delinquere dimostrata dall’accusato nel recente
+passato considerate le condanne iscritte a casellario e il decreto d’accusa in
+opposizione del 12 marzo 2007. La carcerazione preventiva sinora sofferta è
+ritenuta rispettosa del principio di proporzionalità;
+-
+la difesa, con osservazioni 2 ottobre 2007, si è riconfermata
+sostanzialmente nelle proprie allegazioni con motivazioni di cui, se del caso,
+si dirà nel seguito;
+-
+l’accusato, detenuto, è pacificamente legittimato a presentare
+istanza di libertà provvisoria. Il preavviso del Procuratore pubblico, ritenuta
+ricezione dell’istanza il 25 settembre 2007, è tempestivo avendo trasmesso a
+questo ufficio il preavviso negativo il 28 settembre 2007 per raccomandata, nel
+termine quindi di 3 giorni. Il termine di cui all'art. 108 cpv. 2 CPP, avendo
+questo ufficio ricevuto quanto sopra unitamente all’incarto penale il 1°
+ottobre 2007, scade giovedì 4 ottobre 2007 ex art. 20 cpv. 3 CPP;
+-
+i principi che reggono la materia, pur se noti al magistrato
+inquirente ed al difensore, vengono qui brevemente richiamati:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel contempo
+sono presenti preminenti motivi di interesse pubblico, quali - per quanto qui
+concerne - i bisogni dell’istruzione, con particolare riguardo al pericolo di
+collusione che, - sia detto qui a futura memoria - può continuare ad esistere
+sino al pubblico dibattimento (sentenza della I Corte di diritto pubblico del
+Tribunale federale del 23 marzo
+2000 in
+re S.B., consid.
+4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco dei
+motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con maggior
+rigore nella loro valutazione, quanto più si è protratta la restrizione della
+libertà e quanto più si avvicina la conclusione delle indagini (REP 1988 pag.
+416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera
+dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte:
+sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+-
+l’esistenza di gravi e concreti indizi di colpevolezza deve
+essere verificata d’ufficio nei limiti di competenza di questo giudice
+derivanti dalla sua funzione che è quella di esaminare l’esistenza dei
+presupposti per il mantenimento della misura restrittiva della libertà
+personale e non di valutare nella sostanza l’esistenza di un reato, e che con
+verosimiglianza sufficiente, a questo stadio del procedimento ed in questa
+sede, si può concludere per la presenza di numerosi, seri e di concreti indizi
+di colpevolezza a carico di __________, relativi ad un suo coinvolgimento nei
+fatti inquisiti;
+-
+nel caso in esame non occorre dilungarsi più di tanto per
+confermare l'esistenza di gravi indizi di reato in capo all'accusato, basti
+ricordare quanto emerge dalle dichiarazioni della vittima e della teste __________
+che avrebbe visto dalla finestra di casa sua tutti e tre i coaccusati aggredire
+verbalmente e ripetutamente con calci e pugni __________ GIAR 401.2007.1, doc.
+4, p. 2), teste che ha allertato la Polizia e che ha prestato i primi soccorsi
+a __________ per le ferite descritte nel certificato medico agli atti, e che ha
+ribadito alla Polizia di essere sicura di avere visto i tre coaccusati che “
+insieme
+pestavano l’anziano
+” (verb. Polzia di __________ del 20.09.07);
+-
+in merito ai bisogni istruttori atti a giustificare la detenzione
+preventiva ed il suo perdurare, vi é consolidata giurisprudenza (e dottrina):
+“In relazione ai bisogni istruttori, atti a giustificare
+la misura restrittiva della libertà personale, occorre ricordare che questi non
+s'identificano semplicemente con gli atti istruttori in quanto tali, o con gli
+accertamenti (ancora) da effettuare, bensì con il pericolo di collusione o
+d'inquinamento delle prove che (eventualmente) espone a rischio la corretta
+raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale suisse,
+ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697 ss.;
+RDAT 1988 no. 24).
+In quest'ottica
+il fatto che l'inchiesta sia tuttora in corso non è, di per sé, decisivo, in quanto
+"
+Die Tatsache allein, dass noch nicht alle Beweise erhoben bzw. die
+Mitverdächtigen dingfest gemacht werden konnten oder dass der Angeschuldigte
+die Aussage verweigert, genügt nicht
+" (N. Schmid, op. cit., no. 701a).
+Occorre che l'indagato, se posto in
+libertà, possa pregiudicarne (o comprometterne) il corretto svolgimento e,
+conseguentemente, l'esito.
+E', inoltre, necessario che questa possibilità di pregiudicare
+la raccolta di elementi di prova si fondi su elementi concreti: "
+Jedoch
+genügt nach der Rechtsprechung des Bundesgerichtes die theoretische Möglichhkeit,
+dass der Angeschuldigte in Freheit kolludieren könnte, nicht, um die
+Fortsetzung der Haft oder        die Nichtgewährung von Urlauben unter diesem
+Titel zu rechtfertigen. Es mussen vielmehr konktrete Indizien für eine solche
+Gefahr sprechen
+."
+(DTF 117 Ia
+257, cons. 4 c.).
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza
+d'interessi (tra i due) in relazione al contenuto della deposizione (SJ 1990 p.
+438; DTF 117 Ia 257; ZR 72 no. 77 p. 19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66; Hauser/Schweri,
+Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13).”
+(GIAR 23
+settembre 2002 in re Y.)
+Nello
+stesso senso, la CRP:
+"I rischi di collusione e di inquinamento delle
+prove sono legati soprattutto ai bisogni dell'istruttoria. Da un lato si tratta
+generalmente di evitare o prevenire accordi tra l'imputato e i testimoni - già
+sentito o ancora da sentire - o i correi e complici non arrestati, messi in
+atto per nascondere al giudice la verità, dall'altro di impedire interventi
+fraudolenti del prevenuto in libertà sui mezzi di prova non ancora in possesso
+della giustizia, allo scopo di distruggerli o di alterarli a suo vantaggio. la
+possibilità di ostacolare in tal modo l'azione dell'autorità giudiziaria da
+parte del prevenuto deve essere valutata sulla base di elementi concreti, la
+realtà di questo rischio non potendo essere ammessa aprioristicamente ed in
+maniera astratta (DTF 117 Ia 257; Decisione TF 2.3.2000 in re A. e rif.; R. Hauser/E.
+Schweri, op. cit.
+§ 68 n. 13;
+G. Piquerez, op. cit. n. 2344 ss.)"
+(sentenza
+16 settembre
+2004 in
+re B., CRP 60.2004.297
+)
+-
+a mente del magistrato inquirente sussisterebbero oggettivi bisogni
+istruttori ravvisabili in ulteriori interrogatori della parte lesa e della
+testimone, bisognerà poi identificare ed interrogare il testimone menzionato
+dall’accusato istante e procedere a verbali a confronto tra istante e coaccusati
+e a successivi verbali a confronto tra i coaccusati, di conseguenza concreto
+sarebbe il pericolo di collusione e la possibilità di inquinamento delle prove
+specialmente in relazione sia con la parte lesa e i testi (una già sentita e
+l’altro ancora da identificare e sentire) che tra i coaccusati tra loro;
+-
+a mente della difesa l’istante, che vorrebbe al più presto essere
+messo a confronto con vittima e testimoni, non avrebbe alcuna intenzione di
+rivedere (se messo in libertà provvisoria) i protagonisti diretti e indiretti (con
+riferimento ai testimoni) o di prendere contatto con essi, perciò non
+sussisterebbe alcun pericolo di collusione;
+-
+in un simile contesto giuridico e fattuale – con l’inchiesta in
+pieno svolgimento che vede tre coaccusati che forniscono versioni tra loro
+almeno in parte (ma su punti fondamentali, relativi all’atto dell’aggressione a
+__________) discordanti – a ragione il PP solleva la necessità di procedere con
+gli atti istruttori menzionati (audizione dei testi e dei coaccusati singole e
+a confronto) con l’accusato in stato di detenzione preventiva al fine di
+evitare possibili attività collusive tra i tre e tra loro e i testi da
+interrogare o da reinterrogare. Tali necessità istruttorie, in relazione con il
+pericolo di collusione, già erano state indicate dal PP nella richiesta di
+conferma dell’arresto e riconosciute da questo giudice quale motivo di
+interesse pubblico atto a giustificare la conferma dell’arresto di __________ (cfr.
+verbale di notifica di arresto e di decisione dell’11 settembre 2007, p. 4). La
+sussistenza, in questo stadio del procedimento, di un pericolo di collusione
+e/o di inquinamento delle prove è accertata con riferimento alla necessità di
+procedere a questi atti d’inchiesta – al fine di accertare le singole
+responsabilità –, con dichiarazioni non solo non ancora consolidate ma neppure
+definitive (con riferimento alle verbalizzazioni dei tre che dovranno essere
+confermate a confronto davanti al PP), e al fatto che si tratta di
+dichiarazioni di correi, quindi suscettibili di essere modificate, se i tre
+accusati potessero comunicare tra loro prima delle ulteriori verbalizzazioni (a
+confronto) davanti al magistrato inquirente;
+-
+per quanto riguarda il pericolo di recidiva, lo stesso deve
+essere concreto (DTF 105 Ia 31) e risultare da una valutazione dell’insieme
+delle circostanze, tra cui i precedenti dell’accusato, il suo comportamento
+durante l’istruttoria, la sua personalità, le modalità di commissione dei reati
+(Luvini, I presupposti materiali del carcere preventivo nel processo penale
+ticinese, Rep. 1989, p. 294; G. Piquerez, Manuel de procédure pénale suisse, Zürich
+2001, n° 1479/1483);
+-
+il magistrato inquirente evoca il pericolo di recidiva “
+vista
+la disponibilità a delinquere dimostrata dall’accusato, ancora prima di
+commettere i fatti oggetto del presente procedimento penale”
+(preavviso
+negativo, p. 3, punto 5). Oltre alle condanne indicate nell’estratto del
+casellario giudiziale (AI 3), l’accusato istante il 12 marzo 2007 è stato
+colpito da un decreto d’accusa (__________) – contro il quale ha interposto
+opposizione e sarebbe quindi in attesa di giudizio con l’udienza fissata presso
+la Pretura penale per il 23 novembre prossimo – e con il quale il PP lo ha
+ritenuto colpevole dei reati di ripetuto furto, minaccia, violazione di domicilio,
+ripetuto conseguimento fraudolento di una falsa attestazione, ripetuta guida
+nonostante la revoca, contravvenzione alla LStup e contravvenzione alla LF sul
+trasporto pubblico, proponendo una pena di 60 giorni di detenzione da espiare
+non ritenendo adempiute le condizioni per la sospensione condizionale ai sensi
+dell’art. 42 CP e ritenuto che una pena di pecuniaria o un lavoro di pubblica
+utilità non avrebbero potuto essere eseguiti;
+-
+a mente della difesa non vi sarebbe pericolo di recidiva poiché
+l’accusato avrebbe compreso i propri errori per i quali sarebbe disposto a
+pagare e avrebbe inoltre collaborato pienamente con gli inquirenti;
+-
+se è vero che __________ è alla sua prima carcerazione, e che ha
+alle spalle un passato difficile, è altrettanto vero che (per stare solo al
+passato più recente) ha interessato le Autorità penali nel 2006 con due decreti
+d’accusa per ripetuti furti, furti di poca entità, contravvenzione alla LStup e
+contravvenzione reiterata alla LF sul trasporto pubblico, senza dimenticare il
+decreto d’accusa 12 marzo 2007 (__________), in opposizione, che ha concentrato
+7 distinti incarti penali (tutti aperti tra il 2006 e il 2007) per ripetuti
+furti (commessi in novembre 2006 e gennaio 2007), minacce (commesse il 20 e il
+23 gennaio 2007), violazioni di domicilio (commesse tra novembre 2006 e
+febbraio 2007), ripetuto conseguimento fraudolento di una falsa attestazione
+(in luglio 2005 e aprile 2006), ripetuta guida nonostante la revoca (in agosto
+2005 e maggio 2006), contravvenzione alla LStup (tra autunno 2006 e la
+primavera 2007) e contravvenzione al trasporto pubblico (tra novembre e
+dicembre 2006); a ciò si aggiungono i procedimenti aperti nel 2007,
+successivamente al DA 12 marzo 2007 e prima dell’arresto che ci occupa, e cioè
+due procedimenti per furto di lieve entità e violazione di domicilio (inc. MP __________
+e __________) e uno per contravvenzione alla LStup, legato all’acquisto di
+cocaina per uso personale (inc. MP __________) per arrivare, come in un climax
+ascendente, al procedimento odierno, aperto per un episodio di una violenza
+preoccupante e gratuita, nell’ambito del quale l’accusato nega ogni addebito
+malgrado la chiara dichiarazione di un testimone indipendente e attendibile;
+-
+visto quanto sopra, e malgrado alcuni dei reati di cui è accusato
+__________ possono essere ritenuti di non particolare gravità dal profilo
+giuridico, appare assai arduo, per non dire impossibile, sostenere (come fa la
+difesa) che l’accusato avrebbe capito i propri errori: si tratta infatti
+dell’attività delinquenziale intensa di una persona che sembra invece
+impegnarsi per dimostrare di non avere nessun rispetto per la legge e l’ordine
+pubblico e, visti i fatti recenti, anche per l’incolumità della salute di
+terzi; malgrado l’apertura di diversi procedimenti penali, uno appresso
+all’altro, l’accusato ha infatti continuato a delinquere: se messo in libertà
+provvisoria, visto poi il suo atteggiamento processuale – egli tende infatti ad
+addossare delle colpe alla vittima malgrado la testimonianza cristallina della
+teste __________ –  egli si troverebbe, né più né meno, nella stessa situazione
+ante arresto e vi sarebbe pertanto concreto pericolo che torni a delinquere
+(considerato il preoccupante “salto di qualità” nell’ambito della tipologia dei
+reati di cui è accusato);
+-
+a titolo abbondanziale va rilevato che il rischio di recidiva
+costituisce motivo di arresto non solo per impedire nuovi delitti, ma anche,
+seppure solo indirettamente, perché commettendo sempre nuovi reati l’accusato
+potrebbe procrastinare a oltranza il processo: egli ha infatti il diritto a
+essere giudicato contemporaneamente per i nuovi e i vecchi reati (G. Piquerez,
+Manuel de procédure pénale suisse, Zürich 2001, p. 501/502, n° 2357; Rusca/Salmina/Verda,
+Commento del CPP, p. 327 e s.);
+-
+non modifica questa conclusione il fatto che in sede di conferma
+dell’arresto il pericolo di reiterazione non sia stato indicato, come motivo a
+sé stante, a motivazione della conferma stessa. L’individuazione di una delle
+condizioni alternative a fondamento della detenzione cautelare è sufficiente
+alla decisione, senza che sia necessario analizzarle tutte (sentenza GIAR 7
+dicembre 2004 in re A.G. inc. GIAR 2004.56103);
+-
+non può entrare in considerazione l’adozione di misure
+sostitutive, quali quelle genericamente proposte dalla difesa, inidonee a
+scongiurare il pericolo di recidiva e quello di collusione e inquinamento delle
+prove, anch’esso dato nella fattispecie;
+-
+la proporzionalità di una carcerazione (preventiva) deve essere
+analizzata da angolature diverse. Da un lato occorre mettere in relazione la
+durata del carcere preventivo con la gravità e complessità della fattispecie e
+con la pena presumibile e dall’altro occorre anche verificare il rispetto del
+principio di celerità (SJ 1981 p. 383 e citazioni; art. 102 CPP). La
+proporzionalità della carcerazione sin qui sofferta, alla luce della gravità
+delle accuse, della presenza di concreti indizi di colpevolezza, e del fatto
+che si tratta di tre indagati, con atti istruttori compiuti e ancora da
+compiere, nonché dell’atteggiamento non proprio collaborativo degli accusati, è
+sicuramente data. Gli inquirenti hanno sinora proceduto con celerità.
+L’accusato è stato arrestato soltanto il 10 settembre 2007 e ad oggi è in
+detenzione preventiva da nemmeno un mese. In questo lasso di tempo l’inchiesta
+è avanzata con la dovuta celerità, tenuto conto, appunto, dell’atteggiamento
+processuale dell’accusato e coaccusati. A nulla valgono i richiami al precario
+stato di salute di __________ formulati dalla difesa; se problemi di salute
+sussistono non dipendono dallo stato di detenzione e sono comunque sotto
+costante controllo medico (cfr. AI 12);
+-
+in conclusione sufficienti presupposti di legge, come anche
+esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella situazione
+personale e processuale di __________ a legittimare e giustificare il perdurare
+della cautelare privazione della sua libertà. Di conseguenza, l’istanza di
+libertà provvisoria in discussione, deve essere respinta con la presente
+decisione, esente da tassa e spese giudiziarie (art. 39 let. f TG e contrario)
+e impugnabile entro dieci giorni alla Camera dei ricorsi penali del Tribunale
+d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione a:
+giudice
+Claudia Solcà
