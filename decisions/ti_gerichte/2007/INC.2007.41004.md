@@ -1,0 +1,429 @@
+---
+decision_id: "ti_gerichte_INC.2007.41004"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.41004"
+decided: "2007-11-16"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=96123&nX40_KEY=4711212&nTrefferzeile=16&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/311.0/art-134.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2007.41004
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 16.11.2007 INC.2007.41004
+Tessin Il Giudice dell'istruzione e dell'arresto 16.11.2007 INC.2007.41004
+Ticino Il Giudice dell'istruzione e dell'arresto 16.11.2007 INC.2007.41004
+
+Istanza di libertà provvisoria
+
+Incarto n
+.
+INC.2007.41004
+Lugano
+16 novembre 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 7 novembre 2007 da
+__________, __________
+,
+(patr. dall’avv. __________, __________)
+e qui trasmessa con preavviso negativo del 12/13 novembre
+2007 dal
+Procuratore pubblico Nicola Respini
+, MP di Lugano
+Preso atto che la difesa non ha
+presentato osservazioni al preavviso negativo;
+visti gli incarti MP __________, __________,
+__________, __________, __________ e __________, tutti del 2007;
+ritenuto,
+in
+fatto ed in diritto
+1.
+Come accertato in precedente, e
+recente, decisione di questo ufficio che può essere, per quanto necessario, qui
+ripresa:
+__________
+è stato
+arrestato dalla Polizia cantonale a __________ il 10 settembre 2007, unitamente
+a __________ e __________, dopo essersi allontanati in auto da __________,
+poiché sospettati di avere aggredito __________, 1929, che li aveva sorpresi a
+sottrarre alcune piante di canapa dal giardino da lui accudito, di proprietà di
+suo genero __________;
+in data 11 settembre 2007 il Procuratore pubblico ha
+promosso l’accusa nei suoi confronti per titolo di lesioni gravi subordinatamente
+semplici, vie di fatto, aggressione, danneggiamento, violazione di domicilio,
+violenza o minaccia contro le autorità e i funzionari, impedimento di atti
+d’autorità e infrazione alla LStup, chiedendo a questo giudice la conferma
+dell’arresto vista l’esistenza di gravi indizi di reato e considerata
+l’esistenza di motivi di interesse pubblico quali i bisogni dell’istruzione – “
+e
+meglio la necessità di chiarire le sue responsabilità nei gravi fatti commessi
+ai danni dell’anziana vittima, rispettivamente la sottrazione delle piante di
+canapa e la destinazione delle stesse, nonché quanto da lui commesso nei
+confronti degli agenti della Polizia giudiziaria, così come indicato nel
+rapporto d’arresto. Dovranno essere esperiti ulteriori interrogatori dell’accusato
+e dei suoi correi per chiarire quanto a loro imputato”
+–, pericolo di
+collusione e di inquinamento delle prove nei confronti dei due correi e di
+eventuali altre persone coinvolte nella fattispecie e pericolo di recidiva
+visti i precedenti dell’accusato risultanti dal casellario giudiziale (Inc.
+GIAR 4 410.2007.1, doc. 1);
+l’11 settembre l'arresto di __________ è stato
+confermato da questo giudice ritenuti presenti gravi e concreti indizi di
+colpevolezza, nonché la presenza di preminenti motivi di interesse pubblico
+quali i bisogni dell’istruzione (come da richiesta di conferma dell’arresto e
+per la necessità di procedere ad un confronto con la vittima e i testi) e
+pericolo di collusione e di inquinamento delle prove con i coaccusati, nonché
+per il pericolo di influenza e/o recidiva sulla vittima sino al confronto (Inc.
+GIAR 410.2007.1, doc. 4);
+”
+(GIAR 4 ottobre
+2007, 410.2007.3)
+2.
+Con la decisione
+appena citata, l’istanza di libertà provvisoria presentata dall’accusato era
+stata respinta. Questo ufficio aveva ritenuto fondato il preavviso negativo del
+magistrato inquirente, confermando la presenza di gravi indizi di reato (“
+…basti ricordare quanto emerge dalle dichiarazioni
+della vittima e della teste __________ che avrebbe visto dalla finestra di casa
+sua tutti e tre i coaccusati aggredire verbalmente e ripetutamente con calci e
+pugni __________ GIAR 401.2007.1, doc. 4, p. 2), teste che ha allertato
+la Polizia
+e che ha prestato
+i primi soccorsi a __________ per le ferite descritte nel certificato medico
+agli atti, e che ha ribadito alla Polizia di essere sicura di avere visto i tre
+coaccusati che “
+insieme pestavano l’anziano
+” (verb. Polizia di __________
+del 20.09.07)
+”), quella di un concreto pericolo di collusione (“…
+in un simile contesto giuridico e fattuale – con
+l’inchiesta in pieno svolgimento che vede tre coaccusati che forniscono
+versioni tra loro almeno in parte (ma su punti fondamentali, relativi all’atto
+dell’aggressione a __________) discordanti – a ragione il PP solleva la
+necessità di procedere con gli atti istruttori menzionati (audizione dei testi
+e dei coaccusati singole e a confronto) con l’accusato in stato di detenzione
+preventiva al fine di evitare possibili attività collusive tra i tre e tra loro
+e i testi da interrogare o da reinterrogare. Tali necessità istruttorie, in
+relazione con il pericolo di collusione, già erano state indicate dal PP nella
+richiesta di conferma dell’arresto e riconosciute da questo giudice quale
+motivo di interesse pubblico atto a giustificare la conferma dell’arresto di __________
+(cfr. verbale di notifica di arresto e di decisione dell’11 settembre 2007, p.
+4). La sussistenza, in questo stadio del procedimento, di un pericolo di
+collusione e/o di inquinamento delle prove è accertata con riferimento alla
+necessità di procedere a questi atti d’inchiesta – al fine di accertare le
+singole responsabilità –, con dichiarazioni non solo non ancora consolidate ma
+neppure definitive (con riferimento alle verbalizzazioni dei tre che dovranno
+essere confermate a confronto davanti al PP), e al fatto che si tratta di
+dichiarazioni di correi, quindi suscettibili di essere modificate, se i tre
+accusati potessero comunicare tra loro prima delle ulteriori verbalizzazioni (a
+confronto) davanti al magistrato inquirente;
+”) e anche di un concreto
+pericolo di recidiva (“
+se è vero che __________ è
+alla sua prima carcerazione, e che ha alle spalle un passato difficile, è
+altrettanto vero che (per stare solo al passato più recente) ha interessato le
+Autorità penali nel 2006 con due decreti d’accusa per ripetuti furti, furti di
+poca entità, contravvenzione alla LStup e contravvenzione reiterata alla LF sul
+trasporto pubblico, senza dimenticare il decreto d’accusa 12 marzo 2007 (DA __________),
+in opposizione, che ha concentrato 7 distinti incarti penali (tutti aperti tra
+il 2006 e il 2007) per ripetuti furti (commessi in novembre 2006 e gennaio
+2007), minacce (commesse il 20 e il 23 gennaio 2007), violazioni di domicilio
+(commesse tra novembre 2006 e febbraio 2007), ripetuto conseguimento
+fraudolento di una falsa attestazione (in luglio 2005 e aprile 2006), ripetuta
+guida nonostante la revoca (in agosto 2005 e maggio 2006), contravvenzione alla
+LStup (tra autunno 2006 e la primavera 2007) e contravvenzione al trasporto
+pubblico (tra novembre e dicembre 2006); a ciò si aggiungono i procedimenti
+aperti nel 2007, successivamente al DA 12 marzo 2007 e prima dell’arresto che
+ci occupa, e cioè due procedimenti per furto di lieve entità e violazione di
+domicilio (inc. MP __________ e __________) e uno per contravvenzione alla
+LStup, legato all’acquisto di cocaina per uso personale (inc. MP __________)
+per arrivare, come in un climax ascendente, al procedimento odierno, aperto per
+un episodio di una violenza preoccupante e gratuita, nell’ambito del quale
+l’accusato nega ogni addebito malgrado la chiara dichiarazione di un testimone
+indipendente e attendibile;
+”).
+3.
+Gli atti
+istruttori che il magistrato inquirente intendeva esperire al riparo di ogni
+possibile influenza da parte dell’accusato lo sono stati e in data 23 ottobre
+2007 il magistrato inquirente ha proceduto al deposito degli atti, sia per
+l’incarto che ha dato origine all’arresto di settembre che per altri incarti
+pendenti, e aperti precedentemente (AI 38, inc. MP __________). Va, inoltre,
+rilevato che, nell’ambito del verbale del 2 ottobre 2007, __________ ha
+ritirato la denuncia contro il qui istante ed i due coaccusati, senza ulteriori
+specificazioni se non quella di comunque confermare lo svolgimento dei fatti
+come descritti nello stesso verbale (AI 28, incarto citato).
+4.
+Con l’istanza qui
+in discussione (doc. 1, inc. GIAR 410.2007.4), __________ chiede nuovamente di
+essere posto in libertà provvisoria.
+A suo dire gli
+indizi a favore dell’aggressione sono labili e costituiti dalla versione della
+presunta vittima e da quella di una teste casuale, entrambe persone anziane,
+che contrasterebbero con quelle univoche dei tre accusati rafforzate (queste
+ultime) in particolare dalle risultanze del referto medico del 18.9.2007
+relativo alla presunta vittima. Nel contempo egli si ritiene totalmente
+estraneo ai reati di danneggiamento, violenza e minaccia contro i funzionari e
+impedimento d’atti d’autorità, estraneità a suo dire confermata dallo stesso
+rapporto d’inchiesta redatto dalla polizia giudiziaria. Quanto ai preminenti
+motivi di interesse pubblico, sempre a dire dell’istante, i bisogni istruttori
+(pericolo di collusione e inquinamento prove) non sarebbero più concreti (le
+necessarie audizioni e confronti hanno già avuto luogo ed il magistrato
+inquirente ha proceduto al deposito degli atti) come non lo sarebbe il pericolo
+di recidiva (precedenti per reati minori, atteggiamento collaborativi in sede
+d’inchiesta, effetto deterrente del carcere preventivo sin qui sofferto).
+5.
+Il magistrato
+inquirente ha preavvisato negativamente la richiesta (doc. 2, inc. GIAR
+410.2007.4).
+Dopo aver
+rinviato, per gli indizi di reato, al precedente preavviso con la precisazione
+che il ritiro di querela “
+nulla muta
+” alla gravità dei fatti
+configuranti il reato di cui all’art. 134 CP, il Procuratore pubblico ritiene
+sussistano sia il pericolo di collusione (in relazione all’audizione di un
+possibile teste, non identificato sino ad oggi dalla polizia, oggetto di una
+istanza di complemento istruttorio) che il pericolo di recidiva (vista la
+disponibilità a delinquere dimostrata ancor prima dei fatti oggetto del
+presente procedimento: DA del marzo 2007 e incarti aperti successivamente).
+6.
+La difesa non ha
+ritenuto di osservare in merito al preavviso del Procuratore pubblico (Doc. 4,
+inc. GIAR 410.2007.4).
+7.
+L’accusato
+detenuto, è pacificamente legittimato a presentare istanza di libertà
+provvisoria. Il preavviso del Procuratore pubblico, ritenuta ricezione dell’istanza
+l’8 novembre 2007, trasmesso a questo ufficio il 12 novembre 2007 (e ricevuto
+il 13) è rispettoso dei termini di cui all'art. 108 cpv. 2 CPP (in relazione
+con l’art. 20 cpv. 3 CPP).
+I principi che
+reggono la materia sono noti all’accusato (oltre che al magistrato inquirente
+ed al difensore) in quanto indicati nella sentenza del 4 ottobre 2007 (GIAR
+410.2007.3), regolarmente intimata ed a cui si rinvia (cfr. in particolare pag.
+3).
+8.
+a)
+Per quanto
+concerne i gravi indizi di reato va subito detto che la ripresa in sede di
+deposito atti  (AI 38) della lista contenuta nella promozione d’accusa,
+compresi quelli per i quali la querela sarebbe stata ritirata, non facilita
+l’individuazione di quelli ancora contestati e/o per i quali occorre qui
+esaminare la presenza dei gravi indizi.
+In sede di
+preavviso il magistrato inquirente menziona il ritiro di querela per le ipotesi
+di reato di cui agli artt. 123, 126 e 186 CP, sottolinea la presenza di indizi
+quo al reato di aggressione (134 CP) e nulla dice in merito al danneggiamento
+(anch’esso a querela di parte) ed ai reati di cui agli artt. 285, 286 CP
+(contestati dalla difesa) e 122 CP.
+Le emergenze
+istruttorie sembrerebbero escludere sia elementi indizianti il reato di cui
+all’art. 122 CP (cfr. verbale __________ 2.10.2007 e AI 17) sia il coinvolgimento
+del qui istante nei reati di cui agli artt. 285 e 286 CP (Rapporto di polizia
+10.10.2007 pag. 5; assenza di obiezioni del magistrato inquirente alle
+argomentazioni della difesa). Per le lesioni semplici e le vie di fatto __________
+ha ritirato “
+la denuncia
+” (Verbale 2 ottobre 2007, pag. 2), mentre che
+per il danneggiamento e la violazione di domicilio non risulta siano state
+presentate o confermate querele da parte del proprietario del fondo/piantagione
+di canapa (verbale __________ 11.9.2007, pag. 4).
+In sostanza, a
+parte la contravvenzione LFStup e il furto di lieve entità (inc. 4731 e 7586
+del 2007), nei confronti di __________ il reato gravemente indiziato, e posto a
+fondamento del preavviso negativo, é quello di aggressione ai sensi dell’art.
+134 CP (cfr. Rapporto di polizia citato, Preavviso, punto 1 pag. 2).
+b)
+Il ritiro di
+querela in relazione alle lesioni non impedisce la prosecuzione del
+procedimento per aggressione (nonostante quanto si potrebbe di primo acchito
+dedurre dalla sentenza pubblicata in DTF 118 IV 227, che comunque fa
+riferimento all’elemento intenzionale; cfr. Rehberg/Schmid/Donatsch, Strafrecht
+III, ottava edizione, § 4, n. 6.4, e anche la specificazione “...
+en ce qui
+le concerne
+…” contenuta in B. Corboz, les infractions en droit suisse, n.
+14 ad art. 134).
+L'esistenza di
+gravi indizi di colpevolezza deve essere verificata nei limiti di competenza di
+questo giudice derivanti da un lato dalla sua funzione - che è quella di
+esaminare l’esistenza dei presupposti per il mantenimento della misura
+restrittiva della libertà personale, e non di valutare nella sostanza
+l’esistenza di un reato -, e dall’altro - ma in maniera strettamente congiunta
+con quanto appena detto - dall’inopportunità di considerazioni di merito
+premature e, soprattutto, di competenza delle sedi di giudizio (GIAR 15 marzo
+2007, 28.2007.3; si veda, nello stesso senso, CRP 17.11.2005, 60.2005.357). Nel
+caso in esame quanto emerge dalle dichiarazioni della vittima e soprattutto
+dalle dichiarazioni della teste __________, in uno con l’accertamento delle
+lesioni intervenute (condizione di punibilità: Trechsel, Kurzkommentar, n. 3 ad
+art. 134; cfr. AI 17 e fotografie allegate all’AI 1), fonda sufficientemente
+gli indizi di colpevolezza a carico anche del qui istante.
+Il fatto che il
+certificato medico del 18 settembre 2007 faccia stato di “sole” due lesioni
+(una delle quali causata da altro imputato: cfr. Verbale __________ 2.10.2007)
+non influisce su quanto appena detto, perlomeno a questo stadio della
+procedura, perché non necessariamente dei colpi lasciano segni o producono
+lesioni specifiche e non va dimenticato che l’art. 134 CP è un reato di messa
+in pericolo astratta (Corboz, op. cit., n. 14 ad art. 134) e la lesione (ne
+basta una e, in caso di più aggrediti, nei confronti di una sola delle vittime)
+è condizione di punibilità.
+c)
+Sebbene formalmente
+le ipotesi di reato siano diminuite per rapporto al momento dell’arresto e
+della promozione d’accusa, rimangono presenti e concreti gli indizi di
+partecipazione al reato di cui all’art. 134 CP (oggettivamente grave
+trattandosi di reato contro la persona e qualificato come crimine).
+Non modifica questa
+conclusione (che, lo si ribadisce, concerne la valutazione in merito alla
+presenza di sufficienti indizi e non determinazione di merito sulla
+colpevolezza) l’affermazione dell’istante secondo cui il ____________________
+non avrebbe tenuto un comportamento passivo, anzi lo avrebbe colpito con un
+sasso alla coscia destra. L’affermazione, invero fatta da tutti e tre gli
+accusati nei rispettivi verbali del 10.9.2007 (allorquando non sembra siano
+stati tenuti rigorosamente separati – cfr. verbale __________ 25.9.2007, pag.
+4), non trova conferma nelle dichiarazioni della teste (che, invece, confermano
+la versione negatoria, su questo punto, della vittima). Inoltre, nulla di
+decisivo può essere desunto dal certificato medico del 16 settembre 2007, da un
+lato perché l’ematoma, in quanto tale, potrebbe anche essere la conseguenza di
+un movimento di difesa del __________ o di un colpo casualmente ricevuto da un
+correo durante l’aggressione, dall’altro perché in base alle dichiarazioni
+della vittima e della teste, che collocano l’aggressione dopo il tentativo di
+uno degli accusati di qualificarsi quale agente di polizia allorquando già ci si
+trovava in prossimità della vettura (circostanza, quella della qualifica, in
+qualche modo confermata anche dagli accusati: cfr. confronto 5 ottobre 2007),
+ma anche a quelle degli accusati stessi (stesso verbale in particolare le
+dichiarazioni di __________), non sarebbe stato l’eventuale lancio della pietra
+l’evento scatenante i fatti indizianti l’aggressione.
+9.
+Il pericolo di
+collusione con il potenziale teste (peraltro non identificato e forse non
+identificabile: cfr. preavviso punto 4) non appare sufficientemente concreto
+per giustificare il mantenimento della detenzione cautelare.
+La presenza di questa
+persona è stata indicata dal __________ nel suo primo verbale (cfr. verbale
+10.9.2007, pag. 3), mentre che __________ (ma anche gli altri due accusati) ne
+ha parlato il giorno successivo davanti al GIAR (AI 4 degli inc. 8241/2007 e
+già in quella sede che poteva trattarsi di un certo __________ (ribadendolo e
+chiedendone l’identificazione già il 27 settembre con l’AI 26).
+Nei successivi
+verbali nulla risulta essere stato chiesto agli accusati in merito a tale
+teste, ai fini di migliore identificazione. Neppure si è cercato di
+approfondire, per __________, i motivi della conoscenza, rispettivamente
+accertare gli eventuali rapporti con questa persona. Ne consegue che, anche a
+prescindere dalla residua possibilità di identificazione, non è possibile
+determinare l’effettiva rilevanza delle eventuali dichiarazioni del teste (che
+comunque si è allontanato e mai notificato in polizia), tantomeno la sua eventuale
+influenzabilità o la convergenza di interessi con il qui istante ai fini di una
+dichiarazione a questi favorevole (GIAR 23 settembre 2002, 477.2002.2).
+Senza contare che
+l’altro accusato che ne ha pure richiesto audizione in sede di complementi,
+quindi dopo visione degli atti (AI 26 in particolare), è già stato rimesso in
+libertà (inc. __________, AI 25 e 28).
+10.
+Di contro e per ciò
+che concerne il pericolo di recidiva, rimangono valide le considerazioni
+fondanti la decisione del 4 ottobre 2007, e meglio:
+“se è vero che __________ è alla sua prima
+carcerazione, e che ha alle spalle un passato difficile, è altrettanto vero che
+(per stare solo al passato più recente) ha interessato le Autorità penali nel
+2006 con due decreti d’accusa per ripetuti furti, furti di poca entità,
+contravvenzione alla LStup e contravvenzione reiterata alla LF sul trasporto
+pubblico, senza dimenticare il decreto d’accusa 12 marzo 2007 (DA __________),
+in opposizione, che ha concentrato 7 distinti incarti penali (tutti aperti tra
+il 2006 e il 2007) per ripetuti furti (commessi in novembre 2006 e gennaio
+2007), minacce (commesse il 20 e il 23 gennaio 2007), violazioni di domicilio
+(commesse tra novembre 2006 e febbraio 2007), ripetuto conseguimento
+fraudolento di una falsa attestazione (in luglio 2005 e aprile 2006), ripetuta
+guida nonostante la revoca (in agosto 2005 e maggio 2006), contravvenzione alla
+LStup (tra autunno 2006 e la primavera 2007) e contravvenzione al trasporto
+pubblico (tra novembre e dicembre 2006); a ciò si aggiungono i procedimenti
+aperti nel 2007, successivamente al DA 12 marzo 2007 e prima dell’arresto che
+ci occupa, e cioè due procedimenti per furto di lieve entità e violazione di
+domicilio (inc. MP __________ e __________) e uno per contravvenzione alla LStup,
+legato all’acquisto di cocaina per uso personale (inc. MP __________) per
+arrivare, come in un climax ascendente, al procedimento odierno, aperto per un
+episodio di una violenza preoccupante e gratuita, nell’ambito del quale
+l’accusato nega ogni addebito malgrado la chiara dichiarazione di un testimone
+indipendente e attendibile;
+visto quanto sopra, e malgrado alcuni dei reati di cui
+è accusato __________ possono essere ritenuti di non particolare gravità dal
+profilo giuridico, appare assai arduo, per non dire impossibile, sostenere
+(come fa la difesa) che l’accusato avrebbe capito i propri errori: si tratta
+infatti dell’attività delinquenziale intensa di una persona che sembra invece
+impegnarsi per dimostrare di non avere nessun rispetto per la legge e l’ordine
+pubblico e, visti i fatti recenti, anche per l’incolumità della salute di
+terzi; malgrado l’apertura di diversi procedimenti penali, uno appresso
+all’altro, l’accusato ha infatti continuato a delinquere: se messo in libertà
+provvisoria, visto poi il suo atteggiamento processuale – egli tende infatti ad
+addossare delle colpe alla vittima malgrado la testimonianza cristallina della
+teste __________ –  egli si troverebbe, né più né meno, nella stessa situazione
+ante arresto e vi sarebbe pertanto concreto pericolo che torni a delinquere
+(considerato il preoccupante “salto di qualità” nell’ambito della tipologia dei
+reati di cui è accusato);
+a titolo abbondanziale va rilevato che il rischio di
+recidiva costituisce motivo di arresto non solo per impedire nuovi delitti, ma
+anche, seppure solo indirettamente, perché commettendo sempre nuovi reati
+l’accusato potrebbe procrastinare a oltranza il processo: egli ha infatti il
+diritto a essere giudicato contemporaneamente per i nuovi e i vecchi reati (G.
+Piquerez, Manuel de procédure pénale suisse, Zürich 2001, p. 501/502, n° 2357;
+Rusca/Salmina/Verda, Commento del CPP, p. 327 e s.);”
+(GIAR 4 ottobre 2007, 410.2007.3)
+In particolare
+preoccupano, se si preferisce impone un certo rigore nell’analisi del pericolo di
+recidiva, da un lato il fatto che tra i reati menzionati nei vari decreti e
+procedure pendenti sia spesso presente la contravvenzione alla LFStup con
+possibile connessione tra il consumo e gli altri reti commessi, dall’altro che
+nemmeno l’attesa del dibattimento in relazione ad una pena di sessanta giorni
+da espiare (DA 12 marzo 2007, __________, con dibattimento aggiornato al 23
+novembre 2007 e citazione notificata a fine agosto 2007) sia stato sufficiente
+a fungere da deterrente (cfr. per caso per certi versi analogo, GIAR 23.3.2007,
+604.2007 e Correzionali Lugano 6 giugno 2007).
+11.
+La
+proporzionalità della carcerazione sin qui sofferta, alla luce della gravità
+dell’accusa, della presenza di concreti indizi di colpevolezza, e del concreto
+rischio di pena (eventualmente aggiuntiva) è sicuramente data. L’accusato è in
+detenzione dal 10 settembre 2007 (poco più di due mesi) e l’inchiesta, comunque
+relativa a tre indagati, è in fase conclusiva: il deposito degli atti è già
+stato effettuato e occorre decidere in merito ai complementi istruttori
+richiesti.
+12.
+In conclusione
+sufficienti presupposti di legge, come anche esplicitati dalla prassi e dalla
+giurisprudenza, sono presenti nella situazione personale e processuale di __________
+a legittimare e giustificare il perdurare della cautelare privazione della sua
+libertà. Di conseguenza, l’istanza di libertà provvisoria in discussione, deve
+essere respinta con la presente decisione, esente da tassa e spese giudiziarie
+(art. 39 let. f TG e contrario) e impugnabile entro dieci giorni alla Camera
+dei ricorsi penali del Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione (anticipata via telefax vista l’imminenza del fine
+settimana) a:
+giudice
+Edy Meli
