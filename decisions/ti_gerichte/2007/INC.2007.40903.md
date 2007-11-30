@@ -1,0 +1,442 @@
+---
+decision_id: "ti_gerichte_INC.2007.40903"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.40903"
+decided: "2007-11-30"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=96264&nX40_KEY=4711211&nTrefferzeile=18&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-134.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2007.40903
+
+## Regeste
+
+Libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 30.11.2007 INC.2007.40903
+Tessin Il Giudice dell'istruzione e dell'arresto 30.11.2007 INC.2007.40903
+Ticino Il Giudice dell'istruzione e dell'arresto 30.11.2007 INC.2007.40903
+
+Libertà provvisoria
+
+Incarto n.
+INC.2007.40903
+Lugano
+30 novembre 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 22/23 novembre 2007 da
+__________
+, __________, attualmente c/o carcere
+giudiziario __________
+(patrocinato dalla lic. iur. __________, __________)
+e qui trasmessa con preavviso negativo del 26/27 novembre
+2007 dal
+Procuratore pubblico Nicola Respini, Lugano
+viste
+le osservazioni della difesa (28 novembre 2007);
+visti
+gli incarti MP __________, __________, __________ __________, __________ __________
+e __________ __________ (tre distinti classificatori);
+ritenuto
+e considerato
+in fatto ed in diritto
+1.
+__________
+è stato arrestato dalla Polizia cantonale a __________ il 10 settembre 2007,
+unitamente a __________ e __________, dopo essersi allontanati in auto da __________,
+poiché sospettati di avere aggredito __________, 1929, che li aveva sorpresi a
+sottrarre alcune piante di canapa dal giardino da lui accudito, di proprietà di
+suo genero __________.
+In
+data 11 settembre 2007 il Procuratore pubblico ha promosso l’accusa nei suoi
+confronti per titolo di lesioni gravi subordinatamente semplici, vie di fatto,
+aggressione, danneggiamento, violazione di domicilio, violenza o minaccia
+contro le autorità e i funzionari, impedimento di atti d’autorità e infrazione
+alla LStup ed usurpazione di funzioni, chiedendo a questo giudice la conferma
+dell’arresto vista l’esistenza di gravi indizi di reato e considerata
+l’esistenza di motivi di interesse pubblico quali i bisogni dell’istruzione – “
+e
+meglio la necessità di chiarire le sue responsabilità nei gravi fatti commessi
+ai danni dell’anziana vittima, rispettivamente la sottrazione delle piante di
+canapa e la destinazione delle stesse, nonché quanto da lui commesso nei
+confronti degli agenti della Polizia giudiziaria, così come indicato nel
+rapporto d’arresto. Dovranno essere esperiti ulteriori interrogatori
+dell’accusato e dei suoi correi per chiarire quanto a loro imputato”
+–,
+pericolo di collusione e di inquinamento delle prove nei confronti dei due
+correi e di eventuali altre persone coinvolte nella fattispecie e pericolo di
+recidiva visti i precedenti dell’accusato risultanti dal casellario giudiziale
+(doc. 1, inc. GIAR 409.2007.1).
+L'arresto
+è stato confermato da questo ufficio ritenuti presenti gravi e concreti indizi
+di colpevolezza, nonché quella di preminenti motivi di interesse pubblico quali
+i bisogni dell’istruzione (come da richiesta di conferma dell’arresto e per la
+necessità di procedere ad un confronto con la vittima e i testi) e pericolo di
+collusione e di inquinamento delle prove con i coaccusati (doc. 4, inc. GIAR
+409.2007.1).
+Il
+25 settembre 2007 (AI 11) l’accusa è stata estesa alle ipotesi di reato di cui
+agli artt. 221 CP e 19 a LFStup.
+2.
+Con
+l’istanza qui in discussione (doc. 1, inc. GIAR 409.2007.3), __________ chiede
+di essere posto in libertà provvisoria.
+Dopo
+aver richiamato la data dell’arresto, la promozione d’accusa, la decisione di
+conferma del GIAR, i criteri che debbono essere presenti a giustificazione
+della privazione della libertà e la durata della misura restrittiva, l’istante
+segnala che l’istruttoria è terminata (il Procuratore pubblico ha proceduto al
+deposito degli atti) e che non si identificano più motivi a giustificazione
+della detenzione preventiva: i fatti sarebbero ormai chiariti (Istanza, punto
+3.2).
+Inoltre,
+e sempre secondo l’istante, non sussiste pericolo di fuga (trattandosi di cittadino
+italiano nato in Ticino e radicato nella regione) ed egli avrebbe subito
+percosse, a due riprese, da altri detenuti.
+3.
+Il
+magistrato inquirente ha preavvisato negativamente la richiesta (doc. 2, inc. GIAR
+409.2007.3).
+Riassunti
+i fatti e le varie imputazioni, con particolare riferimento alle dichiarazioni
+della vittima di quanto qualificato come aggressione (art. 134 CP) e di una
+teste, il magistrato inquirente segnala che __________ ha inizialmente negato
+di essere colui che ha di fatto colpito al volto il ___; successivamente lo ha
+ammesso, ma asserendo di averlo fatto solo una volta e per autodifesa (versione
+che contrasta, secondo l’inquirente, con quella della teste).
+I
+gravi indizi per il reato di aggressione sarebbero pacificamente dati (la
+vittima avendo ritirato la querela per le lesioni), così come quelli di
+danneggiamento, incendio intenzionale e violenza contro funzionari in relazione
+a quanto accaduto al posto di polizia il 10 settembre 2007.
+L’inchiesta,
+sempre a dire del magistrato inquirente, è ancora in corso (nonostante il
+deposito ex art. 196 cpv. 1 CPP) per l’espletamento di un accertamento chiesto
+dal qui istante e da un correo; nel contempo, nei confronti di __________,
+sarebbe dato e presente un concreto pericolo di recidiva alla luce dei
+precedenti e della disponibilità a delinquere dimostrata anche dopo
+l’intervento della polizia e nonostante una condanna a pena da espiare erogata
+il 5 luglio 2005 da una assise correzionale. L’attuale situazione personale
+dell’accusato (disoccupazione, assenza di abitazione, assenza di prospettive
+lavorative) non sarebbe in alcun modo garanzia contro il rischio di ricaduta.
+Da
+ultimo, e ancora per il magistrato, i litigi con altri detenuti sarebbero la
+conseguenza di comportamenti scorretti da lui messi in atto nei loro confronti
+(sottrazione di sigarette).
+4.
+Con
+osservazioni del 28 novembre 2007, la difesa non nega l’esistenza di indizi di
+colpevolezza “
+nella misura delle azioni da lui esplicitamente ammesse
+”
+(senza però precisare quali siano), ma contesta il reato di aggressione (doc.
+5, inc. GIAR 409.2007.3). Inoltre, la difesa afferma inesistenza di concreti
+elementi a favore di un pericolo di collusione (o inquinamento delle prove) e
+di un pericolo di fuga (invero neppure indicati nel preavviso negativo:
+n.d.r.).
+Quanto
+al pericolo di recidiva, la difesa ne contesta l’esistenza in quanto la pretesa
+natura aggressiva dell’accusato si fonderebbe unicamente sulle dichiarazioni
+della vittima (che comunque ha ritirato la querela) e su quanto successo al
+momento dell’arresto, senza riscontri nei precedenti dell’accusato e neppure
+nell’atteggiamento durante l’istruttoria
+Per
+finire, le osservazioni si diffondono ad argomentare in merito alla violazione
+del principio di proporzionalità asserendo che la durata (ca. 80 giorni) non è
+più proporzionale e, soprattutto, che l’accusato in carcere è in difficoltà.
+Infatti, sempre a dire della difesa, __________ necessita dell’aiuto che solo
+una comunità di recupero può fornirgli e lo Stato meglio farebbe a fornire
+questo aiuto concretamente non limitandosi a punirlo o a cambiarlo di cella se
+sorgono screzi con altri detenuti. A questo proposito la difesa segnala pure
+l’intenzione di chiedere perizia psichiatrica ai fini di individuare i mezzi ed
+i metodi più adeguati ad aiutare __________.
+Da
+ultimo le osservazioni segnalano come l’ufficio di assistenza avrebbe trovato
+una sistemazione abitativa per l’accusato (così che disoccupazione ed assenza
+di domicilio non osterebbero più alla messa in libertà) e che uno dei correi è
+già stato rilasciato.
+5.
+L’accusato
+detenuto, è pacificamente legittimato a presentare istanza di libertà
+provvisoria. Il preavviso del Procuratore pubblico, ritenuta ricezione dell’istanza
+il 23 novembre 2007, trasmesso a questo ufficio il 26 novembre 2007 (e ricevuto
+il 28) è rispettoso dei termini di cui all'art. 108 cpv. 2 CPP (in relazione
+con l’art. 20 cpv. 3 CPP).
+6.
+I
+principi che reggono la materia, sebbene noti alla difesa e al magistrato
+inquirente, possono essere così riassunti:
+"L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo
+2000 in
+re S.B., consid.
+4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco dei
+motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione
+della libertà personale ha così trovato codificazione in una chiara base legale
+(di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a
+superamento di quanto già dettato dalla giurisprudenza della Camera dei ricorsi
+penali - nel solco di quella del Tribunale federale -, ritenuto implicito il
+rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413;
+DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera
+dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+7.
+a)
+L'esistenza di
+gravi indizi di colpevolezza deve essere verificata nei limiti di competenza di
+questo giudice derivanti da un lato dalla sua funzione - che è quella di
+esaminare l’esistenza dei presupposti per il mantenimento della misura
+restrittiva della libertà personale, e non di valutare nella sostanza
+l’esistenza di un reato -, e dall’altro - ma in maniera strettamente congiunta
+con quanto appena detto - dall’inopportunità di considerazioni di merito
+premature e, soprattutto, di competenza delle sedi di giudizio (GIAR 15 marzo
+2007, 28.2007.3; si veda, nello stesso senso, CRP 17.11.2005, 60.2005.357).
+b)
+Nel caso in
+esame, ritenuto che dalla lista di reati contenuta nel deposito atti (AI 24
+inc. __________ __________) debbono essere stralciati quelli in relazione ai
+quali la querela è stata ritirata o neppure presentata, quanto emerge dalle
+dichiarazioni di __________ e soprattutto dalle dichiarazioni della teste __________,
+in uno con l’accertamento delle lesioni intervenute (condizione di punibilità:
+Trechsel, Kurzkommentar, n. 3 ad art. 134; cfr. AI 17 e fotografie allegate
+all’AI 1), fonda sufficientemente gli indizi di colpevolezza, a carico (anche)
+del qui istante, per l’ipotesi di reato di cui all’art. 134 CP (si ricorda che
+il ritiro di querela in relazione alle lesioni non impedisce la prosecuzione
+del procedimento per aggressione, nonostante quanto si potrebbe di primo
+acchito dedurre dalla sentenza pubblicata in DTF 118 IV 227, che comunque fa
+riferimento all’elemento intenzionale: cfr. Rehberg/Schmid/Donatsch, Strafrecht
+III, ottava edizione, § 4, n. 6.4).
+La teste __________,
+che ha allertato la Polizia e che ha prestato i primi soccorsi a __________ per
+le ferite descritte nel certificato medico agli atti, ha subito affermato di
+aver visto tutti e tre i coaccusati aggredire verbalmente e ripetutamente con
+calci e pugni __________ (verbale Polizia 10.9.2007) e ha ribadito, sia alla
+Polizia che al Procuratore pubblico, di essere sicura di avere visto i tre
+coaccusati che “
+insieme pestavano l’anziano
+” (verbali __________,
+Polizia 20.09.07, PP 2.10.2007). Tale versione è manifestamente più collimante
+con quella della vittima che non con quella dell’accusato (un solo pugno ed in
+risposta ad uno ricevuto; cfr. AI 21, pag. 5), peraltro maturata in corso d’inchiesta,
+in quanto inizialmente negatoria (in particolare sulle percosse che sarebbero
+state solo ricevute: cfr. Verbale __________ Polizia 10.9.2007 pag. 2).
+c)
+Pure presenti gli
+indizi degli altri reati imputati, così come emergono dai rapporti di polizia
+(AI 1, pag. 3 e 4), dalla documentazione fotografica (AI 19), nonché dai
+verbali dello stesso accusato (Verbale PP 25.9.2007 pag. 4) e da dichiarazioni
+dei correi (cfr. cfr. verbale __________ 25.9.2007).
+Quindi, sebbene
+formalmente le ipotesi di reato siano diminuite per rapporto al momento
+dell’arresto e della promozione d’accusa, rimangono presenti e concreti gli
+indizi di partecipazione al reato di cui all’art. 134 CP (oggettivamente grave
+trattandosi di reato contro la persona e qualificato come crimine), nonché di
+commissione di altri reati.
+Non modifica la prima
+conclusione (che, lo si ribadisce, concerne la valutazione in merito alla
+presenza di sufficienti indizi e non determinazione di merito sulla
+colpevolezza) il fatto che il __________ possa non aver tenuto un comportamento
+passivo e (anche) aver colpito __________ con un pugno.
+8.
+a)
+Stabilita l’esistenza
+di gravi indizi di colpevolezza, occorre determinare se è pure presente e
+concreta una delle condizioni alternative che, con i gravi indizi menzionati,
+possono giustificare il mantenimento della misura cautelare.
+Nel caso in esame, il
+magistrato inquirente non menziona, a fondamento del preavviso negativo, né le
+necessità dell’istruttoria né il pericolo di fuga, bensì unicamente il pericolo
+di recidiva.
+Ritenuto che in sede
+di istanza, __________ segnalava come l’unico tra i motivi alternativi ritenuto
+al momento della conferma dell’arresto era il pericolo di collusione e/o
+inquinamento (bisogni istruttori in senso stretto) è opportuno precisare che:
+"
+Per quanto concerne l'analisi
+delle condizioni alternative a giustificazione dell'arresto, va preliminarmente
+sottolineata l'ininfluenza (di principio) del riferimento fatto dalla difesa
+alla decisione di conferma che riteneva uno solo di questi elementi. Da un lato
+perché l'esistenza di un solo elemento è sufficiente a giustificare l'arresto
+(senza necessità di esprimersi su tutti in sede di conferma, per svariati
+motivi), dall'altro perché elementi non individuati (o anche non presenti) al
+momento dell'arresto possono emergere nel seguito della procedura.
+"
+(GIAR 7 novembre 2005, 308.2005.2, cons. 9 a.)
+b)
+Il
+pericolo di recidiva consiste nel rischio che l'accusato in libertà commetta
+ulteriori reati o continui la commissione di quelli per cui è stato arrestato;
+come per gli altri motivi di arresto, anche il pericolo di recidiva deve essere
+concreto e risultare dall'insieme delle circostanze (DTF 105 Ia 26). Il
+pericolo di recidiva ex art. 95 CPP è nozione relativamente estesa: l'assenza
+di precedenti specifici non basta, da sola, ad escluderlo, così come non basta,
+sempre da solo, a fondarlo il fatto che prima dell'arresto siano stati commessi
+più reati (DTF 12 agosto 1981 in re C.; DTF 123 I 268; SJ 1981, pag. 380 a 382; BJP 1989 n. 671; CRP 17 novembre 2005 in re M., 60.2005.357; G.
+Piquerez,
+Procédure pénale suisse, n. 2358; N. Schmid, Strafprozessrecht, 4. Auflage, n.
+701b; Rusca/Salmina/Verda, Commentario CPP, pag. 327 ss.; CPP Vaudoise
+annotato, Losanna 2004, nota 2.2.5 ad art. 59). La gravità del reato (se si
+preferisce
+la gravità dei fatti oggetto d’accusa e di cui si teme
+reiterazione)
+, condizione la cui assenza è comunque
+determinante (G. Piquerez , op. cit., n. 2358, nota 84), da sola non basta
+(sentenza CRP citata, cons. 8 e riferimenti) ma deve essere debitamente
+considerata
+(DTF 21.1.2005, 1P.750/2004; DTF 25.4.2006, 1P.198/2006; CRP
+16.5.2006, 60.2006.154).
+Occorre che l'insieme delle circostanze (precedenti, comportamento
+in istruttoria, personalità, modalità di commissione, condizioni
+socio-famigliari, eventuale carattere deterrente del procedimento in corso,
+fatti oggetto dell’ipotesi di reato ecc.) concorrano ad imporre una prognosi
+molto sfavorevole (DTF 21 gennaio 2005, 1P.750/2004).
+c)
+Nel caso in esame, gli elementi da considerare sono molteplici.
+Innanzitutto, come segnalato dal magistrato inquirente, risulta che __________
+è stato condannato il 5 luglio del 2005 ad una pena di 9 (nove) mesi di
+detenzione da espiare, quindi (già allora) con prognosi negativa perlomeno ex
+art. 41 vCP. Né la condanna, e relativa pena scontata, né il supporto del
+Servizio psicosociale (AI 13) risultano essere stati sufficienti dal
+trattenerlo dalla commissione di altri atti indizianti la commissione di reati
+(in parte contravvenzioni, ma comunque connessi con il consumo di stupefacenti
+e la precaria situazione personale: cfr. inc. MP __________ e __________), in
+particolare da quelli che hanno condotto all’arresto del 10.9.2007 conseguenti,
+come lui stesso dichiara, alla necessità/volontà di consumare stupefacente (“
+volevo
+fumare per alleviare il mio stato
+”
+AI 14, terzo foglio in fondo).
+Inoltre, ma in stretta connessione con quanto appena constatato, preoccupa (e
+impone un certo rigore nell’analisi del pericolo di recidiva), la tipologia dei
+reati ascritti (aggressione, violenza contro autorità, incendio) e la
+connessione con il consumo di stupefacenti (AI 14, appena citato), tipologia e
+connessione che si ritrovano anche nella condanna del 5 luglio 2007 (coazione,
+contravvenzione LFstup). Il tempo trascorso dalla precedente condanna (e dal
+termine di espiazione della pena: 26 luglio 2006) non è tale da giustificare di
+non considerarla, sia per tutto quanto detto, sia per il fatto che in caso di
+eventuale nuova condanna, in relazione al presente procedimento, vi è un
+concreto rischio a che si tratti ancora di una pena detentiva da espiare (artt.
+40, 41 e 42 cpv. 2 nCP).
+A
+ciò si aggiungano sia il fatto che la precarietà della situazione personale
+dell’istante non è mutata (se non è addirittura peggiorata) in modo sostanziale
+per rapporto a quella che era al momento della precedente condanna (egli è
+ancora senza prospettive di una attività lavorativa e potrebbe aver risolto
+unicamente il problema dell’abitazione grazie all’Ufficio di sostegno: cfr. allegato
+alle Osservazioni della difesa), l’atteggiamento al momento dell’arresto (nei
+confronti degli agenti quando già si trovava presso il posto di polizia e,
+successivamente in cella, quindi non nell’immediatezza dell’arresto) e gli
+“screzi” con altri detenuti che emergono dai rapporti del personale di custodia
+(AI 26); tutti elementi che non militano certo a favore dell’assenza di un
+rischio di recidiva (GIAR 30 novembre 2007, 472.2006.3).
+Non
+da ultimo, dagli atti risulta pure l’esistenza concreta di uno “
+stato
+psichico problematico ed una situazione sociale difficoltosa
+” (AI 13) che
+secondo la stessa difesa è indice del fatto che l’accusato istante necessita di
+concreta assistenza (sociale, psicologica e di ai fini della disintossicazione)
+quale solo una comunità di recupero che agisca su più fronti potrebbe fornire
+(Osservazioni, pag. 3 e 4). Ora, se è vero che compito dello Stato non è
+unicamente quello di incarcerare in attesa di processo, bensì anche quello di
+fornire un aiuto (Osservazioni, pag. 3), è altrettanto vero che se tale aiuto è
+in relazione a situazioni e problematiche che possono essere elemento concreto
+di un pericolo di recidiva, la scarcerazione avviene di regola quando misure
+concrete di aiuto, che possono limitare il pericolo di recidiva, sono definite
+(nel loro contenuto, nella struttura e/o persona che le presta, nella data in
+cui possono avere inizio). Nel caso in esame, dall’incarto né dagli scritti
+della difesa non risulta che misure specifiche siano adottabili da subito e
+neppure che una possibilità in tal senso sia stata (perlomeno finora, vista
+l’intenzione di chiedere perizia menzionata nelle osservazioni) esplorata.
+d)
+In
+conclusione,
+a questo stadio della procedura,
+alla luce
+di tutto quanto sopra esposto e considerando tutto l'insieme delle circostanze
+il pericolo di recidiva deve essere ritenuto come presente e
+concreto, riservando alla Corte del merito valutazione più serena e completa
+della prognosi (rispettivamente l’adozione di eventuali misure ai sensi degli
+artt. 56 ss. CP), vista anche l'imminenza della chiusura dell'istruttoria (CRP
+16 maggio 2006, 60.2006.154, cons. 7; CRP 17 novembre 2005, 60.2005.357, cons.
+8).
+Trattandosi di condizioni strettamente legate all’accusato qui
+istante, la semplice affermazione che uno dei correi è stato già rilasciato (ma
+solo uno) non modifica quanto sopra né impone approfondimenti o verifiche
+particolari.
+9.
+L
+a proporzionalità di una carcerazione (preventiva) deve
+essere analizzata da angolature diverse. Da un lato occorre mettere in
+relazione la durata del carcere preventivo con la gravità e complessità della
+fattispecie e con la pena presumibile e dall’altro occorre anche verificare il
+rispetto del principio di celerità (SJ 1981 p. 383 e citazioni; art. 102 CPP).
+Nel
+caso in esame, il rischio di pena in caso di condanna è certamente superiore al
+carcere preventivo sin qui sofferto (poco meno di tre mesi) e quello
+eventualmente ancora da soffrire (si ricorda che l’inchiesta è in fase
+conclusiva), già il solo reato di cui all’art 134 CP prevede, quale
+comminatoria, una pena detentiva sino a cinque anni.
+Il
+magistrato inquirente ha sinora proceduto con celerità. L’inchiesta concerne
+tre coaccusati e la sua conduzione non evidenzia tempi morti (invero, che tale
+principio sia stato violato non lo sostiene neppure la difesa).
+10.
+In
+conclusione sufficienti presupposti di legge, come anche esplicitati dalla
+prassi e dalla giurisprudenza, sono presenti nella situazione personale e
+processuale di __________ a legittimare e giustificare il perdurare della misura
+cautelare di privazione della libertà. Di conseguenza, l’istanza di libertà
+provvisoria in discussione, deve essere respinta con la presente decisione,
+esente da tassa e spese giudiziarie (art. 39 let. f TG e contrario) e
+impugnabile entro dieci giorni alla Camera dei ricorsi penali del Tribunale
+d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi
+motivi,
+richiamati i
+citati articoli di legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione (anticipata via telefax vista l’imminenza del fine
+settimana) a:
+giudice
+Edy Meli
