@@ -1,0 +1,294 @@
+---
+decision_id: "ti_gerichte_INC.2005.38002"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2005.38002"
+decided: "2007-12-03"
+published: "2007-11-20"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=96274&nX40_KEY=4711211&nTrefferzeile=93&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-198.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2005.38002
+
+## Regeste
+
+Istanza di dissequestro
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 20.11.2007 INC.2005.38002
+Tessin Il Giudice dell'istruzione e dell'arresto 20.11.2007 INC.2005.38002
+Ticino Il Giudice dell'istruzione e dell'arresto 20.11.2007 INC.2005.38002
+
+Istanza di dissequestro
+
+Incarto n.
+INC.2005.38002
+Lugano
+3 dicembre 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sul reclamo presentato il 29/30
+ottobre 2007 da
+__________
+nell’ambito dei procedimento sfociati nell’ACC __________;
+preso atto delle osservazioni del
+Procuratore pubblico (7 novembre 2007) e della PC __________ (12 novembre
+2007);
+visto l’inc. ACC __________;
+ritenuto e considerato,
+in fatto ed in
+diritto
+-
+Nei confronti di __________ sono stati aperti vari procedimenti penali
+per vari titoli di reato (inc. MP __________).
+-
+In data 12 settembre 2007 il Procuratore pubblico ha depositato gli atti
+con scadenza al 1. ottobre 2007.
+-
+Entro tale termine l’accusato non ha formulato istanza di complementi
+istruttori (cfr. lettera 26 settembre 2007), mentre __________, parte civile
+nel procedimento di cui all’inc. MP __________, con scritto 1 ottobre 2007, per
+il tramite del proprio legale, considerato che nel rapporto di polizia
+giudiziaria si fa riferimento ad un rapporto della polizia scientifica
+riguardante i vestiti della vittima ed alcune foto, documenti non rinvenuti
+nell’incarto visionato, ne ha chiesto l’acquisizione agli atti, nonché ha
+prodotto un ultimo certificato medico (datato 12 gennaio 2007) che la concerne,
+di cui pure ha chiesto l’acquisizione agli atti.
+-
+Il 10 ottobre 2007 il Procuratore pubblico ha ordinato la chiusura
+dell’istruzione formale.
+-
+Il 17 ottobre 2007 il Procuratore pubblico ha trasmesso al Tribunale
+penale cantonale l’atto d’accusa con il quale ha deferito __________ dinanzi
+alle __________ (ACC __________).
+-
+Con scritto di pari data il Procuratore pubblico ha comunicato alle
+parti del procedimento di cui all’inc. MP __________, con riferimento alla
+richiesta di complementi istruttori presentata dalla parte civile __________,
+l’acquisizione agli atti della documentazione fotografica della __________ e
+che
+“la stessa è visionabile presso lo scrivente magistrato”,
+informandole
+nel contempo di aver provveduto
+“in data odierna”
+ad inoltrare l’atto
+d’accusa al Tribunale penale cantonale.
+-
+Con lettera 24 ottobre 2007 il difensore di __________ ha chiesto al
+Procuratore pubblico di indicargli che cosa era stato acquisito agli atti,
+rispettivamente se ciò fosse avvenuto in evasione di una richiesta di
+complemento della parte civile oppure d’ufficio, rilevato che l’istruzione era
+già stata chiusa il 10 ottobre 2007.
+-
+Ha fatto seguito lo scritto 25 ottobre 2007 con il quale il Procuratore
+pubblico, dopo aver innanzitutto espresso il proprio disappunto
+“per non
+aver sentito più niente da lei malgrado la mia telefonata a seguito della
+richiesta di rito abbreviato nella quale le consigliavo di prendere contatto
+con l’avvocato di parte civile onde sondare preventivamente la sua
+disponibilità ad una procedura abbreviata”
+, ha comunicato al difensore
+dell’accusato che la documentazione fotografica era quella già menzionata nel
+rapporto d’inchiesta 26 agosto 2005, per un disguido, non pervenuta
+precedentemente, e che l’acquisizione di tale documentazione era stata
+ricordata dalla patrocinatrice di parte civile nell’ambito di una richiesta di
+complemento istruttorio, rilevando pure
+“veda lei se intende impugnare
+questo atto, avuto riguardo della rilevanza dello stesso, ritenuto che il suo
+assistito è reo confesso”.
+-
+Con reclamo 29 ottobre 2007 __________ chiede che la chiusura
+dell’istruzione formale e ogni atto successivo all’acquisizione agli atti della
+documentazione fotografica vengano annullati, che al Procuratore pubblico venga
+fatto ordine di ri-depositare gli atti e che sia nel contempo accertata la
+nullità dell’atto d’accusa. Il reclamante evidenzia che il Procuratore
+pubblico, in violazione delle norme del CPP, ha acquisito prove dopo la
+chiusura dell’istruzione: il magistrato avrebbe invece dovuto accogliere
+formalmente il complemento istruttorio richiesto dalla parte civile, con
+comunicazione alle parti, e successivamente procedere ad un nuovo deposito
+degli atti ex art. 196 cpv. 4 CPP, del tutto irrilevante la circostanza che
+l’accusato sia reo confesso.
+-
+In sede di osservazioni il Procuratore pubblico, ribadito il proprio
+stupore per l’atteggiamento del patrocinatore dell’accusato sulla questione del
+rito abbreviato e dopo aver premesso che il gravame è sprovvisto di interesse
+legittimo da parte dell’accusato ex art. 280 CPP, visto che l’esistenza delle
+foto risultava già dal rapporto di polizia 26 agosto 2005, ma per un disguido
+non erano state precedentemente acquisite agli atti, contesta che si possa
+parlare di un vero e proprio complemento istruttorio, analogamente all’ultimo
+certificato medico prodotto dalla parte civile. Pur ammettendo che
+“per
+rigoroso rispetto della procedura”
+si sarebbe dovuto procedere ad un
+deposito di tali atti istruttori, il Procuratore pubblico evidenzia che la non
+rilevanza di tali atti per la posizione di __________, reo confesso, ha fatto
+ritenere di procedere diversamente: in conclusione, pur ammettendo una
+violazione formale della procedura, il Procuratore pubblico, rilevato il
+formalismo eccessivo della difesa e precisato che in caso di annullamento
+dell’atto di accusa, non potrebbe che ripresentarne uno identico, chiede la
+reiezione del gravame, siccome sprovvisto di ogni interesse legittimo del
+difensore del reclamante, interesse peraltro neppure sostanziato nel gravame,
+accogliere il reclamo costituirebbe un mero esercizio formale a carattere defatigatorio.
+-
+__________, con osservazioni 12 novembre 2007, pur rilevando una
+violazione da parte del Procuratore pubblico degli art. 196 e 197 del CPP, ha
+precisato di aver rinunciato all’assunzione delle prove richieste con
+complemento 1 ottobre 2007 e di aver chiesto al Tribunale penale cantonale, con
+scritto di pari data, di assumere agli atti le fotografie e che, pertanto, la
+chiusura dell’istruzione formale (e l’atto d’accusa) sarebbero validi: il
+reclamo di __________ dovrebbe quindi essere dichiarato irricevibile o comunque
+privo di oggetto.
+-
+In ordine giova rilevare quanto segue. Il reclamo, presentato da persona
+legittimata - l’ accusato -, è tempestivo (avendo il reclamante avuto
+conoscenza dell’omissione censurata a seguito dello scritto 17 ottobre 2007,
+pervenutogli, al più presto, il giorno successivo). Considerato che __________
+eccepisce sostanzialmente l’irregolarità della chiusura dell’istruzione formale
+predibattimentale, di cui la nullità dell’atto d’accusa ne sarebbe soltanto
+l’inevitabile conseguenza, è data la competenza di questo ufficio, in quanto di
+fatto viene impugnata un’omissione realizzatasi in sede di istruttoria predibattimentale,
+rilevato inoltre che la circostanza che le carenze della chiusura si
+manifestino soltanto in uno stadio successivo è insito nella natura stessa
+della decisione di chiusura, ultimo atto dell’istruttoria predibattimentale (cfr.
+GIAR 1 marzo 2002, inc. 286.97.3). Il reclamo è quindi ricevibile in ordine.
+-
+Questo ufficio nella decisione 1 marzo 2002 (inc. GIAR 286.97.3) ha già
+avuto modo di precisare che:
+“a)        La
+decisione di chiusura dell'istruttoria non è, di principio, soggetta ad
+impugnativa, trattandosi di semplice constatazione del Procuratore Pubblico di
+completamento della fase di acquisizione delle prove (decisione 14 gennaio
+1997 in
+re B., inc. Giar
+300.94.3, consid. 3 p. 4, massimata in Rep. 130 [1997] n. 106 p. 318; v. già
+decisione 17 ottobre
+1994 in
+re J.K., inc. Giar 32.94.3 pag. 4).
+b)         D’altro
+canto, rammentato come l'art. 196 cpv. 1 CPP consenta alle parti di formulare
+istanza di complemento di inchiesta, è doveroso attirare l’attenzione sul fatto
+che il codice di rito dà per scontata, quale presupposto per il rinvio a
+giudizio rispettivamente per l’emanazione del decreto di abbandono, l’avvenuta
+corretta “chiusura dell’istruzione formale” (art. 198 cpv. 1 CPP), e cioé “aver
+esaurito l’assunzione delle prove attraverso eventuale completazione ad istanza
+delle parti (art. 196 CPP), con conseguente notifica della chiusura
+dell’istruzione formale” (v. decisione 19 dicembre
+1996 in
+re C., inc. Giar
+136.93.4, p. 2; decisione 14 gennaio
+1997 in
+re B., inc. Giar
+300.94.3, consid. 4 p. 4, massimata in Rep. 130 [1997] n. 106 p. 317-318). Se
+la chiusura dell’istruzione formale non soddisfa questi canoni, può essere
+eccezionalmente impugnata, per permettere il rinvio dell’incarto al magistrato
+inquirente affinché perfezioni la fase di assunzione delle prove.
+c)         La
+decisione di rinvio a giudizio rispettivamente di abbandono del procedimento
+penale, presa in assenza di decisione su richieste di complemento istruttorio o
+emanata in assenza di completa evasione dei complementi richiesti ed ammessi (o
+senza il nuovo deposito degli atti dopo nuova acquisizione di prove conseguente
+ad accoglimento di una richiesta di complemento istruttorio), è formalmente
+nulla (così la massima della citata decisione Giar 14 gennaio
+1997 in
+re B., in Rep.
+130 [1997] n. 106 p. 318; v. già decisione Giar 19 dicembre 1996,.), ciò che
+questo giudice si limita a constatare. Detto altrimenti, l’eventuale
+accoglimento del reclamo comporta l’annullamento della decisione di chiusura dell’istruzione
+formale, “con conseguente declaratoria di formale nullità dell’atto d’accusa
+nel frattempo emanato siccome intempestivo rispetto alla chiusura
+dell’istruttoria” (decisione Giar 14 gennaio
+1997 in
+re B., cit., consid.
+5 in
+fine, p. 5)”.
+-
+In altre parole, nei suddetti casi, la decisione di chiusura formale
+dell’istruttoria deve essere annullata, con la conseguenza che il successivo
+atto d’accusa perde ogni e qualsiasi efficacia, in quanto viziato a monte da
+un’omissione del Procuratore pubblico di rilevanza tale da esigere che quanto
+ha fatto seguito venga considerato come inesistente.
+-
+Nel caso in esame il Procuratore pubblico, in accoglimento dell’istanza
+di complementi istruttori formulata il 1 ottobre 2007 (quindi nel termine del
+deposito degli atti) dalla parte civile __________ ha acquisito agli atti il
+certificato medico annesso all’istanza (senza neppure comunicarlo alle altre
+parti) e, dopo aver decretato la chiusura dell’istruttoria (10 ottobre 2007),
+sempre in accoglimento dell’istanza 1 ottobre 2007, ha proceduto ad acquisire agli atti la documentazione fotografica allestita dalla polizia
+scientifica, quindi nuove prove. Egli, conformemente a quanto previsto
+dall’art. 196 cpv. 4 CPP, avrebbe dovuto procedere mediante nuovo deposito degli
+atti limitatamente ai suddetti complementi istruttori concedendo alle parti un
+termine per formulare eventuali richieste di complemento (salvo rinuncia), e
+soltanto alla scadenza inutilizzata del termine e/o rinuncia, notificare la
+chiusura dell’istruzione formale. Ciò non è avvenuto e l’omissione del
+Procuratore pubblico va sanzionata con la presente decisione che trae seco la
+nullità dell’ACC __________ emanato il 17 ottobre 2007 dal Procuratore
+pubblico.
+-
+Giova precisare che se effettivamente si fosse trattato unicamente della
+semplice acquisizione agli atti di documentazione, che per un disguido non era
+stata formalmente annessa all’incarto precedentemente,
+“è vero che la prassi
+consente di procedere in altro modo, ma ciò può avvenire soltanto con l’accordo
+delle parti: prescindere da questo significa concretamente violare il diritto
+di essere sentito”
+(cfr. GIAR 8 agosto 2003, inc. 2002.39503, ad. 2, nonché
+Rep. 1989 p. 256), e che in tale ipotesi l’esito del gravame avrebbe forse
+potuto essere differente. Nel caso in esame emerge invece, da un lato, che
+l’acquisizione delle fotografie e del certificato medico è avvenuta a seguito
+dell’accoglimento del complemento istruttorio 1 ottobre 2007 della parte
+civile, e, dall’altro, che l’istanza di complemento della parte civile
+concerneva, non soltanto le fotografie, ma anche il certificato medico 12
+gennaio 2007, documentazione pure acquisita all’incarto dal Procuratore
+pubblico, senza comunicarlo alla difesa (negli scritti 17 e 25 ottobre 2007 il
+magistrato ha infatti fatto riferimento unicamente alle foto, soltanto nelle
+osservazioni al presente gravame ha precisato l’avvenuta acquisizione agli atti
+anche del certificato medico 12 gennaio 2007).
+-
+Così stando le cose, le censure sollevate dal reclamante appaiono
+fondate (e la difesa non può essere rimproverata di
+“formalismo eccessivo”)
+:
+il reclamo va quindi accolto e la decisione di chiusura emanata nell’ambito del
+procedimento penale a carico dell’accusato va annullata con conseguente
+declaratoria di formale nullità dell’atto di accusa 17 ottobre 2007 (ACC __________).
+-
+Constatata l’omissione procedurale (peraltro ammessa dal magistrato
+d’accusa), del tutto irrilevanti ai fini della presente decisione la
+circostanza che il Procuratore pubblico nelle osservazioni abbia precisato che
+in caso di annullamento/nullità dell’atto d’accusa 17 ottobre 2007 ne
+ripresenterebbe uno identico, rispettivamente quanto sostenuto da __________ in
+sede di osservazioni, rilevato inoltre che, per quanto riguarda il procedimento
+abbreviato, spetta al Procuratore pubblico, qualora ritenga di dare seguito
+all’istanza di procedura abbreviata formulata dall’accusato, informare le parti
+civili e le eventuali parti lese, fissando un termine di 10 giorni per
+presentare le loro domande di risarcimento, con l’avvertenza che in caso di
+silenzio, verranno demandate al giudice civile (cfr. art. 316b CPP), non alla
+difesa prendere contatto con le parti civili e/o lese.
+-
+Il reclamo deve quindi essere accolto, con la presente decisione
+definitiva, tassa e spese di giudizio seguono la soccombenza.
+Per questi
+motivi,
+visti gli art.
+196, 197 CPP e 280 ss. CPP, nonché ogni altra norma applicabile,
+decide
+Il reclamo 29 ottobre 2007
+presentato da __________ è accolto ai sensi dei considerandi.
+La tassa di giustizia di fr.
+600.-- e le spese di fr. 150.-- sono poste a carico dello Stato, che
+rifonderà a __________ fr. 250.-- a titolo di ripetibili.
+La presente decisione è
+definitiva.
+Intimazione (con copia di
+tutte le osservazioni presentate dalle parti):
+Comunicazione a:
+giudice
+Ursula Züblin
