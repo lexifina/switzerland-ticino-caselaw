@@ -1,0 +1,343 @@
+---
+decision_id: "ti_gerichte_INC.2007.35302"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.35302"
+decided: "2007-12-12"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=96430&nX40_KEY=4711210&nTrefferzeile=41&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/311.0/art-183.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md", "switzerland/bund/acts/741.01/art-095.md"]
+---
+
+# TI Gerichte INC.2007.35302
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 12.12.2007 INC.2007.35302
+Tessin Il Giudice dell'istruzione e dell'arresto 12.12.2007 INC.2007.35302
+Ticino Il Giudice dell'istruzione e dell'arresto 12.12.2007 INC.2007.35302
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2007.35302
+Lugano
+12 dicembre 2007
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire
+sull’istanza di libertà provvisoria presentata il 3/4 dicembre 2007 da
+__________
+e qui trasmessa con
+preavviso negativo del 7/10 dicembre 2007 dal
+Procuratore pubblico
+Mario Branda
+, Bellinzona
+viste
+le osservazioni della difesa (11 dicembre 2007);
+visto
+l’inc. MP __________;
+ritenuto
+e considerato,
+in fatto ed in diritto
+1.
+__________
+è stato arrestato il 7 agosto 2007 e nei suoi confronti è stata promossa
+l’accusa per l’ipotesi di infrazione aggravata, sub. semplice, alla LFStup in
+relazione all’acquisto, vendita, detenzione e/o deposito di marijuana (ca.
+22 Kg
+), fatti presunti commessi
+in __________ tra il maggio e l’agosto 2007, nonché per contravvenzione alla LFStup
+(doc. 1, inc. GIAR 353.2007). Contestualmente è pure stato arrestato __________
+per le stesse ipotesi di reato (doc. 2, inc. GIAR 353.2007.1 e doc. 1, inc.
+GIAR 352.2007.3).
+L’arresto
+è stato confermato da questo giudice il giorno successivo, ritenuta la presenza
+di sufficienti indizi di reato e un concreto pericolo di fuga (doc. 3, inc.
+GIAR 353.2007.1).
+2.
+Il
+7 novembre 2007 si è proceduto al deposito degli atti ed all’estensione
+dell’accusa alle ipotesi di reato di cui agli artt. 123, 180, 181, 183 CP
+(estensione priva d’effetto per le prime due ipotesi di reato menzionate, vista
+l’assenza di querela: doc. 4, inc. GIAR 353.2007.2), per fatti commessi nei
+confronti di tale __________, nonché per violazione dell’art. 95 LCStr (AI
+3.7).
+Il
+3 dicembre 2007 è stata notificata la chiusura dell’istruttoria formale e lo
+stesso giorno si è proceduto alla disgiunzione del procedimento contro il qui istante
+da quello nei confronti di __________ (AI 3.8 e 3.9).
+In
+sintesi, ed in base agli accertamenti dell’inchiesta, __________ è accusato di
+aver acquistato e rivenduto ca.
+2,4 Kg
+. di marijuana (verbale di polizia 22.8.2007), tenuto
+in deposito (per un terzo e presso l’abitazione di un conoscente) ca.
+20 Kg
+di marijuana (AI 2.2, pag.
+3), nonché (in relazione con la scomparsa della marijuana depositata) di aver
+costretto __________ a salire su di una vettura, trasportandolo poi in luogo
+discosto, minacciandolo e percuotendolo ripetutamente (AI 2.2, pag. 4/5).
+3.
+Mediante
+l’istanza qui in discussione (doc. 2, inc. GIAR 353.2007.2), __________ chiede
+di essere posto in libertà provvisoria.
+Dopo
+aver ripercorso le tappe dell’inchiesta, sottolineato il proprio atteggiamento collaborativo,
+indicato i fatti imputati e ricordato che le altre persone coinvolte non sono
+state arrestate o non sono più detenute (Istanza, punti da 1 a 12 dei fatti), __________
+sostiene che non vi sono più ragioni valide per il mantenimento della misura
+cautelare. Egli non contesta formalmente gli indizi di reato ma ritiene che non
+siano dati ulteriori bisogni istruttori (l’inchiesta è conclusa e le altre
+persone coinvolte comunque interrogate), tantomeno pericolo di fuga in quanto, da
+un lato la pena prevedibile non può essere di particolare gravità e la
+detenzione preventiva è già durata a lungo, dall’altro egli è (sarebbe)
+intenzionato a stabilirsi in __________ ed è disposto a versare –tramite i
+genitori- una cauzione di FRS 5'000.- (Istanza, punti da
+3 a
+19 in
+diritto).
+4.
+Il
+magistrato inquirente ha preavvisato negativamente l’istanza (doc. 1, inc. GIAR
+353.3007.2).
+Dopo
+aver indicato gli elementi a carico (che emergerebbero dalle stesse
+dichiarazioni/ammissioni dell’accusato), il magistrato inquirente sostiene
+l’esistenza di un concreto pericolo di recidiva (visti i precedenti
+dell’accusato, l’aggressività dimostrata anche in carcere nei confronti di
+altro detenuto e l’assenza di prospettive professionali serie) e di un concreto
+pericolo di fuga (cittadino __________ senza legami significativi con la __________
+e con rischio di una pena da scontare), pur non esprimendosi sulla proposta di
+deposito cauzionale.
+5.
+Mediante
+osservazioni del 11 dicembre 2007 (doc. 5, inc. GIAR 353.2007.2), la difesa non
+contesta l’esistenza di gravi indizi di reato e prende atto del fatto che con
+il preavviso negativo il magistrato inquirente non fa valere bisogni istruttori
+particolari. In merito al pericolo di recidiva sembra sostenere che l’attività
+“
+temuta
+” sia di scarso pericolo per la comunità e le condanne precedenti
+emesse solo per violazione della sorveglianza speciale, mentre che per il
+pericolo di fuga ribadisce il contenuto dell’istanza.
+6.
+L’accusato
+detenuto, è pacificamente legittimato a presentare istanza di libertà
+provvisoria. Il preavviso del Procuratore pubblico, ritenuta ricezione
+dell’istanza il 4 dicembre 2007, trasmesso a questo ufficio il 7 dicembre 2007
+(e ricevuto il 10) è rispettoso dei termini di cui all'art. 108 cpv. 2 CPP (in
+relazione con l’art. 20 cpv. 3 CPP).
+7.
+I
+principi che reggono la materia, sebbene noti alla difesa e al magistrato
+inquirente, possono essere così riassunti:
+"L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo
+2000 in
+re S.B., consid.
+4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco dei
+motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione
+della libertà personale ha così trovato codificazione in una chiara base legale
+(di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a
+superamento di quanto già dettato dalla giurisprudenza della Camera dei ricorsi
+penali - nel solco di quella del Tribunale federale -, ritenuto implicito il
+rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413;
+DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera
+dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte: sentenza GIAR 21.12.2001 in
+re G., inc. 520.2001.5)
+8.
+L'esistenza
+di gravi indizi di colpevolezza deve essere verificata nei limiti di competenza
+di questo giudice derivanti da un lato dalla sua funzione - che è quella di
+esaminare l’esistenza dei presupposti per il mantenimento della misura
+restrittiva della libertà personale, e non di valutare nella sostanza
+l’esistenza di un reato -, e dall’altro - ma in maniera strettamente congiunta
+con quanto appena detto - dall’inopportunità di considerazioni di merito
+premature e, soprattutto, di competenza delle sedi di giudizio (GIAR 15 marzo
+2007, 28.2007.3; si veda, nello stesso senso, CRP 17.11.2005, 60.2005.357).
+Nel
+caso in esame, non occorrono grandi disquisizioni per confermare l’esistenza in
+capo a __________ di gravi indizi in relazione ai reati ascritti (peraltro
+neppure contestati dalla difesa che comunque indica, v’è da ritenere
+erroneamente vista la tabella redatta dallo stesso accusato e allegata al
+verbale 22.10.2007, vendite
+per soli gr.
+200), basta rinviare alle dichiarazioni dell’accusato stesso (Verbale polizia
+22.10.2007, verbale PP 9.10.2007), cui possono essere aggiunte anche le
+dichiarazioni del correo __________ (AI 2.2) e di __________ (verbale di
+polizia del 29.8.2007).
+9.
+a)
+Presente
+la prima (e cumulativa) condizione per il mantenimento della detenzione
+cautelare, occorre determinare se sono presenti concreti elementi di un
+pericolo di recidiva e di fuga come indicato dal magistrato inquirente (i
+bisogni istruttori non essendo invocati).
+b)
+__________
+è cittadino __________ residente in __________ senza alcun legame significativo
+(personale e economico) con il territorio cantonale. È in __________ da qualche
+mese, a suo dire principalmente per sottrarsi alle misure di sorveglianza cui
+era sottoposto in __________, dove ha raggiunto l’amico __________ (di cui
+afferma conoscere precedenti per marijuana) e appena giunto si è subito
+attivato per mettere in atto e/o collaborare ad un traffico di stupefacente (AI
+2.2). Risulta, inoltre (sempre dalle sue dichiarazioni, ma anche dal casellario
+giudiziale __________: AI 2.2 e 8.5), che precedentemente alla sua entrata in __________,
+__________ aveva appena terminato di scontare una pena di 9 (mesi), l’ultima di
+una serie negli ultimi 4/5 anni per reati patrimoniali e/o cessione illecita di
+stupefacenti (AI 8.5). Quanto alla situazione famigliare dell’accusato, va
+rilevato che egli è celibe e proviene da famiglia benestante (il padre sarebbe
+titolare di una impresa edile) che é sempre stata in grado di fornirgli lavoro
+(AI 2.2, pag. 1), ciò che non è bastato a trattenerlo dalla commissione,
+reiterata, di reati (in parte patrimoniali e per altra parte comunque
+comportanti un guadagno quale quello derivante dalla vendita di stupefacenti).
+Quanto
+all’atteggiamento processuale, se è vero che dopo una iniziale reticenza
+(verbale 7 agosto 2007) ha ammesso determinati fatti (verbale 10 agosto 2007),
+è altrettanto vero che sulle modalità d’acquisto e rivendita dello
+stupefacente, così come sulle altre persone coinvolte (sia nei reati LFStup che
+in quelli contro la persona e la libertà), non è stato particolarmente loquace,
+né chiaro (verbale 10.8.2007, pag. 2, 4, 9; verbale 22.8.2007, pag. 8; verbale
+29.8.2007, pag. 4; verbale __________ 9.8.2007, pag. 3).
+c)
+L’insieme
+delle circostanze, così come appena riassunte configurano in capo a __________
+elementi concreti sia di un pericolo di recidiva (DTF 21 gennaio 2005,
+1P.750/2004) sia di un pericolo di fuga (DTF 117 Ia 69).
+In
+merito a quest’ultimo elemento va pure ricordato che i reati imputati non
+possono essere considerati minori o di lieve entità (l’art. 183 è un crimine, e
+l’infrazione LFStup se aggravata – un guadagno di oltre FRS 4'000.- su quattro
+mesi corrisponde a oltre  FRS 12'000.- l’anno, e qui quale unica fonte di
+reddito: DTF 129 IV 188) e, comunque, in caso di condanna, difficilmente la
+pena potrà essere sospesa (cfr. art. 42 CP, in particolare cpv. 2). Pertanto, a
+prescindere dalla dichiarazione d’intenti di voler rimanere in __________ e
+cercare un lavoro “legale” (dichiarazione di poca utilità per questa analisi
+-CRP 27.9.2007, 60.2007.327, cons.6- e non supportata da atti concreti), mal si
+vede come l’accusato possa preferire rimanere a disposizione per il
+dibattimento, la eventuale condanna e l’esecuzione della (sempre eventuale)
+pena, piuttosto che sottrarvisi rientrando al luogo di residenza e centro dei
+suoi interessi (o recarsi altrove).
+d)
+La
+presenza di elementi concreti a favore di un pericolo di recidiva rendono
+superfluo interrogarsi sulla eventuale efficacia e congruità del deposito
+cauzionale proposto, sul quale(come detto) il magistrato inquirente neppure si
+è espresso.
+10.
+L
+a
+proporzionalità di una carcerazione (preventiva) deve essere analizzata da
+angolature diverse. Da un lato occorre mettere in relazione la durata del
+carcere preventivo con la gravità e complessità della fattispecie e con la pena
+presumibile e dall’altro occorre anche verificare il rispetto del principio di
+celerità (SJ 1981 p. 383 e citazioni; art. 102 CPP).
+Nel
+caso in esame, il rischio di pena in caso di condanna è certamente superiore al
+carcere preventivo sin qui sofferto (ca. quattro mesi) e quello eventualmente
+ancora da soffrire (si ricorda che l’inchiesta è già chiusa e il rinvio a
+giudizio avverrà a giorni (Preavviso, pag. 2), come detto il reato di cui
+all’art 183 CP prevede, quale comminatoria, una pena detentiva sino a cinque
+anni, quello di cui all’art. 19 cifra 2 LFStup un minimo di 12 mesi.
+L’inchiesta
+risulta essere stata condotta con celerità (per correttezza va detto che la
+difesa neppure lo contesta).
+11.
+Prima
+di concludere è opportuno rilevare che in sede d’istanza di libertà
+provvisoria, __________ menziona anche il fatto che di tutte le altre persone
+coinvolte nella vicenda (__________) lui solo è ancora in detenzione
+preventiva. Non è chiaro se con tale osservazione egli intenda segnalare, a
+ulteriore giustificazione dell’istanza, una possibile disparità di trattamento
+(SJ 1981, pag. 369 ss., in particolare pag. 389; GIAR 18 novembre 2005,
+2005.339.3).
+A
+scanso di equivoci (e nel rispetto del diritto di essere sentiti) si dirà che
+il principio in questione si applica unicamente a situazioni processuali simili
+(per non dire identiche) nell’ambito dello stesso procedimento.
+Nel
+caso in esame, occorre rilevare quanto segue.
+Il
+correo __________, domiciliato e con precedenti di diversa gravità per rapporto
+a quelli di __________ (cfr. AI 2.1, 8.2, 8.3), è stato disgiunto per “
+diverso
+grado di responsabilità
+” (AI 3.9), quindi per probabile rinvio a giudizio
+nelle competenze di diversa autorità del merito (e __________ ha accettato la
+disgiunzione: AI 5.15). Si tratta, perciò, di persona con situazione
+processuale e personale non analoga a quella dell’accusato qui istante.
+__________,
+oggetto di un ordine d’arresto del 7 agosto 2007 per le ipotesi di reato di cui
+agli artt. 183, 185 CP e 19 cifra 2 LFSup (verosimilmente per gli stessi fatti
+oggetto della promozione e estensione notificata a __________: cfr. AI 1.5), è
+stato sentito il 28.11.2007, non è stato arrestato ma neppure risulta in modo
+chiaro che gli sia stata formalmente promossa un’accusa (gli è stata fatta
+prendere visione dell’ODA, ma senza che si comprenda se prima o dopo il verbale
+e senza comunicare le possibili impugnative: AI 1.5). Sia come sia, __________
+risulta essere cittadino __________ domiciliato e dall’incarto prodotto non
+risultano precedenti (non vi è il casellario: cfr. AI, separazione 5).
+Quanto
+a __________, pure sentito ed in qualche modo chiamato in causa da __________ e
+da __________ (cfr. verbali in AI 1.1), non risulta (sempre dall’incarto
+trasmesso) che nei suoi confronti sia stata promossa un’accusa (cfr. verbale __________
+9.8.2007, nonché gli elenchi atti istruttori).
+12.
+In conclusione sufficienti presupposti di legge, come
+anche esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di __________ a legittimare e giustificare
+il perdurare della misura cautelare di privazione della libertà. Di
+conseguenza, l’istanza di libertà provvisoria in discussione, deve essere
+respinta con la presente decisione, esente da tassa e spese giudiziarie (art.
+39 let. f TG e contrario) e impugnabile entro dieci giorni alla Camera dei
+ricorsi penali del Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+P.Q.M.
+richiamati
+gli artt. 19 ch.1 e 2 LF, 181 e 183 CP, 95 ss., 108, 284 CPP,
+decide:
+1.
+L’istanza di libertà provvisoria è
+respinta.
+2.
+Non si percepiscono né tasse né
+spese giudiziarie.
+3.
+Contro la presente decisione è
+dato ricorso alla Camera dei ricorsi penali entro dieci giorni
+dall’intimazione.
+4.
+Intimazione a:
+giudice
+Edy Meli
