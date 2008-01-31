@@ -1,0 +1,80 @@
+---
+decision_id: "ti_gerichte_INC.2007.34903"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.34903"
+decided: "2008-01-31"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=96937&nX40_KEY=4711207&nTrefferzeile=76&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-102.md"]
+---
+
+# TI Gerichte INC.2007.34903
+
+## Regeste
+
+Istanza di proroga del carcere preventivo e reclamo contro provvedimento PP in materia di prove
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 31.01.2008 INC.2007.34903
+Tessin Il Giudice dell'istruzione e dell'arresto 31.01.2008 INC.2007.34903
+Ticino Il Giudice dell'istruzione e dell'arresto 31.01.2008 INC.2007.34903
+
+Istanza di proroga del carcere preventivo e reclamo contro provvedimento PP in materia di prove
+
+1
+Incarto n.
+INC.2007.34903
+INC.2007.34904
+Cadro,
+31 gennaio 2008
+ore 14.15
+In nome
+della Repubblica e Cantone
+del Ticino
+Verbale di udienza
+Richiamati:
+-
+l’istanza di proroga del carcere preventivo presentata il 18/21 gennaio
+2008, dal PP Mario Branda, in relazione al carcere preventivo cui è astretto __________
+(rappr. dall’__________);
+-
+il reclamo del 28/29 gennaio 2008 presentato da __________ (rappr. dal’avv.
+__________) contro la decisione 7 gennaio 2008 del PP Mario Branda in materia
+di prove;
+avanti il giudice dell'istruzione e dell'arresto Edy Meli,
+compaiono
+-
+PP Mario Branda
+-
+__________ (__________)
+Dopo discussione, più intesa a trovare la migliore soluzione
+per l’accusato (anche nell’ottica di una miglior accettazione delle eventuali
+soluzioni proposte) ed il merito della questione che non un decisione di natura
+formale, le parti concordano di far effettuare una nuova perizia, che verrà
+ordinata al più presto, e conseguentemente il reclamo diviene privo d’oggetto e
+il patrocinatore dell’accusato non si oppone alla proroga richiesta ai fini
+dell’effettuazione della perizia.
+A questo punto , il giudice, constatata l’esistenza comunque
+di gravi indizi di reato, così come emergono dall’incarto (e dalle stesse
+ammissioni dell’accusato), e di un pericolo di recidiva,
+A questo punto, viste le norme applicabili, in particolare
+gli artt. 102, 108, 142, 280 ss. CPP, 284 e contrario CPP, 140 CP,
+decide
+1.
+Il reclamo 28/29 gennaio 2008 è evaso ai sensi di quanto
+sopra esposto e stralciato dai ruoli.
+2.
+Il carcere preventivo cui è astretto __________, scadente il
+4 febbraio 2008 (compreso) è prorogato di quattro mesi e verrà a scadere il 4
+giugno 2008 (compreso). Resta riservato il principio di cui all’art. 102 CPP.
+3.
+Contro la decisione di cui al punto 2 del presente
+dispositivo è dato reclamo alla CRP entro 10 giorni dall’intimazione.
+4.
+Non si prelevano tasse e spese.
+5.
+Intimazione:
+Giudice Edy Meli
