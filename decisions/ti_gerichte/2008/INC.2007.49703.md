@@ -1,0 +1,420 @@
+---
+decision_id: "ti_gerichte_INC.2007.49703"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.49703"
+decided: "2008-02-01"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=97045&nX40_KEY=4711207&nTrefferzeile=57&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-100.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2007.49703
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 01.02.2008 INC.2007.49703
+Tessin Il Giudice dell'istruzione e dell'arresto 01.02.2008 INC.2007.49703
+Ticino Il Giudice dell'istruzione e dell'arresto 01.02.2008 INC.2007.49703
+
+Istanza di libertà provvisoria
+
+1
+Incarto n.
+INC.2007.49703
+Lugano
+1. febbraio 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 23/24 gennaio 2008 da
+__________
+e qui trasmessa con preavviso negativo del 28/29 gennaio
+2008 dal
+Procuratore pubblico Antonio Perugini,
+Bellinzona
+visto lo scritto della difesa
+dell’accusato del 30 gennaio 2008;
+visto l’incarto MP __________;
+ritenuto
+In fatto:
+A.
+__________ è stato arrestato il
+29 ottobre 2007 dalla Polizia cantonale mentre si apprestava ad accedere ad un
+box di __________ dove erano custoditi diversi oggetti di dubbia provenienza.
+Egli si trovava in libertà dal 18 maggio 2007 dopo avere scontato diversi
+periodi di detenzione per condanne per furto.
+Il 30 ottobre 2007 il Procuratore
+pubblico Antonio Perugini ha ordinato l’arresto di __________ promuovendogli
+nel contempo l’accusa per titolo di furto aggravato (siccome commesso in banda
+e per mestiere), subordinatamente ripetuta ricettazione, ripetuto
+danneggiamento, ripetuta violazione di domicilio e infrazione alla Legge
+federale sulle armi, e meglio come descritto nella richiesta di conferma
+dell’arresto 30 ottobre 2007 (Inc. GIAR 497.2007.1, doc. 1).
+Il giorno stesso questo giudice
+ha confermato l’arresto dell’accusato considerata la presenza di gravi e
+concreti indizi di colpevolezza e per pericolo di fuga (in quanto residente
+all’estero e considerato che non ha inteso comunicare il suo indirizzo
+all’estero agli inquirenti), per i bisogni dell’istruzione, pericolo di
+collusione con verosimili correi e complici, nonché per pericolo di recidiva,
+considerati i numerosi precedenti e l’assenza di un’attività lavorativa lecita
+nota (Inc. GIAR 497.2007.1, doc. 6).
+A verbale di conferma
+dell’arresto, così come interrogato in precedenza dalla Polizia, l’accusato si
+è avvalso del diritto di rifiutarsi di rispondere, diritto di cui si è avvalso
+sinora.
+B.
+Il 23 gennaio 2008 __________,
+con l’istanza in discussione (giunta al Ministero pubblico il 24 gennaio 2008),
+chiede di essere posto in libertà provvisoria e, non prendendo posizione
+sull’esistenza dei seri indizi di reato a suo carico, afferma che si trova
+oramai in carcere da troppo tempo senza che gli vengano contestate risultanze
+istruttorie. A mente della difesa non sussisterebbero quindi più bisogni
+istruttori e pericolo di inquinamento di prove per giustificare il mantenimento
+della carcerazione preventiva dell’accusato. Contestato il pericolo di fuga
+essendo l’accusato cittadino __________ e, dal momento che non è stato
+interrogato da due mesi e mezzo, non vi sarebbe necessità alcuna di tenerlo in
+detenzione a disposizione delle Autorità. Per ovviare al pericolo di fuga la
+difesa propone di confinare il proprio patrocinato agli arresti domiciliari a __________
+o obbligarlo a presentarsi giornalmente presso la Polizia di __________. Per quanto riguarda il pericolo di recidiva la difesa osserva, senza
+meglio specificare, che per ovviarvi esistono “
+diverse possibilità che
+possono tutelare meglio i diritti dell’accusato rispetto al mantenimento del
+carcere preventivo
+”. Non sarebbero poi più rispettati principio di sussidiarietà
+e di proporzionalità (Inc. GIAR 497.2007.3, doc. 1).
+C.
+Il magistrato inquirente, con
+preavviso negativo 28/29 gennaio 2008 (Inc. GIAR 497.2007.3, doc. 2), ribadisce
+che esistono gravi e concreti indizi di colpevolezza evincibili non certo dalle
+ammissioni dell’accusato ma dall’attività investigativa degli inquirenti riassunta
+negli atti. Per quanto riguarda i bisogni istruttori ed il pericolo di
+collusione il Procuratore pubblico afferma che a fronte di “
+un’indole per
+nulla collaborativa
+” dell’accusato “
+è stata una precisa e ponderata
+scelta istruttoria quella di demandare le contestazioni a verbale solo dopo
+aver acquisito le inoppugnabili prove di colpevolezza, evitando così inutili
+perdite di tempo in verbalizzazioni interlocutorie improntate solo al suo
+mutismo”
+. Il magistrato inquirente afferma poi che “
+non è stata quindi
+alcuna stasi nell’inchiesta che invece procedere celermente nonostante le
+difficoltà oggettive sopra evidenziate e che avrà ulteriore impulso
+nell’immediato futuro con le puntuali contestazioni del caso”
+. Per il PP la
+scaltrezza dimostrata da __________ nell’aver saputo usare terze persone (sia
+in __________ che in __________) per raggiungere i suoi scopi e dissimulare la
+refurtiva conseguita con i furti sostanziano il pericolo di collusione: “
+la
+distinzione di ruoli e di grado di coinvolgimento di terzi, necessitano
+pertanto della dovuta cautela e della prudente distanza fra tutti i
+protagonisti della vicenda giudiziaria in esame”.
+Per quanto riguarda il pericolo
+di recidiva lo stesso appare evidente sia con riferimento ai suoi specifici e
+preoccupanti precedenti, sia con riferimento all’immediata ripresa
+dell’attività criminale non appena scarcerato in maggio 2007.
+Pure presente il pericolo di fuga
+documentato dalla capacità di costituirsi all’estero un rifugio e un deposito
+per la refurtiva, mentre che qualsiasi misura sostitutiva dell’arresto proposta
+dalla difesa potrebbe evitare il concretizzarsi di tale pericolo sorretto anche
+dal fatto che per il procedimento in essere gli si prospetta una pesante
+condanna.
+Rispettati pure i principi di
+proporzionalità e celerità compatibilmente con le necessità formali ancora da
+espletare.
+D.
+La difesa dell’istante, con
+osservazioni 30 gennaio 2008 ribadisce quanto esposto nell’istanza. Osserva,
+dopo avere esaminato l’intero incarto penale, che a suo modo di vedere sarebbe
+stato violato il principio di celerità. Per quanto riguarda il pericolo di fuga
+sottolinea come lo stesso non sia presente e, comunque, ovviabile con l’obbligo
+di presentarsi presso gli organi di Polizia italiani mentre che nulla osserva a
+proposito del pericolo di recidiva.
+In diritto:
+1.
+L’accusato, detenuto, è pacificamente legittimato a
+presentare istanza di libertà provvisoria.
+Ai sensi dell'art. 108
+cpv. 1 il Procuratore pubblico deve trasmettere entro tre giorni dal
+ricevimento dell'istanza di libertà provvisoria gli atti con il suo preavviso
+negativo al GIAR, il tutto riferito, implicitamente e senza nessuna contraria
+eccezione - l'unica eccezione è infatti quella prevista dal cpv. 4 e concerne
+l'art. 100 CPP (notifica dell'arresto) - all'art. 20 CPP sul computo dei
+termini, con particolare riguardo al cpv. 1 (esclusione dal computo del giorno
+dal quale il termine decorre) e al cpv. 3 (protrazione al giorno successivo dei
+termini scadenti in giorni festivi o così riconosciuti) (cfr. decisione GIAR
+18.04.2002 in re B.N., inc. 25.2002.3, nota al difensore dell'istante;
+decisione GIAR 17.10.2003 in re S.H., inc. 427.2003.2, confermata dalla CRP con
+sentenza 14.11.2003, inc. 60.2003.354).
+In concreto, il
+Procuratore pubblico ha ricevuto l'istanza di libertà provvisoria giovedì 24
+gennaio 2008, quindi il termine di tre giorni di cui all'art. 108 cpv. 1 CPP
+per la trasmissione degli atti e del preavviso negativo a questo giudice veniva
+a scadere lunedì 28 gennaio, essendo domenica 27 gennaio giorno festivo. Dagli
+atti risulta che il preavviso negativo datato 28 gennaio 2008 (unitamente
+all’istanza di libertà provvisoria) è stato spedito lo stesso giorno (cfr.
+busta dell’invio raccomandato allegata agli atti) mentre che l’incarto è stato
+consegnato a questo ufficio, tramite la messaggeria dello Stato, la mattina del
+29 gennaio 2008, contestualmente alla ricezione del preavviso negativo inviato
+per posta.
+Il preavviso negativo e gli atti sono quindi stati
+tempestivamente inviati a questo giudice.
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui di seguito riproposti.
+L’art. 95 CPP – corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 – dopo evidenza al cpv. 1 del principio secondo cui l’accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo ai sensi dell’art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali – per quanto qui concerne – i bisogni
+dell’istruzione, con particolare riguardo al pericolo di collusione e di
+inquinamento delle prove che, sia detto qui a futura memoria – può continuare
+ad esistere fino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27 ,
+pag. 32, nota 3), tra altri possibili, essendovi quello della tutela
+dell’ordine pubblico (REP 1998 n. 105).
+L’eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 consid. 3) in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali – nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggiore rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all’arbitrio (REP
+1980 pag. 128).
+(per tutte: sentenza GIAR
+21.12.2001 in re G., Inc. 520.2001.5).
+3.
+Anche qualora non contestata,
+l’esistenza di gravi e concreti indizi di colpevolezza deve essere verificata
+d’ufficio, pur nei limiti di competenza di questo giudice derivanti dalla sua
+funzione che è quella di esaminare l’esistenza dei presupposti per il
+mantenimento della misura restrittiva della libertà personale e non di valutare
+nella sostanza l’esistenza di un reato.
+Con verosimiglianza sufficiente,
+a questo stadio del procedimento ed in questa sede, si può comunque concludere
+per la presenza di seri e di concreti indizi di colpevolezza a carico di __________
+e relativi ad un suo coinvolgimento nei fatti inquisiti, seri e concreti indizi
+di colpevolezza neppure contestati né dall’accusato nella sua istanza di
+libertà provvisoria né dal suo difensore. A sostenere questa tesi concorrono
+gli elementi raccolti nel rapporto di complemento 24 gennaio 2008 dal quale
+emerge che nella perquisizione del 30 ottobre 2007, del box di __________ in
+uso all’accusato, sono stati recuperati complessivamente 235 oggetti di cui una
+parte è stato possibile ricondurre a provenienza illecita, mentre che per i
+restanti le indagini sarebbero tuttora in corso. Gli inquirenti hanno potuto
+accertare che l’accusato ha commesso furti in quattro __________ differenti (__________),
+ciò anche grazie all’analisi del DNA ritrovato sul luogo di alcuni furti che
+corrisponde al DNA dell’accusato, o al recupero della refurtiva denunciata
+rubata nel box di __________.
+4.
+a)
+In relazione ai bisogni
+istruttori, atti a giustificare la misura restrittiva della libertà personale,
+occorre ricordare che questi non s'identificano semplicemente con gli atti
+istruttori in quanto tali, o con gli accertamenti (ancora) da effettuare, bensì
+con il pericolo di collusione o d'inquinamento delle prove che (eventualmente)
+espone a rischio la corretta raccolta (o conservazione) di tali atti (G. Piquerez,
+Procédure pénale suisse, ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht,
+ZH 1997, nos. 697 ss.; RDAT 1988 no. 24). In quest'ottica il fatto che
+l'inchiesta sia tuttora in corso non è, di per sé, decisivo, in quanto "
+Die
+Tatsache allein, dass noch nicht alle Beweise erhoben bzw. die Mitverdächtigen dingfest
+gemacht werden konnten oder dass der Angeschuldigte die Aussage verweigert, genügt
+nicht
+" (N. Schmid, op. cit., no. 701a). Occorre che l'indagato, se
+posto in libertà, possa pregiudicarne (o comprometterne) il corretto svolgimento
+e, conseguentemente, l'esito (DTF 117 Ia 257, cons. 4 c.).
+Gli elementi di concretezza del
+pericolo vanno individuati, di volta in volta, quantomeno nella specifica prova
+da assumere e nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo
+di prova. Ad esempio, trattandosi di audizione testimoniale, il pericolo di
+collusione non può essere invocato in modo astratto a giustificazione del
+mantenimento della misura cautelare, occorre che un'influenza (dell'accusato
+nei confronti del teste) sia possibile, rispettivamente che vi sia una
+possibile convergenza d'interessi (tra i due) in relazione al contenuto della
+deposizione (SJ 1990 p. 438; DTF 117 Ia 257; ZR 72 no. 77 p. 19). Il semplice
+atteggiamento di diniego dell’accusato, in sé, non costituisce indice in tal
+senso (DTF 90 IV 66; Hauser/Schweri, Schweizerisches Strafprozessrecht, BS
+1999, § 68 no 13).
+b)
+È, di regola, compito del
+magistrato inquirente (anche nel rispetto dell'obbligo di motivazione e della
+garanzia del contraddittorio - si veda, inoltre, la nota alla sentenza 25 marzo
+1998, in REP 1998 p. 329) - se ne afferma l'esistenza, sostanziare la presenza
+di concreti elementi indicanti pericolo di collusione o inquinamento delle
+prove (GIAR 23 settembre 2002 in re Y.). Nel caso in esame, il Procuratore
+pubblico indica un pericolo di collusione specialmente con le persone legate
+all’affitto del Box di __________ e l’appartamento di __________ (Preavviso,
+pag. 2).
+c)
+A ragione, vista l’importante
+mole di oggetti sequestrati nel box di __________ in uso a __________, nonché
+quelli di cui è stata chiesta l’acquisizione tramite rogatoria alle Autorità __________,
+il PP sostiene che vi sono ancora necessità istruttorie volte all’accertamento
+dell’origine di tali oggetti sequestrati in __________ e in __________ senza
+che __________ possa compiere atti di influenza nei confronti di terzi che a
+vario grado e titolo lo hanno aiutato o nella commissione dei furti o nella
+locazione di immobili utilizzati dall’accusato come rifugio personale e deposito
+della refurtiva. È pertanto necessario, oltre che opportuno nell’interesse
+dell’accusato stesso, che i previsti atti istruttori volti a chiarire quanto
+sopra e gli interrogatori con le persone che lo hanno aiutato a vario titolo,
+dalla sua scarcerazione di maggio scorso all’arresto di fine ottobre, avvengano
+senza che si possa avere il dubbio di contatti e reciproci atti d’influenza.
+5.
+Per quanto riguarda il pericolo
+di recidiva, lo stesso deve essere concreto (DTF 105 Ia 31) e risultare da una
+valutazione dell’insieme delle circostanze, tra cui i precedenti dell’accusato,
+il suo comportamento durante l’istruttoria, la sua personalità, le modalità di
+commissione dei reati (Luvini, I presupposti materiali del carcere preventivo
+nel processo penale ticinese, Rep. 1989, p. 294; G. Piquerez, Manuel de
+procédure pénale suisse, Zürich 2001, n° 1479/1483).
+Il magistrato inquirente lo
+evoca, con riferimento al gran numero di precedenti dell’accusato ed al fatto
+che appena rilasciato di prigione ha reiniziato a commettere furti come niente
+fosse successo (preavviso, p. 2). La difesa è silente su questo punto.
+Per sostanziare il pericolo di
+recidiva basta scorrere il casellario giudiziale dell’accusato che fa stato di
+una prima condanna nel 1992 a 2 anni e 6 mesi di detenzione per furto per
+mestiere e altri reati commessi tra il 1990 e il 1991. Messo in libertà
+condizionale il 24 ottobre 1993 ha ricominciato a commettere furti nel novembre
+1993 per i quali è stato condannato a 2 anni e 8  mesi di detenzione il 17
+maggio 1995. Per ulteriori furti commessi  tra il 1993 e il 1994, nonché per
+rapina e sposizione a pericolo della vita altrui è stato condannato il 15
+ottobre 1997 a 3 anni e 10 mesi di reclusione (quale pena aggiuntiva a quella
+del 17 maggio 1995). Il 12 aprile 2002 è stato condannato a 18 mesi di
+detenzione per furto per mestiere e rapina e il 21 ottobre 2003 a 2 anni di detenzione per furto e ricettazione. Il 21 ottobre 2005 è stato condannato a 7 mesi
+di detenzione per ripetuto furto, danneggiamento e violazione di domicilio e il
+23 maggio 2007 ad una pena pecuniaria di 58 aliquote giornaliere da CHF 30.-
+(il casellario riporta erroneamente che la pena è stata sospesa, quando in
+realtà si trattava di pena effettiva) per tentato furto, danneggiamento, abusto
+di un impianto per l’elaborazione di dati e ricettazione.
+Visto quanto sopra appare assai
+arduo, per non dire impossibile, sostenere che l’accusato avrebbe capito i
+propri errori e che, una volta rimesso in libertà, si comporterà correttamente
+al fine di non ricadere nella commissione di reati. Quella di __________ è
+l’attività delinquenziale intensa di una persona che sembra invece impegnarsi
+per dimostrare di non avere nessun rispetto per la legge e l’ordine pubblico.
+Malgrado l’apertura di diversi procedimenti penali, uno appresso all’altro,
+l’accusato ha infatti continuato a delinquere, e lo ha fatto non solo tra una
+pena detentiva e l’altra ma addirittura anche durante periodi di congedo dal
+carcere o di semilibertà: se messo in libertà provvisoria, egli si troverebbe,
+né più né meno, nella stessa situazione ante arresto (non sembra essere
+intenzionato a cercarsi un’attività lucrativa lecita) e vi sarebbe pertanto
+concreto pericolo che torni a delinquere avendo egli dimostrato sinora, e più di
+una volta, di riuscire a “tornare in attività” non appena scarcerato.
+A titolo abbondanziale va
+rilevato che il rischio di recidiva costituisce motivo di arresto non solo per
+impedire nuovi delitti, ma anche, seppure solo indirettamente, perché
+commettendo sempre nuovi reati l’accusato potrebbe procrastinare a oltranza il
+processo: egli ha infatti il diritto a essere giudicato contemporaneamente per
+i nuovi e i vecchi reati (G. Piquerez, Manuel de procédure pénale suisse, Zürich
+2001, p. 501/502, n° 2357; Rusca/Salmina/Verda, Commento del CPP, p. 327 e s.).
+Dagli atti emerge dunque
+inequivocabilmente come vi sia il concreto pericolo, per non dire la quasi
+certezza, che __________, se posto in libertà provvisoria (ormai
+indipendentemente dalla possibilità di entrate finanziarie legali, già presenti
+in passato e che con gli hanno certo impedito di commettere reato), torni a
+commettere furti.
+Tutti gli elementi di fatto
+summenzionati concorrono ad indicare concreto ed attuale pericolo di recidiva
+(SJ 1981, DTF 123 I 268; G. Piquerez, Procédure pénale suisse, n° 2357; N. Schmid,
+Strafprozessrecht, 4. Auflage, n° 701b).
+A torto la difesa propone
+l’adozione di misure sostitutive dell’arresto per ovviare al pericolo di
+recidiva e di fuga. A parte che le misure proposte già sarebbero da adottare
+all’estero, quindi di impossibile attuazione da parte delle Autorità __________
+per ovvi motivi legati al principio di territorialità, ci si chiede come il
+presentarsi giornalmente alle Autorità di Polizia potrebbe fungere da deterrente
+per __________ dal commettere furti in __________ (dove avrebbe intenzione di
+soggiornare) o in __________ (dove potrebbe venire tranquillamente essendo
+cittadino elvetico), quando a tale scopo non è servita in passato neppure la
+carcerazione per sconto pena (avendo egli delinquito durante congedi quando si
+trovava in carcere per scontare le pene a cui era stato condannato, cfr. ad
+esempio le date di commissione di reati per cui è stato condannato il 21
+ottobre 2005 delle Assise correzionali di __________).
+Vista la sussistenza di due motivi di interesse pubblico per
+il mantenimento del carcere preventivo ci si può esimere dall’analizzare anche
+la sussistenza del pericolo di fuga.
+6.
+La proporzionalità di una
+carcerazione (preventiva) deve essere analizzata da angolature diverse. Da un
+lato occorre mettere in relazione la durata del carcere preventivo con la
+gravità e complessità della fattispecie e con la pena presumibile e dall’altro
+occorre anche verificare il rispetto del principio di celerità (SJ 1981 p. 383
+e citazioni; art. 102 CPP).
+La proporzionalità della
+carcerazione sin qui sofferta, alla luce della gravità delle accuse, della
+presenza di concreti indizi di colpevolezza, e degli atti istruttori compiuti e
+ancora da compiere, avuto riguardo alla perseveranza nel reato ed al
+comportamento istruttorio dell’accusato, è sicuramente data. A ciò si aggiunga
+l’assicurazione del PP di procedere indilatamente con la contestazione del
+materiale probatorio sin qui raccolto.
+Pure va ammessa nella sua
+eccezione più generale di rapporto tra la durata della carcerazione preventiva
+ed il rischio di pena se considerate le comminatorie di pena per i singoli
+reati imputati a __________, in particolare per l’imputazione di furto
+aggravato siccome commesso per mestiere.
+L’accusato è stato arrestato il
+29 ottobre 2007 e ad oggi è in detenzione preventiva da tre mesi. In questo
+lasso di tempo l’inchiesta appare procedere ancora con sufficiente celerità
+specialmente se si considera la difficoltà di dovere analizzare la miriade di
+oggetti sequestrati all’accusato con le denunce di furto e che tale difficoltà
+è sicuramente aumentata dal fatto che l’accusato si avvale del suo diritto di
+rifiutarsi di rispondere. A ciò si aggiunga che solo nella seconda metà del mese
+di gennaio 2008 le autorità penali dei cantoni confederati hanno richiesto al canton
+Ticino l’assunzione dei procedimenti penali da loro aperti nei confronti
+dell’accusato.
+Il reato principale che viene
+imputato a __________ è di sicura gravità (a prescindere dal fatto che si
+tratta di un crimine con una pena detentiva sino a 10 anni o con una pena
+pecuniaria non inferiore a 90 aliquote giornaliere) e, in caso di condanna, il
+rischio di pena è certamente superiore alla detenzione preventiva sin qui sofferta
+e a quella presumibilmente da soffrire per esperire gli atti istruttori
+necessari alla completazione dell’inchiesta, in pieno rispetto del principio
+della proporzionalità.
+7.
+In conclusione sufficienti
+presupposti di legge, come anche esplicitati dalla prassi e dalla
+giurisprudenza, sono presenti nella situazione personale e processuale di __________
+a legittimare e giustificare il perdurare della cautelare privazione della sua
+libertà. Di conseguenza, l’istanza di libertà provvisoria in discussione è respinta
+con la presente decisione, esente da tassa e spese giudiziarie (art. 39 let. f
+TG e contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali
+del Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria presentata da __________ è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione (anticipata via fax) a:
+giudice
+Claudia Solcà
