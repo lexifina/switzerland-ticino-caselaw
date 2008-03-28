@@ -1,0 +1,315 @@
+---
+decision_id: "ti_gerichte_INC.2007.57104"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.57104"
+decided: "2008-03-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=98144&nX40_KEY=4711203&nTrefferzeile=32&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2007.57104
+
+## Regeste
+
+Istanza di libertà provvisoria dopo emanazione di atto di accusa. Accolta per inesistenza dei motivi di interesse pubblico
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.03.2008 INC.2007.57104
+Tessin Il Giudice dell'istruzione e dell'arresto 28.03.2008 INC.2007.57104
+Ticino Il Giudice dell'istruzione e dell'arresto 28.03.2008 INC.2007.57104
+
+Istanza di libertà provvisoria dopo emanazione di atto di accusa. Accolta per inesistenza dei motivi di interesse pubblico
+
+Incarto n.
+INC.2007.57104
+Lugano
+28 marzo 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 13 marzo 2008 al Ministero pubblico (e qui giunta, per il
+tramite del TPC, il 18 marzo 2008) da
+__________
+, c/o Carcere giudiziario La Farera, Cadro
+(patr. dall’avv. __________)
+trasmessa a questo giudice ai sensi dell’art. 108 cpv. 3
+CPP,
+visto lo scritto 18 marzo 2008
+della Presidente della Corte che non ha osservazioni in merito all’istanza e
+che non ha inviato l’incarto penale a questo ufficio, in quanto a sua
+disposizione per la preparazione del dibattimento aggiornato per il 4 aprile
+2008 (come si evince dalle osservazioni PP);
+viste le osservazioni 18 marzo
+2008 del PP e 25 marzo 2008 della difesa dell’accusato istante;
+visto l’incarto MP di cui all’ACC
+__________ (un classificatore denominato atti istruttori messo a disposizione
+dal MP in data 27 marzo 2008);
+ritenuto,
+in fatto:
+A.
+__________ è stato arrestato il
+13 dicembre 2007 dopo che era stato fermato a __________ a mano dell’ordine di
+traduzione forzata del 12 dicembre 2007 del Procuratore pubblico Rosa Item per
+titolo di infrazione aggravata, sub. semplice alla LStup (Inc. GIAR
+571.2007.1, doc. 2 allegato 2), considerato che le sue impronte digitali erano
+state rinvenute sui pacchi di 11 kg di canapa sequestrati il 10 novembre 2007 a __________ a __________ (Inc. GIAR  571.2007.1, doc. 2 allegato 6, verb. PP 6 dicembre 2007 di
+__________).
+Con la richiesta di conferma
+dell’arresto 14 dicembre 2007 il magistrato inquirente ha promosso a __________
+l’accusa per titolo di infrazione aggravata, sub. semplice e contravvenzione
+alla LStup (Inc. GIAR 571.2007.1, doc. 1) e chiesto la conferma dell’arresto
+per i bisogni dell’istruzione, pericolo di collusione con le altre persone
+coinvolte nei fatti oggetto d’inchiesta in parte ancora da identificare e
+pericolo di recidiva, mentre che questo giudice ha confermato l’arresto
+dell’accusato considerata la presenza di gravi e concreti indizi di
+colpevolezza e per i bisogni dell’istruzione – al fine di verificare il
+coinvolgimento dell’accusato nel traffico di canapa per cui indagano gli
+inquirenti e per verificare le dichiarazioni dell’accusato – e per il pericolo
+di collusione con le persone da sentire (fidanzata e coaccusato e terzi
+coinvolti nel traffico di stupefacenti ancora da identificare e interrogare),
+(Inc. GIAR 571.2007.1, doc. 7).
+A verbale di conferma
+dell’arresto l’accusato ha dapprima negato ogni coinvolgimento nei fatti e poi
+tentato di minimizzare le proprie responsabilità.
+B.
+Il 5 marzo 2008 il PP ha rinviato
+__________ a giudizio davanti alla Corte delle Assise correzionali di __________
+(unitamente al coaccusato __________) siccome accusato di infrazione aggravata
+alla LStup – per avere, agendo quale membro di una banda costituitasi per
+esercitare il traffico illecito di stupefacenti, in __________, tra ottobre e
+novembre 2007, dopo avere preso accordi con il latitante __________ e terzi non
+identificati, in due occasioni, trasportato e tenuto in deposito almeno 47/48
+Kg lordi di marijuana destinati al successivo trasporto e vendita in __________
+(di cui 12 Kg sequestrati il 10 novembre 2007 alla dogana di __________) – e
+contravvenzione alla LStup per avere consumato negli ultimi tre anni prima
+dell’arresto haschic e cocaina.
+C.
+Il 13 marzo 2008 la difesa di __________
+ha inoltrato istanza di libertà provvisoria direttamente alla PP (malgrado in
+questo stadio della procedura il CPP trasferisce la competenza per decidere
+sulle istanze di libertà provvisoria a questo giudice), istanza che è poi stata
+ricevuta da questo giudice, per il tramite del Tribunale penale cantonale, in
+data 18 marzo 2008. __________, con l’istanza in discussione e per il tramite
+del suo difensore, chiede laconicamente di essere posto in libertà provvisoria
+in attesa del processo (Inc. GIAR 571.2007.4, doc. 2).
+D.
+Il magistrato inquirente, con
+osservazioni 18/20 marzo 2008, postula il non accoglimento dell’istanza. Il PP
+si rifà integralmente al preavviso negativo 4/5 febbraio 2008 inoltrato in
+occasione di una precedente istanza di libertà provvisoria poi ritirata dalla
+difesa (Inc. GIAR 571.2007.2, doc. 2) e, dopo avere illustrato gli indizi di
+colpevolezza ripresi nell’atto d’accusa, per quanto riguarda il pericolo di
+collusione afferma che lo stesso è tuttora presente in relazione a __________,
+tuttora a piede libero e ricercato, con il quale l’accusato non esiterebbe a
+prendere contatto se messo in libertà provvisoria “
+per concordare una
+versione dei fatti di comodo
+”.
+Per il PP sarebbe pure presente
+il pericolo di recidiva avendo l’accusato un precedente specifico risalente ad
+una condanna del 2004, considerata la sua situazione patrimoniale ed il fatto
+che egli sarebbe stato licenziato il mese di gennaio 2008 e si troverebbe
+quindi senza entrate finanziarie lecite.
+Rispettato il principio di
+proporzionalità della carcerazione preventiva sofferta e quella ancora da
+soffrire tenuto conto della pena detentiva cui andrà incontro l’accusato.
+E.
+L’istante con osservazioni 25
+marzo 2008 si riconferma nella propria istanza di libertà provvisoria. Egli
+osserva che non sono più dati i presupposti per il mantenimento del carcere
+preventivo in attesa unicamente del dibattimento.
+La difesa osserva come, per
+quanto riguarda i seri indizi di colpevolezza, l’accusato si è dichiarato
+colpevole di avere partecipato ad un traffico di canapa di circa 60 Kg. L’inchiesta è ormai chiusa e i fatti, sviscerati in ogni loro aspetto, sono stati ammessi
+dall’accusato. Non possono quindi più essere avanzati motivi di interesse
+pubblico quali il pericolo di collusione. Non sussisterebbe poi il pericolo di
+recidiva tra l’altro solo genericamente invocato dal PP.
+F
+.
+Il presidente della Corte delle
+Assise correzionali non ha presentato osservazioni ma ha comunicato, con fax
+separato, che il processo contro l’istante è stato aggiornato per il 4 aprile
+prossimo.
+In diritto:
+1.
+L'istanza, presentata
+dall'accusato detenuto dopo l’emanazione dell’atto d’accusa direttamente a
+questo giudice (ex art. 108 cpv. 3 CPP), è ricevibile.
+2.
+Ricordato che dopo l'emanazione
+dell'atto di accusa il codice di rito non impone termini specifici per l'evasione
+di istanze di libertà provvisoria, in concreto (con la procedura prevista
+dall'art. 280 CPP: Rusca/Verda/Salmina, Commento del Codice di Procedura Penale
+ticinese, n. 9 ad art. 108) si verificherà se ai fini del dibattimento siano
+ancora dati i presupposti per il mantenimento della detenzione preventiva
+(gravi indizi di reato, bisogni dell'istruzione intesi come pericolo di
+collusione o inquinamento delle prove, pericolo di fuga, pericolo di recidiva e
+proporzionalità).
+3.
+I principi che reggono la materia,
+pur se noti alle parti, vengono qui di seguito riproposti.
+L’art. 95 CPP – corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 – dopo evidenza al cpv. 1 del principio secondo cui l’accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo ai sensi dell’art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali – per quanto qui concerne – i bisogni
+dell’istruzione, con particolare riguardo al pericolo di collusione e di
+inquinamento delle prove che, sia detto qui a futura memoria – può continuare
+ad esistere fino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco dei
+motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27 ,
+pag. 32, nota 3), tra altri possibili, essendovi quello della tutela
+dell’ordine pubblico (REP 1998 n. 105).
+L’eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 consid. 3) in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali – nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggiore rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all’arbitrio
+(REP 1980 pag. 128).
+(per tutte: sentenza GIAR
+21.12.2001 in re G., Inc. 520.2001.5).
+4.
+Nel caso in esame non occorre
+dilungarsi più di tanto per confermare l'esistenza di gravi indizi di reato in
+capo all'accusato per i fatti che gli sono imputati con l’atto d’accusa, tanto
+che sono pacificamente ammessi dalla difesa nello scritto 25 marzo 2008 (Inc.
+GIAR 571.2007.4, doc. 8). Anche da
+gli atti emergono
+inequivocabilmente gravi, concreti e convergenti indizi dei reati contestati
+all’accusato. Basti pensare al ritrovamento delle sue impronte digitali sulle
+confezioni di marijuana sequestrata a __________ in occasione dell’arresto di
+quest’ultimo. Vi sono poi le ammissioni dell’accusato di avere accettato di
+tenere in deposito per conto di certo __________ (attualmente latitante) almeno
+46 chilogrammi
+di marijuana
+(verb. 1° gennaio 2008 di __________).
+5.
+Per quanto riguarda il perdurare
+dei preminenti motivi di interesse pubblico atti a giustificare il mantenimento
+dello stato di detenzione, in particolare il pericolo di collusione con il
+latitante __________ e di recidiva in connessione con il rispetto dei principi
+di proporzionalità (implicitamente sollevato dall’istante), il PP non motiva
+sufficientemente le proprie asserzioni, non bastando a questo proposito il
+semplice rinvio al preavviso negativo del 4 febbraio 2008 (né tantomeno tali
+elementi emergono in modo evidente dagli atti messi a disposizione).
+Non solo la PP non sostanzia il paventato pericolo di collusione, ma non si comprende in che modo
+l’accusato potrebbe colludere con __________, a proprio favore, dopo avere
+sostanzialmente ammesso di avere detenuto la sostanza stupefacente menzionata
+nell’atto d’accusa per conto del latitante.
+L’inchiesta contro __________ è
+ormai conclusa avendo il PP proceduto con l’emanazione dell’atto d’accusa, così
+come per il procedimento contro il coaccusato __________. Il procedimento
+penale contro __________ appare sospeso in quanto l’indiziato é attualmente
+latitante ricercato in __________.
+Il PP sostiene la sussistenza del
+pericolo di collusione con __________ – con il quale l’accusato ha continuato a
+trattare marijuana anche dopo e nonostante l’arresto di __________ – asserendo
+che l’accusato, se messo in libertà provvisoria, potrebbe prendere contatto con
+__________ per concordare una versione di comodo dei fatti.
+Per quanto
+riguarda questa questione, se è vero che il Procuratore pubblico ha emanato
+ordine di arresto, va considerato come tale ordine è stato spiccato soltanto
+l’11 gennaio 2008 malgrado l’identità di __________ fosse nota agli inquirenti
+già da novembre 2007 (cfr. rapporto di segnalazione per richiesta di tabulati
+retroattivi del 22 novembre 2007) è altrettanto vero che sussistono forti dubbi
+che si possa procedere in tempi brevi ad una sua audizione. Questo atto
+istruttorio, in una ponderazione degli interessi in gioco e delle circostanze
+sopradescritte, non può giustificare, a questo stadio del procedimento, il
+mantenimento della carcerazione preventiva di __________, la cui versione dei
+fatti appare ormai, come detto sopra, sufficientemente stabilizzata e
+consolidata.
+Pure il pericolo di recidiva non
+è sostanziato. Il magistrato inquirente non specifica come potrebbe recidivare
+l’accusato da qui alla celebrazione del processo, già prevista per il 4 aprile
+prossimo.
+Il pericolo di recidiva consiste
+infatti nel rischio che l'accusato in libertà commetta ulteriori reati o
+continui la commissione di quelli per cui è stato arrestato; come per gli altri
+motivi di arresto, anche il pericolo di recidiva deve essere concreto e
+risultare dall'insieme delle circostanze (DTF 105 Ia 26). Il pericolo di
+recidiva ex art. 95 CPP è nozione relativamente estesa: l'assenza di precedenti
+specifici non basta, da sola, ad escluderlo, così come non basta, sempre da
+solo, a fondarlo il fatto che prima dell'arresto siano stati commessi più reati
+(DTF 12 agosto 1981 in re C.; DTF 123 I 268; SJ 1981, pag. 380 a 382; BJP 1989 n. 671; CRP 17 novembre 2005 in re M., 60.2005.357; G.
+Piquerez,
+Procédure pénale suisse, n. 2358; N. Schmid, Strafprozessrecht, 4. Auflage, n.
+701b; Rusca/Salmina/Verda, Commentario CPP, pag. 327 ss.; CPP Vaudoise
+annotato, Losanna 2004, nota 2.2.5 ad art. 59). La gravità del reato (se si
+preferisce
+la gravità dei fatti oggetto d’accusa e di cui si teme
+reiterazione)
+, condizione la cui assenza è comunque
+determinante (G. Piquerez, op. cit., n. 2358, nota 84), da sola non basta
+(sentenza CRP citata, cons. 8 e riferimenti) ma deve essere debitamente
+considerata
+(DTF 21.1.2005, 1P.750/2004; DTF 25.4.2006, 1P.198/2006; CRP
+16.5.2006, 60.2006.154). Oc
+corre, insomma, che l'insieme delle
+circostanze (precedenti, comportamento in istruttoria, personalità, modalità di
+commissione, condizioni socio-famigliari, eventuale carattere deterrente del
+procedimento in corso, fatti oggetto dell’ipotesi di reato ecc.) concorrano ad
+imporre una prognosi molto sfavorevole (DTF 21 gennaio 2005, 1P.750/2004).
+È ben vero che __________ è
+attualmente senza lavoro (cfr. istanza di gratuito patrocinio del 7 marzo 2008)
+e ha un precedente per infrazione alla LStup del 2004 ma non vengono forniti
+ulteriori elementi a sostegno di questa tesi (che non emergono dagli atti che
+sono stati consegnati a questo ufficio).
+In siffatte circostanze questo
+giudice ritiene che il pericolo di recidiva non appaia sufficientemente
+concreto, o comunque tale da giustificare il mantenimento della carcerazione
+preventiva sino al dibattimento, dovendosi ritenere che la carcerazione
+sofferta possa costituire elemento sufficientemente deterrente, tenuto conto
+della situazione personale di __________, per escludere la commissione di nuovi
+reati. Le contrarie considerazioni esposte dal Procuratore pubblico si fondano
+su eventualità ipotetiche che, in quanto tali, non possono certo fondare
+l’esistenza di un concreto pericolo di recidiva ai sensi della citata
+giurisprudenza.
+Per gli stessi motivi,
+considerata inesistenza del pericolo di fuga, anche il principio di
+proporzionalità non appare più rispettato, malgrado la celerità del Tribunale
+nell’aggiornare il pubblico dibattimento.
+In virtù di quanto detto sopra,
+l’istanza di libertà provvisoria presentata da __________ deve quindi essere
+accolta, ritenuto che la sola esistenza di seri e concreti indizi di
+colpevolezza a suo carico, non può giustificare il perdurare della sua
+carcerazione, facendo difetto le condizioni di cui all’art. 95 cpv. 2 CPP e 102
+cpv. 1 CPP, con la presente decisione, esente da tassa e spese giudiziarie
+(art. 39 let. f TG e contrario) e impugnabile entro dieci giorni alla Camera
+dei ricorsi penali del Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è accolta.
+§ Di
+conseguenza, __________ deve essere immediatamente scarcerato.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+Intimazione (anticipata via
+fax) a:
+giudice
+Claudia Solcà
