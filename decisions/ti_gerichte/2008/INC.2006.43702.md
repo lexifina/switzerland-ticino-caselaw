@@ -1,0 +1,206 @@
+---
+decision_id: "ti_gerichte_INC.2006.43702"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2006.43702"
+decided: "2008-04-07"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=97589&nX40_KEY=4711182&nTrefferzeile=8&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/312.0/art-161.md", "switzerland/bund/acts/831.10/art-052.md"]
+---
+
+# TI Gerichte INC.2006.43702
+
+## Regeste
+
+Instanza di dissequestro dopo emanazione atto d'accusa
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 07.04.2008 INC.2006.43702
+Tessin Il Giudice dell'istruzione e dell'arresto 07.04.2008 INC.2006.43702
+Ticino Il Giudice dell'istruzione e dell'arresto 07.04.2008 INC.2006.43702
+
+Instanza di dissequestro dopo emanazione atto d'accusa
+
+Incarto n.
+INC.2006.43702
+Lugano
+7 aprile 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+Sedente per statuire sull’istanza presentata in data 29
+febbraio 2008 da
+__________
+intesa ad ottenere – nel procedimento a suo carico di cui
+all’__________ – il dissequestro della somma di fr. 103'519.40;
+viste le osservazioni della PC __________
+(7 marzo 2008), della PC __________ (14 marzo 2008) e del Procuratore pubblico
+(14 marzo 2008);
+preso atto che __________, la __________
+e __________ non hanno presentato osservazioni;
+letti ed esaminati gli atti messi
+a disposizione di questo giudice di cui all'inc. __________;
+ritenuto e considerato,
+in fatto ed in
+diritto
+che:
+-
+il 6 agosto 2007 il Procuratore pubblico ha emanato l’__________ con il
+quale ha messo in stato di accusa dinanzi alla Corte delle Assise correzionali __________
+per titolo di cattiva gestione, fatti commessi in correità, quali azionisti
+fondatori, rispettivamente delegata e presidente del Consiglio di
+amministrazione della società __________, dichiarata fallita il 18 maggio 2005;
+-
+come emerge dal suddetto atto di accusa è stato – tra l’altro – disposto
+il sequestro della relazione __________ (con saldo CHF 187'832.65 al 19
+dicembre 2005) intestata a __________ presso __________ __________, filiale di __________;
+-
+con istanza 29 febbraio/3 marzo 2008 __________ ha chiesto il
+dissequestro del suddetto conto – sul quale in corso d’inchiesta l’accusata ha
+fatto confluire anche il saldo di altri suoi conti presso altri istituti -
+limitatamente all’importo di fr. 103'519.40 ai fini di bonifico di tale somma a
+favore della __________ (in seguito __________), __________, a fronte della
+decisione 5 luglio 2007 (__________), decisione che ha stabilito un obbligo di
+pagamento per la suddetta somma a carico dell’accusata, quale ex
+amministratrice delegata della fallita __________, a titolo di risarcimento per
+contributi paritetici non versati per gli anni 2004-2005 ex art. 52 LAVS e
+contro la quale l’interessata ha interposto opposizione (tuttora pendente): la
+difesa evidenzia trattarsi di risparmi personali di __________, non di provento
+di reato, non essendole rimproverato di aver sottratto attivi alla fallita __________
+e di averli fatti affluire su propri conti;
+-
+in sede di osservazioni le PC __________ ed il Procuratore pubblico si
+sono tutti pronunciati per la reiezione dell’istanza;
+-
+l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il
+sequestro di tutti gli oggetti che possono avere importanza per l’istruzione
+del processo, alternativamente o cumulativamente come mezzi di prova o in
+quanto passibili di confisca o devoluzione allo Stato. Il sequestro, per la sua
+qualità di provvedimento eminentemente cautelare, ha lo scopo di acquisire e
+conservare gli oggetti di cui sopra al seguito della procedura e quindi per le
+necessità dell’istruzione preliminare, per le decisioni del magistrato
+requirente e quelle del giudice del merito, come evidenziato nella duplice
+prospettiva - alternativa o cumulativa - della produzione e valutazione delle
+prove (sequestro probatorio) e delle decisioni di confisca, restituzione o
+devoluzione (sequestro confiscatorio) (v. decisione 8 maggio 1998, inc.
+GIAR 516.97.3, in: Rep. 131 [1998] nr. 117, consid.
+1a p.
+359);
+-
+in materia di sequestro, nel lasso di tempo che intercorre tra
+l’emanazione dell’atto di accusa e l’apertura del dibattimento, la CRP
+(30.7.2002 in re B, inc. 60.2002.00174) ha constatato un “vuoto legislativo” e
+l’ha colmato assegnando tale competenza al GIAR. Non v’è ragione perché quanto
+detto dalla CRP nella sentenza citata non valga anche in tema di dissequestro.
+Di conseguenza questo giudice ha riconosciuto la sua competenza per decidere
+(comunque e sempre in via incidentale) istanze di dissequestro presentate dopo
+l’emanazione dell’atto d’accusa e prima dell’apertura del dibattimento (un
+chiarimento tra le varie autorità coinvolte ha confermato questa conclusione; cfr.
+decisione 14 ottobre 2003, doc. 12, inc. GIAR 268.1997.2);
+-
+questo giudice è dunque competente ad esaminare l’istanza 29 febbraio/3
+marzo 2008, trattandosi di istanza giunta dopo l’emanazione dell’atto d’accusa
+e prima dell’apertura del dibattimento;
+-
+l’istanza, presentata da persona legittimata, l’accusata, è dunque
+ricevibile;
+-
+in generale, l
+a determinazione/indicazione degli
+elementi (se si preferisce, l
+a verifica della fondatezza dei presupposti
+del sequestro ex art. 161, "… a partire dal sospetto all’apertura del
+procedimento, che va in seguito ed indilatamente approfondito con gli
+accertamenti probatori": GIAR 22 ottobre 2002, 39.2002.7
+)
+a sostegno di un (possibile) provento del reato, della sua (probabile) entità,
+della connessione con il sequestro, così come di tutti gli elementi che lo
+possono giustificare ai fini dell'applicazione dell'art. 70 CP, è di
+competenza, in prima sede, del magistrato inquirente (per analogia: CRP 24
+marzo 2005, 60.2005.9), a maggior ragione laddove sono indiziati reati la cui
+commissione non comporta sempre e necessariamente un "provento
+diretto", come è invece il caso per determinati reati patrimoniali,
+rispettivamente laddove il (sempre eventuale) "provento" non è
+necessariamente ed automaticamente assimilabile allo scoperto/passivo del
+fallimento (che non è elemento costitutivo del reato, bensì condizione di
+punibilità ma può fornire, nella fase iniziale delle indagini, un ordine di
+grandezza a giustificazione del sequestro);
+-
+in concreto, la situazione non è affatto chiara;
+-
+nell’istanza la difesa afferma, in maniera alquanto generica, e senza
+fare alcun riferimento concreto agli atti istruttori esperiti, che i beni di
+cui chiede il dissequestro sarebbero risparmi personali dell’accusata, quindi
+non provento di reato, ritenuto che non le sarebbe rimproverato di aver
+sottratto attivi della fallita __________ e di averli fatti affluire su propri
+conti;
+-
+precisazioni puntuali in merito non sono fornite neppure dal Procuratore
+pubblico che in sede di osservazioni ha unicamente rilevato che tenuto conto
+delle indebite operazioni messe in atto dall’accusata a scopo di indebito
+profitto e descritte nell’atto d’accusa, gli averi depositati sul conto in
+questione debbano essere mantenuti sotto sequestro ai fini della devoluzione
+alla massa fallimentare, senza tuttavia indicare l’eventuale provento
+conseguito da __________ con il suo agire (che non necessariamente, come
+rilevato sopra, corrisponde al passivo del fallimento) ;
+-
+dall’atto d’accusa risulta che a __________ è – tra l’altro –
+rimproverato di avere riversato a favore della società solo una minima parte (fr.
+26'000.--) del ricavo di fr. 150'000.-- conseguito dalla vendita di parte delle
+azioni ad __________ e pervenuto su uno dei conti il cui saldo é stato
+trasferito sul conto presso __________, rispettivamente di aver conseguito
+mediante apporti iniziali limitati e a seguito della cessione del 71% del
+capitale azionario dopo l’intervenuto aumento del capitale azionario un utile
+complessivo di fr. 51'532.80, utile non liberato alla società, nonché di aver
+fatto indebitamente contabilizzare nelle schede contabili della società la metà
+dell’importo di fr. 200'000.-- condonato da __________ alla società quale suo
+apporto correntista, poi utilizzato mediante compensazione per partecipare
+all’aumento del capitale azionario nel corso del 2004, senza quindi apporto di
+nuovi fondi da parte sua;
+-
+in altre parole dall’atto di accusa emerge, da un lato, che fondi di
+pertinenza della società sono confluiti su conti dell’accusata (fr. 150'000.--)
+e, dall’altro, che l’accusata si è vista aumentare il proprio patrimonio
+personale omettendo di apportare nuovi fondi alla società;
+-
+non può inoltre essere trascurato che se è vero che la __________ ha
+un’azione diretta nei confronti di __________, quale ex amministratrice
+delegata della fallita __________ (anche qualora sia pendente la procedura
+fallimentare della società), è altrettanto vero che la __________, che peraltro
+ha insinuato il proprio credito nel fallimento di __________, non è parte
+civile al procedimento contro __________ (e __________) e che pertanto
+procedere come richiesto dall’istante equivarrebbe a privilegiare un terzo al
+procedimento con conseguente possibile pregiudizio per le parti civili,
+rilevato inoltre che l’istante ha peraltro interposto opposizione avverso la
+decisione 5 luglio 2007 della __________;
+-
+in virtù di quanto precede l'istanza, carente nella motivazione, deve
+quindi essere respinta con la presente decisione impugnabile alla CRP, tassa e
+spese di giudizio, nonché ripetibili seguono la soccombenza;
+-
+resta, ovviamente, aperta la possibilità per l’istante di presentare
+nuova istanza debitamente motivata.
+P.Q.M.
+viste le norme applicabili, in
+particolare gli artt. 70, 71, 165 CP, 161 ss, 280 ss, 284 CPP,
+decide
+1.
+L’istanza è respinta.
+2.
+La tassa di giudizio di fr. 300.-- e le spese di fr. 150.-- rimangono a
+carico di __________ che rifonderà ad __________ fr. 150.-- ciascuno a titolo
+di ripetibili.
+3.
+Contro la presente è dato reclamo alla CRP entro 10 giorni
+dall’intimazione.
+4.
+Intimazione a (con copia delle osservazioni delle parti che le hanno
+presentate):
+giudice
+Ursula Züblin
