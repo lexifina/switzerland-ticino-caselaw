@@ -1,0 +1,412 @@
+---
+decision_id: "ti_gerichte_INC.2007.49203"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.49203"
+decided: "2008-04-21"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=97728&nX40_KEY=4711201&nTrefferzeile=96&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-035.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2007.49203
+
+## Regeste
+
+Istanza di proroga del carcere preventivo. Istanza parzialmente accolta
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 21.04.2008 INC.2007.49203
+Tessin Il Giudice dell'istruzione e dell'arresto 21.04.2008 INC.2007.49203
+Ticino Il Giudice dell'istruzione e dell'arresto 21.04.2008 INC.2007.49203
+
+Istanza di proroga del carcere preventivo. Istanza parzialmente accolta
+
+Incarto n.
+INC.2007.49203
+Lugano
+21 aprile 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull’istanza di proroga della
+carcerazione preventiva presentata il 9/10 aprile 2008 dal
+Procuratore pubblico Marco VILLA
+nei confronti di
+__________
+patr. d’ufficio dall’avv. __________
+accusato di infrazione aggravata
+subordinatamente semplice e contravvenzione alla LStup, ripetuta guida
+nonostante la revoca della licenza di condurre, infrazione alla Legge che
+promuove la ginnastica e lo sport, nonché denuncia mendace;
+viste le osservazioni della
+difesa 17/18 aprile 2008;
+visto l’incarto MP __________;
+considerato,
+in fatto ed in
+diritto
+-
+__________ è stato arrestato il 25 ottobre 2007 presso lo __________
+dove stava scontando una precedente condanna, con contestuale promozione
+dell’accusa per i reati di infrazione aggravata sub. semplice e contravvenzione
+alla LStup;
+-
+l’arresto è stato confermato da questo giudice il giorno successivo
+stante l’esistenza, oltre che di seri e concreti indizi di colpevolezza, di
+pericolo di fuga, bisogni dell’inchiesta e pericolo di collusione, nonché
+pericolo di recidiva;
+-
+successivamente l’accusa è stata estesa anche per titolo di ripetuta
+guida nonostante la revoca della licenza di condurre e denuncia mendace;
+-
+__________, che sin dall’inizio dell’inchiesta ha manifestato la propria
+intenzione di collaborare con gli inquirenti, sostanzialmente non contesta i
+reati addebitatigli;
+-
+giova rilevare che l’inchiesta __________ riguarda più persone, seppure
+con differenti ruoli e differenti gradi di partecipazione, alcune delle quali
+arrestate e nel frattempo scarcerate (ad es. __________, __________, __________),
+e che soltanto __________ si trova tuttora in detenzione preventiva;
+-
+approssimandosi il termine di scadenza della detenzione preventiva ex
+art. 102 cpv. 2 CPP, il magistrato inquirente ha inoltrato richiesta per una
+proroga fino al 25 luglio 2008 compreso (istanza 9 aprile 2008): dopo aver
+precisato che l’intervenuto reclamo presentato da __________ ed __________
+contro la decisione 3 marzo 2008 in materia di congiunzione/disgiunzione,
+decisione annullata da questo ufficio con sentenza 4 aprile 2008, è l’unico
+motivo per il quale non ha ancora potuto procedere al deposito degli atti,
+rispettivamente che nei prossimi giorni verrà emanata una nuova decisione in
+sostituzione di quella annullata ed evidenziato l’esistenza di seri e concreti
+indizi di colpevolezza a carico di __________ per tutti i reati ipotizzati, il
+Procuratore pubblico rileva che non sono più dati, perlomeno per l’accusa,
+bisogni dell’istruzione e pericolo di collusione, con la riserva di quelli che
+dovessero emergere da eventuali complementi richiesti dall’accusato e/o dai
+coaccusati in sede di deposito degli atti ed afferma esistenza di concreto
+pericolo di fuga e di recidiva; in ogni caso, considerata la gravità delle
+accuse, la reale ampiezza dell’inchiesta ed il numero di persone coinvolte ed
+avuto riguardo alla presumibile pena, la proroga richiesta sarebbe rispettosa
+del principio di proporzionalità, non essendo peraltro dato sapere né quando si
+potrà procedere al deposito degli atti, né quante e quali saranno le prove
+richieste dagli accusati, non potendosi inoltre escludere eventuali reclami al
+GIAR contro eventuale decisione negativa, fermo restando il proprio impegno, se
+date le condizioni, di terminare precedentemente ed il prima possibile
+l’istruzione formale;
+-
+in sede di osservazioni la difesa si oppone alla proroga della
+carcerazione preventiva: dopo aver rilevato che inspiegabilmente soltanto __________
+si trova ancora in detenzione preventiva (i coaccusati, che dovranno rispondere
+di colpe altrettanto gravi sono invece stati nel frattempo scarcerati) e
+contestata l’esistenza di bisogni dell’istruttoria e pericolo di collusione,
+evidenzia che l’accusato, se scarcerato, avrebbe comunque la possibilità di
+lavorare quale addetto agli animali in un maneggio nei pressi di __________ per
+uno stipendio iniziale di Euro 800.--, ciò che scongiurerebbe il pericolo di
+recidiva, e che, per quanto riguarda il pericolo di fuga, allo stesso si
+potrebbe ovviare facendo obbligo a __________ di presentarsi giornalmente alla
+dogana che dista pochi chilometri dall’abitazione dei suoi genitori in __________
+(comune di __________ in provincia di __________), rispettivamente
+sequestrandogli i documenti di legittimazione; infine, nella denegata ipotesi
+in cui l’istanza di proroga venisse accolta, la difesa chiede che __________
+venga trasferito alla __________;
+-
+l’istanza presentata dall’autorità competente ed entro un termine
+ragionevole per rapporto alla scadenza di cui all’art. 102 cpv. 2 CPP, è
+ricevibile;
+-
+i principi che reggono la materia, pur se noti al magistrato inquirente
+ed al difensore, vengono qui brevemente richiamati:
+"L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo
+2000 in
+re S.B.,
+consid. 4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco
+dei motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo
+(Messaggio aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad
+art. 27, pag. 32, nota 3), tra altri possibili, essendovi quello della tutela
+dell’ordine pubblico (REP 1998 n. 105).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la
+Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5);
+-
+nel caso in esame non occorre dilungarsi più di tanto per confermare
+l'esistenza di gravi indizi di colpevolezza a carico di __________, peraltro
+neppure contestati dalla difesa, per i fatti che gli sono imputati. In particolare
+l’accusato sostanzialmente non contesta la realizzazione dei reati di
+infrazione aggravata alla LStup - per un quantitativo parzialmente tagliato di 1'483 grammi di cocaina venduta, 80/100 procurata e 85 offerta nel periodo giugno 2005/ fino al 25
+ottobre 2007 giorno dell’arresto (cfr. verb. PP 25.01.2008) -, contravvenzione
+alla LStup - nel periodo giugno 2005/25 ottobre 2007 consumo di un quantitativo
+massimo di 40 grammi di cocaina (verb. PP 11.12.2007) -, ripetuta guida
+nonostante la revoca della licenza di condurre - fatti avvenuti dal 10 agosto
+2006 al 18 settembre 2006 (cfr. verb. PP 11.12.2007) -, infrazione alla Legge
+federale per il promuovimento della ginnastica e lo sport - importazione nel
+corso dell’ottobre 2006 di sostanze dopanti (cfr. verb. PP 11.12.2007) - ed
+infine denuncia mendace - avendo nel periodo dal 25 ottobre 2007 al 25 gennaio
+2008 asserito che __________ gli avrebbe venduto 100 grammi di cocaina (cfr. verb. PP 12.02.2008);
+-
+dal profilo istruttorio giova evidenziare che nell’istanza il magistrato
+inquirente evidenzia che, a seguito dell’allestimento del Rapporto di polizia
+giudiziaria 18 marzo 2008, non sono più dati per l’accusa bisogni istruttori e
+pericolo di collusione,
+“con l’evidente riserva di quelli che dovessero scaturire
+a seguito delle prove richieste dall’accusato e dalle altre parti alla fine del
+deposito atti”;
+-
+il pericolo di fuga, per giustificare carcerazione preventiva, deve
+essere concreto e rivestire di una certa probabilità: in altri termini lo si
+ammette quando l’accusato, se posto in libertà, si sottrarrebbe con una certa
+verosimiglianza al perseguimento penale ed alla (eventuale) esecuzione della
+pena; la gravità della pena presumibile (comunque,
+”(…) elemento
+"indiziante" importante che va considerato attentamente per la
+valutazione del pericolo di fuga, il quale, secondo la prassi, aumenta più ci
+si avvicina al giudizio di merito, in presenza di una comminatoria di pena
+della reclusione e/o in assenza (ovviamente e sempre in caso di eventuale condanna)
+di prospettive per una sospensione condizionale (…) (M. Luvini, I presupposti
+materiali del carcere preventivo, in REP 1989 p. 287ss., p. 32; DTF 106 Ia 404;
+DTF 117 Ia 69; CEDU Vol.
+A IX p. 44; SJ 1981 p. 377, SJ
+1980 186; N. Schmid, Strafprozessrecht, ZH 1997, no. 701).“
+GIAR 16 novembre 2006, 345.2006.3; si veda, inoltre, DTF
+14.1.2005, 1S.15/2004, e riferimenti) non basta, da sola, a motivare la
+carcerazione; occorre valutare l’insieme delle circostanze, tra cui il
+carattere dell’accusato, la sua morale, i legami famigliari, il domicilio, la
+professione, la situazione economica e tutti quegli elementi che rendono la
+fuga non solo possibile ma probabile (DTF 19 gennaio 1999 in re G.S.; DTF 117 Ia 69);
+-
+__________ è cittadino italiano, senza particolari legami personali, né
+professionali (disoccupato) con la Svizzera, senza valido luogo di soggiorno e
+nei cui confronti è stato emanato ordine di allontanamento “
+non appena avrà
+luogo la sua scarcerazione”;
+egli si trova confrontato con imputazioni di
+sicura gravità, segnatamente infrazione aggravata alla LStup, per una (a dir
+poco) preoccupante (sia per lasso temporale che per quantitativi) attività di
+spaccio di cocaina, che, se confermate, comporteranno una pena di una certa
+gravità: circostanze che permettono di concludere che il pericolo di fuga
+(intesa come indisponibilità a presenziare al seguito del procedimento) è
+presente in modo concreto (DTF 102 Ia 382; DTF 106 Ia 407; DTF 117 Ia 69; SJ
+1980 585); non si vede infatti cosa possa trattenere l'accusato, qualora tolta
+la misura cautelare, dal rimanere in __________, Paese dal quale non sarebbe
+estradabile;
+-
+il pericolo di recidiva consiste nel rischio che l'accusato in
+libertà commetta ulteriori reati o continui la commissione di quelli per cui è
+stato arrestato; come per gli altri motivi di arresto, anche il pericolo di
+recidiva deve essere concreto e risultare dall'insieme delle circostanze (DTF
+105 Ia 26). Il pericolo di recidiva ex art. 95 CPP è nozione relativamente
+estesa: l'assenza di precedenti specifici non basta, da sola, ad escluderlo,
+così come non basta, sempre da solo, a fondarlo il fatto che prima dell'arresto
+siano stati commessi più reati (DTF 12 agosto 1981 in re C.; DTF 123 I 268; SJ 1981, pag. 380 a 382; BJP 1989 n. 671; CRP 17 novembre 2005 in re M., 60.2005.357; G.
+Piquerez, Procédure pénale suisse, n. 2358; N.
+Schmid, Strafprozessrecht, 4. Auflage, n. 701b; Rusca/Salmina/Verda,
+Commentario CPP, pag. 327 ss.; CPP Vaudoise annotato, Losanna 2004, nota 2.2.5
+ad art. 59). La gravità del reato (se si preferisce
+la gravità dei fatti
+oggetto d’accusa e di cui si teme reiterazione)
+, condizione la
+cui assenza è comunque determinante (G. Piquerez , op. cit., n. 2358, nota 84),
+da sola non basta (sentenza CRP citata, cons. 8 e riferimenti) ma deve essere
+debitamente considerata
+(DTF 21.1.2005, 1P.750/2004; DTF 25.4.2006,
+1P.198/2006; CRP 16.5.2006, 60.2006.154); oc
+corre, insomma,
+che l'insieme delle circostanze (precedenti, comportamento in istruttoria,
+personalità, modalità di commissione, condizioni socio-famigliari, eventuale
+carattere deterrente del procedimento in corso, fatti oggetto dell’ipotesi di
+reato ecc.) concorrano ad imporre una prognosi molto sfavorevole (DTF 21
+gennaio 2005, 1P.750/2004);
+-
+in capo a __________ il pericolo di recidiva è
+presente e concreto: infatti,
+in considerazione del periodo di
+estensione del reato, dei quantitativi trafficati, e, soprattutto, dei
+precedenti giudiziali, sia generali che specifici (DA __________ del 4.10.2006
+e __________ del 4.12.2006) e ricordato che al momento del suo arresto __________
+si trovava in espiazione pena allo __________ (DA __________ del 28.11.2005),
+tenuto anche conto che i fatti di cui viene accusato nell’ambito dell’inchiesta
+__________ sono avvenuti in concomitanza con le ultime quattro condanne
+dell’accusato, appare sufficientemente concreto il rischio che, se messo in
+libertà provvisoria, l’accusato, con uno stipendio di soli Euro 800.--, possa
+riprendere a trafficare cocaina per far fronte al proprio sostentamento (sin
+dall’inizio dell’inchiesta egli ha ammesso di aver iniziato a vendere cocaina
+“per
+guadagnare qualcosa”
+cfr. verb. GIAR 26.10.2008), rilevato inoltre che
+dagli atti emerge che comunque egli vendeva cocaina anche nel periodo in cui
+svolgeva l’attività lavorativa di autista (cfr. verb. PP 12.11.2007);
+-
+per quanto concerne l’asserita disparità di trattamento con
+riferimento all’avvenuta scarcerazione di altri accusati
+“i quali certamente
+dovranno rispondere di reati e colpe altrettanto gravi”
+, basti qui rilevare
+che per il mantenimento della detenzione preventiva va considerata non soltanto
+l’esistenza a carico dell’accusato di gravi e concreti indizi di colpabilità,
+ma anche l’esistenza di preminenti motivi di interesse pubblico: come
+evidenziato nei considerandi che precedono in capo a __________ sono certamente
+dati pericolo di fuga e pericolo di recidiva;
+-
+ritenuta la presenza di gravi indizi di reato e di preminenti motivi di
+interesse pubblico, così come indicato ai considerandi precedenti, resta da
+determinare se la proroga richiesta (3 mesi), sia rispettosa del principio di
+proporzionalità, ricordato che determinanti a tale proposito sono il rapporto
+tra la detenzione sofferta, o eventualmente ancora da soffrire, e la gravità
+dei reati (o meglio della pena ipotizzabile), nonché il rispetto dell'art. 102
+CPP (secondo cui l'inchiesta deve procedere con celerità; cfr. anche DTF
+4.5.2005, 1P.194.2005; DTF 16.11.2004, 1P.630/2004; SJ 1981 p. 383 e citazioni);
+-
+preliminarmente occorre rilevare che, contrariamente a quanto ritenuto
+dal Procuratore pubblico, i reclami presentati da __________ e __________
+contro la decisione 3 marzo 2008 in materia di congiunzione/disgiunzione e
+l’accoglimento degli stessi da parte di questo ufficio con decisione 4 aprile
+2008 e conseguente necessità per l’autorità inquirente di procedere
+all’emanazione di una nuova decisione, non costituiscono motivo per rinviare il
+deposito degli atti: l’art. 35 CPP non dà alcuna indicazione circa il momento
+in cui il Procuratore pubblico deve emanare una decisione di
+disgiunzione/congiunzione (e, comunque, tale decisione può essere presa anche
+dal giudice del merito) - si può certo riconoscere che, in determinati casi,
+motivi d'inchiesta possono suggerire di ritardare qualche tempo la decisione in
+materia per esempio nel caso in cui l'immediata comunicazione dell'esistenza di
+un secondo procedimento potrebbe compromettere la raccolta di elementi
+probatori, rispettivamente allorquando non vi sono ancora gli elementi per una
+promozione o estensione dell'accusa (ma non quando questi elementi sono
+presenti e si ritarda la promozione per altri motivi: in relazione a questa
+problematica si vedano: REP 1995 n. 92; REP 1996 n. 114, REP 1998 n. 109, REP
+1999 n. 126; GIAR 21 settembre 2004, 380.2004.1, cons. 3 e citazioni),
+tuttavia, tale momento non può essere ritardato a piacimento, tantomeno
+demandato al giudice del merito la cui competenza dipende dalle intenzioni e
+dalla tempistica del magistrato inquirente/requirente -, ciò significa che essa
+può essere presa sia all’inizio dell’istruttoria sia alla fine della stessa
+(addirittura con l’atto d’accusa, non dovendo la decisione di
+congiunzione/disgiunzione essere
+"forzatamente"
+emanata con
+decisione
+"separata"
+, cfr. GIAR 6.03.2002, 803.1998.4 ad
+consid. 10), ne consegue che un’eventuale decisione di
+congiunzione/disgiunzione non deve influire sui tempi dell’inchiesta e che
+pertanto il magistrato inquirente, dopo aver ricevuto il rapporto di polizia
+giudiziaria 18 marzo 2008, avrebbe dovuto/potuto procedere al deposito degli
+atti sulla base della situazione esistente a quel momento;
+-
+va poi ricordato che, in generale, per la determinazione della durata
+del carcere preventivo non è opportuno tener conto di eventualità ipotetiche
+(ad esempio presentazione di complementi istruttori e/o di un reclamo avverso
+una eventuale decisione negativa sulle prove), ma che, qualora tali ipotesi
+dovessero concretizzarsi, il magistrato inquirente valuterà e deciderà se sia
+necessario e se vi siano le condizioni di legge, per richiedere un'ulteriore
+proroga e questo ufficio ne verificherà l'effettivo fondamento;
+-
+in concreto la proporzionalità del carcere preventivo cui è astretto __________,
+per rapporto alla presumibile pena, è senz’altro data: ciò in considerazione
+sia della gravità delle accuse mossegli - segnatamente, infrazione aggravata
+alla LStup che si è protratta per un importante lasso di tempo ed ha
+interessato ingenti quantitativi di cocaina -, sia del fatto che gli atti
+imputati (se confermati) si sono temporalmente sovrapposti all’emanazione di
+ben quattro decreti d’accusa (per uno dei quali __________ si trovava in
+espiazione pena presso lo __________ al momento dell’arresto);
+-
+per quanto concerne invece l’altro aspetto della proporzionalità, e cioè
+quello connesso al rispetto del principio di celerità, se è vero che il
+magistrato inquirente non ha proceduto con la dovuta tempestività al deposito
+degli atti (rapporto di polizia giudiziaria gli è giunto il 18 marzo 2008), è
+altrettanto vero, da un lato, che nella fattispecie sussistono pericolo di fuga
+e pericolo di recidiva a giustificazione della carcerazione preventiva, e,
+dall’altro, che secondo il Tribunale federale il rispetto di tale principio
+deve essere valutato globalmente, tenendo conto delle particolarità dell’inchiesta,
+dell’ampiezza del lavoro svolto dagli inquirenti, non potendosi pretendere che
+un magistrato si occupi costantemente di un unico incarto, e di quella degli
+inevitabili tempi morti (DTF 124 I 139), ricordato inoltre che vi è lesione del
+principio di celerità soltanto allorquando tempi morti di durata eccessiva
+mettano in discussione la legalità della detenzione (DTF 128 I 149; STF
+7.2.2005 in re C. , 1S.3/2005);
+-
+in concreto trattasi di inchiesta complessa - viste le numerose persone
+coinvolte a vari livelli, ciò che ha reso necessario per gli inquirenti
+l’esperimento di vari confronti, rispettivamente le ramificazioni anche in
+altri Cantoni,
+con conseguente allungamento dei tempi dell’inchiesta -,
+che è stata comunque condotta nel rispetto dei dettami dell’art. 102 cpv. 1
+CPP, rilevato inoltre che da un esame degli atti non emergono tempi morti tali
+da mettere in discussione la legalità della detenzione, bensì risulta che gli
+inquirenti non si sono limitati ad interrogare l’accusato, ma hanno provveduto
+alla ricerca di riscontri oggettivi al fine di identificare le altre persone
+coinvolte e l’ampiezza del traffico messo in atto e, come detto sopra, sono
+comunque presenti motivi di interesse pubblico a sostegno del perdurare della
+detenzione (pericolo di fuga e pericolo di recidiva);
+-
+alla luce delle suddette considerazioni, una proroga di 2 mesi appare
+sufficiente e proporzionata, tenuto anche conto del fatto che nulla osta, come
+detto sopra, a procedere al deposito atti, che deve quindi essere considerato
+imminente (pena la violazione dell’art. 102 cpv. 1 CPP);
+-
+discende da quanto sopra che una proroga fino al 25 giugno 2008 compreso,
+oltre che necessaria per la conclusione dell'inchiesta (deposito atti, evasione
+di eventuali richieste di complementi istruttori, chiusura dell’istruzione), è
+rispettosa dei principi di proporzionalità e celerità, preso comunque atto che
+il Procuratore pubblico ha garantito il proprio impegno a chiudere
+precedentemente l’istruzione formale in assenza di richieste di complementi
+istruttori (cfr. istanza 9.04.2008 p. 4);
+-
+il magistrato inquirente è comunque invitato a procedere indilatamente nei
+suoi incombenti;
+-
+per quanto concerne la richiesta formulata dalla difesa in sede di
+osservazioni e volta ad ottenere, in caso di accoglimento della proroga, il
+trasferimento di __________ presso il carcere la __________, trattasi di
+questione che rientra nella competenza del magistrato inquirente (contro
+eventuale decisione negativa è dato reclamo al GIAR);
+-
+in conclusione, l'istanza è parzialmente accolta, nel senso che il
+carcere preventivo cui è astretto __________ è prorogato fino al 25 giugno 2008
+(compreso), con la presente decisione esente da tasse e spese giudiziarie (art.
+39 lett. f TG e contrario), suscettibile di impugnazione alla Camera dei
+ricorsi penali (art. 284 cpv. 1 lett. a CPP).
+P.Q.M.
+viste le norme applicabili, in
+particolare gli artt. 19 cifra 1 e 2, 19a LStup, 303 CP, 95 cifra 2 LCStr, 11
+Legge che promuove la ginnastica e lo sport, 95 ss., 102, 103, 280ss e 284 CPP,
+decide
+1.
+L'istanza
+è parzialmente accolta.
+§.    Di conseguenza, il carcere preventivo cui è astretto __________
+è prorogato fino al
+25 giugno 2008 (compreso)
+.
+2.
+Non si
+prelevano tasse e spese.
+3.
+Contro la presente decisione è dato reclamo alla Camera dei
+ricorsi penali, Lugano, entro 10 (dieci) giorni dall'intimazione.
+4.
+Intimazione:
+giudice
+Ursula Züblin
