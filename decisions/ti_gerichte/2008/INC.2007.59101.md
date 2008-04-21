@@ -1,0 +1,219 @@
+---
+decision_id: "ti_gerichte_INC.2007.59101"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.59101"
+decided: "2008-04-21"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=97723&nX40_KEY=4711201&nTrefferzeile=97&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2007.59101
+
+## Regeste
+
+Istanza di dissequestro dopo emanazione atto d'accusa
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 21.04.2008 INC.2007.59101
+Tessin Il Giudice dell'istruzione e dell'arresto 21.04.2008 INC.2007.59101
+Ticino Il Giudice dell'istruzione e dell'arresto 21.04.2008 INC.2007.59101
+
+Istanza di dissequestro dopo emanazione atto d'accusa
+
+Incarto n.
+INC.2007.59101
+Lugano
+21 aprile 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull'istanza presentata il 22/27
+dicembre 2007 dalla
+__________
+intesa ad ottenere - nel
+procedimento penale a carico di __________ di cui all'__________ del 17
+dicembre 2007 - lo sblocco (dissequestro) dei fondi di cui alle particelle n.
+__________ e fogli __________ del fondo base n. __________, tutti intestati
+alla __________;
+viste le osservazioni 7 gennaio
+2008 del Procuratore pubblico, mentre che l’accusato non si oppone all’istanza
+e le altre parti non hanno presentato osservazioni;
+letti ed esaminati gli atti messi
+a disposizione di questo giudice di cui all'inc. __________;
+ritenuto e considerato,
+in fatto ed in
+diritto
+che:
+-
+nell'ambito del procedimento penale a carico di __________ per titolo di
+infrazione alla LF sulla previdenza professionale, ripetuto conseguimento
+fraudolento di una fasa attestazione, truffa, riciclaggio di denaro e ripetuta
+appropriazione indebita (fatti avvenuti nel 2002 e nel 2004) – per avere
+comunicato alla __________, contrariamente al vero, e tramite false
+attestazioni, di avere trasferito il proprio domicilio a __________ dal 23
+marzo 2002, indotto i funzionari della __________ a versargli l’importo
+relativo alla prestazione di uscita maturata pari a CHF 140'037.55, su di un
+proprio conto bancario a __________ e per avere successivamente ordinato, in
+data 21 maggio 2002, il trasferimento dell’importo di CHF 130'000.- a favore di
+un conto __________ intestato all’__________ con l’indicazione “trasferimento __________”
+– il Procuratore pubblico ha tra l'altro disposto, il 6 febbraio 2006 (AI 27),
+il sequestro, con iscrizione del blocco a registro fondiario dell’immobile
+intestato alla __________ ubicato in zona __________ (Inc. __________);
+-
+il 17 dicembre 2007 il Procuratore pubblico firmava il rinvio a giudizio
+di __________ davanti alla __________ (__________);
+-
+con istanza di dissequestro 22/27 dicembre 2007 la __________, ha
+chiesto a questo giudice che venga levata la restrizione della facoltà di
+disporre sui fondi di sua proprietà (part. n° __________ e fogli PPP n° __________
+fondo base n° __________) ordinata dal PP il 6 febbraio 2006 al fine di
+permettere alla società istante “
+di ottenere nuovi finanziamenti per
+garantire la propria continuità e sopravvivenza”
+;
+-
+Il Procuratore pubblico, con osservazioni 7 gennaio 2008, si oppone alla
+richiesta di dissequestro dal momento che l’immobile oggetto del blocco sarebbe
+stato acquistato (o meglio riacquistato) con il provento dei reati imputati
+all’accusato che, peraltro, vive e svolge la sua attività di macellaio nei
+locali di tale immobile; la tesi accusatoria prevede che “__________
+,
+contrariamente al vero, si è dichiarato partente dal comune di __________ ed è
+riuscito, fornendo indicazioni inveritiere, a prelevare il suo avere LPP dalla __________,…
+. In concreto egli ha aperto a __________ un conto bancario su cui è stato accreditato
+il suo avere pensionistico. Dal conto a __________ con indicazione
+“finanziamento __________” in data 21 maggio 2002 __________ ha ordinato il
+trasferimento di FRS 130'000.- a favore del conto in __________ intestato all’__________
+(AI 43, “justificatifs d’opérations”), avvocato che si è occupato
+dell’acquisto/riacquisto dell’immoblie oggetto di sequestro”
+(osservazioni
+PP, p. 1);
+-
+le altre parti non hanno presentato osservazioni mentre che l’accusato
+non si oppone all’istanza di dissequestro;
+-
+l’art. 161 cpv. 1 CPP impone al magistrato penale di ordinare il
+sequestro di tutti gli oggetti che possono avere importanza per l’istruzione
+del processo, alternativamente o cumulativamente come mezzi di prova o in
+quanto passibili di confisca o devoluzione allo Stato. Il sequestro, per la sua
+qualità di provvedimento eminentemente cautelare, ha lo scopo di acquisire e
+conservare gli oggetti di cui sopra al seguito della procedura e quindi per le
+necessità dell’istruzione preliminare, per le decisioni del magistrato
+requirente e quelle del giudice del merito, come evidenziato nella duplice
+prospettiva - alternativa o cumulativa - della produzione e valutazione delle
+prove (sequestro probatorio) e delle decisioni di confisca, restituzione o
+devoluzione (sequestro confiscatorio) (v. decisione 8 maggio 1998, inc.
+GIAR 516.97.3, in: Rep. 131 [1998] nr. 117, consid.
+1a p.
+359);
+-
+in materia di sequestro, nel lasso di tempo che intercorre tra
+l’emanazione dell’atto di accusa e l’apertura del dibattimento, la CRP (30.7.2002
+in re B, inc. 60.2002.00174) ha constatato un “vuoto legislativo” e l’ha
+colmato assegnando tale competenza al GIAR. Non v’è ragione perché quanto detto
+dalla CRP nella sentenza citata non valga anche in tema di dissequestro. Di
+conseguenza questo giudice ha riconosciuto la sua competenza per decidere
+(comunque e sempre in via incidentale) istanze di dissequestro presentate dopo
+l’emanazione dell’atto d’accusa e prima dell’apertura del dibattimento (un
+chiarimento tra le varie autorità coinvolte ha confermato questa conclusione; cfr.
+decisione 14 ottobre 2003, doc. 12, inc. GIAR 268.1997.2);
+-
+questo giudice è dunque competente ad esaminare l’istanza 22 dicembre
+2007, trattandosi di istanza giunta dopo l’emanazione dell’atto d’accusa e
+prima dell’apertura del dibattimento;
+-
+l’istanza, presentata da persona legittimata, la società proprietaria
+dell’immobile di cui si chiede il dissequestro, è dunque ricevibile;
+-
+in generale, l
+a determinazione/indicazione degli
+elementi (se si preferisce, l
+a verifica della fondatezza dei presupposti
+del sequestro ex art. 161, "… a partire dal sospetto all’apertura del
+procedimento, che va in seguito ed indilatamente approfondito con gli
+accertamenti probatori": GIAR 22 ottobre 2002, 39.2002.7
+)
+a sostegno di un (possibile) provento del reato, della sua (probabile) entità,
+della connessione con il sequestro, così come di tutti gli elementi che lo
+possono giustificare ai fini dell'applicazione dell'art. 70 CP, è di
+competenza, in prima sede, del magistrato inquirente (per analogia: CRP 24
+marzo 2005, 60.2005.9);
+-
+in concreto, la situazione non è affatto chiara;
+-
+nell’istanza la __________ chiede il dissequestro dei fondi in quanto la
+misura porrebbe in grave difficoltà finanziaria la società che vorrebbe
+ottenere nuovi finanziamenti per garantire la propria continuità, tutto ciò in
+maniera alquanto generica, e senza fare alcun riferimento concreto agli atti
+istruttori esperiti, e al valore residuo degli immobili sotto sequestro una
+volta calcolati i debiti già esistenti (compreso quello relativo all’indebito
+profitto conseguito dall’accusato nell’ambito del procedimento penale in corso)
+o al motivo per cui questo giudice potrebbe procedere con un dissequestro dei
+fondi tout court ( dazione di una controprestazione equivalente all’importo
+versato dall’accusato, buona fede degli organi della società o altro);
+-
+precisazioni puntuali in merito non sono fornite neppure dal Procuratore
+pubblico che in sede di osservazioni ha unicamente rilevato che dell’importo
+che __________ ha ottenuto in maniera fraudolenta dalla __________ (CHF
+140'037.55 secondo l’atto d’accusa) CHF 130'000.- sono serviti per finanziare
+l’acquisto del fondo oggetto di blocco penale mentre che affermare che la __________
+e __________ nulla abbiano a che fare tra loro sarebbe insostenibile;
+-
+dall’atto d’accusa risulta che a __________ è rimproverato di avere
+comunicato alla __________, contrariamente al vero, di avere trasferito il
+proprio domicilio a __________, all’unico scopo di ottenere il versamento
+dell’importo di libero passaggio ammontante a CHF 140'037.55, su di un proprio
+conto bancario a __________, e di avere successivamente destinato una parte di
+detto importo (CHF 130'000.-) a favore del conto bancario dell’__________ con
+la motivazione “finanziamento __________” (AI 32 e 67) al fine di riacquistare
+gli immobili della società in parte da lui occupati;
+-
+in altre parole, dall’atto di accusa emerge che fondi di pertinenza
+della __________ di __________, sono confluiti (dopo avere transitato per __________
+ed un conto in __________ dell’__________) nella __________, dall’incarto
+emerge poi che la società si è vista aumentare il proprio patrimonio almeno
+apparentemente senza una controprestazione equivalente;
+-
+non può inoltre essere trascurato che se è vero che la società __________
+è proprietaria degli immobili, è altrettanto vero che nulla si sa del valore
+degli immobili sotto sequestro e se essi siano stati messi a garanzia per
+crediti concessi alla società e se sì in quale misura, come pure nulla si sa
+della composizione dell’azionariato e dei rapporti di dare e avere tra la
+società e l’accusato, e che pertanto procedere come richiesto dall’istante,
+oltre a pregiudicare la possibilità di recupero del maltolto, potrebbe
+equivalere a privilegiare un terzo al procedimento con conseguente possibile
+pregiudizio per le parti lese (in caso si costituissero parti civili); e non è
+certo compito di questo giudice quello di ricercare negli atti elementi a
+sostegno dell’istanza neppure evidenziati dall’istante medesimo;
+-
+in virtù di quanto precede l'istanza, carente nella motivazione (tra
+l’altro in merito alla non sussistenza dei motivi che hanno spinto il
+magistrato inquirente al blocco dei fondi menzionati sopra o alle eccezioni che
+permetterebbero di valutare l’accoglimento dell’istanza), deve quindi essere
+respinta con la presente decisione impugnabile alla CRP, tassa e spese di
+giudizio seguono la soccombenza mentre che non si assegnano ripetibili.
+Per questi motivi,
+visti i citati articoli di legge,
+decide:
+1.
+L’istanza
+è respinta.
+2.
+La
+tassa di giustizia di CHF 150.- e le spese di CHF 150.-  sono a carico
+dell’istante.
+3.
+Contro
+la presente decisione è dato ricorso alla Camera dei ricorsi penali entro 10
+giorni dall’intimazione.
+4.
+Intimazione
+(con copia di tutte le osservazioni presentate dalle parti) a:
+giudice
+Claudia Solcà
