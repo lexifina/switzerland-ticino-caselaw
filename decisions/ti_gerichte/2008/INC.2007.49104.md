@@ -1,0 +1,362 @@
+---
+decision_id: "ti_gerichte_INC.2007.49104"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.49104"
+decided: "2008-05-26"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=98043&nX40_KEY=4711199&nTrefferzeile=95&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/312.0/art-035.md", "switzerland/bund/acts/312.0/art-190.md"]
+---
+
+# TI Gerichte INC.2007.49104
+
+## Regeste
+
+Reclamo contro decisione PP in materia di congiunzione. Irricevibile
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 26.05.2008 INC.2007.49104
+Tessin Il Giudice dell'istruzione e dell'arresto 26.05.2008 INC.2007.49104
+Ticino Il Giudice dell'istruzione e dell'arresto 26.05.2008 INC.2007.49104
+
+Reclamo contro decisione PP in materia di congiunzione. Irricevibile
+
+Incarto n.
+INC.2007.49104
+INC.2007.49406
+Lugano
+26 maggio 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sui reclami presentati separatamente
+il 30 aprile 2008 da
+__________
+rappr. dall’avv. __________
+ed
+__________
+rappr. dall’avv. __________
+contro
+la decisione 21 aprile 2008 emanata dal Procuratore
+pubblico Marco Villa in materia di congiunzione;
+preso atto delle osservazioni 14
+maggio 2008 del Procuratore pubblico, concludenti per la reiezione dei gravami,
+8 maggio 2008 di __________ e 14 maggio 2008 di __________, che si rimettono al
+giudizio di questo giudice, 14 maggio 2008 di __________ ed __________ che
+postulano l’accoglimento dei rispettivi gravami;
+visto l’inc. MP __________;
+vista l'opportunità, per economia
+di giudizio, di trattare i due reclami in un'unica decisione;
+ritenuto e considerato,
+in fatto
+A.
+Per i fatti si può rinviare a
+precedente decisione di questo ufficio:
+“
+A.
+__________ ed __________ sono stati arrestati il 24
+ottobre 2007 (e posti in libertà provvisoria il 7 febbraio 2008) nell’ambito
+dell’inchiesta denominata “__________” e nei loro confronti è stata promossa
+l’accusa per i reati di infrazione aggravata sub. semplice alla LStup, ripetuto
+favoreggiamento, ripetuta violazione del segreto d’ufficio, contravvenzione
+alla LStup, infrazione alla LArm, tentata truffa, sviamento della giustizia e
+falsità in documenti (__________), rispettivamente per infrazione aggravata sub.
+semplice alla LStup, contravvenzione alla LStup, infrazione alla LArm, correità
+sub. complicità in tentata truffa, correità sub. complicità in sviamento della
+giustizia e falsità in documenti (__________).
+Nell’ambito dell’inchiesta __________ sono stati
+aperti procedimenti anche a carico di __________ (inc. MP __________), __________
+(tuttora in detenzione preventiva, inc. MP __________), __________ (inc. MP __________),
+__________ (inc. MP __________), __________ (inc. MP __________), __________
+(inc. MP __________) e __________ (tuttora latitante; inc. MP __________).
+B.
+Il 3 marzo 2008 il Procuratore pubblico, dopo aver
+richiamato i principali (9) procedimenti aperti a seguito dell’inchiesta __________,
+preso atto che nei confronti di __________ e __________ è aperto altro
+procedimento, rispettivamente sono aperti altri due procedimenti non
+direttamente correlati con i fatti ed i principali protagonisti dell’inchiesta __________
+e ricordato che la posizione processuale di __________ e __________ è meno
+significativa di quella di __________, __________, __________ e __________,
+nonché che __________ è tuttora latitante, “richiamati gli art. 35 ss. CPP, per
+motivi di opportunità ed economicità di giudizio”, ha emanato “formale
+decisione di congiunzione per un unico giudizio” degli inc. aperti a carico di __________,
+__________, __________ e __________”, rispettivamente “formale decisione di
+disgiunzione sia tra loro che in relazione agli incarti sopra congiunti” per
+gli incarti aperti nei confronti di __________, __________, __________, __________
+e __________.
+C.
+Contro la suddetta decisione sono tempestivamente
+insorti con separati gravami __________ ed __________, postulandone
+l’annullamento.
+__________ postula l’annullamento della decisione impugnata
+e che conseguentemente venga ordinata la congiunzione dei procedimenti a carico
+di __________, __________, __________, __________ e __________ con quelli a
+carico di __________, __________ e del reclamante stesso. Dopo aver ricordato
+la normativa e la giurisprudenza in materia di congiunzione/disgiunzione, ed
+aver evidenziato di non avere potuto prendere visione dei verbali delle persone
+il cui procedimento è stato disgiunto, censura la carenza di motivazione delle
+disgiunzioni ordinate dal Procuratore pubblico. In particolare, per quanto
+concerne __________ e __________, il Procuratore pubblico si sarebbe limitato a
+fare riferimento ad ulteriori procedimenti aperti a loro carico, ma senza
+indicare i motivi per i quali tali procedimenti sarebbero d’intralcio ad un
+procedura congiunta, per __________ e __________ il magistrato inquirente
+avrebbe invece laconicamente sostenuto che la loro posizione sarebbe
+“meno
+significativa”
+, ma senza precisare in che misura (decreto d’accusa e/o non
+luogo a procedere) e senza dare alla difesa, che non ha avuto accesso ai
+verbali delle due persone menzionate, di valutare
+“se la posizione dei
+coaccusati le cui pratiche rimangono congiunte non risultino peggiorate”
+dalla
+disgiunzione
+,
+ed, infine, per __________ il Procuratore pubblico avrebbe
+fondato la propria decisione di disgiunzione sulla latitanza di quest’ultimo,
+senza tuttavia indicare in alcun modo i motivi per i quali detta latitanza
+potrebbe intralciare la procedura nei confronti degli altri accusati. In
+conclusione, le suddette disgiunzioni non sarebbero giustificate, a maggior
+ragione se si considera che
+“il reclamante non ha neppure potuto prendere
+conoscenza dei verbali relativi alle persone succitate, verbali che potrebbero
+contenere indicazioni sensibili per la sua posizione processuale e che, in caso
+di disgiunzione, sarebbe molto difficoltoso poter visionare o approfondire”.
+__________ chiede l’annullamento della decisione
+impugnata, nella misura in cui disgiunge il suo procedimento da quelli condotti
+a carico di __________, __________, __________ e __________, rispettivamente si
+oppone alla congiunzione con quello a carico di __________.
+Ricordate le norme legislative e la giurisprudenza in
+materia di congiunzione/disgiunzione, la difesa di __________ sostiene che la
+decisione impugnata lederebbe il diritto dell’accusato ad un equo processo,
+rispettivamente il principio della parità delle armi. __________, indagato in
+un procedimento disgiunto potrebbe avvalersi del diritto di non rispondere al
+dibattimento contro __________, con conseguente lesione del diritto alla prova
+e al contraddittorio, mentre per quanto riguarda la disgiunzione dei
+procedimenti a carico di __________ e __________, la decisione impugnata
+sarebbe carente nella motivazione (e violerebbe quindi l’art. 29 Cost),
+ritenuto che il magistrato inquirente si limita a sostenere che la posizione di
+questi ultimi sarebbe
+“meno significativa”,
+fatto quest’ultimo peraltro
+contestato. Inoltre, al reclamante sarebbe preclusa la partecipazione ai
+procedimenti disgiunti,
+“ossia anche la conoscenza delle tesi difensive dei
+suoi supposti correi e/o complici, con cui egli ha l’irrinunciabile diritto di
+confrontarsi”.”
+(decisione 4
+aprile 2008, GIAR 491.2007.3)
+Con la suddetta decisione questo
+ufficio ha annullato la decisione 3 marzo 2008 (per motivi diversi da quelli
+fatti valere da __________) e ritornato l’incarto al Procuratore pubblico per
+emanazione di una nuova decisione:
+“Innanzitutto non è affatto chiara la situazione
+antecedente all’emanazione della stessa.
+Da un esame degli atti emerge che per ogni singola
+persona è stato aperto un incarto con un numero diverso. Ciò che lascerebbe
+presumere che, seppure inerente alla medesima inchiesta, ogni procedimento era
+comunque disgiunto dagli altri. Se così fosse, il Procuratore pubblico avrebbe
+dovuto semplicemente emanare decisione formale di congiunzione per i
+procedimenti a carico di __________, __________, __________ e __________.
+Formale decisione di disgiunzione a quel momento era del tutto superflua,
+ritenuto che di fatto per i restanti incarti la situazione rimaneva invariata.
+La circostanza che invece il Procuratore pubblico
+abbia, nella medesima decisione, ordinato la disgiunzione dei procedimenti a
+carico di __________, __________, __________, __________ e __________, lascia
+supporre che il magistrato inquirente abbia ritenuto che per tutti i
+procedimenti aperti nell’ambito dell’inchiesta __________ la connessione fosse
+presunta (cfr. art. 190 CPP), ciò che rendeva necessario emanare unicamente una
+decisione di disgiunzione.
+In altre parole, considerato che non risulta possibile
+interpretare sulla base degli atti la situazione prima dell’emanazione della
+decisione qui impugnata, ritenuto che questo giudice, non potendosi sostituire
+al Procuratore pubblico nella sue intenzioni, non può sapere quale sia stata la
+valutazione da lui operata della situazione antecedente alla decisione 3 marzo
+2008, tale decisione appare incomprensibile, quando non contraddittoria, e non
+permette quindi a questo giudice una valutazione della stessa con la necessaria
+cognizione di causa, non essendo peraltro di aiuto né quanto sostenuto dal
+magistrato inquirente in sede di osservazioni né le argomentazioni sollevate
+dai reclamanti.”
+B.
+Il 21 aprile 2008 il Procuratore
+pubblico ha emanato nuova decisione, con la quale, dopo aver precisato che
+all’inizio dell’inchiesta ogni accusato è stato oggetto di procedimento
+separato e disgiunto, con un incarto numericamente distinto, e riassunti i
+fatti addebitati ad __________, __________, __________ e __________, ha
+ordinato la congiunzione dei procedimenti a loro carico, essendo manifesta e
+chiara la connessione di questi quattro procedimenti e la necessità di una loro
+riunione in un unico giudizio, trattandosi sia di reati compiuti in qualità di
+coautori, sia di reati simili nei fatti e direttamente correlati. Il magistrato
+inquirente ha pure precisato che la congiunzione si giustifica sia per ragioni
+di opportunità che per ragioni di economia di giudizio.
+Giova precisare che in data 22
+aprile 2008 il Procuratore pubblico ha ordinato il deposito degli atti con
+scadenza al 9 maggio 2008, termine poi prorogato al 19 maggio 2008, dei
+procedimenti a carico dei reclamanti, di __________ e di __________, con
+produzione in copia anche dei rapporti di polizia giudiziaria, comprensivi di
+tutti i verbali (Polizia e PP), delle altre persone coinvolte nell’inchiesta __________.
+C.
+Avverso la decisione di
+congiunzione 21 aprile 2008 sono tempestivamente insorti, con due distinti
+gravami, __________ ed __________, postulandone l’annullamento.
+__________ chiede l’annullamento
+della decisione 21 aprile 2008 con conseguente constatazione che gli incarti
+aperti nei confronti di __________ stesso, __________, __________, __________, __________,
+__________, __________, __________ e __________ sono parte di un unico e solo
+procedimento.
+A dire del reclamante l’inchiesta
+__________ sarebbe sempre stata considerata da tutte le parti in causa come un
+solo ed unico procedimento condotto nei confronti di più imputati, i quali
+avrebbero tutti svolto un ruolo concreto ed attivo nello svolgimento dei fatti.
+Ciò sarebbe dimostrato anche dalla decisione 3 marzo 2008, con la quale il
+Procuratore pubblico aveva, tra l’altro, pronunciato la disgiunzione per cinque
+delle nove persone coinvolte; anche il GIAR avrebbe
+“fatto suo questo
+pensiero”
+nella decisione 4 aprile 2008. Di conseguenza, se una decisione
+doveva essere emanata dal magistrato inquirente, questa avrebbe dovuto semmai
+essere formale decisione di disgiunzione adeguatamente motivata e non invece
+una decisione di congiunzione. In altre parole, il Procuratore pubblico
+starebbe tentando di aggirare le norme in materia di congiunzione/disgiunzione.
+Già per questo motivo la decisione 21 aprile 2008 dovrebbe essere annullata.
+Inoltre, nella decisione
+impugnata, in violazione dell’art. 29 CF, non sarebbero neppure indicati i
+motivi per i quali gli incarti relativi alle altre cinque persone non sono
+stati congiunti. In tali circostanze, non sarebbe quindi necessario dilungarsi
+sui motivi per i quali tutte le persone indagate nell’ambito dell’inchiesta __________,
+perlomeno fino a quando non verrà emanata formale decisione di disgiunzione
+adeguatamente motivata, in ogni caso il reclamante rinvia a quanto sostenuto
+nel reclamo contro la precedente decisione.
+Anche __________ chiede
+l’annullamento della decisione 21 aprile 2008:
+“se deve esserci
+congiunzione, allora che la stessa avvenga non solo con i procedimenti a carico
+di __________, di __________ e di __________, ma anche con quelli avverso __________,
+__________, __________, __________ e __________. Altrimenti non ha logicamente
+senso processare il reclamante con __________, ovvero con __________ e __________”.
+A mente del reclamante la decisione impugnata sarebbe arbitraria e
+contraddittoria, nella misura in cui avrebbe disatteso le indicazioni del GIAR
+contenute nella decisione 4 aprile 2008, in particolare quelle secondo cui
+fosse da presumere la connessione di tutti i procedimenti aperti nell’ambito
+dell’inchiesta __________. Inoltre, il magistrato inquirente avrebbe
+travalicato il principio dell’indivisibilità del procedimento penale aprendo
+per ogni singola persona indagata nell’ambito della medesima inchiesta un
+incarto con un numero diverso, ciò che comunque non sarebbe sufficiente per
+escludere l’unità dei procedimenti, con conseguente imperativa necessità di
+formalmente disgiungere quelli a carico dei supposti autori marginali. Già per
+questo motivo la decisione 21 aprile 2008 dovrebbe essere annullata.
+Inoltre tale decisione violerebbe
+la parità di trattamento, non essendovi motivi per congiungere unicamente i
+procedimenti a carico di __________, __________, __________ e __________. Da
+ultimo, il perdurare della carcerazione preventiva cui è tuttora astretto __________
+sarebbe piuttosto suscettibile di giustificare la disgiunzione di quel
+procedimento.
+Entrambi i reclamanti hanno
+chiesto che ai rispettivi reclami venisse concesso l’effetto sospensivo,
+richiesta respinta da questo giudice (cfr. ordinanza di intimazione del
+reclamo). Il reclamo presentato contro detto rifiuto da __________, è stato
+dichiarato inammissibile dal Tribunale federale.
+D.
+Con scritto 14 maggio 2008 il
+patrocinatore di __________ ha chiesto a questo giudice di trasmettergli le
+osservazioni formulate dal Procuratore pubblico facendo riferimento alla
+sentenza TF 25 gennaio 2008, 2D 1172007.
+in diritto
+1.
+Pacifica la competenza di questo
+ufficio, la tempestività e la legittimazione di __________ ed __________
+(accusati e destinatari della decisione impugnata) all'inoltro dei gravami.
+I reclami sono quindi ricevibili
+in ordine.
+2.
+Con la decisione impugnata il
+Procuratore pubblico, dopo aver precisato che precedentemente gli incarti erano
+stati considerati separati [(in proposito occorre evidenziare che,
+contrariamente a quanto sostenuto nei gravami, questo giudice nella decisione 4
+aprile 2008 non ha affatto ritenuto che tutti gli incarti fossero congiunti,
+limitandosi a rilevare al consid. 3 l’assenza di chiarezza antecedente alla
+decisione 3 marzo 2008 (incarti disgiunti o incarti congiunti?)], ognuno con un
+proprio numero, e quindi disgiunti tra loro, ha congiunto gli incarti a carico
+di __________, __________, __________ e __________.
+In particolare, nella decisione impugnata,
+dettagliatamente motivata, il magistrato inquirente, dopo aver indicato quanto
+emerso dall’istruttoria condotta (facendo pure riferimento ai singoli verbali
+di interrogatorio) nei confronti di __________ (fornitore), __________ ed __________
+(acquirenti primari di __________), e __________ il più importante acquirente
+di __________ ed __________, e, a sua volta, spacciatore), ha evidenziato la
+manifesta e chiara connessione di questi quattro procedimenti e la necessità di
+una loro riunione per un unico giudizio, trattandosi di reati compiuti sia in
+qualità di coautori che di reati simili nei fatti e direttamente correlati,
+precisando che conseguentemente la congiunzione si giustifica sia per ragioni
+di opportunità (trattandosi concretamente della stessa vicenda con accusati
+essenzialmente rei confessi e con versioni sostanzialmente simili) che per
+ragioni di economia di giudizio (potendosi procedere senza il minimo
+pregiudizio per le parti ad un solo ed unico procedimento dinnanzi ad un’unica
+corte giudicante).
+__________ ed __________, come
+detto, postulano l’annullamento della decisione impugnata, censurando la
+mancata congiunzione di tutti i procedimenti aperti nell’ambito dell’inchiesta __________;
+per contro, essi non contestano la congiunzione dei procedimenti a loro carico
+con quelli nei confronti di __________ e __________. __________ si limita
+unicamente a sostenere, con motivazione del tutto sommaria e quindi
+insufficiente, che non avrebbe senso la congiunzione con il procedimento a
+carico di __________.
+Così stando le cose i gravami
+devono essere dichiarati irricevibili.
+I vari procedimenti aperti
+nell’ambito dell’inchiesta __________ sono sempre stati separati e disgiunti
+tra loro, con un numero distinto, come evidenziato dal Procuratore pubblico
+nella decisione impugnata, non occorre qui esaminare i motivi per i quali il
+magistrato inquirente ha proceduto in tal modo. Verosimilmente nella precedente
+decisione annullata da questo giudice, l’aver deciso contestualmente la
+congiunzione e la disgiunzione è stato determinato da un eccesso di zelo da
+parte del Procuratore pubblico, ritenuto che effettivamente gli incarti sono
+stati trattati separatamente come peraltro corroborato dal diverso numero di
+incarto.
+I reclamanti, da parte loro, non
+hanno mai chiesto, neppure dopo aver ricevuto la decisione qui impugnata, al
+Procuratore pubblico, competente in prima istanza, la congiunzione di tutti i
+procedimenti aperti nell’ambito dell’inchiesta __________. Ne consegue
+l’irricevibilità di tale richiesta a questo ufficio, competente soltanto in
+seconda istanza.
+Nella misura in cui __________ si
+oppone alla congiunzione del suo procedimento con quello a carico di __________,
+il reclamo è irricevibile in quanto non sufficientemente motivato.
+I reclami devono quindi essere
+dichiarati irricevibili con seguito di tasse di giustizia e spese. Non si
+assegnano ripetibili.
+In considerazione dell’esito del
+gravame (irricevibilità nel merito), il problema di un doppio scambio di
+allegati non si pone nel caso in esame, ritenuto che si sarebbe comunque potuto
+prescindere dall’intimazione alle parti per osservazioni (cfr. anche DTF
+10.04.2008, 6B-343/2007 e 13.05.2008, 1B-117/2008). Abbondanzialmente, questo
+giudice ritiene la giurisprudenza citata dal reclamante __________ non
+necessariamente applicabile a reclami presentati nella fase istruttoria contro
+decisioni incidentali, in quanto essa si riferisce all’art. 6 cpv. 1 CEDU che
+non trova piena applicazione in tale fase procedurale (cfr. Piquerez, Procedure
+penale suisse, Zurigo 2000, ad 814). Si ricorda inoltre che, in sede di lavori
+preparatori, il doppio scambio di allegati dinanzi al GIAR è comunque stato
+escluso.
+Per i quali motivi,
+visti gli art. CP, 35, 36, 190,
+280, 281 e 282 CPP,
+decide
+1.
+Il
+reclami presentati il 30 aprile 2008 da __________ ed __________ sono
+irricevibili.
+2.
+La
+tassa di giudizio di fr. 800.-- e le spese di fr. 240.-- sono poste a carico
+dei reclamanti in ragione di ½ ciascuno. Non si assegnano ripetibili.
+3.
+La
+presente decisione è definitiva (a livello cantonale).
+Intimazione a (con copia delle
+osservazioni delle parti):
+giudice
+Ursula Züblin
