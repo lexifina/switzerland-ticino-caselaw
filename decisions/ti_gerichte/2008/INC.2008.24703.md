@@ -1,0 +1,389 @@
+---
+decision_id: "ti_gerichte_INC.2008.24703"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.24703"
+decided: "2008-06-13"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=98199&nX40_KEY=4711199&nTrefferzeile=1&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-139.md", "switzerland/bund/acts/311.0/art-172ter.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2008.24703
+
+## Regeste
+
+Libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 13.06.2008 INC.2008.24703
+Tessin Il Giudice dell'istruzione e dell'arresto 13.06.2008 INC.2008.24703
+Ticino Il Giudice dell'istruzione e dell'arresto 13.06.2008 INC.2008.24703
+
+Libertà provvisoria
+
+Incarto n.
+INC.2008.24703
+Lugano
+13 giugno 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 10 giugno 2008 da
+__________, __________
+patr. di fiducia dall’avv. __________, __________
+e qui trasmessa con
+preavviso negativo 12 giugno 2008 dal
+Procuratore pubblico Moreno Capella
+preso atto delle osservazioni 13
+giugno 2008 della difesa;
+visto l’inc. MP __________;
+ritenuto e considerato,
+in fatto
+A.
+__________ è stata arrestata,
+unitamente ad __________, il 14 maggio 2008 e nei suoi confronti è stata
+promossa l’accusa per i reati di ripetuto furto, danneggiamento e violazione di
+domicilio.
+L'arresto è stato confermato da
+questo giudice il giorno successivo ritenuta l'esistenza, oltre che di seri e
+concreti indizi di colpevolezza, di bisogni dell'inchiesta, pericolo di
+collusione fra le corree e pericolo di fuga (doc. 4, inc. GIAR 247.2008.1).
+B.
+L’accusata, dopo aver
+inizialmente dichiarato di essere venuta in Svizzera il 14 maggio 2008 con
+l’intenzione di commettere dei furti, ma di essere stata fermata dalla Polizia
+prima di avere la possibilità di metterli in atto, precisando nel contempo di
+non avere mai commesso/tentato di commettere furti in Svizzera, Paese nel quale
+sarebbe venuta la prima volta proprio il giorno dell’arresto, nel prosieguo
+dell’inchiesta ha ammesso di essere venuta altre volte in Svizzera e di avere
+commesso furti in due occasioni, la prima volta circa due anni fa con una
+ragazza di cui non ricorda il nome ed il 13 maggio 2008 con __________,
+precisando pure di essere stata altre volte in Svizzera, ma senza commettere
+furti. Dall’esame dei dati telefonici dell’utenza trovata in suo possesso è
+emersa la sua presenza in Svizzera dal 12.01.2008 al 14.05.2008 Swisscom, dal
+20.02.2008 al 13.05.2008 Sunrise e dal 12.01.2008 al 22.04.2008 Orange.
+Risultanze a fronte delle quali il Procuratore pubblico in data 6 giugno 2008 ha esteso l’accusa per titolo di furto aggravato.
+C.
+Con l’istanza qui in discussione __________,
+per il tramite del difensore, chiede di essere immediatamente posta in libertà
+provvisoria, se del caso previo versamento di una cauzione, per la quale si
+dovrebbe comunque chiedere l’aiuto di terzi.
+La difesa, dopo aver evidenziato
+che l’accusata istante avrebbe integralmente ammesso le proprie responsabilità
+per furti che, visto l’esiguo valore della refurtiva, potrebbero rientrare nel
+campo di applicazione dell’art. 172ter CP, sostiene che il mantenimento della
+detenzione preventiva non rispetterebbe il principio della proporzionalità e
+che, comunque, eventuali ulteriori atti istruttori potrebbero essere effettuati
+con l’accusata, peraltro al quarto mese di gravidanza, in stato di libertà
+provvisoria. Per quanto concerne il pericolo di fuga, allo stesso si potrebbe
+ovviare con la prestazione di una cauzione, mentre che non sarebbe dato
+concreto pericolo di recidiva, peraltro escluso dal GIAR in sede di conferma
+dell’arresto.
+D.
+Il Procuratore pubblico ha
+presentato preavviso negativo, evidenziando che alla scarcerazione di __________,
+nei cui confronti sono dati seri e concreti indizi di colpevolezza,
+segnatamente per il reato di furto aggravato, bisogni istruttori, pericolo di
+fuga e pericolo di recidiva. Il Magistrato inquirente evidenzia infine che il
+mantenimento della carcerazione preventiva sarebbe comunque rispettoso del
+principio di proporzionalità, tenuto anche conto delle pena minima prevista per
+il reato di furto aggravato.
+In sede di osservazioni la difesa
+si è riconfermata nell’istanza 10 giugno 2008, e richiamato il principio di
+celerità, ha postulato che, in caso di respingimento dell’istanza, questo
+giudice abbia a fissare al Procuratore pubblico un termine scadente il 20
+giugno 2008 per concludere l’inchiesta.
+In diritto
+1.
+__________, accusata e detenuta, è
+pacificamente legittimata a presentare istanza di libertà provvisoria. Il preavviso
+e l'incarto sono stati trasmessi tempestivamente ai sensi dell'art. 108 cpv. 1
+CPP: in particolare, il preavviso e l'incarto sono stati contestualmente
+recapitati “brevi manu” a questo ufficio la mattina del 12 giugno 2008 (ex art.
+20 cpv. 1 CPP); il termine di cui all'art. 108 cpv. 2 CPP scade lunedì 16 giugno
+2008 (ex art. 20 cpv. 3 CPP).
+2.
+I principi che reggono la materia, pur se noti al magistrato
+inquirente ed al difensore, vengono qui brevemente richiamati:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato
+gravi e concreti indizi di colpabilità per un crimine o un delitto e nel
+contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo
+2000 in
+re S.B., consid.
+4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco dei
+motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con maggior
+rigore nella loro valutazione, quanto più si è protratta la restrizione della
+libertà e quanto più si avvicina la conclusione delle indagini (REP 1988 pag.
+416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera
+dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+3.
+L'esistenza di gravi e concreti
+indizi di colpevolezza deve essere verificata d'ufficio, pur nei limiti di competenza
+di questo giudice derivanti da un lato dalla sua funzione - che è quella di
+esaminare l’esistenza dei presupposti per il mantenimento della misura
+restrittiva della libertà personale, e non di valutare nella sostanza
+l’esistenza di un reato -, e dall’altro - ma in maniera strettamente congiunta
+con quanto si viene di dire - dall’inopportunità di considerazioni di merito
+premature e, soprattutto, di competenza delle sedi di giudizio.
+Occorre innanzitutto precisare
+che, contrariamente a quanto sostenuto dalla difesa, ai fatti addebitati
+all’accusata non torna applicabile l’art. 172 ter CP, essendo l’intenzione
+dell’autore determinante e non il risultato effettivamente ottenuto (cfr. DTF
+123 IV 119; 122 IV 159): in concreto, anche volendo prescindere dal fatto che
+le dichiarazioni rilasciate dall’accusata istante quo al valore della refurtiva
+contrastano con quelle delle parti lese (__________), è innegabile che
+l’intenzione di chi commette furti in abitazioni non è certo quella di
+impossessarsi di beni di poco valore. Inoltre, dagli atti emergono elementi
+sufficientemente concreti per ritenere dato il reato di furto aggravato ai
+sensi dell’art. 139 cifra 2 e 3 CP, in quanto commesso in banda – per la quale
+sono sufficienti due persone e una certa reiterazione (cfr. B. Corboz, Le
+infractions en droit suisse, ed. 2002, ad art. 139 CP, p. 240 e 241, ATF 124 IV
+88) – e per mestiere – l'autore agisce professionalmente quando, a causa del
+tempo e dei mezzi consacrati alla sua attività delittuosa, come pure della
+frequenza degli atti durante un determinato periodo e dei redditi sperati o
+conseguiti, risulti che egli esercita la propria attività delittuosa alla
+stessa stregua di una professione, anche accessoria; è determinante che
+l'agente abbia deciso di procurarsi mediante la propria attività delittuosa
+redditi relativamente regolari, che contribuiscono in modo non trascurabile a
+soddisfare i suoi bisogni (cfr. B. Corboz, op. cit., p. 240 con rif.): nel caso
+in esame, si può ritenere, anche alla luce delle dichiarazioni rese dalle
+accusate, la volontà di associarsi al fine di commettere più infrazioni
+indipendenti, anche se non ancora determinate, entrambe hanno infatti
+dichiarato di essere venute insieme in Svizzera per commettere furti, e non una
+sola volta, gli attrezzi ed i guanti in lattice rinvenuti in loro possesso,
+nonché le modalità da utilizzate (furti con scasso), denotano pure una certa
+organizzazione ed “esperienza”, rilevato inoltre che entrambe non svolgono
+alcuna attività lavorativa.
+Ciò premesso, sono senz'altro
+dati sufficienti indizi di colpevolezza a carico di __________ per i reati di
+cui viene accusata, come peraltro emerge dalle dichiarazioni rese dall’accusata
+stessa, da ultimo nel verb. PP 6 giugno 2008, noto alle parti, al quale si
+rinvia integralmente.
+4.
+In merito ai bisogni istruttori
+atti a giustificare la detenzione preventiva ed il suo perdurare, vi é
+consolidata giurisprudenza (e dottrina):
+“In relazione ai bisogni istruttori, atti a
+giustificare la misura restrittiva della libertà personale, occorre ricordare
+che questi non s'identificano semplicemente con gli atti istruttori in quanto
+tali, o con gli accertamenti (ancora) da effettuare, bensì con il pericolo di
+collusione o d'inquinamento delle prove che (eventualmente) espone a rischio la
+corretta raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale
+suisse, ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697
+ss.; RDAT 1988 no. 24).
+In
+quest'ottica il fatto che l'inchiesta sia tuttora in corso non è, di per sé,
+decisivo, in quanto "
+Die Tatsache allein, dass noch nicht alle Beweise
+erhoben bzw. die Mitverdächtigen dingfest gemacht werden konnten oder dass der
+Angeschuldigte die Aussage verweigert, genügt nicht
+" (N. Schmid, op.
+cit., no. 701a).
+Occorre che l'indagato,
+se posto in libertà, possa pregiudicarne (o comprometterne) il corretto
+svolgimento e, conseguentemente, l'esito.
+E', inoltre, necessario che questa possibilità di
+pregiudicare la raccolta di elementi di prova si fondi su elementi concreti:
+"
+Jedoch genügt nach der Rechtsprechung des Bundesgerichtes die
+theoretische Möglichhkeit, dass der Angeschuldigte in Freheit kolludieren
+könnte, nicht, um die Fortsetzung der Haft oder        die Nichtgewährung von
+Urlauben unter diesem Titel zu rechtfertigen. Es mussen vielmehr konktrete
+Indizien für eine solche Gefahr sprechen
+." (DTF 117 Ia 257, cons.
+4 c.).
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza
+d'interessi (tra i due) in relazione al contenuto della deposizione (SJ 1990 p.
+438; DTF 117 Ia 257; ZR 72 no. 77 p. 19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66;
+Hauser/Schweri, Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13).”
+(GIAR 23
+settembre 2002 in re Y.)
+Nello
+stesso senso, la CRP:
+"I rischi di collusione e di inquinamento delle
+prove sono legati soprattutto ai bisogni dell'istruttoria. Da un lato si tratta
+generalmente di evitare o prevenire accordi tra l'imputato e i testimoni - già
+sentito o ancora da sentire - o i correi e complici non arrestati, messi in atto
+per nascondere al giudice la verità, dall'altro di impedire interventi
+fraudolenti del prevenuto in libertà sui mezzi di prova non ancora in possesso
+della giustizia, allo scopo di distruggerli o di alterarli a suo vantaggio. la
+possibilità di ostacolare in tal modo l'azione dell'autorità giudiziaria da
+parte del prevenuto deve essere valutata sulla base di elementi concreti, la
+realtà di questo rischio non potendo essere ammessa aprioristicamente ed in
+maniera astratta (DTF 117 Ia 257; Decisione TF 2.3.2000 in re A. e rif.; R.
+Hauser/E. Schweri, op. cit.
+§
+68 n. 13; G. Piquerez, op. cit. n. 2344 ss.)"
+(sentenza 16 settembre
+2004 in
+re B., CRP 60.2004.297
+)
+Riass
+umendo,
+per il mantenimento della carcerazione preventiva dell'accusato, non basta che
+vi siano ancora atti istruttori da esperire, ma è necessario che la prematura
+rimessa in libertà dell'accusato possa essere di nocumento proprio nell'ottica
+dell'assunzione delle prove che ancora mancano, e meglio in presenza di
+pericolo di collusione, quando cioè è lecito temere l'intervento dell'accusato
+su terze persone (siano essi correi, parti lese o semplici testi), o pericolo
+di inquinamento delle prove, termine più ampio che indica altri atteggiamenti
+suscettibili di falsare l'assetto probatorio, come la soppressione o
+l'alterazione di mezzi di prova, ecc..
+Va da sé che i criteri sopra
+esposti richiedono applicazione più restrittiva allorquando l'inchiesta (e la
+detenzione) è in corso da un certo tempo.
+Per quanto concerne i bisogni
+dell'inchiesta, il Procuratore pubblico evidenzia che, sulla scorta delle
+dichiarazioni di __________ e dei dati forniti dalle compagnie telefoniche quo
+alla presenza dell’accusata su suolo elvetico, sono stati chiesti i tabulati
+retroattivi di tale periodo relativi all’utenza in uso all’istante, per sua
+stessa ammissione da “parecchio tempo” (cfr. verb. pol. 22.05.2008 e ordine di
+sorveglianza 10.06.2008, approvato da questo giudice il giorno successivo), che
+permetteranno di verificare la presenza dell’accusata in Svizzera in concomitanza
+di furti e quindi verificarne la sua eventuale partecipazione, risultanze che
+dovranno poi essere contestate ad entrambe le accusate, senza il rischio di
+collusione fra le due.
+Il fatto che i suddetti atti
+istruttori non siano ancora stati effettuati, non può essere (ancora) ritenuto
+lesivo del principio di proporzionalità, tenuto conto del fatto che l'inchiesta
+è stata sin qui condotta in modo celere e preciso; l’autorità inquirente è comunque
+invitata a procedere celermente agli accertamenti mancanti, peraltro limitati
+ed esperibili in tempi brevi (nel rispetto dell'art. 102 cpv. 1 CPP).
+Tutto ciò premesso la
+scarcerazione di __________ appare ancora prematura.
+5.
+Il pericolo di fuga, per
+giustificare carcerazione preventiva, deve essere concreto e rivestire di una
+certa probabilità: in altri termini lo si ammette quando l’accusato, se posto
+in libertà, si sottrarrebbe con una certa verosimiglianza al perseguimento
+penale ed alla (eventuale) esecuzione della pena; la gravità della pena presumibile
+(comunque,
+”(…) elemento "indiziante" importante che va
+considerato attentamente per la valutazione del pericolo di fuga, il quale,
+secondo la prassi, aumenta più ci si avvicina al giudizio di merito, in
+presenza di una comminatoria di pena della reclusione e/o in assenza
+(ovviamente e sempre in caso di eventuale condanna) di prospettive per una
+sospensione condizionale (…) (M. Luvini, I presupposti materiali del carcere
+preventivo, in REP 1989 p. 287ss., p. 32; DTF 106 Ia 404; DTF 117 Ia 69; CEDU Vol.
+A IX p. 44; SJ 1981 p. 377, SJ 1980 186; N. Schmid,
+Strafprozessrecht, ZH 1997, no. 701).“
+GIAR
+16 novembre 2006, 345.2006.3; si veda, inoltre, DTF 14.1.2005, 1S.15/2004, e
+riferimenti) non basta, da sola, a motivare la carcerazione; occorre valutare l’insieme
+delle circostanze, tra cui il carattere dell’accusato, la sua morale, i legami
+famigliari, il domicilio, la professione, la situazione economica e tutti
+quegli elementi che rendono la fuga non solo possibile ma probabile (DTF 19
+gennaio 1999 in re G.S.; DTF 117 Ia 69).
+__________ è cittadina
+italiana, vive in __________, ma senza residenza regolare, con la famiglia, e
+non ha alcun legame con la Svizzera. L'istante non ha quindi alcun interesse a
+rimanere a disposizione delle autorità svizzere e la tentazione di riparare
+all'estero per sottrarsi al procedimento è quindi sorretta da sufficiente
+verosimiglianza ed il rischio di fuga appare probabile in modo concreto. Per
+contro, poco concreta la proposta, peraltro unicamente ventilata nell’istanza,
+ma non oggetto di petitum, di una cauzione, tenuto anche conto della situazione
+finanziaria dell’accusata e del fatto che comunque verrebbe versata da terzi,
+nonché ritenuto che in ogni caso trattasi di misura sostitutiva inidonea a
+scongiurare il pericolo di collusione, pure dato, come evidenziato sopra, nella
+fattispecie.
+6.
+Stabilita l’esistenza di bisogni
+dell’inchiesta e pericolo di fuga, quali motivi di interesse pubblico a
+giustificazione del mantenimento del carcere preventivo ci si può esimere dall’analizzare
+il paventato pericolo di recidiva e non tanto perché non sia dato in quanto non
+considerato al momento della conferma dell’arresto (d’altronde non erano noti a
+questo giudice i furti successivamente ammessi dall’accusata) dal momento che
+l’individuazione di una delle condizioni alternative a fondamento della
+detenzione cautelare è comunque sufficiente alla decisione, senza che sia
+necessario esaminarle tutte (cfr. GIAR 7.12.2004, inc. 2004.56103).
+7.
+La proporzionalità di una
+carcerazione (preventiva) deve essere analizzata da angolature diverse. Da un
+lato occorre mettere in relazione la durata del carcere preventivo con la
+gravità e complessità della fattispecie e con la pena presumibile e dall’altro
+occorre anche verificare il rispetto del principio di celerità (SJ 1981 p. 383
+e citazioni; art. 102 CPP).
+Nel caso in esame, il rischio di
+pena in caso di condanna (l’art. 139 cifra 2 prevede una pena minima edittale
+non inferiore a 90 aliquote giornaliere e l’art. 139 cifra una pena edittale
+non inferiore a 180 aliquote) è certamente superiore al carcere sin qui
+sofferto (circa 1 mese) e quello ancora da soffrire (l’inchiesta non è ancora
+conclusa, ma sembrano comunque previsti tempi brevi alla luce dei limitati
+ulteriori atti d’inchiesta da effettuare). Gli inquirenti hanno sino ad ora
+proceduto con celerità, non si ravvisano “tempi morti” e l’inchiesta non si
+trova, né si è mai trovata, in una situazione di stallo e neppure vi sono stati
+ritardi ingiustificati (cfr. DTF 16.11.2004, 1P630/2004).
+Ribadito, in ogni caso, l'obbligo
+per il magistrato inquirente di trattare con priorità i casi in cui l'accusato
+è in detenzione, con il formale invito all’attenzione ai precetti di celerità
+(art. 102 cpv. 1 e 176 cpv. 3 CPPT) che vogliono contenimento della possibile
+carcerazione preventiva, ciò che appare sufficiente, senza che sia necessaria,
+come invece postulato dalla difesa, la fissazione di un termine.
+Da ultimo per quanto concerne lo
+stato di gravidanza di __________, si rileva che alla stessa è comunque
+garantita assistenza medica e che comunque la circostanza di essere incinta non
+le ha impedito di venire in Svizzera (3 volte nel solo mese di maggio, cfr.
+verb. pol. 22.05.2008 e PP 6.06.2008) per commettere furti.
+8.
+In conclusione, sufficienti
+presupposti di legge, come anche esplicitati dalla prassi e dalla
+giurisprudenza, sono presenti nella situazione personale e processuale di __________
+a legittimare e giustificare il perdurare della cautelare privazione della sua
+libertà, nel rispetto dei principi di proporzionalità e celerità nei termini
+suesposti. La detenzione sin qui sofferta non viola (al momento attuale) il
+principio di proporzionalità, né l’obbligo di celerità. Di conseguenza,
+l’istanza di libertà provvisoria in discussione, deve essere respinta con la
+presente decisione, esente da tassa e spese giudiziarie (art. 39 let. f TG e
+contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali del
+Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati gli articoli 139, 144,
+186 CP, 95ss, 102, 103, 279ss, 284 CPP,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
