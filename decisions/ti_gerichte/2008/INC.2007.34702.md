@@ -1,0 +1,637 @@
+---
+decision_id: "ti_gerichte_INC.2007.34702"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2007.34702"
+decided: "2008-08-11"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=98862&nX40_KEY=4711196&nTrefferzeile=3&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-251.md", "switzerland/bund/acts/312.0/art-079.md", "switzerland/bund/acts/312.0/art-164.md", "switzerland/bund/acts/312.0/art-165.md", "switzerland/bund/acts/312.0/art-178.md", "switzerland/bund/acts/312.0/art-186.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2007.34702
+
+## Regeste
+
+Accesso atti
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 11.08.2008 INC.2007.34702
+Tessin Il Giudice dell'istruzione e dell'arresto 11.08.2008 INC.2007.34702
+Ticino Il Giudice dell'istruzione e dell'arresto 11.08.2008 INC.2007.34702
+
+Accesso atti
+
+Incarto n.
+INC.2007.34702
+Lugano
+11 agosto 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente
+per statuire sul reclamo presentato il 20/23 giugno 2008 da
+sedente
+per statuire sul reclamo presentato il 20/23 giugno 2008 da
+__________
+contro
+la
+concessione solo parziale dell’accesso agli atti del procedimento di cui
+all’inc. MP __________ asseritamente contenuta nel NLP __________ emanato dal
+Procuratore pubblico Fiorenza Bergomi l’11 giugno 2008;
+viste le osservazioni del Procuratore pubblico (3/4
+luglio 2008), quelle di __________ (27/30 giugno 2008) e quelle di __________
+(5/8 luglio 2008);
+richiamata l’ordinanza (relativa a ricevibilità e
+competenza) del 18 luglio 2008;
+esperita un’udienza il 5 agosto 2008;
+visto l’inc. MP __________;
+ritenuto e considerato,
+in fatto ed in diritto
+1.
+Per quanto concerne gli elementi essenziali del
+procedimento sul quale si innesta il reclamo, nonché le argomentazioni delle
+parti in relazione all’oggetto dell’impugnativa, si può riprendere quanto già
+detto e riassunto nell’ordinanza 18 luglio 2008 mediante la quale da un lato si
+constatava competenza di questo ufficio e ricevibilità del reclamo, dall’altro
+si citavano le parti per un’udienza:
+“
+-  come già constatato in precedente
+sentenza di questo ufficio “
+Con scritto del 6 giugno 2006 (AI 1), __________
+e __________ hanno denunciato __________ per truffa e falsità in documenti in
+relazione al fatto che una relazione bancaria (presso __________) intestata a __________
+(marito, rispettivamente padre), deceduto il 23 luglio 2001, sarebbe stata
+addebitata a favore di un’altra relazione mediante un ordine datato 12 luglio
+2001 apparentemente firmato dal defunto e, per quanto da loro accertato,
+portato in banca dalla denunciata in data 8 agosto
+2001
+”
+(GIAR 20 settembre 2007, 347.2007.1);
+-  nella sentenza testé citata
+(anch’essa relativa alla problematica dell’accesso agli atti), questo giudice,
+dopo aver constatato che le informazioni preliminari erano in corso da oltre un
+anno, che l’ultimo elemento probatorio era stato acquisito nel marzo del 2007,
+che la denunciata __________ non era ancora stata sentita, che il magistrato
+inquirente non aveva ancora individuato sufficienti elementi per promuovere
+l’accusa e che la decisione impugnata era “
+quantomeno generica
+” in
+merito alle ipotesi di reato e al seguito, nonché all’oggetto, delle indagini,
+aveva concluso che “
+Questa situazione processuale, oltre ad imporre un
+maggior riguardo a favore degli interessi di terzi (tra i quali gli indagati)
+prima di concedere accesso agli atti alle denuncianti, non permette a questo
+giudice (che non deve sostituirsi al Procuratore nella determinazione negli
+elementi di fatto e di diritto a supporto del fondamento di un procedimento
+penale) di esprimersi con sufficiente cognizione di causa, e tenuto conto dello
+stadio dell’inchiesta, sulla (eventuale) pertinenza dei vari atti per
+sostanziare (eventuale) colpevolezza e risarcimento
+” e, di conseguenza,
+aveva annullato la decisione di completo accesso agli atti alle qui reclamanti,
+con “
+incarto ritornato al magistrato inquirente per quanto di sua competenza
+(seguito della procedura e, se del caso, nuova decisione in merito)
+”;
+-  dall’elenco atti dell’inc. MP __________,
+risulta che successivamente alla decisione di questo ufficio, oltre ad alcuni
+atti di carattere amministrativo, si è proceduto all’interrogatorio della
+denunciata (AI 55, del 25 gennaio 2008) ed a quello di un teste (AI 58, del 15
+febbraio 2008); non risultano ulteriori decisioni (e neppure richieste delle
+parti) in merito all’accesso agli atti precedenti la decisione di non luogo a
+procedere dell’11 giugno 2008;
+-  con la decisione dell’11 giugno 2008,
+il magistrato inquirente ha decretato di non far luogo a procedimento per i
+reati denunciati; nei considerandi della decisione ha disposto di permettere
+alla parte denunciante di accedere (senza facoltà di estrarre fotocopia) ad
+alcuni atti singolarmente indicati, asseritamene per rispettare “
+principio
+di proporzionalità e al fine di permettere alla parte denunciante di impugnare
+(leggasi istanza di promozione dell’accusa) la presente decisione
+” e la
+decisione 20 settembre 2007 del GIAR che indicherebbe come gli atti del
+procedimento non possano venire messi a disposizione in maniera integrale ed
+indiscriminata (cfr. considerando n. 8);
+-  le reclamanti contestano la
+limitazione di accesso agli atti e di fotocopiatura, considerandole lesioni dei
+diritti della parte civile sanciti dal CPP e dalla giurisprudenza, con
+conseguente impedimento a contribuire all’accertamento di reati a loro danno
+(nella sostanza: verifica della fondatezza della decisione di non luogo a
+procedere e completezza dell’istanza di promozione dell’accusa); nel contempo
+precisano di aver già inoltrato l’istanza di promozione dell’accusa (per
+rispettare i termini), segnalando (alla CRP) il presente reclamo e chiedendo
+facoltà di completazione dell’istanza; sempre a dire delle reclamanti, il
+procedimento non può dirsi concluso dato che il decreto di non luogo è al
+vaglio della CRP;
+-  il magistrato inquirente, in sede di
+osservazioni, sostiene irricevibilità del reclamo in quanto la competenza di
+questo giudice ex art. 280 CPP non sarebbe più data vista la conclusione delle
+indagini preliminari (in analogia con la chiusura dell’istruttoria formale);
+subordinatamente segnala che il reclamo andrebbe anche respinto nel merito in
+quanto il fatto che gli ulteriori atti d’inchiesta non hanno condotto a
+promozione dell’accusa, bensì al non luogo, farebbero sì che le “
+limitazioni
+di accesso agli atti di cui alla sentenza del 20 settembre
+2007
+”
+valgono a maggior ragione allo stadio attuale, tanto
+più che l’istanza di promozione d’accusa ha potuto essere inoltrata;
+-  anche gli indagati __________ e __________,
+chiedono che il reclamo sia respinto; il primo assevera che la situazione, per
+rapporto alla sentenza di questo giudice del 20 settembre 2007, è mutata solo
+nel senso che sarebbe ormai stabilita la regolarità dell’operazione bancaria
+fin qui oggetto di indagine; la seconda, oltre a considerazioni di merito
+analoghe (“
+L’istruttoria esclude definitivamente l’ipotesi  di una lesione
+degli interessi economici delle denuncianti e, dunque, una qualsiasi ipotesi di
+reato
+”, Osservazioni, punto
+7 in
+fine), sostiene “
+efficacia conclusiva
+” della
+decisione GIAR 20 settembre
+2007 in
+ragione del __________ e chiede, invero nei
+considerandi, sospensione della trattazione del reclamo fino ad evasione della
+decisione della CRP in merito all’istanza di promozione dell’accusa;
+(Ordinanza 18 luglio 2008, GIAR 347.2007.2)
+2.
+Ricevibilità del reclamo e competenza di questo
+ufficio in materia, vengono qui ribaditi con rinvio alle motivazioni
+esplicitate nell’ordinanza del 18 luglio 2008, e meglio:
+-  da quanto sopra esposto, consegue che
+questioni preliminari da risolvere sono quelle della ricevibilità del reclamo e
+della competenza di questo ufficio (stante l’emanazione del __________ e la
+pendenza di una istanza di promozione d’accusa);
+-  in merito, e riassuntivamente, occorre constatare e
+ricordare, innanzitutto, che:
+·
+l’accesso agli atti può essere concesso già nella fase
+delle informazioni preliminari,
+·
+queste si concludono con la crescita in giudicato del
+decreto di non luogo a procedere, della promozione dell’accusa o del decreto
+d’accusa (se del caso nella sua funzione di rinvio a giudizio),
+·
+durante la fase delle informazioni preliminari, in
+relazione a decisioni o omissioni (formali o di fatto), è applicabile l’art.
+280 CPP e data la competenza di questo ufficio;
+·
+nel caso in esame il decreto d’accusa non è (ancora)
+cresciuto in giudicato;
+-  inoltre, e senza addentrarsi in
+considerazioni sulla tempistica della decisione (contestualmente al __________)
+e su quella dell’esplicazione dei suoi effetti in relazione agli atti per i
+quali è stata concessa visione (posteriormente al __________), seguire la tesi
+dell’irricevibilità del reclamo e dell’incompetenza di questo ufficio in
+ragione della (per così dire, semplice) emanazione del decreto di non luogo a
+procedere comporterebbe anche negare facoltà di reclamo (e correlata
+possibilità di chiedere l’effetto sospensivo) all’indagato per quegli atti per
+i quali l’accesso è eventualmente stato concesso (come nel caso che ci occupa),
+rispettivamente in caso di concessione dell’accesso integrale; senza
+dimenticare che quest’ultimo non ha facoltà di presentare istanza di promozione
+dell’accusa;
+-  di conseguenza, e di principio, il
+ricorso dovrebbe essere dichiarato ricevibile e la competenza di questo giudice
+data;
+-  prima di accertare definitivamente
+quanto sopra, è opportuno chiedersi se la presenza concreta (nel caso in esame)
+di un’istanza di promozione dell’accusa non imponga conclusione diversa in
+ragione dell’eventuale rischio di conflitto di competenza con
+la CRP
+; in effetti a
+tale conclusione (di incompetenza) si giunge nei casi di impugnativa di un
+dissequestro emanato contestualmente al decreto ad un __________ (cfr. per
+tutte GIAR 6 agosto 2001, 318.2001.1);
+-  la risposta, a giudizio di questo
+giudice, deve esser negativa; il dissequestro é conseguenza legale
+dell’eventuale __________ (art. 165 cpv. 1 CPP), diventa esecutivo con la
+crescita in giudicato del __________ (e non dovrebbe essere dichiarato
+immediatamente esecutivo), la sua fondatezza deriva dagli elementi al vaglio
+della CRP (sufficienti indizi di reato) e, in sé, non ha alcuna rilevanza per
+la comprensione della motivazione del __________ rispettivamente per le
+argomentazioni dell’istanza di promozione dell’accusa; l’accesso agli atti, di
+contro, ha effetto anche prima della crescita in giudicato e non può essere
+ritenuto
+a priori
+irrilevante per la verifica del __________ (diritto ad
+una decisione correttamente motivata) e per le eventuali argomentazioni
+dell’istanza di promozione dell’accusa, quindi del diritto di essere sentito
+(che
+la CRP
+non potrebbe garantire con la decisione di merito ma, se del caso con
+una decisione preliminare incidentale, come quella del GIAR); il conflitto è
+pertanto solo apparente; certo, il rischio di concedere accesso agli atti in un
+procedimento che l’autorità superiore dovesse poi dichiarare privo di
+fondamento esiste ma tale rischio (comunque inevitabile ogni qual volta vi sono
+degli atti d’inchiesta successivi alla notizia di reato e/o un accesso agli
+atti è già stato concesso prima del non luogo o, come nel caso in esame,
+contestualmente allo stesso) deve essere assunto e non giustifica una
+dichiarazione di irricevibilità e/o di incompetenza da parte di questo ufficio;
+restano ovviamente validi, se non addirittura accresciuti in ragione delle
+intenzioni manifestate dal magistrato inquirente con il non luogo, i criteri di
+prudenza (già richiamati nella decisione del 20 settembre 2007) che devono
+presiedere alla decisione in materia di accesso agli atti;
+-  quindi, e in conclusione, il reclamo
+deve essere dichiarato ricevibile (nel merito ed in ordine) così come
+riconosciuta la competenza di questo ufficio;
+(Ordinanza 18 luglio 2008, GIAR 347.2007.2)
+Si ricorda, inoltre, che la decisione qui impugnata è
+contestuale al __________ e non successiva allo stesso (circostanza,
+quest’ultima, che avrebbe potuto porre qualche problema supplementare quo alle
+competenze: cfr. GIAR 5 dicembre 2005, 91.2005.2
+“…dopo l'emanazione di un decreto di __________ (come di un __________)
+il Procuratore pubblico non ha più competenze giurisdizionali proprie e, di
+conseguenza, non sono dati i rimedi di cui all'art. 280 ss. CPP; …il rifiuto di
+concedere fotocopiatura degli atti dopo l'emanazione di una decisione di non
+luogo o di abbandono non è decisione emanata in fase istruttoria o di indagini
+preliminari, bensì in attesa della crescita in giudicato del relativo decreto;
+…”
+)
+3.
+Per il seguito della procedura si è ritenuto di indire
+un’udienza, in quanto:
+-
+in proposito, occorre constatare
+che pur riferendosi al principio richiamato nella decisione 20   settembre 2007
+(in una procedura, è bene ricordarlo, che ha annullato la decisione che
+concedeva        accesso integrale nella fase delle informazioni preliminari)
+secondo cui gli atti non possono essere          messi a disposizione delle
+parti in maniera integrale e indiscriminata, il magistrato inquirente non              indica
+il discrimine utilizzato, rispettivamente lo indica in modo insufficiente e
+troppo generico laddove               si volesse sostenere che è implicitamente
+contenuto nel riferimento al rispetto del principio di    proporzionalità e
+alla finalità di permettere impugnativa (e motivazioni implicite non sono
+ammesse:              CRP 28 settembre 2004, 60.2004.189);
+-  di fatto, sulla questione di merito, la motivazione
+è, se non assente, perlomeno carente e impedisce      alla parti di esprimersi
+concretamente in merito e a questo giudice di verificare adeguatezza del       criterio
+scelto e (circostanza ancor più importante) corretta applicazione in relazione
+al caso concreto         (CRP 20.8.2007, 60.32007.174);
+-  le osservazioni, peraltro incentrate
+sull’irricevibilità del reclamo, non apportano elementi di ulteriore        utilità;
+-  al fine di completare la lacuna e
+garantire alle parti il diritto di essere sentite, vista la particolarità del
+caso (accesso agli atti parziale e limitato ad una decina di documenti,
+nell’ambito di informazioni preliminari in corso da due anni e che contano di
+oltre cinquanta atti, concesso contestualmente al non luogo e da decidere
+pendente l’istanza di promozione dell’accusa) appare più opportuno, in luogo e
+vece di un rinvio per integrazione della motivazione, procedere mediante la
+convocazione di una udienza.
+(Ordinanza 18 luglio 2008, GIAR 347.2007.)
+4.
+In sede di udienza (doc. 11, inc. GIAR 347.2007.2),
+per la scelta dei documenti cui è stato dato accesso alle denuncianti, il
+magistrato inquirente ha indicato il riferimento ai seguenti criteri: menzione
+esplicita nel __________, utilizzo ai fini della decisione stessa, relazione
+(stretta) con l’operazione oggetto della denuncia e delle indagini preliminari.
+I patrocinatori degli indagati, che non avevano
+contestato l’elenco proposto nella decisione del magistrato inquirente, hanno
+condiviso le argomentazioni sopra riportate sottolineando, inoltre, che nella
+valutazione degli interessi preminenti non si può non considerare il fatto che
+un giudice civile ha sentenziato per la legittimità del trasferimento in
+questione e un magistrato penale, sullo stesso procedimento, non ha rilevato
+elementi atti ad una promozione dell’accusa.
+Il patrocinatore delle reclamanti, di contro, ha
+contestato le argomentazioni del magistrato inquirente (di conseguenza i
+criteri utilizzati) ritenendole soggettive e fondate sulle proprie convinzioni;
+a suo dire, documenti che andassero in direzione opposta a quella scelta dal
+magistrato inquirente non sarebbero resi accessibili, con conseguente
+limitazione dei diritti di impugnativa delle parti civili in relazione alla
+decisione “di merito”.
+5.
+Le norme ed i principi applicabili in materia di
+accesso agli atti, con particolare riferimento alla fase delle indagini
+preliminari, sono già stati enunciati in una decisione emanata nell’ambito di
+questo stesso procedimento (decisione 20 settembre 2007, 347.2007.1), cui si
+può (ancora) fare esplicito riferimento:
+“
+8.
+a)
+Di principio, in quanto parte processuale, anche la
+parte civile beneficia del diritto di accesso agli atti, espressione del
+diritto di essere sentiti garantito dagli art. 29 cpv. 2 e 32 cpv. 2 Cost.fed..
+Ai sensi dell’art. 79 cpv. 2 CPP, la parte civile può
+prendere conoscenza degli atti e dei documenti e riceverne copia, ove
+necessario all’esercizio dei suoi diritti, salvo contrarie esigenze d’inchiesta
+e salvo contrari interessi preminenti dell’accusato o di terzi.
+Come per l'accusato ed il suo difensore, quindi, anche
+il diritto della parte civile di accedere agli atti del procedimento non è
+assoluto.
+In primo luogo, come tutte le prerogative processuali
+che le competono, anche l'accesso all'incarto penale deve essere limitato agli
+atti concernenti il reato che l'ha danneggiata (“
+l'accesso agli atti della
+parte civile deve, se del caso, essere limitato a quelli che permettono di
+sostanziare colpevolezza, rispettivamente risarcimento, per i fatti che la
+vedono direttamente danneggiata (artt. 69 e 251 cpv. 3 CPP)
+” GIAR 13
+ottobre 2004, 517.2004.1; si veda anche l’art. 79 CPP); la parte civile sarà
+perciò esclusa, per esempio, dalla consultazione di atti che non concernono il
+reato che l'ha danneggiata o che, pur riferendosi a questo reato, non hanno
+relazione né con l'accertamento della colpevolezza né con il risarcimento.
+In secondo luogo, il diritto di consultare l'incarto e
+di estrarne copie può essere limitato sia per prevalenti necessità d'inchiesta
+(pericolo d'inquinamento delle prove o di collusione), sia qualora sussistano
+preminenti e contrari interessi dell'accusato o di terzi. Quest’ultima riserva
+(non presente nelle norme che concernono l’accusato) vuole parare all'indebito
+uso del procedimento penale per ottenere accesso a notizie (altrimenti
+inaccessibili) da eventualmente usare in altra sede (“
+L’accesso agli atti
+nonché l’estrazione di fotocopie possono essere preclusi o ulteriormente
+limitati a salvaguardia di “interessi preminenti dell’accusato o di terzi”. Già
+si è fatto cenno al caso del sequestratario estraneo al procedimento penale,
+che chiede al magistrato inquirente di vietare l’accesso agli atti alla parte
+civile. A maggior ragione degni di tutela sono gli interessi dell’accusato. In
+particolare l’accresciuta possibilità di restrizione del diritto di accesso
+agli atti della parte civile vuole prevenire quei casi in cui sussista fondato
+motivo di temere che di tale facoltà possa essere fatto abuso, segnatamente che
+il vero interesse sia di utilizzare le informazioni acquisite in altra sede,
+civile o privata, ma comunque al di fuori della procedura penale in oggetto
+”
+L. Marazzi, Il GIAR, l’arbitro nel processo penale, ed. dalla Commissione
+ticinese per la formazione permanente dei giuristi, Lugano 2001).
+b)
+Il fatto che giurisprudenza e dottrina abbiano già
+precisato che il diritto di accedere agli esplica i suoi effetti già in sede di
+informazioni preliminari, sia per l’indagato che per la parte civile (REP 1996
+n. 106; REP 1995 n. 92; L. Marazzi, Il GIAR l'arbitro nel processo penale, 2001
+p. 43), non significa automatico diritto ad un accesso integrale e/o
+indiscriminato (sui motivi sostanziali delle determinazioni dottrinali e
+giurisprudenziali si veda L. Marazzi, op. cit. pagg. da
+10 a
+15 e 41).
+Certo, più l'inchiesta avanza più diventa difficile
+porre limitazioni all'accesso agli atti (o di modalità d'accesso, pur
+distinguendo le due cose in relazione agli effetti concreti) senza violare
+diritti sostanziali delle parti al procedimento, nel contempo però, e quasi per
+contrasto, laddove ancora non sono stati individuati sufficienti indizi di
+reato per promuovere l'accusa contro una determinata persona (art. 178 CPP)
+molto più peso va dato agli interessi di terzi (tra i quali l’indagato), prima
+di concedere accesso agli atti alle (eventuali) parti civili. Ciò, sia per
+prevenire strumentalizzazioni della procedura penale per fini, civili o
+privati, estranei agli scopi dell'azione penale stessa (L. Marazzi, op. cit.,
+ibidem; DTF 26.3.1999 in re P.; 6P.29/1999; GIAR ), sia per evitare che le
+parti abbiano accesso ad atti (di pertinenza di terzi) grazie ad un
+procedimento penale che si riveli privo di fondamento.”
+(GIAR 20 settembre 2007, 347.2007.1)
+Inoltre, sempre in quella sede si era constatato che,
+nonostante la durata delle informazioni preliminari,
+“… il magistrato
+inquirente non ha ancora individuato sufficienti indizi di reato per promuovere
+l'accusa contro la denunciata e qui reclamante …
+”, situazione che
+contribuisce anche a “
+imporre un maggior riguardo a favore degli interessi
+di terzi (tra i quali gli indagati) prima di concedere accesso agli atti alle
+denuncianti
+” e che:
+“10.
+Abbondanzialmente, ma comunque a ulteriore conferma di
+quanto appena detto, si rileva anche che:
+·
+perlomeno parte della documentazione
+agli atti è “personale”e non accessibile alle denuncianti al di fuori del
+procedimento penale;
+·
+la qualità di vittime/parti lese
+delle denuncianti si fonda su presupposti di diritto successoriale e concerne
+fondi che potrebbero anche non essere fiscalmente dichiarati (come ipotizzato
+dal funzionario di banca sentito il 10 ottobre 2006); il rischio di utilizzo
+strumentale (in altro procedimento e/o nei confronti della denunciata) non può
+essere scartato (e, perlomeno fintanto che ci si trova nell’ambito delle
+informazioni preliminari, preservato);
+·
+se è vero che il diritto di
+accedere agli atti delle denuncianti non dipende dalla discrezionalità della
+reclamante, è altrettanto vero che dalla disponibilità a trasmettere un
+documento non costituisce riconoscimento del diritto d’accesso a tutti gli
+altri (così come il fatto che non ci si opponga all’acquisizione/sequestro e
+visione da parte del PP non può essere intesa come “accordo” per una
+visione/accesso a tutte le altre parti alla procedura);
+·
+in presenza di un eventuale
+decisione di non luogo a procedere, la parte civile che intendesse proporre
+istanza di promozione dell’accusa non avrebbe automatico diritto di accesso a
+tutti gli atti acquisiti nel corso delle informazioni preliminari; anche in
+simile eventualità (e prescindendo dal fatto che il non luogo a procedere
+comporta decadenza delle misure cautelari poste in essere e, quindi, anche dei
+sequestri con conseguente restituzione) varrebbero i principi indicati al considerando
+n. 8 della presente.”
+(GIAR 20 settembre 2007, 347.2007.1)
+Constatazioni e considerazioni che vengono qui
+confermate e ribadite con l’aggiunta che con la decisione di __________ il
+magistrato inquirente ha ora definitivamente (per parte sua) affermato di aver
+concluso le indagini preliminari e di non ritenere presenti elementi a
+giustificazione di una promozione dell’accusa. Quindi, se una limitazione
+dell’accesso agli atti può giustificarsi (anche) in ragione del fatto che ci si
+trova nella fase delle informazioni preliminari (CRP 13 dicembre 2004,
+60.2004.265, cons.
+6 in
+fine), la presenza di una decisione di non luogo
+impone, a giudizio di questo giudice, cautela ulteriore.
+6.
+a)
+In presenza di un non luogo a procedere motivato, la
+pretesa parte lesa costituita parte civile ha la facoltà di presentare alla CRP
+un’istanza motivata di promozione dell’accusa (art. 186 cpv. 1 CPP) i cui
+presupposti sono l’esistenza di seri indizi di colpevolezza la disponibilità di
+nuovi mezzi di prova (CRP 12 giugno 2008, 60.2008.156). In sostanza, fondandosi
+su prove, rispettivamente indizi seri, l’istante deve dimostrare con alto grado
+di verosimiglianza che altra conclusione, rispetto a quella del procuratore
+pubblico, merita approfondimento istruttorio (M. Mini, L’istanza di promozione
+dell’accusa: art. 186 CPP, in RTD, I-2004, pagg. 249 ss., p. 263). Inoltre, in
+presenza di carenze nell’apprezzamento dei fatti e/o di apprezzamento erroneo
+di una circostanza di fatto (ed in qualche altro caso più formale/giuridico),
+la CRP
+può ordinare
+la completazione delle informazioni preliminari (M. Mini, op. cit., pag. 272 e
+giurisprudenza citata).
+b)
+Ora, se è vero che dal profilo teorico tutto quanto
+acquisito (per quanto concerne la documentazione bancaria, e per quanto qui
+interessa, indipendentemente dalle modalità e dal chiedersi se nel dissequestro
+è compresa anche la documentazione; sulla questione, in generale, si vedano
+GIAR 23 marzo 1994, 224.1994.1, DTF 7 marzo 2007, 1P.853/2006, cons. 3.2. in
+fine, art. 164 CPP) e attualmente (materialmente) agli atti, dovrebbe avere una
+relazione con i fatti oggetto delle informazioni preliminari, dal profilo
+concreto ciò non è necessariamente il caso. Vi possono essere, a seconda dei
+casi e delle circostanze elementi acquisiti casualmente (assieme a altri), a garanzia
+futura (non essendo ancora chiaro l’esito delle informazioni preliminari) o
+perché prodotti abbondanzialmente dall’accusato all’intenzione della sola
+autorità, rispettivamente elementi che concernono un indiziato e non l’altro,
+oppure un reato e non altri. Inoltre, e per quanto concerne la fase delle
+indagini preliminari, non tutti gli elementi agli atti costituiscono prove o
+seri elementi indizianti le ipotesi di reato, rispettivamente elementi
+indispensabili per argomentare in relazione alle necessità di approfondimento
+istruttorio (o completazione delle informazioni preliminari), cioè circa la
+(non) fondatezza del non luogo a procedere.
+Occorre anche ricordare che la promozione dell’accusa
+non è un giudizio di merito sull’esistenza di un reato e che
+la CRP
+esamina
+liberamente il fatto ed il diritto (M. Mini, op. cit. pag. 266), così come i
+presupposti dell’istanza quali la legittimazione. Per contestare, con alto
+grado di verosimiglianza, la fondatezza di un decreto di non luogo a procedere,
+a giudizio di questo giudice, basta la conoscenza (quindi l’accesso) degli
+elementi “probatori” raccolti strettamente connessi con i fatti denunciati
+quali reati (nel caso specifico il trasferimento di fondi, ritenuto illecito
+dalle denuncianti, e il documento, ritenuto falso ). Altri elementi, di
+carattere circostanziale o comunque non strettamente inerenti i fatti ritenuti
+costitutivi di reato (bensÌ fasi precedenti o successive agli stessi), possono
+magari essere di qualche utilità per valutazioni successive (istruttorie o di
+merito), ma non necessariamente per la contestazione del non luogo.
+c)
+Pertanto, i criteri indicati dal magistrato inquirente
+(atti esplicitamente citati nella decisione e atti relativi all’operazione di
+denuncia) appaiono congrui a garantire l’esercizio del diritto della parte
+civile a presentare un’istanza di promozione dell’accusa (ricevibile; sulla
+questione cfr. M. Mini,op. cit., p. 251), con cognizione di causa. Inoltre, il
+secondo criterio indicato (ovviamente se rispettato) evita anche il rischio,
+paventato dalle reclamanti, di una scelta (per così dire) soggettiva da parte
+del magistrato inquirente, influenzata delle convinzioni che l’hanno indotto al
+__________.
+7.
+Nel caso in esame, gli atti ai quali è stato concesso
+accesso corrispondono agli AI 1 (denuncia), 8 (verbale __________), 21
+(sentenza civile del 23 gennaio 2007), 55 (verbale __________), 58 (verbale __________),
+nonché a due verbali (__________e __________) estratti dall’AI 14 (incarto
+civile) e tre documenti bancari (ordine 12 luglio 2001, memorandum 8 agosto
+2001, memorandum 4 settembre 2001) allegati all’AI 8.
+Dalla lettura del __________ non risulta (e neppure le
+reclamanti lo sostengono) che altri documenti siano citati, o utilizzati con
+dei riferimenti, oltre quelli cui l’accesso è stato concesso, con l’eccezione
+dello scritto 25 agosto 2006 della banca (che, a richiesta del PP, fornisce
+spiegazioni sulle date di apertura della relazione ricevente i fondi,
+sull’ordine di trasferimento e le varie fasi che hanno condotto alla sua
+esecuzione; cfr. AI 5 e 6).
+Dall’analisi dell’elenco atti, scremati tutti quelli
+relativi a ordini (di cui in questa sede, semmai, interessa il risultato),
+citazioni, corrispondenza procedurale da e con i legali, istanze già altrimenti
+note (così come le decisioni di questo ufficio) e corrispondenza/documentazione
+relativa alla gestione degli averi sotto sequestro (cfr. considerando n. 7. del
+__________), tutti privi di rilevanza quo alle incombenze per la promozione
+dell’accusa, restano pochi atti (AI 3, 4, 5, 6, 24, 32, 33, 35, 36) sui quali
+interrogarsi in merito alla corretta applicazione dei criteri indicati dal
+magistrato inquirente. Trattasi, per tutti quelli indicati ad eccezione dell’AI
+14, di documentazione prodotta dalla banca presso la quale è avvenuta
+l’operazione oggetto di denuncia e nella quale è stato formato e prodotto il
+documento soggetto ad analisi ex art. 251 CP, contenente le risposte alla
+richiesta del magistrato inquirente di fornire indicazioni e documentazione (di
+apertura, estratti, stati patrimoniali) in relazione a tutte le eventuali
+relazioni, in essere o estinte, riconducibili al defunto, rispettivamente alla
+denunciata __________ (AI 3), le relative completazioni e/o spiegazioni
+tecniche in merito a denominazioni (AI 4) nonché indicazioni su operazioni
+effettuate nel 2007 (AI 32, 33, 35, 36). Anche questi scritti dell’istituto di
+credito e la relativa documentazione, con l’ovvia eccezione di quelli
+concernenti l’ordine di trasferimento degli averi (per i quali l’accesso è già
+stato concesso), non possono dirsi strettamente inerenti (nel senso sopra
+indicato) i fatti oggetto della denuncia e la successiva decisione di non luogo
+a procedere; la loro utilità (eventuale) è piuttosto da situare a livello
+dell’approfondimento istruttorio o completazione delle informazioni preliminari
+che, nel caso in esame, il magistrato inquirente non ha ritenuto non doversi
+effettuare, rispettivamente interrompere, con la __________ e sulla base delle motivazioni
+in essa esplicitate. È, quindi, logico ritenere che la confutazione delle
+conclusioni dell’inquirente, e correlata richiesta di approfondimento
+istruttorio, possa (quando non debba) avvenire a prescindere da elementi come
+quelli appena descritti. La limitazione d’accesso a tale documentazione deve
+pertanto essere mantenuta in quanto conforme ai criteri sopra indicati.
+Resta da determinare se la limitazione d’accesso debba
+essere mantenuta anche sullo scritto di cui all’AI 6. Da un lato questo è
+menzionato esplicitamente nel __________, dall’altro propone una ricostruzione
+(dal punto di vista della banca e con riferimento ai documenti relativi alle
+due relazioni interessate) del trasferimento degli averi, cui si aggiungono
+l’informazione relativa alla procedura civile conclusasi con la sentenza
+23.1.2007 e l’indicazione (generica: avvisi addebito/accredito, ordine recante
+la data 12 luglio 2001 e stima portafoglio al 28.9.2001) di parte della documentazione
+bancaria. Sebbene il contenuto sia stato ampiamente ripreso nel __________
+(seconda parte del considerando 3.), non si vedono motivi per non permettere
+alle reclamanti di visionare lo scritto in questione (integralmente, dato che
+non contiene alcuna informazione riservata che risulti già del __________ o
+dalla documentazione cui è già stato concesso accesso) e ciò in applicazione
+dei criteri indicati e applicati dallo stesso magistrato inquirente (e ritenuti
+rispettosi degli interessi delle parti con la presente decisione).
+Quanto alla documentazione allegata allo scritto, vale
+in toto quanto detto sopra relativamente alla restante documentazione bancaria.
+Da ultimo, e per quanto concerne la documentazione
+acquisita dal giudice civile (AI 14), come detto sopra non è stata concessa
+visione dell’intero incartamento, bensì unicamente di due deposizioni raccolte
+nella procedura civile. L’incartamento comprende gli allegati di parte,
+documentazione bancaria acquisita anche in sede penale e quattro verbali.
+Concedendo l’accesso unicamente ai verbali di persone che non sono state sentite
+anche in sede penale (e i cui verbali sono stati resi accessibili), il
+magistrato inquirente ha operato una scelta non arbitraria alla luce dei
+criteri scelti e delle finalità dell’accesso agli atti in questa fase del
+procedimento.
+8.
+Le reclamanti chiedono anche che la visione atti sia
+assistita dalla facoltà di estrarne fotocopia, come previsto dall’art. 79 cpv.
+2 CPP.
+Nel caso in esame, cioè nell’ambito delle informazioni
+preliminari e in presenza di un __________ (che potrebbe anche essere confermato),
+non permettere la fotocopiatura di documenti contenenti informazioni relative a
+terzi per rapporto alle reclamanti (ed a cui queste non avrebbero accesso
+alcuno, se non per il tramite del procedimento) appare misura adeguata per
+salvaguardare il più possibile l’interesse dei terzi (alla riservatezza) e
+stemperare il rischio di un possibile uso strumentale della documentazione
+(vista la affermata connessione con il diritto ereditario). Nel contempo, e
+abbondanzialmente, la limitazione non limita in modo serio e sostanziale le
+facoltà concesse alla parte civile dall’art. 186 CPP, considerato il numero
+relativamente esiguo e il contenuto stringato, dei documenti resi accessibili.
+9.
+In conclusione, ed in considerazione di tutto quanto
+esposto, il reclamo è accolto unicamente per quanto concerne l’accesso (nella
+forma della visione senza estrazione di fotocopia) allo scritto datato 25
+agosto 2006 della banca di cui all’AI 6 (esclusi gli allegati); per il
+rimanente (tutti gli altri atti e la fotocopiatura) il reclamo è respinto.
+L’esecuzione della presente potrà avvenire trascorso
+(infruttuosi) il termine di cui all’art. 100 cpv. 1 LTF (riservato accordo
+delle parti relativamente al documento menzionato) e, per motivi di
+comodità/opportunità, ad opera del magistrato inquirente (cui l’incarto
+dovrebbe rimanere accessibile, così come nota la collocazione materiale).
+Tasse, spese e ripetibili seguono la soccombenza,
+tenendo conto, tuttavia, delle particolarità del caso specifico evidenziate
+nell’ordinanza del 18 luglio 2008.
+P.Q.M.
+viste le norme applicabili, in particolare gli artt.
+146 e 251 CP, 6, 9, 79, 186, 188, 280 ss., 281, 283, 284
+e contrario
+CPP, 29 CF;
+decide
+1.
+Il
+reclamo, ricevibile in ordine e nel merito, è:
+§.
+accolto per quanto
+concerne l’accesso, nella forma della visione senza                             estrazione
+di fotocopia, allo scritto datato 25 agosto 2006 della banca di cui                                       all’AI
+6 (esclusi gli allegati) inc. MP __________ (__________);
+§§.
+respinto per quanto concerne
+l’accesso a tutti gli altri atti per i quali l’accesso                            non
+era stato concesso con la decisione __________ e per quanto                                            concerne
+la fotocopiatura degli atti cui è stata concessa.
+2.
+La presente, contro la quale non sono date vie di
+ricorso cantonali, diverrà esecutiva trascorso (infruttuosi) il termine di cui
+all’art. 100 cpv. 1 LTF (riservato accordo delle parti relativamente al
+documento menzionato al punto 1.§. del presente dispositivo).
+3.
+L’esecuzione
+della presente è demandata al magistrato inquirente.
+4.
+La tassa di giustizia, stabilita in FRS 800.-, e
+le spese di FRS 280.-, sono poste a carico delle reclamanti (in solido) nella
+misura di ¼ e dello Stato per i rimanenti ¾. Le ripetibili sono compensate.
+5.
+Intimazione
+(con copia delle osservazioni presentate dalle parti):
+giudice
+Edy Meli
