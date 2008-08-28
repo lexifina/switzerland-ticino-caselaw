@@ -1,0 +1,193 @@
+---
+decision_id: "ti_gerichte_INC.2001.18902"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2001.18902"
+decided: "2008-08-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=99003&nX40_KEY=4711195&nTrefferzeile=22&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/311.0/art-071.md", "switzerland/bund/acts/312.0/art-165.md"]
+---
+
+# TI Gerichte INC.2001.18902
+
+## Regeste
+
+Istanza di dissequestro dopo emanazione dell'atto di accusa
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.08.2008 INC.2001.18902
+Tessin Il Giudice dell'istruzione e dell'arresto 28.08.2008 INC.2001.18902
+Ticino Il Giudice dell'istruzione e dell'arresto 28.08.2008 INC.2001.18902
+
+Istanza di dissequestro dopo emanazione dell'atto di accusa
+
+Incarto n.
+INC.2001.18902
+Lugano
+28 agosto 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire sull’istanza presentata il 29 luglio
+2008, e pervenuta a questo ufficio il 7 agosto 2008, dall'
+intesa ad ottenere
+il dissequestro di una somma pari a FRS 39'322.- sui beni
+sequestrati nell’ambito del procedimento di cui all’inc. MP __________ nei
+confronti di __________, ora oggetto dell’atto d’accusa ACC __________, in
+procedura abbreviata;
+viste le osservazioni del
+magistrato inquirente (14/18 agosto 2008), quelle della parte civile __________
+(12/14 agosto 2008 e 18/19 agosto 2008) e constatato che __________ non ha
+presentato osservazioni;
+potendosi prescindere (per quanto
+si dirà in seguito) dalla visione dell’intero incarto penale;
+ritenuto e considerato
+in fatto ed in diritto
+che:
+-
+il 28 aprile 2008, il Procuratore ha posto in stato d’accusa __________
+per le ipotesi di reato di truffa, abuso di un impianto di elaborazione dati,
+amministrazione infedele e falsità in documenti, per tutta una serie di fatti
+avvenuti fino al 2001 (ACC __________);
+-
+avendo le parti scelto la procedura abbreviata (316a ss. CPP), l’atto di
+rinvio a giudizio sottopone già alla Corte (per approvazione) le proposte di
+pena e di misure; tra queste vi è la “
+confisca del conto no. __________
+”,
+con riferimento all’art. 70 CP, e attribuzione alla parte civile quale “
+parziale
+risarcimento
+” (cfr. proposte di pena, punto 5);
+-
+con scritto del 29 luglio 2008, indirizzato al Procuratore pubblico,
+l’UEF di __________ (richiamato un verbale di pignoramento) chiede che dal
+conto no. __________ venga liberata la somma di FRS 39'322.-, valuta 30.9.2008,
+onde saldare alcune procedure esecutive;
+-
+il magistrato requirente ha trasmesso lo scritto al TPC invitando
+quest’ultimo a valutare se la questione dovesse essere decisa nell’ambito del
+dibattimento previsto per il 12 settembre 2009, ovvero sottoposta
+preliminarmente al GIAR; il TPC, con comunicazione del 6 agosto 2008, ha trasmesso gli scritti in questione a questo ufficio, per competenza (doc. 1, inc. GIAR
+189/2001);
+-
+con ordinanza del 12 agosto 2008, questo ufficio ha riconosciuto la
+propria competenza (in materia di sequestri/dissequestri nel periodo
+intercorrente tra l’atto d’accusa ed il dibattimento);
+-
+con osservazioni del 12 agosto 2008 (doc. 5, inc. GIAR 189/2001), la
+parte civile __________ si oppone all’istanza, rilevando che in caso di
+condanna dell’accusato, riconoscimento del proprio danno e confisca (meglio, in
+caso di conferma delle proposte in tal senso sottoposte alla Corte) il suo
+diritto ad essere risarcito sui beni confiscati è prevalente a quelli di
+qualsiasi creditore;
+-
+il magistrato inquirente, con osservazioni del 14 agosto 2008 (doc. 6, inc.
+GIAR 189/2001) rileva che la domanda dell’UEF si basa su di un provvedimento
+(il pignoramento) di “natura civilistica/amministrativa” e che né l’UEF né i
+creditori sono parti al procedimento penale, con la conseguenza che il
+pignoramento stesso “
+non sembra godere di particolare priorità e/o
+privilegio, rispetto alla misura coercitiva penale
+” e, per concludere, si
+rimette al giudizio di questo giudice;
+-
+in ordine, ribadita la competenza di questo ufficio come da ordinanza
+12.8.2008, va pure accertata la legittimazione dell’UEF (qui rappresentante i
+creditori pignoratizi);
+-
+in questa sede, e anche in materia di dissequestro, occorre far
+riferimento agli artt. 280 ss. CPP che conferiscono legittimazione non solo
+alle parti al procedimento, bensì anche ai terzi che dimostrano un interesse
+legittimo; a giudizio di questo giudice, in presenza di un pignoramento
+l’interesse legittimo a contestare un sequestro, rispettivamente formulare
+istanza di dissequestro o contestarne il rifiuto, deve essere riconosciuta;
+-
+nel merito va detto che lo statuto attuale dei beni di cui è chiesta
+liberazione è quello di averi sotto sequestro, quindi soggetti ad una misura
+cautelare (ex 161 CPP);
+-
+competenze
+e tempistica delle decisioni in merito al destino di valori o oggetti
+sequestrati è regolamentata, di principio, dall’art. 165 CPP;
+-
+un
+dissequestro, in altri momenti procedurali e per altri motivi, é comunque
+possibile (quando non dovuto) in applicazione dei seguenti principi:
+“Come tutti gli istituti procedurali che intaccano
+eccezionalmente i diritti individuali per prevalenza di interesse pubblico, il
+sequestro é legittimo unicamente in presenza di sufficienti indizi di reato e
+di connessione tra questo e l’oggetto che così occorre salvaguardare per gli
+incombenti processuali di istruttoria e di giudizio, tenuto conto altresì del
+principio di proporzionalità; il venir meno di questi presupposti toglie
+legittimità al sequestro, che deve essere revocato (DTF TF 1P.391/2003;
+decisioni GIAR pubblicate in REP 1999 n. 131, REP 1998 n. 117, REP 1966 n. 107;
+Gérard Piquerez, Précis de procédure pénale suisse, 2. éd. Lausanne 1994,
+margin. 1441, 1454 e 1469, con rinvii). Inoltre, la verifica della fondatezza
+di questi presupposti deve essere costante negli incombenti dell’autorità
+inquirente e requirente, con sempre accresciuta esigenza probatoria indiziante
+approssimantesi alla verità materiale, a partire dal sospetto all’apertura del
+procedimento, che va in seguito ed indilatamente approfondito con gli
+accertamenti probatori del caso (CRP 1 ottobre 1991, 184/91; CRP 17 marzo 1992,
+38/92).”
+(GIAR 30
+aprile 2008, 88.2008.1)
+-
+nel caso in esame, dall’atto d’accusa del 28 aprile 2008 (e in assenza
+di altre indicazioni delle parti) si deve desumere che l’inquirente ritiene che
+gli averi sotto sequestro costituiscono il prodotto di reato soggetto a
+confisca ex art. 70 CP; infatti, sottopone all’approvazione della Corte una
+proposta formulata in tal senso e con riferimento alla norma citata (cfr. ACC __________);
+-
+in tale contesto, un dissequestro (anche solo parziale) da parte di
+questo ufficio (che, lo si ricorda, non ha competenze di merito) prima
+dell’apertura della fase di giudizio, potrebbe avvenire unicamente a seguito
+della constatazione dell’assenza (o assoluta insufficienza) di indizi di reato
+o di connessione tra questi e gli averi sotto sequestro (come indicato più
+sopra);
+-
+tale ipotesi non è neppure ventilata nell’istanza di dissequestro che
+risulta, quindi, carente nella motivazione (GIAR 13 marzo 2001, 463.2000.6);
+-
+abbondanzialmente, si rileva che un’analisi d’ufficio (qualora
+ammissibile, cfr. per tutte: CRP 5.12.1997, 60.97.00175 e CRP 20 agosto 2007,
+60.2007.174) sarebbe poco opportuna vista l’imminenza del merito (e forse
+neppure concretamente fattibile vista l’entità dei fatti menzionati nell’atto
+di rinvio a giudizio) che si pronuncerà, con competenza piena, sul fondamento
+della proposta di confisca (art. 316g cpv. 1 CPP);
+-
+in virtù di tutto quanto esposto nei paragrafi precedenti, la richiesta
+formulata dall’UEF non può trovare accoglimento positivo in questa sede; l’UEF
+resta, ovviamente libero di riformulare le sue richieste all’indirizzo della
+Corte giudicante (nell’eventualità che la confisca con assegnazione alla parte
+lesa non fosse approvata e/o fosse trasformata in un sequestro a garanzia del
+risarcimento compensatorio che, quand’anche assegnato alla parte lesa ex art.
+73, non esclude la partecipazione di altri creditori alla procedura esecutiva –
+cfr. art. 71 cpv. 3 CP);
+-
+vista la particolarità della fattispecie (non da ultimo il fatto che lo
+scritto che è stato considerato quale istanza di dissequestro poteva forse
+essere trattato quale richiesta interlocutoria) non si prelevano tasse e spese;
+P.Q.M.
+Viste le norme indicate, in
+particolare gli artt.
+161 ss., 280 ss., 316a ss. CPP, 70, 71,
+73 CP,
+decide
+1.
+L’istanza é evasa ai sensi dei considerandi (quindi, sostanzialmente
+respinta).
+2.
+Non si prelevano tasse e spese.
+3.
+Contro la presente è dato ricorso alla CRP entro 10 giorni dalla
+notifica.
+4.
+Intimazione (con copia delle osservazioni):
+giudice
+Edy Meli
