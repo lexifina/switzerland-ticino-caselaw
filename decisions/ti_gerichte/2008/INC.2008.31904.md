@@ -1,0 +1,507 @@
+---
+decision_id: "ti_gerichte_INC.2008.31904"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.31904"
+decided: "2008-10-30"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=99600&nX40_KEY=4711191&nTrefferzeile=1&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2008.31904
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 30.10.2008 INC.2008.31904
+Tessin Il Giudice dell'istruzione e dell'arresto 30.10.2008 INC.2008.31904
+Ticino Il Giudice dell'istruzione e dell'arresto 30.10.2008 INC.2008.31904
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2008.31904
+Lugano
+30 ottobre 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 21/22 ottobre 2008 da
+__________
+e qui trasmessa con preavviso negativo del 27 ottobre 2008
+dal
+Procuratore pubblico Fiorenza Bergomi,
+Lugano
+viste le osservazioni delle
+difesa 28 ottobre 2008;
+visto l’incarto MP __________;
+ritenuto,
+in fatto:
+A.
+Per quanto riguarda i fatti si può fare riferimento alla
+decisione 14 agosto 2008 di questo giudice (inc. GIAR 319.2008.3, doc. 5).
+“
+A.
+__________ è stata arrestata il 30 giugno
+2008 in
+quanto accusata di truffa
+(a seguito di denuncia 19 ottobre 2007 della __________) dal Procuratore
+pubblico, dopo essere stata interrogata in mattinata dalla __________ e il
+pomeriggio dal magistrato inquirente. Lo stesso giorno è pure stato arrestato
+il coniuge dell’istante, __________, per lo stesso titolo di reato.
+__________, che sarebbe stata vittima il 24 maggio 1993
+di un incidente sul lavoro agli arti superiori (ustione con la soda caustica
+che le avrebbe provocato ustioni di 2° e 3° grado) – a seguito del quale
+sarebbero sarebbe stata ritenuta inabile al lavoro manuale e sarebbero
+intervenute a vario titolo diverse compagnie assicurative che le hanno fornito
+prestazioni di natura pecuniaria (tra cui __________) – è accusata di avere
+ingannato tali istituti assicurativi, autoinfliggendosi delle ferite agli arti
+superiori (da sola e con l’aiuto del marito) al fine di simulare una
+aggravamento delle conseguenze dell’incidente originario e così ottenere il
+versamento di prestazioni assicurative, altrimenti non dovute, e tentato di
+percepire, con le stesse modalità, una rendita per grandi invalidi.
+Il 16.7.2003 avrebbe ottenuto dal datore di lavoro, in
+via giudiziaria, anche un’indennità per danni non assicurati di CHF 541'365.25.
+“L’8.6.2006, per valutare la richiesta di indennità per
+grandi invalidi rispettivamente per chiarire la particolare “
+anomala
+”
+situazione [“
+In sostanza (…) usciva dall’ospedale in fase di netta
+guarigione ed ai controlli ambulatoriali ai quali si presentava in seguito, le
+condizioni delle sue mani e dei suoi avambracci risultavano di nuovo ex ante
+”
+(denuncia penale 19.10.2007, p. 3)], __________ sarebbe stata visitata dal __________.
+Il perito avrebbe rilevato l’impossibilità soggettiva di muovere braccia e mani
+e concreti indizi di lesioni autoinflitte; avrebbe consigliato un’osservazione
+costante della denunciata, con documentazione fotografica mensile del decorso
+delle lesioni.
+L’__________ avrebbe proceduto alle verifiche presso
+l’abitazione di __________ il 15.9.2006, il 28.11.2006, il 22.1.2007, il
+16.2.2007 ed il 30.4.2007. All’inizio di aprile 2007 __________ avrebbe incaricato
+l’agenzia investigativa __________, di monitorare la denunciata durante i soggiorni
+in __________. Il controllo effettuato nel periodo 6.-22.4.2007 e 21.-24.5.2007
+avrebbe permesso di evidenziare come trascorresse il tempo tra lavori di
+giardinaggio, faccende di casa, passeggiate con il cane e spese al mercato,
+con, quindi, piena mobilità e funzionalità degli arti superiori, che non avrebbero
+presentato fasciature o lesioni sanguinolente.
+L’8.6.2007 la denunciata sarebbe stata nuovamente
+visitata dal __________ che avrebbe attestato che la mobilità attiva non poteva
+essere stabilita perché aveva abbozzato tentativi di movimento appena accennati
+e che, inoltre, ogni tentativo di mobilità passiva provocava forti dolori ed il
+ritrarsi dell’arto.
+Il denunciante, alla luce di questa situazione, ha
+ritenuto autoinflitte le lesioni ed inesistenti le problematiche motorie e/o
+funzionali: non ci sarebbe stata alcuna limitazione delle funzioni di braccia e
+mani. Sarebbe stata completamente abile al lavoro e, quindi, l’avrebbe truffato
+per quasi quindici anni di oltre CHF 300'000.-- e tentato di truffare (in capo
+alla richiesta di una rendita per grandi invalidi) per una somma tra CHF
+154'953.-- e CHF 309'906.-- (con l’aiuto, forse, del marito, che – da quando la
+denunciata ha ottenuto le rendite assicurative – avrebbe cessato ogni attività
+lucrativa). __________ che si è costituito parte civile nel procedimento,
+avrebbe sospeso il versamento delle prestazioni a partire dal 31.7.2007” (Inc. CRP
+60.2008.72, sentenza 16 giugno 2008, p. 2 e 3).
+B.
+Giova a questo punto ricordare che a seguito della
+denuncia penale 19 ottobre 2007 della __________ altro PP aveva decretato il 21
+febbraio 2008, non luogo a procedere in capo al suddetto procedimento penale,
+in considerazione del carattere solo civile, rispettivamente
+amministrativo-assicurativo della vertenza (__________). Contro tale decisione
+era insorta la __________ con istanza di promozione dell’accusa 3/4 marzo 2008
+alla Camera dei ricorsi penali che, con sentenza 16 giugno 2008 (inc. CRP
+60.2008.72), aveva annullato il decreto di non luogo a procedere 21 febbraio
+2008, promovendo nei confronti dell’istante l’accusa per titolo di truffa e
+ordinando che l’istruzione del processo dovesse aver luogo per opera di altro
+PP.
+C.
+Con la richiesta di conferma dell’arresto 1° luglio
+2008 il magistrato inquirente ha promosso a __________ l’accusa per titolo di
+truffa aggravata, sub. semplice, consumata e tentata (ai sensi dell’art. 146
+cpv. 1 e 2 CP) “in relazione ai fatti oggetto di denuncia di data 19 ottobre
+2007 presentata da __________, come pure da quanto emerge dallo scritto di data
+26/27 giugno 2008 di __________, __________ nonché dallo scritto 9 aprile 2008
+dell’__________” chiedendo la conferma dell’arresto per i bisogni
+dell’istruzione “in particolare pericolo di collusione con il marito e con terzi
+da interrogare; necessità di verificare la destinazione data ai fondi ricevuti
+da __________, come pure da __________; necessità di verificare la posizione
+dell’__________; necessità di ricostruire i fatti senza che l’accusata possa
+avere contatti con terze persone; necessità di esperire le necessarie verifiche
+mediche; necessità di verificare la documentazione richiesta a terzi; necessità
+di verificare quanto è stato sequestrato al domicilio e sulla persona”.
+Questo giudice, il 1° luglio
+2008, ha
+confermato l’arresto
+dell’accusata (inc. GIAR 319.2008.1, doc. 6)  considerata la presenza di gravi
+e concreti indizi di colpevolezza e per i bisogni dell’istruzione – per
+permettere di accertare la destinazione di fondi ricevuti e per procedere con
+le verifiche e perizie mediche (anche in base alle medicazioni rinvenute al
+domicilio) senza che l’accusata possa essere in contatto con il marito o possa autoinfliggersi
+delle lesioni - , pericolo di collusione con il marito e per pericolo di fuga –
+in quanto cittadina straniera senza legami con la __________ (figli all’estero)
+e con legami con il paese d’origine dove ha una casa e risiede diversi mesi
+l’anno.
+A verbale di conferma dell’arresto, così come già
+davanti alla __________ ha negato ogni addebito.”
+B.
+Con decisione 14 agosto 2008 di
+questo giudice (inc. GIAR 319.2008.3, doc. 5) è stata respinta una prima
+istanza di libertà provvisoria presentata dall’accusata, ritenuti dati i gravi
+e concreti indizi di colpevolezza e ritenuta l’esistenza di bisogni istruttori,
+pericolo di collusione e pericolo di fuga.
+C.
+Nel frattempo l’inchiesta è
+proseguita e sono in particolare state rassegnate le due perizie mediche del __________
+(dermatologica) e del __________ (ortopedica), l’istante e il coaccusato sono
+stati interrogati, oltre ad alcuni testimoni. Il PP ha proceduto a chiedere
+precisazioni al perito __________ e sarebbe in procinto di nominare il perito
+psichiatrico.
+D.
+Il 21 ottobre 2008 __________,
+con l’istanza in discussione presentata dal proprio difensore e giunta al
+Ministero pubblico il 22 ottobre 2008, chiede di essere posta in libertà
+provvisoria “
+ritenuto che allo stadio attuale della procedura, dopo ben
+quasi quattro mesi di carcerazione non sono più adempiute le condizioni
+relative al pericolo di fuga, nonché di collusione”,
+visto che una messa in
+libertà provvisoria dell’accusata non comprometterebbe l’esecuzione della
+perizia psichiatrica appena ordinata (Inc. GIAR 319.2008.4, doc. 1).
+E.
+Il magistrato inquirente, con
+preavviso negativo 27 ottobre 2008 (Inc. GIAR 319.2008.4, doc. 2) ribadisce
+l’esistenza di gravi e concreti indizi di colpevolezza in capo all’accusata,
+con riferimento anche alle risultanze delle perizie mediche appena acquisite
+agli atti e comunque già contestate all’accusata.
+Per quanto riguarda i motivi di
+interesse pubblico il magistrato inquirente osserva come deve ora essere
+chiarito l’aspetto psichiatrico dell’istante (per cui verrà nominato come
+perito il __________), in caso venisse posta in libertà provvisoria si
+correrebbe il rischio che l’accusata non si sottoponga a tale perizia,
+suggerita dal perito __________, non bastando a tal proposito la dichiarata
+disponibilità a sottoporvisi da parte dell’accusata. Sarebbe poi tuttora in
+corso la ricostruzione dei flussi finanziari e, per velocizzare la procedura, è
+stato chiesto alla difesa di provvedere direttamente al recupero della
+documentazione bancaria serba (avendo la difesa dichiarato la propria
+disponibilità al rientro dei fondi dalla __________ in data 19 agosto 2008).
+Sarebbe poi ancora pendente una richiesta di assistenza giudiziaria alle
+Autorità __________ (già sollecitata) finalizzata al blocco della casa d’abitazione
+dei due coaccusati in quel Paese (per cui a tutt’oggi non è giunta risposta).
+Avendo i due coniugi beni all’estero sussisterebbe ancora pericolo di
+inquinamento delle prove nonché pericolo di fuga a fronte della presumibile
+pena che potrebbe essergli inflitta in caso di condanna. Rispettato il
+principio della proporzionalità.
+F.
+Con osservazioni 28 ottobre 2008
+la difesa contesta l’esistenza dei gravi indizi di colpevolezza, ribadendo pari
+pari quanto affermato nella precedente procedura di richiesta di libertà
+provvisoria e cioè che “
+tuttora l’unica certezza consiste nel constatare che
+la qui rappresentata soffre di problemi agli arti superiori; tutto il resto non
+è altro che supposizioni e ipotesi dei medici interpellati
+” (osservazioni,
+p. 2)
+.
+Per quanto riguarda i bisogni
+dell’istruzione si osserva che l’accusata sin dal primo verbale si è dichiarata
+disposta a sottoporsi a tutte le perizie mediche necessarie per dimostrare il
+suo stato di salute, tanto che non si è neppure opposta all’erezione di una
+perizia psichiatrica, dimostrando la volontà di collaborare con gli inquirenti.
+Non vi è quindi la necessità di procedere con l’accusata in stato di detenzione
+non potendo ella, come per le perizie dermatologica e ortopedica, modificare in
+qualche modo la situazione di fatto.
+Per quanto riguarda la situazione
+economica dei coniugi la difesa osserva che tutto è stato sequestrato, sia in __________
+che all’estero aggiungendo che “
+questa difesa ha provveduto direttamente a
+compiere i fatti necessari presso la banca di __________; se si richiedeva una
+procedura più solerte e immediata, era forse il caso da parte della
+Procuratrice di agire mediante i canali rogatoriali
+” (osservazioni, p. 3).
+Contestato il pericolo di fuga in
+quanto lasciare la __________ significherebbe per l’accusata ed il di lei
+marito perdere tutto; “
+anche in __________ tutto è ormai sequestrato; se il
+Ministero pubblico non ha ricevuto ancora conferma di ciò, certo non è da
+imputare alla qui accusata
+” (osservazioni, p. 3).
+Il principio di proporzionalità
+non sarebbe più rispettato con riferimento alla pena presumbilimente da
+scontare in caso di condanna, alla luce della lunga carcerazione preventiva e
+delle difficoltà oggettive dell’accusata che è incensurata.
+In diritto:
+1.
+L’accusata, detenuta, è
+pacificamente legittimata a presentare istanza di libertà provvisoria. Desta
+qualche perplessità per quanto riguarda la ricevibilità dell’atto la scarna
+motivazione della stesso, sanata solo in sede di osservazioni 28 ottobre 2008.
+Il preavviso negativo del
+Procuratore pubblico, ritenuta ricezione dell’istanza il 22 ottobre 2008, è
+tempestivo avendo trasmesso a questo ufficio il preavviso negativo e l’incarto
+processuale lunedì 27 ottobre 2008 (essendo sabato 25 ottobre giorno festivo).
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui di seguito riproposti.
+L’art. 95 CPP – corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 – dopo evidenza al cpv. 1 del principio secondo cui l’accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e (poi, se del caso)
+proroga del carcere preventivo ai sensi dell’art. 103 CPP, quando esistono a
+carico dello stesso accusato gravi e concreti indizi di colpabilità per un
+crimine o un delitto e nel contempo sono presenti preminenti motivi di
+interesse pubblico, quali – per quanto qui concerne – i bisogni
+dell’istruzione, con particolare riguardo al pericolo di collusione e di
+inquinamento delle prove che, sia detto qui a futura memoria – può continuare
+ad esistere fino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si
+aggiunge, sempre con riferimento al caso in esame, che l’elenco dei motivi di
+interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27 ,
+pag. 32, nota 3), tra altri possibili, essendovi quello della tutela
+dell’ordine pubblico (REP 1998 n. 105).
+L’eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 consid. 3) in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali – nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggiore rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera dei ricorsi penali, non restringe la sua cognizione all’arbitrio (REP
+1980 pag. 128).
+(per tutte: sentenza GIAR
+21.12.2001 in re G., Inc. 520.2001.5).
+3.
+Per quanto riguarda l’esistenza
+di gravi e concreti indizi di colpevolezza, che la difesa non contesta
+nell’istanza di libertà provvisoria ma solo nelle osservazioni affermando che
+“
+Tuttora l’unica certezza consiste nel constatare che la qui rappresentata
+soffre di problemi agli arti superiori; tutto il resto non è altro che
+supposizione e ipotesi dei medici interpellati”
+(expressis verbis la stessa
+tesi sostenuta dalla difesa nella precedente istanza di libertà provvisoria,
+antecedente alla consegna dei referti peritali da parte dei periti giudiziari),
+si può fare integrale riferimento alle conclusioni cui era giunto questo
+giudice nella decisione 14 agosto 2008, (inc. GIAR 319.2008.3, doc. 5 p. 6-10).
+Si osserva peraltro che le perizie giudiziarie ora agli atti non possono essere
+considerate semplici “ipotesi” dei medici interpellati, bensì conclusioni di
+periti giudiziari regolarmente nominati ai sensi del CPP  e quindi mezzi di
+prova regolarmente assunti che, a questo stadio della procedura, non fanno che
+corroborare la tesi accusatoria, quantomeno nel senso che le piaghe presenti
+sulle braccia dell’accusata sarebbero frutto di automutilazione.
+4.
+L’accusata
+ritiene che non sussistano più bisogni istrutto
+ri avendo ella fornito
+piena collaborazione a partire dal primo verbale davanti al PP e non essendosi
+opposta a sottoporsi a nessuna perizia medica, financo quella psichiatrica,
+ordinata dal PP. Le perizie mediche sono ora state consegnate e non vi sarebbe
+pericolo di collusione per quanto riguarda l’allestimento della perizia
+giudiziaria. Per quanto riguarda i beni dei coniugi __________ tutto sarebbe
+ormai sotto sequestro penale, sia per opera della PP (sequestri in __________ e
+richiesta di blocco della casa d’abitazione in __________ in via rogatoriale)
+sia per opera della difesa stessa (che ha provveduto a compiere i passi
+necessari presso la banca di __________ dove si troverebbe un conto intestato
+all’accusata).
+Secondo il magistrato inquirente
+dovrà ancora essere effettuata la perizia psichiatrica (così come suggerito dal
+perito __________) e la stessa deve essere effettuata con l’accusata in
+detenzione dal momento che il marito potrebbe influenzare l’istante
+sottraendola alla perizia. Gli inquirenti sarebbero ancora in attesa della
+risposta delle Autorità serbe in merito alla richiesta di blocco della casa
+d’abitazione che i coniugi __________ possiedono in __________ (per cui l’__________
+ha inviato un sollecito in data 24 ottobre 2008, su richiesta della PP). Si è
+inoltre ancora in attesa di informazioni sul conto bancario dell’istante in __________,
+ritenuto che per velocizzare la procedura d’acquisizione almeno di questa
+documentazione il PP aveva chiesto la disponibilità della difesa di far
+recuperare tale documentazione su richiesta dell’accusata stessa (e benché la
+difesa il 19 agosto 2008 abbia comunicato al PP la disponibilità al rientro dei
+fondi, sembrerebbe che il 30 settembre 2008 non avesse ancora inviato nessuna
+missiva in __________, stante la comunicazione con cui si dichiarava la
+difficoltà a reperire l’indirizzo della banca, AI 246).
+Nel caso in esame è stato
+accertato che il PP ha già provveduto, in data 18 luglio 2008, ad inoltrare una
+commissione rogatoria alle Autorità __________ volta, tra l’altro, al blocco a
+registro fondiario della casa di proprietà dei coniugi __________ oltre ad ogni
+altra loro proprietà immobiliare e a chiedere la documentazione attestante
+l’acquisizione dell’immobile, l’eventuale prezzo d’acquisto e la sussistenza di
+mutui ipotecari (AI 126), egli ha poi provveduto, in data 25 luglio 2008 (AI
+140), a chiedere alla difesa dell’accusata la disponibilità dell’istante a far trasferire
+l’eventuale saldo attivo del conto in __________ alimentato il 23 aprile 2004
+con il bonifico di CHF 50'000.- proveniente dal conto __________ di __________
+e che, in mancanza di accordo, avrebbe dovuto procedere per le vie rogatoriali.
+La difesa, che avrebbe dovuto fornire una risposta entro il 6 agosto 2008, ha comunicato soltanto il 19 agosto 2008 (AI 172) la propria disponibilità in tal senso, mentre
+che soltanto in data 2 ottobre 2008 (comunque successivamente al 30 settembre
+2008) ha proceduto a scrivere alla banca di __________ quanto comunicato al PP
+con AI 252. Affermare ora che per procedere più celermente si sarebbe dovuta
+seguire la via della richiesta di assistenza giudiziaria internazionale rasenta
+la mala fede processuale. Il PP ha poi provveduto, in data 24 ottobre 2008 a richiedere all’__________ di sollecitare le Autorità __________ nell’evasione della rogatoria.
+Questo giudice ha avuto modo di
+concludere, con decisione 14 agosto 2008 che:
+“
+Tale atto istruttorio volto alla ricostruzione della
+situazione patrimoniale dell’accusata e al recupero dell’eventuale maltolto,
+appare imprescindibile (trasferimento volontario o sequestro da parte del PP
+per via rogatoriale), come imprescindibile l’acquisizione della documentazione
+della relazione bancaria in __________ intestata all’accusata: sia che avvenga
+con la collaborazione dell’accusata o per le vie ufficiali. Presente a questo
+proposito un importante pericolo di collusione ed inquinamento delle prove,
+almeno sino a sicurezza degli avvenuti sequestri (blocco del fondo e blocco del
+denaro) e/o recupero degli eventuali fondi ancora presenti sul conto e
+acquisizione della documentazione bancaria __________
+.”
+Tali conclusioni non possono
+essere ora sovvertite da nessun elemento agli atti o dalle considerazione
+dell’istante secondo cui “
+tutto è ormai stato sequestrato o bloccato sia in __________
+che all’estero
+”, considerazioni non supportate da alcun elemento oggettivo.
+Per contro il PP non sostanzia
+l’esistenza del pericolo di collusione in relazione con l’allestimento della
+perizia psichiatrica, non bastando a questo proposito il riferimento alla
+decisione di conferma dell’arresto di questo giudice (che evidentemente
+rinviava all’allestimento di perizie mediche in relazione alle lesioni e alla
+funzionalità degli arti dell’accusata) o il suggerimento del perito __________
+di procedere con perizia psichiatrica.
+5.
+Pure il pericolo di fuga è
+tuttora presente, con riferimento alle conclusioni espresse nella decisione 18
+agosto 2008 di questo giudice cui ancora una volta si può fare integrale
+riferimento.
+“
+Il pericolo di fuga, per giustificare carcerazione
+preventiva, deve essere concreto e rivestire di una certa probabilità: in altri
+termini lo si ammette quando l’accusato, se posto in libertà, si sottrarrebbe
+con una certa verosimiglianza al perseguimento penale ed alla (eventuale)
+esecuzione della pena. La gravità della pena presumibile non basta, da sola, a
+motivare la carcerazione; occorre valutare l’insieme delle circostanze, tra cui
+il carattere dell’accusato, la sua morale, i legami famigliari, il domicilio,
+la professione, la situazione economica e tutti quegli elementi che rendono la
+fuga non solo possibile ma probabile (DTF 19 gennaio
+1999 in
+re G.S.; DTF 117 Ia 69; SJ
+1980 186; SJ 1981 135; N. Schmid, Strafprozessrecht, ZH 1997, no. 701).
+Ritenuto che a poco valgono, per quest'analisi, le
+semplici dichiarazioni d'intenti dell'accusato stesso (per tutte: sentenza GIAR
+27 maggio
+2002 in
+re P.) e che la concretezza del pericolo di fuga può
+essere accertata "Auch wenn keine konkrete Flüchtpläne u.ä. gefordet sind,
+…" (Schmid, ibidem).
+L'accusata è cittadina __________ con un permesso C in
+via di riesame nel prossimo autunno, ella non ha nessun legame con la __________,
+né famigliare né lavorativo, ad eccezione di un appartamento a Locarno per cui
+i coniugi pagano oltre CHF 1'000.- di locazione al mese. __________ è
+attualmente senza reddito alcuno e i suoi beni in __________ sono stati posti
+sotto sequestro al contrario di quelli in __________ dal momento che non si sa
+quando e se le __________ accoglieranno la rogatoria procedendo al blocco del
+fondo (blocco che in ogni caso non dovrebbe comportare, almeno nell’immediato,
+conseguenze sull’abitabilità dello stabile) mentre che il conto bancario a suo
+nome in __________ (di cui non si conosce il saldo) non è ancora stato posto
+sotto sequestro penale, rispettivamente l’accusata non ha accettato di
+trasferire l’eventuale saldo in __________.
+A questo punto __________ potrebbe facilmente, se posta
+in libertà provvisoria, decidere di disertare definitivamente la __________,
+per ritornare in __________ per recuperare e nascondere i beni ivi presenti e
+non più presentarsi per gli incombenti processuali, in attesa che il
+procedimento termini a suo favore, magari per incompletezza delle perizie
+giudiziarie in caso non dovesse più sottoporsi a visite richieste dai periti.
+Se le accuse dovessero essere confermate – ella è
+confrontata con imputazioni di una certa gravità, per un indebito profitto presunto
+di rilievo ed un’attività criminale presunta reiterata nel tempo – il rischio
+di una pena non lieve esiste (i reati per i quali è stata promossa l’accusa
+prevedono anche la reclusione).
+Visto quanto sopra appare perciò verosimile che
+l’accusata possa preferire rendersi irreperibile alle autorità inquirenti, per
+le ulteriori necessità istruttorie, se posta in libertà provvisoria.
+Tale pericolo appare quindi concreto e non può essere
+scongiurato neppure con misure meno incisive, quali il deposito dei documenti
+d’identità o con obbligo di firma in __________, essendo evidente che un
+cittadino straniero può far rientro nel proprio paese d’origine anche senza
+documenti d’identità e non potendo ovviare all’accertato pericolo di fuga il
+presentarsi (anche giornalmente) alle Autorità di __________
+.”
+6.
+La proporzionalità di una
+carcerazione (preventiva) deve essere analizzata da angolature diverse. Da un
+lato occorre mettere in relazione la durata del carcere preventivo con la
+gravità e complessità della fattispecie e con la pena presumibile e dall’altro
+occorre anche verificare il rispetto del principio di celerità (SJ 1981 p. 383
+e citazioni; art. 102 CPP).
+La proporzionalità della
+carcerazione sin qui sofferta, alla luce della gravità delle accuse, della presenza
+di concreti indizi di colpevolezza, e delle dimensioni dell’inchiesta, per
+ipotesi di reato che perdura da diversi anni, diversi istruttori compiuti, e
+che può essere considerata praticamente al termine, è sicuramente data. Gli
+inquirenti hanno proceduto con celerità e non si sono limitati ad interrogare
+gli accusati ma hanno proceduto con la nomina di periti, numerosi sequestri
+(domiciliari, bancari, di cartelle mediche, ecc.), l’invio di una rogatoria, il
+costante monitoraggio dell’accusata in carcere alla ricerca di riscontri
+oggettivi alle dichiarazioni discordanti dei due accusati e considerato un
+comportamento processuale non proprio collaborativo (continua manomissione
+delle medicazioni).
+Pure va ammessa nella sua
+eccezione più generale di rapporto tra la durata della carcerazione preventiva
+ed il rischio di pena se considerate le comminatorie di pena per i singoli
+reati imputati a __________.
+L’accusata è stata arrestata il
+30 giugno 2008 e ad oggi è in detenzione preventiva da quasi quattro mesi. In
+questo lasso di tempo l’inchiesta è avanzata con sufficiente celerità.
+I reati imputati a __________
+sono di sicura gravità, a prescindere dal fatto che si tratta di crimini e in
+caso di condanna il rischio di pena è certamente superiore alla detenzione
+preventiva sin qui sofferta e a quella presumibilmente da soffrire per
+terminare l’inchiesta con gli atti istruttori necessari e summenzionati
+(accertamento del sequestro dell’immobile in __________ e accertamenti sul
+conto bancario ed eventuale recupero del saldo positivo), in pieno rispetto del
+principio della proporzionalità.
+La scarcerazione di __________ appare
+quindi ancora prematura, tanto più che un accusato può dover in qualche modo
+sopportare le eventuali conseguenze che le sue scelte, in concreto quelle di
+avere acquistato e/o ristrutturato con il marito coaccusato una casa al proprio
+paese d’origine con il denaro o con parte del denaro provento della presunta
+truffa, nonché quelle di avere trasferito parte dei fondi ricercati dal PP su
+di un conto all’estero, potrebbero avere sull’evoluzione ed i tempi
+dell’istruttoria; è notorio che per l’evasione di rogatorie all’estero occorre
+un certo tempo (cfr. GIAR 2005.526.2 del 14 novembre 2005).”
+7.
+In conclusione, constata
+l’esistenza di gravi indizi di reato, bisogni dell’istruzione, pericolo di
+collusione ed inquinamento delle prove e concreto pericolo di fuga, nonché
+rispetto del principio di proporzionalità della carcerazione sofferta nei
+termini suesposti si può concludere che sufficienti presupposti di legge, come
+anche esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella
+situazione personale e processuale di __________ a legittimare e giustificare
+il perdurare della cautelare privazione della sua libertà. Di conseguenza,
+l’istanza di libertà provvisoria in discussione deve essere respinta con la
+presente decisione, esente da tassa e spese giudiziarie (art. 39 let. f TG e
+contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali del
+Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
