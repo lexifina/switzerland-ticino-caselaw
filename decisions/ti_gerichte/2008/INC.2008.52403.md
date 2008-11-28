@@ -1,0 +1,520 @@
+---
+decision_id: "ti_gerichte_INC.2008.52403"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.52403"
+decided: "2008-11-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=101622&nX40_KEY=4711575&nTrefferzeile=22&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-134.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2008.52403
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.11.2008 INC.2008.52403
+Tessin Il Giudice dell'istruzione e dell'arresto 28.11.2008 INC.2008.52403
+Ticino Il Giudice dell'istruzione e dell'arresto 28.11.2008 INC.2008.52403
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2008.52403
+Lugano
+28 novembre 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 19/20 novembre 2008 da
+__________
+c/o carcere giudiziario La Farera,
+(patr. dal lic. iur.__________)
+e qui trasmessa con preavviso negativo del 24/25 novembre
+2008 dal
+Procuratore pubblico, Nicola Respini,
+Lugano
+viste le osservazioni della difesa
+25 novembre 2008;
+visti gli incarti MP __________, __________;
+ritenuto
+in fatto ed in
+diritto
+che:
+-
+__________ è stato arrestato a Lugano il 22 ottobre 2008 dalla
+Polizia cantonale su ordine d’arresto 21 ottobre 2008 del PP, poiché coinvolto,
+con altri giovani maggiorenni e minorenni, nelle due aggressioni avvenute il 19
+ottobre 2008, nei pressi del __________ di __________, ai danni di __________ e
+__________;
+-
+in data 23 ottobre 2008 il Procuratore pubblico ha promosso
+l’accusa nei suoi confronti per titolo di aggressione (art. 134 CP) e lesioni
+semplici (art. 123 cifra 2 cpv. 1 CP), chiedendo a questo giudice la conferma
+dell’arresto vista l’esistenza di gravi indizi di reato e considerata
+l’esistenza di motivi di interesse pubblico quali i bisogni dell’istruzione – e
+meglio la necessità di chiarire le sue esatte responsabilità nell’aggressione
+ai danni di __________ e __________, commesse in correità con __________ ed __________,
+__________ (arrestato il 19 ottobre 2008) nonché i minorenni __________ (pure
+arrestato il 19 ottobre 2008), __________ e __________, mediante ulteriori
+interrogatori, confronti, accertamenti tecnici, ecc. – pericolo di collusione e
+di inquinamento delle prove nei confronti degli altri protagonisti
+dell’aggressione (alcuni dei quali al momento dell'arresto dell’istante ancora
+a piede libero o non identificati) e pericolo di recidiva – vista la
+ripetitività dei fatti commessi (inc. GIAR 524.2008.1, doc. 1);
+-
+il 23 ottobre 2008 l'arresto di __________ è stato confermato da
+questo giudice, ritenuti dati i gravi e concreti indizi di colpevolezza, nonché
+preminenti motivi di interesse pubblico quali i bisogni dell’istruzione (come a
+richiesta di conferma dell’arresto) e il pericolo di collusione (con gli altri
+protagonisti dei fatti), (inc. GIAR 524.2008.1, doc. 3);
+-
+sia davanti alla Polizia, in occasione del suo arresto, che
+davanti a questo giudice, in occasione dell’udienza per la conferma
+dell’arresto, l’istante (dopo avere inizialmente negato ogni addebito in
+Polizia) ha cercato di sminuire le proprie responsabilità, ammettendo di avere
+assistito alle due aggressioni e affermando di essere intervenuto più che altro
+per trattenere le persone che stavano picchiando e per far smettere il
+pestaggio; egli ha ammesso di avere avuto in suo possesso, la sera dei fatti,
+un tirapugni ma ha altresì affermato di non averlo utilizzato;
+-
+in seguito, nuovamente interrogato dagli agenti di Polizia, egli
+ha ammesso di avere colpito la vittima __________ con un calcio alla coscia e
+di avere utilizzato nei suoi confronti un tirapugni, colpendolo al volto due o
+tre volte e forse anche di avergli sfiorato la testa (verb. PG 27 ottobre 2008,
+p. 4-6), affermazioni confermate davanti al PP sia singolarmente che a
+confronto con __________ (verb. PP 6 novembre 2008, AI 17, p. 3 e 4; verb.PP 12
+novembre 2008, AI 19, p. 2 e 3);
+-
+l’inchiesta ha poi permesso di appurare la partecipazione
+dell’accusato ad alcuni furti commessi da __________ ed altre persone: di qui
+l’estensione dell’accusa per il reato di furto, subordinatamente ricettazione
+(AI 17, p. 6); il PP ha esteso l’accusa al qui istante anche per i reati di
+minaccia – in seguito alla querela sporta da __________ e da __________ (AI 17,
+p. 5) – e per i reati di vie di fatto, ingiuria e coazione per fatti
+precedenti, avvenuti ai danni dell’ex amica __________ e __________ (inc. MP __________);
+-
+il 19 novembre 2008 __________, con l’istanza in discussione
+(giunta al Ministero pubblico il 20 novembre) e per il tramite del suo
+difensore, chiede di essere posto in libertà provvisoria; l’istante non
+contesta l’esistenza di gravi e concreti indizi di colpevolezza ma ritiene che
+la sua posizione – per tutte le accuse promosse sinora – sia già stata
+ampiamente chiarita; alla luce della situazione attuale e delle ammissioni
+dell’accusato farebbero ora difetto i preminenti motivi di interesse pubblico
+indicati – bisogni dell’istruzione e pericolo di collusione – per giustificare
+la detenzione preventiva; il perdurare della carcerazione preventiva
+contravviene ora gravemente ai principi di celerità e di proporzionalità; la
+difesa chiede quindi la messa in libertà provvisoria dell’accusato e in via
+subordinata la messa in atto di misure sostitutive quali il deposito dei
+documenti o la prestazione di una cauzione;
+-
+il magistrato inquirente, con preavviso negativo 24/25 novembre
+2008 (inc. GIAR 526.2008.3, doc. 2), dopo avere ripercorso i fatti che hanno
+portato all’arresto dell’accusato, elenca dettagliatamente tutti i gravi indizi
+di reato e le chiamate in correità a carico dell’istante; sostiene l’esistenza
+di importanti necessità istruttorie quali nuovi interrogatori, anche a
+confronto con i compartecipi (maggiorenni e minorenni) ai fatti, per chiarire
+l’esatta dinamica dell’aggressione ai danni dei due ragazzi __________, le
+reali responsabilità dell’accusato, nonché per chiarire i due episodi di
+minacce ai danni di __________ e __________, nonché per chiarire la sua
+partecipazione ai furti commessi nel corso del 2007 e 2008, in correità o complicità con __________ e __________, __________ e tale __________ di __________;
+a mente del magistrato inquirente grave e concreto sarebbe anche il pericolo di
+collusione in relazione ai correi dell’aggressione e dei furti, considerato
+come già prima dell’arresto __________ si fosse attivato per convincere i suoi
+amici e conoscenti a non rivelare la sua presenza (o, per meglio dire,
+partecipazione) alle due aggressioni del 19 ottobre 2008: facilmente l’accusato
+potrebbe intervenire sulle persone coinvolte nelle aggressioni, ma anche e
+soprattutto quelle coinvolte nei furti (ed in particolare con tale __________
+di __________ che sarebbe stato correo di __________); sussisterebbe poi grave
+e concreto pericolo di recidiva, vista la disponibilità a delinquere dimostrata
+dall’accusato, ancora prima di commettere i fatti oggetto del presente
+procedimento penale. Già egli ha avuto dei problemi con la giustizia da
+minorenne (AI 8) e, prima dei fatti che hanno portato al suo arresto,  già era
+stato segnalato alle Autorità anche da maggiorenne. Malgrado le condanne e gli
+interrogatori di Polizia egli ha continuato a delinquere commettendo analoghi
+reati. __________ ha inoltre agito in modo violento e gratuito nei confronti
+delle due vittime ______, quanto da lui commesso non può assolutamente essere
+banalizzato. Egli non ha inoltre nessun attività lavorativa da oltre due anni.
+Rispettato il principio di proporzionalità.
+-
+la difesa con osservazioni  25 novembre 2008 si rifà alle
+allegazioni dell’istanza di libertà provvisoria; scongiurato il pericolo di
+collusione e inquinamento delle prove avendo l’accusato ammesso le proprie
+responsabilità; gli ulteriori elementi che andranno analizzati sono di
+secondaria importanza e potranno essere accertati ulteriormente mediante
+interrogatori e/o confronti che non necessitano il mantenimento dell’accusato
+in detenzione. Negato anche il pericolo di recidiva avendo l’accusato ben
+capito, anche tramite la procedura in oggetto, che commettendo ulteriori reati
+egli peggiora la propria situazione. In via subordinata si potrà eludere il pericolo
+di collusione e di recidiva con la fissazione di misure sostitutive quali la
+prestazione di una cauzione, il deposito dei documenti, la regolare
+presentazione presso un ufficio o il divieto di frequentare certi luoghi o
+certe persone. Ad oggi i principi di celerità e di proporzionalità non
+sarebbero più rispettati. Per le ulteriori considerazioni, se del caso, si dirà
+nel seguito della presente;
+-
+l’istante, detenuto, è pacificamente legittimato a presentare
+istanza di libertà provvisoria. Il preavviso del Procuratore pubblico, ritenuta
+ricezione dell’istanza il 20 novembre 2008, è tempestivo scadendo il termine di
+3 giorni domenica 23 novembre, termine che viene quindi riportato a lunedì 24
+novembre, e avendo il PP trasmesso a questo ufficio istanza e preavviso
+negativo il 24 novembre per raccomandata, nel termine quindi di 3 giorni. Il
+termine di cui all'art. 108 cpv. 2 CPP, avendo questo ufficio ricevuto quanto
+sopra unitamente all’incarto penale martedì 25 novembre 2008, il termine per
+questo giudice scade venerdì 28 novembre 2008, ex art. 20 cpv. 3 CPP;
+-
+i principi che reggono la materia, pur se noti al alle parti,
+vengono qui brevemente richiamati:
+"L'art. 95 CPP - corrispondente all’art. 33
+scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio 1993 - dopo
+evidenza al cpv. 1 del principio secondo cui l'accusato si trova di regola in
+libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere preventivo
+a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso accusato gravi
+e concreti indizi di colpabilità per un crimine o un delitto e nel contempo
+sono presenti preminenti motivi di interesse pubblico, quali - per quanto qui
+concerne - i bisogni dell’istruzione, con particolare riguardo al pericolo di
+collusione che, - sia detto qui a futura memoria - può continuare ad esistere
+sino al pubblico dibattimento (sentenza della I Corte di diritto pubblico del
+Tribunale federale del 23 marzo
+2000 in
+re S.B., consid.
+4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco dei
+motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione della libertà
+personale ha così trovato codificazione in una chiara base legale (di diritto
+cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento di
+quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali - nel
+solco di quella del Tribunale federale -, ritenuto implicito il rispetto della
+proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia
+381).
+I menzionati presupposti vanno approfonditi con maggior
+rigore nella loro valutazione, quanto più si è protratta la restrizione della
+libertà e quanto più si avvicina la conclusione delle indagini (REP 1988 pag.
+416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera
+dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+-
+l’esistenza di gravi e concreti indizi di colpevolezza deve
+essere verificata d’ufficio nei limiti di competenza di questo giudice
+derivanti dalla sua funzione che è quella di esaminare l’esistenza dei
+presupposti per il mantenimento della misura restrittiva della libertà
+personale e non di valutare nella sostanza l’esistenza di un reato, e che con
+verosimiglianza sufficiente, a questo stadio del procedimento ed in questa
+sede, si può concludere per la presenza di numerosi, seri e concreti indizi di
+colpevolezza a carico di __________ e relativi ad un suo coinvolgimento nei
+fatti inquisiti;
+-
+nel caso in esame non occorre dilungarsi più di tanto per
+confermare l'esistenza di gravi indizi di reato in capo all’accusato, peraltro
+neppure contestati dalla difesa; a questo proposito, per quanto riguarda
+l’accusa di aggressione e di lesioni semplici, giova ricordare le dichiarazioni
+dell’accusato rese a verbale PP del 6 novembre 2008, p. 3 e 4 “
+Per
+riassumere ammetto che il 19 ottobre 2008 ho partecipato all’aggressione del
+ragazzo __________ di nome __________. Io gli ho dato dapprima un calcio alla
+coscia sinistra perché lui mi ha dato un pugno sfiorandomi la faccia. In
+seguito quando lui si è rifugiato nel sottoscala io ho partecipato con gli
+altri a picchiarlo. Gli ho dato due pugni in pancia o sul petto ma sicuramente
+non in faccia. Si è trattato di una cosa veloce perché poi è intervenuto __________
+(il più grande) che ha bloccato tutti e ha fatto salire __________ sulle scale.
+ADR che a quel momento avevo già il tirapugni in tasca ma non l’ho usato. …Che
+il ragazzo __________
+(il secondo, n.d.r.)
+è stato picchiato dal
+fratellino di __________, dal fratello __________ e da __________. …Anch’io ho
+colpito il ragazzo _______ utilizzando il tirapugni. Se ben ricordo ho tolto di
+tasca il tirapugni e l’ho infilato nelle dita quando lui si è aggrappato alla
+mia gamba. Se ben ricordo gli ho dato due o tre colpi in faccia. Probabilmente
+l’ho colpito sopra il naso e sopra l’occhio come ho potuto vedere dalla
+fotografie mostratemi dalla Polizia.
+”;
+-
+In merito ai bisogni istruttori atti a giustificare la detenzione
+preventiva ed il suo perdurare, vi é consolidata giurisprudenza (e dottrina):
+“In relazione ai bisogni istruttori, atti a
+giustificare la misura restrittiva della libertà personale, occorre ricordare
+che questi non s'identificano semplicemente con gli atti istruttori in quanto
+tali, o con gli accertamenti (ancora) da effettuare, bensì con il pericolo di
+collusione o d'inquinamento delle prove che (eventualmente) espone a rischio la
+corretta raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale
+suisse, ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697
+ss.; RDAT 1988 no. 24).
+In
+quest'ottica il fatto che l'inchiesta
+sia
+tuttora in corso non è, di per sé,
+decisivo, in quanto "
+Die Tatsache allein, dass noch nicht alle Beweise
+erhoben bzw. die Mitverdächtigen dingfest gemacht werden konnten oder dass der
+Angeschuldigte die Aussage verweigert, genügt nicht
+" (N. Schmid, op.
+cit., no. 701a).
+Occorre che l'indagato,
+se posto in libertà, possa pregiudicarne (o comprometterne) il corretto
+svolgimento e, conseguentemente, l'esito.
+E', inoltre, necessario che questa possibilità di
+pregiudicare la raccolta di elementi di prova si fondi su elementi concreti:
+"
+Jedoch genügt nach der Rechtsprechung des Bundesgerichtes die
+theoretische Möglichhkeit, dass der Angeschuldigte in Freheit kolludieren
+könnte, nicht, um die Fortsetzung der Haft oder        die Nichtgewährung von
+Urlauben unter diesem Titel zu rechtfertigen. Es mussen vielmehr konktrete
+Indizien für eine solche Gefahr sprechen
+." (DTF 117 Ia 257, cons.
+4 c.).
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza
+d'interessi (tra i due) in relazione al contenuto della deposizione (SJ 1990 p.
+438; DTF 117 Ia 257; ZR 72 no. 77 p. 19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66;
+Hauser/Schweri, Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13).”
+(GIAR 23
+settembre 2002 in re Y.)
+Nello stesso senso, la CRP:
+"I rischi di collusione e di inquinamento delle
+prove sono legati soprattutto ai bisogni dell'istruttoria. Da un lato si tratta
+generalmente di evitare o prevenire accordi tra l'imputato e i testimoni - già
+sentito o ancora da sentire - o i correi e complici non arrestati, messi in
+atto per nascondere al giudice la verità, dall'altro di impedire interventi
+fraudolenti del prevenuto in libertà sui mezzi di prova non ancora in possesso
+della giustizia, allo scopo di distruggerli o di alterarli a suo vantaggio. la
+possibilità di ostacolare in tal modo l'azione dell'autorità giudiziaria da
+parte del prevenuto deve essere valutata sulla base di elementi concreti, la
+realtà di questo rischio non potendo essere ammessa aprioristicamente ed in
+maniera astratta (DTF 117 Ia 257; Decisione TF 2.3.2000 in re A. e rif.; R.
+Hauser/E. Schweri, op. cit.
+§
+68 n. 13; G. Piquerez, op. cit. n. 2344 ss.)"
+(sentenza
+16 settembre
+2004 in
+re B., CRP 60.2004.297
+)
+-
+a mente del magistrato inquirente sussisterebbero oggettivi
+bisogni istruttori ravvisabili in nuovi interrogatori dell’accusato, dei
+coaccusati, singolarmente e a confronto (in particolare con gli accusati __________,
+__________ nonché gli accusati minorenni) per chiarire il più possibile la
+dinamica delle aggressioni ai danni dei due cittadini __________ – quando un
+gruppo di giovani ha dapprima aggredito e poi rincorso e picchiato __________ e
+poi, dopo circa 30/40 minuti, quando la prima vittima è ritornata sui luoghi
+per recuperare oggetti personali persi durante l’aggressione, accompagnata dal __________,
+il gruppo ha iniziato a colpire quest’ultimo, picchiandolo e rincorrendolo e
+picchiandolo ancora barbaramente con pugni e calci e addirittura con una mazza
+da baseball (per opera di __________) e con un tirapugni (consegnato da __________
+al qui istante) fino a renderlo privo di sensi – e le reali responsabilità
+dell’accusato, nonché per chiarire i due episodi di minacce ai danni di __________
+e __________; ulteriori interrogatori per chiarire le sue responsabilità nei
+furti commessi nel corso del 2007 e 2008 in correità o complicità con __________
+e __________ e tale __________ di __________; di conseguenza concreto sarebbe
+il pericolo di collusione e la possibilità di inquinamento delle prove con
+queste persone ancora da interrogare o reinterrogare, anche per il fatto che
+l’istante ha tenuto un atteggiamento reticente e poco collaborativo dall’inizio
+dell’inchiesta, decidendosi di collaborare con gli inquirenti dopo avere preso
+atto delle dichiarazioni degli altri coaccusati in merito a quanto avvenuto,
+cercando comunque di sminuire le proprie responsabilità, a volte negando
+l’evidenza;
+-
+per la difesa i fatti sono stati chiariti durante i verbali resi,
+e gli ulteriori dettagli, di minore importanza, da chiarire lo potranno essere
+(tramite interrogatori e confronti) con l’accusato a piede libero; come detto
+la fattispecie relativa ai fatti del 19 ottobre 2008 è stata chiarita per
+quanto riguarda le responsabilità dell’accusato, lo stesso dicasi per quanto
+concerne i due episodi di minacce in danno di __________ e __________, anche
+grazie alla piena ammissione dell’istante lo stesso dicasi per quanto riguarda
+gli episodi di furto a suo carico; negato il pericolo di collusione e di
+inquinamento delle prove alla luce delle dichiarazioni ed ammissioni
+dell’accusato e dalla lunga carcerazioni preventiva;
+-
+in un simile contesto giuridico e fattuale (con l’inchiesta in
+pieno svolgimento, e con numerose persone, sia maggiorenni che minorenni
+accusate), vista la gravità della fattispecie, l’estrema futilità delle
+motivazioni a monte dell’agire dell’istante e la sussistenza di alcune
+divergenze, non di dettaglio, tra accusato e correi – come quelle relative alla
+dinamica delle minacce proferite a __________ e a __________ da parte di __________
+e del qui istante o la partecipazione ai numerosi furti che emergono dagli atti
+– e alla necessità di chiarire il più possibile la dinamica dei fatti avvenuti
+il 19 ottobre scorso – con l’utilizzo di oggetti pericolosi, quali una mazza da
+baseball (per opera del correo __________) e di un tirapugni verosimilmente di
+proprietà di __________ ma utilizzato da qui istante in danno di __________ nel
+corso della seconda aggressione di quella sera – e quella dei numerosi furti
+con l’identificazione di tutti i correi, nonché la facilità di approccio
+delinquenziale per quanto riguarda i furti e gli altri reati connessi e il
+coinvolgimento di diverse altre persone, tra cui minorenni, (che hanno
+partecipato con il qui istante, non solo all’aggressione, ma anche ai furti), è
+evidente la necessità di procedere con l’audizione dell’istante, di correi
+(alcuni ancora da identificare e sentire, come l’__________ di __________),
+coaccusati e testimoni, mantenendo l’accusato in stato di detenzione
+preventiva. La sussistenza, in questo stadio del procedimento, di un pericolo
+di collusione e/o di inquinamento delle prove è accertata con riferimento alla
+necessità di procedere a questi atti d’inchiesta, con dichiarazioni in parte
+ancora divergenti e al fatto che si tratta di dichiarazioni di correi (peggio:
+di amici di scorribande), quindi suscettibili di essere modificate se l’istante
+potesse comunicare con loro; che ciò non sia solo un timore astratto lo
+conferma il fatto che __________ si era attivato con __________ per indurre i
+suoi correi ancora a piede libero e i suoi amici e conoscenti a non rivelare la
+sua presenza durante le aggressioni del 19 ottobre 2008 (con riferimento alle
+minacce proferite a __________ e __________ da __________ e __________ al fine
+di non essere nominati nel presente procedimento) ritenuto peraltro che
+l’atteggiamento processuale dell’accusato non può essere ritenuto propriamente
+collaborativo dal momento che egli si è deciso a fare alcune ammissioni solo
+dopo avere preso atto delle chiamate in correità; è d’altronde l’accusato
+stesso ad avere richiesto un confronto diretto con il correo __________,
+l’ultima volta nella lettera ricevuta dal PP il 25 novembre 2008 (cfr. GIAR
+524.2008.3, doc. 5), atto istruttorio il cui valore verrebbe a cadere in caso
+l’accusato potesse contattare gli altri coaccusati;
+-
+il pericolo di recidiva consiste nel rischio che l'accusato in
+libertà commetta ulteriori reati o continui la commissione di quelli per cui è
+stato arrestato; come per gli altri motivi di arresto, anche il pericolo di
+recidiva deve essere concreto e risultare dall'insieme delle circostanze (DTF
+105 Ia 26). Il pericolo di recidiva ex art. 95 CPP è nozione relativamente
+estesa: l'assenza di precedenti specifici non basta, da sola, ad escluderlo,
+così come non basta, sempre da solo, a fondarlo il fatto che prima dell'arresto
+siano stati commessi più reati (DTF 12 agosto 1981 in re C.; DTF 123 I 268; SJ 1981, pag. 380 a 382; BJP 1989 n. 671; CRP 17 novembre 2005 in re M., 60.2005.357; G. Piquerez, Procédure pénale suisse, n. 2358; N. Schmid,
+Strafprozessrecht, 4. Auflage, n. 701b; Rusca/Salmina/Verda, Commentario CPP,
+pag. 327 ss.; CPP Vaudoise annotato, Losanna 2004, nota 2.2.5 ad art. 59). La
+gravità del reato (se si preferisce la gravità dei fatti oggetto d’accusa e di
+cui si teme reiterazione), condizione la cui assenza è comunque determinante
+(G. Piquerez, op. cit., n. 2358, nota 84), da sola non basta (sentenza CRP
+citata, cons. 8 e riferimenti) ma deve essere debitamente considerata (DTF
+21.1.2005, 1P.750/2004; DTF 25.4.2006, 1P.198/2006; CRP 16.5.2006,
+60.2006.154). Occorre, insomma, che l'insieme delle circostanze (precedenti,
+comportamento in istruttoria, personalità, modalità di commissione, condizioni
+socio-famigliari, eventuale carattere deterrente del procedimento in corso,
+fatti oggetto dell’ipotesi di reato ecc.) concorrano ad imporre una prognosi
+molto sfavorevole (DTF 21 gennaio 2005, 1P.750/2004);
+-
+per confermare l’esistenza di un pericolo di recidiva si inizi
+col dire che l’accusato è già stato colpito da un decreto d’ammonimento del
+Magistrato dei minorenni per un furto con scasso di un furgone avvenuto nel
+2002; si pensi poi al fatto che il PP gli ha promosso l’accusa per i reati di
+vie di fatto, ingiuria, coazione, per fatti avvenuti in danno della sua ex
+ragazza e di un’amica di quest’ultima nel 2006 e 2007 (quando __________, a
+cavallo della maggiore età, non accettando di essere lasciato dalla ragazza, ha
+messo in atto un comportamento che potrebbe rientrare tranquillamente nella
+tipologia dello stalker, minacciando più volte di morte sia le due ragazze che
+i loro entourages), a ciò si aggiunga che egli ha già ammesso la partecipazione
+a diversi furti, in correità/complicità con __________, negli ultimi due anni.
+Tali procedimenti (soprattutto i numerosi interrogatori di Polizia) e la
+condanna del Magistrato dei minorenni non sono serviti da deterrente per
+impedirgli dal delinquere. Va inoltre osservato che già per i furti del 2006 e
+2007 l’istante si accompagnava nell’attività criminale con alcune persone i cui
+nominativi emergono nell’inchiesta per aggressione, frequentazioni che ha
+quindi continuato anche per i reati di cui ci si occupa nel presente
+procedimento penale. Come detto, malgrado la condanna e le denunce in Polizia,
+egli ha continuato a delinquere con la stessa tipologia di reati. I fatti del
+19 ottobre 2008, che hanno portato al suo arresto, si distaccano dagli altri solo
+per un preoccupante aumento di gravità; a questo proposito non si può non
+osservare come l’accusato non sembra volersi conformare ad uno stile di vita
+adeguato alla propria comunque giovane età, nonché il fatto che egli non abbia
+un lavoro e non si preoccupi di cercarne uno (addirittura le umili attività
+propostegli dall’Ufficio di collocamento non sarebbero alla sua altezza, cfr.
+AI 7, p. 2) preferendo le scorribande notturne, con altri nullafacenti, in
+attesa di un improbabile futuro da calciatore. L’accusato non sembra poi avere
+sviluppato quel minimo di autocritica (cfr. ad esempio lettera al PP, inc. GIAR
+524.2008.3, doc. 5 il cui tenore poco si distanzia da quello delle risposte
+date alla Polizia a verbale 13 luglio 2007 quando a p. 3, richiesto di spiegarsi
+a proposito di un SMS minaccioso inviato alla ex fidanzata, non ha trovato di
+meglio da fare che ridere e definire “
+troppo forte questo messaggio
+” o
+quando, a p. 4, richiesto di spiegarsi in proposito di un SMS con il quale
+minacciava di accoltellare il nuovo amico della sua ex, ha dichiarato che si
+trattava di una “
+cazzata, solo per spaventarla”
+) che permetterebbe di
+potere ritenere scongiurato, o perlomeno diminuito, il pericolo di recidiva
+(tanto che ancora recentemente si è adoperato per minacciare __________ e __________
+affinché non lo chiamassero in causa con gli inquirenti per i fatti del 19
+ottobre 2008). Egli non ha infatti nessun progetto per il futuro, al di là di
+affermare che vorrebbe trovare un lavoro (si trova senza lavoro da oltre due
+anni e nel frattempo non ha neppure cercato di conseguire un diploma), ma il
+suo impegno in tal senso è nullo. L’accusato potrebbe ricadere facilmente nella
+commissione di furti e reati contro la persona; vista la sua precaria
+situazione finanziaria (anche se la mancanza di un reddito non gli impedisce
+comunque di frequentare esercizi pubblici), le sue frequentazioni e vista la
+mancanza di assunzione di responsabilità e l’estrema futilità dei motivi a
+monte del suo agire vi è il concreto timore che possa riprendere a commettere
+reati contro la persona e furti; la sua aggressività (e di conseguenza la sua
+pericolosità) e l’assenza di elaborazione dei fatti di cui lo si accusa, lo si
+evince anche dal comportamento tenuto dall’accusato in carcere quando, comunque
+in concomitanza con l’inoltro di un’istanza di libertà provvisoria da parte del
+suo legale, ha ritenuto di inviare una missiva al PP, dai toni discutibili, con
+la quale lo accusa di avergli “
+rovinato la testa per il suo divertimento
+”
+e lo avverte che in caso di mantenimento della detenzione chiederà i “danni” e
+i “danni d’immagine” (cfr. inc. GIAR 524.2008.3, doc. 5);
+-
+non può poi essere considerata l’applicazione di misure
+sostitutive dell’arresto, come genericamente proposto dalla difesa, in quanto non
+si vede come poter ovviare in altro modo all’accertato pericolo di collusione
+(in relazione con i bisogni istruttori ancora presenti) o al concreto pericolo
+di recidiva e neppure la difesa ne sostanzia una qualche possibile
+applicazione; l’accusato non sembra poi in grado di volersi/potersi attenere ad
+eventuali norme di condotta, tanto più che non ha neppure l’occasione di
+un’attività lavorativa che permetta a questo giudice di potere ritenere che,
+almeno durante la giornata, più non frequenterà gli altri correi;
+-
+la proporzionalità di una carcerazione (preventiva) deve essere
+analizzata da angolature diverse. Da un lato occorre mettere in relazione la
+durata del carcere preventivo con la gravità e complessità della fattispecie e
+con la pena presumibile e dall’altro occorre anche verificare il rispetto del
+principio di celerità (SJ 1981 p. 383 e citazioni; art. 102 CPP). La
+proporzionalità della carcerazione sin qui sofferta, alla luce della gravità
+delle accuse, della presenza di concreti indizi di colpevolezza, e delle
+dimensioni dell’inchiesta, con più indagati (maggiorenni e minorenni) sotto
+inchiesta, diversi atti istruttori compiuti e ancora da compiere, l’annessione
+agli atti di altri procedimenti penali e dell’atteggiamento processuale
+dell’accusato, che non può essere definito propriamente collaborativo, almeno
+dall’inizio del procedimento, è ancora data. Gli inquirenti hanno proceduto con
+celerità e non si sono limitati ad interrogare l’accusato, ma anche i numerosi
+coaccusati ed altre persone coinvolte. __________ è stato arrestato il 22
+ottobre 2008 per dei reati di sicura gravità e ad oggi è in detenzione
+preventiva da poco più di un mese. In questo lasso di tempo l’inchiesta appare
+procedere con la dovuta celerità anche in considerazione della sua ampiezza,
+per il numero delle persone coinvolte e per la tipologia dei reati esaminati;
+-
+in conclusione sufficienti presupposti di legge, come anche
+esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella situazione
+personale e processuale di __________ a legittimare e giustificare il perdurare
+della cautelare privazione della sua libertà. Di conseguenza, l’istanza di
+libertà provvisoria in discussione, deve essere respinta con la presente
+decisione, esente da tassa e spese giudiziarie (art. 39 let. f TG e contrario)
+e impugnabile entro dieci giorni alla Camera dei ricorsi penali del Tribunale
+d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+Intimazione:
+giudice
+Claudia Solcà
