@@ -1,0 +1,145 @@
+---
+decision_id: "ti_gerichte_INC.2008.32007"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.32007"
+decided: "2008-12-09"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=100025&nX40_KEY=4711189&nTrefferzeile=11&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-281.md"]
+---
+
+# TI Gerichte INC.2008.32007
+
+## Regeste
+
+Reclamo contro i quesiti peritali. Reclamo irricevibile
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 09.12.2008 INC.2008.32007
+Tessin Il Giudice dell'istruzione e dell'arresto 09.12.2008 INC.2008.32007
+Ticino Il Giudice dell'istruzione e dell'arresto 09.12.2008 INC.2008.32007
+
+Reclamo contro i quesiti peritali. Reclamo irricevibile
+
+Incarto n.
+INC.2008.32007
+Lugano
+9 dicembre 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sul reclamo presentato il 3 dicembre
+2008 da
+__________
+(patr. dall’avv. __________)
+contro
+la decisione 27 novembre 2008
+del Procuratore pubblico Fiorenza Bergomi nell’ambito di procedimento penale
+di cui all’inc. MP __________;
+visto l’esito del gravame si può
+prescindere dall’intimazione al Procuratore pubblico per osservazioni;
+ritenuto e considerato,
+in fatto ed in
+diritto
+che:
+-   il Ministero pubblico ha aperto un procedimento penale nei
+confronti del reclamante per titolo di truffa: egli è accusato di essere
+correo, subordinatamente complice, della moglie __________ __________, che è
+stata vittima il 24 maggio 1993 di un incidente sul lavoro agli arti superiori
+(ustione con la soda caustica che le avrebbe provocato ustioni di 2° e 3°
+grado) – a seguito del quale è stata ritenuta inabile al lavoro manuale e sono
+intervenute a vario titolo diverse compagnie assicurative che le hanno fornito
+prestazioni di natura pecuniaria (tra cui __________ __________, __________, __________,
+__________, __________, __________, __________, __________) – e che è a sua volta
+accusata di avere ingannato, con l’aiuto del marito qui istante, tali istituti
+assicurativi, autoinfliggendosi delle ferite agli arti superiori (da sola e con
+l’aiuto del marito) al fine di simulare un aggravamento delle conseguenze
+dell’incidente originario e così ottenere il versamento di prestazioni
+assicurative, altrimenti non dovute, e tentato di percepire, con le stesse
+modalità, una rendita per grandi invalidi: prestazioni e rendite di cui hanno
+sostanzialmente beneficiato entrambi i coniugi (considerato che l’istante
+avrebbe cessato ogni attività lucrativa nel 2003 vivendo con le rendite
+ricevute dalla consorte);
+-
+il
+31 ottobre 2008 il magistrato inquirente ha ordinato la perizia psichiatrica
+della coaccusata (moglie del qui reclamante) e, con istanza 6 novembre 2008, la
+difesa del reclamante ha chiesto al PP lo stralcio di alcuni quesiti peritali
+(in particolare quelli riferiti al pericolo di recidiva);
+-
+il
+7 novembre 2008 il PP ha respinto tale richiesta e, il 19 novembre 2008, la
+difesa dell’accusato è insorta a questo ufficio contro tale modo di procedere:
+la procedura di reclamo è tuttora pendente (inc. GIAR 320.2008.5) così come un
+reclamo successivo, inoltrato sempre dalla difesa del qui reclamante contro un
+quesito aggiuntivo del PP inviato al perito (inc. GIAR 320.2008.6);
+-
+il
+PP, con raccomandata 27 novembre 2008 al perito psichiatrico, inviata sempre
+per raccomandata a tutte le parti (e per conoscenza a questo ufficio), ha
+comunicato al perito l’esistenza dei due reclami summenzionati, volti
+sostanzialmente ad ottenere lo stralcio di alcuni quesiti peritali, e lo
+informa che ai sensi dell’art. 281 CPP il reclamo al GIAR non ha effetto
+sospensivo, che neppure è stato chiesto dal reclamante; nello stesso scritto il
+PP ricorda al perito di rispondere a tutti i quesiti a lui formulati;
+-   con reclamo 3 dicembre 2008 la difesa di __________ impugna lo
+scritto 27 novembre 2008 del PP e ne chiede l’annullamento; con riferimento ai
+reclami 19 e 20 novembre 2008, intesi allo stralcio di tutto il capitolo 3 dei
+quesiti peritali sottoposti al perito psichiatrico, la difesa afferma che il
+PP, facendo uso non appropriato di una dimenticanza della difesa, impone
+imperativamente, senza aspettare l’esito dei reclami, di rispondere a tutti i
+quesiti formulati, chiedendo in ogni caso al perito psichiatrico una risposta a
+dei quesiti che non sono di sua competenza; il reclamante si oppone quindi a
+che il perito risponda ai quesiti postigli nel capitolo 3 e chiede l’effetto
+sospensivo al reclamo, essendo illogico sottoporre al perito dei quesiti che
+l’autorità superiore potrebbe stralciare;
+-   come detto non sono state chieste osservazioni alle parti;
+-   ai sensi dell’art. 280 cpv. 1 CPP è ammesso il reclamo al Giudice
+dell’istruzione e dell’arresto contro tutti i provvedimenti e le omissioni del
+Procuratore pubblico;
+-   la legittimazione attiva del reclamante, formalmente accusato e
+destinatario dello scritto impugnato, è data e la presentazione del gravame è
+tempestiva;
+-   si osserva che la lettera 27 novembre 2008 del magistrato
+inquirente, benché risultino incomprensibili allo scrivente le finalità della
+stessa – non essendo il perito parte coinvolta nella procedura di reclamo –
+nonché modalità d’invio (per quale motivo per lettera raccomandata a tutte le
+parti), non è una decisione formale (provvedimento) del Procuratore pubblico
+impugnabile a questo Ufficio, bensì una semplice comunicazione con la quale il
+magistrato inquirente ha inteso informare il perito psichiatrico dell’esistenza
+di due reclami contro alcuni quesiti peritale che gli sono stati formulati e
+del fatto che ai reclami non è stato concesso (ma neanche richiesto) effetto
+sospensivo: si tratta in sostanza di una mera comunicazione al perito su come
+evolve la procedura e, in quanto tale, non può essere considerato un
+provvedimento impugnabile ai sensi dell’art. 280 CPP, ciò malgrado l’inusuale
+metodo d’invio;
+-   la difesa non può sdoganare ora, impugnando lo scritto 27
+novembre 2008 del PP, una richiesta di effetto sospensivo ai reclami 19 e 20 novembre
+2008, effetto sospensivo che prima vista non sarebbe neppure stato concesso,
+non essendovi rischio di pregiudizio irreparabile per il reclamante e non
+avendo la difesa impugnato in toto l’ordine di erezione della perizia
+psichiatrica, ma unicamente alcuni dei quesiti posti;
+-   in conclusione il reclamo deve essere respinto, in quanto
+irricevibile, con carico di tasse e delle spese al reclamante.
+P.Q.M
+visti gli artt. citati e l’art.
+39 lett. f) LTG,
+decide
+1.
+Il reclamo presentato il 3 dicembre 2008 da __________
+è irricevibile.
+2.
+La tassa di giustizia, fissata in CHF 300.--, e le
+spese di CHF 100.--, sono a carico del reclamante.
+3.
+La presente
+decisione è definitiva (a livello cantonale).
+4.
+Intimazione:
+giudice
+Claudia Solcà
