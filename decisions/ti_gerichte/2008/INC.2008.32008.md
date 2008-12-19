@@ -1,0 +1,504 @@
+---
+decision_id: "ti_gerichte_INC.2008.32008"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.32008"
+decided: "2008-12-19"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=100024&nX40_KEY=4711188&nTrefferzeile=64&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/311.0/art-251.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/831.10/art-087.md", "switzerland/bund/acts/831.20/art-070.md"]
+---
+
+# TI Gerichte INC.2008.32008
+
+## Regeste
+
+Proroga carcere preventivo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 19.12.2008 INC.2008.32008
+Tessin Il Giudice dell'istruzione e dell'arresto 19.12.2008 INC.2008.32008
+Ticino Il Giudice dell'istruzione e dell'arresto 19.12.2008 INC.2008.32008
+
+Proroga carcere preventivo
+
+Incarto n.
+INC.2008.32008
+Lugano
+19 dicembre 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di proroga del carcere
+preventivo presentata il 12 dicembre 2008 dal
+Procuratore pubblico Fiorenza Bergomi
+nei confronti di
+__________
+attualmente c/o __________, __________
+patr. d’ufficio dall’avv. __________
+accusato di truffa aggravata,
+sub. semplice (art. 146 CP) falsità in documenti (art. 251 CP) e infrazione
+alla LAVS (art. 87 LAVS, richiamato l’art. 70 LAI);
+viste le osservazioni 16 dicembre
+2008 della difesa;
+visto l’incarto MP __________;
+considerato
+in fatto ed in
+diritto
+-
+per quanto riguarda i fatti si può fare riferimento alla decisione 14
+agosto 2008 di questo giudice (inc. GIAR 320.2008.3, doc. 5):
+“A.
+__________ è stato arrestato il 30 giugno
+2008 in
+quanto accusato di truffa
+(a seguito della presentazione della denuncia 19 ottobre 2007 della __________,
+ufficio di __________ contro la di lui moglie __________) dal Procuratore
+pubblico, dopo essere stato interrogato. Lo stesso giorno è pure stata
+arrestata la moglie dell’istante, __________, per lo stesso titolo di reato:
+anch’ella si trova tuttora in detenzione preventiva.
+__________ è accusato di essere correo,
+subordinatamente complice, della moglie __________ che sarebbe stata vittima il
+24 maggio 1993 di un incidente sul lavoro agli arti superiori (ustione con la
+soda caustica che le avrebbe provocato ustioni di 2° e 3° grado) – a seguito
+del quale sarebbe stata ritenuta inabile al lavoro manuale e sarebbero
+intervenute a vario titolo diverse compagnie assicurative che le hanno fornito
+prestazioni di natura pecuniaria (tra cui __________, Istituto delle __________,
+__________, __________) – e che è a sua volta accusata di avere ingannato, con
+l’aiuto del marito qui istante tali istituti assicurativi, autoinfliggendosi
+delle ferite agli arti superiori (da sola e con l’aiuto del marito) al fine di
+simulare una aggravamento delle conseguenze dell’incidente originario e così
+ottenere il versamento di prestazioni assicurative, altrimenti non dovute, e
+tentato di percepire, con le stesse modalità, una rendita per grandi invalidi:
+prestazioni e rendite di cui hanno sostanzialmente beneficiato entrambi i
+coniugi (considerato che l’istante avrebbe cessato ogni attività lucrativa nel
+2003 vivendo con le rendite ricevute dalla consorte).
+Il 16.7.2003 la moglie dell’istante avrebbe ottenuto
+dal datore di lavoro, in via giudiziaria, anche un’indennità per danni non assicurati
+di CHF 541'365.25 (in parte utilizzata, per CHF 200'000.-/250'000.- per la
+ristrutturazione della casa in __________ dei coniugi __________.
+“L’8.6.2006, per valutare la richiesta di indennità per
+grandi invalidi rispettivamente per chiarire la particolare “
+anomala
+”
+situazione [“
+In sostanza (…) usciva dall’ospedale in fase di netta
+guarigione ed ai controlli ambulatoriali ai quali si presentava in seguito, le
+condizioni delle sue mani e dei suoi avambracci risultavano di nuovo ex ante
+”
+(denuncia penale 19.10.2007, p. 3)], __________ sarebbe stata visitata dal dr.
+med. __________. Il perito avrebbe rilevato l’impossibilità soggettiva di muovere
+braccia e mani e concreti indizi di lesioni autoinflitte; avrebbe consigliato
+un’osservazione costante della denunciata, con documentazione fotografica
+mensile del decorso delle lesioni.
+L’ispettore __________ avrebbe proceduto alle verifiche
+presso l’abitazione di __________ il 15.9.2006, il 28.11.2006, il 22.1.2007, il
+16.2.2007 ed il 30.4.2007. All’inizio di aprile 2007 __________ __________Ufficio
+sinistri, avrebbe incaricato l’agenzia investigativa __________, di monitorare
+la denunciata durante i soggiorni in __________. Il controllo effettuato nel
+periodo 6.-22.4.2007 e 21.-24.5.2007 avrebbe permesso di evidenziare come
+trascorresse il tempo tra lavori di giardinaggio, faccende di casa, passeggiate
+con il cane e spese al mercato, con, quindi, piena mobilità e funzionalità
+degli arti superiori, che non avrebbero presentato fasciature o lesioni sanguinolente.
+L’8.6.2007 la denunciata sarebbe stata nuovamente
+visitata dal dr. med. __________, che avrebbe attestato che la mobilità attiva
+non poteva essere stabilita perché aveva abbozzato tentativi di movimento
+appena accennati e che, inoltre, ogni tentativo di mobilità passiva provocava
+forti dolori ed il ritrarsi dell’arto.
+Il denunciante, alla luce di questa situazione, ha
+ritenuto autoinflitte le lesioni ed inesistenti le problematiche motorie e/o
+funzionali: non ci sarebbe stata alcuna limitazione delle funzioni di braccia e
+mani. Sarebbe stata completamente abile al lavoro e, quindi, l’avrebbe truffato
+per quasi quindici anni di oltre CHF 300'000.-- e tentato di truffare (in capo
+alla richiesta di una rendita per grandi invalidi) per una somma tra CHF
+154'953.-- e CHF 309'906.-- (con l’aiuto, forse, del marito, che – da quando la
+denunciata ha ottenuto le rendite assicurative – avrebbe cessato ogni attività
+lucrativa). __________, __________-Ufficio sinistri, che si è costituito parte
+civile nel procedimento, avrebbe sospeso il versamento delle prestazioni a
+partire dal 31.7.2007” (Inc. CRP 60.2008.72, sentenza 16 giugno 2008, p. 2 e
+3).
+B.
+Giova a questo punto ricordare che a seguito della
+denuncia penale 19 ottobre 2007 della __________, altro PP aveva decretato il
+21 febbraio 2008, non luogo a procedere nei confronti di __________ in capo al
+suddetto procedimento penale, in considerazione del carattere solo civile,
+rispettivamente amministrativo-assicurativo della vertenza (NLP __________).
+Contro tale decisione era insorta la __________ con istanza di promozione
+dell’accusa 3/4 marzo 2008 alla Camera dei ricorsi penali che, con sentenza 16
+giugno 2008 (inc. CRP 60.2008.72), aveva annullato il decreto di non luogo a
+procedere 21 febbraio 2008, promovendo nei confronti di __________ l’accusa per
+titolo di truffa e ordinando che l’istruzione del processo dovesse aver luogo
+per opera di altro PP. Nei considerandi della sentenza si legge che il
+procuratore pubblico dovrà ulteriormente approfondire l’esistenza del reato,
+anche con riferimento alla prescrizione penale “
+con l’assunzione agli atti,
+segnatamente, delle prove proposte dal qui istante, esaminando pure la
+posizione di eventuali terzi coinvolti (quali __________, marito dell’accusata)…”
+(CRP 60.2008.72, del 16 giugno 2008, punto 4.3.4, p. 14).
+C.
+Con la richiesta di conferma dell’arresto 1° luglio
+2008 il magistrato inquirente ha promosso a__________ l’accusa per titolo di
+truffa aggravata, sub. semplice, consumata e tentata (ai sensi dell’art. 146
+cpv. 1 e 2 CP) in correità, sub. complicità con la moglie “
+in relazione ai
+fatti oggetto di denuncia di data 19 ottobre 2007 presentata da __________,
+come pure da quanto emerge dallo scritto di data 26/27 giugno 2008 di __________
+nonché dallo scritto 9 aprile 2008 dell’Ufficio dell’assicurazione invalidità
+di __________
+” chiedendo la conferma dell’arresto per i bisogni
+dell’istruzione “
+in particolare pericolo di collusione con la moglie e con
+terzi da interrogare; necessità di verificare la destinazione data ai fondi
+ricevuti da __________ come pure da __________ necessità di verificare la
+posizione dell’__________ necessità di ricostruire i fatti senza che l’accusata
+possa avere contatti con terze persone; necessità di esperire le necessarie
+verifiche mediche; necessità di verificare la documentazione richiesta a terzi;
+necessità di verificare quanto è stato sequestrato al domicilio
+”.
+Questo giudice, il 1° luglio
+2008, ha
+confermato l’arresto
+dell’accusato (inc. GIAR 320.2008.1, doc. 6)  considerata la presenza di gravi
+e concreti indizi di colpevolezza e per i bisogni dell’istruzione – per
+permettere di accertare la destinazione di fondi ricevuti dalla consorte
+(utilizzati da entrambi i coniugi) e per procedere con le verifiche e perizie
+mediche (anche in base alle medicazioni rinvenute al domicilio) sullo stato di
+salute della moglie senza che i due coniugi possano essere in contatto (vista
+la presenza assidua del marito anche in occasione delle visite mediche con i
+periti incaricata dalla __________, nonché il fatto che la moglie non parli con
+i periti medici senza la presenza del marito) al fine di evitare che siano
+provocate artificialmente le lesioni riscontrate sulle braccia della moglie – ,
+pericolo di collusione con la consorte pure accusata e pericolo di fuga – in
+quanto cittadino straniero senza legami con
+la Svizzera
+e con forti
+legami con il paese d’origine dove ha una casa d’abitazione.
+A verbale di conferma dell’arresto, così come già
+davanti alla PP Capella (quando ad un certo punto si è pure avvalso del suo
+diritto di rifiutarsi di rispondere), __________
+ha negato ogni addebito.”
+-
+con decisioni 14 agosto 2008 e 30 ottobre 2008 di questo giudice (inc.
+GIAR 320.2008.3, doc. 5 e GIAR 320.2008.4, doc. 5) sono state respinte due
+istanze di libertà provvisoria presentate dall’accusato, ritenuti dati i gravi
+e concreti indizi di colpevolezza e ritenuta l’esistenza di bisogni istruttori,
+pericolo di collusione e pericolo di fuga;
+-
+con decisione 5 dicembre 2008 la Camera dei ricorsi penali del Tribunale
+d’appello ha respinto il ricorso 10/11 novembre 2008 presentato dall’accusato
+contro la decisione 30 ottobre 2008 di questo giudice, che aveva respinto la
+sua istanza di libertà provvisoria inoltrata il 21/22 ottobre 2008;
+-
+nel frattempo l’inchiesta, che si trova ormai nelle sue fasi conclusive,
+è proseguita, sono state acquisite agli atti le precisazioni del perito
+ortopedico __________ e si è in attesa che il perito psichiatrico, dottor __________,
+rassegni il proprio rapporto peritale (con termine fissato per il 19 dicembre
+2008);
+-
+approssimandosi il termine di scadenza della detenzione ex art. 102 cpv.
+2 CPP, il magistrato inquirente ha inoltrato richiesta per una proroga di 2
+(due) mesi, e meglio sino al 28 febbraio 2008 (Istanza 12 dicembre 2008), allo
+scopo di potere evadere oggettivi bisogni istruttori quali la ricostruzione dei
+flussi finanziari da parte dell’EFIN del Ministero pubblico, acquisire agli
+atti la perizia psichiatrica (come detto il termine per la consegna è stato
+prorogato dal PP sino al 19 dicembre 2008) e contestarla agli accusati e procedere
+ad eventuali delucidazioni, trasmettere la perizia psichiatrica ai periti __________
+(dermatologo) e __________ (ortopedico) per chiedere se intendono apportare
+aggiunte o precisazioni ai loro referti, procedere ai verbali d’interrogatorio
+dei testi dott. __________ e di personale carcerario come chiesto dalla difesa
+(i verbali sarebbero già stati aggiornati per il 16 e il 22 dicembre prossimi),
+ricevere un rapporto del dottor __________, procedere con il deposito degli
+atti ed evadere eventuali complementi istruttori delle parti; a mente del
+magistrato inquirente, la proroga richiesta è rispettosa del principio della
+proporzionalità e si fonda sull'esistenza di gravi indizi di reato e sul
+pericolo di collusione ed inquinamento delle prove e sul pericolo di fuga (con
+citazione alla lettera della decisione 5 dicembre 2008 della CRP. Inc.
+60.2008.356);
+-
+la difesa, con osservazioni 16 dicembre 2008, ricorda come la CRP ha espressamente auspicato, nella propria decisione 5 dicembre 2008, che una volta
+versata agli atti la perizia psichiatrica si vada velocemente in deposito atti;
+per questo motivo la perizia psichiatrica, rassegnata il 19 dicembre, potrà
+essere contestata agli accusati in occasione del già previsto verbale del 22
+dicembre 2008 e dopo di ciò si potrà andare in deposito degli atti,
+sproporzionato sarebbe prorogare il carcere preventivo per acquisire il
+rapporto EFIN o per sottoporre la perizia psichiatrica ai periti giudiziari __________
+e __________: semmai spiegazioni ai periti potranno essere chieste in occasione
+del dibattimento; pure per interrogare il dottor __________ (che peraltro è già
+stato interrogato) non serve la proroga richiesta; a mente della difesa gli
+atti potranno già essere depositati nel corso della prossima settimana,
+considerato che le parti hanno già ampiamente avuto accesso agli atti;
+-
+l’istanza, presentata dall’autorità competente ed entro un termine
+ragionevole per rapporto alla scadenza di cui all’art. 102 cpv. 2 CPP, è
+ricevibile;
+-
+i principi che reggono la materia, pur se noti al magistrato inquirente
+ed al difensore, vengono qui brevemente richiamati:
+"L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo
+2000 in
+re S.B.,
+consid. 4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco
+dei motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo
+(Messaggio aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad
+art. 27, pag. 32, nota 3), tra altri possibili, essendovi quello della tutela
+dell’ordine pubblico (REP 1998 n. 105).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno approfonditi
+con maggior rigore nella loro valutazione, quanto più si è protratta la
+restrizione della libertà e quanto più si avvicina la conclusione delle
+indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la
+Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+-
+nel caso in esame non occorre dilungarsi più di tanto per confermare
+l'esistenza di gravi indizi per il reato in capo all'accusato per i fatti che
+gli sono imputati: basti qui fare integrale riferimento alle conclusioni cui
+era giunto questo giudice nella decisione 14 agosto 2008, (inc. GIAR 320.2008.3,
+doc. 5 p. 6-10) e poi riprese nella decisione 30 ottobre 2008 (inc. GIAR 320.2008.4,
+doc. 5) nonché alle conclusioni della CRP contenute nella decisione 5 dicembre
+2008 (inc. CRP 60.2008.356, p. 5 e 6);
+-
+dal profilo istruttorio giova evidenziare che, nell’istanza di proroga,
+il Procuratore pubblico evidenzia che occorre ancora concludere il rapporto
+EFIN, acquisire la perizia psichiatrica e contestarla alle parti e procedere ad
+eventuali delucidazioni peritali, trasmettere la perizia psichiatrica ai periti
+__________ e __________ per chiedere se intendono apportare aggiunte o
+precisazioni ai propri referti, acquisire il rapporto di Polizia, procedere ai
+verbali di testi e accusati (già fissati per il 16 e il 22 dicembre), ricevere
+un ulteriore rapporto del dottor __________ e eventualmente interrogarlo quale
+testimone, dopodiché procederà al deposito degli atti e, se del caso,
+all’evasione di eventuali complementi istruttori che l’accusato dovesse
+richiedere; inoltre, come rilevato dal magistrato inquirente, sono tuttora dati
+pericolo di collusione ed inquinamento delle prove con riferimento alle
+conclusioni della decisione 5 dicembre 2008 della CRP nonché, e sempre con
+riferimento alla decisione CRP, sussiste concreto pericolo di fuga;
+-
+per quanto riguarda il pericolo di collusione e di inquinamento delle
+prove, essi si riferiscono ai beni immobili e mobili degli accusati nel loro
+paese d’origine e non v’è motivo per scostarsi dalle conclusioni cui questo
+giudice era giunto nella propria decisione 30 ottobre 2008 (nulla essendo
+mutato a questo proposito da allora), confermata dalla CRP con decisione 5
+dicembre 2008 (inc. CRP 60.2008.356, punto 7, p. 6 e 7) cui val la pena qui
+fare integrale riferimento:
+“Nel
+presente caso i bisogni istruttori, in particolare il pericolo di collusione e
+di inquinamento delle prove, si riferiscono ai beni immobili e mobili degli accusati
+nel loro paese d’origine.
+Come
+emerge dalle dichiarazioni degli accusati, fondi percepiti dalle assicurazioni
+(potenzialmente oggetto di reato, nell’ipotesi accusatoria) sono stati
+utilizzati in modo consistente (circa CHF 200'000.--) per sistemare un immobile
+in __________ (verbale del marito della ricorrente del 22.7.2008, p. 4, AI
+132). Risulta pure che dei fondi (CHF 50'000.--) sono stati trasferiti da un
+conto bancario svizzero ad un conto bancario a __________: per indicazione del
+marito sarebbero stati utilizzati per la sistemazione della casa (verbale
+27.8.2008, p. 1, AI 183).
+Così
+stando le cose, e coerentemente con l’ipotesi di reato formulata e con le norme
+sul sequestro e sulla confisca, il procuratore pubblico si è preoccupato di
+potere recuperare e/o bloccare detti valori patrimoniali.
+Per il
+bene immobile, ha inoltrato tempestivamente una rogatoria alle autorità __________,
+chiedendo l’identificazione ed il blocco dello stesso (in data 18.7.2008, AI
+126). Il procuratore pubblico ha poi diligentemente sollecitato l’evasione
+della richiesta di assistenza internazionale (lettera 22.10.2008, AI 270),
+ottenendo un riscontro in data 11.11.2008 (AI 321 e 333). Dagli atti trasmessi
+risulta che al marito sono intestati diversi immobili nel Comune di __________,
+in particolare i numeri catastali __________ (due dei quali con una casa
+d’abitazione, il __________ ed il __________), oltre alla comproprietà di altri
+fondi (n. __________ per ¼ e __________ per ½), tutti liberi da ipoteche. Dalla
+documentazione trasmessa non risulta che i fondi con la casa siano stati
+bloccati, come richiesto con la domanda di assistenza del 18.7.2008. Il
+procuratore pubblico, con scritto inviato all’Ufficio federale di giustizia del
+25.11.208 (AI 346), ha chiesto di intervenire presso le autorità __________ per
+ottenere il blocco immobiliare.
+Per quanto
+riguarda i fondi sul conto bancario in __________, le parti hanno scelto una
+soluzione diversa rispetto a quella dell’assistenza internazionale in materia
+penale: hanno convenuto che sarebbe stato richiesto il trasferimento in
+Svizzera dei fondi depositati sul conto __________. Purtroppo la via intrapresa,
+sempre nell’ottica del risultato ricercato, non ha portato a risultati positivi:
+non ha consentito di trasferire i fondi (come auspicato dalle parti), ma
+neppure ha permesso di determinare quanti fondi siano depositati in conto (cfr.
+AI 308 e 320 per la traduzione). Di modo che, con domanda urgente di assistenza
+internazionale del 10.11.2008, spedita in medesima data alle competenti
+autorità di Berna (AI 318/319), il procuratore pubblico ha chiesto
+l’identificazione della relazione bancaria, il sequestro degli attivi in conto,
+nonché l’identificazione di altre relazioni intestate ai due coniugi nella medesima
+banca.
+Nell’ottica
+della presente decisione occorre constatare che, malgrado gli sforzi profusi
+delle parti, non si è potuto raggiungere il risultato sperato ed indispensabile
+nell’ottica del sequestro probatorio e confiscatorio.
+Questa
+situazione fa permanere i bisogni d’inchiesta (per assicurare detti valori
+patrimoniali al procedimento) ed il pericolo di collusione e di inquinamento
+delle prove. Malgrado il tempo ulteriormente trascorso, le conclusioni a cui è
+giunto il giudice dell’istruzione e dell’arresto devono quindi essere confermate."
+tali
+conclusioni non possono essere ora sovvertite da nessun elemento agli atti e
+devono quindi essere qui ribadite.
+-
+anche il pericolo di fuga è tuttora presente, con riferimento alle conclusioni
+espresse nella decisione 18 agosto 2008 di questo giudice, confermate dalla
+decisione 5 dicembre 2008 della CRP (punti 8. e 9., p. 7 e 8) cui ancora una
+volta si può fare integrale riferimento:
+“Il
+pericolo di fuga (cfr., al proposito, decisione TF 1P.62/2005 del 17.2.2005) è
+connesso con uno degli scopi principali della carcerazione preventiva, quello
+di assicurare la presenza dell’imputato per impedirgli di sottrarsi al procedimento
+o all’esecuzione della pena che potrà essergli inflitta.
+In
+base agli elementi del caso concreto occorre stabilire se l’accusato detenuto
+non ha evidentemente alcun interesse a rimanere a disposizione delle autorità,
+nella prospettiva – in caso di condanna – di una sanzione penale eventualmente
+da scontare. In altri termini, occorre verificare se la tentazione di riparare
+all’estero per sottrarsi al procedimento o all’esecuzione della pena è quindi
+sorretta da sufficiente verosimiglianza ed il rischio di fuga – che non esiste
+solo astrattamente, bensì appare probabile in modo concreto – non può neppure
+essere evitato con misure meno incisive.
+Nel
+presente caso, il giudice dell’istruzione e dell’arresto ha esaminato i legami
+della qui ricorrente con il nostro paese e con il paese d’origine. Ha
+considerato come i beni in Svizzera siano stati posti sotto sequestro, ciò che
+non è ancora accaduto per i beni (mobili o immobili) siti nel paese di origine.
+Partendo
+da queste premesse, il giudice dell’istruzione e dell’arresto ha ammesso un pericolo
+di fuga.
+L’analisi fatta dal giudice
+dell’istruzione e dell’arresto è corretta e corrisponde a quanto emerso nel
+corso del procedimento. I legami dell’accusata con il nostro territorio sono
+andati vieppiù scemando: non ci sono né legami familiari, né legami lavorativi,
+sia per lei, sia per il marito. Aumentati sono al contrario i legami con il
+territorio di provenienza: anche i tempi di soggiorno in __________ superano
+quelli nel nostro paese. Dall’analisi dell’insieme delle circostanze, la fuga
+dal nostro paese per il proprio paese d’origine, dove i beni (mobili ed
+immobili) non sono ancora stati bloccati, ed al fine anche di sottrarsi al
+procedimento, al dibattimento ed all’eventuale sanzione rappresenta
+un’eventualità non solo possibile, ma anche probabile, allo stato attuale delle
+cose. Permane pertanto un residuo pericolo di fuga, che potrebbe scemare una
+volta riuscito il blocco dei beni in __________ (mobili ed immobili). “
+-
+resta da determinare se una proroga, in particolare quella richiesta,
+sia rispettosa del principio di proporzionalità;
+-
+la proporzionalità di una carcerazione deve essere analizzata da
+angolature diverse: da un lato occorre mettere in relazione la durata del
+carcere preventivo con la gravità (e complessità) della fattispecie e la pena
+presumibile, dall'altro occorre anche verificare il rispetto del principio di
+celerità (DTF 4.5.2005, 1P.194.2005; DTF 16.11.2004, 1P.630/2004; SJ 1981 p.
+383 e citazioni; art. 102 CPP);
+-
+in relazione al primo aspetto, si constata che nel caso concreto il
+carcere preventivo sofferto e quello eventualmente ancora da soffrire (in caso
+di concessione della proroga) non appare lesivo del principio di
+proporzionalità: i reati di truffa aggravata e di falsità in documenti sono
+sicuramente gravi (tenuto conto sia del lasso di tempo in cui hanno avuto luogo
+sia degli importi in gioco) e la detenzione sin qui sofferta, e quella ancora
+da soffrire, appare comunque inferiore alla presumibile pena in caso di
+condanna;
+-
+per quanto concerne invece l'altro aspetto della proporzionalità, cioè
+quello connesso al principio di celerità, giova anzitutto ricordare che
+l'obbligo di celerità di cui all'art. 102 CPP, impone alle autorità di operare
+in modo che il carcere preventivo (che è e rimane una misura d'inchiesta e non
+una pena - G. Piquerez, Procédure pénale suisse, nos. 2315, 2433 e 2435 - anche
+nei confronti di persone confesse e o contro le quali vi sono prove
+schiaccianti) non sia protratto oltre il necessario; tale concetto significa
+non solo che l'inchiesta in generale deve essere condotta celermente, ma anche
+che si deve operare in modo da superare (ovviamente laddove possibile) le
+circostanze che ostacolano la messa in libertà provvisoria; secondo il
+Tribunale Federale, il rispetto dell'esigenza di celerità (desumibile dall'art.
+5 cifra 3 della CEDU e 31 cpv. 3 della Costituzione federale), accresciuta in
+caso di accusato detenuto, deve essere valutato globalmente, tenendo conto
+delle particolarità della procedura, dell'ampiezza del lavoro svolto
+(considerando che non si può pretendere che l'autorità inquirente si occupi
+costantemente di un unico incarto) e di quella degli inevitabili tempi morti
+(DTF 124 I 139); lesione del principio è data allorquando questi tempi morti
+abbiano durata eccessiva e mettano, con ciò, in discussione la legalità della
+detenzione (DTF 128 I 149; DTF 7.02.2005 in re C., 1s.3/2005);
+-
+in concreto, l'inchiesta appare complessa, visto il necessario ricorso
+ad alcuni periti che ha comportato il dispendio di un certo tempo, nonché
+ritenuta la ramificazione anche all’estero,
+con conseguente allungamento
+dei tempi dell’inchiesta (per la necessità di procedere con rogatorie); gli
+inquirenti hanno comunque proceduto con celerità - da un esame degli atti non
+emergono tempi morti tali da mettere in discussione la legalità della
+detenzione - e non si sono limitati ad interrogare gli accusati ma hanno
+provveduto alla ricerca di riscontri oggettivi al fine di accertare i reati;
+-
+le suddette circostanze permettono di concludere che l'inchiesta è
+rispettosa del principio di celerità;
+-
+detto ciò il magistrato inquirente non spiega per quali motivi dovrebbe
+inviare, una volta acquisita agli atti, la perizia psichiatrica ai periti
+dermatologo e ortopedico per loro eventuale presa di posizione, nonché per
+quale motivo si debba ancora attendere, fino ad inizio febbraio 2009, per
+acquisire agli atti il rapporto di Polizia e la ricostruzione EFIN o per
+nuovamente interrogare il dottor __________;
+-
+va poi ricordato che per la determinazione della durata del carcere
+preventivo non è opportuno tener conto di eventualità ipotetiche (ad esempio
+presentazione di complementi istruttori e/o di un reclamo avverso un eventuale
+decisione negativa sulle prove), ma che, qualora tali ipotesi dovessero
+concretizzarsi, il magistrato inquirente valuterà e deciderà se sia necessario
+e se vi siano le condizioni di legge, per richiedere un'ulteriore proroga e
+questo ufficio ne verificherà l'effettivo fondamento;
+-
+in concreto, la proroga è stata richiesta per un periodo di due mesi: a
+giudizio dello scrivente il periodo di un mese e una settimana appare
+sufficiente e proporzionato per concludere l’istruttoria e procedere con il
+deposito degli atti, tenuto anche conto del fatto che, comunque, il deposito
+atti è imminente (dovendo il PP ricevere la perizia psichiatrica il 19 dicembre
+e avendo già previsto la sua prospettazione agli accusati per 22 dicembre
+2008);
+-
+in conclusione, l'istanza è parzialmente accolta, il carcere preventivo
+cui è astretto __________ è prorogato fino al 9 febbraio 2009 (compreso), con la
+presente decisione esente da tasse e spese giudiziarie (art. 39 lett. f TG e
+contrario), suscettibile di impugnazione alla Camera dei ricorsi penali (art.
+284 cpv. 1 lett. a CPP).
+P.Q.M.
+viste le norme applicabili, in
+particolare gli artt. 146 e 251 CP, 87 LAVS, 95 ss., 102, 103, 280ss e 284 CPP,
+decide
+1.
+L'istanza
+è parzialmente accolta.
+§.    Di conseguenza, il carcere preventivo cui è astretto __________
+è prorogato fino al
+9 febbraio 2009 (compreso)
+.
+2.
+Non si
+prelevano tasse e spese.
+3.
+Contro la presente decisione è dato reclamo alla Camera dei
+ricorsi penali, Lugano, entro 10 (dieci) giorni dall'intimazione.
+4.
+Intimazione:
+giudice
+Claudia Solcà
