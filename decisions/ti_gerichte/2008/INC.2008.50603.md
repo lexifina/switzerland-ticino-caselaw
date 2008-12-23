@@ -1,0 +1,320 @@
+---
+decision_id: "ti_gerichte_INC.2008.50603"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.50603"
+decided: "2008-12-23"
+published: "2008-12-19"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=100049&nX40_KEY=4711188&nTrefferzeile=62&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-134.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md"]
+---
+
+# TI Gerichte INC.2008.50603
+
+## Regeste
+
+Istanza di libertà provvisoria. Istanza respinta
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 19.12.2008 INC.2008.50603
+Tessin Il Giudice dell'istruzione e dell'arresto 19.12.2008 INC.2008.50603
+Ticino Il Giudice dell'istruzione e dell'arresto 19.12.2008 INC.2008.50603
+
+Istanza di libertà provvisoria. Istanza respinta
+
+Incarto n.
+INC.2008.50603
+Lugano
+23 dicembre 2008
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 12/15 dicembre 2008 da
+__________
+,
+(patr. dal lic. iur. __________)
+e qui trasmessa con preavviso negativo del 16 dicembre
+2008 dal
+Procuratore pubblico Andrea Maria Balerna,
+Lugano
+viste le osservazioni della difesa
+17 dicembre 2008;
+visti gli incarti MP __________ e
+__________;
+ritenuto
+in fatto ed in
+diritto
+che:
+-
+__________ è stato arrestato a Lugano il 12 ottobre 2008 dalla
+Polizia cantonale in quanto sospettato di avere partecipato, con il correo __________
+(pure tratto in arresto), all’aggressione di __________ avvenuta all’esterno
+della discoteca __________ poco tempo prima quella mattina;
+-
+in data 13 ottobre 2008 il Procuratore pubblico ha promosso
+l’accusa nei suoi confronti per titolo di aggressione (art. 134 CP), chiedendo
+a questo giudice la conferma dell’arresto vista l’esistenza di gravi indizi di
+reato e considerata l’esistenza di motivi di interesse pubblico quali i bisogni
+dell’istruzione e pericolo di inquinamento delle prove –
+in particolare,
+considerato che l’autore nega ogni addebito, il bisogno di procedere a nuovi
+interrogatori e a confronti prima che l’autore possa inquinare le prove,
+accordandosi con il correo e/o con terze persone (sipensa agli atri 3 peronaggi
+descritti dalla vittima e dalla teste __________) o eventualmente esercitare
+pressioni sulla vittima e/o i testimoni
+– e pericolo di recidiva, in quanto
+recidivo specifico per atti di violenza, sia già giudicati che ancora pendenti
+(inc. GIAR 506.2008.1, doc. 1);
+-
+il 13 ottobre 2008 l'arresto di __________ è stato confermato da
+questo giudice, ritenuti dati i gravi e concreti indizi di colpevolezza, nonché
+preminenti motivi di interesse pubblico quali i bisogni dell’istruzione (per
+interrogare le parti ed i testimoni sui fatti, eventualmente anche a confronto),
+pericolo di collusione (con il correo e le persone da interrogare) e pericolo
+di recidiva (visti i precedenti sia da minorenne che da maggiorenne (inc. GIAR
+506.2008.1, doc. 5);
+-
+davanti a questo giudice, in occasione dell’udienza per la
+conferma dell’arresto, l’istante (dopo avere inizialmente negato ogni addebito
+in Polizia) ha cercato di sminuire le proprie responsabilità, dichiarando di
+avere riposto a provocazioni della presunta vittima e di avergli soltanto
+tirato un pugno per difendere l’amico __________;
+-
+in seguito, nuovamente interrogato dagli agenti di Polizia e dal
+PP, egli ha sostanzialmente ammesso i fatti, come pure di avere, in agosto 2008, a bordo di un treno FFS, sulla tratta __________, sottratto un telefono cellulare a __________
+dopo averlo picchiato con calci e pugni (cfr. AI 15, verb. PP di__________ del
+31 ottobre 2008), di qui l’estensione dell’accusa nei suoi confronti per titolo
+di rapina;
+-
+il 12 dicembre 2008 __________, con l’istanza in discussione
+(giunta al Ministero pubblico il 15 dicembre) e per il tramite del suo
+difensore, chiede di essere posto in libertà provvisoria; l’istante non
+contesta l’esistenza di gravi e concreti indizi di colpevolezza ma ritiene che
+la sua posizione – per tutte le accuse promosse sinora – sia già stata
+ampiamente chiarita; il fatto che egli abbia dei precedenti, soprattutto da
+minorenne, non è sufficiente a fondare il serio pericolo di recidiva per
+giustificare il perdurare della carcerazione preventiva: egli ha infatti
+ammesso i reati contestatigli e ha tentato, purtroppo inutilmente, di cercare
+un lavoro. Il protrarsi della carcerazione non sarebbe neppure più rispettoso
+del principio di proporzionalità e gli impedirebbe di trovare un lavoro;
+-
+il magistrato inquirente, con preavviso negativo 16 dicembre 2008
+(Inc. GIAR 506.2008.3, doc. 5), dopo avere informato che l’istanza di libertà
+provvisoria si è incrociata con l’atto d’accusa, (che è stato trasmesso al TPC
+la mattina del 15 dicembre dopo ricezione dell’istanza) osserva che l’accusato
+ha precedenti penali specifici per rapina e per atti di violenza contro le
+persone; in particolare le modalità di esecuzione della rapina contestatagli
+sono pressoché identiche a quelle di rapine da lui commesse in passato; __________
+non ha un lavoro e, se rimesso in libertà, si troverebbe a gestire il proprio
+tempo da solo e vi è quindi il forte rischio che egli possa commettere nuovi
+reati prima della celebrazione del processo; il PP trae queste considerazioni
+dalla storia dell’accusato che, nel corso degli anni, è ripetutamente caduto
+negli stessi comportamenti e dal fatto che l’assenza di un’attività lucrativa
+non fa che aumentare il rischio di recidiva; per quanto riguarda il suo
+comportamento egli ha ripetutamente e caparbiamente negato di avere commesso la
+rapina contestatagli, ammettendola solo quando è stato confrontato con prove
+inconfutabili;
+-
+la difesa con osservazioni  17 dicembre 2008 si rifà alle
+allegazioni dell’istanza di libertà provvisoria ribadendo che i precedenti
+penali da soli non bastano a sostanziare il pericolo di recidiva; la difesa
+sostiene poi che lo stato di detenzione dell’accusato gli impedirebbe di
+trovare un’attività lavorativa stabile, egli sarebbe comunque intenzionato ad
+intraprendere un apprendistato in settembre 2009;
+-
+l’istante, detenuto, è pacificamente legittimato a presentare
+istanza di libertà provvisoria; il preavviso del Procuratore pubblico, ritenuta
+ricezione dell’istanza il 15 dicembre 2008, è tempestivo scadendo il termine di
+3 giorni il 19 dicembre e avendo il PP trasmesso a questo ufficio istanza e
+preavviso negativo il 16 dicembre con gli incarti penali brevi manu, nel
+termine quindi di 3 giorni. Il termine di cui all'art. 108 cpv. 2 CPP, avendo
+questo ufficio ricevuto quanto sopra unitamente all’incarto penale martedì 16
+dicembre 2008, per questo giudice scade venerdì 19 dicembre 2008;
+-
+i principi che reggono la materia, pur se noti al alle parti,
+vengono qui brevemente richiamati:
+"L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo
+2000 in
+re S.B., consid.
+4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco dei
+motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105).
+L'eccezione della cautelare privazione
+della libertà personale ha così trovato codificazione in una chiara base legale
+(di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a
+superamento di quanto già dettato dalla giurisprudenza della Camera dei ricorsi
+penali - nel solco di quella del Tribunale federale -, ritenuto implicito il
+rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413;
+DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già
+la Camera
+dei
+ricorsi penali, non restringe la sua cognizione all'arbitrio (REP 1980 pag.
+128)."
+(per tutte:
+sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+-
+l’esistenza di gravi e concreti indizi di colpevolezza deve
+essere verificata d’ufficio nei limiti di competenza di questo giudice
+derivanti dalla sua funzione che è quella di esaminare l’esistenza dei
+presupposti per il mantenimento della misura restrittiva della libertà
+personale e non di valutare nella sostanza l’esistenza di un reato, e che con
+verosimiglianza sufficiente, a questo stadio del procedimento ed in questa
+sede, si può concludere per la presenza di numerosi, seri e concreti indizi di
+colpevolezza a carico di __________ e relativi ad un suo coinvolgimento nei
+fatti inquisiti;
+-
+nel caso in esame non occorre dilungarsi più di tanto per
+confermare l'esistenza di gravi indizi di reato in capo all’accusato, peraltro
+neppure contestati dalla difesa, con riferimento all’atto d’accusa __________
+del __________ e alle ammissioni che si evincono dai suoi verbali PP agli atti
+per entrambe le imputazioni;
+-
+per quanto riguarda i bisogni istruttori, considerata la
+trasmissione dell’atto d’accusa __________, si può dare per acquisito, in
+assenza peraltro di parere contrario del PP, che gli stessi siano stati evasi;
+-
+l’unico motivo di interesse pubblico tuttora sollevato dal PP per
+giustificare il mantenimento della carcerazione preventiva dell’istante è il
+pericolo di recidiva, contestato dalla difesa;
+-
+il pericolo di recidiva consiste nel rischio che l'accusato in
+libertà commetta ulteriori reati o continui la commissione di quelli per cui è
+stato arrestato; come per gli altri motivi di arresto, anche il pericolo di
+recidiva deve essere concreto e risultare dall'insieme delle circostanze (DTF
+105 Ia 26). Il pericolo di recidiva ex art. 95 CPP è nozione relativamente
+estesa: l'assenza di precedenti specifici non basta, da sola, ad escluderlo,
+così come non basta, sempre da solo, a fondarlo il fatto che prima dell'arresto
+siano stati commessi più reati (DTF 12 agosto 1981 in re C.; DTF 123 I 268; SJ 1981, pag. 380 a 382; BJP 1989 n. 671; CRP 17 novembre 2005 in re M., 60.2005.357; G. Piquerez, Procédure pénale suisse, n. 2358; N. Schmid,
+Strafprozessrecht, 4. Auflage, n. 701b; Rusca/Salmina/Verda, Commentario CPP,
+pag. 327 ss.; CPP Vaudoise annotato, Losanna 2004, nota 2.2.5 ad art. 59). La
+gravità del reato (se si preferisce la gravità dei fatti oggetto d’accusa e di
+cui si teme reiterazione), condizione la cui assenza è comunque determinante
+(G. Piquerez, op. cit., n. 2358, nota 84), da sola non basta (sentenza CRP
+citata, cons. 8 e riferimenti) ma deve essere debitamente considerata (DTF
+21.1.2005, 1P.750/2004; DTF 25.4.2006, 1P.198/2006; CRP 16.5.2006,
+60.2006.154). Occorre, insomma, che l'insieme delle circostanze (precedenti,
+comportamento in istruttoria, personalità, modalità di commissione, condizioni
+socio-famigliari, eventuale carattere deterrente del procedimento in corso,
+fatti oggetto dell’ipotesi di reato ecc.) concorrano ad imporre una prognosi
+molto sfavorevole (DTF 21 gennaio 2005, 1P.750/2004);
+-
+per confermare l’esistenza di un pericolo di recidiva si inizi
+col dire che l’accusato, già da minorenne, è stato colpito da un decreto di
+sostegno educativo il 14 giugno 2002 (__________) – per titolo di ripetuto
+furto tentato e consumato, ripetuto danneggiamento, sviamento della giustizia,
+favoreggiamento, ripetuta rapina semplice, aggressione, ripetute lesioni
+semplici, omissione di soccorso e ripetuta contravvenzione alla LStup – da un
+decreto di collocamento il 24 luglio 2002 – per ripetuto tentato furto, furto
+d’uso e ripetuta circolazione di un veicolo senza licenza di condurre – da un
+decreto di prestazioni di lavoro il 6 maggio 2004 – per titolo di furto,
+ripetuto furto d’uso, ripetute infrazioni alla LCStr, impedimento di atti
+dell’autorità, ripetuto danneggiamento e violazione dei doveri in caso di
+infortunio – da un decreto di carcerazione il 3 marzo 2005 – per ripetute
+lesioni semplici, abuso di un impianto per l’elaborazione dei dati, furto
+d’uso, varie infrazioni alla LCStr, rissa, violazione di domicilio,
+aggressione, vie di fatto, ripetuto furto e ripetuta rapina (decreto cresciuto
+in giudicato tranne che per una delle tre imputazioni di rapina dalla quale il
+consiglio dei minorenni l’ha prosciolto con decisione 3 maggio 2005) – mentre
+che il casellario giudiziale (AI 2) fa stato di una condanna, il 18 settembre
+2006, per titolo di lesioni semplici e contravvenzione alla LF sul trasporto
+pubblico; si pensi poi al fatto che il PP gli ha ora promosso l’accusa (per poi
+rinviare l’accusato a giudizio) per i reati di aggressione – per i fatti
+avvenuti in ottobre all’esterno della discoteca __________ – e rapina – per
+fatti avvenuti in agosto 2008 su di un treno delle FFS nella tratta __________;
+-
+tali procedimenti (soprattutto i numerosi interrogatori di
+Polizia) e le condanne del Magistrato dei minorenni non sono serviti da
+deterrente per impedirgli dal ritornare a delinquere; va inoltre osservata la
+preoccupante analogia dei fatti per cui è stato perseguito da minorenne, con
+quelli della presente inchiesta; come detto, malgrado la condanna e le denunce
+in Polizia, egli ha ripreso a delinquere con la stessa tipologia di reati;
+sintomatico è anche il comportamento processuale dell’accusato che ha dapprima
+negato ogni addebito per poi ammettere i fatti soltanto dopo diversi giorni e
+davanti all’evidenza di riscontri oggettivi; a ciò si aggiunga che __________
+non ha un diploma e non ha un lavoro, accontentandosi di quando in quando di
+qualche lavoro saltuario come magazziniere e, se rimesso in libertà, senza
+un’attività lavorativa e lucrativa, vi è il concreto pericolo che egli possa
+facilmente ricadere negli stessi reati ancora prima del pubblico dibattimento,
+con le conseguenze che si possono ben immaginare; a questo proposito non si può
+non osservare come l’accusato non sembra volersi conformare ad uno stile di
+vita adeguato alla propria comunque giovane età, nonché il fatto che egli non
+abbia un lavoro e che abbia addirittura deciso di non intraprendere un apprendistato
+a settembre 2007 preferendo i lavori salutari e le scorribande sui treni e
+fuori dalle discoteche. L’accusato potrebbe quindi ricadere facilmente nella
+commissione di rapine e reati contro la persona vista la sua precaria
+situazione finanziaria (anche se desta qualche perplessità il fatto che la
+mancanza di un reddito non gli impedisce comunque di frequentare esercizi
+pubblici, anche costosi, come le discoteche), le sue frequentazioni e vista
+l’estrema futilità dei motivi a monte del suo agire (soprattutto per
+l’imputazione di aggressione); la sua aggressività (e di conseguenza la sua
+pericolosità) e la difficile elaborazione dei fatti di cui lo si accusa, le si
+evince anche dal comportamento tenuto dall’accusato in corso d’inchiesta; il
+rischio di recidiva costituisce motivo di arresto non solo per impedire nuovi
+delitti, ma anche, seppure solo indirettamente, perché commettendo sempre nuovi
+reati l’accusato potrebbe procrastinare a oltranza il processo (cfr.
+Rusca-Salmina-Verda, Commento del CPP, p. 327 e ss);
+-
+la proporzionalità di una carcerazione (preventiva) deve essere
+analizzata da angolature diverse. Da un lato occorre mettere in relazione la
+durata del carcere preventivo con la gravità e complessità della fattispecie e
+con la pena presumibile e dall’altro occorre anche verificare il rispetto del
+principio di celerità (SJ 1981 p. 383 e citazioni; art. 102 CPP). La
+proporzionalità della carcerazione sin qui sofferta, alla luce della gravità
+delle accuse, della presenza di concreti indizi di colpevolezza, l’annessione
+agli atti di altro procedimento penale e dell’atteggiamento processuale
+dell’accusato, che non può essere definito propriamente collaborativo, almeno
+dall’inizio del procedimento, è ancora data. Gli inquirenti hanno proceduto con
+celerità tanto che a due mesi dall’arresto è già stato trasmesso al TPC il
+rinvio a giudizio;__________ è stato arrestato il 12 ottobre 2008 per dei reati
+di sicura gravità e ad oggi è in detenzione preventiva da poco più due mesi. In
+questo lasso di tempo l’inchiesta è stata condotta con la dovuta celerità anche
+in considerazione degli accertamenti tecnici a cui sono stati costretti a
+ricorrere gli inquirenti;
+-
+in conclusione sufficienti presupposti di legge, come anche
+esplicitati dalla prassi e dalla giurisprudenza, sono presenti nella situazione
+personale e processuale di __________ a legittimare e giustificare il perdurare
+della cautelare privazione della sua libertà. Di conseguenza l’istanza di
+libertà provvisoria in discussione deve essere respinta con la presente
+decisione, esente da tassa e spese giudiziarie (art. 39 let. f TG e contrario)
+e impugnabile entro dieci giorni alla Camera dei ricorsi penali del Tribunale
+d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge,
+decide:
+1.
+L’istanza di libertà provvisoria è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+4.
+Intimazione (raccomandata anticipata via fax):
+giudice
+Claudia Solcà
