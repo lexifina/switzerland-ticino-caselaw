@@ -1,0 +1,289 @@
+---
+decision_id: "ti_gerichte_INC.2008.36604"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.36604"
+decided: "2009-01-28"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=100366&nX40_KEY=4711182&nTrefferzeile=1&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2008.36604
+
+## Regeste
+
+Istanza di proroga del carcere preventivo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 28.01.2009 INC.2008.36604
+Tessin Il Giudice dell'istruzione e dell'arresto 28.01.2009 INC.2008.36604
+Ticino Il Giudice dell'istruzione e dell'arresto 28.01.2009 INC.2008.36604
+
+Istanza di proroga del carcere preventivo
+
+Incarto n.
+INC.2008.36604
+Lugano
+28 gennaio 2009
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull’istanza di proroga del carcere
+preventivo presentata il 15 gennaio 2009 dal
+Procuratore pubblico Andrea Maria Balerna
+,
+Lugano
+nei confronti di
+__________
+preso atto delle osservazioni 26
+gennaio 2009 della difesa;
+visto l’incarto MP __________;
+considerato,
+in fatto ed in
+diritto:
+-
+__________ è stata arrestata il 6 agosto 2008, nell’ambito
+dell’inchiesta “__________” con contestuale promozione dell’accusa per i reati
+di infrazione aggravata alla LStup e soggiorno illegale: in particolare, ella è
+accusata di un ingente traffico di cocaina, in correità con __________
+(arrestato il 3 agosto 2008) e tale __________, successivamente identificato in
+__________ (arrestato nel novembre 2008), e nell’appartamento in cui risiedeva
+a __________, unitamente a __________, sono stati rinvenuti fr. 49'000.--,
+nonché una borsa con all’interno circa 500 grammi di cocaina (confezionata in ovuli da 10 grammi circa ed in parte in piccole bolas pronte
+per la vendita), con sé __________ aveva invece una somma di circa fr.
+15'000.--;
+-
+l’arresto è stato confermato da questo giudice il giorno successivo
+stante l’esistenza, oltre che di seri e concreti indizi di colpevolezza, di
+pericolo di fuga, bisogni dell’inchiesta e pericolo di collusione delle prove;
+-
+in seguito l’accusa è stata estesa anche al reato di falsità in
+certificati;
+-
+__________, dopo aver inizialmente negato ogni addebito, ha ammesso di
+avere venduto cocaina (direttamente circa 70/80 grammi), che le sarebbe stata
+consegnata da __________, il quale a sua volta la riceveva da tale __________,
+successivamente identificato in __________ (tratto in arresto nel corso del
+novembre 2008);
+-
+approssimandosi il termine di scadenza della detenzione ex art. 102 cpv.
+2 CPP, il magistrato inquirente ha inoltrato richiesta per una proroga fino al
+6 giugno 2009 (istanza 15 gennaio 2009), ritenuto che sussistono tuttora
+necessità d’inchiesta (conclusione rapporto di Polizia giudiziaria, che
+dovrebbe essere consegnato entro la fine del corrente mese, nuovo
+interrogatorio degli accusati, deposito atti ed evasione di eventuali
+complementi istruttori), pericolo di collusione ed inquinamento delle prove,
+nonché concreto pericolo di fuga; la proroga richiesta, considerata la gravità
+dei reati ed avuto riguardo alla presumibile pena, sarebbe rispettosa del
+principio di proporzionalità
+;
+-
+giova precisare che analoga istanza di proroga è stata inoltrata dal
+Procuratore pubblico anche per quanto attiene a __________;
+-
+in sede di osservazioni la difesa ha ritenuto una proroga di 6 settimane
+sufficiente e proporzionata;
+-
+l’istanza presentata dall’autorità competente ed entro un termine
+ragionevole per rapporto alla scadenza di cui all’art. 102 cpv. 2 CPP, è
+ricevibile;
+-
+i principi che reggono la materia, pur se noti al magistrato inquirente
+ed al difensore, vengono qui brevemente richiamati:
+"L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo a' sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo
+2000 in
+re S.B.,
+consid. 4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco
+dei motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo
+(Messaggio aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad
+art. 27, pag. 32, nota 3), tra altri possibili, essendovi quello della tutela
+dell’ordine pubblico (REP 1998 n. 105).
+L'eccezione della cautelare
+privazione della libertà personale ha così trovato codificazione in una chiara
+base legale (di diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza
+ed a superamento di quanto già dettato dalla giurisprudenza della Camera dei
+ricorsi penali - nel solco di quella del Tribunale federale -, ritenuto
+implicito il rispetto della proporzionalità (REP 1980 pag. 44; 1986 pag. 158;
+1988 pag. 413; DTF 102 Ia 381).
+I menzionati presupposti vanno
+approfonditi con maggior rigore nella loro valutazione, quanto più si è
+protratta la restrizione della libertà e quanto più si avvicina la conclusione
+delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche questo giudice, come già la
+Camera dei ricorsi penali, non restringe la sua cognizione all'arbitrio (REP
+1980 pag. 128)."
+(per tutte: sentenza GIAR 21.12.2001 in re G., inc. 520.2001.5)
+-
+nel caso in esame non occorre dilungarsi più di tanto per confermare
+l'esistenza di gravi indizi di colpevolezza a carico di __________ per i reati
+ascrittile, peraltro neppure contestati dalla difesa: basti qui ribadire che
+l’accusata stessa ha ammesso di avere venduto a più riprese cocaina (a suo
+dire, vendite dirette per circa 70/80 grammi), di avere locato l’appartamento a
+__________ per facilitare le operazioni di spaccio in __________, nonché di
+avere acquistato i documenti di legittimazione intestati a __________ per
+inviare denaro all’estero (oltre fr. 35'000.--) e per sottoscrivere contratti
+di telefonia mobile, in proposito si rinvia ai verb. PP 24.10.2008 e
+11.12.2008, noti alla difesa; inoltre dagli accertamenti esperiti è emerso che
+la stessa, nel periodo giugno-luglio 2008, ha inviato in __________ oltre fr.
+35'000.--;
+-
+dal profilo istruttorio giova evidenziare che, come evidenziato dal
+magistrato inquirente nell’istanza di proroga 15 gennaio 2009, a fine mese è prevista la consegna del rapporto di polizia giudiziaria e che, a breve, si
+procederà ad una nuova audizione dell’accusata (e dei correi), dopodiché si
+procederà al deposito degli atti e successivamente, se del caso, all’evasione
+di eventuali complementi istruttori che l’accusata dovesse richiedere;
+-
+inoltre, come rilevato dal magistrato
+inquirente, seppure in maniera del tutto generica [nonostante questo ufficio
+abbia più volte evidenziato che
+è compito del magistrato inquirente
+(anche nel rispetto dell'obbligo di motivazione e della garanzia del
+contraddittorio, cfr. anche Rep. 1998 p. 329), se ne afferma l'esistenza,
+sostanziare la presenza di concreti elementi indicanti pericolo di collusione o
+inquinamento delle prove, non spettando a questo giudice approfondire o
+addirittura ipotizzare "
+quanto sta dietro a  … scarna affermazione del
+preavviso negativo
+(decisione GIAR 4.4.2002 in re C.)] sono tuttora dati
+pericolo di collusione ed inquinamento delle prove, in considerazione delle
+varie persone coinvolte a diverso titolo (coaccusati, testi, ecc.), alcune
+delle quali tuttora non identificate, nonché sussiste il pericolo che
+l’accusata, visto anche il suo atteggiamento a tratti contraddittorio, possa,
+se messa in libertà provvisoria, prendere contatto con le suddette persone al
+fine di ottenere una versione dei fatti a suo vantaggio;
+-
+il pericolo di fuga, per giustificare carcerazione preventiva, deve
+essere concreto e rivestire di una certa probabilità: in altri termini lo si
+ammette quando l’accusato, se posto in libertà, si sottrarrebbe con una certa
+verosimiglianza al perseguimento penale ed alla (eventuale) esecuzione della
+pena; la gravità della pena presumibile (comunque,
+”(…) elemento
+"indiziante" importante che va considerato attentamente per la
+valutazione del pericolo di fuga, il quale, secondo la prassi, aumenta più ci
+si avvicina al giudizio di merito, in presenza di una comminatoria di pena
+della reclusione e/o in assenza (ovviamente e sempre in caso di eventuale
+condanna) di prospettive per una sospensione condizionale (…) (M. Luvini, I
+presupposti materiali del carcere preventivo, in REP 1989 p. 287ss., p. 32; DTF
+106 Ia 404; DTF 117 Ia 69; CEDU Vol.
+A IX p. 44; SJ
+1981 p. 377, SJ 1980 186; N. Schmid, Strafprozessrecht, ZH 1997, no. 701).“
+GIAR 16 novembre 2006, 345.2006.3; si veda, inoltre, DTF
+14.1.2005, 1S.15/2004, e riferimenti) non basta, da sola, a motivare la
+carcerazione; occorre valutare l’insieme delle circostanze, tra cui il
+carattere dell’accusato, la sua morale, i legami famigliari, il domicilio, la
+professione, la situazione economica e tutti quegli elementi che rendono la
+fuga non solo possibile ma probabile (DTF 19 gennaio 1999 in re G.S.; DTF 117 Ia 69);
+-
+l'accusata è cittadina del __________, senza particolari legami
+personali  e professionali con la __________, la sua domanda d’asilo è stata respinta
+(decisone di non entrata in materia del 11.02.2008), essa si trova confrontata
+con un’imputazione di sicura gravità, infrazione aggravata alla LStup, per una
+(a dir poco) preoccupante attività di spaccio di cocaina esercitata in correità
+con terzi che, se confermata, comporterà una pena da espiare di lunga durata
+(il Procuratore pubblico ha già evidenziato che è sua intenzione deferirla alle
+__________), circostanze che, tenuto anche conto dell’atteggiamento processuale
+dell’accusata con dichiarazioni a tratti confuse e più versioni dei fatti, permettono
+di concludere che il pericolo di fuga (intesa come indisponibilità a
+presenziare al seguito del procedimento) è presente in modo concreto (DTF 102
+Ia 382; DTF 106 Ia 407; DTF 117 Ia 69; SJ 1980 585); non si vede infatti cosa
+possa trattenere l'accusata, qualora tolta la misura cautelare, dal rendersi
+irreperibile;
+-
+ritenuta la presenza di gravi indizi di reato e di preminenti motivi di
+interesse pubblico, così come indicato ai considerandi precedenti, resta da
+determinare se la proroga richiesta, sia rispettosa del principio di
+proporzionalità, ricordato che determinanti a tale proposito sono il rapporto
+tra la detenzione sofferta, o eventualmente ancora da soffrire, e la gravità
+dei reati (o meglio della pena ipotizzabile), nonché il rispetto dell'art. 102
+CPP (secondo cui l'inchiesta deve procedere con celerità; cfr. anche DTF
+4.5.2005, 1P.194.2005; DTF 16.11.2004, 1P.630/2004; SJ 1981 p. 383 e citazioni);
+-
+la proroga è stata richiesta per un periodo di quattro mesi: ricordato
+che, in generale, per la determinazione della durata del carcere preventivo non
+è opportuno tener conto di eventualità ipotetiche (ad esempio presentazione di
+complementi istruttori e/o di un reclamo avverso una eventuale decisione
+negativa sulle prove), ma che, qualora tali ipotesi dovessero concretizzarsi,
+il magistrato inquirente valuterà e deciderà se sia necessario e se vi siano le
+condizioni di legge, per richiedere un'ulteriore proroga e questo ufficio ne
+verificherà l'effettivo fondamento, a giudizio dello scrivente 1 mese e 2
+settimane appare sufficiente e proporzionato, tenuto anche conto del fatto che
+il rapporto di polizia, che in quanto tale non costituisce comunque un atto
+istruttorio, verrà consegnato a breve e nulla osta a procedere quanto prima ad
+una nuova audizione dell’accusata (e dei correi);
+-
+in particolare, una proroga del carcere preventivo di 1 mese e 2
+settimane è rispettosa del principio di proporzionalità, in considerazione
+della gravità delle accuse mosse a __________, segnatamente infrazione
+aggravata alla LStup, che ha interessato ingenti quantitativi di cocaina e per
+la quale è intenzione del magistrato inquirente deferirla alle __________ - e
+del conseguente rischio di pena, nonché del fatto che l’inchiesta, complessa - viste
+le numerose di persone coinvolte a vari livelli, l’atteggiamento negatorio dei
+coaccusati __________ ed __________, nonché i vari cambiamenti di versione e le
+ritrattazioni della stessa __________, ciò che ha reso necessario per gli
+inquirenti l’esperimento di vari confronti, con conseguente allungamento dei
+tempi dell’inchiesta -, è stata comunque condotta nel rispetto dei dettami
+dell’art. 102 cpv. 1 CPP, rilevato inoltre che da un esame degli atti non
+emergono tempi morti di durata eccessiva tali da mettere in discussione la
+legalità della detenzione (in proposito va infatti ricordato che secondo il
+Tribunale federale il rispetto di tale principio deve essere valutato
+globalmente, tenendo conto delle particolarità dell’inchiesta, dell’ampiezza
+del lavoro svolto dagli inquirenti, non potendosi pretendere che un magistrato
+si occupi costantemente di un unico incarto, e di quella degli inevitabili
+tempi morti, cfr. DTF 124 I 139, DTF 128 I 149, STF 7.2.2005 in re C.,
+1S.3/2005), bensì risulta che gli inquirenti non si sono limitati ad
+interrogare l’accusata ed i correi, ma hanno provveduto alla ricerca di
+riscontri oggettivi al fine di identificare le altre persone coinvolte e
+l’ampiezza del traffico messo in atto;
+-
+discende da quanto sopra che una proroga fino al 20 marzo 2009 compreso,
+oltre che sufficiente per la conclusione dell'inchiesta, è rispettosa dei
+principi di proporzionalità e celerità, tenuto anche conto del fatto che nulla
+osta, come detto sopra, a procedere quanto prima agli atti istruttori ancora
+mancanti e quindi al deposito degli atti, che deve quindi essere considerato
+imminente (pena la violazione dell’art. 102 cpv. 1 CPP);
+-
+il magistrato inquirente è comunque invitato a procedere indilatamente nei
+suoi incombenti;
+-
+in conclusione, l'istanza è parzialmente accolta, nel senso che la
+carcerazione preventiva cui è astretta __________ è prorogata fino al 20 marzo
+2009 (compreso), con la presente decisione esente da tasse e spese giudiziarie
+(art. 39 lett. f TG e contrario), suscettibile di impugnazione alla Camera dei
+ricorsi penali (art. 284 cpv. 1 lett. a CPP).
+P.Q.M.
+viste le norme
+applicabili, in particolare gli artt. 19 cifra 2 LStup, 252 CP, 115 LStr, 95
+ss., 102, 103, 280ss e 284 CPP,
+decide
+1.
+L'istanza
+è parzialmente accolta.
+§.    Di conseguenza, il carcere preventivo cui è astretto __________
+è prorogato fino al
+20 marzo 2009 (compreso)
+.
+2.
+Non si
+prelevano tasse e spese.
+3.
+Contro la presente decisione è dato reclamo alla Camera dei
+ricorsi penali, Lugano, entro 10 (dieci) giorni dall'intimazione.
+4.
+Intimazione:
+giudice
+Ursula Züblin
