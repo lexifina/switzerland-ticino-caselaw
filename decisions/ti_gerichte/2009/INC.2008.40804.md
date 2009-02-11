@@ -1,0 +1,342 @@
+---
+decision_id: "ti_gerichte_INC.2008.40804"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.40804"
+decided: "2009-02-11"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=100558&nX40_KEY=4711181&nTrefferzeile=100&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md"]
+---
+
+# TI Gerichte INC.2008.40804
+
+## Regeste
+
+Istanza di proroga del carcere preventivo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 11.02.2009 INC.2008.40804
+Tessin Il Giudice dell'istruzione e dell'arresto 11.02.2009 INC.2008.40804
+Ticino Il Giudice dell'istruzione e dell'arresto 11.02.2009 INC.2008.40804
+
+Istanza di proroga del carcere preventivo
+
+Incarto n.
+INC.2008.40804
+Lugano
+11 febbraio 2009
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sull’istanza di proroga della
+carcerazione preventiva presentata il 30 gennaio 2009 dal
+Procuratore pubblico Moreno Capella
+, Lugano
+nei confronti di
+__________
+, attualmente detenuto
+c/o carcere giudiziario La Farera
+(patr. d'ufficio dall'avv. __________)
+viste le osservazioni 5/9
+febbraio 2009 dell'accusato (presentate per il tramite del patrocinatore);
+visti gli inc. MP__________, __________,
+__________ e __________;
+ritenuto e considerato
+in fatto ed in
+diritto
+1.
+__________ è stato arrestato il
+21 agosto 2008 con contestuale promozione dell'accusa nei suoi confronti da
+parte del Procuratore pubblico per omicidio intenzionale (__________), tentato
+omicidio, sub lesioni intenzionali gravi (__________), e meglio,
+“per avere,
+il __________, a __________, davanti all’abitazione di __________, con una
+pistola, intenzionalmente ucciso __________, nonché tentato di uccidere, in sub
+ordine, intenzionalmente ferito (quantomeno alla tibia) __________”
+(cfr.
+doc. 1 inc. GIAR 408.2008.1).
+L’arresto è stato confermato il
+giorno successivo da questo giudice, ritenuta l’esistenza, oltre che di seri e
+concreti indizi di colpevolezza, di pericolo di fuga, bisogni dell’istruzione,
+pericolo di collusione e pericolo di recidiva (cfr. doc. 4 inc. GIAR
+408.2008.1).
+Successivamente, in data 19
+gennaio 2009, l'accusa è stata estesa anche ai reati di lesioni semplici
+aggravate (fatti avvenuti a __________ il 19 agosto 2008 e a __________ nel
+maggio 2008), coazione (fatti avvenuti a __________ il 12 agosto 2008),
+infrazione e contravvenzione alla LArm (fatti avvenuti nel periodo giugno-agosto
+2008 a __________ ed in altre imprecisate località) ed infrazione e
+contravvenzione alla LStup (fatti avvenuti nel periodo aprile-agosto 2008 a __________ ed altre imprecisate località), furto aggravato siccome commesso in banda, sub
+furto e danneggiamento (fatti avvenuti a __________ la notte tra il 5/6 maggio
+2008, inc. MP __________), lesioni semplici in sub vie di fatto (fatti avvenuti
+ad __________ il 5/6 luglio 2008 ai danni di __________, inc. MP __________) e
+lesioni semplici sub vie di fatto (fatti avvenuti a __________ il 13 agosto
+2008 ai danni di __________, inc. MP __________).
+2.
+Con la richiesta qui in
+discussione il Procuratore pubblico chiede una proroga del carcere preventivo
+di cinque mesi, cioè fino al 21 luglio 2009 compreso, al fine di poter
+procedere a vari atti istruttori specificatamente indicati, tenuto anche conto
+del pericolo di recidiva e di quello di fuga. Una proroga di cinque mesi della
+carcerazione preventiva, sarebbe rispettosa del principio di proporzionalità,
+ritenuto che la gravità dei fatti permette di prevedere una pena detentiva di
+una certa durata.
+3.
+In sede di osservazioni la difesa
+di __________ non si oppone alla proroga del carcere preventivo, ritenendola
+giustificata e rispettosa del principio di proporzionalità.
+4.
+L'art. 95 CPP - corrispondente
+all’art. 33 scaturito dalla revisione parziale 23 settembre 1992 / 1. gennaio
+1993 - dopo evidenza al cpv. 1 del principio secondo cui l'accusato si trova di
+regola in libertà, consente al cpv. 2 arresto, perdurare e proroga del carcere
+preventivo ai sensi dell'art. 103 CPP, quando esistono a carico dello stesso
+accusato gravi e concreti indizi di colpabilità per un crimine o un delitto e
+nel contempo sono presenti preminenti motivi di interesse pubblico, quali - per
+quanto qui concerne - i bisogni dell’istruzione, con particolare riguardo al
+pericolo di collusione che, - sia detto qui a futura memoria - può continuare
+ad esistere sino al pubblico dibattimento (sentenza della I Corte di diritto
+pubblico del Tribunale federale del 23 marzo 2000 in re S.B., consid. 4a). Si aggiunge, sempre con riferimento al caso in esame, che l’elenco dei
+motivi di interesse pubblico nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio
+aggiuntivo del 20 marzo 1991 concernente la revisione del CPP, ad art. 27, pag.
+32, nota 3), tra altri possibili, essendovi quello della tutela dell’ordine
+pubblico (REP 1998 n. 105). L'eccezione della cautelare privazione della
+libertà personale ha così trovato codificazione in una chiara base legale (di
+diritto cantonale: DTF 114 Ia 283 cons. 3), in corrispondenza ed a superamento
+di quanto già dettato dalla giurisprudenza della Camera dei ricorsi penali -
+nel solco di quella del Tribunale federale -, ritenuto implicito il rispetto
+della proporzionalità (REP 1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102
+Ia 381). I menzionati presupposti vanno approfonditi con maggior rigore nella
+loro valutazione, quanto più si è protratta la restrizione della libertà e
+quanto più si avvicina la conclusione delle indagini (REP 1988 pag. 416; 1989
+pag. 287 ss);
+5.
+I seri e concreti indizi di
+colpevolezza a carico di __________ (non formalmente contestati dalla difesa ma
+comunque soggetti a verifica d'ufficio da parte di questo giudice) sono
+senz'altro dati. In particolare, per quanto riguarda l’imputazione più grave e
+cioè omicidio intenzionale in relazione a quanto avvenuto la sera del __________
+l’accusato ha ammesso di essersi presentato all’uscio con l’arma carica ed il
+colpo in canna e di avere sparato 3 colpi di pistola contro i fratelli __________,
+anche se la sua versione, quo alla dinamica dei fatti, non concorda con quella
+di __________. __________ ha pure ammesso di aver partecipato al furto ai danni
+di __________. Indizi a suo carico per gli altri reati addebitatigli emergono,
+in parte, dalle dichiarazioni dell’accusato stesso (verb. Pol. 10.09.2008,
+24.09.2008, 7.11.2008, PP 22.12.2008 e PP 16.01.2009) ed, in parte, dalle
+deposizioni delle altre persone coinvolte nei fatti.
+6.
+I criteri determinanti per
+stabilire se esista pericolo di fuga sono il carattere del prevenuto, il suo
+domicilio, la sua professione, la sua situazione familiare ed i suoi legami con
+lo Stato in cui egli è inquisito (SJ 103/1981, 135; sentenza 31 marzo 1992 in re S. C. del Tribunale federale, sentenza 20 ottobre 1994 in re M.A., CRP 314/94) e
+l'apprezzamento di tutte tali circostanze, per invocare appunto un rischio di
+fuga, deve lasciar presumere che le conseguenze di una fuga appaiono rispetto
+all'accusato come un male minore rispetto a quello derivante per lui
+dall'ulteriore carcerazione, con maggior forza quanto più i reati imputati
+comportino pene edittali od eventualità di pena concreta importante (in questo
+senso M. Luvini, in Rep. 1989, p. 292 e ss. e riferimenti ivi indicati;
+sentenza 14 novembre 1994 in re S.V., CRP 341/94).
+__________ è cittadino italiano,
+titolare di un permesso di dimora, che, verosimilmente, dopo quanto accaduto,
+non gli verrà rinnovato. Attualmente egli non ha più alcun legame significativo
+con la Svizzera, sicuramente non professionale. Occorre inoltre considerare che
+dopo i fatti egli ha tentato di sottrarsi alle autorità svizzere cercando di
+fuggire in Italia con l’aiuto di terzi. Circostanze queste che rendono concreto
+il pericolo che, se messo in libertà provvisoria, egli tenti di sottrarsi al
+procedimento, dandosi alla fuga, tenuto conto anche della presumibile pena in
+caso di condanna (il reato di omicidio intenzionale prevede una pena edittale
+minima di 5 anni), considerati anche gli importanti precedenti penali in
+Italia.
+7.
+Quanto alle necessità istruttorie
+atte a giustificare la misura cautelare di privazione della libertà, non è
+inutile ricordare i seguenti principi:
+"
+-
+In relazione ai bisogni istruttori, atti a giustificare
+la misura restrittiva della libertà personale, occorre ricordare che questi non
+s'identificano semplicemente con gli atti istruttori in quanto tali, o con gli
+accertamenti (ancora) da effettuare, bensì con il pericolo di collusione o
+d'inquinamento delle prove che (eventualmente) espone a rischio la corretta
+raccolta (o conservazione) di tali atti (G. Piquerez, Procédure pénale suisse,
+ZH 2000, nos. 2344 ss.; N. Schmid, Strafprozessrecht, ZH 1997, nos. 697 ss.;
+RDAT 1988 no. 24).
+In
+quest'ottica il fatto che l'inchiesta sia tuttora in corso non è, di per sé,
+decisivo, in quanto "
+Die Tatsache allein, dass noch nicht alle Beweise
+erhoben bzw. die Mitverdächtigen dingfest gemacht werden konnten oder dass der
+Angeschuldigte die Aussage verweigert, genügt nicht
+" (N. Schmid, op.
+cit., no. 701a).
+Occorre che l'indagato,
+se posto in libertà, possa pregiudicarne (o comprometterne) il corretto
+svolgimento e, conseguentemente, l'esito.
+-
+E', inoltre, necessario che questa
+possibilità di pregiudicare la raccolta di elementi di prova si fondi su
+elementi concreti: "
+Jedoch genügt nach der Rechtsprechung des
+Bundesgerichtes die theoretische Möglichhkeit, dass der Angeschuldigte in
+Freheit kolludieren könnte, nicht, um die Fortsetzung der Haft oder        die
+Nichtgewährung von Urlauben unter diesem Titel zu rechtfertigen. Es mussen
+vielmehr konktrete Indizien für eine solche Gefahr sprechen
+." (DTF 117
+Ia 257, cons.
+4 c.).
+-
+Gli elementi di concretezza del pericolo vanno
+individuati, di volta in volta, quantomeno nella specifica prova da assumere e
+nel rapporto (oggettivo e soggettivo) dell'accusato con il mezzo di prova. Ad
+esempio, trattandosi di audizione testimoniale, il pericolo di collusione non
+può essere invocato in modo astratto a giustificazione del mantenimento della
+misura cautelare, occorre che un'influenza (dell'accusato nei confronti del
+teste) sia possibile, rispettivamente che vi sia una possibile convergenza
+d'interessi (tra i due) in relazione al contenuto della deposizione (SJ 1990 p.
+438; DTF 117 Ia 257; ZR 72 no. 77 p. 19). Il semplice atteggiamento di diniego
+dell’accusato, in sé, non costituisce indice in tal senso (DTF 90 IV 66;
+Hauser/Schweri, Schweizerisches Strafprozessrecht, BS 1999, § 68 no 13)."
+(GIAR 23 settembre 2002 in re Y.)
+Va da sé che i criteri sopra esposti
+richiedono applicazione più restrittiva allorquando l'inchiesta (e la
+detenzione) é in corso da un certo tempo.
+Allo stadio attuale
+dell’inchiesta vi sono atti istruttori ancora da esperire.
+In primo luogo, il magistrato
+inquirente attende ancora che gli siano trasmessi la perizia relativa alla
+ricostruzione dei fatti del 19 agosto 2008 da parte dei prof. __________ e
+dott. __________, la cui consegna è comunque prevista per il 31 marzo 2009, ed
+il rapporto della Polizia scientifica. La Polizia giudiziaria sta completando
+la raccolta di testimonianze ed informazioni quo alla varie fattispecie emerse
+a carico di __________. Inoltre il magistrato inquirente deve ancora procedere
+ad interrogatori dell’accusato - quo alle risultanze peritali, ai suoi rapporti
+con __________ e con __________, ai risultati del controllo telefonico
+approvato il 14 gennaio 2009, al suo coinvolgimento nel traffico di
+stupefacenti -, nonché ad un eventuale confronto con __________. Il Procuratore
+pubblico deve pure procedere agli interrogatori del dr. __________ (già
+previsto per il 19 febbraio 2009), dei periti, di __________ (un primo verbale
+è già previsto per il 12 febbraio p.v.), del medico legale dott. __________,
+nonché a nuove audizioni delle parti lese. Non potendosi del resto escludere
+che da tali atti emerga l’esigenza di procedere alla verbalizzazione di
+ulteriori testi, rispettivamente va rilevato che la difesa ha già chiesto una
+nuova audizione di alcuni testi (cfr. scritto 28.01.2009). Inoltre, il
+Procuratore pubblico è tuttora in attesa dell’evasione da parte delle Autorità
+italiane della rogatoria 22 ottobre 2008.
+Nella fattispecie è pure dato, a
+giudizio di questo giudice, un concreto pericolo di collusione ed inquinamento
+delle prove, perlomeno fino al momento in cui non si sarà proceduto alle
+audizioni di __________, dei testi e delle parti lese.
+8.
+Il pericolo di recidiva consiste
+infatti nel rischio che l'accusato in libertà commetta ulteriori reati o
+continui la commissione di quelli per cui è stato arrestato; come per gli altri
+motivi di arresto, anche il pericolo di recidiva deve essere concreto e
+risultare dall'insieme delle circostanze (DTF 105 Ia 26). Il pericolo di
+recidiva ex art. 95 CPP è nozione relativamente estesa: l'assenza di precedenti
+specifici non basta, da sola, ad escluderlo, così come non basta, sempre da
+solo, a fondarlo il fatto che prima dell'arresto siano stati commessi più reati
+(DTF 12 agosto 1981 in re C.; DTF 123 I 268; SJ 1981, pag. 380 a 382; BJP 1989 n. 671; CRP 17 novembre 2005 in re M., 60.2005.357; G.
+Piquerez,
+Procédure pénale suisse, n. 2358; N. Schmid, Strafprozessrecht, 4. Auflage, n.
+701b; Rusca/Salmina/Verda, Commentario CPP, pag. 327 ss.; CPP Vaudoise
+annotato, Losanna 2004, nota 2.2.5 ad art. 59). La gravità del reato (se si
+preferisce
+la gravità dei fatti oggetto d’accusa e di cui si teme
+reiterazione)
+, condizione la cui assenza è comunque
+determinante (G. Piquerez, op. cit., n. 2358, nota 84), da sola non basta
+(sentenza CRP citata, cons. 8 e riferimenti) ma deve essere debitamente
+considerata
+(DTF 21.1.2005, 1P.750/2004; DTF 25.4.2006, 1P.198/2006; CRP
+16.5.2006, 60.2006.154). Oc
+corre, insomma, che l'insieme delle
+circostanze (precedenti, comportamento in istruttoria, personalità, modalità di
+commissione, condizioni socio-famigliari, eventuale carattere deterrente del
+procedimento in corso, fatti oggetto dell’ipotesi di reato ecc.) concorrano ad
+imporre una prognosi molto sfavorevole (DTF 21 gennaio 2005, 1P.750/2004).
+In concreto, è senz’altro dato un
+concreto pericolo di recidiva.
+Basti qui ricordare i numerosi
+precedenti di __________ in Italia (ad es. Corte di Appello di Torino __________
+per rapina, Tribunale di Busto Arsizio __________, Tribunale di Verbania __________;
+cfr. anche verb. Pol. accusato del 19.11.2008), dove sono pure in corso altri
+procedimenti a suo carico, nonché considerare la reiterazione a delinquere che
+emerge dai fatti oggetto dell’attuale procedimento.
+9.
+Stabilito che gli elementi di
+legge per il mantenimento e/o proroga della detenzione preventiva sono presenti
+nel caso in esame, occorre ora valutare se la proroga richiesta (5 mesi), sia
+rispettosa del principio di proporzionalità, ricordato che determinanti a tale
+proposito sono il rapporto tra la detenzione sofferta, o eventualmente ancora
+da soffrire, e la gravità dei reati (o meglio della pena ipotizzabile), nonché
+il rispetto dell'art. 102 CPP (secondo cui l'inchiesta deve procedere con
+celerità; cfr. anche DTF 4.5.2005, 1P.194.2005; DTF 16.11.2004, 1P.630/2004; SJ
+1981 p. 383 e citazioni);
+In concreto la proporzionalità
+del carcere preventivo cui è astretto __________ per rapporto alla presumibile
+pena, è senz’altro data: __________, come detto, è detenuto dal 21 agosto 2008
+per reati di sicura gravità, in particolare quello di omicidio intenzionale,
+cioè di un crimine, e per il quale, in caso di condanna, è ipotizzabile una
+pena di durata verosimilmente ben maggiore del carcere sin qui sofferto ed
+ancora da soffrire, ribadito inoltre che successivamente nel corso
+dell’inchiesta sono emersi ulteriori reati per i quali il Procuratore pubblico
+in data 19 gennaio 2009 ha esteso l’accusa.
+Per quanto concerne invece
+l’altro aspetto della proporzionalità, e cioè quello connesso al rispetto del
+principio di celerità, trattasi di inchiesta complessa – non soltanto a causa
+delle difficoltà nell’accertamento della dinamica di quanto avvenuto la sera
+del 19 agosto 2008, ma anche in considerazione delle varie fattispecie
+penalmente rilevanti emerse a carico di __________ successivamente all’arresto,
+al numero di persone coinvolte e alla ramificazioni con l’estero – che è stata comunque
+condotta nel rispetto dei dettami dell’art. 102 cpv. 1 CPP, rilevato inoltre
+che da un esame degli atti non emergono tempi morti di durata eccessiva tali da
+mettere in discussione la legalità della detenzione (in proposito va infatti
+ricordato che secondo il Tribunale federale il rispetto di tale principio deve
+essere valutato globalmente, tenendo conto delle particolarità dell’inchiesta,
+dell’ampiezza del lavoro svolto dagli inquirenti, non potendosi pretendere che
+un magistrato si occupi costantemente di un unico incarto, e di quella degli
+inevitabili tempi morti, cfr. DTF 124 I 139, DTF 128 I 149, STF 7.2.2005 in re
+C., 1S.3/2005).
+In conclusione, constatata l'esistenza
+di gravi indizi di reato, bisogni dell’istruzione, pericolo di collusione/inquinamento
+delle prove, pericolo di fuga e pericolo di recidiva, nonché rispetto dei
+principi di proporzionalità della carcerazione (sofferta e da soffrire) nei
+termini suesposti, l'istanza è accolta ed è concessa una proroga del carcere
+preventivo a cui è astretto __________ sino al 21 luglio 2009 compreso, con il
+formale invito all’attenzione dei precetti di celerità (art. 102 cpv. 1 e 176
+cpv. 3 CPPT) che vuole contenimento della possibile carcerazione preventiva,
+quale richiamo e quale necessità di controllo d’ufficio del trascorrere del
+tempo.
+In conclusione, l'istanza deve
+quindi essere accolta, così come proposta dal Procuratore pubblico, con la
+presente decisione, esente da tasse e spese giudiziarie (art. 39 lett. f TG e
+contrario) e suscettibile di impugnazione alla Camera dei ricorsi penali (art.
+284 cpv. 1 lett. a CPP).
+P.Q.M.
+richiamati gli articoli 111, 122,
+123, 126, 134, 139 CP, 19 LStup, 1ss. LArm, 95 ss. 102, 103, 279 ss, 284 CPP;
+decide
+1.
+L’istanza è
+accolta.
+Di conseguenza
+il carcere preventivo cui è astretto __________ è prorogato
+sino al
+21 luglio
+2009 (compreso).
+2.
+Non si
+percepiscono né tassa né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera
+dei ricorsi penali entro dieci giorni dall’intimazione.
+4.
+Intimazione:
+__________
+giudice
+Ursula Züblin
