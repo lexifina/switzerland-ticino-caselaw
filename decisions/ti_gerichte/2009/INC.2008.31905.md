@@ -1,0 +1,519 @@
+---
+decision_id: "ti_gerichte_INC.2008.31905"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.31905"
+decided: "2009-02-17"
+published: "2009-01-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=100538&nX40_KEY=4711187&nTrefferzeile=81&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/311.0/art-058.md", "switzerland/bund/acts/311.0/art-071.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-161.md", "switzerland/bund/acts/312.0/art-176.md", "switzerland/bund/acts/312.0/art-280.md"]
+---
+
+# TI Gerichte INC.2008.31905
+
+## Regeste
+
+Provvedimento PP
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.01.2009 INC.2008.31905
+Tessin Il Giudice dell'istruzione e dell'arresto 23.01.2009 INC.2008.31905
+Ticino Il Giudice dell'istruzione e dell'arresto 23.01.2009 INC.2008.31905
+
+Provvedimento PP
+
+Incarto n.
+INC.2008.31905
+Lugano
+17 febbraio 2009
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sul reclamo presentato il 24/26
+novembre 2008 da
+__________
+contro
+le decisioni 12 novembre 2008 del PP Fiorenza Bergomi che
+ha rifiutato colloqui liberi con il marito coaccusato e con il medico curante
+nonché, il dissequestro di un importo di CHF 10'000.- dai conti bancari
+dell’accusata nell’ambito del procedimento penale di cui all’inc. MP __________;
+viste le osservazioni 4 dicembre
+2008 della parte civile __________ e 9 dicembre 2008 del PP, mentre che le
+altre parti non hanno presentato osservazioni;
+visto l’inc. MP __________;
+ritenuto,
+in fatto:
+A.
+Il Ministero pubblico ha aperto
+un procedimento penale nei confronti della reclamante e del marito __________,
+per titolo di truffa: ella, che è stata vittima il 24 maggio 1993 di un
+infortunio sul lavoro agli arti superiori (ustione con la soda caustica che le
+avrebbe provocato ustioni di 2° e 3° grado) – a seguito del quale è stata
+ritenuta inabile al lavoro manuale e sono intervenute a vario titolo diverse
+compagnie assicurative che le hanno fornito prestazioni di natura pecuniaria (tra
+cui __________ __________, __________, __________, __________, __________, __________,
+__________, __________) – è a sua volta accusata di avere ingannato, con
+l’aiuto del marito, tali istituti assicurativi, autoinfliggendosi delle ferite
+agli arti superiori (da sola e con l’aiuto del marito) al fine di simulare un
+aggravamento delle conseguenze dell’incidente originario e così ottenere il
+versamento di prestazioni assicurative, altrimenti non dovute, e tentato di
+percepire, con le stesse modalità, una rendita per grandi invalidi: prestazioni
+e rendite di cui hanno sostanzialmente beneficiato entrambi i coniugi
+(considerato che il marito avrebbe cessato ogni attività lucrativa nel 2003
+vivendo con le rendite ricevute dalla consorte). Entrambi gli accusati sono
+stati arrestati e si trovano tuttora in detenzione preventiva.
+B.
+Nel frattempo l’inchiesta è
+praticamente conclusa, anche se mancano agli atti le risposte delle Autorità __________
+che, su rogatoria internazionale, sono state richieste dal PP di bloccare a
+registro fondiario i beni immobili dei coniugi __________ in __________ e
+quelli depositati su di un conto bancario intestato alla reclamante.
+Con decisione 5 dicembre 2008 la Camera dei ricorsi penali ha respinto il ricorso presentato dalla qui istante contro la
+decisione 30 ottobre 2008 di questo giudice che aveva respinto la sua istanza
+di libertà provvisoria, inoltrata il 21/22 ottobre 2008, ritenuta la presenza
+di seri indizi di reato, i bisogni istruttori ed il pericolo di collusione ed inquinamento
+delle prove, con riferimento ai beni immobili e mobili degli accusati al loro
+paese d’origine, e il pericolo di fuga ritenuto che dall’insieme delle
+circostanze e dal fatto che i beni (mobili ed immobili) al paese d’origine non
+sono ancora stati bloccati, appare non solo possibile, ma anche probabile che i
+due accusati preferiscano la fuga dal nostro paese (dove non hanno più legami e
+dove ogni loro bene è stato bloccato) per il paese d’origine.
+Con decisione 19 dicembre 2008
+questo giudice ha concesso una proroga del carcere preventivo cui sono astretti
+i due coniugi sino al 9 febbraio 2009 (compreso).
+C.
+Con istanza 17/20 ottobre 2008
+(AI 265) la difesa della qui reclamante ha chiesto al PP il dissequestro
+dell’importo di CHF 10'000.- dai conti della sua patrocinata al fine di
+permettere all’__________ il pagamento di spese fisse della famiglia (quali
+cassa malati, affitto e altro). L’istanza è stata intimata dal PP alle parti il
+22 ottobre 2008 per osservazioni (AI 272).
+A tale istanza si sono opposte
+tutte le parti (AI 281, 285, 293 e 294 ad eccezione del correo, AI 284).
+D.
+Con istanza 31 ottobre/3 novembre
+2008 (AI 303) la qui reclamante ha, tra l’altro, chiesto genericamente al PP di
+potere essere visitata in carcere dal proprio __________. Ella ha altresì
+chiesto la possibilità di avere colloqui regolari con il proprio marito, anche
+sorvegliati.
+E.
+Il PP, con scritto 12 novembre
+2008 (AI 322), ha comunicato di non intendere dissequestrare l’importo di CHF
+10'000.-, ritenuto come sui conti in __________ riconducibili all’accusata,
+posti sotto sequestro, è confluito provento di reato. Il mantenimento del
+sequestro si giustifica inoltre a fini risarcitori e, fra il sequestro posto in
+essere e l’ipotesi di reato al vaglio del PP, sussisterebbe sufficiente
+connessione che giustifica la misura ordinata e il suo mantenimento.
+Per quanto riguarda il permesso
+di visita a favore del __________ il PP osserva come l’accusata sia già seguita
+in carcere dal __________ il quale, se lo necessitasse per motivi medici, e
+dietro consenso del PP, potrebbe contattare il __________. Il PP osserva
+peraltro che il __________ è stato sentito come teste e ancora lo potrebbe
+essere.
+Per quanto riguarda i colloqui
+tra i due accusati il PP ha concesso un colloquio sorvegliato dalla polizia
+cantonale e alla presenza di un interprete.
+F.
+Con reclamo 24 novembre 2008 __________
+afferma in primo luogo che la decisione, per quanto riguarda il mancato
+dissequestro, andrebbe annullata già solo per il fatto che il PP ha dato per
+scontata la colpevolezza degli accusati, che invece respingono ogni addebito.
+Inoltre l’importo richiesto è assolutamente necessario  per pagare le spese
+correnti dei coniugi __________: il dissequestro è quindi chiesto in ossequio
+dei principio di proporzionalità e in dubio pro reo.
+Per quanto riguarda il permesso
+di visita a favore del __________ la difesa osserva che accetterebbe anche un
+permesso sorvegliato alla presenza di un'agente di polizia di sesso femminile,
+per permettere alla sua assistita, che soffrirebbe tuttora di forti dolori e sanguinamenti,
+di essere visitata dal proprio medico curante.
+Per quanto riguarda i colloqui
+liberi tra i coniugi la difesa osserva che gli stessi non sarebbero di
+nocumento al procedimento penale non potendo i due coniugi colludere tra loro.
+G.
+Con osservazioni 4 dicembre 2008
+(Inc. GIAR 319.2008.5, doc. 4) la parte civile __________ si oppone al reclamo
+e, per quanto riguarda la richiesta di dissequestro di CHF 10'000.-, osserva
+che i saldi attivi sequestrati ai due accusati non appaiono sin d’ora
+sufficienti a coprire le pretese delle parti civili, vi sono sufficienti indizi
+di reato a fondamento della decisione di sequestro, per il resto si dirà, se
+del caso, nelle motivazioni della presente.
+H.
+Con osservazioni 9 dicembre 2008
+(inc. GIAR 319.2008.5, doc. 5) il PP si rifà alle decisioni impugnate. Per
+quanto riguarda i permessi di visita con il __________ afferma che oltre al __________
+l’accusata è seguita in carcere anche dal __________ (specialista dermatologo).
+Per quanto riguarda i colloqui tra i coniugi il PP afferma che la difesa stessa
+aveva chiesto, in via subordinata, la concessione di colloqui sorvegliati. Un
+colloquio tra i coniugi sarebbe già stato organizzato e un altro predisposto a
+seguito della richiesta formulata il 4 dicembre 2008 dalla difesa.
+I.
+Il coniuge, coaccusato, della
+reclamante e le altre parti non hanno presentato osservazioni.
+E,
+in
+diritto:
+1.
+La reclamante, accusata nel
+procedimento penale, è parte del procedimento penale alla base del reclamo,
+nonché destinataria del provvedimento impugnato. Pacifica quindi la sua
+legittimazione al reclamo ex art. 280 cpv. 2 CPP.
+Il reclamo, formulato
+dall’accusata il 24 novembre 2008, entro il termine previsto dalla legge, è
+dunque ricevibile in ordine.
+2.
+I principi generali in materia di
+perquisizione e sequestro, quali misure cautelari, sebbene noti ai
+patrocinatori dell’accusato ed al Procuratore pubblico, sono ricordati qui di
+seguito.
+L’art. 161 cpv. 1 CPP impone al
+Procuratore Pubblico di ordinare il sequestro di tutti gli oggetti che possono
+avere qualche importanza per il processo, sia come mezzi di prova sia perché
+soggetti a confisca o a devoluzione allo Stato: la norma - meglio poi
+specificata nei capoversi successivi, in particolare al cpv. 3 per cui possono
+essere sequestrati oggetti e valori destinati a garantire il pagamento delle
+eventuali multe se ciò sia adeguato alle circostanze - corrisponde all’art. 120
+CPP/1941, per cui ancora soccorre la giurisprudenza della Camera dei ricorsi
+penali sul tema (REP. 1987, p. 265; 1989, p. 599; sentenze 30 gennaio 1992 in re O.C., CRP 282/91 e 17 marzo 1992 in re G.M., CRP 38/92; decisione 17 gennaio 1996 in re CS, GIAR 1.95.5: v. ora REP 1996, n. 107), ed allora il sequestro, per la sua qualità di
+provvedimento eminentemente cautelare, ha lo scopo di acquisire e conservare
+gli oggetti di cui sopra al dispiegamento della procedura e quindi alle
+necessità dell’istruzione preliminare, alle decisioni del magistrato requirente
+ed a quelle del giudice del merito nella duplice prospettiva - alternativa o
+cumulativa - della produzione e valutazione delle prove (sequestro probatorio)
+e delle decisioni di confisca, restituzione o devoluzione, come gli art. 58 ss
+CP rispettivamente 270-271 CPP (sequestro confiscatorio), ritenuto che, come in
+tutti gli istituti procedurali tali da intaccare eccezionalmente i diritti
+individuali per prevalenza di interesse pubblico, il sequestro é legittimo
+unicamente in presenza concorrente di sufficienti indizi di reato e di
+connessione tra questo e l’oggetto che così occorre salvaguardare agli
+incombenti dell’autorità requirente ed inquirente, con sempre accresciuta
+esigenza probatoria indiziante approssimantesi alla verità materiale (cfr. in contesto
+più generale: Gérard Piquerez, Précis de procédure pénale suisse, Lausanne
+1987, p. 191 n. 926 ss);
+Per quanto concerne, più
+specificamente, il sequestro ai fini dell'applicazione degli artt. 69 ss. CP in
+vigore dal 1.1.2007, vale ancora quanto detto a proposito del sequestro ai fini
+dell'applicazione degli artt. 58 e 59 della vecchia parte generale del codice,
+ritenuto che nella novella legislativa si è proceduto, per quanto concerne le
+norme in questione, unicamente ad una diversa numerazione e ad una
+scomposizione delle cifre dell'art. 59 in tre articoli specifici, quindi:
+Nella rinnovata forma in vigore dal 1° agosto 1994, le
+norme sulla confisca penale (artt. 58 ss. CPS) ribadiscono l’obbligo di
+confisca di ogni e qualsiasi vantaggio patrimoniale ottenuto in maniera
+illecita: la definizione dei valori patrimoniali di cui all’art. 59 cfr. 1 cpv.
+1 CPS riprende le previgenti dottrina e giurisprudenza (v.
+Niklaus Schmid
+,
+Das neue Einziehungsrecht nach Art. 58 ff. StGB, in: RPS 113 [1995], p. 321 ss.,
+pto. 4.2.1 p. 331 e nota 45, con rinvii [qui di seguito citato:
+Schmid
+RPS]). “Valori patrimoniali” non sono soltanto beni corporali, ma anche crediti
+(depositi bancari), carte valori e persino diritti immateriali e diritti reali
+limitati: essenziale è che essi abbiano un proprio, determinabile valore
+economico (v.
+Niklaus Schmid
+, nota 19 ad art. 59 CPS, in:
+Schmid
+(Hrsg.), Kommentar Einziehung, organisiertes Verbrechen und Geldwäscherei, Band
+I, Zürich 1998, qui di seguito citato:
+Schmid
+Kommentar) e che il loro
+illecito trasferimento nel patrimonio del reo conduca, quale conseguenza, ad un
+aumento dei suoi attivi o una diminuzione dei suoi passivi (v.
+Schmid
+, Kommentar,
+nota 17 ad art. 59 CPS). Sottostanno a tale tipo di confisca ai sensi dell’art.
+59 cfr. 1 cpv. 1 CPS anche cosiddetti valori sostitutivi, sia propri che
+impropri (“echte und unechte Surrogate”, v.
+Schmid
+, RPS, pto. 4.3.2, p.
+334 ss.; DTF 126 I 97, consid. 3.c.bb p. 105-106). Beni sostitutivi impropri
+possono essere bloccati unicamente in presenza di una traccia cartacea che li
+riconduca all’originario provento di reato, mentre per i beni sostitutivi
+propri deve essere dimostrato che essi hanno preso il posto del bene originale
+(DTF 126 I 97, consid. 3.c.cc p. 107). Il bene da confiscare deve essere
+facilmente identificabile nel patrimonio dell’autore, rispettivamente del terzo
+beneficiario (DTF 126 I 97, consid. 3.c.cc p. 107, con rinvio a DTF 4 maggio
+1999 in
+re Z., consid. 2b). Se il
+provento di reato è pervenuto sotto forma di denaro, esso resta direttamente
+confiscabile anche se è stato modificato, ad esempio depositato e prelevato da
+conti bancari, trasformato in chèques o simili, infine cambiato in altra valuta
+(tutte forme di trasformazione in bene sostitutivo improprio, v.
+Schmid
+,
+Kommentar, nota 50 ad art. 59 CPS).
+Completamente rivisto è l’istituto della confisca risarcitoria
+ai sensi dell’art. 59 cfr. 2 cpv. 1 CPS (ora art. 71 cpv. 1 CP): essa permette
+al giudice (di merito) di ordinare un risarcimento in favore dello Stato (con eventuale
+successiva assegnazione alla parte lesa in applicazione dell’art. 60 CPS), se –
+pur essendo dati i presupposti per una confisca ex art. 59 cfr. 1 cpv. 1 CPS –
+i valori patrimoniali di cui all’art. 59 cfr. 1 cpv. 1 CPS non siano più
+reperibili (v.
+Schmid
+, RPS, pto. 4.3.1, p. 333 s.; pto. 4.3.2, p. 336)
+oppure debbano venir attribuiti direttamente alla parte lesa in applicazione
+dell’art. 59 cfr. 1 cpv. 1 ultima frase CPS (v.
+Schmid
+, RPS, pto. 4.4.1,
+p. 339). In tal caso, i beni passibili di confisca sono necessariamente di
+provenienza lecita; il loro sequestro si distingue da quello di beni provento
+di reato (o sostitutivi) per la sua natura più prossima al sequestro LEF (v.
+Schmid
+,
+Kommentar, nota 171 ad art. 59 CPS), ciò che si traduce – fra l’altro – nel
+fatto che deve rispettare le regole di diritto esecutivo sul minimo
+esistenziale (art. 92 LEF; Schmid, Kommentar, nota 174 ad art. 59 CPS).
+Per non vanificare la portata delle norme sulla
+confisca, il magistrato inquirente può ordinare il sequestro dei beni che vi
+soggiacciono a titolo probatorio, confiscatorio (art. 161 cpv. 1 e 2 lit. b
+CPP; v.
+Schmid
+, RPS, pto. 6.3, p. 362) oppure risarcitorio (art. 59 cfr.
+2 cpv. 3 CPS; DTF 126 I 97, consid. 3.d.aa p. 107).
+Anche il sequestro ai fini di garanzia del risarcimento
+compensatorio (art. 59 cfr. 2 cpv. 3 CPS, dal 1° gennaio 2007 arto 71 cpv. 3
+CP)) deve rispettare i principi sopra menzionati, con la precisazione che la
+connessione ai fini del giudizio di merito è l’appartenenza del bene (o valore)
+alla sfera economica dell’indiziato/accusato.
+3.
+Nel caso in
+esame, la decisione del magistrato inquirente di rifiutare il dissequestro
+dell’importo di CHF 10'000.- (o se si preferisce di mantenere il sequestro di
+tale somma) si fonda sull’art. 161 cpv. 2 CPP, e cioè sull’ipotesi che quanto
+sequestrato all’accusata sui conti bancari presso il __________, sono beni di
+cui l’accusata è entrata in possesso con il reato o il relativo ricavo (i
+versamenti dei premi unici e delle rendite delle varie assicurazioni che sono
+state chiamate a pagare l’accusata per la riconosciuta invalidità, a seguito
+dell’aggravarsi dei postumi dell’infortunio originario), che saranno
+presumibilmente soggetti a richiesta di confisca.
+Allo stadio
+attuale vi sono infatti seri e concreti indizi per ritenere che l’accusata, con
+l’aiuto del marito, abbia ingannato gli istituti assicurativi costituitisi
+parti civili, autoinfliggendosi delle ferite agli arti superiori (da sola e con
+l’aiuto del marito) al fine di simulare un aggravamento delle conseguenze
+dell’incidente originario e così ottenere il versamento di prestazioni
+assicurative, altrimenti non dovute, e tentato di percepire, con le stesse
+modalità, una rendita per grandi invalidi: prestazioni e rendite di cui hanno
+sostanzialmente beneficiato entrambi i coniugi (considerato che il marito
+avrebbe cessato ogni attività lucrativa nel 2003 vivendo con le rendite
+ricevute dalla consorte). A nulla vale il richiamo, in questa sede, al
+principio in dubio pro reo che, va ricordato, è una regola di valutazione della
+prova che compete al giudice del merito.
+Nell’esame dell’esistenza di
+gravi indizi di colpevolezza, lo scrivente giudice deve imporsi precisi limiti,
+derivantigli da un lato dalla sua funzione – che è quella di esaminare
+l’esistenza dei presupposti formali per l’emanazione degli ordini contestati, e
+non di valutare nella sostanza l’esistenza di un reato – e dall’altro – ma in
+maniera strettamente congiunta con quanto si viene di dire – dell’inopportunità
+di considerazioni di merito premature e, soprattutto, di competenza delle sedi
+di giudizio. Ciò premesso, alla luce degli elementi di fatto sopra riportati,
+le ipotesi accusatorie alla base delle decisioni impugnate appaiono tutt’altro
+che inverosimili e sono sufficienti a giustificare il mantenimento del
+sequestro dei beni dell’accusata depositati su suoi conti presso il __________
+in __________.
+Per quanto riguarda la connessione tra i reati ipotizzati e i beni
+sequestrati sui conti bancari presso il __________ la stessa appare pacifica,
+essendo tali conti riconducibili all’accusata e al di lei marito (coaccusato) e
+alimentati con versamenti delle assicurazioni che si sono costituite parti
+civili (la ricostruzione __________ ha permesso di accertare che
+le
+entrate provenienti da assicurazioni e/o istituti di previdenza a favore della
+relazione __________ intestata a __________ ammontano complessivamente CHF
+961'187.65) quindi, nell’ipotesi accusatoria,
+con denaro
+provento dei reati per cui si procede.
+Pacifico pure il
+rispetto del principio della proporzionalità dal momento che i beni
+riconducibili ai coniugi __________, sino ad ora posti sotto sequestro penale
+sui conti __________ ammontavano, al 14 gennaio 2009 (situazione patrimoniale __________
+prodotta agli atti) a CHF 256'428.- per __________ e a CHF 280'325.- per __________.
+Il totale di quanto bloccato in __________ è sicuramente inferiore al presunto
+indebito profitto ipotizzato dagli inquirenti (con riferimento alla
+ricostruzione __________ 14 gennaio 2009 menzionata sopra).
+Per questi
+motivi il reclamo, su questo punto, deve essere respinto.
+4.
+L'art. 104 cpv. 2 CPP dispone che
+l'arrestato è sottoposto unicamente alle restrizioni della libertà che sono
+indispensabili per assicurare lo scopo dell'arresto e per mantenere la
+disciplina nelle carceri.
+Ai sensi dell'art. 104 cpv. 3 CPP
+i colloqui - sia tra presenti che telefonici (cfr. Rusca/Salmina/Verda,
+Commento del CPP, 1997, n. 25 ad art. 104 CPP) - tra la persona in detenzione e
+terze persone sono accordati e disciplinati dal magistrato.
+La possibilità di colloqui con
+terze persone può essere ristretta unicamente in conformità con il principio di
+proporzionalità, principio che in materia di arresto e misure coercitive è
+peraltro espressamente sancito dall'art. 176 cpv. 2 CPP. A seconda
+dell'interlocutore possono variare le modalità del colloquio che può essere
+libero o sorvegliato, limitazioni possono essere giustificate sia da ragioni
+d'inchiesta (cfr. DTF 117 Ia 465; 102 Ia 299) sia per mantenere l'ordine
+carcerario. Ai colloqui con terzi si applicano le garanzie previste dall'art. 8
+CEDU in materia di corrispondenza: non può esservi ingerenza della pubblica
+autorità nell'esercizio del diritto al rispetto della vita privata e familiare
+se non in quanto tale ingerenza sia prevista dalla legge e in quanto
+costituisca una misura che, in una società democratica, è necessaria per la
+sicurezza nazionale, l'ordine pubblico, il benessere economico del Paese, la
+prevenzione dei reati, la protezione della salute o della morale, o la
+protezione dei diritti e delle libertà altrui. Il tutto nel rispetto del
+principio di proporzionalità.
+In sostanza, provvedimenti
+limitativi nei contatti con terzi non sono, di principio, contrari alla CEDU e
+neppure alla Costituzione federale (art. 36 CF), ma devono essere giustificati
+da motivi inerenti la corretta conduzione dell'inchiesta o l'ordine pubblico
+(in proposito cfr. anche G. Piquerez, La Procédure pénale suisse, Zurigo 2000,
+ad 2416; Rusca/Salmina/Verda, op. cit., ad art. 104 CPP).
+In concreto, il Procuratore
+pubblico ha rifiutato l'autorizzazione a colloqui tra l’accusata e il __________
+(suo medico curante) e liberi tra i coniugi (entrambi detenuti), concedendo un
+colloquio sorvegliato tra i due e predisponendone un altro. A mente del magistrato
+inquirente il __________ sarebbe stato sentito come teste e lo potrà ancora
+essere in futuro, mentre che per quanto riguarda le cure all’accusata esse
+vengono prestate in carcere dal __________ e dal __________, dermatologo. Non è
+motivato il rifiuto di colloqui (sia liberi che regolari, se sorvegliati) tra i
+coniugi, entrambi detenuti ormai dal 30 giugno 2008.
+5.
+Per quanto riguarda la visite con
+il __________ occorre innanzitutto rilevare come l’accusata sia seguita dal
+profilo medico in carcere sia dal __________ (medico della struttura carceraria
+) che dal __________ (oltre che dagli infermieri dell’infermeria del carcere).
+La difesa ha richiesto un
+permesso di visita per il __________ senza specificare e motivare per quale
+motivo l’accusata, che verosimilmente già più non si recava dal __________ da
+tempo, necessiti della visita di tale specialista. In sostanza non solo non è
+stato chiesto, per il tramite del medico responsabile della salute dei detenuti
+presso il carcere giudiziario, di poter far capo al __________ (come peraltro
+prevede il regolarmente del carcere giudiziario, art. 18 e 19), ma neppure del
+perché l’accusata necessiti di tale visita medica, dal momento che, stando alle
+sue dichiarazioni, ella mai sarebbe migliorata dal giorno dell’infortunio (se
+non per brevi e circoscritti periodi) sebbene seguita appunto dal __________.
+In sostanza non è chiaro con che approccio il __________ dovrebbe supplire
+eventuali mancanze diagnostiche e/o terapeutiche del __________ e del __________
+(quest’ultimo specialista in dermatologia) e per quali problemi di salute.
+Il __________ è stato sentito
+come testimone nel procedimento penale in corso e verosimilmente potrebbe
+ancora essere sentito al processo, ne discende che un colloquio tra lo specialista
+e l’accusata, in assenza di una concreta necessità di intervento diretto medico
+nei confronti di quest’ultima, potrebbe creare problemi di collusione o
+inquinamento delle prove.
+Così stando le cose il reclamo su
+questo punto deve essere respinto.
+6.
+La reclamante chiede poi di
+potere beneficiare di colloqui regolari, liberi, con il marito __________, pure
+incarcerato presso la struttura del __________.
+È ben vero che l’esistenza di un
+pericolo di collusione, che giustifica il perdurare della carcerazione
+preventiva, è stato riconosciuto da questo giudice e dalla CRP, con riferimento
+ai beni mobili ed immobili degli accusati al loro paese d’origine. Non vi
+sarebbe quindi, almeno apparentemente, pericolo di inquinamento delle prove in
+caso di due coaccusati potessero parlarsi tra loro.
+V’è da dire che dal profilo
+accusatorio è contemplata l’ipotesi che __________ abbia materialmente aiutato
+la moglie ad autoinfliggersi le lesioni che le hanno permesso di percepire le
+rendite assicurative e che sono alla base della richiesta di una rendita per
+grandi invalidi. Appare quindi evidente che vi è il concreto pericolo che
+l’agire degli accusati contemplato nell’ipotesi accusatoria si ripeta
+all’interno della struttura carceraria, in caso i due coniugi abbiano la
+possibilità di incontrarsi senza sorveglianza alcuna, ciò al fine di rendere
+verosimile la loro versione dei fatti e, per di più, con aggravamento dello
+stato di salute della reclamante (conseguenza che evidentemente non può essere
+accettata). A questo rischio, appena evidenziato, si potrebbe verosimilmente
+ovviare con l’adozione di misure adeguate.
+Il PP non ha comunque analizzato
+la problematica suesposta e neppure ha motivato la propria decisione negativa,
+limitandosi a comunicare di avere già concesso un colloquio sorvegliato tra i
+coniugi detenuti e di averne organizzato un secondo (che ormai dovrebbe già
+avere avuto luogo) ma non si è espresso sulla possibilità che ulteriori
+incontri tra i coniugi possano avvenire presso al struttura carceraria e se sì
+con che modalità.
+“
+l’obbligo di motivazione discende dal diritto di
+essere sentito e dalla garanzia di un equo processo (art. 29 CF, art. 6 CEDU),
+che concerne tutte le parti al procedimento, ed è pure codificato nel CPP (art.
+6); tale obbligo non concerne solamente istanze e gravami (CRP 20.07.1994,
+249/94; GIAR 13.01.2001, 436.2000.6), ma anche le decisioni del Procuratore
+pubblico, compresi gli ordini di perquisizione e sequestro; le parti al
+procedimento hanno diritto di conoscere le ragioni che hanno indotto il
+magistrato a decidere in un senso o in un altro; la motivazione è presupposto
+essenziale per la verifica della fondatezza della decisione sia per le parti al
+procedimento che per l’autorità di reclamo/ricorso, che deve verificare la conformità;
+l’assenza di motivazione costituisce un “vizio capitale” della decisione (DTF
+98 Ia 460; DTF 9.02.1994, I Corte di diritto pubblico, in re L.; GIAR 5.05.1995
+in re K .L.; GIAR 15.03.1995 in re L. B.; G. Piquerez, Procedure Pénale Suisse,
+ZH 2000, nos. 796, 798; art. 6 CPP);
+spetta al magistrato inquirente
+motivare (al momento in cui vengono emanate) le sue decisioni, per rapporto
+agli indizi di reato, alle necessità probatorie e/o di confisca
+(rispettivamente di garanzia ex 59 cifra 2 CP); secondo dottrina e
+giurisprudenza, il diritto di essere sentito (da cui discende l’obbligo di
+motivazione) è garanzia di natura formale, la cui violazione comporta
+l’annullamento della decisione impugnata, indipendentemente dalle possibilità
+di successo del ricorso sul merito (DTF 119 Ia 136; Hauser/Schweri, Schweizerisches
+Strafprozessrecht, Basilea 1999, § 55 no. 4; G. Piquerez, La motivation des décisions
+de justice en droit pénal, in Festschrift für Jörg Rehberg, Zurigo 1996, p.
+261; CRP 31 luglio
+2001 in
+re B.; GIAR 9 maggio 2001, 165.2000.2);
+l’obbligo di motivazione non
+concerne, ovviamente, solo le decisioni penali; nell’ambito civile il difetto
+di motivazione rende addirittura nulla la decisione, nullità rilevabile
+d’ufficio (REP 1994 p. 382);
+…omissis…
+va pure detto che dottrina e
+giurisprudenza ammettono (in particolare per le decisioni incidentali
+nell’ambito di un procedimento penale) decisioni sommarie, a condizione che si
+esprimano sugli elementi essenziali per il controllo della legalità (REP 1996
+331; REP 1992 334; DTF 9 febbraio 1994; G. Piquerez, in Festschrift für Jörg Rehberg,
+Zurigo 1996, p. 257 ss; N. Schmid, Strafprozessrecht, Zurigo 1997, p. 60/61); è
+pure ammesso che il difetto di motivazione possa essere sanato (in determinate
+situazioni) in sede di osservazioni, visto il carattere particolare delle
+decisioni incidentali emanate in fase istruttoria;
+"
+(sentenza
+6.08.2001, inc. GIAR 528.2000.3)
+Non essendo la decisione
+impugnata, su questo punto, motivata sia per quanto riguarda la non concessione
+di colloquio liberi come pure la non concessione di colloqui regolari
+sorvegliati (e se sorvegliati, con quali modalità), lacuna che non è sanata
+neppure in sede di osservazioni, la stessa deve essere annullata da questo
+giudice (cui compete verificare, su reclamo, la legittimità dell’esercizio
+delle competenze del titolare del procedimento e non sostituirsi a questo in
+tale esercizio),  che in siffatte circostanze non dispone degli elementi per
+considerare né il rispetto del principio di proporzionalità né l’eventuale
+violazione dell’art. 8 CEDU. L’incarto deve quindi essere ritornato al
+Procuratore pubblico affinché emani una decisione debitamente motivata su
+questo punto.
+7.
+Il reclamo è conseguentemente
+respinto per quanto riguarda la richiesta di dissequestro di un importo di CHF
+10'000.- e la richiesta di concessione di colloqui tra l’accusata e il __________,
+mentre che la decisione impugnata è annullata per quanto riguarda la non
+concessione di colloqui personali tra i due coniugi coaccusati. Per quest’ultimo
+aspetto gli atti sono rinviati al PP per nuova decisione. Tasse e spese
+(limitate, con riferimento alla richiesta di dissequestro) sono a carico della
+reclamante. La presente decisione è impugnabile alla CRP, trattandosi di
+decisione in materia di sequestro e che concerne uno degli aspetti della
+libertà personale (Rusca/Salmina/Verda, op. cit., ad art. 104 CPP, n. 27).
+Richiamati i citati articoli di
+legge,
+decide
+1.
+Il reclamo è evaso ai sensi dei considerandi (cfr. considerando 7.).
+2.
+La tassa di giustizia di CHF 500.- e le spese di CHF 150.- sono a carico
+della reclamante.
+Non si assegnano ripetibili.
+3.
+Contro la presente decisione è data la facoltà di ricorso alla CRP entro
+10 giorni.
+4.
+Intimazione (con copia delle osservazioni) a:
+giudice
+Claudia Solcà
