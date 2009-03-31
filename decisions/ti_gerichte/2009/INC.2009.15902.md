@@ -1,0 +1,133 @@
+---
+decision_id: "ti_gerichte_INC.2009.15902"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2009.15902"
+decided: "2009-03-31"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=100912&nX40_KEY=4711175&nTrefferzeile=38&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-064.md"]
+---
+
+# TI Gerichte INC.2009.15902
+
+## Regeste
+
+Difesa
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 31.03.2009 INC.2009.15902
+Tessin Il Giudice dell'istruzione e dell'arresto 31.03.2009 INC.2009.15902
+Ticino Il Giudice dell'istruzione e dell'arresto 31.03.2009 INC.2009.15902
+
+Difesa
+
+Incarto n.
+INC.2009.15902
+Lugano
+31 marzo 2009
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire sul reclamo presentato il 31 marzo
+2009 da
+contro
+la mancata concessione di colloqui liberi tra accusato (in
+detenzione) e difensore;
+visto quanto si dirà in seguito,
+si può (quando non si deve) prescindere dal richiedere osservazioni al
+magistrato inquirente, così come dall’acquisire l’incarto;
+visto comunque l’inc. GIAR
+159.2009.1;
+ritenuto e considerato,
+in fatto ed in
+diritto
+che:
+-   __________ è stato arrestato il 26 marzo 2009 (doc. 2, inc. GIAR
+159.2009.1) e nei suoi confronti è stata promossa l’accusa per l’ipotesi di
+infrazione aggravata alla LFStup (doc. 1, inc. GIAR citato);
+-   l’arresto è stato confermato, da questo giudice, il 27 marzo
+2009, presente il difensore (doc. 4, inc. GIAR citato);
+-    con il reclamo oggetto della presente, __________ (e la sua
+difesa) chiede l’annullamento, per assenza di motivazione, della decisione che
+nega i colloqui liberi tra detenuto e avvocato;
+-    l’art. 64 cpv. 1 CPP sancisce che i colloqui tra arrestato e
+difensore sono liberi; limitazioni possono essere poste in essere se lo esigono
+l’interesse dell’inchiesta o motivi di sicurezza (art. 64 cpv. 2);
+-    come si ha
+avuto modo, ancora recentemente, di affermare:
+“
+è indubbio che le limitazioni di tale diritto non
+possono essere la regola, bensì debbono trovare applicazione in “
+casi
+eccezionali
+”, in presenza di concreti “
+motivi sufficientemente gravi e
+importanti
+”, e che le relative decisioni debbono essere motivate, almeno
+sommariamente e pur senza giungere a rendere vano (tramite la motivazione
+appunto) l’eventuale fondamento della limitazione (cfr. lavori legislativi in
+N. Salvioni, Codice di Procedura Penale, ad art. 64; Rusca, Salmina, Verda,
+Commento del CPP, ad art. 64; L. Marazzi, Il GIAR, L’arbitro nel processo
+penale, pag. 19/20);
+è altrettanto indubbio che la motivazione, per
+stringata e sommaria che possa essere, deve essere notificata/comunicata al
+momento stesso in cui si pone in essere (materialmente o formalmente) la
+limitazione; infatti, l
+a limitazione
+(formale o di fatto) di un diritto sancito dalla legge, senza immediata
+comunicazione/notifica di una decisione motivata (o della motivazione),
+configura un diniego di giustizia che, nel caso specifico, concretizza una
+lesione dei diritti della difesa e costituisce motivo di nullità della stessa
+(DTF 98 Ia 460; GIAR 6.8.2001, pag. 5/6 e riferimenti), ciò che si constata con
+la presente senza richiedere e/o attendere eventuali osservazioni al fine di
+non rendere pleonastica la constatazione (rispettivamente permettere
+l'instaurarsi di una prassi che rovescia il principio stabilito dal CPP in
+applicazione della CF e della CEDU);
+”
+(GIAR 9
+febbraio 2009, 70.2009.2)
+- nel caso in esame alla richiesta del legale di concessione dei
+colloqui liberi (27 marzo 2009), il magistrato inquirente ha trasmesso un
+autorizzazione per “
+un permesso di visita
+sorvegliato, da concordare con la polizia giudiziaria, sezione SAD, Lugano
+”
+(30.3.2009), senza fornire ulteriori indicazioni;
+- è evidente che l’autorizzazione trasmessa costituisce una decisione
+limitativa dei colloqui liberi tra difensore e accusato (detenuto) e che la
+stessa non è minimamente motivata; in applicazione dei principi riportati più
+sopra, la decisione è da ritenersi nulla per totale carenza di motivazione;
+- di conseguenza, il reclamo è accolto e il magistrato inquirente è
+invitato ad emanare, tempestivamente, nuova decisione limitativa debitamente
+motivata o (alternativamente) a trasmettere alla difesa autorizzazione per i
+colloqui liberi;
+- in ragione dell'esito del reclamo, la tassa di giustizia e le spese
+rimangono a carico dello Stato; per le stesse ragioni la presente viene
+anticipata via telefax.
+P.Q.M.
+viste le norme applicabili, quelle
+citate ed in particolare gli artt. 19 cifra 2 LFStup, 5 e 6 CEDU, 29, 32 CF, 6,
+64, 280 ss., 284
+e contrario
+CPP,
+decide
+1.
+Il reclamo è accolto: è constatata la nullità della decisione impugnata.
+2.
+Il magistrato inquirente è invitato a procedere (tempestivamente) come
+indicato nei considerandi.
+3.
+La tassa di giustizia, fissata in FRS. 100.--, e le spese di FRS. 20.--,
+sono a carico dello Stato del cantone Ticino, il quale rifonderà al reclamante
+FRS 180.- a titolo di ripetibili.
+4.
+La presente decisione è definitiva a livello cantonale.
+5.
+Intimazione (anticipata via telefax, visto l’esito) a:
+giudice
+Edy Meli
