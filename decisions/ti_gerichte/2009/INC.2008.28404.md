@@ -1,0 +1,148 @@
+---
+decision_id: "ti_gerichte_INC.2008.28404"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.28404"
+decided: "2009-05-12"
+published: "2009-05-12"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=101317&nX40_KEY=4711175&nTrefferzeile=36&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-100.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-290.md", "switzerland/bund/acts/312.0/art-294.md", "switzerland/bund/acts/312.0/art-296.md"]
+---
+
+# TI Gerichte INC.2008.28404
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 12.05.2009 INC.2008.28404
+Tessin Il Giudice dell'istruzione e dell'arresto 12.05.2009 INC.2008.28404
+Ticino Il Giudice dell'istruzione e dell'arresto 12.05.2009 INC.2008.28404
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2008.28404
+Lugano
+12 maggio 2009
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy Meli
+sedente per statuire sull’istanza di scarcerazione
+presentata l’11 maggio 2009 da
+__________
+a seguito della decisione della CCRP di data 4 maggio
+2009;
+ritenuto e considerato,
+in fatto ed in
+diritto
+che:
+-     __________ è in stato di
+detenzione (preventiva) dal 9 giugno 2008;
+-     con sentenza del 28 gennaio 2009, la Corte delle Assise criminali di Lugano lo ha ritenuto colpevole dei reati di cui agli artt.
+187 CP (dispositivo 1.1), 190 CP (dispositivo 1.2), 19 cifra 1 LFStup
+(dispositivo 1.3) e 19a LFStup (dispositivo 1.4), condannandolo ad una pena
+detentiva di 3 anni e 10 mesi (dispositivo 2.1), al risarcimento della parte
+civile per spese e torto morale (dispositivo 2.2) nonché al pagamento della
+tassa di giustizia e delle spese processuali (dispositivo 2.3);
+-     con sentenza del 4 maggio 2009 la CCRP ha annullato il dispositivo 1.1 della sentenza di primo grado prosciogliendo l’accusato
+dal reato ascritto; nel contempo, ha pure annullato i dispositivi 2.1, 2.2. e
+2.3, relativi alla pena, al risarcimento alla parte civile e tasse e spese,
+disponendo il rinvio per nuovo giudizio;
+-     con lo scritto menzionato in epigrafe, __________ ha chiesto, a
+questo ufficio, l’immediata scarcerazione siccome prosciolto dall’imputazione
+di violenza carnale e non potendosi più invocare pericolo di collusione o di
+fuga;
+-     la particolarità della situazione pone, innanzitutto, il
+problema della competenza decisionale di questo ufficio;
+-
+una richiesta di scarcerazione immediata, fondata unicamente sul
+proscioglimento (in questo caso parziale) da parte della Corte di cassazione,
+non rientra nelle competenze di questo ufficio; in materia si è già avuto modo
+di dire che:
+“L’immediata scarcerazione, per decadenza dei motivi
+che giustificano l’ordine di arresto, rispettivamente decorrenza dei termini
+della carcerazione preventiva, deve essere ordinata dall’autorità giurisdizionalmente
+competente al momento in cui “l’evento” si verifica (se si preferisce, al
+momento in cui la constatazione ha luogo). Quindi se il dispositivo della
+sentenza CCRP …
+omissis
+… comportasse immediata scarcerazione, spettava a
+tale autorità ordinarla contestualmente al suo proprio dispositivo. Il GIAR
+ordina l’immediata scarcerazione allorquando non conferma un arresto (art. 100
+CPP), rispettivamente allorquando si esprime su un’istanza di libertà
+provvisoria, se del caso, preavvisata negativamente dal magistrato inquirente
+(108 cpv. 2 e 3 CPP) ma non ha competenza per ordinarla desumendola dal
+dispositivo di una Corte del merito, tantomeno è autorità d'esecuzione di
+decisioni altrui.”
+(GIAR 11.5.2005, 420.2004.2)
+-     se la richiesta deve, invece, essere considerata quale istanza
+di libertà provvisoria dopo la decisione di cassazione e la comunicazione del
+dispositivo (quindi non in applicazione dell’art. 290 cpv. 2 CPP), occorre
+determinare se ci si trovi in una situazione retta dall’art. 108 cpv. 3 CPP,
+ovvero in quella dell’art. 108 cpv. 4 CPP che vuole competente la Corte di merito dall’apertura del dibattimento alla crescita in giudicato della sentenza,
+rispettivamente la stessa CCRP dalla presentazione del ricorso e fino alla
+crescita in giudicato della propria decisione;
+-     questo ufficio ha già avuto modo di riconoscere la propria
+competenza laddove il rinvio da parte della CCRP costituisca una sorta di
+“ritorno” alla situazione post-atto d’accusa e pre-dibattimento, asserendo che
+tale è il caso quando il rinvio è effettuato per nuovo giudizio su una o più
+imputazioni (GIAR 23 maggio 2005, 420.2004.3);
+-     nel caso in esame la CCRP ha annullato il dispositivo 1.2 della
+prima istanza e prosciolto  l’accusato dall’imputazione di violenza carnale, nel
+contempo, ha annullato, con rinvio, i dispositivi 2.1, 2.2 e 2.3, sempre della
+prima istanza, relativi alla pena, risarcimento a parte civile e carico di
+tasse e spese; gli altri dispositivi non sono stati toccati, di conseguenza
+deve essere ritenuta confermata la condanna relativa alle altre imputazioni,
+con rinvio limitato alla ricommisurazione della pena, delle assegnazioni alla
+PC e sulle spese;
+-     il nuovo giudizio su queste questioni (che, per legge, non
+necessita di una modifica della composizione della corte: art. 296 cpv. 2 CPP),
+non comporta, a mente di questo giudice, un ritorno alla fase tra l’atto
+d’accusa e l’apertura del dibattimento; al contrario, e sempre a giudizio di
+questo giudice, si tratta di una delle situazioni previste dall’art. 108 cpv. 4
+CPP (fase successiva all’apertura del dibattimento e sentenza non ancora
+cresciuta in giudicato) in quanto la Corte non deve più esprimersi sui fatti
+oggetto dell’atto d’accusa (o estensione completazione dello stesso) e non deve
+istruire un nuovo processo nel senso compiuto di tale termine;
+-     in virtù di quanto sopra, questo giudice non ritiene data la sua
+competenza in merito alle richiesta menzionata in epigrafe; che la competenza
+spetti ad un giudice di merito può certo apparire delicato (cfr. RUSCA,
+Salmina, Verda, Commento al CPP n. 3 ad art. 97 e n. 10 ad art. 108), ma ciò
+non basta a permettere a questo ufficio di attribuirsi competenze non previste
+(e non volute) dalla legislazione applicabile;
+-     abbondanzialmente, e non essendo dato sapere se la decisione
+della CCRP sia (o sarà) oggetto di impugnativa, si rileva che l’eventualità di
+un ricorso al TF renderebbe ancora più evidente l’incompetenza di questo
+ufficio (e non modifica questa considerazione il fatto che le sentenze CCRP
+siano immediatamente esecutive ex art. 294 cpv. 4 CPP);
+-     l’istanza viene trasmessa, per il tramite del TPC, alla Corte
+oggetto del rinvio da parte della CCRP, affinché si determini sulla propria
+competenza e, se del caso, proceda ad evasione;
+-     trattandosi di questione legata alla libertà personale si
+segnala la possibilità di ricorso alla CRP che, tra l’altro, è anche autorità
+deputata a dirimere i conflitti di competenza.
+P.Q.M.
+viste le norme applicabili, in
+particolare tutte quelle menzionate nei considerandi,
+decide
+1.   L’istanza è irricevibile per
+incompetenza di questo ufficio.
+2.   L’istanza viene trasmessa alla Corte competente per il merito,
+tramite il TPC, affinché si determini sulla propria eventuale competenza.
+3.   Non si prelevano tasse e spese.
+4.   Intimazione all’istante per
+il tramite del suo patrocinatore.
+5.   Trasmissione al TPC per
+quanto eventualmente di competenza.
+giudice
+Edy Meli
+P.S.:   in considerazione della possibile urgenza
+l’intimazione e la trasmissione vengono anticipate via telefax.
