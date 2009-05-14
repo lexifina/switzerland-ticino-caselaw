@@ -1,0 +1,206 @@
+---
+decision_id: "ti_gerichte_INC.2008.40805"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.40805"
+decided: "2009-05-14"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=101380&nX40_KEY=4711181&nTrefferzeile=90&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-176.md"]
+---
+
+# TI Gerichte INC.2008.40805
+
+## Regeste
+
+Difesa
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 14.05.2009 INC.2008.40805
+Tessin Il Giudice dell'istruzione e dell'arresto 14.05.2009 INC.2008.40805
+Ticino Il Giudice dell'istruzione e dell'arresto 14.05.2009 INC.2008.40805
+
+Difesa
+
+Incarto n.
+INC.2008.40805
+Lugano
+14 maggio 2009
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sul reclamo presentato il 4/5 maggio
+2009 da
+__________
+patr. d’ufficio dall’avv. __________, __________
+contro
+la decisione 29 aprile 2009 con la quale il Procuratore
+pubblico Moreno Capella gli ha negato colloqui liberi con __________;
+viste le osservazioni 12 maggio
+2009 del Procuratore pubblico, concludenti per la reiezione del gravame;
+visti, per quanto necessari, gli
+incarti MP __________ e __________;
+letti ed esaminati gli atti;
+ritenuto
+in fatto
+A.
+__________ è stato arrestato il
+21 agosto 2008 con contestuale promozione dell'accusa nei suoi confronti da
+parte del Procuratore pubblico per omicidio intenzionale (__________), tentato
+omicidio, sub lesioni intenzionali gravi (__________), e meglio,
+“per avere,
+il 19 agosto 2008, a __________, davanti all’abitazione di __________, con una
+pistola, intenzionalmente ucciso __________, nonché tentato di uccidere, in sub
+ordine, intenzionalmente ferito (quantomeno alla tibia) __________”
+(cfr.
+doc. 1 inc. GIAR 408.2008.1).
+L’arresto è stato confermato il
+giorno successivo da questo giudice, ritenuta l’esistenza, oltre che di seri e
+concreti indizi di colpevolezza, di pericolo di fuga, bisogni dell’istruzione,
+pericolo di collusione e pericolo di recidiva (cfr. doc. 4 inc. GIAR
+408.2008.1).
+Successivamente, in data 19
+gennaio 2009, l'accusa è stata estesa anche ai reati di lesioni semplici
+aggravate (fatti avvenuti a __________ il 19 agosto 2008 e a __________ nel
+maggio 2008), coazione (fatti avvenuti a __________ il 12 agosto 2008),
+infrazione e contravvenzione alla LArm (fatti avvenuti nel periodo giugno-agosto
+2008 a , __________, __________ ed in altre imprecisate località) ed
+infrazione e contravvenzione alla LStup (fatti avvenuti nel periodo
+aprile-agosto 2008 a __________, __________ ed altre imprecisate località),
+furto aggravato siccome commesso in banda, sub furto e danneggiamento (fatti
+avvenuti a __________ la notte tra il 5/6 maggio 2008, inc. MP __________),
+lesioni semplici in sub vie di fatto (fatti avvenuti ad __________ il 5/6
+luglio 2008 ai danni di __________, inc. MP __________) e lesioni semplici sub
+vie di fatto (fatti avvenuti a __________ il 13 agosto 2008 ai danni di __________,
+inc. MP __________).
+Con decisione 11 febbraio 2009
+questo giudice ha prorogato la carcerazione cui è astretto __________ fino al
+21 luglio 2009 compreso.
+B.
+Con decisione 29 aprile 2009 il
+Procuratore pubblico ha negato l'autorizzazione a colloqui liberi fra __________
+e __________, in quanto sarebbe dato concreto pericolo di collusione, essendo __________
+teste rilevante nell’ambito dei fatti relativi all’omicidio di __________,
+rispettivamente correa di __________ nel procedimento per lesioni semplici ai
+danni di __________.
+C.
+Con reclamo 4 maggio 2009 __________
+si riconferma nella richiesta di colloqui liberi con __________. A suo dire,
+non sussisterebbe alcun pericolo di collusione, peraltro invocato dal
+magistrato inquirente in maniera del tutto generica (senza indicare i punti
+suscettibili di manovre collusive), ritenuto che __________ è stata più volte
+interrogata nel corso dell’inchiesta ed ha fornito una versione dei fatti che
+non presenta divergenze sostanziali (e neppure marginali) con quella
+dell’accusato. La difesa evidenzia poi “il comportamento ineccepibile delle
+parti”, che escluderebbe la possibilità di manovre collusive. Così stando le cose
+il rifiuto del Procuratore pubblico sarebbe sproporzionato ed ingiustificato.
+D.
+In sede di osservazioni il
+Procuratore pubblico si è riconfermato nella decisione impugnata.
+Delle ulteriori allegazioni si
+dirà, per quanto necessario, nei considerandi in diritto.
+e considerato
+In diritto
+1.
+Il reclamo tempestivo e
+presentato da persona legittimata, in quanto accusata e direttamente colpita
+dal provvedimento impugnato, è ricevibile in ordine (art. 280 e rel. CPP).
+2.
+L'art. 104 cpv. 2 CPP dispone che
+l'arrestato è sottoposto unicamente alle restrizioni della libertà che sono
+indispensabili per assicurare lo scopo dell'arresto e per mantenere la
+disciplina nelle carceri.
+Ai sensi dell'art. 104 cpv. 3 CPP
+i colloqui - sia tra presenti che telefonici (cfr. Rusca/Salmina/Verda,
+Commento del CPP, 1997, n. 25 ad art. 104 CPP) - tra la persona in detenzione e
+terze persone sono accordati e disciplinati dal magistrato.
+La possibilità di colloqui con
+terze persone può essere ristretta unicamente in conformità con il principio di
+proporzionalità, principio che in materia di arresto e misure coercitive è
+peraltro espressamente sancito dall'art. 176 cpv. 2 CPP. A seconda
+dell'interlocutore possono variare le modalità del colloquio che può essere
+libero o sorvegliato, limitazioni possono essere giustificate sia da ragioni
+d'inchiesta (cfr. DTF 117 Ia 465; 102 Ia 299) sia per mantenere l'ordine
+carcerario. Ai colloqui con terzi si applicano le garanzie previste dall'art. 8
+CEDU in materia di corrispondenza: non può esservi ingerenza della pubblica
+autorità nell'esercizio del diritto al rispetto della vita privata e familiare
+se non in quanto tale ingerenza sia prevista dalla legge e in quanto
+costituisca una misura che, in una società democratica, è necessaria per la
+sicurezza nazionale, l'ordine pubblico, il benessere economico del Paese, la
+prevenzione dei reati, la protezione della salute o della morale, o la
+protezione dei diritti e delle libertà altrui. Il tutto nel rispetto del
+principio di proporzionalità.
+In sostanza, provvedimenti
+limitativi nei contatti con terzi non sono, di principio, contrari alla CEDU e
+neppure alla Costituzione federale (art. 36 CF), ma devono essere giustificati
+da motivi inerenti la corretta conduzione dell'inchiesta o l'ordine pubblico
+(in proposito cfr. anche G. Piquerez, La Procédure pénale suisse, Zurigo 2000,
+ad 2416; Rusca/Salmina/Verda, op. cit., ad art. 104 CPP).
+In concreto, il Procuratore
+pubblico ha rifiutato l'autorizzazione a colloqui liberi tra __________ e __________
+(fidanzata – teste), in quanto sarebbe tuttora dato un concreto pericolo di
+collusione.
+Innanzitutto __________,
+all’epoca dei fatti convivente dell’accusato e tutt’oggi sua fidanzata, non
+soltanto è coaccusata nel procedimento per lesioni semplici ai danni di __________
+(procedimento nel quale ella nega il proprio coinvolgimento quale correa,
+nonostante la chiamata in correità formulata da __________), ma soprattutto è,
+unitamente a __________, testimone di primaria importanza nel procedimento
+aperto contro __________ per l’omicidio di __________.
+In secondo luogo, contrariamente
+a quanto sostenuto dalla difesa, le versioni dei fatti rese dall’accusato e da __________
+non sono del tutto convergenti ed, inoltre, quella di __________ risulta a
+tratti imprecisa (
+“non ricordo”
+), anche su punti importanti. In
+particolare, non trovano conferma nella dichiarazioni di __________ quelle di __________
+sulla presenza di più persone la sera del 19 agosto 2008 nel piazzale
+antistante l’appartamento (motivo per cui si sarebbe sentito minacciato), sul
+motivo per il quale la pistola era carica, e cioè l’intenzione di andare a
+caccia di cinghiali, sulle telefonate minatorie ricevute, rispettivamente __________
+non ha rilasciato dichiarazioni chiare e lineari ad esempio sul comportamento
+di __________ prima di scendere nel piazzale (cfr. verb. PP __________ del
+12.02.2009 e verb. PP __________ 16.09.2008, 20.10.2008,e 3.11.2008).
+Così stando le cose, come
+ritenuto dal Procuratore pubblico, colloqui liberi con __________ potrebbero
+comportare un pericolo concreto di inquinamento e collusione delle prove, in
+quanto __________ potrebbe convincerla a modificare/rettificare a favore
+dell’accusato stesso la sua versione dei fatti, segnatamente con riferimento a
+quelli avvenuti il 19 agosto 2008, in sede dibattimentale (dove del tutto
+verosimilmente verrà sentita come teste), con conseguente grave pregiudizio per
+l'accertamento della verità. Del resto, non può neppure essere escluso che
+l’accusato, nei cui confronti sono pendenti ulteriori procedimenti (cfr.
+consid. A), possa convincere __________, si ribadisce sua fidanzata, a prendere
+contatto con le persone coinvolte a vario titolo in tali procedimenti
+(testimoni, parti lese ecc.) al fine di influire in qualche modo sulla loro versione
+dei fatti, e meglio di ottenere una versione più favorevole ad __________.
+In siffatte circostanze il
+diniego all'autorizzazione a colloqui liberi tra il reclamante e __________ non
+può quindi essere considerato misura sproporzionata ed ingiustificata e deve
+pertanto essere confermato.
+Da ultimo giova precisare che la
+decisione di questo ufficio in re _________, citata nel reclamo, si riferiva a
+fattispecie diversa da quella qui in esame, e meglio a colloqui liberi con
+persone non direttamente coinvolte nel procedimento.
+3.
+Il reclamo è conseguentemente
+respinto con la presente decisione esente da tasse e spese ed impugnabile alla
+CRP, trattandosi di decisione che concerne uno degli aspetti della libertà
+personale (Rusca/Salmina/Verda, op. cit., ad art. 104 CPP, n. 27).
+Per i quali motivi
+richiamate le norme di legge citate
+decide
+1.       Il reclamo è respinto.
+2.       Non si prelevano né tasse
+né spese.
+3.       Contro la presente decisione è dato reclamo alla Camera dei
+ricorsi penali, Lugano, entro 10 (dieci) giorni dall'intimazione.
+4.       Intimazione
+:
+giudice
+Ursula Züblin
