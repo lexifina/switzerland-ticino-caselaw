@@ -1,0 +1,238 @@
+---
+decision_id: "ti_gerichte_INC.2008.22701"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.22701"
+decided: "2009-06-17"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=99042&nX40_KEY=4711194&nTrefferzeile=86&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/0.101/art-005.md", "switzerland/bund/acts/210/art-028.md", "switzerland/bund/acts/311.0/art-066.md", "switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-096.md", "switzerland/bund/acts/312.0/art-161.md"]
+---
+
+# TI Gerichte INC.2008.22701
+
+## Regeste
+
+Provvedimenti PP. Incompetenza del PP
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 02.09.2008 INC.2008.22701
+Tessin Il Giudice dell'istruzione e dell'arresto 02.09.2008 INC.2008.22701
+Ticino Il Giudice dell'istruzione e dell'arresto 02.09.2008 INC.2008.22701
+
+Provvedimenti PP. Incompetenza del PP
+
+Incarto n.
+INC.2008.22701
+Lugano
+17 giugno 2009
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Ursula Züblin
+sedente per statuire sul reclamo presentato il 8/9 maggio
+2008 da
+__________,
+__________
+patr. dall’avv. __________, __________
+contro
+la decisione emanata il 25 aprile 2008 dal Procuratore
+pubblico Moreno Capella con la comminatoria dell’art. 292 CP;
+preso atto delle osservazioni 15
+maggio 2008 di __________ e __________ e 23 maggio 2008 del Procuratore
+pubblico Moreno Capella, tutti concludenti per la reiezione del gravame;
+visti gli incarti MP __________, __________
+e __________;
+ritenuto e considerato
+in fatto
+A.
+Nei confronti di __________ sono
+stati aperti tre procedimenti penali: inc. MP __________ a seguito dell’esposto
+presentato il 25 settembre 2007 da __________ e __________ per titolo di
+minaccia, ingiuria e abuso di un impianto per le telecomunicazioni, inc. MP __________
+a seguito della querela presentata in data 11 marzo 2008 da __________ per
+titolo di danneggiamento e inc. MP __________ per titolo di danneggiamento a
+seguito dell’esposto presentato da __________ il 30 gennaio 2008.
+__________ non si è presentato
+all’interrogatorio davanti al Procuratore pubblico previsto per il 16 aprile
+2008 (mancato ritiro dell’invio raccomandato).
+In data 25 aprile 2008 __________
+ha segnalato al Ministero pubblico di essere stata nuovamente importunata e
+seguita da __________ il 4, 23 e 24 aprile 2008.
+Con decisione di pari data il
+Procuratore pubblico, dopo aver precisato di essere venuto a conoscenza che
+ancora in tempi recenti __________ avrebbe continuato a seguire rispettivamente
+importunare __________ e ricordata l’esistenza di altro procedimento penale
+allo stadio delle informazioni preliminari per fatti analoghi,
+“onde non
+peggiorare la situazione”,
+ha ordinato a __________, sotto comminatoria
+dell’art. 292 CP, di non più avvicinarsi rispettivamente importunare sia
+fisicamente che oralmente (ivi compreso per mezzo del telefono) __________, il
+marito __________ ed i membri della famiglia __________.
+B.
+Avverso la suddetta decisione è
+tempestivamente insorto __________ postulando che venga dichiarata nulla o
+comunque annullata. In particolare, il reclamante rileva che non vi sarebbe
+alcuna disposizione legale che renda competente il Procuratore pubblico ad
+emanare ordini sotto comminatoria dell’art. 292 CP. In ogni caso, la decisione
+impugnata sarebbe comunque priva di qualsivoglia motivazione, non potendosi
+considerare motivazione sufficiente
+“per non peggiorare la situazione”,
+non
+indicando, nemmeno per sommi capi, la data della denuncia/querela, i fatti
+inchiestati, l’esistenza di indizi di reato a carico di __________, i reati
+ipotizzati ecc. Così stando le cose il reclamante non sarebbe stato messo in
+grado di valutare legalità e proporzionalità della decisione impugnata, ciò in
+violazione del suo diritto di essere sentito.
+C.
+In sede di osservazioni i coniugi
+__________, costituitisi parte civile, riassunti i fatti, si sono pronunciati
+per la reiezione del reclamo.
+Anche il Procuratore pubblico si
+è pronunciato per la conferma della decisione impugnata, con argomentazioni di
+cui si dirà, per quanto necessario, nei considerandi in diritto.
+D.
+__________ è stato sentito dal
+Procuratore pubblico il 20 maggio 2008.
+Con scritto 16 maggio 2008 il
+patrocinatore di __________ ha chiesto a questo giudice di trasmettergli copia
+delle osservazioni formulate dal Procuratore pubblico e dai coniugi __________.
+In diritto
+1.
+La legittimazione di __________,
+indagato, è pacifica. Il reclamo, tempestivo, è quindi ricevibile in ordine.
+2.
+Occorre innanzitutto esaminare la
+questione a sapere se il Procuratore pubblico possa emanare ordini con la
+comminatoria di cui all’art. 292 CP.
+Il reclamante solleva, infatti,
+che la decisione impugnata sarebbe priva di una qualsiasi base legale che renda
+competente il Procuratore pubblico ad emanare ordini sotto la comminatoria
+dell’art. 292 CP, mentre il magistrato inquirente, in sede di osservazioni,
+sostiene che nell’ambito di un procedimento penale il Procuratore pubblico può
+adottare delle misure restrittive, e meglio, può procedere all’arresto, ma,
+laddove sufficiente, può procedere con delle misure sostitutive ex art. 96 CPP,
+in particolare, a suo dire, l’ordine 25 aprile 2008 dovrebbe essere considerato
+uno fra
+“gli altri provvedimenti”
+previsti dall’art. 96 CPP.
+Ai sensi dell’art. 292 CP
+chiunque non ottempera ad una decisione a lui intimata da una autorità
+competente o da un funzionario competente sotto comminatoria della pena
+prevista nel presente articolo è punito con la multa. L’art. 292 CP è sussidiario rispetto ad altre fattispecie legali di disobbedienza (DTF
+121 IV 29, 124 IV 69). In sostanza, la comminatoria dell’art. 292 CP è
+finalizzata all’esecuzione forzata di un ordine ed occorre quindi che esso
+emani da un’autorità competente ad emanare tale ordine.
+La questione va esaminata avuto
+riguardo al destinatario dell’ordine assortito della comminatoria dell’art. 292
+CP.
+Trattandosi di terzi al
+procedimento penale è ammessa la possibilità per il Procuratore pubblico di
+emanare ordini con la comminatoria di cui all’art. 292 CP.
+In applicazione dell’art. 161
+cpv. 7 CPP può infatti ordinare di non rendere noti il sequestro o i motivi
+dello stesso al proprietario o al possessore delle cose sequestrate quando ciò
+sia dovuto ad importanti ragioni di inchiesta, cioè quando la comunicazione
+possa intralciare l’inchiesta stessa. Ciò avviene per prassi con la
+comminatoria dell’art. 292 CP.
+Analogamente è ammesso dalla
+giurisprudenza che ai testimoni possa essere ordinato di non prendere contatto
+con persone coinvolte nell’inchiesta, rispettivamente di tenere segreta la
+propria deposizione sotto comminatoria dell’art. 292 CP, per ragioni di
+inchiesta (cfr. G. Piquerez, Procédure pénale suisse, ed. 2007, ad 849).
+In sostanza, si tratta di
+limitazioni giustificate da prevalenti motivi di interesse pubblico. In altre
+parole in tali casi essendo lo scopo della comminatoria quello di tutelare il
+buon esito dell’inchiesta con riferimento ad atti istruttori ordinati dallo
+stesso magistrato inquirente nell’ambito di un’inchiesta di cui è titolare,
+quest’ultimo è competente ad emanare ordini con la comminatoria dell’art. 292
+CP nei confronti di persone non sottoposte a procedimento penale.
+Qualche perplessità desta invece
+la competenza del Procuratore pubblico ad emanare ordini con la comminatoria
+dell’art. 292 CP nei confronti dell’accusato/indagato, quando cioè
+l’ingiunzione concerne il “reato” ed in particolare, come nel presente caso, la
+reiterazione dello stesso.
+In proposito, ricordato che per
+ovviare a tale rischio la parte lesa/minacciata ha la possibilità di richiedere
+ex art. 66 CP la prestazione di una cauzione preventiva e o di inoltrare ex
+art. 28 CCS un’azione di protezione della personalità, il CPP, per quanto
+concerne l’agire del magistrato inquirente, contiene delle precise
+disposizioni.
+In particolare, l’art. 95 CPP
+prevede che l’accusato si trova di regola in libertà e che può essere arrestato
+se esistono a suo carico seri e concreti indizi di colpevolezza ed in presenza
+di preminenti motivi di interesse pubblico, quali il pericolo di fuga, i
+bisogni dell’istruzione ed il pericolo di recidiva, mentre l’art. 96 CPP si
+riferisce alle misure sostitutive dell’arresto, oltre alla cauzione, norme di
+condotta, il cui mancato rispetto, ex art. 109 cpv. 1 lett. a CPP, comporta
+l’arresto.
+l suddetti articoli prevedono,
+quindi, che per ovviare al pericolo di fuga, di recidiva e di collusione in
+relazione all’accusato, una volta dati seri e concreti indizi di colpevolezza,
+il Procuratore pubblico può ordinare o l’arresto o, se date le condizioni, l’adozione
+di misure sostitutive.
+In concreto, l’ordine impugnato è
+stato emanato nei confronti di un indagato nell’ambito di un procedimento allo
+stadio delle informazioni preliminari, non essendo stata promossa l’accusa
+(neppure in occasione del verb. PP del 20 maggio 2008), con conseguente
+inapplicabilità degli art. 95 e 96 CPP, che presuppongono la promozione
+dell’accusa, rilevato inoltre che in tale ambito costituisce un diritto
+elementare dell’accusato conoscere le ragioni e le accuse nei suoi confronti
+che hanno determinato l’adozione di una misura restrittiva nei suoi confronti
+(art. 5 CEDU), caso contrario si incorre in una violazione dei diritti
+dell’accusato stesso.
+In ogni caso, anche nell’ipotesi
+in cui nei confronti di __________ fosse stata promossa l’accusa, non avrebbe
+comunque avuto senso adottare una misura sostituiva per la cui violazione è
+previsto ex lege l’arresto, assortita con la comminatoria di cui all’art. 292
+CP, quindi con la conseguenza che un’eventuale violazione comporterebbe
+l’apertura di un nuovo procedimento penale per disobbedienza a decisioni
+dell’autorità, cioè per una contravvenzione (la pena prevista è infatti la
+multa). Inoltre, va ricordato che il CPP garantisce all’accusato/all’indagato
+il diritto di non collaborare e di non rispondere: sarebbe allora assurdo che
+il magistrato inquirente potesse ingiungergli, come avvenuto nel presente caso,
+addirittura di non più commettere reati. Sarebbe come ammettere che il
+magistrato inquirente ha la facoltà di ordinare all’indagato/accusato di
+rispondere, di non fuggire, di rispettare il codice penale, di dire la verità
+ecc..
+L’ordine 25 aprile 2008 assortito
+con la comminatoria dell’art. 292 CP, oltre che lesivo del principio di
+sussidiarietà e non rispettoso delle norme del CPP, così come formulato, appare
+piuttosto una misura di protezione della personalità, ambito che sfugge alla
+competenza del Procuratore pubblico.
+In virtù di quanto precede,
+occorre concludere per la nullità dell’ordine impugnato, non potendosi
+riconoscere per i motivi suesposti la competenza del Procuratore pubblico ad
+emanarlo.
+Il reclamo è quindi accolto, con
+la presente decisione definitiva (non essendo applicabili gli art. 95 ss CPP
+non è dato infatti reclamo alla CRP); tasse e spese di giudizio, nonché
+ripetibili sono poste a carico dello Stato.
+Da ultimo, con riferimento alla
+richiesta formulata dal reclamante di ottenere copia delle osservazioni del
+Procuratore pubblico e dei coniugi __________, basti qui rilevare che in sede
+di lavori preparatori, il doppio scambio di allegati dinanzi al GIAR è stato escluso,
+rilevato inoltre che dette osservazioni non contenevano dei “nova”.
+P.Q.M
+viste le norme
+applicabili, in particolare gli artt. 95ss, 280 ss, 284, 330 CPP, 66 CP, 29 CF
+e 5 CEDU, nonché ogni altra norma applicabile,
+decide
+1.
+Il reclamo è accolto ai sensi dei considerandi.
+Di conseguenza la
+decisione 25 aprile 2008 è nulla.
+2.
+La tassa di giustizia di FRS 400.- e le spese, FRS 100.-, sono a carico
+dello Stato che rifonderà al reclamante FRS 500.- a titolo di ripetibili.
+3.
+La presente decisione è definitiva.
+-
+Intimazione (con copia delle osservazioni delle parti):
+giudice
+Ursula Züblin
