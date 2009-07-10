@@ -1,0 +1,394 @@
+---
+decision_id: "ti_gerichte_INC.2008.40603"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2008.40603"
+decided: "2009-07-10"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=101753&nX40_KEY=4711181&nTrefferzeile=89&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/312.0/art-095.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-284.md", "switzerland/bund/acts/812.121/art-019a.md"]
+---
+
+# TI Gerichte INC.2008.40603
+
+## Regeste
+
+Istanza di libertà provvisoria
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 10.07.2009 INC.2008.40603
+Tessin Il Giudice dell'istruzione e dell'arresto 10.07.2009 INC.2008.40603
+Ticino Il Giudice dell'istruzione e dell'arresto 10.07.2009 INC.2008.40603
+
+Istanza di libertà provvisoria
+
+Incarto n.
+INC.2008.40603
+Lugano
+10 luglio 2009
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice dell'istruzione e dell'arresto
+Claudia Solcà
+sedente per statuire sull’istanza di libertà provvisoria
+presentata il 30 giugno/1° luglio 2009 da
+__________
+e qui trasmessa con preavviso negativo 6/7 luglio 2009 dal
+Procuratore pubblico Moreno Capella
+, Lugano
+preso atto delle osservazioni 8
+luglio 2009 della difesa;
+visti gli inc. MP __________;
+ritenuto e considerato,
+in fatto
+A.
+__________ è stato arrestato
+dalla Polizia cantonale, in flagranza di reato, il 4 aprile 2009 –
+“per
+avere, senza essere autorizzato, tra fine marzo e inizio aprile 2009,
+acquistato, detenuto/posseduto e trasportato, da persona sconosciuta, almeno
+80 grammi
+lordi di cocaina pagandola frs 5'000.-. quantitativo presumibilmente destinato
+alla vendita ed al consumo personale
+” – e il 5 aprile 2009 è stata
+richiesta la conferma dell’arresto con contestuale promozione dell’accusa per
+titolo di infrazione aggravata, sub. semplice, alla LStup (cfr. inc. GIAR
+2008.40602, doc. 1 e 2).
+L'arresto di __________ è stato
+confermato da questo giudice il 5 aprile 2009, ritenuti presenti gravi indizi
+di colpevolezza, bisogni dell’istruzione (per verificare origine e destinazione
+dello stupefacente sequestrato), pericolo di collusione (con i fornitori e i
+possibili acquirenti) e pericolo di recidiva (visto il forte consumo dichiarato
+e la mancanza di mezzi di sostentamento), (Inc. GIAR 2008.40602, doc. 4).
+Giova rilevare che l’arresto di __________
+è avvenuto mentre questi si trovava in libertà provvisoria. ______ era infatti
+già stato arrestato il 22 agosto 2008 (Inc. GIAR 2008.40601, doc. 1) con
+promozione dell’accusa per titolo di favoreggiamento (inc. MP __________) – “
+per
+avere, tra __________, fra il 19 e il 21 agosto 2008, sottratto __________
+(accusato
+dell’omicidio di __________ e del ferimento di __________, avvenuti la sera del
+19 agosto 2008, n.d.r.)
+ad atti di procedimento penale”
+–  e nel
+proseguimento dell’inchiesta gli è stata estesa l’accusa anche per altri reati
+e sono stati annessi procedimenti penali già aperti per i seguenti titoli di
+reato:
+lesioni semplici, per avere il 13
+agosto 2008, in correità con __________, partecipato all’aggressione di __________
+cagionandogli un danno al corpo e alla salute (inc. MP __________) e per avere
+il 5/6 luglio 2008, in correità con __________, intenzionalmente partecipato
+all’aggressione di __________, cagionandogli un danno al corpo e alla salute
+(inc. MP __________);
+furto e ricettazione, per avere,
+il 6 maggio 2008 e successivamente, messo a disposizione di __________, il
+proprio magazzino di __________ per occultare la merce sottratta a __________
+con il furto 5/6 maggio 2008 (inc. MP __________);
+infrazione alla LF sulle armi e
+sulle munizioni, per avere importato e detenuto illegalmente diverse armi e
+componenti di armi (inc. MP __________);
+infrazione aggravata alla LStup,
+per avere ceduto a __________, fra aprile e agosto 2008, 1 KG di marijuana in
+cambio di 100 grammi di cocaina; detenuto a __________ oltre 4 chili di
+haschich e strumenti per la coltivazioni della canapa; detenuto a __________
+0,13 grammi di cocaina e 0,48 grammi di eroina; ceduto a __________, nel corso
+del 2006, un imprecisato quantitativo di marijuana; venduto a __________ un
+sacchetto di marijuana per un valore di CHF 800.-; offerto a __________ un
+imprecisato quantitativo di marijuana (ma almeno 12 grammi) e di haschisch (ma almeno 18 grammi); offerto a terze persone non identificate, negli
+ultimi 3 anni, circa 30 grammi di cocaina, 1 chilogrammo di haschich e 3 chili di marijuana; in correità con __________ e __________ e tale __________,
+fra dicembre 2007 e maggio 2008, importato dall’Olanda e detenuto 65 chili di
+marijuana, per un valore complessivo di circa CHF 300'000.- (inc. MP __________
+e __________) e per avere venduto, dal 1995 al 2004, tramite il negozio __________,
+le necessarie attrezzature a coltivatori e produttori di canapa/marijuana ben
+sapendo che la sostanza era destinata al mercato dello stupefacente,
+conseguendo una cifra d’affari complessiva di circa CHF 300'000.- (inc. MP __________).
+__________, arrestato il 22
+agosto 2008, è stato posto in libertà provvisoria dal PP il 22 dicembre 2001 e
+nuovamente arrestato, per quanto ci occupa, in flagranza di reato Il 4 aprile
+2009.
+B.
+Il 30 giugno 2009 __________, con
+l’istanza in discussione, giunta al Ministero pubblico il 1° luglio 2009, e per
+il tramite del suo difensore, a seguito della chiusura dell’istruttoria chiede
+di essere immediatamente posto in libertà provvisoria.
+C.
+Il magistrato inquirente, con
+preavviso negativo 6/7 luglio 2009, indicate tutte le imputazioni di precedenti
+procedimenti (così come riportati al punto A. della presente decisione),
+tuttora pendenti, evidenzia i seri e concreti indizi di colpevolezza a carico
+di __________ per i reati ascrittigli con la promozione dell’accusa 5 aprile
+2009 e osserva come l’istante sia stato nuovamente arrestato quando si trovava
+in libertà provvisoria dal 22 dicembre 2008, in quanto trovato in possesso di
+ulteriore stupefacente. L’inchiesta, che sarebbe conclusa con la consegna del
+rapporto di Polizia 12/18 giugno 2009, ha permesso di appurare seri e concreti
+indizi di colpevolezza a carico di __________ secondo i quali, nel periodo 22
+dicembre 2008 – 4 aprile 2009, egli avrebbe venduto a __________ e __________
+circa 20,7 grammi di cocaina a CHF 100.- il grammo, avrebbe offerto 10 grammi di cocaina a __________, oltre a circa 10 grammi di marijuana e 10 grammi di haschish a terze persone non meglio identificate e avrebbe detenuto 69 grammi di cocaina al fine di venderli. Nell’ambito dell’inchiesta l’istante sarebbe stato
+inchiestato anche per danneggiamento e violazione di domicilio (per essersi
+introdotto nell’ufficio di __________, suo correo – reo confesso – nel traffico
+di canapa, e distrutto il PC che si trovava sulla sua scrivania, cfr. inc. MP __________)
+ed è stato sospettato di tentata estorsione di denaro in danno di __________ e __________,
+il 12 febbraio 2009 (cfr. inc. MP __________).
+Presenti i gravi indizi di
+colpevolezza, segnatamente per le accuse relative a reati commessi
+successivamente alla sua scarcerazione del 22 dicembre 2008.
+Per quanto riguarda i bisogni
+istruttori il PP osserva che l’inchiesta è ormai conclusa e che procederà al
+deposito degli atti entro il 15/20 luglio 2009. A mente del PP non sussiste più nemmeno pericolo di collusione.
+Presente invece il pericolo di
+recidiva, considerando le numerose inchieste in corso e avendo commesso i reati
+di cui all’arresto del 4 aprile 2009 in stato di libertà provvisoria.
+Da ultimo il Procuratore pubblico
+evidenzia che il mantenimento della carcerazione preventiva, considerata la
+gravità delle accuse, il fatto che l’istante ha delinquito in libertà provvisoria,
+sarebbe ancora rispettoso del principio di proporzionalità. Vista l’ampiezza
+dei procedimenti che lo vedono coinvolto rispettato pure il principio della
+celerità.
+D.
+Con osservazioni 8 luglio 2009,
+la difesa, per quanto riguarda gli indizi di reato, sostiene che l’elenco di
+imputazioni allestito dal PP nel suo preavviso negativo, oltre a riferirsi ad
+una fase dell’inchiesta antecedente al 22 dicembre 2008 (e, questo giudice
+spera, pure antecedente al 22 agosto 2008, data dell’arresto), per cui vanno
+relativizzate nell’ambito della valutazione della presente istanza di libertà
+provvisoria, è tendenzioso, considerato che diverse imputazioni (non meglio
+precisate, né nell’istanza e neppure nelle osservazioni 8 luglio 2009, n.d.r.)
+sono sempre state contestate dall’accusato e non risultano confermate da altre
+fonti. La difesa precisa che __________ non è coinvolto nei fatti che hanno
+portato alla morte di __________ del 19 agosto 2008. Per quanto riguarda
+l’imputazione del 5 aprile 2009 la difesa osserva che si tratterebbe
+sostanzialmente della detenzione di stupefacenti per consumo personale o al
+massimo offerto a terzi gratuitamente. Contestati, e non provati, i reati di
+danneggiamento e violazione di domicilio, nonché la tentata estorsione.
+Per quanto riguarda lo
+stupefacente si precisa che sarebbe la conseguenza di un disagio personale e
+finanziario, dovuto al procedimento penale che ha portato all’arresto
+dell’istante in agosto 2008, che si sarebbe manifestato con il suo ritorno in
+libertà provvisoria di dicembre 2008 e che avrebbe notevolmente contribuito
+all’aumento di consumo di stupefacente nei primi mesi del 2009.
+Considerato che i reati
+imputatigli per il 2009 non porteranno ad alcuna pena da espiare, il carcere
+preventivo sofferto tiene già ampiamente conto della ricaduta (consumo
+personale di stupefacenti) di __________. Neppure ipotizzabile una pena da
+espiare per l’imputazione di favoreggiamento.
+L’accusato non costituisce poi un
+pericolo per la società.
+In diritto
+1.
+L'istanza, presentata dalla
+difesa di __________, accusato detenuto, è ricevibile in ordine.
+Il preavviso e l'incarto sono
+stati trasmessi tempestivamente ai sensi dell'art. 108 CPP. In particolare, il
+preavviso è stato inviato per posta il 6 luglio 2009 (essendo il 4 luglio un
+sabato, giorno festivo) e l'incarto è stato recapitato "brevi manu"
+nella mattina del 7 luglio 2009, in pratica contestualmente alla ricezione del
+preavviso inviato per posta (in proposito cfr. CRP 60.2005.323, sentenza
+11.10.2005 in re C.B., nonché GIAR 31.08.2007 inc. 2007.29303).
+Il termine di cui all'art. 108
+cpv. 2 CPP scade venerdì 10 luglio.
+2.
+I principi che reggono la
+materia, pur se noti alle parti, vengono qui di seguito riproposti.
+L’art. 95 CPP
+- corrispondente all’art. 33 scaturito dalla revisione parziale 23 settembre
+1992 / 1. gennaio 1993 - dopo evidenza al cpv. 1 del principio secondo cui
+l’accusato si trova di regola in libertà, consente al cpv. 2 arresto, perdurare
+e (poi, se del caso) proroga del carcere preventivo ai sensi dell’art. 103 CPP,
+quando esistono a carico dello stesso accusato gravi e concreti indizi di
+colpabilità per un crimine o un delitto e nel contempo sono presenti preminenti
+motivi di interesse pubblico, quali - per quanto qui concerne - i bisogni dell’istruzione,
+con particolare riguardo al pericolo di collusione e di inquinamento delle
+prove che, sia detto qui a futura memoria - può continuare ad esistere fino al
+pubblico dibattimento (sentenza della I Corte di diritto pubblico del Tribunale
+federale del 23 marzo 2000 in re S.B., consid. 4a). Si aggiunge, sempre con
+riferimento al caso in esame, che l’elenco dei motivi di interesse pubblico
+nell’art. 95 cpv. 2 CPP non è esaustivo (Messaggio aggiuntivo del 20 marzo 1991
+concernente la revisione del CPP, ad art. 27 , pag. 32, nota 3), tra altri
+possibili, essendovi quello della tutela dell’ordine pubblico (REP 1998 n.
+105).
+L’eccezione
+della cautelare privazione della libertà personale ha così trovato
+codificazione in una chiara base legale (di diritto cantonale: DTF 114 Ia 283
+consid. 3) in corrispondenza ed a superamento di quanto già dettato dalla
+giurisprudenza della Camera dei ricorsi penali - nel solco di quella del
+Tribunale federale -, ritenuto implicito il rispetto della proporzionalità (REP
+1980 pag. 44; 1986 pag. 158; 1988 pag. 413; DTF 102 Ia 381).
+I menzionati
+presupposti vanno approfonditi con maggiore rigore nella loro valutazione,
+quanto più si è protratta la restrizione della libertà e quanto più si avvicina
+la conclusione delle indagini (REP 1988 pag. 416; 1989 pag. 287 ss).
+Ed anche
+questo giudice, come già la Camera dei ricorsi penali, non restringe la sua
+cognizione all’arbitrio (REP 1980 pag. 128).
+(per tutte:
+sentenza GIAR 21.12.2001 in re G., Inc. 520.2001.5).
+3.
+L'esistenza di gravi e concreti
+indizi di colpevolezza deve essere verificata d'ufficio, pur nei limiti di
+competenza di questo giudice derivanti da un lato dalla sua funzione - che è
+quella di esaminare l’esistenza dei presupposti per il mantenimento della
+misura restrittiva della libertà personale, e non di valutare nella sostanza
+l’esistenza di un reato -, e dall’altro - ma in maniera strettamente congiunta
+con quanto si viene di dire - dall’inopportunità di considerazioni di merito
+premature e, soprattutto, di competenza delle sedi di giudizio.
+Nel caso in esame, sufficienti e
+concreti indizi di colpevolezza a carico di __________ sono senz’altro dati per
+i reati ipotizzati in relazione ai fatti che hanno condotto al suo arresto del
+4 aprile 2009. Si pensi solo all’arresto in flagranza di reato quando è stato
+trovato in possesso di 22 grammi di cocaina suddivisi in 13 minigrip e al
+ritrovamento di ulteriore cocaina al suo domicilio (47 grammi di sostanza bianca suddivisa in 11 sacchetti minigrip), unitamente a hashish e marijuana
+oltre ad innumerevoli sacchetti minigrip vuoti e due bilance. Il
+confezionamento della cocaina in sacchetti minigrip ha fatto da subito pensare
+che la sostanza fosse stata così suddivisa poiché destinata allo spaccio (inc.
+GIAR 2008.40602, doc. 2). Dagli atti emergono inoltre elementi per cui
+l’accusato, in stato di libertà provvisoria, avrebbe venduto almeno 20 grammi complessivi di cocaina a __________ e __________, a CHF 100.- al grammo, e offerto
+ulteriore sostanza a __________ (cfr. verb. PP 17 giugno 2009 e riferimenti, AI
+21, in particolare verb. PG __________ del 21 aprile 2009, p. 2; verb. PG di __________
+del 30 aprile 2009, p. 2 e 3; verb. PG di __________ del 10 giugno 2009, p.
+1-4, tutti allegati al rapporto di Polizia 12 giugno 2009, AI 20 dell’inc. MP __________).
+L’istante si limita percontro a
+genericamente osservare (cfr. osservazioni 8 luglio 2009) che la cocaina
+sarebbe stata detenuta per uso personale.
+La prima (e cumulativa)
+condizione per l'eventuale mantenimento della carcerazione preventiva è
+pertanto presente.
+4.
+In merito ai bisogni istruttori
+atti a giustificare la detenzione preventiva ed il suo perdurare, è lo stesso
+PP ad affermare che l’inchiesta è ormai conclusa e che dovrà procedere a breve
+con il deposito degli atti. Sempre a dire del PP non vi sarebbe più neppure
+concreto pericolo di collusione.
+5.
+Per quanto riguarda il pericolo
+di recidiva, come noto esso consiste nel rischio che l'accusato in libertà
+commetta ulteriori reati o continui la commissione di quelli per cui è stato
+arrestato; come per gli altri motivi di arresto, anche il pericolo di recidiva
+deve essere concreto e risultare dall'insieme delle circostanze (DTF 105 Ia
+26). Il pericolo di recidiva ex art. 95 CPP è nozione relativamente estesa:
+l'assenza di precedenti specifici non basta, da sola, ad escluderlo, così come
+non basta, sempre da solo, a fondarlo il fatto che prima dell'arresto siano
+stati commessi più reati (DTF 12 agosto 1981 in re C.; DTF 123 I 268; SJ 1981,
+pag. 380 a 382; BJP 1989 n. 671; CRP 17 novembre 2005 in re M., 60.2005.357; G.
+Piquerez, Procédure pénale suisse, n. 2358; N.
+Schmid, Strafprozessrecht, 4. Auflage, n. 701b; Rusca/Salmina/Verda,
+Commentario CPP, pag. 327 ss.; CPP Vaudoise annotato, Losanna 2004, nota 2.2.5
+ad art. 59). La gravità del reato (se si preferisce
+la gravità dei fatti
+oggetto d’accusa e di cui si teme reiterazione)
+, condizione la
+cui assenza è comunque determinante (G. Piquerez , op. cit., n. 2358, nota 84),
+da sola non basta (sentenza CRP citata, cons. 8 e riferimenti) ma deve essere
+debitamente considerata
+(DTF 21.1.2005, 1P.750/2004; DTF 25.4.2006,
+1P.198/2006; CRP 16.5.2006, 60.2006.154); oc
+corre, insomma,
+che l'insieme delle circostanze (precedenti, comportamento in istruttoria,
+personalità, modalità di commissione, condizioni socio-famigliari, eventuale
+carattere deterrente del procedimento in corso, fatti oggetto dell’ipotesi di
+reato ecc.) concorrano ad imporre una prognosi molto sfavorevole (DTF 21
+gennaio 2005, 1P.750/2004).
+Occorre a questo punto ricordare
+che __________, come risulta dal casellario giudiziale agli atti, è già stato
+condannato nel 2006 per infrazione (per fatti risalenti al 2003) e
+contravvenzione alla LStup con decreto d’accusa 25 settembre 2006 a 30 giorni di detenzione sospesi condizionalmente per due anni. Condanna che sembra non avere
+avuto alcun effetto deterrente.
+A ciò si aggiungano i reati,
+soprattutto quelli legati all’infrazione alla LStup, di cui __________ è
+accusato di aver commesso almeno negli ultimi tre anni, sia con riferimento al
+traffico (ingente) di marijuana che all’acquisto, consumo e vendita di cocaina
+(cfr. verb. PG 22 dicembre 2008 di __________ e __________, quello di __________
+e __________ nonché quello del solo __________ p. 4-8).
+Neppure i 4 mesi di carcere
+preventivo sofferti tra agosto e dicembre 2008 sono serviti a tenere __________
+lontano dalle sostanze stupefacenti. La libertà provvisoria guadagnata il 22
+dicembre 2008 si è infatti interrotta il 4 aprile 2009 (appena 4 mesi dopo)
+poiché trovato in possesso di un quantitativo di cocaina di un certo rilievo,
+con buona probabilità (perlomeno nell’ipotesi accusatoria) destinato alla
+vendita.
+Egli è senza lavoro, di
+conseguenza senza reddito, e potrebbe facilmente riprendere a trafficare
+sostanze stupefacenti, almeno per permettersi il proprio consumo o comunque
+delle entrate finanziarie. La stessa difesa afferma che “
+il rientro nella
+società
+(in dicembre 2008, n.d.r.)
+di __________ è stato sottovalutato,
+segnatamente per quanto riguarda l’accoglienza esterna. …Egli si è trovato
+completamente isolato ed inoltre senza fondi. …La suddetta situazione di
+disagio personale e finanziario, ha notevolmente contribuito all’aumento di
+consumo di stupefacente nei primi mesi di quest’anno
+.” (cfr. osservazioni 8
+luglio 2009, p. 2). Malgrado la difesa parli dei primi mesi del 2009 questo
+giudice non può non porre l’accento sull’ingente quantitativo di cocaina
+detenuto dall’accusato in aprile scorso.
+Questo giudice non ha trovato, e
+la difesa neppure ne ha forniti, elementi utili per potere concludere che la
+situazione personale attuale dell’accusato possa essere mutata da quella (così
+descritta dalla difesa nelle proprie osservazioni) di dicembre 2008. In altre parole __________, se scarcerato, si ritroverebbe né più né meno nella stessa
+situazione di “disagio” che avrebbe vissuto dopo la scarcerazione di dicembre
+2008 e vi sarebbe pertanto serio pericolo che torni a delinquere.
+In siffatte circostanze il
+rischio che, se messo in libertà provvisoria, __________ possa ricadere nella
+commissione di reati legati agli stupefacenti, appare quindi sufficientemente
+concreto. L’asserzione della difesa secondo cui non sarebbe previsibile una
+pena da espiare, alla luce della complessa situazione processuale e delle
+circostanze personali di __________, non è sufficiente per sovvertire tale
+conclusione.
+A titolo abbondanziale va
+rilevato che il rischio di recidiva costituisce motivo di arresto non solo per
+impedire nuovi delitti, ma anche, seppure solo indirettamente, perché
+commettendo sempre nuovi reati l’accusato potrebbe procrastinare a oltranza il
+processo: egli ha infatti il diritto a essere giudicato contemporaneamente per
+i nuovi e i vecchi reati (G. Piquerez, Manuel de procédure pénale suisse,
+Zürich 2001, p. 501/502, n° 2357; Rusca/Salmina/Verda, Commento del CPP, p. 327
+e s.).
+6.
+La proporzionalità di una
+carcerazione (preventiva) deve essere analizzata da angolature diverse. Da un
+lato occorre mettere in relazione la durata del carcere preventivo con la
+gravità e complessità della fattispecie e con la pena presumibile e dall’altro
+occorre anche verificare il rispetto del principio di celerità (SJ 1981 p. 383
+e citazioni; art. 102 CPP).
+Nel caso in esame, il carcere
+preventivo sin qui sofferto (circa 3 mesi) appare rispettoso del principio di
+proporzionalità, ritenuta la gravità delle accuse e avuto riguardo alla
+presumibile pena in caso di conferma delle accuse, rischio di pena che può
+certamente essere collocato ben oltre il periodo di carcere preventivo sin qui
+sofferto. Inoltre l’inchiesta, in questo lasso di tempo è proseguita nel
+rispetto del principio di celerità tanto che appare ormai conclusa, non si
+trova, né si è mai trovata, in una situazione di stallo e neppure vi sono stati
+ritardi ingiustificati (cfr. DTF 16.11.2004, 1P630/2004), peraltro neppure
+avanzati dalla difesa.
+Richiamato comunque l'obbligo per
+il magistrato inquirente di trattare con priorità i casi in cui l'accusato è in
+detenzione (art. 102 cpv. 1 e 176 cpv. 3 CPP) e di procedere indilatamente con
+gli incombenti processuali (deposito atti) avendo, per sua stessa
+dichiarazione, terminato gli atti istruttori.
+7.
+In conclusione sufficienti
+presupposti di legge, come anche esplicitati dalla prassi e dalla
+giurisprudenza, sono presenti nella situazione personale e processuale di __________
+a legittimare e giustificare il perdurare della cautelare privazione della sua
+libertà, nel rispetto dei principi di proporzionalità e celerità nei termini
+suesposti. La detenzione sin qui sofferta non viola (al momento attuale) il
+principio di proporzionalità, né l’obbligo di celerità. Di conseguenza,
+l’istanza di libertà provvisoria in discussione deve essere respinta con la
+presente decisione, esente da tassa e spese giudiziarie (art. 39 let. f TG e
+contrario) e impugnabile entro dieci giorni alla Camera dei ricorsi penali del
+Tribunale d’appello (art. 284 cpv. 1 let. a CPP).
+Per questi motivi,
+richiamati i citati articoli di
+legge, e meglio gli art. 19a LStup, 19 LStup, 95ss e 280 ss CPP
+decide:
+1.
+L’istanza di libertà provvisoria presentata da __________ è respinta.
+2.
+Non si percepiscono né tasse né spese giudiziarie.
+3.
+Contro la presente decisione è dato ricorso alla Camera dei ricorsi
+penali entro dieci giorni dall’intimazione.
+giudice
+Claudia Solcà
