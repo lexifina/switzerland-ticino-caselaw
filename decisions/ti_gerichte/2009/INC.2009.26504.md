@@ -1,0 +1,151 @@
+---
+decision_id: "ti_gerichte_INC.2009.26504"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2009.26504"
+decided: "2009-11-23"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=103581&nX40_KEY=4711177&nTrefferzeile=83&Template=results/document_ita.fiw"
+---
+
+# TI Gerichte INC.2009.26504
+
+## Regeste
+
+Proroga carcere preventivo
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 23.11.2009 INC.2009.26504
+Tessin Il Giudice dell'istruzione e dell'arresto 23.11.2009 INC.2009.26504
+Ticino Il Giudice dell'istruzione e dell'arresto 23.11.2009 INC.2009.26504
+
+Proroga carcere preventivo
+
+Incarto n.
+INC.2009.26504
+Lugano
+23 novembre 2009
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente per statuire
+sull’istanza di proroga del 16/17 novembre 2009, presentata da
+Procuratore pubblico
+Antonio Perugini
+, Ministero
+pubblico
+in relazione al carcere
+preventivo cui è astretto
+__________
+, attualmente in detenzione preventiva
+c/o
+__________
+(patrocinato
+dall’Avv. __________, __________)
+viste le osservazioni della difesa (17/19 novembre
+2009);
+visto l’incarto MP __________;
+ritenuto e considerato
+in fatto ed in diritto
+che:
+-   __________ è
+stato arrestato il 27 maggio 2009; nei suoi confronti è stata promossa l’accusa
+per titolo di infrazione aggravata alla LF sui prodotti stupefacenti e
+l’arresto è stato confermato da questo giudice il 28 maggio 2009 (doc. 2, 1 e
+3, inc. GIAR 265.2009.1).
+-   in buona
+sostanza, le accuse mosse a __________ concernono, da un lato l’acquisto, a __________
+nel novembre 2008, di ca. 300 gr. di cocaina destinata alla vendita al
+dettaglio in __________ (e l’eventuale vendita effettiva), dall’altro
+l’organizzazione e il finanziamento di alcuni viaggi (almeno quattro, tra il
+novembre 2008 ed il maggio 2009) in __________ finalizzati all’acquisto di 1 o
+2 kg
+di cocaina (ogni viaggio),
+da trasportare in __________ per lo smercio;
+-   per concorso
+negli stessi fatti sono state arrestate altre persone, tra le quali il fratello
+__________ e __________; queste due persone sono state fermate a __________,
+mentre rientravano dalla __________ con ca.
+2 kg
+di cocaina, e sono giunte
+in __________ a seguito di estradizione il 12 novembre 2009, rispettivamente 19
+novembre 2009 (cfr. incarti GIAR 536.2009.1 e 549.2009.1);
+-   con l’istanza
+qui in discussione (doc. 1, inc. GIAR 265.2009.4), il magistrato inquirente
+chiede la proroga di due mesi della detenzione preventiva cui è astretto __________
+(e che verrebbe a scadenza il 27 novembre 2009) ai fini della completazione
+dell’istruttoria (che, come detto coinvolge più persone e numerosi fatti) in
+ragione della recente consegna alla __________ dei correi menzionati
+(prospettazione risultanze, rispettivi verbali, eventuali confronti) e
+dell’espletamento delle formalità di chiusura;
+-   la proroga di 2
+(due) mesi richiesta sarebbe, secondo l’inquirente, ancora rispettosa del
+principio di proporzionalità;
+-   con le sue
+osservazioni (doc. 4, inc. GIAR 265.2009.4) la difesa di __________ dichiara di
+non opporsi alla richiesta: ritiene la durata limitata ed adeguata agli atti da
+esperire;
+-   l’istanza di
+proroga, presentata dall’autorità competente entro un termine sufficiente per
+permettere osservazioni da parte della difesa è ricevibile in ordine;
+-   con decisione
+del 29 ottobre 2009 (GIAR 265.2009.3) questo ufficio ha respinto una istanza di
+libertà provvisoria formulata da __________, ritenendo presenti sufficienti
+indizi di reato (considerando n. 11), pericolo di collusione, in particolare
+con gli estradandi (considerando n. 12) e pericolo di recidiva (considerando n.
+13);
+-   verosimilmente
+in ragione di tale decisione (e suo contenuto), né il Procuratore pubblico né
+la difesa si diffondono più di tanto circa l’esistenza dei motivi di
+carcerazione; comunque, e per quanto concerne gli obblighi di verifica di
+questo ufficio, si precisa che gli elementi indicati nella precedente decisione
+(ed ai quali si rinvia formalmente senza necessità di trascriverli, essendo
+noti alle parti: DTF 123 I 31, DTF 4.4.2005 1P.194/2005) sono tutt’ora presenti
+e fondano ancora il mantenimento della misura cautelare in capo a __________,
+rispettivamente la sua protrazione/prosecuzione (ritenuto rispetto di
+proporzionalità come si dirà di seguito);
+-   la proroga
+richiesta è, infatti, ancora rispettosa del principio di proporzionalità; anche
+su questo punto valgono le stesse considerazioni formulate nella precedente
+sentenza (considerando n. 14), ritenuto che il termine di due mesi richiesto
+(otto mesi in totale) rientra ancora ampiamente nei parametri ammissibili per
+rapporto al rischio di pena;
+-   in conclusione
+ed virtù di tutto quanto indicato (rinvii compresi) ai considerandi precedenti
+(rinvii compresi), nei confronti di __________ sono presenti concreti indizi di
+reato che, in uno con i concreti pericoli di collusione e di recidiva,
+giustificano la proroga della carcerazione preventiva per un periodo di 2 (due)
+mesi; considerata la gravità dei reati ascritti ed il rischio di pena relativo,
+la proroga, così come richiesta e determinata, è ancora rispettosa del
+principio di proporzionalità.
+P.Q.M.
+Viste
+le norme applicabili, in particolare gli artt. 19 cifra 2 LFStup, 95 ss., 102,
+103, 106, 280 ss. 283, 284 CPP, 10, 29, 31 CF,
+decide
+1.
+L’istanza proroga è accolta.
+§   Di conseguenza la detenzione preventiva cui
+è astretto
+__________
+è                                prorogata di 2
+(due) mesi, e meglio sino al
+27 gennaio 2010
+(
+compreso
+).
+2.
+Non si prelevano tasse e spese.
+3.
+La presente decisione è impugnabile davanti alla CRP,
+Lugano, entro 10 giorni dalla notifica.
+4.
+Intimazione:
+giudice
+Edy Meli
