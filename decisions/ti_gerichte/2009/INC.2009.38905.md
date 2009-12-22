@@ -1,0 +1,455 @@
+---
+decision_id: "ti_gerichte_INC.2009.38905"
+court: "TI Gerichte"
+court_id: "ti_gerichte"
+chamber: "INC"
+docket: "INC.2009.38905"
+decided: "2009-12-22"
+published: "2009-12-22"
+language: "it"
+source_url: "http://www.sentenze.ti.ch/cgi-bin/nph-omniscgi?OmnisPlatform=WINDOWS&WebServerUrl=www.sentenze.ti.ch&WebServerScript=/cgi-bin/nph-omniscgi&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,193.246.182.54:6000&Parametername=WWWTI&Schema=TI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=ITA&nF30_KEY=104052&nX40_KEY=4711174&nTrefferzeile=73&Template=results/document_ita.fiw"
+cites_law: ["switzerland/bund/acts/311.0/art-019.md", "switzerland/bund/acts/311.0/art-020.md", "switzerland/bund/acts/312.0/art-142.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-196.md"]
+---
+
+# TI Gerichte INC.2009.38905
+
+## Regeste
+
+Prove
+
+## Text
+
+Tessin Il Giudice dell'istruzione e dell'arresto 22.12.2009 INC.2009.38905
+Tessin Il Giudice dell'istruzione e dell'arresto 22.12.2009 INC.2009.38905
+Ticino Il Giudice dell'istruzione e dell'arresto 22.12.2009 INC.2009.38905
+
+Prove
+
+Incarto n.
+INC.2009.38905
+Lugano
+22 dicembre 2009
+In nome
+della Repubblica e Cantone
+del Ticino
+Il Giudice
+dell'istruzione e dell'arresto
+Edy
+Meli
+sedente
+per statuire sul reclamo presentato il 30 novembre 2009 da
+__________
+, attualmente detenuto
+patrocinato
+dall’Avv. __________, __________
+contro
+la decisione del 24 novembre 2009, emanata dal
+Procuratore pubblico Chiara Borelli, che rifiuta di ordinare una perizia
+psichiatrica (ex art. 20 CP) e di revocare il divieto di colloqui liberi tra
+l’accusato e la madre;
+viste le osservazioni del magistrato inquirente (9
+dicembre 2009) e quelle della parte civile (16 dicembre 2009);
+preso atto che la correa ha comunicato di non avere
+osservazioni (11/14 dicembre 2009);
+visto l’incarto MP __________;
+ritenuto e considerato
+in fatto ed in diritto
+1.
+__________ è stato arrestato il 15 agosto 2009 e nei
+suoi confronti è stata promossa l’accusa per le ipotesi di reato di cui agli
+artt. 111 CP, nella forma del tentativo, 122, 134 e anche 242 CP (doc. 1 e 2,
+inc. GIAR 389.2009.1), per fatti avvenuti lo stesso 15.8.2009 a danno di __________.
+Lo stesso giorno, sostanzialmente per lo stesso
+complesso di fatti, è pure stata arrestata la convivente del reclamante (__________)
+con le imputazioni di aggressione, lesioni gravi (tentate e consumate) e
+lesioni semplici (doc. 2 e 1, inc. GIAR 388.2009.1), poi estese all’ipotesi di
+“
+complicità in tentato omicidio, lesioni gravi
+” (AI 51).
+2.
+Oggetto del procedimento sono le circostanze così
+riassunte in altra decisione:
+“La sera del 15 agosto 2009, __________
+e il suo convivente __________ si sono presentati al domicilio di __________
+(ex marito dell’istante) a __________. A seguito di quanto successo in quel
+frangente, quest’ultimo ha dovuto essere ricoverato in quanto presentava
+lesioni da taglio, in particolare all’addome ed al viso (cfr. allegati al
+Rapporto d’arresto 16 agosto 2009 in inc. 389.2009.1).
+I due accusati fermati poco dopo i fatti
+(nei pressi della stazione FFS) hanno motivato il loro recarsi al domicilio di __________
+con la circostanza che una delle due figlie della qui istante (che si trovavano
+presso __________ quel giorno) avrebbe contattato telefonicamente la madre
+chiedendole di andarla a prendere perché “…
+il __________ l’aveva picchiata
+..”
+(verbale __________ 16.8.2009); di fatto, al momento in cui i due hanno
+raggiunto __________, le due bimbe erano già state riaccompagnate a __________
+(dove risiedono con la madre ed il convivente) dallo stesso __________.
+Dalle prime dichiarazioni raccolte,
+oltre all’evidente utilizzo di uno strumento da taglio, è pure stata segnalata
+la presenza di un martello (Verbale GIAR __________ 16.8.2009).”
+(GIAR 9.9.2009, 388.2009.3)
+Il 4 novembre 2009, le accuse nei confronti di __________
+sono state estese alle ipotesi di minaccia e lesioni semplici, sub. vie di
+fatto reiterate, per fatti avvenuti tra febbraio e marzo del 2009, a danno della convivente e coaccusata (AI 183).
+3.
+L’inchiesta si è sviluppata, per quanto si desume
+dall’elenco atti, mediante l’acquisizione di documentazione (medica, inerente
+il traffico telefonico, ecc.) e numerosi interrogatori di accusati, vittima e
+terzi. Ulteriori accertamenti (ispezione luoghi e ricerche) avrebbero permesso
+di rinvenire un martello, ma non lo strumento da taglio (preavviso, pag. 2).
+4.
+Con scritto del 21 ottobre 2009 (AI 162), la difesa di
+__________ ha richiesto l’erezione di una perizia psichiatrica in ragione di
+quanto emerge dallo scritto 14 settembre 2009 dello specialista in psichiatria __________,
+dalle notizie avute (fonte: la madre) circa le difficoltà vissute (violenza
+subita) durante l’infanzia dall’accusato, nonché ipotesi verbalmente formulate
+dallo stesso __________ circa la possibile origine delle divergenze tra quanto
+raccontato dal qui reclamante in fase d’inchiesta e quanto riferito dagli altri
+partecipanti (attivi o passivi) ai fatti.
+5.
+Il magistrato inquirente, dopo aver richiesto ed
+ottenuto un parere allo “
+psichiatra di riferimento
+” del carcere
+giudiziario, __________ (AI 163, 199), ha respinto la richiesta con la
+decisione qui impugnata (AI 200). Egli, in sintesi, ritiene non vi siano seri
+motivi di dubitare dell’imputabilità dell’accusato, sia per quanto asserito dal
+__________ (AI 199), sia per il fatto che lo stesso medico curante (__________)
+ha ritenuto la situazione migliorata prima dei fatti e, da ultimo, in quanto
+non ritiene le divergenze di versione indicate significative ai fini dei dubbi
+sull’imputabilità dell’accusato.
+Nello stesso scritto, il Procuratore pubblico nega la
+concessione di colloqui liberi tra il reclamante e la madre in ragione di un
+rischio di collusione con le minori (figlie della convivente), testi
+nell’inchiesta.
+6.
+In sede di reclamo (doc. 1, inc. GIAR 389.2009.5), la
+difesa di __________ ribadisce che la presa a carico da parte del Servizio
+socio-psichiatrico cantonale dal marzo 2009 e fino praticamente all’arresto,
+rispettivamente il contenuto specifico degli atti e rapporti prodotti da chi
+aveva in cura l’accusato sono sufficienti a far sorgere perlomeno dubbi sulla
+totale imputabilità di quest’ultimo (Reclamo, punti 6 e 8). In merito al parere
+del __________, rileva che non è chiaro cosa questi intenda affermando di “
+seguire
+”
+__________ sin dal 2 settembre 2009 e che non risulta siano stati effettuati
+atti d’indagine psichiatrica (colloqui, anamnesi, test; Reclamo, punto 7).
+Ribadisce, da ultimo, che gli elementi agli atti circa l’infanzia dell’accusato
+costituiscono ulteriori elementi di dubbio a giustificazione della necessità di
+un accertamento peritale (punto 9).
+Nella fase conclusiva dell’esposto di reclamo (punto
+13), la difesa si esprime pure sul rifiuto di concessione di colloqui liberi
+con la madre, chiedendone la concessione (petitum punto 1.2.), contestando che
+i messaggi che l’accusato voleva far pervenire alle minori avessero finalità
+collusive.
+7.
+Il magistrato inquirente, nelle sue osservazioni (doc.
+6, inc. GIAR 389.2009.5), ribadisce che la situazione descritta dai curanti
+presso il Servizio socio-psichiatrico hanno rilevato un miglioramento dello
+stato dell’accusato, con graduale sospensione dei farmaci. Inoltre, lo stesso
+accusato, dopo aver ripreso l’attività lavorativa, avrebbe interrotto la presa
+a carico “
+si presume
+” a fine luglio. Da ciò desume soluzione della sintomatologia
+manifestata all’inizio dell’anno (Osservazioni, pagg. 1 e 2).
+Nel contempo, sempre secondo l’inquirente, l’abuso di
+alcool presente all’inizio del trattamento non sarebbe più presente al momento
+dei fatti (l’accusato era sobrio) ed il consumo di cannabis è sì avvenuto ma in
+assenza di segni di dipendenza; idem per le crisi di convivenza (pag. 2).
+Inoltre ancora, mai si sarebbe prospettata la necessità di un ricovero per
+motivi psichiatrici.
+Quanto all’infanzia difficile, il magistrato
+inquirente non la nega, ma sottolinea come le versioni agli atti siano
+incongruenti con quanto asseritamente riferito alla difesa, comunque
+insufficienti a giustificare una perizia (pag. 2 e 3).
+Secondo l’inquirente, non si è confrontati con un caso
+evidente di persona con riscontro di problemi comportamentali sull’arco
+dell’intera infanzia, ricoveri e condanne ripetute, nonché dipendenza cronica
+da stupefacente (come quello di cui è questione in DTF 6S.257/2003) e neppure
+si può parlare del reclamante come di un alcoolista cronico o di persona la cui
+struttura mentale si scosta nettamente dalla media.
+Nulla è più detto in relazione al parere del __________,
+l’attesa del quale aveva condizionato la tempistica della decisione.
+In merito ai colloqui, il magistrato inquirente
+ribadisce rischio di collusione.
+Pure la parte civile chiede che il reclamo venga
+respinto per quanto concerne la perizia (doc. 8, inc. GIAR 389.2009.5).
+Dopo alcune considerazioni sulle modalità in cui sono
+stati riassunti i fatti, afferma che né nella dinamica degli stessi, né nel
+comportamento istruttorio dell’accusato, si riscontrano elementi di
+alterazione/turbamento (Osservazioni, punti 1 e 2). Nel contempo, ritiene che
+quanto raccontato dalla madre circa la difficile infanzia debba essere preso “
+con
+le pinze
+” (punto 3).
+8.
+Delle altre considerazioni/argomentazioni/indicazioni
+delle parti, si dirà, se del caso, nei considerandi che seguono.
+9.
+__________
+accusato nell’ambito
+del procedimento penale in esame e destinatario dell’atto impugnato, è
+certamente legittimato a presentare reclamo.
+Il reclamo è tempestivo.
+10.
+a)
+Tra le prove a disposizione delle autorità penali
+inquirenti e giudicanti vi è la perizia ossia il ricorso all'esperto specifico
+ogniqualvolta occorre stabilire fatti e circostanze all'accertamento dei quali
+siano indispensabili speciali cognizioni (art. 142 cpv. 1 CPP, nella sostanza
+ripreso dagli art. 96 cpv. 1 CPP/1942 e 96 cpv. 1 CPP/1993, per cui vale la
+giurisprudenza anteriore: v. REP 1997 n. 97, confermata dalla massima in REP
+1998 n. 113): nelle cennate prospettive, al magistrato penale è allora
+riservata ampia facoltà nella scelta delle prove e quindi anche in tema di
+referto peritale, ritenuta comunque e sempre perlomeno apparenza di utilità e
+pertinenza in connessione con la fattispecie inquisita, secondo le imputazioni
+ed in vista delle conclusioni di competenza del giudice penale, ed ancora
+congiuntamente (per riprendere con altre parole il testo di legge) che
+determinati fatti non siano ancora chiariti o sufficientemente chiariti o
+chiaribili attraverso altri mezzi di prova e che il magistrato non abbia le
+specifiche conoscenze professionali per giungere a tali accertamenti (v.
+decisione 19 aprile 1995 in re C.J., GIAR 695.94.2, e riferimenti).
+b)
+Per meritare di venire assunte, le prove proposte
+dalle parti contestualmente al deposito atti (art. 196 CPP) o in altro momento
+dell’istruttoria (artt. 60 cpv. 1 e 79 cpv. 1 CPP) devono rispettare tre
+concorrenti ordini di considerazioni: esse devono essere motivate per quanto
+attiene al loro oggetto ed al loro scopo in diretta connessione con la
+fattispecie inquisita; tali mezzi di prova devono avere i requisiti della
+novità, della rilevanza e della pertinenza alle successive conclusioni di
+competenza del Procuratore pubblico, dapprima per decidere se promuovere
+l’accusa oppure non far luogo al procedimento e poi eventualmente - dopo
+definitiva conclusione dell’istruzione formale - se decretare messa in stato di
+accusa o abbandono, sino se del caso a quelle del giudice di merito; per
+quest’ultima evenienza, le stesse prove devono essere di difficile produzione
+al dibattimento, avute presenti le finalità dell’art. 189 CPP, inteso appunto
+tra l’altro ad assicurarne la non interrotta assunzione (v. sentenza 24 gennaio
+1990, inc. CRP 337/89; v. decisioni 17 febbraio 1993 in re L.P., inc. GIAR 135.93.1; 3 novembre 1993 in re G.G., inc. GIAR 862.93.1, e 14 giugno 1995 in re F.M., inc. GIAR 1093.93.5).
+Quest’ultimo elemento è palesemente a favore
+dell’assunzione in fase istruttoria dei referti peritali (ovviamente, qualora
+necessari).
+c)
+Va, inoltre, ricordato, che l’art. 19 CP in vigore dal
+1.1.2007,non fa più alcun riferimento ai concetti di malattia mentale o sanità
+mentale contenuti negli artt. 10 e 11 vCP. Il progetto del Consiglio federale
+li ha sostituiti con il concetto di “
+turba psichica
+” (“
+La nozione di
+turba psichica comprende segnatamente turbe di natura organica nonché turbe
+della personalità, del comportamento e dello sviluppo, ma anche i casi di stato
+psichico anomalo temporaneo, che rientra oggi nel concetto di turba della
+coscienza
+” Messaggio del 21 settembre 1998 n. 212.41) che deve essere “
+grave
+”
+(“
+…scostarsi nettamente dalla media - rispetto non soltanto agli altri
+soggetti giuridici ma anche e soprattutto agli altri criminali -…
+”,
+ibidem).
+Il legislativo, in sede di approvazione della legge,
+ha eliminato anche il riferimento alla turba psichica, a quanto pare per
+l’imprecisione del concetto e ponendo l’accento sullo stato effettivo al
+momento dell’atto (cfr. A. Kuhn/L. Moreillon/ B. Videraz/ A. Bichovsky, La
+nouvelle partie générale du Code pénal suisse, Berna 2006, pag. 75/76 e note).
+Il nuovo CP ha modificato pure la norma relativa ai
+compiti del perito ritenendo che il cpv. 2 dell’art. 13 vCP dava adito a confusione:
+il perito, esaminato lo stato psichico della persona in questione e determinata
+la eventuale turba deve indicare se la turba in questione è in grado di
+alterare la consapevolezza e/o la volontà di quest’ultimo di commettere il
+reato “
+spetta di contro unicamente al giudice trarre le conclusioni
+giuridiche dai fatti che considererà come accertati e decidere se vi sia una
+riduzione dell’imputabilità e/o sia necessario ordinare una misura. Nella sua
+decisione, il giudice non è vincolato all’esame del perito. Potrà segnatamente
+prescindere dalla perizia in caso la stessa si riveli contraddittoria o qualora
+una determinata affermazione del perito confuti punti essenziali della perizia
+medesima
+” (Messaggio citato, n. 212.43).
+Quali siano le conseguenze concrete di questa diversa
+impostazione, per rapporto alla prassi (peritale) del vecchio diritto, sarà la
+giurisprudenza di merito a definirlo.
+Per quanto qui interessa si può comunque desumere che
+maggior spazio è lasciato al perito (se nominato ex art. 20) per ricercare ed
+individuare gli elementi (sempre scientifici e tecnici) che possono influire
+sulla determinazione della responsabilità, non limitandosi (se ancora lo si
+faceva) a quelli specificamente indicati dal vecchio diritto (artt. 10 e 11
+vCP).
+Secondo l’art. 20, il magistrato inquirente o
+giudicante ordina una perizia quando vi sono “
+seri motivi per dubitare
+”
+dell’imputabilità (integrale, in quanto è questa ad essere presunta: DTF 106 IV
+241) dell’accusato.
+Richiamato il fatto che, in ogni singola fattispecie,
+l’esistenza o meno di circostanze concrete, serie, ed idonee a far sorgere dei
+dubbi è innanzitutto questione di apprezzamento, dottrina e giurisprudenza
+hanno indicato alcune situazioni e criteri (basati sull’art. 13 vCP, ripreso
+dall’art. 20 CP) cui è possibile far riferimento:
+“2.
+…omissis…
+c)
+Ribadite in entrata la libertà di principio e
+l’autonomia del magistrato inquirente nell’assunzione delle prove e nella
+valutazione della completezza dell’istruttoria predibattimentale, va precisato che
+in tema di perizia psichiatrica il codice di rito si limita a prevedere la
+possibilità di tale accertamento, le condizioni sostanziali per procedere in
+tal senso essendo circoscritte all’art. 13 CPS (così in decisione 5 gennaio 2000 in re R., inc. Giar 531.99.3 p. 3). Quest’ultima norma impone (v.
+Stefan Trechsel
+,
+Kurzkommentar StGB, 2. Aufl. Zürich 1997, nota 1 ad art. 13 CPS;
+Favre/Pellet/Stoudmann
+,
+Code pénal annoté, Lausanne 1997, nota 1.2 ad art. 13 CPS) di procedere alla
+perizia qualora il magistrato “
+si trovi in dubbio
+” circa la
+responsabilità dell’imputato (art. 13 cpv. 1 CPS). Deve tuttavia sussistere un
+motivo sufficiente per dubitare (DTF 116 IV 274;
+Trechsel
+, loc. cit.,
+nota 2 ad art. 13 CPS): ad esempio un comportamento del tutto inusuale o in
+contraddizione con la personalità dell’autore, pregresso trattamento
+psichiatrico oppure evidenza agli atti di disturbi connessi, una scemata
+responsabilità già riconosciuta in precedenza (v.
+Trechsel
+, loc. cit.,
+note 2 e 10 ad art. 13 CPS, con rinvii;
+Favre/Pellet/Stoudmann,
+ibid.).
+d)
+…omissis…
+e)
+L’art. 13 CPS dispone che il principio “
+in dubio
+pro reo
+” non si applica per determinare la responsabilità dell’accusato. La
+piena responsabilità è presunta e l’irresponsabilità o la responsabilità
+scemata possono essere ammesse solo se il giudice è convinto che le condizioni
+legali sono adempiute (BJP 1987 n. 251, JT 1981 III 148). A norma del cpv 2
+art. 13 CPS, se sussiste un
+serio dubbio
+sulla responsabilità
+dell’accusato al momento dei fatti, il giudice deve di principio ordinare una
+perizia psichiatrica, che dovrà ugualmente analizzare il grado di diminuzione
+della responsabilità (DTF 106 IV 241 cons. 1b). Secondo la giurisprudenza, sono
+varie le circostanze che debbono condurre al dubbio: una malattia della pelle
+grave, di natura allergica o psicosomatica, che è apparsa al momento in cui
+furono commessi i fatti (DTF 118 IV 6), l'esistenza di un precedente rapporto
+peritale che solleva dubbi sullo sviluppo psichico futuro dell’accusato (DTF
+116 IV 273), il fatto di avere una figlia affetta da schizofrenia evolutiva
+(DTF 98 IV 156), la dipendenza da droghe (ATF 116 IV 273, 106 IV 241) o
+l'essere colpiti da una grave depressione (BJP 1990 n. 682). Queste situazioni,
+di regola impongono il dubbio sulla responsabilità al momento dei fatti se sono
+presenti prima degli stessi (sentenza 26 febbraio 2003 in re R., GIAR 235.2002.3).”
+(GIAR 2.12.2003, 396.2003.3)
+Quanto sopra va ora letto ed interpretato in ragione della definizione
+più ampia contenuta dall’art. 19 CP, per rapporto ai precedenti 10 e 11 vCP.
+d)
+A giudizio dello scrivente, ad ingenerare dubbi in merito alla completa
+imputabilità dell’accusato potrebbe bastare il fatto che egli fosse in cura
+presso uno psichiatra ed una psicologa, sostanzialmente per una depressione
+(cura assistita mediante la somministrazione di farmaci) prima dei fatti e in
+pratica, fino agli stessi (non è chiara, né é stata chiarita, la data
+dell’ultimo colloquio: cfr. AI 146 che fa riferimento al 31.8.2009), e con lo
+psichiatra curante che sottolinea come i colloqui di sostegno e le visite di
+controllo avrebbero dovuto continuare per alcuni mesi (AI 154).
+Nel contempo risulta che poco prima e dopo la presa a carico,
+l’accusato avrebbe avuto manifestazioni violente, nei confronti della
+convivente (AI 183), rispettivamente della madre (cfr. inc. NLP __________),
+nonché abusi di alcool (non necessariamente risolti dall’accertamento che al
+momento dei fatti non era sotto l’influsso di tale sostanza).
+Inoltre, par di comprendere che __________ sia stato in qualche modo
+seguito da uno psichiatra anche in carcere e dal 2 settembre 2009 (cfr. AI
+199); del relativo parere si dirà nel punto seguente.
+e)
+Lo stesso magistrato inquirente, ricevuta l’istanza fondata
+sostanzialmente su quanto emerge dagli AI 146 e 154, non ha ritenuto di poterla
+evadere sulla base di quanto acquisito agli atti, bensì ha ritenuto di doversi
+rivolgere al __________ (AI 163) che ha poi riferito di non aver osservato una
+“
+patologia psichica maggiore
+” (AI 199).
+Ora, prima ancora di interrogarsi sul concetto di patologia psichica
+maggiore (la cui assenza, comunque non esclude automaticamente possibile
+scemata responsabilità: Assise criminali 30.4.2008, 72.2008.12 pag. 175) per
+rapporto ai concetti cui fa riferimento l’art. 19 CP nonché sulla sufficienza
+della metodologia adottata per giungere a tale conclusione (cfr. punto c. del
+presente considerando, reclamo punto 7, nonché DTF 24.2.2000, 1P.53/2000, e DTF
+113 IV 3 per analogia), è indubbio che al __________ è stato chiesto una sorta
+di parere (peritale?) al fine di dissipare o confermare i dubbi (che quindi
+erano presenti), se non sulla capacità dell’accusato, perlomeno sulla necessità
+di accertarla peritalmente.
+f)
+La storia recente (ma anche quella meno prossima) dell’accusato
+evidenzia più di un elemento che si ritrova tra quelli indicati dalla
+giurisprudenza come “
+indizi sufficienti per ordinare una perizia
+” (cfr.
+M. Branda, La perizia psichiatrica secondo l’art. 20 CP, in Le perizie
+giudiziarie, CFPG 2007, pagg. 125 ss., pag. 132/133; cfr., inoltre ed in
+particolare, DTF 116 IV 273 e BJP 1990, 682). Pur non potendosi escludere che
+ognuno di questi, considerato da solo, possa risultare al limite della soglia
+per ordinare la perizia, il possibile cumulo consiglia (quando non impone) di
+ritenere che la soglia sia superata e ciò nel rispetto anche di proporzionalità
+vista la particolare gravità dei reati ascritti (e la giurisprudenza cantonale
+non è priva di casi in cui l’assenza di elementi evidenti non ha impedito di ordinare
+la perizia: Assise criminali 6.11.2004, 72.2004.35).
+g)
+Nel caso in esame, esistono elementi concreti atti a dubitare dello
+stato di imputabilità dell’accusato, con conseguente necessità (obbligo) di
+procedere all’erezione di una perizia al fine di dissipare (o confermare) tali
+dubbi.
+11.
+Alla luce della conclusione in merito alla perizia, la questione dei
+colloqui liberi con la madre può essere risolta senza approfondire più di tanto
+la fondatezza o meno dei fatti e delle argomentazioni su cui si basa la
+decisione impugnata. Infatti, il perito dovrà verosimilmente procedere alla
+raccolta di dati anamnestici anche in relazione a fatti relativi all’infanzia e
+adolescenza dell’accusato e non è escluso che per farlo compiutamente debba
+interpellare anche persone vicine all’accusato ed in particolare la madre. In
+considerazione del fatto che, già allo stato attuale, le indicazioni relative
+all’infanzia/adolescenza dell’accusato danno luogo a discussioni circa il detto
+ed il non detto, rispettivamente circa il detto in sede d’inchiesta ed il detto
+in altri ambiti (cfr. AI 162, pag. 1 in fine e pag. 2 prima parte; Reclamo,
+punto 7 pag. 4; Osservazioni PP, ad. 11), appare opportuno che fino ad
+espletamento delle eventuali necessità peritali i colloqui tra l’accusato e la
+madre rimangano sorvegliati.
+12.
+In conclusione ed in virtù di tutto quanto esposto nei considerandi che
+precedono, le condizioni per ordinare una perizia ai sensi dell’art. 20 CP sono
+ritenute presenti (con invito al magistrato inquirente a procedere
+indilatamente alla nomina del perito e alla posa dei quesiti peritali, visto lo
+stato di privazione della libertà personale); nel contempo, non sono ritenute
+(attualmente) presenti le condizioni per la concessione dei colloqui liberi, il
+reclamante potendo comunque continuare ad usufruire di quelli sorvegliati.
+Tasse e spese seguono la soccombenza.
+P.Q.M.
+richiamati gli artt. 111, 122, 123, 134, 242, 19, 20 CP, 142, 280, 284
+(e contrario) CPP,
+decide
+1.
+Il reclamo è parzialmente accolto.
+Di conseguenza:
+1.1.   la decisione 24
+novembre 2009 del Procuratore pubblico, laddove rifiuta l’erezione di una
+perizia psichiatrica (ex art. 20 CP) è annullata e al Procuratore pubblico è
+fatto ordine di predisporre l’esperimento di una perizia psichiatrica nei
+confronti di __________;
+1.2.   la decisione 24
+novembre 2009 del Procuratore pubblico, laddove rifiuta la concessione di
+colloqui liberi tra l’accusato e la madre è confermata.
+2.
+La tassa di giustizia, fissata in
+FRS 800.-, e le spese di FRS 180.-, sono a carico dello Stato nella misura di ¾
+e dell’accusato per il rimanente; lo Stato rifonderà all’accusato FRS 420.- a
+titolo di parziali ripetibili.
+3.
+Contro la presente non sono dati
+rimedi di diritto ordinari a livello cantonale, restano riservate le
+possibilità offerte dalla LTF.
+4.   Intimazione (con copia delle osservazioni delle parti) a:
+giudice
+Edy Meli
