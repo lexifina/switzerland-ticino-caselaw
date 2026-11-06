@@ -1,5 +1,7 @@
 # Swiss case law: Ticino (cantonal courts and bodies)
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of Ticino, Switzerland, which global-law reads at `switzerland/ticino/caselaw/`.
+
 Every published decision of these courts and bodies as a git history: one file per decision, one commit per decision,
 dated the day it was decided. 61,513 decisions from 1922-05-07 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `switzerland/ticino/caselaw`.
